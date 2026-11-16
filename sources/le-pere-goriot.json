@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-pere-goriot",
+  "title": "Le Père Goriot",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Père Goriot (1910), édition de Wikisource (parties I et IV, les deux bouts)",
+  "pages": [
+    {
+      "title": "Le Père Goriot (1910)/I",
+      "revisionId": 11916318
+    },
+    {
+      "title": "Le Père Goriot (1910)/IV",
+      "revisionId": 11916324
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "281e9d4199b28a309f49c851c659f491062217cbc2ce3198b6af37d79663cb56",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Madame Vauquer, née de Conflans, est une vieille femme qui, "
+  },
+  "bodyEnd": {
+    "id": "p00892",
+    "textPrefix": "Et pour premier acte du défi qu’il portait à la Société, Ras"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, dédicace à Geoffroy Saint-Hilaire, nom de l'auteur (p1-p3) et la mention de lieu et de date « Saché, septembre 1834 » (p893)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

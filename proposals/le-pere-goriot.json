@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-pere-goriot",
+  "title": "Le Père Goriot",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Père Goriot (1910), édition de Wikisource (parties I et IV, les deux bouts)",
+    "pages": [
+      {
+        "title": "Le Père Goriot (1910)/I",
+        "revisionId": 11916318
+      },
+      {
+        "title": "Le Père Goriot (1910)/IV",
+        "revisionId": 11916324
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "281e9d4199b28a309f49c851c659f491062217cbc2ce3198b6af37d79663cb56"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Madame Vauquer, née de Conflans, est une vieille femme qui, depuis quarante ans, tient à Paris une pension bourgeoise établie rue Neuve-Sainte-Geneviève, entre le quartier latin et le faubourg Saint-Marcel. Cette pension, connue sous le nom de la maison Vauquer, admet également des hommes et des femmes, des jeunes gens et des vieillards, sans que jamais la médisance ait attaqué les mœurs de ce respectable établissement.",
+    "original": "Madame Vauquer, née de Conflans, est une vieille femme qui, depuis quarante ans, tient à Paris une pension bourgeoise établie rue Neuve-Sainte-Geneviève, entre le quartier latin et le faubourg Saint-Marcel. Cette pension, connue sous le nom de la maison Vauquer, admet également des hommes et des femmes, des jeunes gens et des vieillards, sans que jamais la médisance ait attaqué les mœurs de ce respectable établissement.",
+    "length": 423,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00890.s2",
+      "p00890.s3",
+      "p00892.s1"
+    ],
+    "french": "Ses yeux s’attachèrent presque avidement entre la colonne de la place Vendôme et le dôme des Invalides, là où vivait ce beau monde dans lequel il avait voulu pénétrer. Il lança sur cette ruche bourdonnante un regard qui semblait par avance en pomper le miel, et dit ces mots grandioses :\n— À nous deux maintenant !\nEt pour premier acte du défi qu’il portait à la Société, Rastignac alla dîner chez madame de Nucingen.",
+    "original": "Ses yeux s’attachèrent presque avidement entre la colonne de la place Vendôme et le dôme des Invalides, là où vivait ce beau monde dans lequel il avait voulu pénétrer. Il lança sur cette ruche bourdonnante un regard qui semblait par avance en pomper le miel, et dit ces mots grandioses :\n— À nous deux maintenant !\nEt pour premier acte du défi qu’il portait à la Société, Rastignac alla dîner chez madame de Nucingen.",
+    "length": 417,
+    "truncated": false
+  }
+}
