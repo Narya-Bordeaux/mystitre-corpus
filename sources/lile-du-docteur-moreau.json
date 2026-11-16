@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lile-du-docteur-moreau",
+  "title": "L’Île du docteur Moreau",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Island of Doctor Moreau (1896), chapitre I et chapitre XXII, d'après Wikisource (imprimé chez John Wilson and Son, University Press, Cambridge, pour Stone and Kimball, mai 1896, d'après la note finale de la page)",
+  "pages": [
+    {
+      "title": "The Island of Doctor Moreau (1896)/Chapter 1",
+      "revisionId": 12150370
+    },
+    {
+      "title": "The Island of Doctor Moreau (1896)/Chapter 22",
+      "revisionId": 12150384
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c2b16087ebf22437857130073bc8c81b7a6a0e07ba506ecfe7e6862bec5a4d8e",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "I DO not propose to add anything to what has already been wr"
+  },
+  "bodyEnd": {
+    "id": "p00022",
+    "textPrefix": "Edward Prendick."
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, sous-titre, numéro et titre du chapitre I, note finale de l'éditeur et mention d'imprimeur. Gardé : la signature « Edward Prendick. » du narrateur fictif, qui clôt le récit. Les intitulés du chapitre XXII restent dans le corps du texte, hors extraits."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
