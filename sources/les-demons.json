@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-demons",
+  "title": "Les Démons",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Possédés, traduction de Victor Derély, Plon, Paris, 1886 (pages Wikisource « Les Possédés/Première Partie/1 » et « Les Possédés/Troisième Partie/8 »)",
+  "pages": [
+    {
+      "title": "Les Possédés/Première Partie/1",
+      "revisionId": 2888628
+    },
+    {
+      "title": "Les Possédés/Troisième Partie/8",
+      "revisionId": 2890022
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "5d678238b0c3ed55bd08c9d9901481d62352e887d862148093ed54d041d99925",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Pour raconter les événements si étranges survenus dernièreme"
+  },
+  "bodyEnd": {
+    "id": "p00093",
+    "textPrefix": "Après l’autopsie du cadavre, nos médecins ont complètement é"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1886,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Début au premier paragraphe du récit, après les titres de partie et de chapitre et le sous-titre « en guise d'introduction : … » (p00003, en minuscules, exclu) ; fin avant la mention « FIN » (p00094). Les épigraphes de l'original (Pouchkine, Évangile de Luc) ne figurent pas dans les pages enregistrées."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
