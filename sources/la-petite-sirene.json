@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-petite-sirene",
+  "title": "La Petite Sirène",
+  "host": "da.wikisource.org",
+  "sourceLanguage": "da",
+  "edition": "édition non indiquée (page « Den lille Havfrue » de da.wikisource)",
+  "pages": [
+    {
+      "title": "Den lille Havfrue",
+      "revisionId": 68236
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "18d23bb1e16e0ba2fd7f207c7deb60ddc6f626bacf732b0e16194b8e81d4400d",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Langt ude i Havet er Vandet saa blaat, som Bladene paa den d"
+  },
+  "bodyEnd": {
+    "id": "p00091",
+    "textPrefix": "“Ogsaa tidligere kunne vi komme der!” hviskede een. “Usynlig"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "da"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Rien d'exclu : la page commence au premier paragraphe du conte et finit sur la dernière réplique (les filles de l'air). Titre, en-tête et styles déjà retirés par le nettoyage."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

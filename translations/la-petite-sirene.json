@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-petite-sirene",
+  "sourceLanguage": "da",
+  "cleanTextSha256": "18d23bb1e16e0ba2fd7f207c7deb60ddc6f626bacf732b0e16194b8e81d4400d",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Langt ude i Havet er Vandet saa blaat, som Bladene paa den deiligste Kornblomst og saa klart, som det reneste Glas, men det er meget dybt, dybere end noget Ankertoug naaer, mange Kirketaarne maatte stilles ovenpaa hinanden, for at række fra Bunden op over Vandet.",
+      "translation": "Au large, dans la mer, l'eau est bleue comme les pétales du plus beau des bleuets, et claire comme le verre le plus pur ; mais elle est très profonde, plus profonde qu'aucun câble d'ancre ne peut descendre, et il faudrait empiler bien des clochers d'église les uns sur les autres pour aller du fond jusqu'à la surface."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Dernede boe Havfolkene.",
+      "translation": "C'est là en bas que vit le peuple de la mer."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "Nu maa man slet ikke troe, at der kun er den nøgne hvide Sandbund; nei, der voxe de forunderligste Træer og Planter, som ere saa smidige i Stilk og Blade, at de ved den mindste Bevægelse af Vandet røre sig, ligesom om de vare levende.",
+      "translation": "Il ne faut surtout pas croire qu'il n'y ait là que le sable blanc et nu ; non, il y pousse les arbres et les plantes les plus merveilleux, si souples de tige et de feuille qu'au moindre mouvement de l'eau ils s'agitent comme s'ils étaient vivants."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Alle Fiskene, smaae og store, smutte imellem Grenene, ligesom heroppe Fuglene i Luften.",
+      "translation": "Tous les poissons, petits et grands, se faufilent entre les branches, comme les oiseaux, là-haut chez nous, dans l'air."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Paa det allerdybeste Sted ligger Havkongens Slot, Murene ere af Coraller og de lange spidse Vinduer af det allerklareste Rav, men Taget er Muslingskaller, der aabne og lukke sig, eftersom Vandet gaaer; det seer deiligt ud; thi i hver ligge straalende Perler, een eneste vilde være stor Stads i en Dronnings Krone.",
+      "translation": "Au point le plus profond se dresse le château du roi de la mer : les murs sont de corail, les hautes fenêtres pointues du plus clair des ambres, mais le toit est fait de coquilles de moules qui s'ouvrent et se ferment selon le mouvement de l'eau ; c'est une splendeur, car chacune renferme des perles brillantes, et une seule serait déjà un grand ornement pour la couronne d'une reine."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00089.s3",
+      "original": "Usynlig kyssede hun Brudens Pande, smiilte til ham og steeg med de andre Luftens Børn op paa den rosenrøde Sky, som seilede i Luften.",
+      "translation": "Invisible, elle embrassa le front de la mariée, sourit au prince, et s'éleva avec les autres enfants de l'air sur le nuage rose qui voguait dans les cieux."
+    },
+    {
+      "id": "p00090.s1",
+      "original": "“Om trehundrede Aar svæve vi saaledes ind i Guds Rige!”",
+      "translation": "« Dans trois cents ans, c'est ainsi que nous entrerons en flottant dans le royaume de Dieu ! »"
+    },
+    {
+      "id": "p00091.s1",
+      "original": "“Ogsaa tidligere kunne vi komme der!” hviskede een.",
+      "translation": "« Nous pouvons y entrer plus tôt ! » murmura l'une d'elles."
+    },
+    {
+      "id": "p00091.s2",
+      "original": "“Usynligt svæve vi ind i Menneskenes Huse, hvor der er Børn, og for hver Dag vi finde et godt Barn, som gjør sine Forældre Glæde og fortjener deres Kjærlighed, forkorter Gud vor Prøvetid.",
+      "translation": "« Invisibles, nous pénétrons dans les maisons des hommes où il y a des enfants, et chaque jour où nous trouvons un enfant sage, qui fait la joie de ses parents et mérite leur affection, Dieu raccourcit notre temps d'épreuve."
+    },
+    {
+      "id": "p00091.s3",
+      "original": "Barnet veed ikke, naar vi flyve gjennem Stuen, og maae vi da af Glæde smile over det, da tages et Aar fra de tre hundrede, men see vi et uartigt og ondt Barn, da maae vi græde Sorgens Graad, og hver Taare lægger en Dag til vor Prøvetid!”",
+      "translation": "L'enfant ne sait pas quand nous traversons la pièce, et si, de joie, nous lui sourions, une année est retranchée des trois cents ; mais si nous voyons un enfant mutin et méchant, il nous faut pleurer des larmes de chagrin, et chaque larme ajoute un jour à notre temps d'épreuve ! »"
+    },
+    {
+      "id": "p00091.s4",
+      "original": "—",
+      "translation": "—"
+    }
+  ]
+}
