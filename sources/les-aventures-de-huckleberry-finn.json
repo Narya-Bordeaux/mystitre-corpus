@@ -1,0 +1,30 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-aventures-de-huckleberry-finn",
+  "title": "Les Aventures de Huckleberry Finn",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Adventures of Huckleberry Finn (1884), en.wikisource.org (premier et dernier chapitre seulement)",
+  "pages": [
+    {
+      "title": "The Adventures of Huckleberry Finn (1884)/Chapter 1",
+      "revisionId": 11174516
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn (1884)/Chapter 43",
+      "revisionId": 11318911
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2c384ed527aa8ef2c4f3c28f6cde54bfe87005dbc5aad346169ad03221359b66",
+  "bodyStart": null,
+  "bodyEnd": null,
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [],
+  "titleMasks": [],
+  "readingOptions": []
+}
