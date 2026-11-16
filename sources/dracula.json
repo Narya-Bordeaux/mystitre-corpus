@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "dracula",
+  "title": "Dracula",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Dracula, Wikisource anglais (édition non précisée), chapitres 1 et 27",
+  "pages": [
+    {
+      "title": "Dracula/Chapter 1",
+      "revisionId": 10186840
+    },
+    {
+      "title": "Dracula/Chapter 27",
+      "revisionId": 6182815
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c2c854c02c3804638fd824c91c70be2d0a94218da001a4a12a5a7c547706bdfc",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "3 May. Bistritz.—Left Munich at 8:35 p. m., on 1st May, arri"
+  },
+  "bodyEnd": {
+    "id": "p00116",
+    "textPrefix": "Jonathan Harker."
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, numéro de chapitre, intitulé « Jonathan Harker's Journal » et mention « Kept in shorthand » (paratexte d'édition), « THE END ». Gardés : la Note finale de Harker, avec sa signature de narrateur fictif."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

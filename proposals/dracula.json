@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "dracula",
+  "title": "Dracula",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Dracula, Wikisource anglais (édition non précisée), chapitres 1 et 27",
+    "pages": [
+      {
+        "title": "Dracula/Chapter 1",
+        "revisionId": 10186840
+      },
+      {
+        "title": "Dracula/Chapter 27",
+        "revisionId": 6182815
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c2c854c02c3804638fd824c91c70be2d0a94218da001a4a12a5a7c547706bdfc"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3"
+    ],
+    "french": "3 mai. Bistritz. — Quitté Munich à 20 h 35, le 1er mai, arrivé à Vienne tôt le lendemain matin ; j'aurais dû arriver à 6 h 46, mais le train avait une heure de retard. Budapest semble une ville merveilleuse, d'après le coup d'œil que j'en ai eu depuis le train et le peu que j'ai pu parcourir de ses rues.",
+    "original": "3 May. Bistritz.—Left Munich at 8:35 p. m., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late. Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets.",
+    "length": 305,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00114.s5",
+      "p00115.s1",
+      "p00115.s2",
+      "p00116.s1"
+    ],
+    "french": "Van Helsing résuma tout cela en disant, notre garçon sur les genoux :\n« Nous ne voulons pas de preuves ; nous ne demandons à personne de nous croire ! Ce garçon saura un jour quelle femme brave et vaillante est sa mère. Dès à présent il connaît sa douceur et ses soins affectueux ; plus tard il comprendra comment certains hommes l'ont tant aimée qu'ils ont beaucoup osé pour elle. »\nJonathan Harker.",
+    "original": "Van Helsing summed it all up as he said, with our boy on his knee:—\n\"We want no proofs; we ask none to believe us! This boy will some day know what a brave and gallant woman his mother is. Already he knows her sweetness and loving care; later on he will understand how some men so loved her, that they did dare much for her sake.\"\nJonathan Harker.",
+    "length": 400,
+    "truncated": false
+  }
+}
