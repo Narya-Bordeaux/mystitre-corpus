@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lidiot",
+  "title": "L'Idiot",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Идиот (Достоевский), texte russe de Wikisource (pages « Часть I/Глава I » et « Часть IV/Глава XII »)",
+  "pages": [
+    {
+      "title": "Идиот (Достоевский)/Часть I/Глава I",
+      "revisionId": 5640626
+    },
+    {
+      "title": "Идиот (Достоевский)/Часть IV/Глава XII",
+      "revisionId": 357230
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ec2bed6fdf682a689c7d0dfcbfe4c07f4984f0dea8b67720bea28006ca27629d",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "В конце ноября, в оттепель, часов в девять утра, поезд Петер"
+  },
+  "bodyEnd": {
+    "id": "p00091",
+    "textPrefix": "Лебедев, Келлер, Ганя, Птицын и многие другие лица нашего ра"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclut la date de rédaction signée de l'auteur (« 17-го января. 1869. », p00092), qui n'appartient pas au récit. Le début est le premier paragraphe du chapitre I."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "lidiot",
+  "title": "L'Idiot",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ru.wikisource.org",
+    "edition": "Идиот (Достоевский), texte russe de Wikisource (pages « Часть I/Глава I » et « Часть IV/Глава XII »)",
+    "pages": [
+      {
+        "title": "Идиот (Достоевский)/Часть I/Глава I",
+        "revisionId": 5640626
+      },
+      {
+        "title": "Идиот (Достоевский)/Часть IV/Глава XII",
+        "revisionId": 357230
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ec2bed6fdf682a689c7d0dfcbfe4c07f4984f0dea8b67720bea28006ca27629d"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2"
+    ],
+    "french": "Vers la fin de novembre, par un temps de dégel, vers neuf heures du matin, le train de la ligne Pétersbourg-Varsovie approchait de Pétersbourg à toute vapeur. Il faisait si humide et si brumeux que le jour s’était à peine levé ; à dix pas, à droite et à gauche de la voie, on avait peine à distinguer quoi que ce soit par les fenêtres des wagons.",
+    "original": "В конце ноября, в оттепель, часов в девять утра, поезд Петербургско-Варшавской железной дороги на всех парах подходил к Петербургу. Было так сыро и туманно, что насилу рассвело; в десяти шагах, вправо и влево от дороги, трудно было разглядеть хоть что-нибудь из окон вагона.",
+    "length": 346,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00091.s28",
+      "p00091.s29"
+    ],
+    "french": "« Assez de ces engouements, il est temps de servir aussi la raison. Tout cela, toute cette vie à l’étranger, toute cette Europe qui est la vôtre, tout cela n’est qu’une chimère, et nous tous, à l’étranger, une chimère… souvenez-vous de mes paroles, vous le verrez ! » conclut-elle presque avec colère en prenant congé d’Eugène Pavlovitch.",
+    "original": "«Довольно увлекаться-то, пора и рассудку послужить. И всё это, и вся эта заграница, и вся эта ваша Европа, всё это одна фантазия, и все мы, за границей, одна фантазия… помяните мое слово, сами увидите!» заключила она чуть не гневно, расставаясь с Евгением Павловичем.",
+    "length": 338,
+    "truncated": false
+  }
+}

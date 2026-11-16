@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "lidiot",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "ec2bed6fdf682a689c7d0dfcbfe4c07f4984f0dea8b67720bea28006ca27629d",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "В конце ноября, в оттепель, часов в девять утра, поезд Петербургско-Варшавской железной дороги на всех парах подходил к Петербургу.",
+      "translation": "Vers la fin de novembre, par un temps de dégel, vers neuf heures du matin, le train de la ligne Pétersbourg-Varsovie approchait de Pétersbourg à toute vapeur."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Было так сыро и туманно, что насилу рассвело; в десяти шагах, вправо и влево от дороги, трудно было разглядеть хоть что-нибудь из окон вагона.",
+      "translation": "Il faisait si humide et si brumeux que le jour s’était à peine levé ; à dix pas, à droite et à gauche de la voie, on avait peine à distinguer quoi que ce soit par les fenêtres des wagons."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Из пассажиров были и возвращавшиеся из-за границы; но более были наполнены отделения для третьего класса, и всё людом мелким и деловым, не из очень далека.",
+      "translation": "Parmi les voyageurs, il y en avait qui revenaient de l’étranger ; mais les compartiments de troisième classe étaient plus remplis, et de gens menus et occupés, qui ne venaient pas de très loin."
+    },
+    {
+      "id": "p00001.s4",
+      "original": "Все, как водится, устали, у всех отяжелели за ночь глаза, все назяблись, все лица были бледножелтые, под цвет тумана.",
+      "translation": "Tous, comme il se doit, étaient fatigués, tous avaient les yeux alourdis par la nuit, tous étaient transis, tous avaient le visage d’un jaune pâle, couleur du brouillard."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "В одном из вагонов третьего класса, с рассвета, очутились друг против друга, у самого окна, два пассажира, — оба люди молодые, оба почти налегке, оба не щегольски одетые, оба с довольно замечательными физиономиями, и оба пожелавшие, наконец, войти друг с другом в разговор.",
+      "translation": "Dans l’un des wagons de troisième classe, depuis l’aube, deux voyageurs se trouvaient face à face, tout contre la fenêtre — deux jeunes gens, tous deux presque sans bagage, tous deux vêtus sans élégance, tous deux de physionomie assez remarquable, et tous deux désireux, enfin, d’entrer en conversation."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00091.s27",
+      "original": "Бедной Лизавете Прокофьевне хотелось бы в Россию и, по свидетельству Евгения Павловича, она желчно и пристрастно критиковала ему всё заграничное: «хлеба нигде испечь хорошо не умеют, зиму, как мыши в подвале, мерзнут», говорила она, — «по крайней мере вот здесь, над этим бедным, хоть по-русски поплакала», прибавила она, в волнении указывая на князя, совершенно ее не узнававшего.",
+      "translation": "La pauvre Elisabeth Prokofievna aurait voulu rentrer en Russie et, au dire d’Eugène Pavlovitch, elle lui critiquait tout ce qui était étranger avec aigreur et partialité : « nulle part ils ne savent cuire du bon pain, l’hiver ils gèlent comme des souris dans une cave », disait-elle, — « au moins ici, sur ce pauvre garçon, j’ai pleuré à la russe », ajouta-t-elle avec émotion en désignant le prince, qui ne la reconnaissait absolument pas."
+    },
+    {
+      "id": "p00091.s28",
+      "original": "«Довольно увлекаться-то, пора и рассудку послужить.",
+      "translation": "« Assez de ces engouements, il est temps de servir aussi la raison."
+    },
+    {
+      "id": "p00091.s29",
+      "original": "И всё это, и вся эта заграница, и вся эта ваша Европа, всё это одна фантазия, и все мы, за границей, одна фантазия… помяните мое слово, сами увидите!» заключила она чуть не гневно, расставаясь с Евгением Павловичем.",
+      "translation": "Tout cela, toute cette vie à l’étranger, toute cette Europe qui est la vôtre, tout cela n’est qu’une chimère, et nous tous, à l’étranger, une chimère… souvenez-vous de mes paroles, vous le verrez ! » conclut-elle presque avec colère en prenant congé d’Eugène Pavlovitch."
+    }
+  ]
+}
