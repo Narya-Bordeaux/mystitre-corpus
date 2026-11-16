@@ -1,0 +1,92 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-aventures-de-tom-sawyer",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "4ff158a3e9171a992f81bc41d0d73880591a30b49097ab1a712c64af60737d51",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "\"TOM!\"",
+      "translation": "« TOM ! »"
+    },
+    {
+      "id": "p00002.s1",
+      "original": "No answer.",
+      "translation": "Pas de réponse."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "\"TOM!\"",
+      "translation": "« TOM ! »"
+    },
+    {
+      "id": "p00004.s1",
+      "original": "No answer.",
+      "translation": "Pas de réponse."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "\"What's gone with that boy, I wonder?",
+      "translation": "« Qu'est-ce qu'il est devenu, ce garçon, je me demande ?"
+    },
+    {
+      "id": "p00005.s2",
+      "original": "You TOM!\"",
+      "translation": "Eh, TOM ! »"
+    },
+    {
+      "id": "p00006.s1",
+      "original": "No answer.",
+      "translation": "Pas de réponse."
+    },
+    {
+      "id": "p00007.s1",
+      "original": "The old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them.",
+      "translation": "La vieille dame abaissa ses lunettes et regarda par-dessus à travers la pièce ; puis elle les releva et regarda par-dessous."
+    },
+    {
+      "id": "p00007.s2",
+      "original": "She seldom or never looked through them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for \"style,\" not service—she could have seen through a pair of stove lids just as well.",
+      "translation": "Elle ne regardait presque jamais à travers pour une chose aussi petite qu'un garçon ; c'étaient ses lunettes de cérémonie, l'orgueil de son cœur, faites pour le « chic » et non pour l'usage — elle aurait vu tout aussi bien à travers une paire de rondelles de poêle."
+    },
+    {
+      "id": "p00007.s3",
+      "original": "She looked perplexed for a moment, and then said, not fiercely, but still loud enough for the furniture to hear:\n\"Well, I lay if I get hold of you I'll—\"\nShe did not finish, for by this time she was bending down and punching under the bed with the broom, and so she needed breath to punctuate the punches with.",
+      "translation": "Elle parut perplexe un instant, puis dit, sans colère, mais assez fort pour que les meubles l'entendent :\n« Eh bien, je parie que si je t'attrape, je vais… »\nElle n'acheva pas, car à ce moment-là elle se baissait pour fouiller sous le lit avec le balai, et il lui fallait du souffle pour ponctuer les coups. Elle n'en tira que le chat."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00113.s1",
+      "original": "CONCLUSION.",
+      "translation": "CONCLUSION."
+    },
+    {
+      "id": "p00114.s1",
+      "original": "So endeth this chronicle.",
+      "translation": "Ainsi finit cette chronique."
+    },
+    {
+      "id": "p00114.s2",
+      "original": "It being strictly a history of a boy, it must stop here; the story could not go much further without becoming the history of a man.",
+      "translation": "Comme elle est strictement l'histoire d'un garçon, elle doit s'arrêter ici ; l'histoire ne pourrait guère aller plus loin sans devenir l'histoire d'un homme."
+    },
+    {
+      "id": "p00114.s3",
+      "original": "When one writes a novel about grown people, he knows exactly where to stop—that is, with a marriage; but when he writes of juveniles, he must stop where he best can.",
+      "translation": "Quand on écrit un roman sur des adultes, on sait exactement où s'arrêter — c'est-à-dire sur un mariage ; mais quand on écrit sur des enfants, on doit s'arrêter là où l'on peut le mieux."
+    },
+    {
+      "id": "p00115.s1",
+      "original": "Most of the characters that perform in this book still live, and are prosperous and happy.",
+      "translation": "La plupart des personnages qui jouent dans ce livre vivent encore, et sont prospères et heureux."
+    },
+    {
+      "id": "p00115.s2",
+      "original": "Some day it may seem worth while to take up the story of the younger ones again and see what sort of men and women they turned out to be; therefore it will be wisest not to reveal any of that part of their lives at present.",
+      "translation": "Un jour, il pourra sembler utile de reprendre l'histoire des plus jeunes pour voir quelle sorte d'hommes et de femmes ils sont devenus ; il sera donc plus sage de ne rien révéler pour le moment de cette partie de leur vie."
+    }
+  ]
+}
