@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lappel-de-la-foret",
+  "title": "L'Appel de la forêt",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Call of the Wild (London), édition anglaise de Wikisource (chapitres 1 et 7), édition non indiquée en détail",
+  "pages": [
+    {
+      "title": "The Call of the Wild (London)/Chapter 1",
+      "revisionId": 6165049
+    },
+    {
+      "title": "The Call of the Wild (London)/Chapter 7",
+      "revisionId": 12614872
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b6e62031215538ec1c80a7390a46e851e9dd72c7a6d5ff688ab05026245a0f93",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "BUCK did not read the newspapers, or he would have known tha"
+  },
+  "bodyEnd": {
+    "id": "p00110",
+    "textPrefix": "their meat into the lower valleys, he may be seen running at"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, numéro de chapitre, épigraphe en vers. Fin : dernier paragraphe du chapitre 7."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

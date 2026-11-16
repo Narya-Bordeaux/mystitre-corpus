@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "lappel-de-cthulhu",
+  "title": "L'Appel de Cthulhu",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Weird Tales, vol. 11, n° 2 (page de Wikisource « Weird Tales/Volume 11/Issue 2/The Call of Cthulhu »), édition non indiquée en détail",
+    "pages": [
+      {
+        "title": "Weird Tales/Volume 11/Issue 2/The Call of Cthulhu",
+        "revisionId": 15451085
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "8c4a2882031ba104d1c83dadfa32a42fb1cb87a96b00aaa6d106a1c9b61d0a06"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3"
+    ],
+    "french": "La chose la plus miséricordieuse au monde, je crois, est l'incapacité de l'esprit humain à mettre en relation tout ce qu'il contient. Nous vivons sur une paisible île d'ignorance au milieu de noires mers d'infini, et il n'était pas prévu que nous voguions bien loin. Les sciences, chacune tendue dans sa propre direction, ne nous ont guère nui jusqu'ici ; mais un jour, la reconstitution des connaissances dissociées ouvrira de si terrifiantes perspectives sur la réalité, et sur l'effroyable place que nous y occupons, que nous deviendrons fous à cette révélation ou fuirons la lumière mortelle pour…",
+    "original": "The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. The sciences, each straining in its own direction, have hitherto harmed us little; but some day the piecing together of dissociated knowledge will open up such terrifying vistas of reality, and of our frightful position therein, that we shall either go mad from the revelation or flee from the deadly light into the peace and safety of a new dark age.",
+    "length": 600,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00111.s6",
+      "p00111.s7",
+      "p00111.s8"
+    ],
+    "french": "L'abomination attend et rêve dans les profondeurs, et la décomposition se répand sur les cités chancelantes des hommes. Un temps viendra… mais je ne dois pas, je ne peux pas y penser ! Je prie pour que, si je ne survis pas à ce manuscrit, mes exécuteurs placent la prudence avant l'audace et veillent à ce qu'il ne tombe sous aucun autre regard.",
+    "original": "Loathsomeness waits and dreams in the deep, and decay spreads over the tottering cities of men. A time will come—but I must not and can not think! Let me pray that, if I do not survive this manuscript, my executors may put caution before audacity and see that it meets no other eye.",
+    "length": 345,
+    "truncated": false
+  }
+}
