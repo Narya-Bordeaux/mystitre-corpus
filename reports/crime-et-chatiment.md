@@ -1,11 +1,11 @@
 # Crime et Châtiment — compte rendu
 
 - **Œuvre** : *Crime et Châtiment* (Dostoïevski, 1866).
-- **Édition retenue** : texte russe de ru.wikisource (« Преступление и наказание (Достоевский) », Часть I/Глава I et Эпилог/II), deux bouts de l'œuvre.
-- **Traduction française de fr.wikisource écartée** : Victor Derély, 1884 (index « Dostoïevski - Crime et chatiment »). Postérieure à 1871 et sa page « Auteur:Victor Derély » ne donne aucune date de décès (vérifiée pour *L'Idiot*) : renoncer, traduire l'original. Fidélité non comparée, inutile puisque la traduction est inutilisable.
-- **Origine du texte** : traduction par nos soins à partir de l'original russe (à relire).
-- **Exclus du corps du texte** : la date « 1866 » finale (p00083).
-- **Extraits** : ouverture 421 caractères (3 phrases) ; clôture 335 caractères (2 phrases).
-- **Points douteux** : noms masqués par l'auteur (« С — м переулке », « К — ну мосту ») rendus « ruelle de S— », « pont de K— ». « каморка » rendue par « soupente ».
-- **Écart** : ouverture et clôture de l'ancienne citation (« Au début de juillet… », « Mais ici commence une autre histoire. ») retrouvées et complétées sur l'original.
-- **Hésitation** : aucune, la même règle d'ancienneté qu'à *L'Idiot* s'applique.
+- **Édition retenue** : traduction de Victor Derély, Plon, Paris, 1884 (fr.wikisource, « Crime et Châtiment/I/1 » et « Crime et Châtiment/Épilogue/2 »). Décès lu par le moteur sur « Auteur:Victor Derély » : 1904, libre de droits.
+- **Comparaison à l'original** (ru.wikisource, « Преступление и наказание (Достоевский) », Часть I/Глава I et Эпилог/II) : début et fin conformes (jeune homme, soupente, pont de K… ; épilogue, Sonia, sept ans, « Mais ici commence une seconde histoire »). Écarts : « ruelle S… » rendue par « péréoulok S… » ; la logeuse et le « feu de l'ennemi » sont des ajouts d'ambiance ; les phrases du dernier paragraphe sont fusionnées. Pas de personnage changé, pas de partie coupée ou inventée. Jugée fidèle, retenue.
+- **Origine du texte** : traduction libre de droits (Victor Derély, 1884), non modifiée.
+- **Exclus du corps du texte** : titres de partie et de chapitre, mention « fin du tome second. » (p00099).
+- **Extraits** : voir proposals/crime-et-chatiment.json ; ouverture : 2 phrases, clôture : 416 caractères.
+- **Points douteux** : l'ouverture de Derély commence par « Au commencement de juillet, par une soirée excessivement chaude » (l'ancienne citation disait « Au début de juillet, par une chaleur étouffante, sur le soir »). La clôture (« seconde histoire » au lieu de « autre histoire ») diffère de l'ancienne citation.
+- **Écart** : ancienne citation remplacée, ni l'une ni l'autre ne correspondait mot pour mot à une traduction libre.
+- **Hésitation** : même erreur initiale qu'à *L'Idiot* (Derély écarté à tort) ; fiche refaite avec `register --replace`.

@@ -3,47 +3,52 @@
   "bookId": "lidiot",
   "title": "L'Idiot",
   "textOrigin": {
-    "kind": "foreignOriginal",
-    "originalLanguage": "ru",
-    "label": "Traduction par nos soins à partir de l'original (ru)"
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1887,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Victor Derély, 1887)"
   },
-  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "translatedBy": null,
   "source": {
-    "host": "ru.wikisource.org",
-    "edition": "Идиот (Достоевский), texte russe de Wikisource (pages « Часть I/Глава I » et « Часть IV/Глава XII »)",
+    "host": "fr.wikisource.org",
+    "edition": "L’Idiot, traduction de Victor Derély, Plon, Paris, 1887 (pages Wikisource « L’Idiot/I/Chapitre 1 » et « L’Idiot/IV/Chapitre 12 »)",
     "pages": [
       {
-        "title": "Идиот (Достоевский)/Часть I/Глава I",
-        "revisionId": 5640626
+        "title": "L’Idiot/I/Chapitre 1",
+        "revisionId": 5672024
       },
       {
-        "title": "Идиот (Достоевский)/Часть IV/Глава XII",
-        "revisionId": 357230
+        "title": "L’Idiot/IV/Chapitre 12",
+        "revisionId": 3078317
       }
     ],
     "cleanerVersion": 1,
-    "cleanTextSha256": "ec2bed6fdf682a689c7d0dfcbfe4c07f4984f0dea8b67720bea28006ca27629d"
+    "cleanTextSha256": "5da57110fb422b9905e80af4233b01031465324262c2e7751ff5269b02ff3ac8"
   },
   "titleMasks": [],
   "createdOn": "2026-11-16",
   "opening": {
     "sentenceIds": [
-      "p00001.s1",
-      "p00001.s2"
+      "p00003.s1",
+      "p00003.s2"
     ],
-    "french": "Vers la fin de novembre, par un temps de dégel, vers neuf heures du matin, le train de la ligne Pétersbourg-Varsovie approchait de Pétersbourg à toute vapeur. Il faisait si humide et si brumeux que le jour s’était à peine levé ; à dix pas, à droite et à gauche de la voie, on avait peine à distinguer quoi que ce soit par les fenêtres des wagons.",
-    "original": "В конце ноября, в оттепель, часов в девять утра, поезд Петербургско-Варшавской железной дороги на всех парах подходил к Петербургу. Было так сыро и туманно, что насилу рассвело; в десяти шагах, вправо и влево от дороги, трудно было разглядеть хоть что-нибудь из окон вагона.",
-    "length": 346,
+    "french": "C’était à la fin de novembre ; par un temps de dégel, humide et brumeux, le train de Varsovie arrivait à toute vapeur à Pétersbourg. Le brouillard était tel qu’à neuf heures du matin on voyait à peine clair ; à droite et à gauche de la voie ferrée il était difficile d’apercevoir quelque chose par les fenêtres du wagon.",
+    "original": "C’était à la fin de novembre ; par un temps de dégel, humide et brumeux, le train de Varsovie arrivait à toute vapeur à Pétersbourg. Le brouillard était tel qu’à neuf heures du matin on voyait à peine clair ; à droite et à gauche de la voie ferrée il était difficile d’apercevoir quelque chose par les fenêtres du wagon.",
+    "length": 320,
     "truncated": false
   },
   "closing": {
     "sentenceIds": [
-      "p00091.s28",
-      "p00091.s29"
+      "p00096.s34",
+      "p00096.s35"
     ],
-    "french": "« Assez de ces engouements, il est temps de servir aussi la raison. Tout cela, toute cette vie à l’étranger, toute cette Europe qui est la vôtre, tout cela n’est qu’une chimère, et nous tous, à l’étranger, une chimère… souvenez-vous de mes paroles, vous le verrez ! » conclut-elle presque avec colère en prenant congé d’Eugène Pavlovitch.",
-    "original": "«Довольно увлекаться-то, пора и рассудку послужить. И всё это, и вся эта заграница, и вся эта ваша Европа, всё это одна фантазия, и все мы, за границей, одна фантазия… помяните мое слово, сами увидите!» заключила она чуть не гневно, расставаясь с Евгением Павловичем.",
-    "length": 338,
+    "french": "« Assez d’entrainements, il est temps d’écouter la raison. Et tout cela, tout cet Occident, toute votre Europe, ce n’est que de la fantaisie, et nous tous, à l’étranger, nous ne sommes que fantaisie… souvenez-vous de ce que je vous dis, vous le verrez vous-même ! » acheva-t-elle d’un ton presque irrité en prenant congé d’Eugène Pavlovitch.",
+    "original": "« Assez d’entrainements, il est temps d’écouter la raison. Et tout cela, tout cet Occident, toute votre Europe, ce n’est que de la fantaisie, et nous tous, à l’étranger, nous ne sommes que fantaisie… souvenez-vous de ce que je vous dis, vous le verrez vous-même ! » acheva-t-elle d’un ton presque irrité en prenant congé d’Eugène Pavlovitch.",
+    "length": 341,
     "truncated": false
   }
 }

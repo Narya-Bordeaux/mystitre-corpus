@@ -2,36 +2,41 @@
   "formatVersion": 1,
   "bookId": "crime-et-chatiment",
   "title": "Crime et châtiment",
-  "host": "ru.wikisource.org",
-  "sourceLanguage": "ru",
-  "edition": "Преступление и наказание (Достоевский), texte russe de Wikisource (pages « Часть I/Глава I » et « Эпилог/II »)",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Crime et Châtiment, traduction de Victor Derély, Plon, Paris, 1884 (pages Wikisource « Crime et Châtiment/I/1 » et « Crime et Châtiment/Épilogue/2 »)",
   "pages": [
     {
-      "title": "Преступление и наказание (Достоевский)/Часть I/Глава I",
-      "revisionId": 5614305
+      "title": "Crime et Châtiment/I/1",
+      "revisionId": 4082048
     },
     {
-      "title": "Преступление и наказание (Достоевский)/Эпилог/II",
-      "revisionId": 5633392
+      "title": "Crime et Châtiment/Épilogue/2",
+      "revisionId": 5669087
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "a00f8f180a126f82497567ee165a0fc55b8d58cf3ec2cd4b1a455f283db2a55a",
+  "cleanTextSha256": "d2901848b18e44bd1fcd10bf094631fe366a72fb07983064dbcaf959aeb982de",
   "bodyStart": {
-    "id": "p00001",
-    "textPrefix": "В начале июля, в чрезвычайно жаркое время, под вечер, один м"
+    "id": "p00003",
+    "textPrefix": "Au commencement de juillet, par une soirée excessivement cha"
   },
   "bodyEnd": {
-    "id": "p00082",
-    "textPrefix": "Но тут уж начинается новая история, история постепенного обн"
+    "id": "p00098",
+    "textPrefix": "Mais ici commence une seconde histoire, l’histoire de la len"
   },
   "textOrigin": {
-    "kind": "foreignOriginal",
-    "originalLanguage": "ru"
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1884,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear"
   },
   "registeredOn": "2026-11-16",
   "notes": [
-    "Exclut la date « 1866 » (p00083) placée en fin de texte."
+    "Début au premier paragraphe du chapitre I ; exclut les titres de partie et de chapitre et la mention « fin du tome second. » (p00099)."
   ],
   "titleMasks": [],
   "readingOptions": []
