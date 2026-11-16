@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "electre",
+  "title": "Électre",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Élektra, traduction de Leconte de Lisle, page de Wikisource (édition source non indiquée)",
+  "pages": [
+    {
+      "title": "Élektra",
+      "revisionId": 9902582
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0e280e53be4a9e151a60243e6c64b568829298a44a56041e479a024ae24205f8",
+  "bodyStart": {
+    "id": "p00010",
+    "textPrefix": "Ô enfant d’Agamemnôn, du chef de l’armée devant Troia, il t’"
+  },
+  "bodyEnd": {
+    "id": "p00445",
+    "textPrefix": "Ô race d’Atreus, que d’innombrables calamités tu as subies a"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1877,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre et liste des personnages. Le corps commence à la première réplique du Pédagogue et finit sur le dernier chant du Chœur."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

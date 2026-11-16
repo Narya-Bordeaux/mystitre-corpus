@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "electre",
+  "title": "Électre",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1877,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679",
+    "label": "Traduction libre de droits (Leconte de Lisle, 1877)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Élektra, traduction de Leconte de Lisle, page de Wikisource (édition source non indiquée)",
+    "pages": [
+      {
+        "title": "Élektra",
+        "revisionId": 9902582
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "0e280e53be4a9e151a60243e6c64b568829298a44a56041e479a024ae24205f8"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00010.s1",
+      "p00010.s2",
+      "p00010.s3"
+    ],
+    "french": "LE PAIDAGÔGUE. — Ô enfant d’Agamemnôn, du chef de l’armée devant Troia, il t’est permis maintenant de voir ce que tu as toujours désiré. Ceci est l’antique Argos, le sol consacré à la fille aiguillonnée d’Inakhos. Voici, Orestès, l’agora Lykienne du Dieu tueur de loups ; puis, à gauche, le temple illustre de Hèra.",
+    "original": "LE PAIDAGÔGUE. — Ô enfant d’Agamemnôn, du chef de l’armée devant Troia, il t’est permis maintenant de voir ce que tu as toujours désiré. Ceci est l’antique Argos, le sol consacré à la fille aiguillonnée d’Inakhos. Voici, Orestès, l’agora Lykienne du Dieu tueur de loups ; puis, à gauche, le temple illustre de Hèra.",
+    "length": 315,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00444.s1",
+      "p00444.s2",
+      "p00444.s3",
+      "p00445.s1"
+    ],
+    "french": "ORESTÈS. — Certes, tu ne mourras point comme tu l’entends, mais comme il me convient, afin que ta mort ne manque même pas de cette amertume. Ce châtiment devrait être celui de tous ceux qui veulent être plus puissants que les lois, c’est-à-dire la mort. De cette façon, les scélérats seraient moins nombreux.\nLE CHŒUR. — Ô race d’Atreus, que d’innombrables calamités tu as subies avant de t’affranchir par ce dernier effort !",
+    "original": "ORESTÈS. — Certes, tu ne mourras point comme tu l’entends, mais comme il me convient, afin que ta mort ne manque même pas de cette amertume. Ce châtiment devrait être celui de tous ceux qui veulent être plus puissants que les lois, c’est-à-dire la mort. De cette façon, les scélérats seraient moins nombreux.\nLE CHŒUR. — Ô race d’Atreus, que d’innombrables calamités tu as subies avant de t’affranchir par ce dernier effort !",
+    "length": 425,
+    "truncated": false
+  }
+}

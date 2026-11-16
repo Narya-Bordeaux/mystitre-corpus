@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "antigone",
+  "title": "Antigone",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1877,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679",
+    "label": "Traduction libre de droits (Leconte de Lisle, 1877)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Antigonè, traduction de Leconte de Lisle, page de Wikisource (édition source non indiquée)",
+    "pages": [
+      {
+        "title": "Antigonè",
+        "revisionId": 11750306
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6126652064f0bbdb723bdd4bab84b84dc7d2af526631780b2822010791e73752"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00012.s1",
+      "p00012.s2",
+      "p00012.s3"
+    ],
+    "french": "ANTIGONÈ. — Ô chère tête fraternelle d’Ismènè, sais-tu quels sont les maux venus d’Oidipous que Zeus ne nous inflige pas, à nous qui vivons encore ? En effet, il n’est rien de cruel, d’amer, de honteux et d’ignominieux que je n’aie vu parmi tes maux et les miens. Et, maintenant, quel est cet édit récent que le maître de la Ville a imposé à tous les citoyens ?",
+    "original": "ANTIGONÈ. — Ô chère tête fraternelle d’Ismènè, sais-tu quels sont les maux venus d’Oidipous que Zeus ne nous inflige pas, à nous qui vivons encore ? En effet, il n’est rien de cruel, d’amer, de honteux et d’ignominieux que je n’aie vu parmi tes maux et les miens. Et, maintenant, quel est cet édit récent que le maître de la Ville a imposé à tous les citoyens ?",
+    "length": 361,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00332.s4",
+      "p00333.s1",
+      "p00333.s2",
+      "p00333.s3"
+    ],
+    "french": "KRÉÔN. — Tout ce que j’avais en mains est tombé ; une insupportable destinée s’est ruée sur ma tête.\nLE CHŒUR. — La meilleure part du bonheur est la sagesse. Il faut toujours révérer les droits des Daimones. Les paroles superbes attirent aux orgueilleux de terribles maux qui leur enseignent tardivement la sagesse.",
+    "original": "KRÉÔN. — Tout ce que j’avais en mains est tombé ; une insupportable destinée s’est ruée sur ma tête.\nLE CHŒUR. — La meilleure part du bonheur est la sagesse. Il faut toujours révérer les droits des Daimones. Les paroles superbes attirent aux orgueilleux de terribles maux qui leur enseignent tardivement la sagesse.",
+    "length": 315,
+    "truncated": false
+  }
+}
