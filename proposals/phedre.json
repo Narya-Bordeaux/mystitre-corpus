@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "bookId": "phedre",
+  "title": "Phèdre",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Phèdre (Racine), Didot, 1854 (d'après le titre de la page Wikisource)",
+    "pages": [
+      {
+        "title": "Phèdre (Racine), Didot, 1854/Acte I",
+        "revisionId": 12357936
+      },
+      {
+        "title": "Phèdre (Racine), Didot, 1854/Acte II",
+        "revisionId": 12358303
+      },
+      {
+        "title": "Phèdre (Racine), Didot, 1854/Acte III",
+        "revisionId": 14879833
+      },
+      {
+        "title": "Phèdre (Racine), Didot, 1854/Acte IV",
+        "revisionId": 14882383
+      },
+      {
+        "title": "Phèdre (Racine), Didot, 1854/Acte V",
+        "revisionId": 12358310
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6dec54b3acdb984215cc09ad397520e42155156131c2d1f36bc9e464afe01ba0"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "HIPPOLYTE. — Le dessein en est pris : je pars, cher Théramène,\nEt quitte le séjour de l’aimable Trézène.\nDans le doute mortel dont je suis agité,\nJe commence à rougir de mon oisiveté.\nDepuis plus de six mois éloigné de mon père,\nJ’ignore le destin d’une tête si chère ;\nJ’ignore jusqu’aux lieux qui le peuvent cacher.",
+    "original": "HIPPOLYTE. — Le dessein en est pris : je pars, cher Théramène,\nEt quitte le séjour de l’aimable Trézène.\nDans le doute mortel dont je suis agité,\nJe commence à rougir de mon oisiveté.\nDepuis plus de six mois éloigné de mon père,\nJ’ignore le destin d’une tête si chère ;\nJ’ignore jusqu’aux lieux qui le peuvent cacher.",
+    "length": 317,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00318.s2",
+      "p00318.s3"
+    ],
+    "french": "THÉSÉE. — Allons, de mon erreur, hélas ! trop éclaircis,\nMêler nos pleurs au sang de mon malheureux fils !\nAllons de ce cher fils embrasser ce qui reste,\nExpier la fureur d’un vœu que je déteste :\nRendons-lui les honneurs qu’il a trop mérités ;\nEt, pour mieux apaiser ses mânes irrités,\nQue, malgré les complots d’une injuste famille,\nSon amante aujourd’hui me tienne lieu de fille !",
+    "original": "THÉSÉE. — Allons, de mon erreur, hélas ! trop éclaircis,\nMêler nos pleurs au sang de mon malheureux fils !\nAllons de ce cher fils embrasser ce qui reste,\nExpier la fureur d’un vœu que je déteste :\nRendons-lui les honneurs qu’il a trop mérités ;\nEt, pour mieux apaiser ses mânes irrités,\nQue, malgré les complots d’une injuste famille,\nSon amante aujourd’hui me tienne lieu de fille !",
+    "length": 383,
+    "truncated": false
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "phedre",
+  "title": "Phèdre",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Phèdre (Racine), Didot, 1854 (d'après le titre de la page Wikisource)",
+  "pages": [
+    {
+      "title": "Phèdre (Racine), Didot, 1854/Acte I",
+      "revisionId": 12357936
+    },
+    {
+      "title": "Phèdre (Racine), Didot, 1854/Acte II",
+      "revisionId": 12358303
+    },
+    {
+      "title": "Phèdre (Racine), Didot, 1854/Acte III",
+      "revisionId": 14879833
+    },
+    {
+      "title": "Phèdre (Racine), Didot, 1854/Acte IV",
+      "revisionId": 14882383
+    },
+    {
+      "title": "Phèdre (Racine), Didot, 1854/Acte V",
+      "revisionId": 12358310
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6dec54b3acdb984215cc09ad397520e42155156131c2d1f36bc9e464afe01ba0",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Le dessein en est pris : je pars, cher Théramène,\nEt quitte "
+  },
+  "bodyEnd": {
+    "id": "p00318",
+    "textPrefix": "D’une action si noire\nQue ne peut avec elle expirer la mémoi"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres d'actes et de scènes, listes de personnages en didascalie, « FIN DE PHÈDRE ». Préface et liste des personnages non enregistrées (pages non reprises)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
