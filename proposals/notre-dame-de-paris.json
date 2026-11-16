@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "notre-dame-de-paris",
+  "title": "Notre-Dame de Paris",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres complètes de Victor Hugo, Imprimerie nationale, Roman, tome II (index Wikisource « Hugo - Œuvres complètes, Impr. nat., Roman, tome II.djvu »), texte validé ; page « Texte entier »",
+    "pages": [
+      {
+        "title": "Notre-Dame de Paris/Texte entier",
+        "revisionId": 14176513
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "767009314cf646ed4e1f56dbce0b66e6765eb9f05b2fde565d84a8dfa2a0035c"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00048.s1",
+      "p00049.s1"
+    ],
+    "french": "Il y a aujourd’hui trois cent quarante-huit ans six mois et dix-neuf jours que les parisiens s’éveillèrent au bruit de toutes les cloches sonnant à grande volée dans la triple enceinte de la Cité, de l’Université et de la Ville.\nCe n’est cependant pas un jour dont l’histoire ait gardé souvenir que le 6 janvier 1482.",
+    "original": "Il y a aujourd’hui trois cent quarante-huit ans six mois et dix-neuf jours que les parisiens s’éveillèrent au bruit de toutes les cloches sonnant à grande volée dans la triple enceinte de la Cité, de l’Université et de la Ville.\nCe n’est cependant pas un jour dont l’histoire ait gardé souvenir que le 6 janvier 1482.",
+    "length": 317,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p03748.s5",
+      "p03748.s6",
+      "p03748.s7",
+      "p03748.s8"
+    ],
+    "french": "On remarqua qu’il avait la colonne vertébrale déviée, la tête dans les omoplates, et une jambe plus courte que l’autre. Il n’avait d’ailleurs aucune rupture de vertèbre à la nuque, et il était évident qu’il n’avait pas été pendu. L’homme auquel il avait appartenu était donc venu là, et il y était mort. Quand on voulut le détacher du squelette qu’il embrassait, il tomba en poussière.",
+    "original": "On remarqua qu’il avait la colonne vertébrale déviée, la tête dans les omoplates, et une jambe plus courte que l’autre. Il n’avait d’ailleurs aucune rupture de vertèbre à la nuque, et il était évident qu’il n’avait pas été pendu. L’homme auquel il avait appartenu était donc venu là, et il y était mort. Quand on voulut le détacher du squelette qu’il embrassait, il tomba en poussière.",
+    "length": 385,
+    "truncated": false
+  }
+}

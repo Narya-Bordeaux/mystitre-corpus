@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "notre-dame-de-paris",
+  "title": "Notre-Dame de Paris",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Œuvres complètes de Victor Hugo, Imprimerie nationale, Roman, tome II (index Wikisource « Hugo - Œuvres complètes, Impr. nat., Roman, tome II.djvu »), texte validé ; page « Texte entier »",
+  "pages": [
+    {
+      "title": "Notre-Dame de Paris/Texte entier",
+      "revisionId": 14176513
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "767009314cf646ed4e1f56dbce0b66e6765eb9f05b2fde565d84a8dfa2a0035c",
+  "bodyStart": {
+    "id": "p00048",
+    "textPrefix": "Il y a aujourd’hui trois cent quarante-huit ans six mois et "
+  },
+  "bodyEnd": {
+    "id": "p03748",
+    "textPrefix": "Deux ans environ ou dix-huit mois après les événements qui t"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : page de titre, justification du tirage, préface de l'auteur (Ἀνάγκη, février 1831), note de l'édition définitive (1832), titres ; en fin, notes de l'édition, reliquat, manuscrit, notes de l'éditeur, revue de la critique, illustration. Le corps va du chapitre « La grand'salle » au dernier paragraphe de « Mariage de Quasimodo »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
