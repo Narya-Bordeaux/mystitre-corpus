@@ -1,0 +1,101 @@
+{
+  "formatVersion": 1,
+  "bookId": "une-vie",
+  "title": "Une vie",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres complètes de Guy de Maupassant, vol. 3, Paul Ollendorff, 1901 (texte validé)",
+    "pages": [
+      {
+        "title": "Une vie/I",
+        "revisionId": 13278438
+      },
+      {
+        "title": "Une vie/II",
+        "revisionId": 3789086
+      },
+      {
+        "title": "Une vie/III",
+        "revisionId": 3789087
+      },
+      {
+        "title": "Une vie/IV",
+        "revisionId": 3761691
+      },
+      {
+        "title": "Une vie/V",
+        "revisionId": 4495087
+      },
+      {
+        "title": "Une vie/VI",
+        "revisionId": 4495764
+      },
+      {
+        "title": "Une vie/VII",
+        "revisionId": 4601734
+      },
+      {
+        "title": "Une vie/VIII",
+        "revisionId": 4602825
+      },
+      {
+        "title": "Une vie/IX",
+        "revisionId": 4602863
+      },
+      {
+        "title": "Une vie/X",
+        "revisionId": 4602901
+      },
+      {
+        "title": "Une vie/XI",
+        "revisionId": 4603661
+      },
+      {
+        "title": "Une vie/XII",
+        "revisionId": 4603677
+      },
+      {
+        "title": "Une vie/XIII",
+        "revisionId": 4603709
+      },
+      {
+        "title": "Une vie/XIV",
+        "revisionId": 10104062
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "9768de1457553681fc9a1fe186e1bc9e1f12e983e8abd2f648b4174a77dd2d16"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3"
+    ],
+    "french": "Jeanne, ayant fini ses malles, s’approcha de la fenêtre, mais la pluie ne cessait pas.\nL’averse, toute la nuit, avait sonné contre les carreaux et les toits. Le ciel bas et chargé d’eau semblait crevé, se vidant sur la terre, la délayant en bouillie, la fondant comme du sucre. Des rafales passaient pleines d’une chaleur lourde.",
+    "original": "Jeanne, ayant fini ses malles, s’approcha de la fenêtre, mais la pluie ne cessait pas.\nL’averse, toute la nuit, avait sonné contre les carreaux et les toits. Le ciel bas et chargé d’eau semblait crevé, se vidant sur la terre, la délayant en bouillie, la fondant comme du sucre. Des rafales passaient pleines d’une chaleur lourde.",
+    "length": 329,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01887.s3",
+      "p01888.s1",
+      "p01888.s2",
+      "p01889.s1"
+    ],
+    "french": "Et comme la frêle créature, frappée par la lumière vive, ouvrait ses yeux bleus en remuant la bouche, Jeanne se mit à l’embrasser furieusement, la soulevant dans ses bras, la criblant de baisers.\nMais Rosalie, contente et bourrue, l’arrêta. « Voyons, voyons, madame Jeanne, finissez ; vous allez la faire crier. »\nPuis elle ajouta, répondant sans doute à sa propre pensée : « La vie, voyez-vous, ça n’est jamais si bon ni si mauvais qu’on croit. »",
+    "original": "Et comme la frêle créature, frappée par la lumière vive, ouvrait ses yeux bleus en remuant la bouche, Jeanne se mit à l’embrasser furieusement, la soulevant dans ses bras, la criblant de baisers.\nMais Rosalie, contente et bourrue, l’arrêta. « Voyons, voyons, madame Jeanne, finissez ; vous allez la faire crier. »\nPuis elle ajouta, répondant sans doute à sa propre pensée : « La vie, voyez-vous, ça n’est jamais si bon ni si mauvais qu’on croit. »",
+    "length": 447,
+    "truncated": false
+  }
+}
