@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-belle-au-bois-dormant",
+  "title": "La Belle au bois dormant",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Contes de Perrault (éd. 1902), page « La Belle au Bois dormant » de fr.wikisource",
+    "pages": [
+      {
+        "title": "Contes de Perrault (éd. 1902)/La Belle au Bois dormant",
+        "revisionId": 14976521
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "e086a8e08abad64391eb97eb114d67389cec3e3adf28d86e4aa145ff01e8a60b"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3"
+    ],
+    "french": "Il était une fois un roi et une reine qui étaient si fâchés de n’avoir point d’enfants, si fâchés qu’on ne saurait dire. Enfin, pourtant il leur naquit une fille. On fit un beau baptême ; on donna pour marraine à la petite princesse toutes les fées qu’on put trouver dans le pays (il s’en trouva sept), afin que, chacune d’elles lui faisant un don, comme c’était la coutume des fées en ce temps-là, la princesse eût, par ce moyen, toutes les perfections imaginables.",
+    "original": "Il était une fois un roi et une reine qui étaient si fâchés de n’avoir point d’enfants, si fâchés qu’on ne saurait dire. Enfin, pourtant il leur naquit une fille. On fit un beau baptême ; on donna pour marraine à la petite princesse toutes les fées qu’on put trouver dans le pays (il s’en trouva sept), afin que, chacune d’elles lui faisant un don, comme c’était la coutume des fées en ce temps-là, la princesse eût, par ce moyen, toutes les perfections imaginables.",
+    "length": 466,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00031.s2",
+      "p00031.s3"
+    ],
+    "french": "Personne n’osait l’en instruire, quand l’ogresse, enragée de voir ce qu’elle voyait, se jeta elle-même la tête la première dans la cuve, et fut dévorée en un instant par les vilaines bêtes qu’elle y avait fait mettre. Le roi ne laissa pas d’en être fâché : elle était sa mère ; mais il s’en consola bientôt avec sa femme et ses enfants.",
+    "original": "Personne n’osait l’en instruire, quand l’ogresse, enragée de voir ce qu’elle voyait, se jeta elle-même la tête la première dans la cuve, et fut dévorée en un instant par les vilaines bêtes qu’elle y avait fait mettre. Le roi ne laissa pas d’en être fâché : elle était sa mère ; mais il s’en consola bientôt avec sa femme et ses enfants.",
+    "length": 336,
+    "truncated": false
+  }
+}
