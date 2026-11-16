@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-machine-a-explorer-le-temps",
+  "title": "La Machine à explorer le temps",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Henry-D. Davray",
+    "translationYear": 1899,
+    "translatorDeathYear": 1944,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Henry-David_Davray&oldid=13194742",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Henry-D. Davray, 1899)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Mercure de France, tome 28, 1898 ; tome 29, 1899, traduction d'Henry-D. Davray (d'après Wikisource)",
+    "pages": [
+      {
+        "title": "La Machine à explorer le temps/1",
+        "revisionId": 12157735
+      },
+      {
+        "title": "La Machine à explorer le temps/17",
+        "revisionId": 12158188
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6a8519df49cc21027658efc44c8556dbfe7090788f6f2414d984085b6b1e74ac"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "L’Explorateur du Temps (car c’est ainsi que pour plus de commodité nous l’appellerons) nous exposait un mystérieux problème. Ses yeux gris et brillants étincelaient, et son visage, habituellement pâle, était rouge et animé. Dans la cheminée, la flamme brûlait joyeusement et la lumière douce des lampes à incandescence, en forme de lis d’argent, se reflétait dans les bulles qui montaient brillantes dans nos verres.",
+    "original": "L’Explorateur du Temps (car c’est ainsi que pour plus de commodité nous l’appellerons) nous exposait un mystérieux problème. Ses yeux gris et brillants étincelaient, et son visage, habituellement pâle, était rouge et animé. Dans la cheminée, la flamme brûlait joyeusement et la lumière douce des lampes à incandescence, en forme de lis d’argent, se reflétait dans les bulles qui montaient brillantes dans nos verres.",
+    "length": 416,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00058.s10",
+      "p00058.s11"
+    ],
+    "french": "Mais pour moi, l’avenir est encore obscur et vide ; il est une vaste ignorance, éclairée, à quelques endroits accidentels, par le souvenir de son récit. Et j’ai conservé, pour mon réconfort, deux étranges fleurs blanches, — recroquevillées maintenant, brunies, sèches et fragiles — pour témoigner que lorsque l’intelligence et la force eurent disparu, la gratitude et une tendresse mutuelle survécurent encore dans le cœur de l’homme.",
+    "original": "Mais pour moi, l’avenir est encore obscur et vide ; il est une vaste ignorance, éclairée, à quelques endroits accidentels, par le souvenir de son récit. Et j’ai conservé, pour mon réconfort, deux étranges fleurs blanches, — recroquevillées maintenant, brunies, sèches et fragiles — pour témoigner que lorsque l’intelligence et la force eurent disparu, la gratitude et une tendresse mutuelle survécurent encore dans le cœur de l’homme.",
+    "length": 434,
+    "truncated": false
+  }
+}
