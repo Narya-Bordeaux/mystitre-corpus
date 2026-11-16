@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "blanche-neige",
+  "title": "Blanche-Neige",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "Sneewittchen (1857), Kinder- und Hausmärchen der Brüder Grimm, n° 53, d'après la page de Wikisource allemande ; traduction française libre écartée (Contes allemands du temps passé, 1869 : deux traducteurs sans attribution par conte, aucune date de décès lisible)",
+  "pages": [
+    {
+      "title": "Sneewittchen (1857)",
+      "revisionId": 2338332
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a6b26e7a46c190cff4120ac58230e70dfefb3adbb9f3cde1422fceecaf2f257d",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Es war einmal mitten im Winter, und die Schneeflocken fielen"
+  },
+  "bodyEnd": {
+    "id": "p00042",
+    "textPrefix": "Da stieß das böse Weib einen Fluch aus, und ward ihr so angs"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclut le titre « 53. / Sneewittchen. » (p00001). Le texte se termine sur le dernier paragraphe, sans paratexte."
+  ],
+  "titleMasks": [
+    "Blanche-Neige"
+  ],
+  "readingOptions": []
+}

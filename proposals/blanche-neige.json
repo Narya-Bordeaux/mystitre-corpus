@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "blanche-neige",
+  "title": "Blanche-Neige",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Sneewittchen (1857), Kinder- und Hausmärchen der Brüder Grimm, n° 53, d'après la page de Wikisource allemande ; traduction française libre écartée (Contes allemands du temps passé, 1869 : deux traducteurs sans attribution par conte, aucune date de décès lisible)",
+    "pages": [
+      {
+        "title": "Sneewittchen (1857)",
+        "revisionId": 2338332
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a6b26e7a46c190cff4120ac58230e70dfefb3adbb9f3cde1422fceecaf2f257d"
+  },
+  "titleMasks": [
+    "Blanche-Neige"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "Il était une fois, au milieu de l'hiver, alors que les flocons de neige tombaient du ciel comme des plumes, une reine assise à une fenêtre dont le cadre était d'ébène noir, qui cousait. Et tandis qu'elle cousait ainsi en regardant la neige, elle se piqua le doigt avec son aiguille, et trois gouttes de sang tombèrent dans la neige.",
+    "original": "Es war einmal mitten im Winter, und die Schneeflocken fielen wie Federn vom Himmel herab, da saß eine Königin an einem Fenster, das einen Rahmen von schwarzem Ebenholz hatte, und nähte. Und wie sie so nähte und nach dem Schnee aufblickte, stach sie sich mit der Nadel in den Finger, und es fielen drei Tropfen Blut in den Schnee.",
+    "length": 332,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00042.s2",
+      "p00042.s3",
+      "p00042.s4"
+    ],
+    "french": "Et en entrant, elle reconnut [TITRE], et de peur et d'effroi elle resta là sans pouvoir bouger. Mais on avait déjà posé des pantoufles de fer sur un feu de braises ; on les apporta avec des tenailles et on les plaça devant elle. Elle dut enfiler ces souliers rougis à blanc et danser jusqu'à tomber morte par terre.",
+    "original": "Und wie sie hineintrat, erkannte sie Sneewittchen, und vor Angst und Schrecken stand sie da und konnte sich nicht regen. Aber es waren schon eiserne Pantoffeln über Kohlenfeuer gestellt und wurden mit Zangen herein getragen und vor sie hingestellt. Da mußte sie in die rothglühenden Schuhe treten und so lange tanzen, bis sie todt zur Erde fiel.",
+    "length": 321,
+    "truncated": false
+  }
+}

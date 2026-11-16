@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "blanche-neige",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "a6b26e7a46c190cff4120ac58230e70dfefb3adbb9f3cde1422fceecaf2f257d",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "Es war einmal mitten im Winter, und die Schneeflocken fielen wie Federn vom Himmel herab, da saß eine Königin an einem Fenster, das einen Rahmen von schwarzem Ebenholz hatte, und nähte.",
+      "translation": "Il était une fois, au milieu de l'hiver, alors que les flocons de neige tombaient du ciel comme des plumes, une reine assise à une fenêtre dont le cadre était d'ébène noir, qui cousait."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Und wie sie so nähte und nach dem Schnee aufblickte, stach sie sich mit der Nadel in den Finger, und es fielen drei Tropfen Blut in den Schnee.",
+      "translation": "Et tandis qu'elle cousait ainsi en regardant la neige, elle se piqua le doigt avec son aiguille, et trois gouttes de sang tombèrent dans la neige."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Und weil das Rothe im weißen Schnee so schön aussah, dachte sie bei sich „hätt ich ein Kind so weiß wie Schnee, so roth wie Blut, und so schwarz wie das Holz an dem Rahmen.“ Bald darauf bekam sie ein Töchterlein, das war so weiß wie Schnee, so roth wie Blut, und so schwarzhaarig wie Ebenholz, und ward darum das Sneewittchen (Schneeweißchen) genannt.",
+      "translation": "Et comme ce rouge faisait si joli dans la neige blanche, elle se dit : « Si seulement j'avais un enfant blanc comme la neige, rouge comme le sang et noir comme le bois de ce cadre ! » Peu après, elle eut une petite fille, blanche comme la neige, rouge comme le sang et aux cheveux noirs comme l'ébène, et qu'on appela pour cette raison Blanche-Neige."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00038.s2",
+      "original": "Wie sie sich nun mit schönen Kleidern angethan hatte, trat sie vor den Spiegel und sprach\n„Spieglein, Spieglein an der Wand,\nwer ist die schönste im ganzen Land?“\nDer Spiegel antwortete\n„Frau Königin, ihr seid die schönste hier,\naber die junge Königin ist tausendmal schöner als ihr.“\nDa stieß das böse Weib einen Fluch aus, und ward ihr so angst, so angst, daß sie sich nicht zu lassen wußte.",
+      "translation": "Quand elle se fut parée de beaux vêtements, elle se plaça devant le miroir et dit :\n« Miroir, mon beau miroir, au mur,\nqui est la plus belle du pays ? »\nLe miroir répondit :\n« Madame la Reine, vous êtes la plus belle ici,\nmais la jeune reine est mille fois plus belle que vous. »\nLa méchante femme poussa un juron, et elle fut saisie d'une telle angoisse, d'une telle angoisse, qu'elle ne savait plus que faire."
+    },
+    {
+      "id": "p00042.s1",
+      "original": "Sie wollte zuerst gar nicht auf die Hochzeit kommen: doch ließ es ihr keine Ruhe, sie mußte fort und die junge Königin sehen.",
+      "translation": "Elle ne voulait d'abord pas du tout aller à la noce ; mais elle n'avait aucun repos, il lui fallait partir voir la jeune reine."
+    },
+    {
+      "id": "p00042.s2",
+      "original": "Und wie sie hineintrat, erkannte sie Sneewittchen, und vor Angst und Schrecken stand sie da und konnte sich nicht regen.",
+      "translation": "Et en entrant, elle reconnut Blanche-Neige, et de peur et d'effroi elle resta là sans pouvoir bouger."
+    },
+    {
+      "id": "p00042.s3",
+      "original": "Aber es waren schon eiserne Pantoffeln über Kohlenfeuer gestellt und wurden mit Zangen herein getragen und vor sie hingestellt.",
+      "translation": "Mais on avait déjà posé des pantoufles de fer sur un feu de braises ; on les apporta avec des tenailles et on les plaça devant elle."
+    },
+    {
+      "id": "p00042.s4",
+      "original": "Da mußte sie in die rothglühenden Schuhe treten und so lange tanzen, bis sie todt zur Erde fiel.",
+      "translation": "Elle dut enfiler ces souliers rougis à blanc et danser jusqu'à tomber morte par terre."
+    }
+  ]
+}
