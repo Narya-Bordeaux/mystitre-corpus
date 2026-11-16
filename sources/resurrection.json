@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "resurrection",
+  "title": "Résurrection",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Traduction de Teodor de Wyzewa (1900), page Wikisource « Résurrection (Tolstoï, tr. Wyzewa.) », texte validé",
+  "pages": [
+    {
+      "title": "Résurrection (Tolstoï, tr. Wyzewa.)/1/01",
+      "revisionId": 13056796
+    },
+    {
+      "title": "Résurrection (Tolstoï, tr. Wyzewa.)/3/29",
+      "revisionId": 13056910
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7f438bd2c9ce7354de2d9d5774e16abad26073f8a64d89f1d7d3a28f6ce795e0",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "En vain quelques centaines de milliers d’hommes, entassés da"
+  },
+  "bodyEnd": {
+    "id": "p00079",
+    "textPrefix": "Comment se terminera cette nouvelle période de sa vie, c’est"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Teodor de Wyzewa",
+    "translationYear": 1900,
+    "translatorDeathYear": 1917,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Teodor_de_Wyzewa&oldid=15257520",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de partie et de chapitre, date de rédaction « 12 décembre 1899 » et mention FIN. Le texte s'ouvre sur le premier paragraphe du chapitre I et se clôt sur la phrase finale du chapitre 29 de la 3e partie."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

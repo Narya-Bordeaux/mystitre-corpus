@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "resurrection",
+  "title": "Résurrection",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Teodor de Wyzewa",
+    "translationYear": 1900,
+    "translatorDeathYear": 1917,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Teodor_de_Wyzewa&oldid=15257520",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Teodor de Wyzewa, 1900)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Traduction de Teodor de Wyzewa (1900), page Wikisource « Résurrection (Tolstoï, tr. Wyzewa.) », texte validé",
+    "pages": [
+      {
+        "title": "Résurrection (Tolstoï, tr. Wyzewa.)/1/01",
+        "revisionId": 13056796
+      },
+      {
+        "title": "Résurrection (Tolstoï, tr. Wyzewa.)/3/29",
+        "revisionId": 13056910
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7f438bd2c9ce7354de2d9d5774e16abad26073f8a64d89f1d7d3a28f6ce795e0"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1"
+    ],
+    "french": "En vain quelques centaines de milliers d’hommes, entassés dans un petit espace, s’efforçaient de mutiler la terre sur laquelle ils vivaient ; en vain ils en écrasaient le sol sous des pierres, afin que rien ne pût y germer ; en vain ils arrachaient jusqu’au moindre brin d’herbe ; en vain ils enfumaient l’air de pétrole et de houille ; en vain ils taillaient les arbres ; en vain ils chassaient les bêtes et les oiseaux : le printemps, même dans la ville, était toujours encore le printemps.",
+    "original": "En vain quelques centaines de milliers d’hommes, entassés dans un petit espace, s’efforçaient de mutiler la terre sur laquelle ils vivaient ; en vain ils en écrasaient le sol sous des pierres, afin que rien ne pût y germer ; en vain ils arrachaient jusqu’au moindre brin d’herbe ; en vain ils enfumaient l’air de pétrole et de houille ; en vain ils taillaient les arbres ; en vain ils chassaient les bêtes et les oiseaux : le printemps, même dans la ville, était toujours encore le printemps.",
+    "length": 492,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00078.s1",
+      "p00079.s1"
+    ],
+    "french": "Et en effet, de cette nuit commença pour Nekhludov une vie nouvelle : et nouvelle non seulement parce que, cessant de penser tout à fait à lui-même, il s’efforça de ne plus vivre que pour servir les autres, mais nouvelle, surtout, parce que tout ce qui lui arriva depuis cette nuit, tout ce qu’il vit, tout ce qu’il fit, eut désormais à ses yeux une autre signification que par le passé.\nComment se terminera cette nouvelle période de sa vie, c’est ce que l’avenir montrera.",
+    "original": "Et en effet, de cette nuit commença pour Nekhludov une vie nouvelle : et nouvelle non seulement parce que, cessant de penser tout à fait à lui-même, il s’efforça de ne plus vivre que pour servir les autres, mais nouvelle, surtout, parce que tout ce qui lui arriva depuis cette nuit, tout ce qu’il vit, tout ce qu’il fit, eut désormais à ses yeux une autre signification que par le passé.\nComment se terminera cette nouvelle période de sa vie, c’est ce que l’avenir montrera.",
+    "length": 474,
+    "truncated": false
+  }
+}
