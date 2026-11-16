@@ -1,0 +1,152 @@
+{
+  "formatVersion": 1,
+  "bookId": "candide",
+  "title": "Candide ou l'Optimisme",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Candide, ou l’Optimisme, Œuvres complètes de Voltaire, Garnier, 1877 (tome 21), d'après Wikisource",
+  "pages": [
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 1",
+      "revisionId": 12770179
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 2",
+      "revisionId": 12770181
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 3",
+      "revisionId": 12770182
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 4",
+      "revisionId": 12770225
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 5",
+      "revisionId": 12770227
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 6",
+      "revisionId": 12770230
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 7",
+      "revisionId": 12770232
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 8",
+      "revisionId": 12770235
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 9",
+      "revisionId": 12770237
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 10",
+      "revisionId": 12770246
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 11",
+      "revisionId": 15388903
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 12",
+      "revisionId": 12770254
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 13",
+      "revisionId": 12770259
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 14",
+      "revisionId": 12770265
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 15",
+      "revisionId": 12770267
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 16",
+      "revisionId": 12770270
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 17",
+      "revisionId": 12770274
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 18",
+      "revisionId": 12770277
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 19",
+      "revisionId": 12770279
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 20",
+      "revisionId": 12770280
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 21",
+      "revisionId": 12770288
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 22",
+      "revisionId": 12770290
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 23",
+      "revisionId": 12770292
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 24",
+      "revisionId": 12770295
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 25",
+      "revisionId": 14947010
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 26",
+      "revisionId": 12770508
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 27",
+      "revisionId": 12770514
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 28",
+      "revisionId": 12770516
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 29",
+      "revisionId": 12770518
+    },
+    {
+      "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 30",
+      "revisionId": 12770520
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "cbcf9878970446495f4a946f6b025d6973a336722b30ad6f4e65aca2bfb058ef",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Il y avait en Vestphalie, dans le château de M. le baron de "
+  },
+  "bodyEnd": {
+    "id": "p00276",
+    "textPrefix": "Toute la petite société entra dans ce louable dessein ; chac"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de chapitres et « FIN DE CANDIDE ». Édition Garnier 1877 sans préface ni dédicace au sommaire."
+  ],
+  "titleMasks": [
+    "Candide"
+  ],
+  "readingOptions": []
+}
