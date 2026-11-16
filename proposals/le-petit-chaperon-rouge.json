@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-petit-chaperon-rouge",
+  "title": "Le Petit Chaperon rouge",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Contes de Perrault (éd. 1902), page « Le petit Chaperon rouge » de fr.wikisource",
+    "pages": [
+      {
+        "title": "Contes de Perrault (éd. 1902)/Le petit Chaperon rouge",
+        "revisionId": 16249393
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "bc120d1b6f2bad4f7ed163f224d4ad34b7d0649c961315c592974c3d5db73901"
+  },
+  "titleMasks": [
+    "Chaperon rouge",
+    "chaperon rouge"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00005.s1"
+    ],
+    "french": "Il était une fois une petite fille de village, la plus éveillée qu’on eût su voir : sa mère en était folle, et sa mère-grand plus folle encore. Cette bonne femme lui fit faire un petit [TITRE] qui lui seyait si bien, que partout on l’appelait le petit [TITRE].\nUn jour, sa mère ayant cuit et fait des galettes, lui dit : « Va voir comment se porte ta mère-grand, car on m’a dit qu’elle était malade.",
+    "original": "Il était une fois une petite fille de village, la plus éveillée qu’on eût su voir : sa mère en était folle, et sa mère-grand plus folle encore. Cette bonne femme lui fit faire un petit chaperon rouge qui lui seyait si bien, que partout on l’appelait le petit Chaperon rouge.\nUn jour, sa mère ayant cuit et fait des galettes, lui dit : « Va voir comment se porte ta mère-grand, car on m’a dit qu’elle était malade.",
+    "length": 413,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00010.s7",
+      "p00010.s8",
+      "p00010.s9",
+      "p00010.s10",
+      "p00010.s11",
+      "p00010.s12",
+      "p00010.s13"
+    ],
+    "french": "— Ma mère-grand, que vous avez de grandes oreilles ! — C’est pour mieux écouter, mon enfant ! — Ma mère-grand, que vous avez de grands yeux ! — C’est pour mieux te voir, mon enfant ! — Ma mère-grand, que vous avez de grandes dents ! — C’est pour te manger ! Et, en disant ces mots, ce méchant Loup se jeta sur le petit [TITRE], et la mangea.",
+    "original": "— Ma mère-grand, que vous avez de grandes oreilles ! — C’est pour mieux écouter, mon enfant ! — Ma mère-grand, que vous avez de grands yeux ! — C’est pour mieux te voir, mon enfant ! — Ma mère-grand, que vous avez de grandes dents ! — C’est pour te manger ! Et, en disant ces mots, ce méchant Loup se jeta sur le petit Chaperon rouge, et la mangea.",
+    "length": 348,
+    "truncated": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-petit-chaperon-rouge",
+  "title": "Le Petit Chaperon rouge",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Contes de Perrault (éd. 1902), page « Le petit Chaperon rouge » de fr.wikisource",
+  "pages": [
+    {
+      "title": "Contes de Perrault (éd. 1902)/Le petit Chaperon rouge",
+      "revisionId": 16249393
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "bc120d1b6f2bad4f7ed163f224d4ad34b7d0649c961315c592974c3d5db73901",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Il était une fois une petite fille de village, la plus éveil"
+  },
+  "bodyEnd": {
+    "id": "p00010",
+    "textPrefix": "Le Loup, la voyant entrer, lui dit en se cachant dans le lit"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : en-tête d'édition (p00001), titre (p00002) et « CONTE. » (p00003). Cette édition ne reproduit pas la moralité en vers ; le conte s'achève sur « et la mangea »."
+  ],
+  "titleMasks": [
+    "Chaperon rouge",
+    "chaperon rouge"
+  ],
+  "readingOptions": []
+}

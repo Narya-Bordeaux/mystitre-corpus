@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-chat-botte",
+  "title": "Le Chat botté",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Contes de Perrault (éd. 1902), page « Le maître Chat ou le Chat botté » de fr.wikisource",
+    "pages": [
+      {
+        "title": "Contes de Perrault (éd. 1902)/Le maître Chat ou le Chat botté",
+        "revisionId": 15174151
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "eaa7caef64fe881e2fa2c5fd931b4c12ce79acecf6568523bd706430e1367ad3"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3",
+      "p00003.s4"
+    ],
+    "french": "Un meunier ne laissa pour tous biens, à trois enfants qu’il avait, que son moulin, son âne et son chat. Les partages furent bientôt faits ; ni le notaire, ni le procureur n’y furent point appelés. Ils auraient eu bientôt mangé tout le pauvre patrimoine. L’aîné eut le moulin, le second eut l’âne, et le plus jeune n’eut que le chat.",
+    "original": "Un meunier ne laissa pour tous biens, à trois enfants qu’il avait, que son moulin, son âne et son chat. Les partages furent bientôt faits ; ni le notaire, ni le procureur n’y furent point appelés. Ils auraient eu bientôt mangé tout le pauvre patrimoine. L’aîné eut le moulin, le second eut l’âne, et le plus jeune n’eut que le chat.",
+    "length": 332,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00021.s2",
+      "p00021.s3",
+      "p00021.s4"
+    ],
+    "french": "Le roi, charmé des bonnes qualités de monsieur le marquis de Carabas, et voyant les grands biens qu’il possédait, lui dit, après avoir bu cinq ou six coups : « Il ne tiendra qu’à vous, monsieur le marquis, que vous ne soyez mon gendre. » Le marquis, faisant de grandes révérences, accepta l’honneur que lui faisait le roi, et, dès le même jour, il épousa la princesse. Le Chat devint grand seigneur, et ne courut plus après les souris que pour se divertir.",
+    "original": "Le roi, charmé des bonnes qualités de monsieur le marquis de Carabas, et voyant les grands biens qu’il possédait, lui dit, après avoir bu cinq ou six coups : « Il ne tiendra qu’à vous, monsieur le marquis, que vous ne soyez mon gendre. » Le marquis, faisant de grandes révérences, accepta l’honneur que lui faisait le roi, et, dès le même jour, il épousa la princesse. Le Chat devint grand seigneur, et ne courut plus après les souris que pour se divertir.",
+    "length": 456,
+    "truncated": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-belle-au-bois-dormant",
+  "title": "La Belle au bois dormant",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Contes de Perrault (éd. 1902), page « La Belle au Bois dormant » de fr.wikisource",
+  "pages": [
+    {
+      "title": "Contes de Perrault (éd. 1902)/La Belle au Bois dormant",
+      "revisionId": 14976521
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "e086a8e08abad64391eb97eb114d67389cec3e3adf28d86e4aa145ff01e8a60b",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Il était une fois un roi et une reine qui étaient si fâchés "
+  },
+  "bodyEnd": {
+    "id": "p00031",
+    "textPrefix": "Ils étaient là, et les bourreaux se préparaient à les jeter "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre (p00001) et mot « CONTE. » (p00002). Cette édition ne reproduit pas la moralité en vers ; le conte s'achève sur l'ogresse."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
