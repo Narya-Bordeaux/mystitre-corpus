@@ -1,0 +1,130 @@
+{
+  "formatVersion": 1,
+  "bookId": "iliade",
+  "title": "L’Iliade",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Traduction nouvelle de Leconte de Lisle, Paris, Alphonse Lemerre (date d'édition non indiquée sur la page) ; chants I à XXIV de fr.wikisource pris un à un, la page « Texte entier » s'arrêtant au chant IX",
+  "pages": [
+    {
+      "title": "Iliade/Rhapsodie I",
+      "revisionId": 15628421
+    },
+    {
+      "title": "Iliade/Rhapsodie II",
+      "revisionId": 5905939
+    },
+    {
+      "title": "Iliade/Rhapsodie III",
+      "revisionId": 5905940
+    },
+    {
+      "title": "Iliade/Rhapsodie IV",
+      "revisionId": 5905941
+    },
+    {
+      "title": "Iliade/Rhapsodie V",
+      "revisionId": 5905942
+    },
+    {
+      "title": "Iliade/Rhapsodie VI",
+      "revisionId": 5905943
+    },
+    {
+      "title": "Iliade/Rhapsodie VII",
+      "revisionId": 5905945
+    },
+    {
+      "title": "Iliade/Rhapsodie VIII",
+      "revisionId": 5905946
+    },
+    {
+      "title": "Iliade/Rhapsodie IX",
+      "revisionId": 7004652
+    },
+    {
+      "title": "Iliade/Rhapsodie X",
+      "revisionId": 7004651
+    },
+    {
+      "title": "Iliade/Rhapsodie XI",
+      "revisionId": 7004636
+    },
+    {
+      "title": "Iliade/Rhapsodie XII",
+      "revisionId": 7004650
+    },
+    {
+      "title": "Iliade/Rhapsodie XIII",
+      "revisionId": 5905954
+    },
+    {
+      "title": "Iliade/Rhapsodie XIV",
+      "revisionId": 5905955
+    },
+    {
+      "title": "Iliade/Rhapsodie XV",
+      "revisionId": 5905957
+    },
+    {
+      "title": "Iliade/Rhapsodie XVI",
+      "revisionId": 5905958
+    },
+    {
+      "title": "Iliade/Rhapsodie XVII",
+      "revisionId": 5905959
+    },
+    {
+      "title": "Iliade/Rhapsodie XVIII",
+      "revisionId": 9175443
+    },
+    {
+      "title": "Iliade/Rhapsodie XIX",
+      "revisionId": 5905963
+    },
+    {
+      "title": "Iliade/Rhapsodie XX",
+      "revisionId": 5905965
+    },
+    {
+      "title": "Iliade/Rhapsodie XXI",
+      "revisionId": 5905966
+    },
+    {
+      "title": "Iliade/Rhapsodie XXII",
+      "revisionId": 5905968
+    },
+    {
+      "title": "Iliade/Rhapsodie XXIII",
+      "revisionId": 5905971
+    },
+    {
+      "title": "Iliade/Rhapsodie XXIV",
+      "revisionId": 12805384
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "cb182c4daac48b297f8674e62b5d122c79e4b331523f2159a62ca118b0af89c6",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Chante, Déesse, du Pèlèiade Akhilleus la colère désastreuse,"
+  },
+  "bodyEnd": {
+    "id": "p01898",
+    "textPrefix": "Et c’est ainsi qu’ils accomplirent les funérailles de Hektôr"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1866,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : intertitres « RHAPSODIE I. » à « XXIV. » (un par chant). L'« Avertissement » de l'éditeur n'a pas été enregistré (page non retenue). Le corps va de l'invocation (« Chante, Déesse… ») à la dernière phrase du chant XXIV (funérailles d'Hektôr), comme le dernier vers grec."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
