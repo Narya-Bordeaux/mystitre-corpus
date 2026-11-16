@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "anna-karenine",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "18f21cc186ff15ae7d91af506b964e44fb29dd86897f1a4674f3fba076373c6d",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему.",
+      "translation": "Toutes les familles heureuses se ressemblent ; chaque famille malheureuse l’est à sa façon."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "Все смешалось в доме Облонских.",
+      "translation": "Tout était sens dessus dessous chez les Oblonski."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Жена узнала, что муж был в связи с бывшею в их доме француженкою-гувернанткой, и объявила мужу, что не может жить с ним в одном доме.",
+      "translation": "La femme avait appris que son mari entretenait une liaison avec la gouvernante française qui avait été chez eux, et elle avait déclaré à son mari qu’elle ne pouvait plus vivre avec lui sous le même toit."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Положение это продолжалось уже третий день и мучительно чувствовалось и самими супругами, и всеми членами семьи, и домочадцами.",
+      "translation": "Cette situation durait déjà depuis trois jours et pesait cruellement aux époux eux-mêmes, à tous les membres de la famille et à toute la maisonnée."
+    },
+    {
+      "id": "p00002.s4",
+      "original": "Все члены семьи и домочадцы чувствовали, что нет смысла в их сожительстве и что на каждом постоялом дворе случайно сошедшиеся люди более связаны между собой, чем они, члены семьи и домочадцы Облонских.",
+      "translation": "Tous les membres de la famille et la maisonnée sentaient qu’il n’y avait aucun sens à leur vie commune, et que, dans n’importe quelle auberge, des gens réunis par le hasard étaient plus liés entre eux qu’ils ne l’étaient, eux, les membres de la famille et la maisonnée des Oblonski."
+    },
+    {
+      "id": "p00002.s5",
+      "original": "Жена не выходила из своих комнат, мужа третий день не было дома.",
+      "translation": "La femme ne sortait pas de ses appartements ; le mari était absent de la maison depuis trois jours."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00031.s2",
+      "original": "Никакого тоже сюрприза не было.",
+      "translation": "Il n’y a pas eu non plus de surprise."
+    },
+    {
+      "id": "p00031.s3",
+      "original": "А вера — не вера — я не знаю, что это такое, — но чувство это так же незаметно вошло страданиями и твердо засело в душе.",
+      "translation": "Quant à la foi — est-ce la foi ou non, je ne sais pas ce que c’est —, ce sentiment est entré de la même façon insensible, par la souffrance, et s’est solidement installé dans mon âme."
+    },
+    {
+      "id": "p00032.s1",
+      "original": "Так же буду сердиться на Ивана-кучера, так же буду спорить, буду некстати высказывать свои мысли, так же будет стена между святая святых моей души и другими, даже женой моей, так же буду обвинять ее за свой страх и раскаиваться в этом, так же буду не понимать разумом, зачем я молюсь, и буду молиться, — но жизнь моя теперь, вся моя жизнь, независимо от всего, что может случиться со мной, каждая минута ее — не только не бессмысленна, какою была прежде, но имеет несомненный смысл добра, который я властен вложить в нее!»",
+      "translation": "« Je continuerai de la même façon à m’emporter contre Ivan le cocher, à discuter, à exprimer mes idées hors de propos ; il y aura de la même façon un mur entre le saint des saints de mon âme et les autres, même ma propre femme ; je continuerai de la même façon à lui reprocher ma peur et à m’en repentir ; je continuerai de la même façon à ne pas comprendre par la raison pourquoi je prie, et je prierai — mais ma vie à présent, toute ma vie, indépendamment de tout ce qui peut m’arriver, chaque minute de cette vie n’est plus seulement dénuée de sens, comme elle l’était auparavant : elle a le sens indubitable du bien, que j’ai le pouvoir d’y mettre ! »"
+    }
+  ]
+}

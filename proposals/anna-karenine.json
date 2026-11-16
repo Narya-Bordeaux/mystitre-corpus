@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "anna-karenine",
+  "title": "Anna Karénine",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ru.wikisource.org",
+    "edition": "Original russe, page Wikisource « Анна Каренина (Толстой) », chapitres Часть I/Глава I et Часть VIII/Глава XIX (édition non indiquée)",
+    "pages": [
+      {
+        "title": "Анна Каренина (Толстой)/Часть I/Глава I",
+        "revisionId": 4929732
+      },
+      {
+        "title": "Анна Каренина (Толстой)/Часть VIII/Глава XIX",
+        "revisionId": 5764448
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "18f21cc186ff15ae7d91af506b964e44fb29dd86897f1a4674f3fba076373c6d"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "Toutes les familles heureuses se ressemblent ; chaque famille malheureuse l’est à sa façon.\nTout était sens dessus dessous chez les Oblonski. La femme avait appris que son mari entretenait une liaison avec la gouvernante française qui avait été chez eux, et elle avait déclaré à son mari qu’elle ne pouvait plus vivre avec lui sous le même toit.",
+    "original": "Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему.\nВсе смешалось в доме Облонских. Жена узнала, что муж был в связи с бывшею в их доме француженкою-гувернанткой, и объявила мужу, что не может жить с ним в одном доме.",
+    "length": 345,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00032.s1"
+    ],
+    "french": "…le cocher, à discuter, à exprimer mes idées hors de propos ; il y aura de la même façon un mur entre le saint des saints de mon âme et les autres, même ma propre femme ; je continuerai de la même façon à lui reprocher ma peur et à m’en repentir ; je continuerai de la même façon à ne pas comprendre par la raison pourquoi je prie, et je prierai — mais ma vie à présent, toute ma vie, indépendamment de tout ce qui peut m’arriver, chaque minute de cette vie n’est plus seulement dénuée de sens, comme elle l’était auparavant : elle a le sens indubitable du bien, que j’ai le pouvoir d’y mettre ! »",
+    "original": "Так же буду сердиться на Ивана-кучера, так же буду спорить, буду некстати высказывать свои мысли, так же будет стена между святая святых моей души и другими, даже женой моей, так же буду обвинять ее за свой страх и раскаиваться в этом, так же буду не понимать разумом, зачем я молюсь, и буду молиться, — но жизнь моя теперь, вся моя жизнь, независимо от всего, что может случиться со мной, каждая минута ее — не только не бессмысленна, какою была прежде, но имеет несомненный смысл добра, который я властен вложить в нее!»",
+    "length": 596,
+    "truncated": true
+  }
+}
