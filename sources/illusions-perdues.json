@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "illusions-perdues",
+  "title": "Illusions perdues",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Illusions perdues, Wikisource (parties « Les Deux Poètes » et « Ève et David », les deux bouts ; édition non indiquée)",
+  "pages": [
+    {
+      "title": "Illusions perdues/Les Deux Poètes",
+      "revisionId": 13446160
+    },
+    {
+      "title": "Illusions perdues/Ève et David",
+      "revisionId": 12198315
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "760b4f24dfad2e9cab39a4ff92d57914b9b371311c91a49b8a476e07298d8a1a",
+  "bodyStart": {
+    "id": "p00008",
+    "textPrefix": "À l’époque où commence cette histoire, la presse de Stanhope"
+  },
+  "bodyEnd": {
+    "id": "p01699",
+    "textPrefix": "Cérizet, condamné à trois ans de prison pour délits politiqu"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, dédicace à Victor Hugo et signature (p1-p6), intertitre de la première partie (p7), date « 1835 — 1843. » (p1700). Corps : début de la première partie, fin de la troisième."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
