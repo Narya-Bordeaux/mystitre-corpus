@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-petite-sirene",
+  "title": "La Petite Sirène",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "da",
+    "label": "Traduction par nos soins à partir de l'original (da)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "da.wikisource.org",
+    "edition": "édition non indiquée (page « Den lille Havfrue » de da.wikisource)",
+    "pages": [
+      {
+        "title": "Den lille Havfrue",
+        "revisionId": 68236
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "18d23bb1e16e0ba2fd7f207c7deb60ddc6f626bacf732b0e16194b8e81d4400d"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1"
+    ],
+    "french": "Au large, dans la mer, l'eau est bleue comme les pétales du plus beau des bleuets, et claire comme le verre le plus pur ; mais elle est très profonde, plus profonde qu'aucun câble d'ancre ne peut descendre, et il faudrait empiler bien des clochers d'église les uns sur les autres pour aller du fond jusqu'à la surface.",
+    "original": "Langt ude i Havet er Vandet saa blaat, som Bladene paa den deiligste Kornblomst og saa klart, som det reneste Glas, men det er meget dybt, dybere end noget Ankertoug naaer, mange Kirketaarne maatte stilles ovenpaa hinanden, for at række fra Bunden op over Vandet.",
+    "length": 318,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00091.s2",
+      "p00091.s3",
+      "p00091.s4"
+    ],
+    "french": "« Invisibles, nous pénétrons dans les maisons des hommes où il y a des enfants, et chaque jour où nous trouvons un enfant sage, qui fait la joie de ses parents et mérite leur affection, Dieu raccourcit notre temps d'épreuve. L'enfant ne sait pas quand nous traversons la pièce, et si, de joie, nous lui sourions, une année est retranchée des trois cents ; mais si nous voyons un enfant mutin et méchant, il nous faut pleurer des larmes de chagrin, et chaque larme ajoute un jour à notre temps d'épreuve ! » —",
+    "original": "“Usynligt svæve vi ind i Menneskenes Huse, hvor der er Børn, og for hver Dag vi finde et godt Barn, som gjør sine Forældre Glæde og fortjener deres Kjærlighed, forkorter Gud vor Prøvetid. Barnet veed ikke, naar vi flyve gjennem Stuen, og maae vi da af Glæde smile over det, da tages et Aar fra de tre hundrede, men see vi et uartigt og ondt Barn, da maae vi græde Sorgens Graad, og hver Taare lægger en Dag til vor Prøvetid!” —",
+    "length": 508,
+    "truncated": false
+  }
+}
