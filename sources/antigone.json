@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "antigone",
+  "title": "Antigone",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Antigonè, traduction de Leconte de Lisle, page de Wikisource (édition source non indiquée)",
+  "pages": [
+    {
+      "title": "Antigonè",
+      "revisionId": 11750306
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6126652064f0bbdb723bdd4bab84b84dc7d2af526631780b2822010791e73752",
+  "bodyStart": {
+    "id": "p00012",
+    "textPrefix": "Ô chère tête fraternelle d’Ismènè, sais-tu quels sont les ma"
+  },
+  "bodyEnd": {
+    "id": "p00333",
+    "textPrefix": "La meilleure part du bonheur est la sagesse. Il faut toujour"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1877,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, liste des personnages. Le corps commence à la première réplique d'Antigonè et finit sur le dernier vers du Chœur."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
