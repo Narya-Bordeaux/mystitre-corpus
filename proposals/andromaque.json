@@ -1,0 +1,63 @@
+{
+  "formatVersion": 1,
+  "bookId": "andromaque",
+  "title": "Andromaque",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Andromaque (Racine, éditions Didot, 1854) (d'après le titre de la page Wikisource)",
+    "pages": [
+      {
+        "title": "Andromaque (Racine, éditions Didot, 1854)/Acte I",
+        "revisionId": 15531037
+      },
+      {
+        "title": "Andromaque (Racine, éditions Didot, 1854)/Acte II",
+        "revisionId": 12367245
+      },
+      {
+        "title": "Andromaque (Racine, éditions Didot, 1854)/Acte III",
+        "revisionId": 12367247
+      },
+      {
+        "title": "Andromaque (Racine, éditions Didot, 1854)/Acte IV",
+        "revisionId": 12367249
+      },
+      {
+        "title": "Andromaque (Racine, éditions Didot, 1854)/Acte V",
+        "revisionId": 12367251
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "f3ce88c35fe9c20c1c5d4f5e57b37a2c520f8a5a32108f5de4b2add78096fcdb"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "ORESTE. — Oui, puisque je retrouve un ami si fidèle,\nMa fortune va prendre une face nouvelle ;\nEt déjà son courroux semble s’être adouci\nDepuis qu’elle a pris soin de nous rejoindre ici.\nQui l’eût dit, qu’un rivage à mes vœux si funeste,\nPrésenterait d’abord Pylade aux yeux d’Oreste ;\nQu’après plus de six mois que je t’avais perdu,\nÀ la cour de Pyrrhus tu me serais rendu ?",
+    "original": "ORESTE. — Oui, puisque je retrouve un ami si fidèle,\nMa fortune va prendre une face nouvelle ;\nEt déjà son courroux semble s’être adouci\nDepuis qu’elle a pris soin de nous rejoindre ici.\nQui l’eût dit, qu’un rivage à mes vœux si funeste,\nPrésenterait d’abord Pylade aux yeux d’Oreste ;\nQu’après plus de six mois que je t’avais perdu,\nÀ la cour de Pyrrhus tu me serais rendu ?",
+    "length": 375,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00321.s16",
+      "p00322.s1",
+      "p00322.s2",
+      "p00322.s3"
+    ],
+    "french": "ORESTE. — Mais non, retirez-vous, laissez faire Hermione :\nL’ingrate mieux que vous saura me déchirer ;\nEt je lui porte enfin mon cœur à dévorer.\nPYLADE. — Il perd le sentiment. Amis, le temps nous presse ;\nMénageons les moments que ce transport nous laisse :\nSauvons-le. Nos efforts deviendraient impuissants\nS’il reprenait ici sa rage avec ses sens.",
+    "original": "ORESTE. — Mais non, retirez-vous, laissez faire Hermione :\nL’ingrate mieux que vous saura me déchirer ;\nEt je lui porte enfin mon cœur à dévorer.\nPYLADE. — Il perd le sentiment. Amis, le temps nous presse ;\nMénageons les moments que ce transport nous laisse :\nSauvons-le. Nos efforts deviendraient impuissants\nS’il reprenait ici sa rage avec ses sens.",
+    "length": 351,
+    "truncated": false
+  }
+}

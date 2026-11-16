@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "andromaque",
+  "title": "Andromaque",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Andromaque (Racine, éditions Didot, 1854) (d'après le titre de la page Wikisource)",
+  "pages": [
+    {
+      "title": "Andromaque (Racine, éditions Didot, 1854)/Acte I",
+      "revisionId": 15531037
+    },
+    {
+      "title": "Andromaque (Racine, éditions Didot, 1854)/Acte II",
+      "revisionId": 12367245
+    },
+    {
+      "title": "Andromaque (Racine, éditions Didot, 1854)/Acte III",
+      "revisionId": 12367247
+    },
+    {
+      "title": "Andromaque (Racine, éditions Didot, 1854)/Acte IV",
+      "revisionId": 12367249
+    },
+    {
+      "title": "Andromaque (Racine, éditions Didot, 1854)/Acte V",
+      "revisionId": 12367251
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "f3ce88c35fe9c20c1c5d4f5e57b37a2c520f8a5a32108f5de4b2add78096fcdb",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Oui, puisque je retrouve un ami si fidèle,\nMa fortune va pre"
+  },
+  "bodyEnd": {
+    "id": "p00322",
+    "textPrefix": "Il perd le sentiment. Amis, le temps nous presse ;\nMénageons"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres d'actes et de scènes, listes de personnages en didascalie, « FIN D'ANDROMAQUE ». Dédicace, préfaces et liste des personnages non enregistrées."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
