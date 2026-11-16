@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-lys-dans-la-vallee",
+  "title": "Le Lys dans la vallée",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Lys dans la vallée, page unique de Wikisource (édition non indiquée)",
+  "pages": [
+    {
+      "title": "Le Lys dans la vallée",
+      "revisionId": 13043532
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "01ee9bfc1e3cef4c4be8f045e8b60742d665f31368797896f060c7e2434cd02e",
+  "bodyStart": {
+    "id": "p00007",
+    "textPrefix": "« Je cède à ton désir. Le privilége de la femme que nous aim"
+  },
+  "bodyEnd": {
+    "id": "p00870",
+    "textPrefix": "Natalie de Manerville. »"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, dédicace à J.-B. Nacquart (p1-p5), formule d'adresse à Natalie de Manerville (p6) et la date « Paris, octobre 1835 » (p871). La lettre de Félix et la réponse de Natalie sont gardées : lettres fictives qui encadrent le récit."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-lys-dans-la-vallee",
+  "title": "Le Lys dans la vallée",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Lys dans la vallée, page unique de Wikisource (édition non indiquée)",
+    "pages": [
+      {
+        "title": "Le Lys dans la vallée",
+        "revisionId": 13043532
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "01ee9bfc1e3cef4c4be8f045e8b60742d665f31368797896f060c7e2434cd02e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00007.s1",
+      "p00007.s2",
+      "p00007.s3"
+    ],
+    "french": "« Je cède à ton désir. Le privilége de la femme que nous aimons plus qu’elle ne nous aime est de nous faire oublier à tout propos les règles du bon sens. Pour ne pas voir un pli se former sur vos fronts, pour dissiper la boudeuse expression de vos lèvres que le moindre refus attriste, nous franchissons miraculeusement les distances, nous donnons notre sang, nous dépensons l’avenir.",
+    "original": "« Je cède à ton désir. Le privilége de la femme que nous aimons plus qu’elle ne nous aime est de nous faire oublier à tout propos les règles du bon sens. Pour ne pas voir un pli se former sur vos fronts, pour dissiper la boudeuse expression de vos lèvres que le moindre refus attriste, nous franchissons miraculeusement les distances, nous donnons notre sang, nous dépensons l’avenir.",
+    "length": 384,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00869.s55",
+      "p00869.s56"
+    ],
+    "french": "Toutes les femmes s’apercevraient de la sécheresse de votre cœur, et vous seriez toujours malheureux. Bien peu d’entre elles seraient assez franches pour vous dire ce que je vous dis, et assez bonnes personnes pour vous quitter sans rancune en vous offrant leur amitié, comme le fait aujourd’hui celle qui se dit votre amie dévouée,\nNatalie de Manerville. »",
+    "original": "Toutes les femmes s’apercevraient de la sécheresse de votre cœur, et vous seriez toujours malheureux. Bien peu d’entre elles seraient assez franches pour vous dire ce que je vous dis, et assez bonnes personnes pour vous quitter sans rancune en vous offrant leur amitié, comme le fait aujourd’hui celle qui se dit votre amie dévouée,\nNatalie de Manerville. »",
+    "length": 357,
+    "truncated": false
+  }
+}
