@@ -34,12 +34,11 @@
   "closing": {
     "sentenceIds": [
       "p00091.s2",
-      "p00091.s3",
-      "p00091.s4"
+      "p00091.s3"
     ],
-    "french": "« Invisibles, nous pénétrons dans les maisons des hommes où il y a des enfants, et chaque jour où nous trouvons un enfant sage, qui fait la joie de ses parents et mérite leur affection, Dieu raccourcit notre temps d'épreuve. L'enfant ne sait pas quand nous traversons la pièce, et si, de joie, nous lui sourions, une année est retranchée des trois cents ; mais si nous voyons un enfant mutin et méchant, il nous faut pleurer des larmes de chagrin, et chaque larme ajoute un jour à notre temps d'épreuve ! » —",
+    "french": "« Invisibles, nous pénétrons dans les maisons des hommes où il y a des enfants, et chaque jour où nous trouvons un enfant sage, qui fait la joie de ses parents et mérite leur affection, Dieu raccourcit notre temps d'épreuve. L'enfant ne sait pas quand nous traversons la pièce, et si, de joie, nous lui sourions, une année est retranchée des trois cents ; mais si nous voyons un enfant mutin et méchant, il nous faut pleurer des larmes de chagrin, et chaque larme ajoute un jour à notre temps d'épreuve ! »…",
     "original": "“Usynligt svæve vi ind i Menneskenes Huse, hvor der er Børn, og for hver Dag vi finde et godt Barn, som gjør sine Forældre Glæde og fortjener deres Kjærlighed, forkorter Gud vor Prøvetid. Barnet veed ikke, naar vi flyve gjennem Stuen, og maae vi da af Glæde smile over det, da tages et Aar fra de tre hundrede, men see vi et uartigt og ondt Barn, da maae vi græde Sorgens Graad, og hver Taare lægger en Dag til vor Prøvetid!” —",
-    "length": 508,
+    "length": 507,
     "truncated": false
   }
 }
