@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "hansel-et-gretel",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "7b7c63f7f0da74339261095e1003c64a26a3c4e5eecc1a59e196d7152ef5d324",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "Vor einem großen Walde wohnte ein armer Holzhacker mit seiner Frau und seinen zwei Kindern; das Bübchen hieß Hänsel und das Mädchen Grethel.",
+      "translation": "Au bord d'une grande forêt vivait un pauvre bûcheron avec sa femme et ses deux enfants ; le petit garçon s'appelait Hansel et la fillette Gretel."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Er hatte wenig zu beißen und zu brechen, und einmal, als große Theuerung ins Land kam, konnte er auch das täglich Brot nicht mehr schaffen.",
+      "translation": "Il avait peu à manger, et un jour que la cherté régnait dans le pays, il ne put même plus se procurer le pain de chaque jour."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Wie er sich nun Abends im Bette Gedanken machte und sich vor Sorgen herum wälzte, seufzte er und sprach zu seiner Frau „was soll aus uns werden? wie können wir unsere armen Kinder ernähren, da wir für uns selbst nichts mehr haben?“ „Weißt du was, Mann,“ antwortete die Frau, „wir wollen Morgen in aller Frühe die Kinder hinaus in den Wald führen, wo er am dicksten ist: da machen wir ihnen ein Feuer an und geben jedem noch ein Stückchen Brot, dann gehen wir an unsere Arbeit und lassen sie allein.",
+      "translation": "Comme il se tracassait le soir dans son lit et se retournait de souci, il soupira et dit à sa femme : « Que va-t-il advenir de nous ? Comment nourrir nos pauvres enfants, alors que nous n'avons plus rien pour nous-mêmes ? » « Sais-tu ce que nous allons faire, mon homme ? répondit la femme. Demain, de grand matin, nous conduirons les enfants dans la forêt, là où elle est la plus épaisse : nous leur ferons un feu, nous leur donnerons encore un petit morceau de pain à chacun, puis nous irons à notre travail et nous les laisserons seuls."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00021.s1",
+      "original": "„Nein,“ antwortete Grethel, „es wird dem Entchen zu schwer, es soll uns nach einander hinüber bringen.“ Das that das gute Thierchen, und als sie glücklich drüben waren und ein Weilchen fortgiengen, da kam ihnen der Wald immer bekannter und immer bekannter vor, und endlich erblickten sie von weitem ihres Vaters Haus.",
+      "translation": "« Non, répondit Gretel, ce serait trop lourd pour le petit canard ; il doit nous faire passer l'un après l'autre. » Le bon animal fit ainsi, et quand ils furent heureusement de l'autre côté et qu'ils eurent marché quelque temps, la forêt leur sembla de plus en plus familière, et enfin ils aperçurent de loin la maison de leur père."
+    },
+    {
+      "id": "p00021.s2",
+      "original": "Da fiengen sie an zu laufen, stürzten in die Stube hinein und fielen ihrem Vater um den Hals.",
+      "translation": "Alors ils se mirent à courir, se précipitèrent dans la chambre et se jetèrent au cou de leur père."
+    },
+    {
+      "id": "p00021.s3",
+      "original": "Der Mann hatte keine frohe Stunde gehabt, seitdem er die Kinder im Walde gelassen hatte, die Frau aber war gestorben.",
+      "translation": "L'homme n'avait pas connu une heure de joie depuis qu'il avait laissé les enfants dans la forêt ; quant à la femme, elle était morte."
+    },
+    {
+      "id": "p00021.s4",
+      "original": "Grethel schüttete sein Schürzchen aus daß die Perlen und Edelsteine in der Stube herumsprangen, und Hänsel warf eine Handvoll nach der andern aus seiner Tasche dazu.",
+      "translation": "Gretel secoua son tablier, si bien que les perles et les pierres précieuses bondirent dans la chambre, et Hansel en jeta encore une poignée après l'autre en vidant sa poche."
+    },
+    {
+      "id": "p00021.s5",
+      "original": "Da hatten alle Sorgen ein Ende, und sie lebten in lauter Freude zusammen.",
+      "translation": "Ainsi tous les soucis prirent fin, et ils vécurent ensemble dans une joie parfaite."
+    },
+    {
+      "id": "p00021.s6",
+      "original": "Mein Märchen ist aus, dort lauft eine Maus, wer sie fängt, darf sich eine große große Pelzkappe daraus machen.",
+      "translation": "Mon conte est fini, voilà une souris qui court ; qui l'attrapera pourra s'en faire un grand, grand bonnet de fourrure."
+    }
+  ]
+}

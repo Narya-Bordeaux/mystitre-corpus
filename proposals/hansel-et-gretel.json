@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "hansel-et-gretel",
+  "title": "Hansel et Gretel",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Hänsel und Grethel (1857), Kinder- und Hausmärchen der Brüder Grimm, n° 15, d'après la page de Wikisource allemande ; traduction française de Wikisource écartée (traduction contemporaine sous licence Art Libre, non libre de droits au sens du corpus)",
+    "pages": [
+      {
+        "title": "Hänsel und Grethel (1857)",
+        "revisionId": 2549897
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7b7c63f7f0da74339261095e1003c64a26a3c4e5eecc1a59e196d7152ef5d324"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Au bord d'une grande forêt vivait un pauvre bûcheron avec sa femme et ses deux enfants ; le petit garçon s'appelait Hansel et la fillette Gretel. Il avait peu à manger, et un jour que la cherté régnait dans le pays, il ne put même plus se procurer le pain de chaque jour. Comme il se tracassait le soir dans son lit et se retournait de souci, il soupira et dit à sa femme : « Que va-t-il advenir de nous ? Comment nourrir nos pauvres enfants, alors que nous n'avons plus rien pour nous-mêmes ? » « Sais-tu ce que nous allons faire, mon homme ? répondit la femme. Demain, de grand matin, nous…",
+    "original": "Vor einem großen Walde wohnte ein armer Holzhacker mit seiner Frau und seinen zwei Kindern; das Bübchen hieß Hänsel und das Mädchen Grethel. Er hatte wenig zu beißen und zu brechen, und einmal, als große Theuerung ins Land kam, konnte er auch das täglich Brot nicht mehr schaffen. Wie er sich nun Abends im Bette Gedanken machte und sich vor Sorgen herum wälzte, seufzte er und sprach zu seiner Frau „was soll aus uns werden? wie können wir unsere armen Kinder ernähren, da wir für uns selbst nichts mehr haben?“ „Weißt du was, Mann,“ antwortete die Frau, „wir wollen Morgen in aller Frühe die Kinder hinaus in den Wald führen, wo er am dicksten ist: da machen wir ihnen ein Feuer an und geben jedem noch ein Stückchen Brot, dann gehen wir an unsere Arbeit und lassen sie allein.",
+    "length": 591,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00021.s4",
+      "p00021.s5",
+      "p00021.s6"
+    ],
+    "french": "Gretel secoua son tablier, si bien que les perles et les pierres précieuses bondirent dans la chambre, et Hansel en jeta encore une poignée après l'autre en vidant sa poche. Ainsi tous les soucis prirent fin, et ils vécurent ensemble dans une joie parfaite. Mon conte est fini, voilà une souris qui court ; qui l'attrapera pourra s'en faire un grand, grand bonnet de fourrure.",
+    "original": "Grethel schüttete sein Schürzchen aus daß die Perlen und Edelsteine in der Stube herumsprangen, und Hänsel warf eine Handvoll nach der andern aus seiner Tasche dazu. Da hatten alle Sorgen ein Ende, und sie lebten in lauter Freude zusammen. Mein Märchen ist aus, dort lauft eine Maus, wer sie fängt, darf sich eine große große Pelzkappe daraus machen.",
+    "length": 376,
+    "truncated": false
+  }
+}
