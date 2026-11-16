@@ -1,183 +1,139 @@
 # Le Vilain Petit Canard
 
-Source : Contes d’Andersen, traduction de David Soldi, illustrations de Bertall, Hachette, 1876, p. 284-301 (d’après fr.wikisource) — fr.wikisource.org
+Source : Édition non indiquée (d'après da.wikisource, « Den grimme Ælling ») — da.wikisource.org
 
-Origine : Traduction libre de droits (David Soldi, 1876)
+Origine : Traduction par nos soins à partir de l'original (da)
 
-- [Contes d’Andersen/Le Vilain Petit Canard](https://fr.wikisource.org/w/index.php?title=Contes_d’Andersen/Le_Vilain_Petit_Canard&oldid=9185742)
+- [Den grimme Ælling](https://da.wikisource.org/w/index.php?title=Den_grimme_Ælling&oldid=77388)
 
-`p00001` Vignette de Bertall
+`p00001` Der var saa deiligt ude paa Landet; det var Sommer, Kornet stod guult, Havren grøn, Høet var reist i Stakke nede i de grønne Enge, og der gik Storken paa sine lange, røde Been og snakkede ægyptisk, for det Sprog havde han lært af sin Moder. Rundtom Ager og Eng var der store Skove, og midt i Skovene dybe Søer; jo, der var rigtignok deiligt derude paa Landet! Midt i Solskinnet laae der en gammel Herregaard med dybe Canaler rundt om, og fra Muren og ned til Vandet voxte store Skræppeblade, der vare saa høie, at smaa Børn kunde staae opreiste under de største; der var ligesaa vildsomt derinde, som i den tykkeste Skov, og her laae en And paa sin Rede; hun skulde ruge sine smaae Ællinger ud, men nu var hun næsten kjed af det, fordi det varede saa længe, og hun sjælden fik Visit; de andre Ænder holdt mere af at svømme om i Canalerne, end at løbe op og sidde under et Skræppeblad for at snaddre med hende.
 
-`p00002` LE VILAIN PETIT CANARD.
+`p00002` Endelig knagede det ene Æg efter det andet: “pip! pip!” sagde det, alle Æggeblommerne vare blevne levende og stak Hovedet ud.
 
-`p00003` Que la campagne était belle ! On était au milieu de l’été ; les blés agitaient des épis d’un jaune magnifique, l’avoine était verte, et dans les prairies le foin s’élevait en monceaux odorants ; la cigogne se promenait sur ses longues jambes rouges, en bavardant de l’égyptien, langue qu’elle avait apprise de madame sa mère. Autour des champs et des prairies s’étendaient de grandes forêts coupées de lacs profonds.
+`p00003` “Rap! rap!” sagde hun, og saa rappede de sig alt hvad de kunde, og saae til alle Sider under de grønne Blade, og Moderen lod dem see saa meget de vilde, for det Grønne er godt for Øinene.
 
-`p00004` Oui vraiment, la campagne était bien belle. Les rayons du soleil éclairaient de tout leur éclat un vieux domaine entouré de larges fossés, et de grandes feuilles de bardane descendaient du mur jusques dans l’eau ; elles étaient si hautes que les petits enfants pouvaient se cacher dessous, et qu’au milieu d’elles on pouvait trouver une solitude aussi sauvage qu’au centre de la forêt. Dans une de ces retraites une cane avait établi son nid et couvait ses œufs ; il lui tardait bien de voir ses petits éclore. Elle ne recevait guère de visites ; car les autres aimaient mieux nager dans les fossés que de venir jusque sous les bardanes pour barboter avec elle.
+`p00004` “Hvor dog Verden er stor!” sagde alle Ungerne; thi de havde nu rigtignok ganske anderledes Plads, end da de laae inde i Ægget.
 
-`p00005` Enfin les œufs commencèrent à crever les uns après les autres ; on entendait « pi-pip ; » c’étaient les petits canards qui vivaient et tendaient leur cou au dehors.
+`p00005` “Troer I, det er hele Verden!” sagde Moderen, “den strækker sig langt paa den anden Side Haven, lige ind i Præstens Mark! men der har jeg aldrig været! – I ere her dog vel Allesammen!” – og saa reiste hun sig op, “nei, jeg har ikke alle! det største Æg ligger der endnu; hvor længe skal det vare! nu er jeg snart kjed af det!” og saa lagde hun sig igjen.
 
-`p00006` « Rap-rap, » dirent-ils ensuite en faisant tout le bruit qu’ils pouvaient.
+`p00006` “Naa hvordan gaaer det?” sagde en gammel And, som kom for at gjøre Visit.
 
-`p00007` Ils regardaient de tous côtés sous les feuilles vertes, et la mère les laissa faire ; car le vert réjouit les yeux.
+`p00007` “Det varer saa længe med det ene Æg!” sagde Anden, som laae; “der vil ikke gaae Hul paa det! men nu skal Du see de andre! de ere de deiligste Ællinger jeg har seet! de ligne Allesammen deres Fader, det Skarn han kommer ikke og besøger mig.”
 
-`p00008` « Que le monde est grand ? dirent les petits nouveau-nés à l’endroit même où ils se trouvèrent au sortir de leur œuf.
+`p00008` “Lad mig see det Æg, der ikke vil revne!” sagde den gamle. “Du kan troe, at det er et Kalkun-Æg! saaledes er jeg ogsaa blevet narret engang, og jeg havde min Sorg og Nød med de Unger, for de ere bange for Vandet, skal jeg sige Dig! jeg kunde ikke faae dem ud! jeg rappede og snappede, men det hjalp ikke! – Lad mig see Ægget! jo, det er et Kalkun-Æg! lad Du det ligge og lær de andre Børn at svømme!”
 
-`p00009` — Vous croyez donc que le monde finit là ? dit la mère. Oh ! non, il s’étend bien plus loin, de l’autre côté du jardin, jusque dans les champs du curé ; mais je n’y suis jamais allée. Êtes-vous tous là ? continua-t-elle en se levant. Non, le plus gros œuf n’a pas bougé : Dieu ! que cela dure longtemps ! J’en ai assez. »
+`p00009` “Jeg vil dog ligge paa det lidt endnu!” sagde Anden; “har jeg nu ligget saalænge, saa kan jeg ligge Dyrehavstiden med!”
 
-`p00010` Et elle se mit à couver, mais d’un air contrarié.
+`p00010` “Vær saa god!” sagde den gamle And, og saa gik hun.
 
-`p00011` « Eh bien ! comment cela va-t-il ? dit une vieille cane qui était venue lui rendre visite.
+`p00011` Endelig revnede det store Æg. “Pip! pip!” sagde Ungen og væltede ud; han var saa stor og styg. Anden saae paa ham: “Det er da en forfærdelig stor Ælling den!” sagde hun; “ingen af de andre see saadanne ud! det skulde dog vel aldrig være en Kalkun-Kylling! naa, det skal vi snart komme efter! i Vandet skal han, om jeg saa selv maa sparke ham ud!”
 
-`p00012` — Il n’y a plus que celui-là que j’ai toutes les peines du monde à faire crever. Regardez un peu les autres : ne trouvez-vous pas que ce sont les plus gentils petits canards qu’on ait jamais vus ? ils ressemblent tous d’une manière étonnante à leur père ; mais le coquin ne vient pas même me voir.
+`p00012` Næste Dag var det et velsignet, deiligt Veir; Solen skinnede paa alle de grønne Skræpper. Ællingemoderen med hele sin Familie kom frem nede ved Canalen: pladsk! sprang hun i Vandet: “rap! rap!” sagde hun og den ene Ælling plumpede ud efter den anden; Vandet slog dem over Hovedet, men de kom strax op igjen og fløde saa deiligt; Benene gik af sig selv, og alle vare de ude, selv den stygge, graae Unge svømmede med.
 
-`p00013` — Montrez-moi un peu cet œuf qui ne veut pas crever, dit la vieille. Ah ! vous pouvez me croire, c’est un œuf de dinde. Moi aussi j’ai été trompée une fois comme vous, et j’ai eu toute la peine possible avec le petit ; car tous ces êtres-là ont affreusement peur de l’eau. Je ne pouvais parvenir à l’y faire entrer. J’avais beau le happer et barboter devant lui, rien n’y faisait. Que je le regarde encore : oui, c’est bien certainement un œuf de dinde. Laissez-le là, et apprenez plutôt aux autres enfants à nager.
+`p00013` “Nei, det er ingen Kalkun!” sagde hun; “see hvor deiligt den bruger Benene, hvor rank den holder sig! det er min egen Unge! igrunden er den dog ganske kjøn, naar man rigtig seer paa den! rap! rap! – kom nu med mig, saa skal jeg føre Jer ind i Verden, og præsentere Jer i Andegaarden, men hold Jer altid nær ved mig, at ingen træder paa Jer, og tag Jer iagt for Kattene!”
 
-`p00014` — Non, puisque j’ai déjà perdu tant de temps, je puis bien rester à couver un jour ou deux de plus, répondit la cane.
+`p00014` Og saa kom de ind i Andegaarden. Der var en skrækkelig Støi derinde, thi der var to Familier, som sloges om et Aalehoved, og saa fik dog Katten det.
 
-`p00015` — Comme vous voudrez, » répliqua la vieille ; elle s’en alla.
+`p00015` “See, saaledes gaaer det til i Verden!” sagde Ællingemoderen, og slikkede sig om Snabelen, for hun vilde ogsaa have Aalehovedet. “Brug nu Benene!” sagde hun, “see, at I kunne rappe Jer, og nei med Halsen for den gamle And derhenne! hun er den fornemste af dem Alle her! hun er af spansk Blod, derfor er hun svær, og see I, hun har en rød Klud om Benet! det er noget overordentligt deiligt, og den største Udmærkelse nogen And kan faae, det betyder saameget, at man ikke vil af med hende, og at hun skal kjendes af Dyr og af Mennesker! – Rap Jer! – ikke ind til Beens! en velopdragen Ælling sætter Benene vidt fra hinanden, ligesom Fader og Moder! see saa! nei nu med Halsen og siig: rap!”
 
-`p00016` Enfin le gros œuf creva. « Pi-pip, » fit le petit, et il sortit. Comme il était grand et vilain ! La cane le regarda et dit : « Quel énorme caneton. Il ne ressemble à aucun de nous. Serait-ce vraiment un dindon ? ce sera facile à voir : il faut qu’il aille à l’eau, quand je devrais l’y traîner. »
+`p00016` Og det gjorde de; men de andre Ænder rundt om saae paa dem og sagde ganske høit: “see saa! nu skal vi have det Slæng til! ligesom vi ikke vare nok alligevel! og fy, hvor den ene Ælling seer ud! ham ville vi ikke taale!” – og strax fløi der en And hen og bed den i Nakken.
 
-`p00017` Le lendemain, il faisait un temps magnifique : le soleil rayonnait sur toutes les vertes bardanes ; la mère des canards se rendit avec toute sa famille au fossé. « Platsh ! » et elle sauta dans l’eau. « Rap-rap, » dit-elle ensuite, et chacun des petits plongea l’un après l’autre ; et l’eau se referma sur les têtes. Mais bientôt ils reparurent et nagèrent avec rapidité. Les jambes allaient toutes seules, et tous se réjouissaient dans l’eau, même le vilain grand caneton gris.
+`p00017` “Lad ham være!” sagde Moderen, “han gjør jo Ingen noget!”
 
-`p00018` « Ce n’est pas un dindon, dit-elle. Comme il se sert habilement de ses jambes, et comme il se tient droit ! C’est mon enfant aussi : il n’est pas si laid, lorsqu’on le regarde de près. Rap-rap ! Venez maintenant avec moi : je vais vous faire faire votre entrée dans le monde et vous présenter dans la cour des canards. Seulement ne vous éloignez pas de moi, pour qu’on ne marche pas sur vous, et prenez bien garde au chat. »
+`p00018` “Ja, men han er for stor og for aparte!” sagde Anden, som bed, “og saa skal han nøfles!”
 
-`p00019` Ils entrèrent tous dans la cour des canards.
+`p00019` “Det er kjønne Børn, Moder har!” sagde den gamle And med Kluden om Benet, “Allesammen kjønne, paa den ene nær, den er ikke lykkedes! jeg vilde ønske, hun kunde gjøre den om igjen!”
 
-`p00020` Quel bruit on y faisait ! Deux familles s’y disputaient une tête d’anguille, et à la fin ce fut le chat qui l’emporta.
+`p00020` “Det gaaer ikke, Deres Naade!” sagde Ællingemoderen, “han er ikke kjøn, men han er et inderligt godt Gemyt, og svømmer saa deiligt, som nogen af de andre, ja, jeg tør sige lidt til! jeg tænker han voxer sig kjøn, eller han med Tiden bliver noget mindre! han har ligget for længe i Ægget, og derfor har han ikke faaet den rette Skikkelse!” og saa pillede hun ham i Nakken og glattede paa Personen. “Han er desuden en Andrik,” sagde hun, “og saa gjør det ikke saa meget! jeg troer han faaer gode Kræfter, han slaaer sig nok igjennem!”
 
-`p00021` « Vous voyez comme les choses se passent dans le monde, » dit la cane en aiguisant son bec ; car elle aussi aurait bien voulu avoir la tête d’anguille. « Maintenant, remuez les jambes, continua-t-elle ; tenez-vous bien ensemble et saluez le vieux canard là-bas. C’est le plus distingué de tous ceux qui se trouvent ici. Il est de race espagnole, c’est pour cela qu’il est si gros, et remarquez bien ce ruban rouge autour de sa jambe : c’est quelque chose de magnifique, et la plus grande distinction qu’on puisse accorder à un canard. Cela signifie qu’on ne veut pas le perdre, et qu’il doit être remarqué par les animaux comme par les hommes. Allons, tenez-vous bien ; non, ne mettez pas les pieds en dedans : un caneton bien élevé écarte les pieds avec soin ; regardez comme je les mets en dehors. Inclinez-vous et dites : « Rap ! »
+`p00021` “De andre Ællinger ere nydelige!” sagde den Gamle, “lad nu, som I var hjemme, og finder I et Aalehoved, saa kan I bringe mig det!” –
 
-`p00022` Ils obéirent, et les autres canards qui les entouraient les regardaient et disaient tout haut : « Voyez un peu ; en voilà encore d’autres, comme si nous n’étions pas déjà assez. Fi, fi donc ! Qu’est-ce que ce canet-là ? Nous n’en voulons pas. »
+`p00022` Og saa vare de, som hjemme.
 
-`p00023` Et aussitôt un grand canard vola de son côté, se jeta sur lui et le mordit au cou.
+`p00023` Men den stakkels Ælling, som sidst var kommen ud af Ægget, og saae saa fæl ud, blev bidt, puffet og gjort Nar af, og det baade af Ænderne og Hønsene. “Han er for stor!” sagde de Allesammen, og den kalkunske Hane, der var født med Sporer og troede derfor, at han var en Keiser, pustede sig op som et Fartøi for fulde Seil, gik lige ind paa ham og saa pludrede den og blev ganske rød i Hovedet. Den stakkels Ælling vidste hverken, hvor den turde staae eller gaae, den var saa bedrøvet, fordi den saae saa styg ud og var til Spot for hele Andegaarden.
 
-`p00024` « Laissez-le donc, dit la mère, il ne fait de mal à personne.
+`p00024` Saaledes gik det den første Dag, og siden blev det værre og værre. Den stakkels Ælling blev jaget af dem Allesammen, selv hans Sødskende var saa onde imod ham, og de sagde altid: “bare Katten vilde tage Dig, dit fæle Spektakel!” og Moderen sagde: “gid Du bare var langt borte!” og Ænderne beed ham, og Hønsene huggede ham, og Pigen, som skulde give Dyrene Æde, sparkede til ham med Foden.
 
-`p00025` — D’accord ; mais il est si grand et si drôle, dit l’agresseur, qu’il a besoin d’être battu.
+`p00025` Da løb og fløi han henover Hegnet; de smaa Fugle i Buskene foer forskrækket i Veiret; “det er fordi jeg er saa styg,” tænkte Ællingen og lukkede Øinene, men løb alligevel afsted; saa kom den ud i den store Mose, hvor Vildænderne boede. Her laae den hele Natten, den var saa træt og sorrigfuld.
 
-`p00026` — Vous avez là de beaux enfants, la mère, dit le vieux canard au ruban rouge. Ils sont tous gentils, excepté celui-là ; il n’est pas bien venu : je voudrais que vous pussiez le refaire.
+`p00026` Om Morgenen fløi Vildænderne op, og de saae paa den nye Kamerat; “hvad er Du for een?” spurgte de, og Ællingen dreiede sig til alle Sider, og hilsede saa godt den kunde.
 
-`p00027` — C’est impossible, dit la mère cane. Il n’est pas beau, c’est vrai ; mais il a un si bon caractère ! et il nage dans la perfection : oui, j’oserais même dire mieux que tous les autres. Je pense qu’il grandira joliment et qu’avec le temps il se formera. Il est resté trop longtemps dans l’œuf, et c’est pourquoi il n’est pas très-bien fait. »
+`p00027` “Du er inderlig styg!” sagde Vildænderne, “men det kan da være os det samme, naar Du ikke gifter Dig ind i vor Familie!” – Den Stakkel! han tænkte rigtignok ikke paa at gifte sig, turde han bare have Lov at ligge i Sivene og drikke lidt Mosevand.
 
-`p00028` Tandis qu’elle parlait ainsi, elle le tirait doucement par le cou, et lissait son plumage. « Du reste, c’est un canard, et la beauté ne lui importe pas tant. Je crois qu’il deviendra fort et qu’il fera son chemin dans le monde. Enfin, les autres sont gentils ; maintenant, mes enfants, faites comme si vous étiez à la maison et si vous trouvez une tête d’anguille, apportez-la-moi. »
+`p00028` Der laae han i hele to Dage, saa kom der to Vildgjæs eller rettere Vildgasser, for de vare to Hanner; det var ikke mange Tider siden de vare komne ud af Ægget, og derfor vare de saa raske paa det.
 
-`p00029` Et ils firent comme s’ils étaient à la maison.
+`p00029` “Hør Kammerat!” sagde de, “Du er saa styg at jeg kan godt lide Dig! vil Du drive med og være Trækfugl! tæt herved i en anden Mose er der nogle søde velsignede Vildgjæs, allesammen Frøkener, der kunne sige: rap! Du er istand til at gjøre din Lykke, saa styg er Du!” – –
 
-`p00030` Mais le pauvre canet qui était sorti du dernier œuf fut, pour sa laideur, mordu, poussé et bafoué, non-seulement par les canards, mais aussi par les poulets.
+`p00030` “Pif! paf!” lød i det samme ovenover, og begge Vildgasserne faldt døde ned i Sivene, og Vandet blev blodrødt; pif! paf! lød det igjen, og hele Skarer af Vildgjæs fløi op af Sivene, og saa knaldede det igjen. Der var stor Jagt, Jægerne laae rundtom Mosen, ja nogle sad oppe i Trægrenene, der strakte sig langt ud over Sivene; den blaae Røg gik ligesom Skyer ind imellem de mørke Træer og hang langt hen over Vandet; i Mudderet kom Jagthundene, klask klask; Siv og Rør svaiede til alle Sider; det var en Forskrækkelse for den stakkels Ælling, den dreiede Hovedet om for at faae det under Vingen, og lige i det samme stod tæt ved den en frygtelig stor Hund, Tungen hang ham langt ud af Halsen, og Øinene skinnede grueligt fælt; han satte sit Gab lige ned imod Ællingen, viste de skarpe Tænder – – og pladsk! pladsk! gik han igjen uden at tage den.
 
-`p00031` « Il est trop grand, » disaient-ils tous, et le coq d’Inde qui était venu au monde avec des éperons et qui se croyait empereur, se gonfla comme un bâtiment toutes voiles dehors, et marcha droit sur lui en grande fureur et rouge jusqu’aux yeux. Le pauvre canet ne savait s’il devait s’arrêter ou marcher : il eut bien du chagrin d’être si laid et d’être bafoué par tous les canards de la cour.
+`p00031` “O Gud skee Lov!” sukkede Ællingen, “jeg er saa styg, at selv Hunden ikke gider bide mig!”
 
-`p00032` Voilà ce qui se passa dès le premier jour, et les choses allèrent toujours de pis en pis. Le pauvre canet fut chassé de partout : ses sœurs mêmes étaient méchantes avec lui et répétaient continuellement : « Que ce serait bien fait si le chat t’emportait, vilaine créature ! » Et la mère disait : « Je voudrais que tu fusses bien loin. » Les canards le mordaient, les poulets le battaient, et la bonne qui donnait à manger aux bêtes le repoussait du pied.
+`p00032` Og saa laae den ganske stille, mens Haglene susede i Sivene, og det knaldede Skud paa Skud.
 
-`p00033` Alors il se sauva et prit son vol par-dessus la haie. Les petits oiseaux dans les buissons s’envolèrent de frayeur. « Et tout cela, parce que je suis vilain, » pensa le caneton. Il ferma les yeux et continua son chemin. Il arriva ainsi au grand marécage qu’habitaient les canards sauvages. Il s’y coucha pendant la nuit, bien triste et bien fatigué.
+`p00033` Først langt ud paa Dagen blev der stille, men den stakkels Unge turde endnu ikke reise sig, den ventede flere Timer endnu, før den saae sig om, og saa skyndte den sig afsted fra Mosen, alt hvad den kunde; den løb over Mark og over Eng, det var en Blæst, saa at den havde haardt ved at komme afsted.
 
-`p00034` Le lendemain, lorsque les canards sauvages se levèrent, ils aperçurent leur nouveau camarade.
+`p00034` Mod Aften naaede den et fattigt lille Bondehuus; det var saa elendigt, at det ikke selv vidste til hvad Side det vilde falde, og saa blev det staaende. Blæsten susede saaledes om Ællingen, at han maatte sætte sig paa Halen for at holde imod; og det blev værre og værre; da mærkede han, at Døren var gaaet af det ene Hængsel, og hang saa skjævt, at han igjennem Sprækken kunde smutte ind i Stuen, og det gjorde han.
 
-`p00035` « Qu’est-ce que c’est que cela ? » dirent-ils : le canet se tourna de tous côtés et salua avec toute la grâce possible.
+`p00035` Her boede en gammel Kone med sin Kat og sin Høne, og Katten, som hun kaldte Sønneke, kunde skyde Ryg og spinde, han gnistrede saagar, men saa maatte man stryge ham mod Haarene; Hønen havde ganske smaae lave Been, og derfor kaldtes den “Kykkelilavbeen;” den lagde godt Æg, og Konen holdt af den, som af sit eget Barn.
 
-`p00036` « Tu peux te flatter d’être énormément laid ! dirent les canards sauvages ; mais cela nous est égal, pourvu que tu n’épouses personne de notre famille. »
+`p00036` Om Morgenen mærkede man strax den fremmede Ælling, og Katten begyndte at spinde og Hønen at klukke.
 
-`p00037` Le malheureux ! est-ce qu’il pensait à se marier, lui qui ne demandait que la permission de coucher dans les roseaux et de boire de l’eau du marécage ?
+`p00037` “Hvad for noget!” sagde Konen, og saae rundtomkring, men hun saae ikke godt, og saa troede hun, at Ællingen var en feed And, der havde forvildet sig. “Det var jo en rar Fangst!” sagde hun, “nu kan jeg faae Ande-Æg, er den bare ikke en Andrik! det maa vi prøve!”
 
-`p00038` Il passa ainsi deux journées. Alors arrivèrent dans cet endroit deux jars sauvages. Ils n’avaient pas encore beaucoup vécu ; aussi étaient-ils très-insolents.
+`p00038` Og saa blev Ællingen antaget paa Prøve i tre Uger, men der kom ingen Æg. Og Katten var Herre i Huset og Hønen var Madamme, og alletider sagde de: “vi og Verden!” for de troede, at de vare Halvparten, og det den allerbedste Deel. Ællingen syntes, at man kunde ogsaa have en anden Mening, men det taalte Hønen ikke.
 
-`p00039` « Écoute, camarade, dirent ces nouveaux venus ; tu es si vilain que nous serions contents de t’avoir avec nous. Veux-tu nous accompagner et devenir un oiseau de passage ? Ici tout près, dans l’autre marécage, il y a des oies sauvages charmantes, presque toutes demoiselles, et qui savent bien chanter. Qui sait si tu n’y trouverais pas le bonheur, malgré ta laideur affreuse ! »
+`p00039` “Kan Du lægge Æg?” spurgte hun.
 
-`p00040` Tout à coup on entendit « pif, paf ! » et les deux jars sauvages tombèrent morts dans les roseaux, et l’eau devint rouge comme du sang.
+`p00040` “Nei!”
 
-`p00041` « Pif, paf ! » et des troupes d’oies sauvages s’envolèrent des roseaux. Et on entendit encore des coups de fusil. C’était une grande chasse ; les chasseurs s’étaient couchés tout autour du marais ; quelques-uns s’étaient même postés sur des branches d’arbres qui s’avançaient au-dessus des joncs. Une vapeur bleue semblable à de petite nuages sortait des arbres sombres et s’étendait sur l’eau ; puis les chiens arrivèrent au marécage : « platsh, platsh ; » et les joncs et les roseaux se courbaient de tous côtés. Quelle épouvante pour le pauvre caneton ! il plia la tête pour la cacher sous son aile ; mais en même temps il aperçut devant lui un grand chien terrible : sa langue pendait hors de sa gueule, et ses yeux farouches étincelaient de cruauté. Le chien tourna la gueule vers le caneton, lui montra ses dents pointues et, « platsh, platsh, » il alla plus loin sans le toucher.
+`p00041` “Ja, vil Du saa holde din Mund!”
 
-`p00042` « Dieu merci ! soupira le canard ; je suis si vilain que le chien lui-même dédaigne de me mordre ! »
+`p00042` Og Katten sagde: “Kan Du skyde Ryg, spinde og gnistre?”
 
-`p00043` Et il resta ainsi en silence, pendant que le plomb sifflait à travers les joncs et que les coups de fusil se succédaient sans relâche.
+`p00043` “Nei!”
 
-`p00044` Vers la fin de la journée seulement, le bruit cessa ; mais le pauvre petit n’osa pas encore se lever. Il attendit quelques heures, regarda autour de lui, et se sauva du marais aussi vite qu’il put. Il passa au-dessus des champs et des prairies ; une tempête furieuse l’empêcha d’avancer.
+`p00044` “Ja saa skal Du ikke have Mening, naar fornuftige Folk tale!”
 
-`p00045` Sur le soir, il arriva à une misérable cabane de paysan, si vieille et si ruinée qu’elle ne savait pas de quel côté tomber : aussi restait-elle debout. La tempête soufflait si fort autour du caneton qu’il fut obligé de s’arrêter et de s’accrocher à la cabane : tout allait de mal en pis.
+`p00045` Og Ællingen sad i Krogen og var i daarligt Humeur; da kom den til at tænke paa den friske Luft og Solskinnet; den fik saadan en forunderlig Lyst til at flyde paa Vandet, tilsidst kunde den ikke lade være, den maatte sige det til Hønen.
 
-`p00046` Alors il remarqua qu’une porte avait quitté ses gonds et lui permettait, par une petite ouverture, de pénétrer dans l’intérieur : c’est ce qu’il fit.
+`p00046` “Hvad gaaer der af Dig?” spurgte hun. “Du har ingen Ting at bestille, derfor komme de Nykker over dig! Læg Æg eller spind, saa gaae de over.”
 
-`p00047` Là demeurait une vieille femme avec son matou et avec sa poule ; et le matou, qu’elle appelait son petit-fils, savait arrondir le dos et filer son rouet : il savait même lancer des étincelles, pourvu qu’on lui frottât convenablement le dos à rebrousse-poil. La poule avait des jambes fort courtes, ce qui lui avait valu le nom de Courte-Jambe. Elle pondait des œufs excellents, et la bonne femme l’aimait comme une fille.
+`p00047` “Men det er saa deiligt at flyde paa Vandet!” sagde Ællingen, “saa deiligt at faae det over Hovedet og dukke ned paa Bunden!”
 
-`p00048` Le lendemain on s’aperçut de la présence du caneton étranger. Le matou commença à gronder, et la poule à glousser.
+`p00048` “Ja det er en stor Fornøielse!” sagde Hønen, “Du er nok bleven gal! Spørg Katten ad, han er den klogeste, jeg kjender, om han holder af at flyde paa Vandet, eller dykke ned! jeg vil ikke tale om mig. – Spørg selv vort Herskab, den gamle Kone, klogere end hende er der Ingen i Verden! troer Du, hun har Lyst til at flyde og faae Vand over Hovedet!”
 
-`p00049` « Qu’y a-t-il ? » dit la femme en regardant autour d’elle. Mais, comme elle avait la vue basse, elle crut que c’était une grosse cane qui s’était égarée. « Voilà une bonne prise, dit-elle : j’aurai maintenant des œufs de cane. Pourvu que ce ne soit pas un canard ! Enfin, nous verrons. »
+`p00049` “I forstaae mig ikke!” sagde Ællingen.
 
-`p00050` Elle attendit pendant trois semaines ; mais les œufs ne vinrent pas. Dans cette maison, le matou était le maître et la poule la maîtresse ; aussi ils avaient l’habitude de dire : « Nous et le monde ; » car ils croyaient faire à eux seuls la moitié et même la meilleure moitié du monde. Le caneton se permit de penser que l’on pouvait avoir un autre avis ; mais cela fâcha la poule.
+`p00050` “Ja, forstaae vi Dig ikke, hvem skulde saa forstaae Dig! Du vil dog vel aldrig være klogere end Katten og Konen, for ikke at nævne mig! Skab Dig ikke, Barn! og tak Du din Skaber for alt det Gode, man har gjort for dig! Er Du ikke kommet i en varm Stue og har en Omgang, Du kan lære noget af! men Du er et Vrøvl, og det er ikke morsomt at omgaaes Dig! mig kan Du troe! jeg mener Dig det godt, jeg siger Dig Ubehageligheder, og derpaa skal man kjende sine sande Venner! see nu bare til, at Du lægger Æg og lærer at spinde eller gnistre!”
 
-`p00051` « Sais-tu pondre des œufs ? demanda-t-elle.
+`p00051` “Jeg troer, jeg vil gaae ud i den vide Verden!” sagde Ællingen.
 
-`p00052` — Non.
+`p00052` “Ja, gjør Du det!” sagde Hønen.
 
-`p00053` — Eh bien ! alors, tu auras la bonté de te taire. »
+`p00053` Og saa gik Ællingen; den flød paa Vandet, den dykkede ned, men af alle Dyr var den overseet for sin Grimhed.
 
-`p00054` Et le matou le questionna à son tour : « Sais-tu faire le gros dos ? sais-tu filer ton rouet et faire jaillir des étincelles ?
+`p00054` Nu faldt Efteraaret paa, Bladene i Skoven bleve gule og brune, Blæsten tog fat i dem, saa de dandsede omkring, og oppe i Luften saae der koldt ud; Skyerne hang tunge med Hagl og Sneeflokke, og paa Gjærdet stod Ravnen og skreg “av! av!” af bare Kulde; ja man kunde ordenlig fryse, naar man tænkte derpaa; den stakkels Ælling havde det rigtignok ikke godt.
 
-`p00055` — Non.
+`p00055` En Aften, Solen gik saa velsignet ned, kom der en heel Flok deilige store Fugle ud af Buskene, Ællingen havde aldrig seet nogen saa smukke, de vare ganske skinnende hvide, med lange, smidige Halse; det var Svaner, de udstødte en ganske forunderlig Lyd, bredte deres prægtige, lange Vinger ud og fløi bort fra de kolde Egne til varmere Lande, til aabne Søer! de stege saa høit, saa høit, og den lille grimme Ælling blev saa forunderlig tilmode, den dreiede sig rundt i Vandet ligesom et Hjul, rakte Halsen høit op i Luften efter dem, udstødte et Skrig saa høit og forunderligt, at den selv blev bange derved. O, den kunde ikke glemme de deilige Fugle, de lykkelige Fugle, og saasnart den ikke længer øinede dem, dukkede den lige ned til Bunden, og da den kom op igjen, var den ligesom ude af sig selv. Den vidste ikke, hvad Fuglene hed, ikke hvor de fløi hen, men dog holdt den af dem, som den aldrig havde holdt af nogen; den misundte dem slet ikke, hvor kunde det falde den ind at ønske sig en saadan Deilighed, den vilde være glad, naar bare dog Ænderne vilde have taalt den imellem sig! – det stakkels grimme Dyr!
 
-`p00056` — Alors tu n’as pas le droit d’exprimer une opinion, quand les gens raisonnables causent ensemble. »
+`p00056` Og Vinteren blev saa kold, saa kold; Ællingen maatte svømme om i Vandet for at holde det fra at fryse reent til; men hver Nat blev Hullet, hvori den svømmede, smallere og smallere; det frøs, saa det knagede i Iisskorpen; Ællingen maatte altid bruge Benene, at Vandet ikke skulde lukkes; tilsidst blev den mat, laa ganske stille og frøs saa fast i Isen.
 
-`p00057` Et le caneton se coucha tristement dans un coin ; mais tout à coup un air vif et la lumière du soleil pénétrèrent dans la chambre, et cela lui donna une si grande envie de nager dans l’eau qu’il ne put s’empêcher d’en parler à la poule.
+`p00057` Tidlig om Morgenen kom en Bondemand, han saae den, gik ud og slog med sin Træsko Isen i Stykker og bar den saa hjem til sin Kone. Der blev den livet op.
 
-`p00058` « Qu’est-ce donc ? dit-elle. Tu n’as rien à faire, et voilà qu’il te prend des fantaisies. Ponds des œufs ou fais ron-ron, et ces caprices te passeront.
+`p00058` Børnene vilde lege med den, men Ællingen troede, at de vilde gjøre den Fortræd, og foer, i Forskrækkelse, lige op i Melkefadet, saa at Melken skvulpede ud i Stuen; Konen skreg og slog Hænderne i Veiret, og da fløi den i Truget, hvor Smørret var, og saa ned i Meeltønden og op igjen; naa, hvor den kom til at see ud! og Konen skreg og slog efter den med Ildklemmen, og Børnene løbe hinanden overende for at fange Ællingen, og de loe, og de skrege! – godt var det, at Døren stod aaben, ud foer den imellem Buskene i den nysfaldne Snee – der laae den, ligesom i Dvale.
 
-`p00059` — C’est pourtant bien joli de nager sur l’eau, dit le petit canard ; quel bonheur de la sentir se refermer sur sa tête et de plonger jusqu’au fond !
+`p00059` Men det vilde blive altfor bedrøveligt at fortælle al den Nød og Elendighed, den maatte prøve i den haarde Vinter – – den laae i Mosen mellem Rørene, da Solen igjen begyndte at skinne varmt; Lærkerne sang – det var deiligt Foraar.
 
-`p00060` — Ce doit être un grand plaisir, en effet ! répondit la poule. Je crois que tu es devenu fou. Demande un peu à Minet, qui est l’être le plus raisonnable que je connaisse, s’il aime à nager ou à plonger dans l’eau. Demande même à notre vieille maîtresse : personne dans le monde n’est plus expérimenté ; crois-tu qu’elle ait envie de nager et de sentir l’eau se refermer sur sa tête ?
+`p00060` Da løftede den paa eengang sine Vinger, de bruste stærkere end før og bare den kraftigt afsted; og før den ret vidste det, var den i en stor Have, hvor Æbletræerne stode i Blomster, hvor Sirenerne duftede og hang paa de lange, grønne Grene lige ned imod de bugtede Canaler! O her var saa deiligt, saa foraarsfriskt! og lige foran, ud af Tykningen, kom tre deilige, hvide Svaner; de bruste med Fjerene og fløde saa let paa Vandet. Ællingen kjendte de prægtige Dyr og blev betagen af en forunderlig Sørgmodighed.
 
-`p00061` — Vous ne me comprenez pas.
+`p00061` “Jeg vil flyve hen til dem, de kongelige Fugle! og de vil hugge mig ihjel, fordi jeg, der er saa styg, tør nærme mig dem! men det er det samme! bedre at dræbes af dem, end at nappes af Ænderne, hugges af Hønsene, sparkes af Pigen, der passer Hønsegaarden, og lide ondt om Vinteren!” og den fløi ud i Vandet og svømmede hen imod de prægtige Svaner, disse saae den og skjøde med brusende Fjere henimod den. “Dræber mig kun!” sagde det stakkels Dyr, og bøiede sit Hoved ned mod Vandfladen og ventede Døden, – men hvad saae den i det klare Vand! den saae under sig sit eget Billed, men den var ikke længere en kluntet, sortgraa Fugl, styg og fæl, den var selv en Svane.
 
-`p00062` — Nous ne te comprenons pas ? mais qui te comprendrait donc ? Te croirais-tu plus instruit que Minet et notre maîtresse ?
+`p00062` Det gjør ikke noget at være født i Andegaarden, naar man kun har ligget i et Svaneæg!
 
-`p00063` — Je ne veux pas parler de moi.
+`p00063` Den følte sig ordenlig glad over al den Nød og Gjenvordighed, den havde prøvet; nu skjønnede den just paa sin Lykke, paa al den Deilighed, der hilsede den. – Og de store Svaner svømmede rundt omkring den og strøge den med Næbet.
 
-`p00064` — Ne t’en fais pas accroire, enfant, mais remercie plutôt le créateur de tout le bien dont il t’a comblé. Tu es arrivé dans une chambre bien chaude, tu as trouvé une société dont tu pourrais profiter, et tu te mets à raisonner jusqu’à te rendre insupportable. Ce n’est vraiment pas un plaisir de vivre avec toi. Crois-moi, je te veux du bien ; je te dis sans doute des choses désagréables ; mais c’est à cela que l’on reconnaît ses véritables amis. Suis mes conseils, et tâche de pondre des œufs ou de faire ron-ron.
+`p00064` I Haven kom der nogle smaa Børn, de kastede Brød og Korn ud i Vandet, og den mindste raabte:
 
-`p00065` — Je crois qu’il me sera plus avantageux de faire mon tour dans le monde, répondit le canard.
+`p00065` “Der er en ny!” og de andre Børn jublede med: “ja der er kommet en ny!” og de klappede i Hænderne og dandsede rundt; løbe efter Fader og Moder, og der blev kastet Brød og Kage i Vandet, og Alle sagde de: “Den nye er den smukkeste! saa ung og saa deilig!” og de gamle Svaner neiede for den.
 
-`p00066` — Comme tu voudras, » dit le poulet.
-
-`p00067` Et le canard s’en alla nager et se plonger dans l’eau ; mais tous les animaux le méprisèrent à cause de sa laideur.
-
-`p00068` L’automne arriva, les feuilles de la forêt devinrent jaunes et brunes : le vent les saisit et les fit voltiger. En haut, dans les airs, il faisait bien froid ; des nuages lourds pendaient, chargés de grêle et de neige. Sur la haie le corbeau croassait tant il était gelé : rien que d’y penser, on grelottait. Le pauvre caneton n’était, en vérité, pas à son aise.
-
-`p00069` Un soir que le soleil se couchait glorieux, toute une foule de grands oiseaux superbes sortit des buissons ; le canet n’en avait jamais vu de semblables : ils étaient d’une blancheur éblouissante, ils avaient le cou long et souple. C’étaient des cygnes. Le son de leur voix était tout particulier : ils étendirent leurs longues ailes éclatantes pour aller loin de cette contrée chercher dans les pays chauds des lacs toujours ouverts. Ils montaient si haut, si haut, que le vilain petit canard en était étrangement affecté ; il tourna dans l’eau comme une roue, il dressa le cou et le tendit en l’air vers les cygnes voyageurs, et poussa un cri si perçant et si singulier qu’il se fit peur à lui-même. Il lui était impossible d’oublier ces oiseaux magnifiques et heureux ; aussitôt qu’il cessa de les apercevoir, il plongea jusqu’au fond, et, lorsqu’il remonta à la surface, il était comme hors de lui. Il ne savait comment s’appelaient ces oiseaux, ni où ils allaient ; mais cependant il les aimait comme il n’avait encore aimé personne. Il n’en était pas jaloux ; car comment aurait-il pu avoir l’idée de souhaiter pour lui-même une grâce si parfaite ? Il aurait été trop heureux, si les canards avaient consenti à le supporter, le pauvre être si vilain !
-
-`p00070` Et l’hiver devint bien froid, bien froid ; le caneton nageait toujours à la surface de l’eau pour l’empêcher de se prendre tout à fait ; mais chaque nuit le trou dans lequel il nageait se rétrécissait davantage. Il gelait si fort qu’on entendait la glace craquer ; le canet était obligé d’agiter continuellement les jambes pour que le trou ne se fermât pas autour de lui. Mais enfin il se sentit épuisé de fatigue ; il ne remuait plus et fut saisi par la glace.
-
-`p00071` Le lendemain matin, un paysan vint sur le bord et vit ce qui se passait ; il s’avança, rompit la glace et emporta le canard chez lui pour le donner à sa femme. Là, il revint à la vie.
-
-`p00072` Les enfants voulurent jouer avec lui ; mais le caneton, persuadé qu’ils allaient lui faire du mal, se jeta de peur au milieu du pot au lait, si bien que le lait rejaillit dans la chambre. La femme frappa ses mains l’une contre l’autre de colère, et lui, tout effrayé, se réfugia dans la baratte, et de là dans la huche à farine, puis de là prit son vol au dehors.
-
-`p00073` Dieu ! quel spectacle ! la femme criait, courait après lui, et voulait le battre avec les pincettes ; les enfants s’élancèrent sur le tas de fumier pour attraper le caneton. Ils riaient et poussaient des cris : ce fut un grand bonheur pour lui d’avoir trouvé la porte ouverte et de pouvoir ensuite se glisser entre des branches, dans la neige ; il s’y blottit tout épuisé.
-
-`p00074` Il serait trop triste de raconter toute sa misère et toutes les souffrances qu’il eut à supporter pendant cet hiver rigoureux.
-
-`p00075` Il était couché dans le marécage entre les joncs, lorsqu’un jour le soleil commença à reprendre son éclat et sa chaleur. Les alouettes chantaient. Il faisait un printemps délicieux.
-
-`p00076` Alors tout à coup le caneton put se confier à ses ailes, qui battaient l’air avec plus de vigueur qu’autrefois, assez fortes pour le transporter au loin. Et bientôt il se trouva dans un grand jardin où les pommiers étaient en pleine floraison, où le sureau répandait son parfum et penchait ses longues branches vertes jusqu’aux fossés. Comme tout était beau dans cet endroit ! Comme tout respirait le printemps !
-
-`p00077` Et des profondeurs du bois sortirent trois cygnes blancs et magnifiques.
-
-`p00078` Ils battaient des ailes et nagèrent sur l’eau. Le canet connaissait ces beaux oiseaux : il fut saisi d’une tristesse indicible.
-
-`p00079` « Je veux aller les trouver, ces oiseaux royaux ; ils me tueront, pour avoir osé, moi, si vilain, m’approcher d’eux ; mais cela m’est égal ; mieux vaut être tué par eux que d’être mordu par les canards, battu par les poules, poussé du pied par la fille de basse-cour, et que de souffrir les misères de l’hiver. »
-
-`p00080` Il s’élança dans l’eau et nagea à la rencontre des cygnes. Ceux-ci l’aperçurent et se précipitèrent vers lui les plumes soulevées. « Tuez-moi, » dit le pauvre animal ; et, penchant la tête vers la surface de l’eau, il attendait la mort.
-
-`p00081` Mais que vit-il dans l’eau transparente ? Il vit sa propre image au-dessous de lui : ce n’était plus un oiseau mal fait, d’un gris noir, vilain et dégoûtant, il était lui-même un cygne !
-
-`p00082` Il n’y a pas de mal à être né dans une basse-cour lorsqu’on sort d’un œuf de cygne.
-
-`p00083` Maintenant il se sentait heureux de toutes ses souffrances et de tous ses chagrins ; maintenant pour la première fois il goûtait tout son bonheur en voyant la magnificence qui l’entourait, et les grands cygnes nageaient autour de lui et le caressaient de leur bec.
-
-`p00084` De petits enfants vinrent au jardin et jetèrent du pain et du grain dans l’eau, et le plus petit d’entre eux s’écria : « En voilà un nouveau ! » et les autres enfants poussèrent des cris de joie : « Oui, oui ! c’est vrai ; il y en a encore un nouveau. » Et ils dansaient sur les bords, puis battaient des mains ; et ils coururent à leur père et à leur mère, et revinrent encore jeter du pain et du gâteau, et ils dirent tous : « Le nouveau est le plus beau ! Qu’il est jeune ! qu’il est superbe ! »
-
-`p00085` Vignette de Bertall
-
-`p00086` Et les vieux cygnes s’inclinèrent devant lui.
-
-`p00087` Alors, il se sentit honteux, et cacha sa tête sous son aile ; il ne savait comment se tenir, car c’était pour lui trop de bonheur. Mais il n’était pas fier. Un bon cœur ne le devient jamais. Il songeait à la manière dont il avait été persécuté et insulté partout, et voilà qu’il les entendait tous dire qu’il était le plus beau de tous ces beaux oiseaux ! Et le sureau même inclinait ses branches vers lui, et le soleil répandait une lumière si chaude et si bienfaisante ! Alors ses plumes se gonflèrent, son cou élancé se dressa, et il s’écria de tout son cœur : « Comment aurais-je pu rêver tant de bonheur, pendant que je n’étais qu’un vilain petit canard. »
-
-`p00088` Vignette de Bertall
+`p00066` Da følte den sig ganske undseelig og stak Hovedet om bag Vingerne, den vidste ikke selv hvad! den var altfor lykkelig, men slet ikke stolt, thi et godt Hjerte bliver aldrig stolt! den tænkte paa, hvor den havde været forfulgt og forhaanet, og hørte nu Alle sige, at den var den deiligste af alle deilige Fugle; og Sirenerne bøiede sig med Grenene lige ned i Vandet til den, og Solen skinnede saa varmt og saa godt, da bruste dens Fjedre, den slanke Hals hævede sig, og af Hjertet jublede den: “saa megen Lykke drømte jeg ikke om, da jeg var den grimme Ælling!”

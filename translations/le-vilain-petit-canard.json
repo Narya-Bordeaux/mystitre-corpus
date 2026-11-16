@@ -1,0 +1,37 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-vilain-petit-canard",
+  "sourceLanguage": "da",
+  "cleanTextSha256": "44f2266ee7fe183dbef9a0e2df57cb87c5339b52588daf04392e1a3d3aff422b",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Der var saa deiligt ude paa Landet; det var Sommer, Kornet stod guult, Havren grøn, Høet var reist i Stakke nede i de grønne Enge, og der gik Storken paa sine lange, røde Been og snakkede ægyptisk, for det Sprog havde han lært af sin Moder.",
+      "translation": "Qu'il faisait beau à la campagne ! C'était l'été ; le blé était jaune, l'avoine verte, le foin était dressé en meules dans les prés verdoyants, et la cigogne y marchait sur ses longues jambes rouges et parlait égyptien, car elle avait appris cette langue de sa mère."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Rundtom Ager og Eng var der store Skove, og midt i Skovene dybe Søer; jo, der var rigtignok deiligt derude paa Landet!",
+      "translation": "Autour des champs et des prés s'étendaient de grandes forêts, et au milieu des forêts de profonds lacs ; oui, il faisait vraiment beau là-bas, à la campagne !"
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Midt i Solskinnet laae der en gammel Herregaard med dybe Canaler rundt om, og fra Muren og ned til Vandet voxte store Skræppeblade, der vare saa høie, at smaa Børn kunde staae opreiste under de største; der var ligesaa vildsomt derinde, som i den tykkeste Skov, og her laae en And paa sin Rede; hun skulde ruge sine smaae Ællinger ud, men nu var hun næsten kjed af det, fordi det varede saa længe, og hun sjælden fik Visit; de andre Ænder holdt mere af at svømme om i Canalerne, end at løbe op og sidde under et Skræppeblad for at snaddre med hende.",
+      "translation": "En plein soleil se trouvait un vieux manoir entouré de profonds canaux, et, du mur jusqu'à l'eau, poussaient de grandes feuilles de patience, si hautes que de petits enfants pouvaient se tenir debout sous les plus grandes ; c'était aussi sauvage là-dedans que dans la forêt la plus épaisse, et une cane couvait là sur son nid ; elle devait faire éclore ses petits canetons, mais elle en était presque lasse, parce que cela durait si longtemps et qu'elle recevait rarement de la visite ; les autres canes aimaient mieux nager dans les canaux que de grimper s'asseoir sous une feuille de patience pour bavarder avec elle."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00064.s1",
+      "original": "I Haven kom der nogle smaa Børn, de kastede Brød og Korn ud i Vandet, og den mindste raabte:\n“Der er en ny!” og de andre Børn jublede med: “ja der er kommet en ny!” og de klappede i Hænderne og dandsede rundt; løbe efter Fader og Moder, og der blev kastet Brød og Kage i Vandet, og Alle sagde de: “Den nye er den smukkeste! saa ung og saa deilig!” og de gamle Svaner neiede for den.",
+      "translation": "De petits enfants vinrent au jardin, ils jetèrent du pain et du grain dans l'eau, et le plus petit s'écria :\n« En voilà un nouveau ! » et les autres enfants poussèrent des cris de joie : « Oui, il est venu un nouveau ! » et ils battaient des mains et dansaient en rond ; ils coururent chercher leur père et leur mère, et l'on jeta du pain et du gâteau dans l'eau, et tous disaient : « Le nouveau est le plus beau ! si jeune et si magnifique ! » et les vieux cygnes s'inclinèrent devant lui."
+    },
+    {
+      "id": "p00066.s1",
+      "original": "Da følte den sig ganske undseelig og stak Hovedet om bag Vingerne, den vidste ikke selv hvad! den var altfor lykkelig, men slet ikke stolt, thi et godt Hjerte bliver aldrig stolt! den tænkte paa, hvor den havde været forfulgt og forhaanet, og hørte nu Alle sige, at den var den deiligste af alle deilige Fugle; og Sirenerne bøiede sig med Grenene lige ned i Vandet til den, og Solen skinnede saa varmt og saa godt, da bruste dens Fjedre, den slanke Hals hævede sig, og af Hjertet jublede den: “saa megen Lykke drømte jeg ikke om, da jeg var den grimme Ælling!”",
+      "translation": "Alors il se sentit tout confus et cacha sa tête sous son aile, il ne savait lui-même que faire ! il était bien trop heureux, mais pas du tout fier, car un bon cœur ne devient jamais fier ! il songeait à la façon dont il avait été persécuté et raillé, et il entendait maintenant tout le monde dire qu'il était le plus beau de tous les beaux oiseaux ; et les lilas penchaient leurs branches jusque dans l'eau devant lui, et le soleil brillait si chaud et si bon, alors ses plumes se gonflèrent, son cou élancé se dressa, et du fond du cœur il s'écria avec jubilation : « Je n'aurais jamais rêvé tant de bonheur quand je n'étais que le vilain petit canard ! »"
+    }
+  ]
+}

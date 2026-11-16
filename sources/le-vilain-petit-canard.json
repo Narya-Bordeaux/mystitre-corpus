@@ -2,37 +2,32 @@
   "formatVersion": 1,
   "bookId": "le-vilain-petit-canard",
   "title": "Le Vilain Petit Canard",
-  "host": "fr.wikisource.org",
-  "sourceLanguage": "fr",
-  "edition": "Contes d’Andersen, traduction de David Soldi, illustrations de Bertall, Hachette, 1876, p. 284-301 (d’après fr.wikisource)",
+  "host": "da.wikisource.org",
+  "sourceLanguage": "da",
+  "edition": "Édition non indiquée (d'après da.wikisource, « Den grimme Ælling »)",
   "pages": [
     {
-      "title": "Contes d’Andersen/Le Vilain Petit Canard",
-      "revisionId": 9185742
+      "title": "Den grimme Ælling",
+      "revisionId": 77388
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "15ba2b6183a236b2e2142c98969f80b2f4cdcd15951d7cd47c6f03c4430a24b5",
+  "cleanTextSha256": "44f2266ee7fe183dbef9a0e2df57cb87c5339b52588daf04392e1a3d3aff422b",
   "bodyStart": {
-    "id": "p00003",
-    "textPrefix": "Que la campagne était belle ! On était au milieu de l’été ; "
+    "id": "p00001",
+    "textPrefix": "Der var saa deiligt ude paa Landet; det var Sommer, Kornet s"
   },
   "bodyEnd": {
-    "id": "p00087",
-    "textPrefix": "Alors, il se sentit honteux, et cacha sa tête sous son aile "
+    "id": "p00066",
+    "textPrefix": "Da følte den sig ganske undseelig og stak Hovedet om bag Vin"
   },
   "textOrigin": {
-    "kind": "publicDomainTranslation",
-    "originalLanguage": "da",
-    "translator": "David Soldi",
-    "translationYear": 1876,
-    "translatorDeathYear": 1884,
-    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:David_Soldi&oldid=11885352",
-    "publicDomainBasis": "translatorDeathYear"
+    "kind": "foreignOriginal",
+    "originalLanguage": "da"
   },
   "registeredOn": "2026-11-16",
   "notes": [
-    "Exclus : vignettes de Bertall (p00001, p00085, p00088) et titre d'édition (p00002). Le conte commence à « Que la campagne était belle ! » et finit sur le cri du cygne."
+    "Tout le conte ; la page ne contient ni titre, ni dédicace, ni notes."
   ],
   "titleMasks": [
     "vilain petit canard"
