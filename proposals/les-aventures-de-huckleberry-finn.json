@@ -1,0 +1,69 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-aventures-de-huckleberry-finn",
+  "title": "Les Aventures de Huckleberry Finn",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Adventures of Huckleberry Finn (1884), en.wikisource.org (premier et dernier chapitre seulement)",
+    "pages": [
+      {
+        "title": "The Adventures of Huckleberry Finn (1884)/Chapter 1",
+        "revisionId": 11174516
+      },
+      {
+        "title": "The Adventures of Huckleberry Finn (1884)/Chapter 43",
+        "revisionId": 11318911
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2c384ed527aa8ef2c4f3c28f6cde54bfe87005dbc5aad346169ad03221359b66"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "don't know about me",
+      "replace": "You don't know about me",
+      "reason": "Lettrine « Y » en image dans l'édition de 1884"
+    },
+    {
+      "kind": "join",
+      "paragraphId": "p00006",
+      "reason": "Paragraphe coupé par un saut de page"
+    }
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3",
+      "p00002.s4",
+      "p00002.s5"
+    ],
+    "french": "Vous ne savez rien de moi, à moins d'avoir lu un livre intitulé « Les Aventures de Tom Sawyer », mais ça n'a pas d'importance. Ce livre a été fait par M. Mark Twain, et il a dit la vérité, en gros. Il y a des choses qu'il a gonflées, mais en gros il a dit la vérité. Ça, ce n'est rien. Je n'ai jamais vu personne qui n'ait menti, une fois ou l'autre, sauf tante Polly, ou la veuve, ou peut-être Mary.",
+    "original": "You don't know about me, without you have read a book by the name of \"The Adventures of Tom Sawyer,\" but that ain't no matter. That book was made by Mr. Mark Twain, and he told the truth, mainly. There was things which he stretched, but mainly he told the truth. That is nothing. I never seen anybody but lied, one time or another, without it was Aunt Polly, or the widow, or maybe Mary.",
+    "length": 400,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00029.s1",
+      "p00029.s2",
+      "p00029.s3",
+      "p00030.s1",
+      "p00030.s2"
+    ],
+    "french": "Tom est presque guéri maintenant, il porte sa balle autour du cou, au bout d'une chaîne de montre en guise de montre, et il regarde l'heure sans arrêt, alors il n'y a plus rien à raconter, et j'en suis rudement content, parce que si j'avais su quelle affaire c'était de faire un livre, je ne m'y serais pas mis, et je ne recommencerai plus. Mais je crois bien qu'il faut que je file vers le Territoire avant les autres, parce que tante Sally veut m'adopter et me civiliser, et ça, je ne peux pas le supporter. J'y suis déjà passé.\nFIN. BIEN À VOUS, HUCK FINN.",
+    "original": "Tom's most well, now, and got his bullet around his neck on a watch-guard for a watch, and is always seeing what time it is, and so there ain't nothing more to write about, and I am rotten glad of it, because if I'd a knowed what a trouble it was to make a book I wouldn't a tackled it and ain't agoing to no more. But I reckon I got to light out for the Territory ahead of the rest, because Aunt Sally she's going to adopt me and sivilise me, and I can't stand it. I been there before.\nTHE END. YOURS TRULY, HUCK FINN.",
+    "length": 559,
+    "truncated": false
+  }
+}

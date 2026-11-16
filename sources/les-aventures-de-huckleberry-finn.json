@@ -17,14 +17,36 @@
   ],
   "cleanerVersion": 1,
   "cleanTextSha256": "2c384ed527aa8ef2c4f3c28f6cde54bfe87005dbc5aad346169ad03221359b66",
-  "bodyStart": null,
-  "bodyEnd": null,
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "don't know about me, without you have read a book by the nam"
+  },
+  "bodyEnd": {
+    "id": "p00030",
+    "textPrefix": "THE END. YOURS TRULY, HUCK FINN."
+  },
   "textOrigin": {
     "kind": "foreignOriginal",
     "originalLanguage": "en"
   },
   "registeredOn": "2026-11-16",
-  "notes": [],
+  "notes": [
+    "Exclus : intitulé de chapitre « THE WIDOW'S. » (p00001) et adresse de l'imprimeur (p00031). Signature fictive « THE END. YOURS TRULY, HUCK FINN. » conservée car elle fait partie de l'œuvre. Le corpus ne contient que le premier et le dernier chapitre."
+  ],
   "titleMasks": [],
-  "readingOptions": []
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "don't know about me",
+      "replace": "You don't know about me",
+      "reason": "Lettrine « Y » en image dans l'édition de 1884"
+    },
+    {
+      "kind": "join",
+      "paragraphId": "p00006",
+      "reason": "Paragraphe coupé par un saut de page"
+    }
+  ]
 }
