@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-case-de-loncle-tom",
+  "title": "La Case de l'oncle Tom",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Louise Swanton-Belloc",
+    "translationYear": null,
+    "translatorDeathYear": 1881,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Louise_Swanton-Belloc&oldid=11886896",
+    "label": "Traduction libre de droits (Louise Swanton-Belloc)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Case de l’oncle Tom, traduction faite à la demande de l’auteur par madame L. Sw. Belloc (édition non indiquée) ; seuls le premier et le dernier chapitre du récit sont enregistrés",
+    "pages": [
+      {
+        "title": "La Case de l’oncle Tom/Ch I",
+        "revisionId": 14384534
+      },
+      {
+        "title": "La Case de l’oncle Tom/Ch XLV",
+        "revisionId": 14384954
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "4ff5d2dceb0347cf30ba3312450950a2900f357219a138501bab5fae8b5f3727"
+  },
+  "titleMasks": [
+    "case de l’oncle Tom"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "À une heure avancée d’une glaciale après-midi de février, deux gentilshommes étaient assis, en tiers avec une bouteille, dans une confortable salle à manger de la ville de P***, au Kentucky. Pas un domestique n’était présent ; et les chaises rapprochées indiquaient que le sujet en question était chaudement débattu.",
+    "original": "À une heure avancée d’une glaciale après-midi de février, deux gentilshommes étaient assis, en tiers avec une bouteille, dans une confortable salle à manger de la ville de P***, au Kentucky. Pas un domestique n’était présent ; et les chaises rapprochées indiquaient que le sujet en question était chaudement débattu.",
+    "length": 316,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00127.s3",
+      "p00127.s4"
+    ],
+    "french": "Ainsi, en vous réjouissant de votre liberté, pensez que vous la devez à cette bonne et belle âme, et acquittez-vous envers elle à force de tendresse pour sa femme et ses enfants. Songez à la joie d’être libres chaque fois que vous verrez la [TITRE], et qu’elle réveille en vous tous l’envie de suivre ses traces, d’être comme lui un honnête, un fidèle, un vaillant chrétien. »",
+    "original": "Ainsi, en vous réjouissant de votre liberté, pensez que vous la devez à cette bonne et belle âme, et acquittez-vous envers elle à force de tendresse pour sa femme et ses enfants. Songez à la joie d’être libres chaque fois que vous verrez la case de l’oncle Tom, et qu’elle réveille en vous tous l’envie de suivre ses traces, d’être comme lui un honnête, un fidèle, un vaillant chrétien. »",
+    "length": 388,
+    "truncated": false
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-case-de-loncle-tom",
+  "title": "La Case de l'oncle Tom",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Case de l’oncle Tom, traduction faite à la demande de l’auteur par madame L. Sw. Belloc (édition non indiquée) ; seuls le premier et le dernier chapitre du récit sont enregistrés",
+  "pages": [
+    {
+      "title": "La Case de l’oncle Tom/Ch I",
+      "revisionId": 14384534
+    },
+    {
+      "title": "La Case de l’oncle Tom/Ch XLV",
+      "revisionId": 14384954
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "4ff5d2dceb0347cf30ba3312450950a2900f357219a138501bab5fae8b5f3727",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "À une heure avancée d’une glaciale après-midi de février, de"
+  },
+  "bodyEnd": {
+    "id": "p00127",
+    "textPrefix": "Il fit alors un court récit de sa mort, et parla de ses souv"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Louise Swanton-Belloc",
+    "translationYear": null,
+    "translatorDeathYear": 1881,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Louise_Swanton-Belloc&oldid=11886896"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Corps = premier paragraphe du chapitre I (après l'intitulé et le sommaire du chapitre) jusqu'au dernier paragraphe du chapitre XLV, fin du récit. Exclus : page de titre, intitulés de chapitre ; le chapitre XLVI (réponse de l'auteure sur la réalité des faits) n'est pas du récit et n'est pas enregistré. Seuls ces deux chapitres sont téléchargés."
+  ],
+  "titleMasks": [
+    "case de l’oncle Tom"
+  ],
+  "readingOptions": []
+}
