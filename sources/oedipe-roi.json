@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "oedipe-roi",
+  "title": "Œdipe Roi",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Oidipous-Roi, traduction de Leconte de Lisle, page de Wikisource (édition source non indiquée)",
+  "pages": [
+    {
+      "title": "Oidipous-Roi",
+      "revisionId": 9902570
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "add324899bec63083666881dd52093ffb440d8442262c8897e097ecfa81b7018",
+  "bodyStart": {
+    "id": "p00012",
+    "textPrefix": "Ô enfants, race nouvelle de l’antique Kadmos, pourquoi vous "
+  },
+  "bodyEnd": {
+    "id": "p00497",
+    "textPrefix": "Ô habitants de Thèba, ma patrie, voyez ! Cet Oidipous qui de"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1877,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre et liste des personnages. Le corps commence à la première réplique d'Oidipous et finit sur le dernier chant du Chœur."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

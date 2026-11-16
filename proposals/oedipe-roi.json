@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "oedipe-roi",
+  "title": "Œdipe Roi",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1877,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679",
+    "label": "Traduction libre de droits (Leconte de Lisle, 1877)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Oidipous-Roi, traduction de Leconte de Lisle, page de Wikisource (édition source non indiquée)",
+    "pages": [
+      {
+        "title": "Oidipous-Roi",
+        "revisionId": 9902570
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "add324899bec63083666881dd52093ffb440d8442262c8897e097ecfa81b7018"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00012.s1",
+      "p00012.s2",
+      "p00012.s3"
+    ],
+    "french": "OIDIPOUS. — Ô enfants, race nouvelle de l’antique Kadmos, pourquoi vous tenez-vous ainsi devant moi avec ces rameaux suppliants ? Toute la Ville est pleine de l’encens qui brûle et du retentissement des Paians et des lamentations. Je n’ai point pensé que je dusse apprendre ceci par d’autres, ô enfants !",
+    "original": "OIDIPOUS. — Ô enfants, race nouvelle de l’antique Kadmos, pourquoi vous tenez-vous ainsi devant moi avec ces rameaux suppliants ? Toute la Ville est pleine de l’encens qui brûle et du retentissement des Paians et des lamentations. Je n’ai point pensé que je dusse apprendre ceci par d’autres, ô enfants !",
+    "length": 304,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00497.s2",
+      "p00497.s3"
+    ],
+    "french": "LE CHŒUR. — Cet Oidipous qui devina l’énigme célèbre ; cet homme très-puissant qui ne porta jamais envie aux richesses des citoyens, par quelle tempête de malheurs terribles il a été renversé ! C’est pourquoi, attendant le jour suprême de chacun, ne dites jamais qu’un homme né mortel a été heureux, avant qu’il ait atteint le terme de sa vie sans avoir souffert.",
+    "original": "LE CHŒUR. — Cet Oidipous qui devina l’énigme célèbre ; cet homme très-puissant qui ne porta jamais envie aux richesses des citoyens, par quelle tempête de malheurs terribles il a été renversé ! C’est pourquoi, attendant le jour suprême de chacun, ne dites jamais qu’un homme né mortel a été heureux, avant qu’il ait atteint le terme de sa vie sans avoir souffert.",
+    "length": 363,
+    "truncated": false
+  }
+}
