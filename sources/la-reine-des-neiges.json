@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-reine-des-neiges",
+  "title": "La Reine des neiges",
+  "host": "da.wikisource.org",
+  "sourceLanguage": "da",
+  "edition": "Édition non indiquée (d'après da.wikisource, « Sneedronningen »)",
+  "pages": [
+    {
+      "title": "Sneedronningen",
+      "revisionId": 68337
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "64eba3a8e92f9b63a4303628b5800a3957c9e66858495b18a8a1b9d7daa324ee",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "See saa! nu begynde vi. Naar vi ere ved Enden af Historien, "
+  },
+  "bodyEnd": {
+    "id": "p00201",
+    "textPrefix": "Der sad de begge to Voxne og dog Børn, Børn i Hjertet, og de"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "da"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : sous-titre « Et Eventyr i syv Historier » (p00001) et intitulé de la première histoire (p00002). Les intitulés des six autres histoires (centrés) restent dans le corps mais n'entrent pas dans les extraits."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
