@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-cid",
+  "title": "Le Cid",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres de Corneille, éd. Marty-Laveaux, t. 3, Hachette, 1862",
+    "pages": [
+      {
+        "title": "Le Cid/Édition Marty-Laveaux/Le Cid",
+        "revisionId": 11074558
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ddfbe2c66e430bc98621b794d08ab97fb11f0b27d7662bd9ab7addfedb22ab39"
+  },
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00017.s1",
+      "p00017.s2",
+      "p00018.s1",
+      "p00020.s1"
+    ],
+    "french": "CHIMÈNE. — Elvire, m’as-tu fait un rapport bien sincère ?\nNe déguises-tu rien de ce qu’a dit mon père ?\nELVIRE. — Tous mes sens à moi-même en sont encor charmés :\nIl estime Rodrigue autant que vous l’aimez,\nEt si je ne m’abuse à lire dans son âme,\nIl vous commandera de répondre à sa flamme.\nCHIMÈNE. — Dis-moi donc, je te prie, une seconde fois\nCe qui te fait juger qu’il approuve mon choix :\nApprends-moi de nouveau quel espoir j’en dois prendre ;\nUn si charmant discours ne se peut trop entendre ;\nTu ne peux trop promettre aux feux de notre amour\nLa douce liberté de se montrer au jour.",
+    "original": "CHIMÈNE. — Elvire, m’as-tu fait un rapport bien sincère ?\nNe déguises-tu rien de ce qu’a dit mon père ?\nELVIRE. — Tous mes sens à moi-même en sont encor charmés :\nIl estime Rodrigue autant que vous l’aimez,\nEt si je ne m’abuse à lire dans son âme,\nIl vous commandera de répondre à sa flamme.\nCHIMÈNE. — Dis-moi donc, je te prie, une seconde fois\nCe qui te fait juger qu’il approuve mon choix :\nApprends-moi de nouveau quel espoir j’en dois prendre ;\nUn si charmant discours ne se peut trop entendre ;\nTu ne peux trop promettre aux feux de notre amour\nLa douce liberté de se montrer au jour.",
+    "length": 590,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00523.s2",
+      "p00524.s1"
+    ],
+    "french": "DON RODRIGUE. — Quoi qu’absent de ses yeux il me faille endurer,\nSire, ce m’est trop d’heur de pouvoir espérer.\nDON FERNAND. — Espère en ton courage, espère en ma promesse ;\nEt possédant déjà le cœur de ta maîtresse,\nPour vaincre un point d’honneur qui combat contre toi,\nLaisse faire le temps, ta vaillance et ton roi.",
+    "original": "DON RODRIGUE. — Quoi qu’absent de ses yeux il me faille endurer,\nSire, ce m’est trop d’heur de pouvoir espérer.\nDON FERNAND. — Espère en ton courage, espère en ma promesse ;\nEt possédant déjà le cœur de ta maîtresse,\nPour vaincre un point d’honneur qui combat contre toi,\nLaisse faire le temps, ta vaillance et ton roi.",
+    "length": 319,
+    "truncated": false
+  }
+}

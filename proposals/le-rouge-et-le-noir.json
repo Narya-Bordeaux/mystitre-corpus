@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-rouge-et-le-noir",
+  "title": "Le Rouge et le Noir",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Michel Lévy frères, 1854",
+    "pages": [
+      {
+        "title": "Le Rouge et le Noir/Texte entier",
+        "revisionId": 14174932
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "fccc50f07d40cfb1a9e7224ad46e2e96f8e694e4825cc8f06d29f877b934ca73"
+  },
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00022.s1",
+      "p00022.s2",
+      "p00022.s3"
+    ],
+    "french": "La petite ville de Verrières peut passer pour l’une des plus jolies de la Franche-Comté. Ses maisons blanches avec leurs toits pointus de tuiles rouges, s’étendent sur la pente d’une colline, dont des touffes de vigoureux châtaigniers marquent les moindres sinuosités. Le Doubs coule à quelques centaines de pieds au-dessous de ses fortifications, bâties jadis par les Espagnols, et maintenant ruinées.",
+    "original": "La petite ville de Verrières peut passer pour l’une des plus jolies de la Franche-Comté. Ses maisons blanches avec leurs toits pointus de tuiles rouges, s’étendent sur la pente d’une colline, dont des touffes de vigoureux châtaigniers marquent les moindres sinuosités. Le Doubs coule à quelques centaines de pieds au-dessous de ses fortifications, bâties jadis par les Espagnols, et maintenant ruinées.",
+    "length": 402,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p03707.s2",
+      "p03708.s1",
+      "p03709.s1",
+      "p03709.s2"
+    ],
+    "french": "Fouqué faillit en devenir fou de douleur.\nPar les soins de Mathilde, cette grotte sauvage fut ornée de marbres sculptés à grands frais en Italie.\nMadame de Rênal fut fidèle à sa promesse. Elle ne chercha en aucune manière à attenter à sa vie ; mais trois jours après Julien, elle mourut en embrassant ses enfants.",
+    "original": "Fouqué faillit en devenir fou de douleur.\nPar les soins de Mathilde, cette grotte sauvage fut ornée de marbres sculptés à grands frais en Italie.\nMadame de Rênal fut fidèle à sa promesse. Elle ne chercha en aucune manière à attenter à sa vie ; mais trois jours après Julien, elle mourut en embrassant ses enfants.",
+    "length": 313,
+    "truncated": false
+  }
+}

@@ -14,6 +14,8 @@ Ce dépôt ne contient que des données. Le moteur qui les produit est dans le d
 | `sources/<id>.json` | Fiche de source : pages Wikisource et révisions figées, empreinte du texte nettoyé, bornes du corps du texte, origine du texte |
 | `texts/<id>.json` | Texte nettoyé complet, paragraphes numérotés (`p00001`…) — **référence** |
 | `texts/<id>.md` | Même texte, lisible dans GitHub, régénéré depuis le JSON |
+| `translations/<id>.json` | Original étranger : traduction alignée phrase par phrase, avec l'original de chaque phrase |
+| `proposals/<id>.json` | Extraits d'ouverture et de clôture proposés pour le jeu (français et original), à relire |
 
 `<id>` est l'identifiant de l'œuvre dans le catalogue du jeu (`assets/data/books.json`).
 
@@ -31,6 +33,8 @@ Ce dépôt ne contient que des données. Le moteur qui les produit est dans le d
 - L'**empreinte** (`cleanTextSha256`) le vérifie : `fetch` échoue si le texte nettoyé diffère.
 - Chaque **borne** du corps du texte mémorise le début de son paragraphe : si un nettoyage
   ultérieur décale les numéros, `check` le signale et `relocate-bounds` les retrouve.
+- Chaque **proposition** est recalculable : `verify` la recalcule depuis le texte et les
+  traductions et refuse le moindre écart (original retouché, citation modifiée, texte altéré).
 
 ## Utilisation
 
@@ -42,4 +46,8 @@ python scripts/corpus_cli.py status
 
 ```bash
 python scripts/corpus_cli.py check
+```
+
+```bash
+python scripts/corpus_cli.py verify
 ```

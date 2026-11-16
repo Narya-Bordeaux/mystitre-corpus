@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-metamorphose",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "26c073777ef39345f4593940f05d0ecb113e3d70d6b2169de8879eea4825b489",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.",
+      "translation": "Quand Gregor Samsa s'éveilla un matin au sortir de rêves inquiets, il se trouva changé dans son lit en une vermine monstrueuse."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "Er lag auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig hob, seinen gewölbten, braunen, von bogenförmigen Versteifungen geteilten Bauch, auf dessen Höhe sich die Bettdecke, zum gänzlichen Niedergleiten bereit, kaum noch erhalten konnte.",
+      "translation": "Il était couché sur son dos, dur comme une carapace, et, en soulevant un peu la tête, il voyait son ventre bombé, brun, partagé par des nervures en arc, sur le haut duquel la couverture, prête à glisser tout à fait, ne tenait plus qu'à peine."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "Seine vielen, im Vergleich zu seinem sonstigen Umfang kläglich dünnen Beine flimmerten ihm hilflos vor den Augen.",
+      "translation": "Ses nombreuses pattes, d'une minceur pitoyable au regard du reste de son corps, s'agitaient sans recours devant ses yeux."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "»Was ist mit mir geschehen?« dachte er.",
+      "translation": "« Que m'est-il arrivé ? » pensa-t-il."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "Es war kein Traum, sein Zimmer, ein richtiges, nur etwas zu kleines Menschenzimmer, lag ruhig zwischen den vier wohlbekannten Wänden, über dem Tisch, auf dem eine auseinandergepackte Musterkollektion von Tuchwaren ausgebreitet war – Samsa war Reisender –, hing das Bild, das er vor kurzem aus einer illustrierten Zeitschrift ausgeschnitten und in einem hübschen, vergoldeten Rahmen untergebracht hatte.",
+      "translation": "Ce n'était pas un rêve : sa chambre, une vraie chambre d'homme, seulement un peu trop petite, reposait tranquillement entre ses quatre murs familiers ; au-dessus de la table, où s'étalait une collection d'échantillons de tissus sortis de leur emballage – Samsa était représentant –, était accrochée l'image qu'il avait découpée peu de temps auparavant dans un magazine illustré et installée dans un joli cadre doré."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00118.s4",
+      "original": "Die größte augenblickliche Besserung der Lage mußte sich natürlich leicht durch einen Wohnungswechsel ergeben; sie wollten nun eine kleinere und billigere, aber besser gelegene und überhaupt praktischere Wohnung nehmen, als es die jetzige, noch von Gregor ausgesuchte war.",
+      "translation": "Le plus grand soulagement immédiat viendrait évidemment, et sans peine, d'un déménagement ; ils voulaient maintenant prendre un logement plus petit et moins cher, mais mieux situé et en tout plus pratique que l'actuel, que Gregor avait choisi."
+    },
+    {
+      "id": "p00118.s5",
+      "original": "Während sie sich so unterhielten, fiel es Herrn und Frau Samsa im Anblick ihrer immer lebhafter werdenden Tochter fast gleichzeitig ein, wie sie in der letzten Zeit trotz aller Plage, die ihre Wangen bleich gemacht hatte, zu einem schönen und üppigen Mädchen aufgeblüht war.",
+      "translation": "Tandis qu'ils causaient ainsi, M. et Mme Samsa, en regardant leur fille de plus en plus animée, s'avisèrent presque en même temps que, malgré toutes les épreuves qui avaient pâli ses joues, elle s'était épanouie ces derniers temps en une belle jeune fille aux formes pleines."
+    },
+    {
+      "id": "p00118.s6",
+      "original": "Stiller werdend und fast unbewußt durch Blicke sich verständigend, dachten sie daran, daß es nun Zeit sein werde, auch einen braven Mann für sie zu suchen.",
+      "translation": "Devenus plus silencieux et s'entendant presque sans le vouloir par des regards, ils songèrent qu'il serait bientôt temps de lui chercher aussi un brave mari."
+    },
+    {
+      "id": "p00118.s7",
+      "original": "Und es war ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten, als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren jungen Körper dehnte.",
+      "translation": "Et ce fut pour eux comme une confirmation de leurs rêves nouveaux et de leurs bonnes intentions quand, au terme du trajet, leur fille se leva la première et étira son jeune corps."
+    }
+  ]
+}

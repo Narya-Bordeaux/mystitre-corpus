@@ -1,0 +1,193 @@
+{
+  "formatVersion": 1,
+  "bookId": "jane-eyre",
+  "title": "Jane Eyre",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Smith, Elder & Co., 1st edition, 1847",
+    "pages": [
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 1",
+        "revisionId": 7323748
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 2",
+        "revisionId": 7323835
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 3",
+        "revisionId": 7323836
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 4",
+        "revisionId": 7325128
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 5",
+        "revisionId": 7326872
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 6",
+        "revisionId": 7327840
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 7",
+        "revisionId": 7327897
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 8",
+        "revisionId": 7328001
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 9",
+        "revisionId": 7328122
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 10",
+        "revisionId": 7328188
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 11",
+        "revisionId": 7329039
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 12",
+        "revisionId": 7329458
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 13",
+        "revisionId": 7331517
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 14",
+        "revisionId": 7331883
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 1/Chapter 15",
+        "revisionId": 7332146
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 1",
+        "revisionId": 7334874
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 2",
+        "revisionId": 7335745
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 3",
+        "revisionId": 7338040
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 4",
+        "revisionId": 7341427
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 5",
+        "revisionId": 7341751
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 6",
+        "revisionId": 7346419
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 7",
+        "revisionId": 7452934
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 8",
+        "revisionId": 7453248
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 9",
+        "revisionId": 7672995
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 10",
+        "revisionId": 9170292
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 2/Chapter 11",
+        "revisionId": 9197110
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 1",
+        "revisionId": 9199270
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 2",
+        "revisionId": 10382848
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 3",
+        "revisionId": 10405746
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 4",
+        "revisionId": 10455941
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 5",
+        "revisionId": 10482480
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 6",
+        "revisionId": 10514472
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 7",
+        "revisionId": 10709428
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 8",
+        "revisionId": 11066770
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 9",
+        "revisionId": 11135533
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 10",
+        "revisionId": 11155174
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 11",
+        "revisionId": 11155177
+      },
+      {
+        "title": "Jane Eyre (1st edition)/Volume 3/Chapter 12",
+        "revisionId": 11155180
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c86bca87390d84bf1eff93227848ee6fc501c9fcc13061f065ff7ad83673f080"
+  },
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Il n'y avait pas moyen de faire une promenade ce jour-là. Nous avions bien erré une heure, le matin, dans le bosquet dépouillé de ses feuilles ; mais depuis le dîner (Mrs. Reed dînait tôt quand elle n'avait pas de visite), le vent froid de l'hiver avait amené des nuages si sombres et une pluie si pénétrante qu'il ne pouvait plus être question de sortir.",
+    "original": "There was no possibility of taking a walk that day. We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further out-door exercise was now out of the question.",
+    "length": 355,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p04057.s6",
+      "p04057.s7",
+      "p04058.s1"
+    ],
+    "french": "Aucune crainte de la mort n'assombrira la dernière heure de St. John : son esprit sera sans nuage ; son cœur, sans peur ; son espérance, assurée ; sa foi, inébranlable. Ses propres paroles m'en donnent le gage :\n« Mon Maître, écrit-il, m'a prévenu. Chaque jour il annonce plus clairement : “Oui, je viens bientôt” ; et à chaque heure je réponds avec plus d'ardeur : “Amen, viens, Seigneur Jésus !” »",
+    "original": "No fear of death will darken St. John's last hour: his mind will be unclouded; his heart will be undaunted; his hope will be sure; his faith steadfast. His own words are a pledge of this:—\n\"My Master,\" he says, \"has forewarned me. Daily he announces more distinctly,—'Surely I come quickly;' and hourly I more eagerly respond,—'Amen; even so come, Lord Jesus!'\"",
+    "length": 399,
+    "truncated": false
+  }
+}

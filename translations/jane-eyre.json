@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "jane-eyre",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "c86bca87390d84bf1eff93227848ee6fc501c9fcc13061f065ff7ad83673f080",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "There was no possibility of taking a walk that day.",
+      "translation": "Il n'y avait pas moyen de faire une promenade ce jour-là."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "We had been wandering, indeed, in the leafless shrubbery an hour in the morning; but since dinner (Mrs. Reed, when there was no company, dined early) the cold winter wind had brought with it clouds so sombre, and a rain so penetrating, that further out-door exercise was now out of the question.",
+      "translation": "Nous avions bien erré une heure, le matin, dans le bosquet dépouillé de ses feuilles ; mais depuis le dîner (Mrs. Reed dînait tôt quand elle n'avait pas de visite), le vent froid de l'hiver avait amené des nuages si sombres et une pluie si pénétrante qu'il ne pouvait plus être question de sortir."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "I was glad of it: I never liked long walks, especially on chilly afternoons: dreadful to me was the coming home in the raw twilight, with nipped fingers and toes, and a heart saddened by the chidings of Bessie, the nurse, and humbled by the consciousness of my physical inferiority to Eliza, John, and Georgiana Reed.",
+      "translation": "J'en étais contente : je n'ai jamais aimé les longues promenades, surtout par les après-midi froids ; je redoutais le retour dans le crépuscule glacé, les doigts et les orteils transis, le cœur attristé par les reproches de Bessie, la bonne, et humilié par le sentiment de mon infériorité physique devant Eliza, John et Georgiana Reed."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p04057.s3",
+      "original": "The last letter I received from him, drew from my eyes human tears, and yet filled my heart with Divine joy: he anticipated his sure reward, his incorruptible crown.",
+      "translation": "La dernière lettre que j'ai reçue de lui m'a tiré des larmes humaines, et pourtant m'a rempli le cœur d'une joie divine : il attendait sa récompense certaine, sa couronne incorruptible."
+    },
+    {
+      "id": "p04057.s4",
+      "original": "I know that a stranger's hand will write to me next, to say that the good and faithful servant has been called at length into the joy of his Lord.",
+      "translation": "Je sais que la prochaine fois, c'est une main étrangère qui m'écrira, pour m'annoncer que le bon et fidèle serviteur a enfin été appelé dans la joie de son Seigneur."
+    },
+    {
+      "id": "p04057.s5",
+      "original": "And why weep for this?",
+      "translation": "Et pourquoi en pleurer ?"
+    },
+    {
+      "id": "p04057.s6",
+      "original": "No fear of death will darken St. John's last hour: his mind will be unclouded; his heart will be undaunted; his hope will be sure; his faith steadfast.",
+      "translation": "Aucune crainte de la mort n'assombrira la dernière heure de St. John : son esprit sera sans nuage ; son cœur, sans peur ; son espérance, assurée ; sa foi, inébranlable."
+    },
+    {
+      "id": "p04057.s7",
+      "original": "His own words are a pledge of this:—\n\"My Master,\" he says, \"has forewarned me.",
+      "translation": "Ses propres paroles m'en donnent le gage :\n« Mon Maître, écrit-il, m'a prévenu."
+    },
+    {
+      "id": "p04058.s1",
+      "original": "Daily he announces more distinctly,—'Surely I come quickly;' and hourly I more eagerly respond,—'Amen; even so come, Lord Jesus!'\"",
+      "translation": "Chaque jour il annonce plus clairement : “Oui, je viens bientôt” ; et à chaque heure je réponds avec plus d'ardeur : “Amen, viens, Seigneur Jésus !” »"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-metamorphose",
+  "title": "La Métamorphose",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Die weißen Blätter, 1915",
+    "pages": [
+      {
+        "title": "Die Verwandlung (Franz Kafka)",
+        "revisionId": 3778141
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "26c073777ef39345f4593940f05d0ecb113e3d70d6b2169de8879eea4825b489"
+  },
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Quand Gregor Samsa s'éveilla un matin au sortir de rêves inquiets, il se trouva changé dans son lit en une vermine monstrueuse. Il était couché sur son dos, dur comme une carapace, et, en soulevant un peu la tête, il voyait son ventre bombé, brun, partagé par des nervures en arc, sur le haut duquel la couverture, prête à glisser tout à fait, ne tenait plus qu'à peine.",
+    "original": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt. Er lag auf seinem panzerartig harten Rücken und sah, wenn er den Kopf ein wenig hob, seinen gewölbten, braunen, von bogenförmigen Versteifungen geteilten Bauch, auf dessen Höhe sich die Bettdecke, zum gänzlichen Niedergleiten bereit, kaum noch erhalten konnte.",
+    "length": 370,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00118.s6",
+      "p00118.s7"
+    ],
+    "french": "Devenus plus silencieux et s'entendant presque sans le vouloir par des regards, ils songèrent qu'il serait bientôt temps de lui chercher aussi un brave mari. Et ce fut pour eux comme une confirmation de leurs rêves nouveaux et de leurs bonnes intentions quand, au terme du trajet, leur fille se leva la première et étira son jeune corps.",
+    "original": "Stiller werdend und fast unbewußt durch Blicke sich verständigend, dachten sie daran, daß es nun Zeit sein werde, auch einen braven Mann für sie zu suchen. Und es war ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten, als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren jungen Körper dehnte.",
+    "length": 337,
+    "truncated": false
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "guerre-et-paix",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "9017bd7fe212863fb2d4242de2f9b58cff83d41225e7eb1bd8cf9768677bdd6d",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "— Eh bien, mon prince.",
+      "translation": "— Eh bien, mon prince."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Gênes et Lucques ne sont plus que des apanages, des поместья, de la famille Buonaparte.",
+      "translation": "Gênes et Lucques ne sont plus que des apanages, des domaines, de la famille Buonaparte."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "Non, je vous préviens, que si vous ne me dites pas, que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j’y crois) — je ne vous connais plus, vous n’êtes plus mon ami, vous n’êtes plus мой верный раб, comme vous dites.",
+      "translation": "Non, je vous préviens, que si vous ne me dites pas, que nous avons la guerre, si vous vous permettez encore de pallier toutes les infamies, toutes les atrocités de cet Antichrist (ma parole, j’y crois) — je ne vous connais plus, vous n’êtes plus mon ami, vous n’êtes plus mon fidèle esclave, comme vous dites."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "Ну, здравствуйте, здравствуйте.",
+      "translation": "Allons, bonjour, bonjour."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "Je vois que je vous fais peur, садитесь и рассказывайте.",
+      "translation": "Je vois que je vous fais peur, asseyez-vous et racontez."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "Так говорила в июле 1805 года известная Анна Павловна Шерер, фрейлина и приближенная императрицы Марии Феодоровны, встречая важного и чиновного князя Василия, первого приехавшего на ее вечер.",
+      "translation": "Ainsi parlait, en juillet 1805, la célèbre Anna Pavlovna Scherer, demoiselle d'honneur et familière de l'impératrice Maria Feodorovna, en accueillant le prince Vassili, personnage important et haut placé, arrivé le premier à sa soirée."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p11195.s2",
+      "original": "Но, как в астрономии новое воззрение говорило: «правда, мы не чувствуем движения земли, но, допустив ее неподвижность, мы приходим к бессмыслице; допустив же движение, которого мы не чувствуем, мы приходим к законам», так и в истории новое воззрение говорит: «правда, мы не чувствуем нашей зависимости, но, допустив нашу свободу, мы приходим к бессмыслице; допустив же свою зависимость от внешнего мира, времени и причин, приходим к законам».",
+      "translation": "Mais de même qu'en astronomie la conception nouvelle disait : « Certes, nous ne sentons pas le mouvement de la terre, mais si nous admettons qu'elle est immobile, nous aboutissons à l'absurde ; si nous admettons au contraire un mouvement que nous ne sentons pas, nous aboutissons à des lois », de même en histoire la conception nouvelle dit : « Certes, nous ne sentons pas notre dépendance, mais si nous admettons notre liberté, nous aboutissons à l'absurde ; si nous admettons au contraire notre dépendance envers le monde extérieur, le temps et les causes, nous aboutissons à des lois »."
+    },
+    {
+      "id": "p11196.s1",
+      "original": "В первом случае надо было отказаться от сознания неподвижности в пространстве и признать неощущаемое нами движение; в настоящем случае, точно так же необходимо отказаться от сознаваемой свободы и признать неощущаемую нами зависимость.",
+      "translation": "Dans le premier cas, il fallait renoncer à la conscience d'une immobilité dans l'espace et reconnaître un mouvement que nous ne sentons pas ; dans le cas présent, il faut de même renoncer à une liberté dont nous avons conscience et reconnaître une dépendance que nous ne sentons pas."
+    }
+  ]
+}
