@@ -1,0 +1,82 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-aventures-de-huckleberry-finn",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "2c384ed527aa8ef2c4f3c28f6cde54bfe87005dbc5aad346169ad03221359b66",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "You don't know about me, without you have read a book by the name of \"The Adventures of Tom Sawyer,\" but that ain't no matter.",
+      "translation": "Vous ne savez rien de moi, à moins d'avoir lu un livre intitulé « Les Aventures de Tom Sawyer », mais ça n'a pas d'importance."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "That book was made by Mr. Mark Twain, and he told the truth, mainly.",
+      "translation": "Ce livre a été fait par M. Mark Twain, et il a dit la vérité, en gros."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "There was things which he stretched, but mainly he told the truth.",
+      "translation": "Il y a des choses qu'il a gonflées, mais en gros il a dit la vérité."
+    },
+    {
+      "id": "p00002.s4",
+      "original": "That is nothing.",
+      "translation": "Ça, ce n'est rien."
+    },
+    {
+      "id": "p00002.s5",
+      "original": "I never seen anybody but lied, one time or another, without it was Aunt Polly, or the widow, or maybe Mary.",
+      "translation": "Je n'ai jamais vu personne qui n'ait menti, une fois ou l'autre, sauf tante Polly, ou la veuve, ou peut-être Mary."
+    },
+    {
+      "id": "p00002.s6",
+      "original": "Aunt Polly—Tom's Aunt Polly, she is—and Mary, and the Widow Douglas, is all told about in that book—which is mostly a true book; with some stretchers, as I said before.",
+      "translation": "Tante Polly — la tante Polly de Tom, c'est elle —, et Mary, et la veuve Douglas, on parle d'eux tous dans ce livre, qui est presque un livre vrai, avec quelques bobards, comme je l'ai déjà dit."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Now the way that the book winds up, is this: Tom and me found the money that the robbers hid in the cave, and it made us rich.",
+      "translation": "Voilà comment le livre se termine : Tom et moi, on a trouvé l'argent que les voleurs avaient caché dans la caverne, et ça nous a rendus riches."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00027.s1",
+      "original": "But I kept at him; so at last he says:\n\"Doan' you 'member de house dat was float'n down de river, en dey wuz a man in dah, kivered up, en I went in en unkivered him and didn' let you come in?",
+      "translation": "Mais j'ai insisté ; alors, à la fin, il dit :\n« Vous vous rappelez pas la maison qui descendait la rivière en flottant, avec un homme dedans, tout couvert, et moi je suis entré et je l'ai découvert et je vous ai pas laissé entrer ?"
+    },
+    {
+      "id": "p00028.s1",
+      "original": "Well, den, you k'n git yo' money when you wants it; kase dat wuz him.\"",
+      "translation": "Eh ben, alors, vous pouvez toucher votre argent quand vous voulez ; parce que c'était lui. »"
+    },
+    {
+      "id": "p00029.s1",
+      "original": "Tom's most well, now, and got his bullet around his neck on a watch-guard for a watch, and is always seeing what time it is, and so there ain't nothing more to write about, and I am rotten glad of it, because if I'd a knowed what a trouble it was to make a book I wouldn't a tackled it and ain't agoing to no more.",
+      "translation": "Tom est presque guéri maintenant, il porte sa balle autour du cou, au bout d'une chaîne de montre en guise de montre, et il regarde l'heure sans arrêt, alors il n'y a plus rien à raconter, et j'en suis rudement content, parce que si j'avais su quelle affaire c'était de faire un livre, je ne m'y serais pas mis, et je ne recommencerai plus."
+    },
+    {
+      "id": "p00029.s2",
+      "original": "But I reckon I got to light out for the Territory ahead of the rest, because Aunt Sally she's going to adopt me and sivilise me, and I can't stand it.",
+      "translation": "Mais je crois bien qu'il faut que je file vers le Territoire avant les autres, parce que tante Sally veut m'adopter et me civiliser, et ça, je ne peux pas le supporter."
+    },
+    {
+      "id": "p00029.s3",
+      "original": "I been there before.",
+      "translation": "J'y suis déjà passé."
+    },
+    {
+      "id": "p00030.s1",
+      "original": "THE END.",
+      "translation": "FIN."
+    },
+    {
+      "id": "p00030.s2",
+      "original": "YOURS TRULY, HUCK FINN.",
+      "translation": "BIEN À VOUS, HUCK FINN."
+    }
+  ]
+}
