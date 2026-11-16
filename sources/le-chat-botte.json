@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-chat-botte",
+  "title": "Le Chat botté",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Contes de Perrault (éd. 1902), page « Le maître Chat ou le Chat botté » de fr.wikisource",
+  "pages": [
+    {
+      "title": "Contes de Perrault (éd. 1902)/Le maître Chat ou le Chat botté",
+      "revisionId": 15174151
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "eaa7caef64fe881e2fa2c5fd931b4c12ce79acecf6568523bd706430e1367ad3",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Un meunier ne laissa pour tous biens, à trois enfants qu’il "
+  },
+  "bodyEnd": {
+    "id": "p00021",
+    "textPrefix": "Le marquis et le roi, qui montait le premier, entrèrent dans"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre (p00001) et « CONTE. » (p00002). Cette édition ne reproduit pas les moralités en vers ; le conte s'achève sur le chat devenu grand seigneur."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
