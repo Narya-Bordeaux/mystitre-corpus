@@ -20,6 +20,9 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "ffd27dfc92f298414124858d59855bc9321d97c122833a1f318fd2d228211825"
   },
+  "titleMasks": [
+    "Cendrillon"
+  ],
   "createdOn": "2026-11-16",
   "opening": {
     "sentenceIds": [
@@ -38,7 +41,7 @@
       "p00023.s4",
       "p00023.s5"
     ],
-    "french": "Cendrillon les releva et leur dit, en les embrassant, qu’elle leur pardonnait de bon cœur, et qu’elle les priait de l’aimer bien toujours. On la mena chez le jeune prince, parée comme elle était, et, peu de jours après, il l’épousa. Cendrillon, qui était bonne, fit loger ses deux sœurs au palais, et les maria, dès le jour même, à deux grands seigneurs de la cour.",
+    "french": "[TITRE] les releva et leur dit, en les embrassant, qu’elle leur pardonnait de bon cœur, et qu’elle les priait de l’aimer bien toujours. On la mena chez le jeune prince, parée comme elle était, et, peu de jours après, il l’épousa. [TITRE], qui était bonne, fit loger ses deux sœurs au palais, et les maria, dès le jour même, à deux grands seigneurs de la cour.",
     "original": "Cendrillon les releva et leur dit, en les embrassant, qu’elle leur pardonnait de bon cœur, et qu’elle les priait de l’aimer bien toujours. On la mena chez le jeune prince, parée comme elle était, et, peu de jours après, il l’épousa. Cendrillon, qui était bonne, fit loger ses deux sœurs au palais, et les maria, dès le jour même, à deux grands seigneurs de la cour.",
     "length": 365,
     "truncated": false
