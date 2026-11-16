@@ -1,0 +1,212 @@
+# Alice au pays des merveilles
+
+Source : Alice au pays des merveilles, traduction d'Henri Bué (1869), Wikisource français, chapitres 1 et 12 — fr.wikisource.org
+
+Origine : Traduction libre de droits (Henri Bué, 1869)
+
+- [Alice au pays des merveilles/1](https://fr.wikisource.org/w/index.php?title=Alice_au_pays_des_merveilles/1&oldid=12284581)
+- [Alice au pays des merveilles/12](https://fr.wikisource.org/w/index.php?title=Alice_au_pays_des_merveilles/12&oldid=11010247)
+
+`p00001` **CHAPITRE PREMIER. — AU FOND DU TERRIER.**
+
+`p00002` Alice, assise auprès de sa sœur sur le gazon, commençait à s’ennuyer de rester là à ne rien faire ; une ou deux fois elle avait jeté les yeux sur le livre que lisait sa sœur ; mais quoi ! pas d’images, pas de dialogues ! « La belle avance, » pensait Alice, « qu’un livre sans images, sans causeries ! »
+
+`p00003` Elle s’était mise à réfléchir, (tant bien que mal, car la chaleur du jour l’endormait et la rendait lourde,) se demandant si le plaisir de faire une couronne de marguerites valait bien la peine de se lever et de cueillir les fleurs, quand tout à coup un lapin blanc aux yeux roses passa près d’elle.
+
+`p00004` Il n’y avait rien là de bien étonnant, et Alice ne trouva même pas très-extraordinaire d’entendre parler le Lapin qui se disait : « Ah ! j’arriverai trop tard ! » (En y songeant après, il lui sembla bien qu’elle aurait dû s’en étonner, mais sur le moment cela lui avait paru tout naturel.) Cependant, quand le Lapin vint à tirer une montre de son gousset, la regarda, puis se prit à courir de plus belle, Alice sauta sur ses pieds, frappée de cette idée que jamais elle n’avait vu de lapin avec un gousset et une montre. Entraînée par la curiosité elle s’élança sur ses traces à travers le champ, et arriva tout juste à temps pour le voir disparaître dans un large trou au pied d’une haie.
+
+`p00005` Un instant après, Alice était à la poursuite du Lapin dans le terrier, sans songer comment elle en sortirait.
+
+`p00006` Pendant un bout de chemin le trou allait tout droit comme un tunnel, puis tout à coup il plongeait perpendiculairement d’une façon si brusque qu’Alice se sentit tomber comme dans un puits d’une grande profondeur, avant même d’avoir pensé à se retenir.
+
+`p00007` De deux choses l’une, ou le puits était vraiment bien profond, ou elle tombait bien doucement ; car elle eut tout le loisir, dans sa chute, de regarder autour d’elle et de se demander avec étonnement ce qu’elle allait devenir. D’abord elle regarda dans le fond du trou pour savoir où elle allait ; mais il y faisait bien trop sombre pour y rien voir. Ensuite elle porta les yeux sur les parois du puits, et s’aperçut qu’elles étaient garnies d’armoires et d’étagères ; çà et là, elle vit pendues à des clous des cartes géographiques et des images. En passant elle prit sur un rayon un pot de confiture portant cette étiquette, « MARMELADE D’ORANGES. » Mais, à son grand regret, le pot était vide : elle n’osait le laisser tomber dans la crainte de tuer quelqu’un ; aussi s’arrangea-t-elle de manière à le déposer en passant dans une des armoires.
+
+`p00008` « Certes, » dit Alice, « après une chute pareille je ne me moquerai pas mal de dégringoler l’escalier ! Comme ils vont me trouver brave chez nous ! Je tomberais du haut des toits que je ne ferais pas entendre une plainte. » (Ce qui était bien probable.)
+
+`p00009` Tombe, tombe, tombe ! « Cette chute n’en finira donc pas ! Je suis curieuse de savoir combien de milles j’ai déjà faits, » dit-elle tout haut. « Je dois être bien près du centre de la terre. Voyons donc, cela serait à quatre mille milles de profondeur, il me semble. » (Comme vous voyez, Alice avait appris pas mal de choses dans ses leçons ; et bien que ce ne fût pas là une très-bonne occasion de faire parade de son savoir, vu qu’il n’y avait point d’auditeur, cependant c’était un bon exercice que de répéter sa leçon.) « Oui, c’est bien à peu près cela ; mais alors à quel degré de latitude ou de longitude est-ce que je me trouve ? » (Alice n’avait pas la moindre idée de ce que voulait dire latitude ou longitude, mais ces grands mots lui paraissaient beaux et sonores.)
+
+`p00010` Bientôt elle reprit : « Si j’allais traverser complétement la terre ? Comme ça serait drôle de se trouver au milieu de gens qui marchent la tête en bas. Aux Antipathies, je crois. » (Elle n’était pas fâchée cette fois qu’il n’y eût personne là pour l’entendre, car ce mot ne lui faisait pas l’effet d’être bien juste.) « Eh mais, j’aurai à leur demander le nom du pays. — Pardon, Madame, est-ce ici la Nouvelle-Zemble ou l’Australie ? » — En même temps elle essaya de faire la révérence. (Quelle idée ! Faire la révérence en l’air ! Dites-moi un peu, comment vous y prendriez-vous ?) « Quelle petite ignorante ! pensera la dame quand je lui ferai cette question. Non, il ne faut pas demander cela ; peut-être le verrai-je écrit quelque part. »
+
+`p00011` Tombe, tombe, tombe ! — Donc Alice, faute d’avoir rien de mieux à faire, se remit à se parler : « Dinah remarquera mon absence ce soir, bien sûr. » (Dinah c’était son chat.) « Pourvu qu’on n’oublie pas de lui donner sa jatte de lait à l’heure du thé. Dinah, ma minette, que n’es-tu ici avec moi ? Il n’y a pas de souris dans les airs, j’en ai bien peur ; mais tu pourrais attraper une chauve-souris, et cela ressemble beaucoup à une souris, tu sais. Mais les chats mangent-ils les chauves-souris ? » Ici le sommeil commença à gagner Alice. Elle répétait, à moitié endormie : « Les chats mangent-ils les chauves-souris ? Les chats mangent-ils les chauves-souris ? » Et quelquefois : « Les chauves-souris mangent-elles les chats ? » Car vous comprenez bien que, puisqu’elle ne pouvait répondre ni à l’une ni à l’autre de ces questions, peu importait la manière de les poser. Elle s’assoupissait et commençait à rêver qu’elle se promenait tenant Dinah par la main, lui disant très-sérieusement : « Voyons, Dinah, dis-moi la vérité, as-tu jamais mangé des chauves-souris ? » Quand tout à coup, pouf ! la voilà étendue sur un tas de fagots et de feuilles sèches, — et elle a fini de tomber.
+
+`p00012` Alice ne s’était pas fait le moindre mal. Vite elle se remet sur ses pieds et regarde en l’air ; mais tout est noir là-haut. Elle voit devant elle un long passage et le Lapin Blanc qui court à toutes jambes. Il n’y a pas un instant à perdre ; Alice part comme le vent et arrive tout juste à temps pour entendre le Lapin dire, tandis qu’il tourne le coin : « Par ma moustache et mes oreilles, comme il se fait tard ! » Elle n’en était plus qu’à deux pas : mais le coin tourné, le Lapin avait disparu. Elle se trouva alors dans une salle longue et basse, éclairée par une rangée de lampes pendues au plafond.
+
+`p00013` Il y avait des portes tout autour de la salle : ces portes étaient toutes fermées, et, après avoir vainement tenté d’ouvrir celles du côté droit, puis celles du côté gauche, Alice se promena tristement au beau milieu de cette salle, se demandant comment elle en sortirait.
+
+`p00014` Tout à coup elle rencontra sur son passage une petite table à trois pieds, en verre massif, et rien dessus qu’une toute petite clef d’or. Alice pensa aussitôt que ce pouvait être celle d’une des portes ; mais hélas ! soit que les serrures fussent trop grandes, soit que la clef fût trop petite, elle ne put toujours en ouvrir aucune. Cependant, ayant fait un second tour, elle aperçut un rideau placé très-bas et qu’elle n’avait pas vu d’abord ; par derrière se trouvait encore une petite porte à peu près quinze pouces de haut ; elle essaya la petite clef d’or à la serrure, et, à sa grande joie, il se trouva qu’elle y allait à merveille. Alice ouvrit la porte, et vit qu’elle conduisait dans un étroit passage à peine plus large qu’un trou à rat. Elle s’agenouilla, et, jetant les yeux le long du passage, découvrit le plus ravissant jardin du monde. Oh ! Qu’il lui tardait de sortir de cette salle ténébreuse et d’errer au milieu de ces carrés de fleurs brillantes, de ces fraîches fontaines ! Mais sa tête ne pouvait même pas passer par la porte. « Et quand même ma tête y passerait, » pensait Alice, « à quoi cela servirait-il sans mes épaules ? Oh ! que je voudrais donc avoir la faculté de me fermer comme un télescope ! Ça se pourrait peut-être, si je savais comment m’y prendre. » Il lui était déjà arrivé tant de choses extraordinaires, qu’Alice commençait à croire qu’il n’y en avait guère d’impossibles.
+
+`p00015` Comme cela n’avançait à rien de passer son temps à attendre à la petite porte, elle retourna vers la table, espérant presque y trouver une autre clef, ou tout au moins quelque grimoire donnant les règles à suivre pour se fermer comme un télescope. Cette fois elle trouva sur la table une petite bouteille (qui certes n’était pas là tout à l’heure). Au cou de cette petite bouteille était attachée une étiquette en papier, avec ces mots « BUVEZ-MOI » admirablement imprimés en grosses lettres.
+
+`p00016` C’est bien facile à dire « Buvez-moi, » mais Alice était trop fine pour obéir à l’aveuglette. « Examinons d’abord, » dit-elle, « et voyons s’il y a écrit dessus « Poison » ou non. » Car elle avait lu dans de jolis petits contes, que des enfants avaient été brûlés, dévorés par des bêtes féroces, et qu’il leur était arrivé d’autres choses très-désagréables, tout cela pour ne s’être pas souvenus des instructions bien simples que leur donnaient leurs parents : par exemple, que le tisonnier chauffé à blanc brûle les mains qui le tiennent trop longtemps ; que si on se fait au doigt une coupure profonde, il saigne d’ordinaire ; et elle n’avait point oublié que si l’on boit immodérément d’une bouteille marquée « Poison » cela ne manque pas de brouiller le cœur tôt ou tard.
+
+`p00017` Cependant, comme cette bouteille n’était pas marquée « Poison, » Alice se hasarda à en goûter le contenu, et le trouvant fort bon, (au fait c’était comme un mélange de tarte aux cerises, de crême, d’ananas, de dinde truffée, de nougat, et de rôties au beurre,) elle eut bientôt tout avalé.
+
+`p00018` « Je me sens toute drôle, » dit Alice, « on dirait que je rentre en moi-même et que je me ferme comme un télescope. » C’est bien ce qui arrivait en effet. Elle n’avait plus que dix pouces de haut, et un éclair de joie passa sur son visage à la pensée qu’elle était maintenant de la grandeur voulue pour pénétrer par la petite porte dans ce beau jardin. Elle attendit pourtant quelques minutes, pour voir si elle allait rapetisser encore. Cela lui faisait bien un peu peur. « Songez donc, » se disait Alice, « je pourrais bien finir par m’éteindre comme une chandelle. Que deviendrais-je alors ? » Et elle cherchait à s’imaginer l’air que pouvait avoir la flamme d’une chandelle éteinte, car elle ne se rappelait pas avoir jamais rien vu de la sorte.
+
+`p00019` Un moment après, voyant qu’il ne se passait plus rien, elle se décida à aller de suite au jardin ; mais hélas, pauvre Alice ! en arrivant à la porte, elle s’aperçut qu’elle avait oublié la petite clef d’or. Elle revint sur ses pas pour la prendre sur la table. Bah ! impossible d’atteindre à la clef qu’elle voyait bien clairement à travers le verre. Elle fit alors tout son possible pour grimper le long d’un des pieds de la table, mais il était trop glissant ; et enfin, épuisée de fatigue, la pauvre enfant s’assit et pleura.
+
+`p00020` « Allons, à quoi bon pleurer ainsi, » se dit Alice vivement. « Je vous conseille, Mademoiselle, de cesser tout de suite ! » Elle avait pour habitude de se donner de très-bons conseils (bien qu’elle les suivît rarement), et quelquefois elle se grondait si fort que les larmes lui en venaient aux yeux ; une fois même elle s’était donné des tapes pour avoir triché dans une partie de croquet qu’elle jouait toute seule ; car cette étrange enfant aimait beaucoup à faire deux personnages. « Mais, » pensa la pauvre Alice, « il n’y a plus moyen de faire deux personnages, à présent qu’il me reste à peine de quoi en faire un. »
+
+`p00021` Elle aperçut alors une petite boîte en verre qui était sous la table, l’ouvrit et y trouva un tout petit gâteau sur lequel les mots « MANGEZ-MOI » étaient admirablement tracés avec des raisins de Corinthe. « Tiens, je vais le manger, » dit Alice : « si cela me fait grandir, je pourrai atteindre à la clef ; si cela me fait rapetisser, je pourrai ramper sous la porte ; d’une façon ou de l’autre, je pénétrerai dans le jardin, et alors, arrive que pourra ! »
+
+`p00022` Elle mangea donc un petit morceau du gâteau, et, portant sa main sur sa tête, elle se dit tout inquiète : « Lequel est-ce ? Lequel est-ce ? » Elle voulait savoir si elle grandissait ou rapetissait, et fut tout étonnée de rester la même ; franchement, c’est ce qui arrive le plus souvent lorsqu’on mange du gâteau ; mais Alice avait tellement pris l’habitude de s’attendre à des choses extraordinaires, que cela lui paraissait ennuyeux et stupide de vivre comme tout le monde.
+
+`p00023` Aussi elle se remit à l’œuvre, et eut bien vite fait disparaître le gâteau.
+
+`p00024` **CHAPITRE XII. — DÉPOSITION D’ALICE.**
+
+`p00025` « Voilà ! » cria Alice, oubliant tout à fait dans le trouble du moment combien elle avait grandi depuis quelques instants, et elle se leva si brusquement qu’elle accrocha le banc des jurés avec le bord de sa robe, et le renversa, avec tous ses occupants, sur la tête de la foule qui se trouvait au-dessous, et on les vit se débattant de tous côtés, comme les poissons rouges du vase qu’elle se rappelait avoir renversé par accident la semaine précédente.
+
+`p00026` « Oh ! je vous demande bien pardon ! » s’écria-t-elle toute confuse, et elle se mit à les ramasser bien vite, car l’accident arrivé aux poissons rouges lui trottait dans la tête, et elle avait une idée vague qu’il fallait les ramasser tout de suite et les remettre sur les bancs, sans quoi ils mourraient.
+
+`p00027` « Le procès ne peut continuer, » dit le Roi d’une voix grave, « avant que les jurés soient tous à leurs places ; tous ! » répéta-t-il avec emphase en regardant fixement Alice.
+
+`p00028` Alice regarda le banc des jurés, et vit que dans son empressement elle y avait placé le Lézard la tête en bas, et le pauvre petit être remuait la queue d’une triste façon, dans l’impossibilité de se redresser ; elle l’eut bientôt retourné et replacé convenablement. « Non que cela soit bien important, » se dit-elle, « car je pense qu’il serait tout aussi utile au procès la tête en bas qu’autrement. »
+
+`p00029` Sitôt que les jurés se furent un peu remis de la secousse, qu’on eut retrouvé et qu’on leur eut rendu leurs ardoises et leurs crayons, ils se mirent fort diligemment à écrire l’histoire de l’accident, à l’exception du Lézard, qui paraissait trop accablé pour faire autre chose que demeurer la bouche ouverte, les yeux fixés sur le plafond de la salle.
+
+`p00030` « Que savez-vous de cette affaire-là ? » demanda le Roi à Alice.
+
+`p00031` « Rien, » répondit-elle.
+
+`p00032` « Rien absolument ? » insista le Roi.
+
+`p00033` « Rien absolument, » dit Alice.
+
+`p00034` « Voilà qui est très-important, » dit le Roi, se tournant vers les jurés. Ils allaient écrire cela sur leurs ardoises quand le Lapin Blanc interrompant : « Peu important, veut dire Votre Majesté, sans doute, » dit-il d’un ton très-respectueux, mais en fronçant les sourcils et en lui faisant des grimaces.
+
+`p00035` « Peu important, bien entendu, c’est ce que je voulais dire, » répliqua le Roi avec empressement. Et il continua de répéter à demi-voix : « Très-important, peu important, peu important, très-important ; » comme pour essayer lequel des deux était le mieux sonnant.
+
+`p00036` Quelques-uns des jurés écrivirent « très-important, » d’autres, « peu important. » Alice voyait tout cela, car elle était assez près d’eux pour regarder sur leurs ardoises. « Mais cela ne fait absolument rien, » pensa-t-elle.
+
+`p00037` À ce moment-là, le Roi, qui pendant quelque temps avait été fort occupé à écrire dans son carnet, cria : « Silence ! » et lut sur son carnet : « Règle Quarante-deux : Toute personne ayant une taille de plus d’un mille de haut devra quitter la cour. »
+
+`p00038` Tout le monde regarda Alice.
+
+`p00039` « Je n’ai pas un mille de haut, » dit-elle.
+
+`p00040` « Si fait, » dit le Roi.
+
+`p00041` « Près de deux milles, » ajouta la Reine.
+
+`p00042` « Eh bien ! je ne sortirai pas quand même ; d’ailleurs cette règle n’est pas d’usage, vous venez de l’inventer. »
+
+`p00043` « C’est la règle la plus ancienne qu’il y ait dans le livre, » dit le Roi.
+
+`p00044` « Alors elle devrait porter le numéro Un. »
+
+`p00045` Le Roi devint pâle et ferma vivement son carnet. « Délibérez, » dit-il aux jurés d’une voix faible et tremblante.
+
+`p00046` « Il y a d’autres dépositions à recevoir, s’il plaît à Votre Majesté, » dit le Lapin, se levant précipitamment ; « on vient de ramasser ce papier. »
+
+`p00047` « Qu’est-ce qu’il y a dedans ? » dit la Reine.
+
+`p00048` « Je ne l’ai pas encore ouvert, » dit le Lapin Blanc ; « mais on dirait que c’est une lettre écrite par l’accusé à — à quelqu’un. »
+
+`p00049` « Cela doit être ainsi, » dit le Roi, « à moins qu’elle ne soit écrite à personne, ce qui n’est pas ordinaire, vous comprenez. »
+
+`p00050` « À qui est-elle adressée ? » dit un des jurés.
+
+`p00051` « Elle n’est pas adressée du tout, » dit le Lapin Blanc ; « au fait, il n’y a rien d’écrit à l’extérieur. » Il déplia le papier tout en parlant et ajouta : « Ce n’est pas une lettre, après tout ; c’est une pièce de vers. »
+
+`p00052` « Est-ce l’écriture de l’accusé ? » demanda un autre juré.
+
+`p00053` « Non, » dit le Lapin Blanc, « et c’est ce qu’il y a de plus drôle. » (Les jurés eurent tous l’air fort embarrassé.)
+
+`p00054` « Il faut qu’il ait imité l’écriture d’un autre, » dit le Roi. (Les jurés reprirent l’air serein.)
+
+`p00055` « Pardon, Votre Majesté, » dit le Valet, « ce n’est pas moi qui ai écrit cette lettre, et on ne peut pas prouver que ce soit moi ; il n’y a pas de signature. »
+
+`p00056` « Si vous n’avez pas signé, » dit le Roi, « cela ne fait qu’empirer la chose ; il faut absolument que vous ayez eu de mauvaises intentions, sans cela vous auriez signé, comme un honnête homme. »
+
+`p00057` Là-dessus tout le monde battit des mains ; c’était la première réflexion vraiment bonne que le Roi eût faite ce jour-là.
+
+`p00058` « Cela prouve sa culpabilité, » dit la Reine.
+
+`p00059` « Cela ne prouve rien, » dit Alice. « Vous ne savez même pas ce dont il s’agit. »
+
+`p00060` « Lisez ces vers, » dit le Roi.
+
+`p00061` Le Lapin Blanc mit ses lunettes. « Par où commencerai-je, s’il plaît à Votre Majesté ? » demanda-t-il.
+
+`p00062` « Commencez par le commencement, » dit gravement le Roi, « et continuez jusqu’à ce que vous arriviez à la fin ; là, vous vous arrêterez. »
+
+`p00063` Voici les vers que lut le Lapin Blanc :
+
+`p00064` « On m’a dit que tu fus chez elle  
+Afin de lui pouvoir parler,  
+Et qu’elle assura, la cruelle,  
+Que je ne savais pas nager !  
+Bientôt il leur envoya dire  
+(Nous savons fort bien que c’est vrai !)  
+Qu’il ne faudrait pas en médire,  
+Ou gare les coups de balai !  
+J’en donnai trois, elle en prit une ;  
+Combien donc en recevrons-nous ?  
+(Il y a là quelque lacune.)  
+Toutes revinrent d’eux à vous.  
+Si vous ou moi, dans cette affaire,  
+Étions par trop embarrassés,  
+Prions qu’il nous laisse, confrère,  
+Tous deux comme il nous a trouvés.
+
+`p00065` Vous les avez, j’en suis certaine,  
+(Avant que de ses nerfs l’accès  
+Ne bouleversât l’inhumaine,)  
+Trompés tous trois avec succès.  
+Cachez-lui qu’elle les préfère ;  
+Car ce doit être, par ma foi,  
+(Et sera toujours, je l’espère)  
+Un secret entre vous et moi. »
+
+`p00066` « Voilà la pièce de conviction la plus importante que nous ayons eue jusqu’à présent, » dit le Roi en se frottant les mains ; « ainsi, que le jury maintenant — — »
+
+`p00067` « S’il y a un seul des jurés qui puisse l’expliquer, » dit Alice (elle était devenue si grande dans ces derniers instants qu’elle n’avait plus du tout peur de l’interrompre), « je lui donne une pièce de dix sous. Je ne crois pas qu’il y ait un atome de sens commun là-dedans. »
+
+`p00068` Tous les jurés écrivirent sur leurs ardoises : « Elle ne croit pas qu’il y ait un atome de sens commun là-dedans, » mais aucun d’eux ne tenta d’expliquer la pièce de vers.
+
+`p00069` « Si elle ne signifie rien, » dit le Roi, « cela nous épargne un monde d’ennuis, vous comprenez ; car il est inutile d’en chercher l’explication ; et cependant je ne sais pas trop, » continua-t-il en étalant la pièce de vers sur ses genoux et les regardant d’un œil ; « il me semble que j’y vois quelque chose, après tout. « Que je ne savais pas nager ! » Vous ne savez pas nager, n’est-ce pas ? » ajouta-t-il en se tournant vers le Valet.
+
+`p00070` Le Valet secoua la tête tristement. « En ai-je l’air, » dit-il. (Non, certainement, il n’en avait pas l’air, étant fait tout entier de carton.)
+
+`p00071` « Jusqu’ici c’est bien, » dit le Roi ; et il continua de marmotter tout bas, « « Nous savons fort bien que c’est vrai. » C’est le jury qui dit cela, bien sûr ! « J’en donnai trois, elle en prit une ;  » justement, c’est là ce qu’il fit des tartes, vous comprenez. »
+
+`p00072` « Mais vient ensuite : « Toutes revinrent d’eux à vous, » » dit Alice.
+
+`p00073` « Tiens, mais les voici ! » dit le Roi d’un air de triomphe, montrant du doigt les tartes qui étaient sur la table.
+
+`p00074` « Il n’y a rien de plus clair que cela ; et encore : « Avant que de ses nerfs l’accès. » Vous n’avez jamais eu d’attaques de nerfs, je crois, mon épouse ? » dit-il à la Reine.
+
+`p00075` « Jamais ! » dit la Reine d’un air furieux en jetant un encrier à la tête du Lézard. (Le malheureux Jacques avait cessé d’écrire sur son ardoise avec un doigt, car il s’était aperçu que cela ne faisait aucune marque ; mais il se remit bien vite à l’ouvrage en se servant de l’encre qui lui découlait le long de la figure, aussi longtemps qu’il y en eut.)
+
+`p00076` « Non, mon épouse, vous avez trop bon air, » dit le Roi, promenant son regard tout autour de la salle et souriant. Il se fit un silence de mort.
+
+`p00077` « C’est un calembour, » ajouta le Roi d’un ton de colère ; et tout le monde se mit à rire. « Que le jury délibère, » ajouta le Roi, pour à peu près la vingtième fois ce jour-là.
+
+`p00078` « Non, non, » dit la Reine, « l’arrêt d’abord, on délibérera après. »
+
+`p00079` « Cela n’a pas de bon sens ! » dit tout haut Alice. « Quelle idée de vouloir prononcer l’arrêt d’abord ! »
+
+`p00080` « Taisez-vous, » dit la Reine, devenant pourpre de colère.
+
+`p00081` « Je ne me tairai pas, » dit Alice.
+
+`p00082` « Qu’on lui coupe la tête ! » hurla la Reine de toutes ses forces. Personne ne bougea.
+
+`p00083` « On se moque bien de vous, » dit Alice (elle avait alors atteint toute sa grandeur naturelle). « Vous n’êtes qu’un paquet de cartes ! »
+
+`p00084` Là-dessus tout le paquet sauta en l’air et retomba en tourbillonnant sur elle ; Alice poussa un petit cri, moitié de peur, moitié de colère, et essaya de les repousser ; elle se trouva étendue sur le gazon, la tête sur les genoux de sa sœur, qui écartait doucement de sa figure les feuilles mortes tombées en voltigeant du haut des arbres.
+
+`p00085` « Réveillez-vous, chère Alice ! » lui dit sa sœur. « Quel long somme vous venez de faire ! »
+
+`p00086` « Oh ! j’ai fait un si drôle de rêve, » dit Alice ; et elle raconta à sa sœur, autant qu’elle put s’en souvenir, toutes les étranges aventures que vous venez de lire ; et, quand elle eut fini son récit, sa sœur lui dit en l’embrassant : « Certes, c’est un bien drôle de rêve ; mais maintenant courez à la maison prendre le thé ; il se fait tard. » Alice se leva donc et s’éloigna en courant, pensant le long du chemin, et avec raison, quel rêve merveilleux elle venait de faire.
+
+`p00087` Mais sa sœur demeura assise tranquillement, tout comme elle l’avait laissée, la tête appuyée sur la main, contemplant le coucher du soleil et pensant à la petite Alice et à ses merveilleuses aventures ; si bien qu’elle aussi se mit à rêver, en quelque sorte ; et voici son rêve : —
+
+`p00088` D’abord elle rêva de la petite Alice personnellement : — les petites mains de l’enfant étaient encore jointes sur ses genoux, et ses yeux vifs et brillants plongeaient leur regard dans les siens. Elle entendait jusqu’au son de sa voix ; elle voyait ce singulier petit mouvement de tête par lequel elle rejetait en arrière les cheveux vagabonds qui sans cesse lui revenaient dans les yeux ; et, comme elle écoutait ou paraissait écouter, tout s’anima autour d’elle et se peupla des étranges créatures du rêve de sa jeune sœur. Les longues herbes bruissaient à ses pieds sous les pas précipités du Lapin Blanc ; la Souris effrayée faisait clapoter l’eau en traversant la mare voisine ; elle entendait le bruit des tasses, tandis que le Lièvre et ses amis prenaient leur repas qui ne finissait jamais, et la voix perçante de la Reine envoyant à la mort ses malheureux invités. Une fois encore l’enfant-porc éternuait sur les genoux de la Duchesse, tandis que les assiettes et les plats se brisaient autour de lui ; une fois encore la voix criarde du Griffon, le grincement du crayon d’ardoise du Lézard, et les cris étouffés des cochons d’Inde mis dans le sac par ordre de la cour, remplissaient les airs, en se mêlant aux sanglots que poussait au loin la malheureuse Fausse-Tortue.
+
+`p00089` C’est ainsi qu’elle demeura assise, les yeux fermés, et se croyant presque dans le Pays des Merveilles, bien qu’elle sût qu’elle n’avait qu’à rouvrir les yeux pour que tout fût changé en une triste réalité : les herbes ne bruiraient plus alors que sous le souffle du vent, et l’eau de la mare ne murmurerait plus qu’au balancement des roseaux ; le bruit des tasses deviendrait le tintement des clochettes au cou des moutons, et elle reconnaîtrait les cris aigus de la Reine dans la voix perçante du petit berger ; l’éternuement du bébé, le cri du Griffon et tous les autres bruits étranges ne seraient plus, elle le savait bien, que les clameurs confuses d’une cour de ferme, tandis que le beuglement des bestiaux dans le lointain remplacerait les lourds sanglots de la Fausse-Tortue.
+
+`p00090` Enfin elle se représenta cette même petite sœur, dans l’avenir, devenue elle aussi une grande personne ; elle se la représenta conservant, jusque dans l’âge mûr, le cœur simple et aimant de son enfance, et réunissant autour d’elle d’autres petits enfants dont elle ferait briller les yeux vifs et curieux au récit de bien des aventures étranges, et peut-être même en leur contant le songe du Pays des Merveilles du temps jadis : elle la voyait partager leurs petits chagrins et trouver plaisir à leurs innocentes joies, se rappelant sa propre enfance et les heureux jours d’été.
+
+`p00091` FIN.
