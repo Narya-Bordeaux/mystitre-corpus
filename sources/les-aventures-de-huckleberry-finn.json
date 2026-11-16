@@ -33,7 +33,9 @@
   "notes": [
     "Exclus : intitulé de chapitre « THE WIDOW'S. » (p00001) et adresse de l'imprimeur (p00031). Signature fictive « THE END. YOURS TRULY, HUCK FINN. » conservée car elle fait partie de l'œuvre. Le corpus ne contient que le premier et le dernier chapitre."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "HUCK FINN"
+  ],
   "readingOptions": [],
   "textCorrections": [
     {

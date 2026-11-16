@@ -31,7 +31,8 @@
     "translator": "Louis Viardot",
     "translationYear": 1862,
     "translatorDeathYear": 1883,
-    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Louis_Viardot&oldid=14731944"
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Louis_Viardot&oldid=14731944",
+    "publicDomainBasis": "translatorDeathYear"
   },
   "registeredOn": "2026-11-16",
   "notes": [
