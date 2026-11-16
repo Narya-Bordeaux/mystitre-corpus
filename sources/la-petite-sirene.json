@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-petite-sirene",
+  "title": "La Petite Sirène",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Contes d'Andersen, traduit par Soldi, Librairie Hachette et Cie, 1876 (index Wikisource, texte relu à 100 %)",
+  "pages": [
+    {
+      "title": "Contes d’Andersen/La Petite Sirène",
+      "revisionId": 12245708
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "396654216c379803bf9903b3af0a2bc60c44fe4b9b780d7ef3191172af779af4",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Bien loin dans la mer, l’eau est bleue comme les feuilles de"
+  },
+  "bodyEnd": {
+    "id": "p00114",
+    "textPrefix": "Et la petite sirène, élevant ses bras vers le ciel, versa de"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "da",
+    "translator": "David Soldi",
+    "translationYear": 1876,
+    "translatorDeathYear": 1884,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:David_Soldi&oldid=11885352"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre d'édition (p00001) et légende de la vignette de Bertall en fin (p00115). Une légende de vignette est collée au milieu de p00037, hors des extraits."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

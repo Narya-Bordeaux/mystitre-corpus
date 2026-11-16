@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-petite-sirene",
+  "title": "La Petite Sirène",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "da",
+    "translator": "David Soldi",
+    "translationYear": 1876,
+    "translatorDeathYear": 1884,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:David_Soldi&oldid=11885352",
+    "label": "Traduction libre de droits (David Soldi, 1876)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Contes d'Andersen, traduit par Soldi, Librairie Hachette et Cie, 1876 (index Wikisource, texte relu à 100 %)",
+    "pages": [
+      {
+        "title": "Contes d’Andersen/La Petite Sirène",
+        "revisionId": 12245708
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "396654216c379803bf9903b3af0a2bc60c44fe4b9b780d7ef3191172af779af4"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1"
+    ],
+    "french": "Bien loin dans la mer, l’eau est bleue comme les feuilles des bluets, pure comme le verre le plus transparent, mais si profonde qu’il serait inutile d’y jeter l’ancre, et qu’il faudrait y entasser une quantité infinie de tours d’églises les unes sur les autres pour mesurer la distance du fond à la surface.",
+    "original": "Bien loin dans la mer, l’eau est bleue comme les feuilles des bluets, pure comme le verre le plus transparent, mais si profonde qu’il serait inutile d’y jeter l’ancre, et qu’il faudrait y entasser une quantité infinie de tours d’églises les unes sur les autres pour mesurer la distance du fond à la surface.",
+    "length": 307,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00114.s2",
+      "p00114.s3"
+    ],
+    "french": "Les accents de la gaieté se firent entendre de nouveau sur le navire ; mais elle vit le prince et sa belle épouse regarder fixement avec mélancolie l’écume bouillonnante, comme s’ils savaient qu’elle s’était précipitée dans les flots. Invisible, elle embrassa la femme du prince, jeta un sourire à l’époux, puis monta avec les autres enfants de l’air sur un nuage rose qui s’éleva dans le ciel.",
+    "original": "Les accents de la gaieté se firent entendre de nouveau sur le navire ; mais elle vit le prince et sa belle épouse regarder fixement avec mélancolie l’écume bouillonnante, comme s’ils savaient qu’elle s’était précipitée dans les flots. Invisible, elle embrassa la femme du prince, jeta un sourire à l’époux, puis monta avec les autres enfants de l’air sur un nuage rose qui s’éleva dans le ciel.",
+    "length": 394,
+    "truncated": false
+  }
+}
