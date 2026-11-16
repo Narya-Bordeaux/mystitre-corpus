@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "hamlet",
+  "title": "Hamlet",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "François-Victor Hugo",
+    "translationYear": 1865,
+    "translatorDeathYear": 1873,
+    "label": "Traduction libre de droits (François-Victor Hugo, 1865)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres complètes de Shakespeare, trad. François-Victor Hugo, Pagnerre, 1865, tome 1",
+    "pages": [
+      {
+        "title": "Le second Hamlet (trad. Hugo)",
+        "revisionId": 15966629
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d4cd8ccc943bd3c1e1e02e34b1cd3fadfa7c7ed55c90503a3931d8b91bca4e29"
+  },
+  "titleMasks": [
+    "Hamlet"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00035.s1",
+      "p00037.s1",
+      "p00037.s2",
+      "p00039.s1",
+      "p00041.s1",
+      "p00043.s1",
+      "p00045.s1",
+      "p00047.s1"
+    ],
+    "french": "BERNARDO. — Qui est là ?\nFRANCISCO. — Non, répondez-moi, vous ! Halte ! faites-vous reconnaître — vous-même.\nBERNARDO. — Vive le roi !\nFRANCISCO. — Bernardo !\nBERNARDO. — Lui-même.\nFRANCISCO. — Vous venez très-exactement à votre heure.\nBERNARDO. — Minuit vient de sonner ; va te mettre au lit, Francisco.",
+    "original": "BERNARDO. — Qui est là ?\nFRANCISCO. — Non, répondez-moi, vous ! Halte ! faites-vous reconnaître — vous-même.\nBERNARDO. — Vive le roi !\nFRANCISCO. — Bernardo !\nBERNARDO. — Lui-même.\nFRANCISCO. — Vous venez très-exactement à votre heure.\nBERNARDO. — Minuit vient de sonner ; va te mettre au lit, Francisco.",
+    "length": 304,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p02704.s1",
+      "p02704.s2",
+      "p02704.s3"
+    ],
+    "french": "FORTINBRAS. — Que quatre capitaines — portent [TITRE], comme un combattant, sur l’estrade ; — car, probablement, s’il eût été mis à l’épreuve, — c’eût été un grand roi ; et que, sur son passage, — la musique militaire et les salves guerrières — retentissent hautement en son honneur. — Enlevez les corps : un tel spectacle — ne sied qu’au champ de bataille ; ici, il fait mal. — Allez ! dites aux soldats de faire feu.",
+    "original": "FORTINBRAS. — Que quatre capitaines — portent Hamlet, comme un combattant, sur l’estrade ; — car, probablement, s’il eût été mis à l’épreuve, — c’eût été un grand roi ; et que, sur son passage, — la musique militaire et les salves guerrières — retentissent hautement en son honneur. — Enlevez les corps : un tel spectacle — ne sied qu’au champ de bataille ; ici, il fait mal. — Allez ! dites aux soldats de faire feu.",
+    "length": 417,
+    "truncated": false
+  }
+}

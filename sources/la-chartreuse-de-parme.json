@@ -1,0 +1,145 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-chartreuse-de-parme",
+  "title": "La Chartreuse de Parme",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Divan, édition Henri Martineau, 1927",
+  "pages": [
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Avertissement",
+      "revisionId": 4782084
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre I",
+      "revisionId": 4782096
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre II",
+      "revisionId": 4782119
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre III",
+      "revisionId": 4782127
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre IV",
+      "revisionId": 4782132
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre V",
+      "revisionId": 4782139
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre VI",
+      "revisionId": 4782150
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre VII",
+      "revisionId": 4782156
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre VIII",
+      "revisionId": 4792952
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre IX",
+      "revisionId": 4792956
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre X",
+      "revisionId": 4792960
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XI",
+      "revisionId": 4792963
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XII",
+      "revisionId": 4792967
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XIII",
+      "revisionId": 4792971
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XIV",
+      "revisionId": 4794332
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XV",
+      "revisionId": 4794334
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XVI",
+      "revisionId": 4795215
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XVII",
+      "revisionId": 4795219
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XVIII",
+      "revisionId": 4795223
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XIX",
+      "revisionId": 4795227
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XX",
+      "revisionId": 4795231
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXI",
+      "revisionId": 4796777
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXII",
+      "revisionId": 4796788
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXIII",
+      "revisionId": 4796793
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXIV",
+      "revisionId": 4796797
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXV",
+      "revisionId": 4796805
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXVI",
+      "revisionId": 4798337
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXVII",
+      "revisionId": 4798345
+    },
+    {
+      "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXVIII",
+      "revisionId": 4798350
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8cb17d9f125b0ce1ab281093e7ef726021d8d1ccbf3876e4d8ba05e8d89c9227",
+  "bodyStart": {
+    "id": "p00014",
+    "textPrefix": "Le 15 mai 1796, le général Bonaparte fit son entrée dans Mil"
+  },
+  "bodyEnd": {
+    "id": "p02288",
+    "textPrefix": "Les prisons de Parme étaient vides, le comte immensément ric"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Avertissement de Stendhal (1839) exclu : paratexte. Fin avant la dédicace « TO THE HAPPY FEW » et « FIN. »."
+  ],
+  "titleMasks": []
+}

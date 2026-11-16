@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "hamlet",
+  "title": "Hamlet",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Œuvres complètes de Shakespeare, trad. François-Victor Hugo, Pagnerre, 1865, tome 1",
+  "pages": [
+    {
+      "title": "Le second Hamlet (trad. Hugo)",
+      "revisionId": 15966629
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d4cd8ccc943bd3c1e1e02e34b1cd3fadfa7c7ed55c90503a3931d8b91bca4e29",
+  "bodyStart": {
+    "id": "p00034",
+    "textPrefix": "BERNARDO."
+  },
+  "bodyEnd": {
+    "id": "p02704",
+    "textPrefix": "Que quatre capitaines — portent Hamlet, comme un combattant,"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "François-Victor Hugo",
+    "translationYear": 1865,
+    "translatorDeathYear": 1873
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Page de titre de l'édition de 1604 et liste des personnages exclues ; fin sur la dernière réplique de Fortinbras, avant la didascalie finale et les notes du traducteur.",
+    "Page de titre de l'édition de 1604 et liste des personnages exclues ; début sur le nom de Bernardo (lecture centeredSpeakers) ; fin sur la dernière réplique de Fortinbras, avant la didascalie finale et les notes du traducteur."
+  ],
+  "titleMasks": [
+    "Hamlet"
+  ],
+  "readingOptions": [
+    "centeredSpeakers",
+    "inlineNoteCalls"
+  ]
+}

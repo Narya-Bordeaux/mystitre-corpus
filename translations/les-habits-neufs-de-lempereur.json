@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-habits-neufs-de-lempereur",
+  "sourceLanguage": "da",
+  "cleanTextSha256": "766b5ada21581545b0f4d4573ec63afb0fef98187b7c181a6cdb7572d6a57733",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "For mange Aar siden levede en Keiser, som holdt saa uhyre meget af smukke nye Klæder, at han gav alle sine Penge ud for ret at blive pyntet.",
+      "translation": "Il y a bien des années vivait un empereur qui aimait tant les beaux habits neufs qu'il dépensait tout son argent pour être bien paré."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Han brød sig ikke om sine Soldater, brød sig ei om Comedie eller om at kjøre i Skoven, uden alene for at vise sine nye Klæder.",
+      "translation": "Il ne se souciait pas de ses soldats, ne se souciait ni de la comédie ni des promenades en voiture dans la forêt, sinon pour montrer ses habits neufs."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Han havde en Kjole for hver Time paa Dagen, og ligesom man siger om en Konge, han er i Raadet, saa sagde man altid her: “Keiseren er i Garderoben!”",
+      "translation": "Il avait un habit pour chaque heure du jour, et de même qu'on dit d'un roi : « Il est au conseil », on disait toujours ici : « L'empereur est à sa garde-robe ! »"
+    },
+    {
+      "id": "p00001.s4",
+      "original": "—\nI den store Stad, hvor han boede, gik det meget fornøieligt til, hver Dag kom der mange Fremmede, een Dag kom der to Bedragere; de gave sig ud for at være Vævere og sagde, at de forstode at væve det deiligste Tøi, man kunde tænke sig.",
+      "translation": "—\nDans la grande ville où il habitait, on menait joyeuse vie ; chaque jour arrivaient de nombreux étrangers, et un jour arrivèrent deux escrocs ; ils se firent passer pour des tisserands et prétendirent savoir tisser la plus belle étoffe qu'on pût imaginer."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00029.s1",
+      "original": "Saa gik Keiseren i Processionen under den deilige Thronhimmel og alle Mennesker paa Gaden og i Vinduerne sagde: “Gud hvor Keiserens nye Klæder ere mageløse! hvilket deiligt Slæb han har paa Kjolen! hvor den sidder velsignet!”",
+      "translation": "L'empereur s'avança donc dans la procession sous le beau dais, et tous les gens, dans la rue et aux fenêtres, disaient : « Dieu, que les habits neufs de l'empereur sont incomparables ! Quelle belle traîne il porte à son habit ! Comme il lui va bien ! »"
+    },
+    {
+      "id": "p00029.s2",
+      "original": "Ingen vilde lade sig mærke med, at han intet saae, for saa havde han jo ikke duet i sit Embede, eller været meget dum.",
+      "translation": "Personne ne voulait laisser voir qu'il ne voyait rien, car il n'aurait alors pas été digne de sa charge, ou aurait été bien sot."
+    },
+    {
+      "id": "p00029.s3",
+      "original": "Ingen af Keiserens Klæder havde gjort saadan Lykke.",
+      "translation": "Aucun des habits de l'empereur n'avait eu pareil succès."
+    },
+    {
+      "id": "p00030.s1",
+      "original": "“Men han har jo ikke noget paa,” sagde et lille Barn.",
+      "translation": "« Mais il n'a rien sur lui », dit un petit enfant."
+    },
+    {
+      "id": "p00030.s2",
+      "original": "“Herre Gud, hør den Uskyldiges Røst,” sagde Faderen; og den Ene hvidskede til den Anden, hvad Barnet sagde.",
+      "translation": "« Seigneur Dieu, écoutez la voix de l'innocent », dit le père ; et l'on se répéta tout bas, de l'un à l'autre, ce que l'enfant avait dit."
+    },
+    {
+      "id": "p00031.s1",
+      "original": "“Men han har jo ikke noget paa,” raabte tilsidst hele Folket.",
+      "translation": "« Mais il n'a rien sur lui », cria enfin tout le peuple."
+    },
+    {
+      "id": "p00031.s2",
+      "original": "Det krøb i Keiseren, thi han syntes, de havde Ret, men han tænkte som saa: “nu maa jeg holde Processionen ud”.",
+      "translation": "L'empereur en frissonna, car il lui semblait qu'ils avaient raison, mais il se dit : « À présent, il faut que je tienne jusqu'au bout de la procession. »"
+    },
+    {
+      "id": "p00031.s3",
+      "original": "Og Kammerherrerne gik og bar paa Slæbet, som der slet ikke var.",
+      "translation": "Et les chambellans continuèrent d'avancer en portant la traîne, qui n'existait pas du tout."
+    }
+  ]
+}

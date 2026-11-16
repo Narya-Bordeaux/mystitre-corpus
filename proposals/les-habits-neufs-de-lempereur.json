@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-habits-neufs-de-lempereur",
+  "title": "Les Habits neufs de l'empereur",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "da",
+    "label": "Traduction par nos soins à partir de l'original (da)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "da.wikisource.org",
+    "edition": "da.wikisource, page « Keiserens nye Klæder » (édition non indiquée)",
+    "pages": [
+      {
+        "title": "Keiserens nye Klæder",
+        "revisionId": 68277
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "766b5ada21581545b0f4d4573ec63afb0fef98187b7c181a6cdb7572d6a57733"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00001.s3"
+    ],
+    "french": "Il y a bien des années vivait un empereur qui aimait tant les beaux habits neufs qu'il dépensait tout son argent pour être bien paré. Il ne se souciait pas de ses soldats, ne se souciait ni de la comédie ni des promenades en voiture dans la forêt, sinon pour montrer ses habits neufs. Il avait un habit pour chaque heure du jour, et de même qu'on dit d'un roi : « Il est au conseil », on disait toujours ici : « L'empereur est à sa garde-robe ! »",
+    "original": "For mange Aar siden levede en Keiser, som holdt saa uhyre meget af smukke nye Klæder, at han gav alle sine Penge ud for ret at blive pyntet. Han brød sig ikke om sine Soldater, brød sig ei om Comedie eller om at kjøre i Skoven, uden alene for at vise sine nye Klæder. Han havde en Kjole for hver Time paa Dagen, og ligesom man siger om en Konge, han er i Raadet, saa sagde man altid her: “Keiseren er i Garderoben!”",
+    "length": 446,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00031.s1",
+      "p00031.s2",
+      "p00031.s3"
+    ],
+    "french": "« Mais il n'a rien sur lui », cria enfin tout le peuple. L'empereur en frissonna, car il lui semblait qu'ils avaient raison, mais il se dit : « À présent, il faut que je tienne jusqu'au bout de la procession. » Et les chambellans continuèrent d'avancer en portant la traîne, qui n'existait pas du tout.",
+    "original": "“Men han har jo ikke noget paa,” raabte tilsidst hele Folket. Det krøb i Keiseren, thi han syntes, de havde Ret, men han tænkte som saa: “nu maa jeg holde Processionen ud”. Og Kammerherrerne gik og bar paa Slæbet, som der slet ikke var.",
+    "length": 302,
+    "truncated": false
+  }
+}

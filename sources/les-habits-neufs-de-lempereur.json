@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-habits-neufs-de-lempereur",
+  "title": "Les Habits neufs de l'empereur",
+  "host": "da.wikisource.org",
+  "sourceLanguage": "da",
+  "edition": "da.wikisource, page « Keiserens nye Klæder » (édition non indiquée)",
+  "pages": [
+    {
+      "title": "Keiserens nye Klæder",
+      "revisionId": 68277
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "766b5ada21581545b0f4d4573ec63afb0fef98187b7c181a6cdb7572d6a57733",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "For mange Aar siden levede en Keiser, som holdt saa uhyre me"
+  },
+  "bodyEnd": {
+    "id": "p00031",
+    "textPrefix": "“Men han har jo ikke noget paa,” raabte tilsidst hele Folket"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "da"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Texte entier, sans paratexte."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
