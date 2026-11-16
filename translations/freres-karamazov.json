@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "freres-karamazov",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "a581b6c9e95b8cbcbc21987e444d53b0478b3bfd250e3e8e3593f52868f5ef69",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "Алексей Федорович Карамазов был третьим сыном помещика нашего уезда Федора Павловича Карамазова, столь известного в свое время (да и теперь еще у нас припоминаемого) по трагической и темной кончине своей, приключившейся ровно тринадцать лет назад и о которой сообщу в своем месте.",
+      "translation": "Alexeï Fiodorovitch Karamazov était le troisième fils d’un propriétaire terrien de notre district, Fiodor Pavlovitch Karamazov, si connu en son temps (et dont on garde encore chez nous le souvenir) pour sa fin tragique et obscure, survenue il y a exactement treize ans, et dont je parlerai en son lieu."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Теперь же скажу об этом «помещике» (как его у нас называли, хотя он всю жизнь совсем почти не жил в своем поместье) лишь то, что это был странный тип, довольно часто, однако, встречающийся, именно тип человека не только дрянного и развратного, но вместе с тем и бестолкового, — но из таких, однако, бестолковых, которые умеют отлично обделывать свои имущественные делишки, и только, кажется, одни эти.",
+      "translation": "Pour l’instant, je dirai seulement de ce « propriétaire » (ainsi l’appelait-on chez nous, bien qu’il n’eût presque jamais vécu sur son domaine) que c’était un type singulier, assez fréquent pourtant : le type de l’homme non seulement vil et débauché, mais en même temps déraisonnable — de ces déraisonnables, cependant, qui savent fort bien mener leurs petites affaires d’argent, et celles-là seulement, semble-t-il."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00070.s1",
+      "original": "— Карамазов! — крикнул Коля, — неужели и взаправду религия говорит, что мы все встанем из мертвых, и оживем, и увидим опять друг друга, и всех, и Илюшечку?",
+      "translation": "— Karamazov ! s’écria Kolia. Est-ce donc vrai, ce que dit la religion, que nous ressusciterons tous d’entre les morts, que nous reviendrons à la vie et que nous nous reverrons les uns les autres, tous, et Ilioucha aussi ?"
+    },
+    {
+      "id": "p00071.s1",
+      "original": "— Непременно восстанем, непременно увидим и весело, радостно расскажем друг другу всё, что было, — полусмеясь, полу в восторге ответил Алеша.",
+      "translation": "— Sûrement nous ressusciterons, sûrement nous nous reverrons et nous nous raconterons joyeusement, avec bonheur, tout ce qui s’est passé, répondit Aliocha, mi-riant, mi-enthousiaste."
+    },
+    {
+      "id": "p00072.s1",
+      "original": "— Ах, как это будет хорошо! — вырвалось у Коли.",
+      "translation": "— Ah, comme ce sera beau ! s’échappa de Kolia."
+    },
+    {
+      "id": "p00073.s1",
+      "original": "— Ну, а теперь кончим речи и пойдемте на его поминки.",
+      "translation": "— Eh bien, maintenant finissons les discours et allons à son repas funéraire."
+    },
+    {
+      "id": "p00073.s2",
+      "original": "Не смущайтесь, что блины будем есть.",
+      "translation": "Ne vous troublez pas si l’on y mange des blinis."
+    },
+    {
+      "id": "p00073.s3",
+      "original": "Это ведь старинное, вечное, и тут есть хорошее, — засмеялся Алеша.",
+      "translation": "C’est une très vieille coutume, éternelle, et il y a là du bon, dit Aliocha en riant."
+    },
+    {
+      "id": "p00073.s4",
+      "original": "— Ну пойдемте же!",
+      "translation": "— Allons, venez donc !"
+    },
+    {
+      "id": "p00073.s5",
+      "original": "Вот мы теперь и идем рука в руку.",
+      "translation": "Nous y allons maintenant la main dans la main."
+    },
+    {
+      "id": "p00074.s1",
+      "original": "— И вечно так, всю жизнь рука в руку!",
+      "translation": "— Et toujours ainsi, toute la vie, la main dans la main !"
+    },
+    {
+      "id": "p00074.s2",
+      "original": "Ура Карамазову! — еще раз восторженно прокричал Коля, и еще раз все мальчики подхватили его восклицание.",
+      "translation": "Hourra pour Karamazov ! s’écria encore une fois Kolia avec enthousiasme, et encore une fois tous les garçons reprirent son exclamation."
+    }
+  ]
+}
