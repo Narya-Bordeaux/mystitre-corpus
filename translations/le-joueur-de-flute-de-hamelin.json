@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-joueur-de-flute-de-hamelin",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "852460faea3435090c85b0353a755259067e15a90f21cb34f261cc1a9e467e29",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00013.s1",
+      "original": "Im Jahr 1284 ließ sich zu Hameln ein wunderlicher Mann sehen.",
+      "translation": "En l'an 1284, un homme singulier se fit voir à Hamelin."
+    },
+    {
+      "id": "p00013.s2",
+      "original": "Er hatte einen Rock von vielfarbigem, bunten Tuch an, weshalben er Bundting soll geheißen haben, und gab sich für einen Rattenfänger aus, indem er versprach, gegen ein gewisses Geld die Stadt von allen Mäusen und Ratten zu befreien.",
+      "translation": "Il portait un habit d'étoffe bariolée de plusieurs couleurs, ce qui lui aurait valu le nom de Bundting, et il se donnait pour un preneur de rats, promettant, moyennant une certaine somme, de délivrer la ville de toutes les souris et de tous les rats."
+    },
+    {
+      "id": "p00013.s3",
+      "original": "Die Bürger wurden mit ihm einig und versicherten ihm einen bestimmten Lohn.",
+      "translation": "Les bourgeois tombèrent d'accord avec lui et lui assurèrent un salaire déterminé."
+    },
+    {
+      "id": "p00013.s4",
+      "original": "Der Rattenfänger zog demnach ein Pfeifchen heraus und pfiff, da kamen alsobald die Ratten und Mäuse aus allen Häusern hervorgekrochen und sammelten sich um ihn herum.",
+      "translation": "Le preneur de rats sortit alors un petit sifflet et siffla ; aussitôt les rats et les souris sortirent en rampant de toutes les maisons et se rassemblèrent autour de lui."
+    },
+    {
+      "id": "p00013.s5",
+      "original": "Als er nun meinte, es wäre keine zurück, ging er hinaus und der ganze Haufe folgte ihm, und so führte er sie an die Weser; dort schürzte er seine Kleider und trat in das Wassers, worauf ihm alle die Thiere folgten und hineinstürzend ertranken.",
+      "translation": "Quand il crut qu'il n'en restait plus un seul, il sortit, et toute la troupe le suivit ; il les conduisit ainsi jusqu'à la Weser ; là, il retroussa ses vêtements et entra dans l'eau, et tous les animaux le suivirent, s'y jetèrent et se noyèrent."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00016.s1",
+      "original": "Die Bürger von Hameln haben die Begebenheit in ihr Stadtbuch einzeichnen lassen und pflegten in ihren Ausschreiben nach dem Verlust ihrer Kinder Jahr und Tag zu zahlen.",
+      "translation": "Les bourgeois de Hamelin firent consigner l'événement dans le registre de leur ville, et ils avaient coutume, dans leurs actes, de compter les années à partir de la perte de leurs enfants."
+    },
+    {
+      "id": "p00016.s2",
+      "original": "Nach Seyfried ist der 22ste statt des 26sten Juni im Stadtbuch angegeben.",
+      "translation": "Selon Seyfried, le registre de la ville donne le 22 juin au lieu du 26."
+    },
+    {
+      "id": "p00016.s3",
+      "original": "An dem Rath-Haus standen folgende Zeilen:\nIm Jahr 1284 na Christi gebort\ntho Hamel worden uthgevort\nhundert und dreißig Kinder dasülvest geborn\ndorch einen Piper under den Köppen verlorn.",
+      "translation": "Sur l'hôtel de ville se trouvaient ces lignes :\nL'an 1284 après la naissance du Christ\nfurent emmenés de Hamelin\ncent trente enfants qui y étaient nés,\nperdus par un joueur de pipeau sous les collines."
+    },
+    {
+      "id": "p00018.s1",
+      "original": "Und an der neuen Pforte:\nCentum ter denos cum magus ab urbe puellos\nduxerat ante annos CCLXXII condita porta fuit.",
+      "translation": "Et à la porte neuve :\nCent trente enfants, quand le magicien les eut emmenés hors de la ville,\nla porte avait été bâtie deux cent soixante-douze ans auparavant."
+    },
+    {
+      "id": "p00021.s1",
+      "original": "Im Jahr 1572 ließ der Burgermeister die Geschichte in die Kirchenfenster abbilden mit der nöthigen Ueberschrift, welche größtentheils unleserlich geworden.",
+      "translation": "En l'an 1572, le bourgmestre fit représenter l'histoire sur les vitraux de l'église, avec l'inscription nécessaire, qui est devenue en grande partie illisible."
+    },
+    {
+      "id": "p00021.s2",
+      "original": "Auch ist eine Münze darauf geprägt.",
+      "translation": "Une pièce de monnaie en a aussi été frappée."
+    }
+  ]
+}

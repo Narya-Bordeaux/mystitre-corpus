@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-joueur-de-flute-de-hamelin",
+  "title": "Le Joueur de flûte de Hamelin",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Die Kinder zu Hameln (n° 244), Deutsche Sagen der Brüder Grimm, Band 1, d'après la page de Wikisource allemande ; édition non indiquée plus précisément ; aucune traduction française libre trouvée",
+    "pages": [
+      {
+        "title": "Die Kinder zu Hameln",
+        "revisionId": 4599692
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "852460faea3435090c85b0353a755259067e15a90f21cb34f261cc1a9e467e29"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00013.s1",
+      "p00013.s2"
+    ],
+    "french": "En l'an 1284, un homme singulier se fit voir à Hamelin. Il portait un habit d'étoffe bariolée de plusieurs couleurs, ce qui lui aurait valu le nom de Bundting, et il se donnait pour un preneur de rats, promettant, moyennant une certaine somme, de délivrer la ville de toutes les souris et de tous les rats.",
+    "original": "Im Jahr 1284 ließ sich zu Hameln ein wunderlicher Mann sehen. Er hatte einen Rock von vielfarbigem, bunten Tuch an, weshalben er Bundting soll geheißen haben, und gab sich für einen Rattenfänger aus, indem er versprach, gegen ein gewisses Geld die Stadt von allen Mäusen und Ratten zu befreien.",
+    "length": 306,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00018.s1",
+      "p00021.s1",
+      "p00021.s2"
+    ],
+    "french": "Et à la porte neuve :\nCent trente enfants, quand le magicien les eut emmenés hors de la ville,\nla porte avait été bâtie deux cent soixante-douze ans auparavant.\nEn l'an 1572, le bourgmestre fit représenter l'histoire sur les vitraux de l'église, avec l'inscription nécessaire, qui est devenue en grande partie illisible. Une pièce de monnaie en a aussi été frappée.",
+    "original": "Und an der neuen Pforte:\nCentum ter denos cum magus ab urbe puellos\nduxerat ante annos CCLXXII condita porta fuit.\nIm Jahr 1572 ließ der Burgermeister die Geschichte in die Kirchenfenster abbilden mit der nöthigen Ueberschrift, welche größtentheils unleserlich geworden. Auch ist eine Münze darauf geprägt.",
+    "length": 365,
+    "truncated": false
+  }
+}

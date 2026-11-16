@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "hansel-et-gretel",
+  "title": "Hansel et Gretel",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "Hänsel und Grethel (1857), Kinder- und Hausmärchen der Brüder Grimm, n° 15, d'après la page de Wikisource allemande ; traduction française de Wikisource écartée (traduction contemporaine sous licence Art Libre, non libre de droits au sens du corpus)",
+  "pages": [
+    {
+      "title": "Hänsel und Grethel (1857)",
+      "revisionId": 2549897
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7b7c63f7f0da74339261095e1003c64a26a3c4e5eecc1a59e196d7152ef5d324",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Vor einem großen Walde wohnte ein armer Holzhacker mit seine"
+  },
+  "bodyEnd": {
+    "id": "p00021",
+    "textPrefix": "Das Entchen kam auch heran, und Hänsel setzte sich auf und b"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclut le titre « 15. / Hänsel und Grethel. » (p00001) et l'en-tête « Anmerkungen (Wikisource) » (p00022). La formule finale du conte est incluse."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

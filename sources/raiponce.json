@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "raiponce",
+  "title": "Raiponce",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "Rapunzel (1857), Kinder- und Hausmärchen der Brüder Grimm, n° 12, d'après la page de Wikisource allemande ; aucune traduction française libre retenue",
+  "pages": [
+    {
+      "title": "Rapunzel (1857)",
+      "revisionId": 1168174
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "cb6134b5a55a6cdfc662a303a8feef5c27fc67f1ae507aefaa0f662e160d187d",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Es war einmal ein Mann und eine Frau, die wünschten sich sch"
+  },
+  "bodyEnd": {
+    "id": "p00014",
+    "textPrefix": "so ließ sie die Haare hinab. Der Königssohn stieg hinauf, ab"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclut le titre « 12. / Rapunzel. » (p00001). Le texte entier est conservé, fin comprise."
+  ],
+  "titleMasks": [
+    "Raiponce"
+  ],
+  "readingOptions": []
+}

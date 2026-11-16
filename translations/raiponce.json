@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "raiponce",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "cb6134b5a55a6cdfc662a303a8feef5c27fc67f1ae507aefaa0f662e160d187d",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "Es war einmal ein Mann und eine Frau, die wünschten sich schon lange vergeblich ein Kind, endlich machte sich die Frau Hoffnung der liebe Gott werde ihren Wunsch erfüllen.",
+      "translation": "Il était une fois un homme et une femme qui désiraient depuis longtemps, en vain, avoir un enfant ; enfin la femme eut l'espoir que le bon Dieu exaucerait son souhait."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Die Leute hatten in ihrem Hinterhaus ein kleines Fenster, daraus konnte man in einen prächtigen Garten sehen, der voll der schönsten Blumen und Kräuter stand; er war aber von einer hohen Mauer umgeben, und niemand wagte hinein zu gehen, weil er einer Zauberin gehörte, die große Macht hatte und von aller Welt gefürchtet ward.",
+      "translation": "Ces gens avaient dans leur arrière-maison une petite fenêtre d'où l'on voyait un magnifique jardin plein des plus belles fleurs et des plus belles herbes ; mais il était entouré d'un haut mur, et personne n'osait y entrer, car il appartenait à une sorcière très puissante, que tout le monde craignait."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Eines Tags stand die Frau an diesem Fenster und sah in den Garten hinab, da erblickte sie ein Beet, das mit den schönsten Rapunzeln bepflanzt war: und sie sahen so frisch und grün aus, daß sie lüstern ward und das größte Verlangen empfand von den Rapunzeln zu essen.",
+      "translation": "Un jour, la femme se tenait à cette fenêtre et regardait le jardin en bas, quand elle aperçut une plate-bande plantée des plus belles raiponces : elles avaient l'air si fraîches et si vertes qu'elle en eut envie et ressentit le plus grand désir d'en manger."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00014.s4",
+      "original": "Da irrte er blind im Walde umher, aß nichts als Wurzeln und Beeren, und that nichts als jammern und weinen über den Verlust seiner liebsten Frau.",
+      "translation": "Il erra alors aveugle dans la forêt, ne mangeant rien que des racines et des baies, et ne faisant rien que gémir et pleurer la perte de sa chère épouse."
+    },
+    {
+      "id": "p00014.s5",
+      "original": "So wanderte er einige Jahre im Elend umher und gerieth endlich in die Wüstenei, wo Rapunzel mit den Zwillingen, die sie geboren hatte, einem Knaben und Mädchen, kümmerlich lebte.",
+      "translation": "Il erra ainsi quelques années dans la misère et arriva enfin dans le désert où Raiponce vivait pauvrement avec les jumeaux qu'elle avait mis au monde, un garçon et une fille."
+    },
+    {
+      "id": "p00014.s6",
+      "original": "Er vernahm eine Stimme, und sie däuchte ihn so bekannt: da gieng er darauf zu, und wie er heran kam, erkannte ihn Rapunzel und fiel ihm um den Hals und weinte.",
+      "translation": "Il entendit une voix, qui lui sembla si familière ; il alla vers elle, et quand il fut près, Raiponce le reconnut, lui tomba au cou et pleura."
+    },
+    {
+      "id": "p00014.s7",
+      "original": "Zwei von ihren Thränen aber benetzten seine Augen, da wurden sie wieder klar, und er konnte damit sehen wie sonst.",
+      "translation": "Mais deux de ses larmes lui mouillèrent les yeux, et ils redevinrent clairs, et il put voir comme auparavant."
+    },
+    {
+      "id": "p00014.s8",
+      "original": "Er führte sie in sein Reich, wo er mit Freude empfangen ward, und sie lebten noch lange glücklich und vergnügt.",
+      "translation": "Il les conduisit dans son royaume, où il fut reçu avec joie, et ils vécurent encore longtemps heureux et contents."
+    }
+  ]
+}
