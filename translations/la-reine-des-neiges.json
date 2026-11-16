@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-reine-des-neiges",
+  "sourceLanguage": "da",
+  "cleanTextSha256": "64eba3a8e92f9b63a4303628b5800a3957c9e66858495b18a8a1b9d7daa324ee",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "See saa! nu begynde vi.",
+      "translation": "Voyons ! Nous allons commencer."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Naar vi ere ved Enden af Historien, veed vi mere, end vi nu vide, for det var en ond Trold! det var een af de allerværste, det var “Dævelen”!",
+      "translation": "Quand nous serons au bout de l'histoire, nous en saurons plus qu'à présent, car c'était un méchant troll ! l'un des pires qui soient, c'était « le Diable » !"
+    },
+    {
+      "id": "p00003.s3",
+      "original": "Een Dag var han i et rigtigt godt Humeur, thi han havde gjort et Speil, der havde den Egenskab, at alt Godt og Smukt, som speilede sig deri, svandt der sammen til næsten Ingenting, men hvad der ikke duede og tog sig ilde ud, det traadte ret frem og blev endnu værre.",
+      "translation": "Un jour, il était d'excellente humeur, car il avait fabriqué un miroir qui avait cette propriété que tout ce qui était bon et beau s'y reflétait en se réduisant presque à rien, tandis que ce qui ne valait rien et paraissait laid y ressortait en pleine lumière et devenait pire encore."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "De deiligste Landskaber saae ud deri som kogt Spinat, og de bedste Mennesker bleve ækle eller stode paa Hovedet uden Mave, Ansigterne bleve saa fordreiede, at de vare ikke til at kjende, og havde man en Fregne, saa kunde man være saa vis paa, at den løb ud over Næse og Mund.",
+      "translation": "Les plus beaux paysages y avaient l'air d'épinards cuits, et les meilleures gens y devenaient hideux ou se tenaient sur la tête, sans ventre ; les visages y étaient si déformés qu'on ne pouvait plus les reconnaître, et, si l'on avait une tache de rousseur, on pouvait être sûr qu'elle s'étalait sur tout le nez et la bouche."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00197.s1",
+      "original": "“Og Snip-snap-snurre-basselurre!” sagde Røverpigen, tog dem begge to i Hænderne og lovede, at hvis hun engang kom igjennem deres By, saa vilde hun komme op at besøge dem, og saa red hun ud i den vide Verden, men Kay og Gerda gik Haand i Haand, og som de gik, var det et deiligt Foraar med Blomster og Grønt; Kirkeklokkerne ringede, og de kjendte de høie Taarne, den store By, det var i den de boede, og de gik ind i den og hen til Bedstemoders Dør, op ad Trappen, ind i Stuen, hvor Alt stod paa samme Sted som før, og Uhret sagde: “dik! dik!” og Viseren dreiede; men idet de gik igjennem Døren, mærkede de, at de vare blevne voxne Mennesker.",
+      "translation": "« Et Snip-snap-snurre-basselurre ! » dit la petite brigande ; elle les prit tous deux par la main et promit que, si jamais elle passait par leur ville, elle viendrait leur rendre visite ; puis elle partit à cheval dans le vaste monde. Mais Kay et Gerda s'en allèrent main dans la main, et, tandis qu'ils marchaient, c'était un beau printemps, plein de fleurs et de verdure ; les cloches des églises sonnaient, et ils reconnurent les hautes tours, la grande ville : c'était celle où ils habitaient. Ils y entrèrent et allèrent jusqu'à la porte de grand-mère, montèrent l'escalier, entrèrent dans la chambre, où tout était à la même place qu'avant, et la pendule disait : « tic ! tac ! » tandis que l'aiguille tournait ; mais en franchissant la porte, ils s'aperçurent qu'ils étaient devenus des adultes."
+    },
+    {
+      "id": "p00197.s2",
+      "original": "Roserne fra Tagrenden blomstrede ind af de aabne Vinduer, og der stode de smaa Børnestole, og Kay og Gerda satte sig paa hver sin og holdt hinanden i Hænderne, de havde glemt som en tung Drøm den kolde tomme Herlighed hos Sneedronningen.",
+      "translation": "Les roses de la gouttière fleurissaient jusque dans les fenêtres ouvertes, et là se trouvaient les petites chaises d'enfants ; Kay et Gerda s'assirent chacun sur la sienne et se tinrent les mains ; ils avaient oublié, comme un lourd rêve, la froide et vide splendeur de la Reine des neiges."
+    },
+    {
+      "id": "p00197.s3",
+      "original": "Bedstemoder sad i Guds klare Solskin og læste høit af Bibelen: “uden at I blive som Børn, komme I ikke i Guds Rige!”",
+      "translation": "Grand-mère était assise dans la claire lumière du soleil de Dieu et lisait la Bible à haute voix : « Si vous ne devenez comme des enfants, vous n'entrerez pas dans le royaume de Dieu ! »"
+    },
+    {
+      "id": "p00198.s1",
+      "original": "Og Kay og Gerda saae hinanden ind i Øiet, og de forstode paa eengang den gamle Psalme:\n“Roserne voxe i Dale,\nDer faae vi Barn-Jesus i Tale.”",
+      "translation": "Kay et Gerda se regardèrent dans les yeux, et ils comprirent d'un coup le vieux cantique :\n« Les roses fleurissent dans la vallée,\nLà nous trouverons l'Enfant Jésus. »"
+    },
+    {
+      "id": "p00201.s1",
+      "original": "Der sad de begge to Voxne og dog Børn, Børn i Hjertet, og det var Sommer, den varme, velsignede Sommer.",
+      "translation": "Ils étaient assis là, tous deux adultes et pourtant enfants, enfants par le cœur, et c'était l'été, le chaud, le bienfaisant été."
+    }
+  ]
+}

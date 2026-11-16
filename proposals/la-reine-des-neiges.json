@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-reine-des-neiges",
+  "title": "La Reine des neiges",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "da",
+    "label": "Traduction par nos soins à partir de l'original (da)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "da.wikisource.org",
+    "edition": "Édition non indiquée (d'après da.wikisource, « Sneedronningen »)",
+    "pages": [
+      {
+        "title": "Sneedronningen",
+        "revisionId": 68337
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "64eba3a8e92f9b63a4303628b5800a3957c9e66858495b18a8a1b9d7daa324ee"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3"
+    ],
+    "french": "Voyons ! Nous allons commencer. Quand nous serons au bout de l'histoire, nous en saurons plus qu'à présent, car c'était un méchant troll ! l'un des pires qui soient, c'était « le Diable » ! Un jour, il était d'excellente humeur, car il avait fabriqué un miroir qui avait cette propriété que tout ce qui était bon et beau s'y reflétait en se réduisant presque à rien, tandis que ce qui ne valait rien et paraissait laid y ressortait en pleine lumière et devenait pire encore.",
+    "original": "See saa! nu begynde vi. Naar vi ere ved Enden af Historien, veed vi mere, end vi nu vide, for det var en ond Trold! det var een af de allerværste, det var “Dævelen”! Een Dag var han i et rigtigt godt Humeur, thi han havde gjort et Speil, der havde den Egenskab, at alt Godt og Smukt, som speilede sig deri, svandt der sammen til næsten Ingenting, men hvad der ikke duede og tog sig ilde ud, det traadte ret frem og blev endnu værre.",
+    "length": 474,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00197.s3",
+      "p00198.s1",
+      "p00201.s1"
+    ],
+    "french": "Grand-mère était assise dans la claire lumière du soleil de Dieu et lisait la Bible à haute voix : « Si vous ne devenez comme des enfants, vous n'entrerez pas dans le royaume de Dieu ! »\nKay et Gerda se regardèrent dans les yeux, et ils comprirent d'un coup le vieux cantique :\n« Les roses fleurissent dans la vallée,\nLà nous trouverons l'Enfant Jésus. »\nIls étaient assis là, tous deux adultes et pourtant enfants, enfants par le cœur, et c'était l'été, le chaud, le bienfaisant été.",
+    "original": "Bedstemoder sad i Guds klare Solskin og læste høit af Bibelen: “uden at I blive som Børn, komme I ikke i Guds Rige!”\nOg Kay og Gerda saae hinanden ind i Øiet, og de forstode paa eengang den gamle Psalme:\n“Roserne voxe i Dale,\nDer faae vi Barn-Jesus i Tale.”\nDer sad de begge to Voxne og dog Børn, Børn i Hjertet, og det var Sommer, den varme, velsignede Sommer.",
+    "length": 484,
+    "truncated": false
+  }
+}

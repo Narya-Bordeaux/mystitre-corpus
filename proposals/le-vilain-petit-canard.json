@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-vilain-petit-canard",
+  "title": "Le Vilain Petit Canard",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "da",
+    "translator": "David Soldi",
+    "translationYear": 1876,
+    "translatorDeathYear": 1884,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:David_Soldi&oldid=11885352",
+    "label": "Traduction libre de droits (David Soldi, 1876)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Contes d’Andersen, traduction de David Soldi, illustrations de Bertall, Hachette, 1876, p. 284-301 (d’après fr.wikisource)",
+    "pages": [
+      {
+        "title": "Contes d’Andersen/Le Vilain Petit Canard",
+        "revisionId": 9185742
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "15ba2b6183a236b2e2142c98969f80b2f4cdcd15951d7cd47c6f03c4430a24b5"
+  },
+  "titleMasks": [
+    "vilain petit canard"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Que la campagne était belle ! On était au milieu de l’été ; les blés agitaient des épis d’un jaune magnifique, l’avoine était verte, et dans les prairies le foin s’élevait en monceaux odorants ; la cigogne se promenait sur ses longues jambes rouges, en bavardant de l’égyptien, langue qu’elle avait apprise de madame sa mère.",
+    "original": "Que la campagne était belle ! On était au milieu de l’été ; les blés agitaient des épis d’un jaune magnifique, l’avoine était verte, et dans les prairies le foin s’élevait en monceaux odorants ; la cigogne se promenait sur ses longues jambes rouges, en bavardant de l’égyptien, langue qu’elle avait apprise de madame sa mère.",
+    "length": 325,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00087.s5",
+      "p00087.s6"
+    ],
+    "french": "Et le sureau même inclinait ses branches vers lui, et le soleil répandait une lumière si chaude et si bienfaisante ! Alors ses plumes se gonflèrent, son cou élancé se dressa, et il s’écria de tout son cœur : « Comment aurais-je pu rêver tant de bonheur, pendant que je n’étais qu’un [TITRE]. »",
+    "original": "Et le sureau même inclinait ses branches vers lui, et le soleil répandait une lumière si chaude et si bienfaisante ! Alors ses plumes se gonflèrent, son cou élancé se dressa, et il s’écria de tout son cœur : « Comment aurais-je pu rêver tant de bonheur, pendant que je n’étais qu’un vilain petit canard. »",
+    "length": 305,
+    "truncated": false
+  }
+}
