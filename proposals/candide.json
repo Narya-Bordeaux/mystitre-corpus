@@ -1,0 +1,164 @@
+{
+  "formatVersion": 1,
+  "bookId": "candide",
+  "title": "Candide ou l'Optimisme",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Candide, ou l’Optimisme, Œuvres complètes de Voltaire, Garnier, 1877 (tome 21), d'après Wikisource",
+    "pages": [
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 1",
+        "revisionId": 12770179
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 2",
+        "revisionId": 12770181
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 3",
+        "revisionId": 12770182
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 4",
+        "revisionId": 12770225
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 5",
+        "revisionId": 12770227
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 6",
+        "revisionId": 12770230
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 7",
+        "revisionId": 12770232
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 8",
+        "revisionId": 12770235
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 9",
+        "revisionId": 12770237
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 10",
+        "revisionId": 12770246
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 11",
+        "revisionId": 15388903
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 12",
+        "revisionId": 12770254
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 13",
+        "revisionId": 12770259
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 14",
+        "revisionId": 12770265
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 15",
+        "revisionId": 12770267
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 16",
+        "revisionId": 12770270
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 17",
+        "revisionId": 12770274
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 18",
+        "revisionId": 12770277
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 19",
+        "revisionId": 12770279
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 20",
+        "revisionId": 12770280
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 21",
+        "revisionId": 12770288
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 22",
+        "revisionId": 12770290
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 23",
+        "revisionId": 12770292
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 24",
+        "revisionId": 12770295
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 25",
+        "revisionId": 14947010
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 26",
+        "revisionId": 12770508
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 27",
+        "revisionId": 12770514
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 28",
+        "revisionId": 12770516
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 29",
+        "revisionId": 12770518
+      },
+      {
+        "title": "Candide, ou l’Optimisme/Garnier 1877/Chapitre 30",
+        "revisionId": 12770520
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "cbcf9878970446495f4a946f6b025d6973a336722b30ad6f4e65aca2bfb058ef"
+  },
+  "titleMasks": [
+    "Candide"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Il y avait en Vestphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les mœurs les plus douces. Sa physionomie annonçait son âme. Il avait le jugement assez droit, avec l’esprit le plus simple ; c’est, je crois, pour cette raison qu’on le nommait [TITRE].",
+    "original": "Il y avait en Vestphalie, dans le château de M. le baron de Thunder-ten-tronckh, un jeune garçon à qui la nature avait donné les mœurs les plus douces. Sa physionomie annonçait son âme. Il avait le jugement assez droit, avec l’esprit le plus simple ; c’est, je crois, pour cette raison qu’on le nommait Candide.",
+    "length": 311,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00276.s4",
+      "p00276.s5"
+    ],
+    "french": "…Pangloss disait quelquefois à [TITRE] : « Tous les événements sont enchaînés dans le meilleur des mondes possibles : car enfin si vous n’aviez pas été chassé d’un beau château à grands coups de pied dans le derrière pour l’amour de Mlle Cunégonde, si vous n’aviez pas été mis à l’Inquisition, si vous n’aviez pas couru l’Amérique à pied, si vous n’aviez pas donné un bon coup d’épée au baron, si vous n’aviez pas perdu tous vos moutons du bon pays d’Eldorado, vous ne mangeriez pas ici des cédrats confits et des pistaches. — Cela est bien dit, répondit [TITRE], mais il faut cultiver notre jardin. »",
+    "original": "Il n’y eut pas jusqu’à frère Giroflée qui ne rendît service ; il fut un très-bon menuisier, et même devint honnête homme ; et Pangloss disait quelquefois à Candide : « Tous les événements sont enchaînés dans le meilleur des mondes possibles : car enfin si vous n’aviez pas été chassé d’un beau château à grands coups de pied dans le derrière pour l’amour de Mlle Cunégonde, si vous n’aviez pas été mis à l’Inquisition, si vous n’aviez pas couru l’Amérique à pied, si vous n’aviez pas donné un bon coup d’épée au baron, si vous n’aviez pas perdu tous vos moutons du bon pays d’Eldorado, vous ne mangeriez pas ici des cédrats confits et des pistaches. — Cela est bien dit, répondit Candide, mais il faut cultiver notre jardin. »",
+    "length": 600,
+    "truncated": true
+  }
+}

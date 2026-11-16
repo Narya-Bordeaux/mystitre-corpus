@@ -1,0 +1,71 @@
+{
+  "formatVersion": 1,
+  "bookId": "micromegas",
+  "title": "Micromégas",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Micromégas, chapitres I à VII, Œuvres complètes de Voltaire, tome 21, d'après Wikisource ; éditeur non indiqué",
+    "pages": [
+      {
+        "title": "Micromégas/Chapitre I",
+        "revisionId": 12769928
+      },
+      {
+        "title": "Micromégas/Chapitre II",
+        "revisionId": 12769929
+      },
+      {
+        "title": "Micromégas/Chapitre III",
+        "revisionId": 12769934
+      },
+      {
+        "title": "Micromégas/Chapitre IV",
+        "revisionId": 12769933
+      },
+      {
+        "title": "Micromégas/Chapitre V",
+        "revisionId": 12769932
+      },
+      {
+        "title": "Micromégas/Chapitre VI",
+        "revisionId": 12769931
+      },
+      {
+        "title": "Micromégas/Chapitre VII",
+        "revisionId": 12769930
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "e4444858f5395c34da96060802fcde23dc9d58cc47f142f6dd62885e556a2ce2"
+  },
+  "titleMasks": [
+    "Micromégas"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "Dans une de ces planètes qui tournent autour de l’étoile nommée Sirius, il y avait un jeune homme de beaucoup d’esprit, que j’ai eu l’honneur de connaître dans le dernier voyage qu’il fit sur notre petite fourmilière ; il s’appelait [TITRE], nom qui convient fort à tous les grands. Il avait huit lieues de haut : j’entends, par huit lieues, vingt-quatre mille pas géométriques de cinq pieds chacun.",
+    "original": "Dans une de ces planètes qui tournent autour de l’étoile nommée Sirius, il y avait un jeune homme de beaucoup d’esprit, que j’ai eu l’honneur de connaître dans le dernier voyage qu’il fit sur notre petite fourmilière ; il s’appelait Micromégas, nom qui convient fort à tous les grands. Il avait huit lieues de haut : j’entends, par huit lieues, vingt-quatre mille pas géométriques de cinq pieds chacun.",
+    "length": 402,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00040.s6",
+      "p00040.s7"
+    ],
+    "french": "Il leur promit de leur faire un beau livre de philosophie écrit fort menu pour leur usage, et que, dans ce livre, ils verraient le bout des choses. Effectivement, il leur donna ce volume avant son départ : on le porta à Paris à l’Académie des sciences ; mais quand le vieux secrétaire l’eut ouvert, il ne vit rien qu’un livre tout blanc : « Ah ! dit-il, je m’en étais bien douté. »",
+    "original": "Il leur promit de leur faire un beau livre de philosophie écrit fort menu pour leur usage, et que, dans ce livre, ils verraient le bout des choses. Effectivement, il leur donna ce volume avant son départ : on le porta à Paris à l’Académie des sciences ; mais quand le vieux secrétaire l’eut ouvert, il ne vit rien qu’un livre tout blanc : « Ah ! dit-il, je m’en étais bien douté. »",
+    "length": 381,
+    "truncated": false
+  }
+}
