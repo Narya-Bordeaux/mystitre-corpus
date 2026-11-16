@@ -1,0 +1,60 @@
+{
+  "formatVersion": 1,
+  "bookId": "micromegas",
+  "title": "Micromégas",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Micromégas, chapitres I à VII, Œuvres complètes de Voltaire, tome 21, d'après Wikisource ; éditeur non indiqué",
+  "pages": [
+    {
+      "title": "Micromégas/Chapitre I",
+      "revisionId": 12769928
+    },
+    {
+      "title": "Micromégas/Chapitre II",
+      "revisionId": 12769929
+    },
+    {
+      "title": "Micromégas/Chapitre III",
+      "revisionId": 12769934
+    },
+    {
+      "title": "Micromégas/Chapitre IV",
+      "revisionId": 12769933
+    },
+    {
+      "title": "Micromégas/Chapitre V",
+      "revisionId": 12769932
+    },
+    {
+      "title": "Micromégas/Chapitre VI",
+      "revisionId": 12769931
+    },
+    {
+      "title": "Micromégas/Chapitre VII",
+      "revisionId": 12769930
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "e4444858f5395c34da96060802fcde23dc9d58cc47f142f6dd62885e556a2ce2",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Dans une de ces planètes qui tournent autour de l’étoile nom"
+  },
+  "bodyEnd": {
+    "id": "p00040",
+    "textPrefix": "L’animal de Sirius sourit : il ne trouva pas celui-là le moi"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de chapitres. Page « Texte entier » écartée car tronquée avant la fin du chapitre VII ; les sept chapitres sont enregistrés à la place."
+  ],
+  "titleMasks": [
+    "Micromégas"
+  ],
+  "readingOptions": []
+}
