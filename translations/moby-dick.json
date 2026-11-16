@@ -1,0 +1,57 @@
+{
+ "formatVersion": 1,
+ "bookId": "moby-dick",
+ "sourceLanguage": "en",
+ "cleanTextSha256": "59f90457d131f7a4b2a11fb1ac5ad3d9b624823d01828197798d96a72e2a2f23",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00003.s1",
+   "original": "Call me Ishmael.",
+   "translation": "Appelez-moi Ismaël."
+  },
+  {
+   "id": "p00003.s2",
+   "original": "Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+   "translation": "Il y a quelques années — peu importe combien de temps exactement —, comme j’avais peu ou point d’argent en poche et que rien en particulier ne me retenait à terre, je songeai à naviguer un peu et à voir la partie liquide du monde."
+  },
+  {
+   "id": "p00003.s3",
+   "original": "It is a way I have of driving off the spleen, and regulating the circulation.",
+   "translation": "C’est ma manière de chasser le spleen et de régler la circulation du sang."
+  },
+  {
+   "id": "p00003.s4",
+   "original": "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can.",
+   "translation": "Chaque fois que je sens un pli amer se creuser au coin de ma bouche ; chaque fois qu’il règne dans mon âme un novembre humide et bruineux ; chaque fois que je me surprends à m’arrêter malgré moi devant les magasins de cercueils et à fermer la marche de tous les enterrements que je croise ; et surtout chaque fois que mon hypocondrie prend sur moi un tel empire qu’il me faut un solide principe moral pour m’empêcher de descendre délibérément dans la rue et d’y jeter méthodiquement à terre le chapeau des passants — alors, je juge qu’il est grand temps de prendre la mer au plus vite."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00024.s5",
+   "original": "Till, gaining that vital centre, the black bubble upward burst; and now, liberated by reason of its cunning spring, and, owing to its great buoyancy, rising with great force, the coffin life-buoy shot lengthwise from the sea, fell over, and floated by my side.",
+   "translation": "Jusqu’à ce que, atteignant ce centre vital, la bulle noire éclatât vers le haut ; et alors, libérée par son ressort ingénieux et, grâce à sa grande flottabilité, jaillissant avec force, la bouée-cercueil surgit de la mer, tout en longueur, retomba et flotta à mon côté."
+  },
+  {
+   "id": "p00024.s6",
+   "original": "Buoyed up by that coffin, for almost one whole day and night, I floated on a soft and dirge-like main.",
+   "translation": "Soutenu par ce cercueil, je flottai presque un jour et une nuit entiers sur une mer douce comme un chant funèbre."
+  },
+  {
+   "id": "p00024.s7",
+   "original": "The unharming sharks, they glided by as if with padlocks on their mouths; the savage sea-hawks sailed with sheathed beaks.",
+   "translation": "Les requins inoffensifs glissaient près de moi comme si on leur avait mis des cadenas à la gueule ; les aigles de mer sauvages passaient, le bec rengainé."
+  },
+  {
+   "id": "p00024.s8",
+   "original": "On the second day, a sail drew near, nearer, and picked me up at last.",
+   "translation": "Le deuxième jour, une voile s’approcha, s’approcha encore, et me recueillit enfin."
+  },
+  {
+   "id": "p00024.s9",
+   "original": "It was the devious-cruising Rachel, that in her retracing search after her missing children, only found another orphan.",
+   "translation": "C’était le Rachel, navire aux routes errantes, qui, dans sa recherche en sens inverse de ses enfants disparus, ne trouva qu’un orphelin de plus."
+  }
+ ]
+}
