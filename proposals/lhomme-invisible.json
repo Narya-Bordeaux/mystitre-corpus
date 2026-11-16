@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "lhomme-invisible",
+  "title": "L’Homme invisible",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Invisible Man (1897), chapitre I et épilogue, d'après Wikisource (édition non précisée au-delà)",
+    "pages": [
+      {
+        "title": "The Invisible Man (1897)/Chapter 1",
+        "revisionId": 11896373
+      },
+      {
+        "title": "The Invisible Man (1897)/Epilogue",
+        "revisionId": 11896403
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a73c4f44ce2692c02f925034ee62b0e8c9cdf75c5a5a15571872811f206b4aec"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "L’étranger arriva au début de février, par une journée d’hiver, dans un vent mordant et une neige tourbillonnante, la dernière chute de neige de l’année, à travers la lande, venant, semblait-il, de la gare de Bramblehurst et portant une petite valise noire dans sa main fortement gantée. Il était emmitouflé des pieds à la tête, et le bord de son chapeau de feutre mou cachait tout son visage, sauf le bout luisant de son nez ; la neige s’était amassée contre ses épaules et sa poitrine et ajoutait une crête blanche à la charge qu’il portait.",
+    "original": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking as it seemed from Bramblehurst railway station, and carrying a little black portmanteau in his thickly gloved hand. He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried.",
+    "length": 543,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00050.s2",
+      "p00050.s3"
+    ],
+    "french": "Et quoique Kemp ait pêché sans relâche, et qu’Adye ait interrogé de près, nul être humain, hormis l’aubergiste, ne sait que ces livres sont là, avec le subtil secret de l’invisibilité et une douzaine d’autres secrets non moins étranges qui y sont consignés. Et nul autre n’en saura rien jusqu’à sa mort.",
+    "original": "And though Kemp has fished unceasingly, and Adye has questioned closely, no human being save the landlord knows those books are there, with the subtle secret of invisibility and a dozen other strange secrets written therein. And none other will know of them until he dies.",
+    "length": 303,
+    "truncated": false
+  }
+}

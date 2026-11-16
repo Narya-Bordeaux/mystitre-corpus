@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lhomme-invisible",
+  "title": "L’Homme invisible",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Invisible Man (1897), chapitre I et épilogue, d'après Wikisource (édition non précisée au-delà)",
+  "pages": [
+    {
+      "title": "The Invisible Man (1897)/Chapter 1",
+      "revisionId": 11896373
+    },
+    {
+      "title": "The Invisible Man (1897)/Epilogue",
+      "revisionId": 11896403
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a73c4f44ce2692c02f925034ee62b0e8c9cdf75c5a5a15571872811f206b4aec",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "The stranger came early in February, one wintry day, through"
+  },
+  "bodyEnd": {
+    "id": "p00050",
+    "textPrefix": "So he lapses into a dream, the undying wonderful dream of hi"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, numéro et titre du chapitre I, « THE END. ». Corps : du premier paragraphe du récit au dernier de l'épilogue (l'intitulé « THE EPILOGUE. » est écarté, et il se trouve avant p00040)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
