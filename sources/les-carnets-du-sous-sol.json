@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-carnets-du-sous-sol",
+  "title": "Les Carnets du sous-sol",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Original russe, page Wikisource « Записки из подполья (Достоевский) », chapitres Часть 1/Глава 1 et Часть 2/Глава 10 (édition non indiquée)",
+  "pages": [
+    {
+      "title": "Записки из подполья (Достоевский)/Часть 1/Глава 1",
+      "revisionId": 1070196
+    },
+    {
+      "title": "Записки из подполья (Достоевский)/Часть 2/Глава 10",
+      "revisionId": 5643368
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d8942ad30639eedd6a62aa512a5ecaa5440ad5adc832772a899c9d8b1c5bde94",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Я человек больной… Я злой человек. Непривлекательный я челов"
+  },
+  "bodyEnd": {
+    "id": "p00032",
+    "textPrefix": "Впрочем, здесь еще не кончаются «записки» этого парадоксалис"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de partie et de chapitre, note de bas de page initiale (retirée par le moteur). Gardée : la note finale de l'éditeur fictif « Впрочем, здесь еще не кончаются «записки»… », écrite par l'auteur et qui fait partie de l'œuvre."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
