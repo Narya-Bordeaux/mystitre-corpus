@@ -1,0 +1,44 @@
+{
+  "formatVersion": 1,
+  "bookId": "don-quichotte",
+  "title": "Don Quichotte",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "L’Ingénieux Hidalgo Don Quichotte de la Manche, traduction de Louis Viardot, dessins de Gustave Doré (page de titre : M DCCC LXII) ; seuls le premier chapitre de la première partie et le dernier chapitre de la seconde partie sont téléchargés (fr.wikisource)",
+  "pages": [
+    {
+      "title": "L’Ingénieux Hidalgo Don Quichotte de la Manche/Première partie/Chapitre I",
+      "revisionId": 14602496
+    },
+    {
+      "title": "L’Ingénieux Hidalgo Don Quichotte de la Manche/Deuxième partie/Chapitre LXXIV",
+      "revisionId": 4780534
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "4a43e3a35237da30d64d0d291333ebc2beb085787ccb55883f5cc2d78fcc5c13",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Dans une bourgade de la Manche, dont je ne veux pas me rappe"
+  },
+  "bodyEnd": {
+    "id": "p00024",
+    "textPrefix": "» Oui, pour moi seul naquit Don Quichotte, et moi pour lui. "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "es",
+    "translator": "Louis Viardot",
+    "translationYear": 1862,
+    "translatorDeathYear": 1883,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Louis_Viardot&oldid=14731944"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre d'ouvrage et intitulés de chapitres. Début : premier paragraphe du chapitre I de la première partie (le prologue de l'auteur, texte d'avant-propos, n'est pas téléchargé ni retenu). Fin : dernier paragraphe du chapitre LXXIV de la seconde partie (adieu de Cid Hamet à sa plume, épitaphes comprises). Seuls ces deux chapitres sont téléchargés (consigne de l'utilisateur, limitation de débit de Wikisource)."
+  ],
+  "titleMasks": [
+    "Quichotte"
+  ],
+  "readingOptions": []
+}

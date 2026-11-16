@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "don-quichotte",
+  "title": "Don Quichotte",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "es",
+    "translator": "Louis Viardot",
+    "translationYear": 1862,
+    "translatorDeathYear": 1883,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Louis_Viardot&oldid=14731944",
+    "label": "Traduction libre de droits (Louis Viardot, 1862)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Ingénieux Hidalgo Don Quichotte de la Manche, traduction de Louis Viardot, dessins de Gustave Doré (page de titre : M DCCC LXII) ; seuls le premier chapitre de la première partie et le dernier chapitre de la seconde partie sont téléchargés (fr.wikisource)",
+    "pages": [
+      {
+        "title": "L’Ingénieux Hidalgo Don Quichotte de la Manche/Première partie/Chapitre I",
+        "revisionId": 14602496
+      },
+      {
+        "title": "L’Ingénieux Hidalgo Don Quichotte de la Manche/Deuxième partie/Chapitre LXXIV",
+        "revisionId": 4780534
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "4a43e3a35237da30d64d0d291333ebc2beb085787ccb55883f5cc2d78fcc5c13"
+  },
+  "titleMasks": [
+    "Quichotte"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo, de ceux qui ont lance au râtelier, rondache antique, bidet maigre et lévrier de chasse. Un pot-au-feu, plus souvent de mouton que de bœuf, une vinaigrette presque tous les soirs, des abattis de bétail le samedi, le vendredi des lentilles, et le dimanche quelque pigeonneau outre l’ordinaire, consumaient les trois quarts de son revenu.",
+    "original": "Dans une bourgade de la Manche, dont je ne veux pas me rappeler le nom, vivait, il n’y a pas longtemps, un hidalgo, de ceux qui ont lance au râtelier, rondache antique, bidet maigre et lévrier de chasse. Un pot-au-feu, plus souvent de mouton que de bœuf, une vinaigrette presque tous les soirs, des abattis de bétail le samedi, le vendredi des lentilles, et le dimanche quelque pigeonneau outre l’ordinaire, consumaient les trois quarts de son revenu.",
+    "length": 451,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00024.s6",
+      "p00024.s7"
+    ],
+    "french": "En agissant ainsi, tu rempliras les devoirs de ta profession chrétienne ; tu donneras un bon conseil à celui qui te veut du mal ; et moi, je serai satisfait et fier d’être le premier qui ait entièrement recueilli de ses écrits le fruit qu’il en attendait ; car mon désir n’a pas été autre que de livrer à l’exécration des hommes les fausses et extravagantes histoires des livres de chevalerie, lesquelles, frappées à mort par celles de mon véritable Don [TITRE], ne vont plus qu’en trébuchant, et tomberont tout-à-fait sans aucun doute. ( — Vale. ) »",
+    "original": "En agissant ainsi, tu rempliras les devoirs de ta profession chrétienne ; tu donneras un bon conseil à celui qui te veut du mal ; et moi, je serai satisfait et fier d’être le premier qui ait entièrement recueilli de ses écrits le fruit qu’il en attendait ; car mon désir n’a pas été autre que de livrer à l’exécration des hommes les fausses et extravagantes histoires des livres de chevalerie, lesquelles, frappées à mort par celles de mon véritable Don Quichotte, ne vont plus qu’en trébuchant, et tomberont tout-à-fait sans aucun doute. ( — Vale. ) »",
+    "length": 552,
+    "truncated": false
+  }
+}
