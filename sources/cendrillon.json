@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "bookId": "cendrillon",
+  "title": "Cendrillon",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Contes de Perrault, Garnier, 1902",
+  "pages": [
+    {
+      "title": "Contes de Perrault (éd. 1902)/Cendrillon ou la petite Pantoufle de verre",
+      "revisionId": 14579840
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ffd27dfc92f298414124858d59855bc9321d97c122833a1f318fd2d228211825",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Il était une fois un gentilhomme qui épousa, en secondes noc"
+  },
+  "bodyEnd": {
+    "id": "p00023",
+    "textPrefix": "Alors ses deux sœurs la reconnurent pour la personne qu’elle"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Édition sans les moralités ; légende d'illustration exclue."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-metamorphose",
+  "title": "La Métamorphose",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "Die weißen Blätter, 1915",
+  "pages": [
+    {
+      "title": "Die Verwandlung (Franz Kafka)",
+      "revisionId": 3778141
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "26c073777ef39345f4593940f05d0ecb113e3d70d6b2169de8879eea4825b489",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Als Gregor Samsa eines Morgens aus unruhigen Träumen erwacht"
+  },
+  "bodyEnd": {
+    "id": "p00118",
+    "textPrefix": "Dann verließen alle drei gemeinschaftlich die Wohnung, was s"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Mention de l'auteur, titre et numéro de partie exclus."
+  ]
+}

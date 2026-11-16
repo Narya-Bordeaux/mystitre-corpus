@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-cid",
+  "title": "Le Cid",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Œuvres de Corneille, éd. Marty-Laveaux, t. 3, Hachette, 1862",
+  "pages": [
+    {
+      "title": "Le Cid/Édition Marty-Laveaux/Le Cid",
+      "revisionId": 11074558
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ddfbe2c66e430bc98621b794d08ab97fb11f0b27d7662bd9ab7addfedb22ab39",
+  "bodyStart": {
+    "id": "p00017",
+    "textPrefix": "Elvire, m’as-tu fait un rapport bien sincère ?\nNe déguises-t"
+  },
+  "bodyEnd": {
+    "id": "p00524",
+    "textPrefix": "Espère en ton courage, espère en ma promesse ;\nEt possédant "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Liste des acteurs exclue ; fin : dernier vers de Don Fernand, avant « FIN DU CINQUIEME ET DERNIER ACTE »."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-rouge-et-le-noir",
+  "title": "Le Rouge et le Noir",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Michel Lévy frères, 1854",
+  "pages": [
+    {
+      "title": "Le Rouge et le Noir/Texte entier",
+      "revisionId": 14174932
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "fccc50f07d40cfb1a9e7224ad46e2e96f8e694e4825cc8f06d29f877b934ca73",
+  "bodyStart": {
+    "id": "p00022",
+    "textPrefix": "La petite ville de Verrières peut passer pour l’une des plus"
+  },
+  "bodyEnd": {
+    "id": "p03709",
+    "textPrefix": "Madame de Rênal fut fidèle à sa promesse. Elle ne chercha en"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Début : premier paragraphe du chapitre I, après l'épigraphe de Hobbes. Fin : dernière phrase avant « FIN » ; la note de l'auteur et la table sont exclues."
+  ]
+}

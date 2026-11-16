@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "guerre-et-paix",
+  "title": "Guerre et Paix",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Полное собрание сочинений в 90 томах, т. 9-12, 1937-1940",
+  "pages": [
+    {
+      "title": "Война и мир (Толстой)/Том 1",
+      "revisionId": 5138219
+    },
+    {
+      "title": "Война и мир (Толстой)/Том 2",
+      "revisionId": 5138221
+    },
+    {
+      "title": "Война и мир (Толстой)/Том 3",
+      "revisionId": 5138220
+    },
+    {
+      "title": "Война и мир (Толстой)/Том 4",
+      "revisionId": 5138218
+    },
+    {
+      "title": "Война и мир (Толстой)/Эпилог",
+      "revisionId": 5138217
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "9017bd7fe212863fb2d4242de2f9b58cff83d41225e7eb1bd8cf9768677bdd6d",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "— Eh bien, mon prince. Gênes et Lucques ne sont plus que des"
+  },
+  "bodyEnd": {
+    "id": "p11196",
+    "textPrefix": "В первом случае надо было отказаться от сознания неподвижнос"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Fin : dernier paragraphe de la deuxième partie de l'épilogue, avant « Конец. »."
+  ]
+}
