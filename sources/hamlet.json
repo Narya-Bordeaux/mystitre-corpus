@@ -27,7 +27,8 @@
     "translator": "François-Victor Hugo",
     "translationYear": 1865,
     "translatorDeathYear": 1873,
-    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:François-Victor_Hugo&oldid=15896587"
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:François-Victor_Hugo&oldid=15896587",
+    "publicDomainBasis": "translatorDeathYear"
   },
   "registeredOn": "2026-11-16",
   "notes": [
