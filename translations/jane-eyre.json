@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "bookId": "jane-eyre",
   "sourceLanguage": "en",
-  "cleanTextSha256": "c86bca87390d84bf1eff93227848ee6fc501c9fcc13061f065ff7ad83673f080",
+  "cleanTextSha256": "669723dceac2c3b4fbcfcb41485a704e20287c0a47350be5003d393c1aeaad9a",
   "translatedBy": "Claude (agent), traduction sur l'original, à relire",
   "speakers": {},
   "opening": [
@@ -24,32 +24,32 @@
   ],
   "closing": [
     {
-      "id": "p04057.s3",
+      "id": "p00069.s3",
       "original": "The last letter I received from him, drew from my eyes human tears, and yet filled my heart with Divine joy: he anticipated his sure reward, his incorruptible crown.",
       "translation": "La dernière lettre que j'ai reçue de lui m'a tiré des larmes humaines, et pourtant m'a rempli le cœur d'une joie divine : il attendait sa récompense certaine, sa couronne incorruptible."
     },
     {
-      "id": "p04057.s4",
+      "id": "p00069.s4",
       "original": "I know that a stranger's hand will write to me next, to say that the good and faithful servant has been called at length into the joy of his Lord.",
       "translation": "Je sais que la prochaine fois, c'est une main étrangère qui m'écrira, pour m'annoncer que le bon et fidèle serviteur a enfin été appelé dans la joie de son Seigneur."
     },
     {
-      "id": "p04057.s5",
+      "id": "p00069.s5",
       "original": "And why weep for this?",
       "translation": "Et pourquoi en pleurer ?"
     },
     {
-      "id": "p04057.s6",
+      "id": "p00069.s6",
       "original": "No fear of death will darken St. John's last hour: his mind will be unclouded; his heart will be undaunted; his hope will be sure; his faith steadfast.",
       "translation": "Aucune crainte de la mort n'assombrira la dernière heure de St. John : son esprit sera sans nuage ; son cœur, sans peur ; son espérance, assurée ; sa foi, inébranlable."
     },
     {
-      "id": "p04057.s7",
+      "id": "p00069.s7",
       "original": "His own words are a pledge of this:—\n\"My Master,\" he says, \"has forewarned me.",
       "translation": "Ses propres paroles m'en donnent le gage :\n« Mon Maître, écrit-il, m'a prévenu."
     },
     {
-      "id": "p04058.s1",
+      "id": "p00070.s1",
       "original": "Daily he announces more distinctly,—'Surely I come quickly;' and hourly I more eagerly respond,—'Amen; even so come, Lord Jesus!'\"",
       "translation": "Chaque jour il annonce plus clairement : “Oui, je viens bientôt” ; et à chaque heure je réponds avec plus d'ardeur : “Amen, viens, Seigneur Jésus !” »"
     }

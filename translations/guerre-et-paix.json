@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "bookId": "guerre-et-paix",
   "sourceLanguage": "ru",
-  "cleanTextSha256": "9017bd7fe212863fb2d4242de2f9b58cff83d41225e7eb1bd8cf9768677bdd6d",
+  "cleanTextSha256": "4c69c1d834da3c91fe791233e783ef19678a8eb03f1b693462ad8305f6833190",
   "translatedBy": "Claude (agent), traduction sur l'original, à relire",
   "speakers": {},
   "opening": [
@@ -39,12 +39,12 @@
   ],
   "closing": [
     {
-      "id": "p11195.s2",
+      "id": "p03816.s2",
       "original": "Но, как в астрономии новое воззрение говорило: «правда, мы не чувствуем движения земли, но, допустив ее неподвижность, мы приходим к бессмыслице; допустив же движение, которого мы не чувствуем, мы приходим к законам», так и в истории новое воззрение говорит: «правда, мы не чувствуем нашей зависимости, но, допустив нашу свободу, мы приходим к бессмыслице; допустив же свою зависимость от внешнего мира, времени и причин, приходим к законам».",
       "translation": "Mais de même qu'en astronomie la conception nouvelle disait : « Certes, nous ne sentons pas le mouvement de la terre, mais si nous admettons qu'elle est immobile, nous aboutissons à l'absurde ; si nous admettons au contraire un mouvement que nous ne sentons pas, nous aboutissons à des lois », de même en histoire la conception nouvelle dit : « Certes, nous ne sentons pas notre dépendance, mais si nous admettons notre liberté, nous aboutissons à l'absurde ; si nous admettons au contraire notre dépendance envers le monde extérieur, le temps et les causes, nous aboutissons à des lois »."
     },
     {
-      "id": "p11196.s1",
+      "id": "p03817.s1",
       "original": "В первом случае надо было отказаться от сознания неподвижности в пространстве и признать неощущаемое нами движение; в настоящем случае, точно так же необходимо отказаться от сознаваемой свободы и признать неощущаемую нами зависимость.",
       "translation": "Dans le premier cas, il fallait renoncer à la conscience d'une immobilité dans l'espace et reconnaître un mouvement que nous ne sentons pas ; dans le cas présent, il faut de même renoncer à une liberté dont nous avons conscience et reconnaître une dépendance que nous ne sentons pas."
     }

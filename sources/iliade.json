@@ -11,106 +11,18 @@
       "revisionId": 15628421
     },
     {
-      "title": "Iliade/Rhapsodie II",
-      "revisionId": 5905939
-    },
-    {
-      "title": "Iliade/Rhapsodie III",
-      "revisionId": 5905940
-    },
-    {
-      "title": "Iliade/Rhapsodie IV",
-      "revisionId": 5905941
-    },
-    {
-      "title": "Iliade/Rhapsodie V",
-      "revisionId": 5905942
-    },
-    {
-      "title": "Iliade/Rhapsodie VI",
-      "revisionId": 5905943
-    },
-    {
-      "title": "Iliade/Rhapsodie VII",
-      "revisionId": 5905945
-    },
-    {
-      "title": "Iliade/Rhapsodie VIII",
-      "revisionId": 5905946
-    },
-    {
-      "title": "Iliade/Rhapsodie IX",
-      "revisionId": 7004652
-    },
-    {
-      "title": "Iliade/Rhapsodie X",
-      "revisionId": 7004651
-    },
-    {
-      "title": "Iliade/Rhapsodie XI",
-      "revisionId": 7004636
-    },
-    {
-      "title": "Iliade/Rhapsodie XII",
-      "revisionId": 7004650
-    },
-    {
-      "title": "Iliade/Rhapsodie XIII",
-      "revisionId": 5905954
-    },
-    {
-      "title": "Iliade/Rhapsodie XIV",
-      "revisionId": 5905955
-    },
-    {
-      "title": "Iliade/Rhapsodie XV",
-      "revisionId": 5905957
-    },
-    {
-      "title": "Iliade/Rhapsodie XVI",
-      "revisionId": 5905958
-    },
-    {
-      "title": "Iliade/Rhapsodie XVII",
-      "revisionId": 5905959
-    },
-    {
-      "title": "Iliade/Rhapsodie XVIII",
-      "revisionId": 9175443
-    },
-    {
-      "title": "Iliade/Rhapsodie XIX",
-      "revisionId": 5905963
-    },
-    {
-      "title": "Iliade/Rhapsodie XX",
-      "revisionId": 5905965
-    },
-    {
-      "title": "Iliade/Rhapsodie XXI",
-      "revisionId": 5905966
-    },
-    {
-      "title": "Iliade/Rhapsodie XXII",
-      "revisionId": 5905968
-    },
-    {
-      "title": "Iliade/Rhapsodie XXIII",
-      "revisionId": 5905971
-    },
-    {
       "title": "Iliade/Rhapsodie XXIV",
       "revisionId": 12805384
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "cb182c4daac48b297f8674e62b5d122c79e4b331523f2159a62ca118b0af89c6",
+  "cleanTextSha256": "061b8e8fd42f04b2a3ab30a19efc284871e9e9ec3862a05700840822804fc25a",
   "bodyStart": {
     "id": "p00002",
     "textPrefix": "Chante, Déesse, du Pèlèiade Akhilleus la colère désastreuse,"
   },
   "bodyEnd": {
-    "id": "p01898",
+    "id": "p00202",
     "textPrefix": "Et c’est ainsi qu’ils accomplirent les funérailles de Hektôr"
   },
   "textOrigin": {

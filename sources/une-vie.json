@@ -11,66 +11,18 @@
       "revisionId": 13278438
     },
     {
-      "title": "Une vie/II",
-      "revisionId": 3789086
-    },
-    {
-      "title": "Une vie/III",
-      "revisionId": 3789087
-    },
-    {
-      "title": "Une vie/IV",
-      "revisionId": 3761691
-    },
-    {
-      "title": "Une vie/V",
-      "revisionId": 4495087
-    },
-    {
-      "title": "Une vie/VI",
-      "revisionId": 4495764
-    },
-    {
-      "title": "Une vie/VII",
-      "revisionId": 4601734
-    },
-    {
-      "title": "Une vie/VIII",
-      "revisionId": 4602825
-    },
-    {
-      "title": "Une vie/IX",
-      "revisionId": 4602863
-    },
-    {
-      "title": "Une vie/X",
-      "revisionId": 4602901
-    },
-    {
-      "title": "Une vie/XI",
-      "revisionId": 4603661
-    },
-    {
-      "title": "Une vie/XII",
-      "revisionId": 4603677
-    },
-    {
-      "title": "Une vie/XIII",
-      "revisionId": 4603709
-    },
-    {
       "title": "Une vie/XIV",
       "revisionId": 10104062
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "9768de1457553681fc9a1fe186e1bc9e1f12e983e8abd2f648b4174a77dd2d16",
+  "cleanTextSha256": "010728ea97a2d7fc9bc8c0955ab6f2f0436f335c229b6c155c122e4582fc69a3",
   "bodyStart": {
     "id": "p00002",
     "textPrefix": "Jeanne, ayant fini ses malles, s’approcha de la fenêtre, mai"
   },
   "bodyEnd": {
-    "id": "p01889",
+    "id": "p00223",
     "textPrefix": "Puis elle ajouta, répondant sans doute à sa propre pensée : "
   },
   "textOrigin": {

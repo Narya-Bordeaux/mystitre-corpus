@@ -13,116 +13,8 @@
     "edition": "Le Divan, édition Henri Martineau, 1927",
     "pages": [
       {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Avertissement",
-        "revisionId": 4782084
-      },
-      {
         "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre I",
         "revisionId": 4782096
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre II",
-        "revisionId": 4782119
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre III",
-        "revisionId": 4782127
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre IV",
-        "revisionId": 4782132
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre V",
-        "revisionId": 4782139
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre VI",
-        "revisionId": 4782150
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre VII",
-        "revisionId": 4782156
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre VIII",
-        "revisionId": 4792952
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre IX",
-        "revisionId": 4792956
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre X",
-        "revisionId": 4792960
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XI",
-        "revisionId": 4792963
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XII",
-        "revisionId": 4792967
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XIII",
-        "revisionId": 4792971
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XIV",
-        "revisionId": 4794332
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XV",
-        "revisionId": 4794334
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XVI",
-        "revisionId": 4795215
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XVII",
-        "revisionId": 4795219
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XVIII",
-        "revisionId": 4795223
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XIX",
-        "revisionId": 4795227
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XX",
-        "revisionId": 4795231
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXI",
-        "revisionId": 4796777
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXII",
-        "revisionId": 4796788
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXIII",
-        "revisionId": 4796793
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXIV",
-        "revisionId": 4796797
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXV",
-        "revisionId": 4796805
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXVI",
-        "revisionId": 4798337
-      },
-      {
-        "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXVII",
-        "revisionId": 4798345
       },
       {
         "title": "La Chartreuse de Parme (édition Martineau, 1927)/Chapitre XXVIII",
@@ -130,14 +22,14 @@
       }
     ],
     "cleanerVersion": 1,
-    "cleanTextSha256": "8cb17d9f125b0ce1ab281093e7ef726021d8d1ccbf3876e4d8ba05e8d89c9227"
+    "cleanTextSha256": "ed1537a31635aa1e228931e6130db4a4f2e42cd6f431a264aa46a19d69cf56c0"
   },
   "titleMasks": [],
   "createdOn": "2026-11-16",
   "opening": {
     "sentenceIds": [
-      "p00014.s1",
-      "p00014.s2"
+      "p00003.s1",
+      "p00003.s2"
     ],
     "french": "Le 15 mai 1796, le général Bonaparte fit son entrée dans Milan à la tête de cette jeune armée qui venait de passer le pont de Lodi, et d’apprendre au monde qu’après tant de siècles César et Alexandre avaient un successeur. Les miracles de bravoure et de génie dont l’Italie fut témoin en quelques mois réveillèrent un peuple endormi ; huit jours encore avant l’arrivée des Français, les Milanais ne voyaient en eux qu’un ramassis de brigands, habitués à fuir toujours devant les troupes de Sa Majesté Impériale et Royale : c’était du moins ce que leur répétait trois fois la semaine un petit journal…",
     "original": "Le 15 mai 1796, le général Bonaparte fit son entrée dans Milan à la tête de cette jeune armée qui venait de passer le pont de Lodi, et d’apprendre au monde qu’après tant de siècles César et Alexandre avaient un successeur. Les miracles de bravoure et de génie dont l’Italie fut témoin en quelques mois réveillèrent un peuple endormi ; huit jours encore avant l’arrivée des Français, les Milanais ne voyaient en eux qu’un ramassis de brigands, habitués à fuir toujours devant les troupes de Sa Majesté Impériale et Royale : c’était du moins ce que leur répétait trois fois la semaine un petit journal grand comme la main, imprimé sur du papier sale.",
@@ -146,8 +38,8 @@
   },
   "closing": {
     "sentenceIds": [
-      "p02287.s3",
-      "p02288.s1"
+      "p00117.s3",
+      "p00118.s1"
     ],
     "french": "La comtesse en un mot réunissait toutes les apparences du bonheur, mais elle ne survécut que fort peu de temps à Fabrice, qu’elle adorait, et qui ne passa qu’une année dans sa Chartreuse.\nLes prisons de Parme étaient vides, le comte immensément riche, Ernest V adoré de ses sujets qui comparaient son gouvernement à celui des grands-ducs de Toscane.",
     "original": "La comtesse en un mot réunissait toutes les apparences du bonheur, mais elle ne survécut que fort peu de temps à Fabrice, qu’elle adorait, et qui ne passa qu’une année dans sa Chartreuse.\nLes prisons de Parme étaient vides, le comte immensément riche, Ernest V adoré de ses sujets qui comparaient son gouvernement à celui des grands-ducs de Toscane.",

@@ -11,30 +11,18 @@
       "revisionId": 5138219
     },
     {
-      "title": "Война и мир (Толстой)/Том 2",
-      "revisionId": 5138221
-    },
-    {
-      "title": "Война и мир (Толстой)/Том 3",
-      "revisionId": 5138220
-    },
-    {
-      "title": "Война и мир (Толстой)/Том 4",
-      "revisionId": 5138218
-    },
-    {
       "title": "Война и мир (Толстой)/Эпилог",
       "revisionId": 5138217
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "9017bd7fe212863fb2d4242de2f9b58cff83d41225e7eb1bd8cf9768677bdd6d",
+  "cleanTextSha256": "4c69c1d834da3c91fe791233e783ef19678a8eb03f1b693462ad8305f6833190",
   "bodyStart": {
     "id": "p00003",
     "textPrefix": "— Eh bien, mon prince. Gênes et Lucques ne sont plus que des"
   },
   "bodyEnd": {
-    "id": "p11196",
+    "id": "p03817",
     "textPrefix": "В первом случае надо было отказаться от сознания неподвижнос"
   },
   "textOrigin": {
@@ -44,5 +32,7 @@
   "registeredOn": "2026-11-16",
   "notes": [
     "Fin : dernier paragraphe de la deuxième partie de l'épilogue, avant « Конец. »."
-  ]
+  ],
+  "titleMasks": [],
+  "readingOptions": []
 }
