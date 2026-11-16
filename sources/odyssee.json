@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "odyssee",
+  "title": "L’Odyssée",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Traduction nouvelle de Leconte de Lisle, Paris, Alphonse Lemerre, 1893 (page « Texte entier » de fr.wikisource, complète : de l'invocation à la Muse jusqu'à l'alliance scellée par Athéna sous les traits de Mentor, comme dans l'original grec)",
+  "pages": [
+    {
+      "title": "L’Odyssée/Traduction Leconte de Lisle/Texte entier",
+      "revisionId": 15251336
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8fc4f56990499cd2788ef552d076e7000d6d3dffa121d5861c74b9e081e00615",
+  "bodyStart": {
+    "id": "p00011",
+    "textPrefix": "Dis-moi, Muse, cet homme subtil qui erra si longtemps, après"
+  },
+  "bodyEnd": {
+    "id": "p01598",
+    "textPrefix": "Ainsi parla Athènè, et il lui obéit, plein de joie dans son "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "grec",
+    "translator": "Leconte de Lisle",
+    "translationYear": 1893,
+    "translatorDeathYear": 1894,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Leconte_de_Lisle&oldid=15680679"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : page de titre (HOMÈRE, ODYSSÉE, traduction, éditeur, date), intertitres « RHAPSODIE » et « FIN DE L'ODYSSÉE ». Le corps va du premier vers rendu (« Dis-moi, Muse… ») à la dernière phrase du chant XXIV (alliance scellée par Athéna sous les traits de Mentor)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

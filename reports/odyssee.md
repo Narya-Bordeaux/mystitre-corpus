@@ -1,0 +1,9 @@
+# L'Odyssée (Homère) — compte rendu
+
+- **Source retenue** : traduction française libre de droits de Leconte de Lisle (Lemerre, 1893), page « Texte entier » de fr.wikisource (L'Odyssée/Traduction Leconte de Lisle/Texte entier). Traducteur mort en 1894 (page « Auteur:Leconte de Lisle » lue par le moteur). Original grec, enregistré comme `--original-language grec`.
+- **Pourquoi pas l'original ni une autre traduction** : comparée au grec (el.wikisource, chant XXIV) et au chant I, la traduction est complète aux deux bouts : invocation de la Muse au début ; au chant XXIV, Athéna sous les traits de Mentor scelle l'alliance. Les traductions Bareste, Sommer, Séguier n'ont pas été comparées, Leconte de Lisle étant complète. La traduction de Bérard (Tome I à IV, avec préface et textes annexes) a été écartée : texte éclaté en tomes et paratexte abondant.
+- **Exclu du corps** : page de titre (p00001–p00009), intertitres « RHAPSODIE », « FIN DE L'ODYSSÉE ». Corps p00011 → p01598.
+- **Extraits** : ouverture 428 caractères (3 phrases), clôture 422 caractères (3 phrases, dont une réplique d'Athéna).
+- **Points à noter** : orthographe grécisante de Leconte de Lisle (Odysseus, Athènè, Kronide), voulue et conservée. Le découpage regroupe une réplique avec la phrase d'introduction (séparateur « / ») : correct. Le titre n'apparaît pas dans les extraits, pas de masque. Contrôles en code 0 : format, leurres, flutter test test/data, tests du moteur.
+- **Écart avec l'ancienne citation** : ancienne ouverture « Chante, déesse, l'homme aux mille ruses… » (traduction non identifiée) ; ancienne clôture « Ils vécurent ensuite dans la paix et le bonheur. » (formule générique, relevée par l'audit, remplacée).
+- **Hésitation** : choix entre Leconte de Lisle (littéral, graphies grécisantes) et Bérard (plus lisible, mais paratexte lourd) ; la consigne privilégie l'édition complète en une page.
