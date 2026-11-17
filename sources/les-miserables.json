@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-miserables",
+  "title": "Les Misérables",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Misérables, fr.wikisource.org (pages Tome 1/Livre 1/01 et Tome 5/Livre 9/06) ; édition numérisée non précisée",
+  "pages": [
+    {
+      "title": "Les Misérables/Tome 1/Livre 1/01",
+      "revisionId": 7060042
+    },
+    {
+      "title": "Les Misérables/Tome 5/Livre 9/06",
+      "revisionId": 7219177
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "30a6e6df7a94966c5775cb37ecb2765b3c9fc4978d135ab36dbe96aaa37e4f3e",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "En 1815, M. Charles-François-Bienvenu Myriel était évêque de"
+  },
+  "bodyEnd": {
+    "id": "p00024",
+    "textPrefix": "Il dort. Quoique le sort fût pour lui bien étrange,\nIl vivai"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut les titres de chapitre (Myriel, L'herbe cache et la pluie efface). Début : premier paragraphe du récit (Livre 1, ch. 1) ; fin : quatrain de l'épitaphe, dernier paragraphe du roman."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
