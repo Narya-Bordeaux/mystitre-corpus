@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-medecin-malgre-lui",
+  "title": "Le Médecin malgré lui",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Médecin malgré lui, Wikisource (actes I à III ; édition non précisée)",
+    "pages": [
+      {
+        "title": "Le Médecin malgré lui/Acte I",
+        "revisionId": 12357807
+      },
+      {
+        "title": "Le Médecin malgré lui/Acte II",
+        "revisionId": 12357813
+      },
+      {
+        "title": "Le Médecin malgré lui/Acte III",
+        "revisionId": 15144989
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ba61526f819458744fcf381c10690d737b5e9e4ce709866a489d1933b9407b3d"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00006.s1",
+      "p00007.s1"
+    ],
+    "french": "SGANARELLE. — Non, je te dis que je n’en veux rien faire, et que c’est à moi de parler et d’être le maître.\nMARTINE. — Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines !\nSGANARELLE. — Oh ! la grande fatigue que d’avoir une femme ! et qu’Aristote a bien raison, quand il dit qu’une femme est pire qu’un démon !",
+    "original": "SGANARELLE. — Non, je te dis que je n’en veux rien faire, et que c’est à moi de parler et d’être le maître.\nMARTINE. — Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines !\nSGANARELLE. — Oh ! la grande fatigue que d’avoir une femme ! et qu’Aristote a bien raison, quand il dit qu’une femme est pire qu’un démon !",
+    "length": 391,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00747.s1",
+      "p00748.s1",
+      "p00748.s2"
+    ],
+    "french": "LÉANDRE. — L’effet en est trop beau pour en garder du ressentiment.\nSGANARELLE. — Soit. (à Martine.) Je te pardonne ces coups de bâton en faveur de la dignité où tu m’as élevé : mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d’un médecin est plus à craindre qu’on ne peut croire.",
+    "original": "LÉANDRE. — L’effet en est trop beau pour en garder du ressentiment.\nSGANARELLE. — Soit. (à Martine.) Je te pardonne ces coups de bâton en faveur de la dignité où tu m’as élevé : mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d’un médecin est plus à craindre qu’on ne peut croire.",
+    "length": 345,
+    "truncated": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-medecin-malgre-lui",
+  "title": "Le Médecin malgré lui",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Médecin malgré lui, Wikisource (actes I à III ; édition non précisée)",
+  "pages": [
+    {
+      "title": "Le Médecin malgré lui/Acte I",
+      "revisionId": 12357807
+    },
+    {
+      "title": "Le Médecin malgré lui/Acte II",
+      "revisionId": 12357813
+    },
+    {
+      "title": "Le Médecin malgré lui/Acte III",
+      "revisionId": 15144989
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ba61526f819458744fcf381c10690d737b5e9e4ce709866a489d1933b9407b3d",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Non, je te dis que je n’en veux rien faire, et que c’est à m"
+  },
+  "bodyEnd": {
+    "id": "p00748",
+    "textPrefix": "Soit. (à Martine.) Je te pardonne ces coups de bâton en fave"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres d'acte et de scène, indication de décor, didascalies centrées, « Fin du Médecin malgré lui ». Notice et liste des personnages non enregistrées."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

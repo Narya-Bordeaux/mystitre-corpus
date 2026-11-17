@@ -1,0 +1,69 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-femmes-savantes",
+  "title": "Les Femmes savantes",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource)",
+    "pages": [
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Personnages",
+        "revisionId": 15110935
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte I",
+        "revisionId": 15110925
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte II",
+        "revisionId": 15110927
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte III",
+        "revisionId": 15110929
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte IV",
+        "revisionId": 15110931
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte V",
+        "revisionId": 15110933
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d69ccb4a306279d852d60f6bb0b870d65aab9d716e66fff624dfdc0015b75e69"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00009.s1",
+      "p00009.s2",
+      "p00009.s3",
+      "p00010.s1"
+    ],
+    "french": "ARMANDE. — Quoi ! le beau nom de fille est un titre, ma sœur,\nDont vous voulez quitter la charmante douceur ?\nEt de vous marier vous osez faire fête ?\nCe vulgaire dessein vous peut monter en tête ?\nHENRIETTE.ARMANDE.HENRIETTE.ARAMANDE.HENRIETTE.ARMANDE.HENRIETTE.ARMANDE.HENRIETTE.ARMANDE. — Oui, ma sœur.\nAh ! ce oui se peut-il supporter ?",
+    "original": "ARMANDE. — Quoi ! le beau nom de fille est un titre, ma sœur,\nDont vous voulez quitter la charmante douceur ?\nEt de vous marier vous osez faire fête ?\nCe vulgaire dessein vous peut monter en tête ?\nHENRIETTE.ARMANDE.HENRIETTE.ARAMANDE.HENRIETTE.ARMANDE.HENRIETTE.ARMANDE.HENRIETTE.ARMANDE. — Oui, ma sœur.\nAh ! ce oui se peut-il supporter ?",
+    "length": 340,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00209.s10",
+      "p00209.s11",
+      "p00209.s12",
+      "p00209.s13"
+    ],
+    "french": "CHRYSALE.PHILAMINTE.CHRYSALEARMANDEPHILAMINTE.BÉLISE.CHRYSALE. — Qu’il prenne garde au moins que je suis dans son cœur.\nPar un prompt désespoir souvent on se marie,\nQu’on s’en repent après tout le temps de sa vie.\n, au notaire.\nAllons, monsieur, suivez l’ordre que j’ai prescrit,\nEt faites le contrat ainsi que je l’ai dit.",
+    "original": "CHRYSALE.PHILAMINTE.CHRYSALEARMANDEPHILAMINTE.BÉLISE.CHRYSALE. — Qu’il prenne garde au moins que je suis dans son cœur.\nPar un prompt désespoir souvent on se marie,\nQu’on s’en repent après tout le temps de sa vie.\n, au notaire.\nAllons, monsieur, suivez l’ordre que j’ai prescrit,\nEt faites le contrat ainsi que je l’ai dit.",
+    "length": 323,
+    "truncated": false
+  }
+}
