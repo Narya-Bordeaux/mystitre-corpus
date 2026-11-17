@@ -1,0 +1,76 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-misanthrope",
+  "title": "Le Misanthrope",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Misanthrope, Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource, actes I à V)",
+    "pages": [
+      {
+        "title": "Le Misanthrope/Édition Louandre, 1910/Acte I",
+        "revisionId": 12339620
+      },
+      {
+        "title": "Le Misanthrope/Édition Louandre, 1910/Acte II",
+        "revisionId": 12825507
+      },
+      {
+        "title": "Le Misanthrope/Édition Louandre, 1910/Acte III",
+        "revisionId": 12339624
+      },
+      {
+        "title": "Le Misanthrope/Édition Louandre, 1910/Acte IV",
+        "revisionId": 12339626
+      },
+      {
+        "title": "Le Misanthrope/Édition Louandre, 1910/Acte V",
+        "revisionId": 12339628
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "534a45895ebb232a75b1115b4fdceeb991e738b45db8343ae4eb8b22edf5c341"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00005",
+      "reason": "Didascalie « , assis. » étiquetée à tort comme réplique d'Alceste par l'édition numérisée : ce n'est pas du texte dit."
+    }
+  ],
+  "reviewFlags": [
+    "p00005 exclu, SANS doublon ailleurs dans l'œuvre : « , assis. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00006.s1",
+      "p00007.s1",
+      "p00008.s1",
+      "p00009.s1",
+      "p00010.s1"
+    ],
+    "french": "PHILINTE. — Qu’est-ce donc ? Qu’avez-vous ?\nALCESTE. — Laissez-moi, je vous prie.\nPHILINTE. — Mais encor, dites-moi, quelle bizarrerie…\nALCESTE. — Laissez-moi là, vous dis-je, et courez vous cacher.\nPHILINTE. — Mais on entend les gens au moins sans se fâcher.\nALCESTE. — Moi, je veux me fâcher, et ne veux point entendre.",
+    "original": "PHILINTE. — Qu’est-ce donc ? Qu’avez-vous ?\nALCESTE. — Laissez-moi, je vous prie.\nPHILINTE. — Mais encor, dites-moi, quelle bizarrerie…\nALCESTE. — Laissez-moi là, vous dis-je, et courez vous cacher.\nPHILINTE. — Mais on entend les gens au moins sans se fâcher.\nALCESTE. — Moi, je veux me fâcher, et ne veux point entendre.",
+    "length": 321,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00923.s1",
+      "p00924.s1"
+    ],
+    "french": "ALCESTE. — Trahi de toutes parts, accablé d’injustices,\nJe vais sortir d’un gouffre où triomphent les vices ;\nEt chercher sur la terre un endroit écarté\nOù d’être homme d’honneur on ait la liberté.\nPHILINTE. — Allons, madame, allons employer toute chose\nPour rompre le dessein que son cœur se propose.",
+    "original": "ALCESTE. — Trahi de toutes parts, accablé d’injustices,\nJe vais sortir d’un gouffre où triomphent les vices ;\nEt chercher sur la terre un endroit écarté\nOù d’être homme d’honneur on ait la liberté.\nPHILINTE. — Allons, madame, allons employer toute chose\nPour rompre le dessein que son cœur se propose.",
+    "length": 301,
+    "truncated": false
+  }
+}

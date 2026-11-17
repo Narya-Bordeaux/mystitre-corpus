@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-misanthrope",
+  "title": "Le Misanthrope",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Misanthrope, Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource, actes I à V)",
+  "pages": [
+    {
+      "title": "Le Misanthrope/Édition Louandre, 1910/Acte I",
+      "revisionId": 12339620
+    },
+    {
+      "title": "Le Misanthrope/Édition Louandre, 1910/Acte II",
+      "revisionId": 12825507
+    },
+    {
+      "title": "Le Misanthrope/Édition Louandre, 1910/Acte III",
+      "revisionId": 12339624
+    },
+    {
+      "title": "Le Misanthrope/Édition Louandre, 1910/Acte IV",
+      "revisionId": 12339626
+    },
+    {
+      "title": "Le Misanthrope/Édition Louandre, 1910/Acte V",
+      "revisionId": 12339628
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "534a45895ebb232a75b1115b4fdceeb991e738b45db8343ae4eb8b22edf5c341",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Qu’est-ce donc ? Qu’avez-vous ?"
+  },
+  "bodyEnd": {
+    "id": "p00925",
+    "textPrefix": "Pour rompre le dessein que son cœur se propose."
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres d'acte et de scène, indication des personnages, « Fin du Misanthrope »."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00005",
+      "reason": "Didascalie « , assis. » étiquetée à tort comme réplique d'Alceste par l'édition numérisée : ce n'est pas du texte dit."
+    }
+  ]
+}
