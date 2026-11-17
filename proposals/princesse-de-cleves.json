@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "princesse-de-cleves",
+  "title": "La Princesse de Clèves",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Princesse de Clèves, édition Lepetit, 1820 (orthographe modernisée ; préférée à l'édition originale de 1678 en graphie ancienne à « ſ »)",
+    "pages": [
+      {
+        "title": "La Princesse de Clèves, édition Lepetit, 1820/Première partie",
+        "revisionId": 9098471
+      },
+      {
+        "title": "La Princesse de Clèves, édition Lepetit, 1820/Quatrième partie",
+        "revisionId": 9100724
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "883ceb212e03c70e44a34ec5db5eb8dd01dc9b47cc1b6c1610e122b43aeadd4a"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "La magnificence et la galanterie n’ont jamais paru en France avec tant d’éclat que dans les dernières années du règne de Henri II. Ce prince était galant, bien fait, et amoureux : quoique sa passion pour Diane de Poitiers, duchesse de Valentinois, eût commencé il y avait plus de vingt ans, elle n’en était pas moins violente, et il n’en donnait pas des témoignages moins éclatants.",
+    "original": "La magnificence et la galanterie n’ont jamais paru en France avec tant d’éclat que dans les dernières années du règne de Henri II. Ce prince était galant, bien fait, et amoureux : quoique sa passion pour Diane de Poitiers, duchesse de Valentinois, eût commencé il y avait plus de vingt ans, elle n’en était pas moins violente, et il n’en donnait pas des témoignages moins éclatants.",
+    "length": 382,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00165.s6",
+      "p00165.s7"
+    ],
+    "french": "Madame de Clèves vécut d’une sorte qui ne laissa pas d’apparence qu’elle pût jamais revenir. Elle passait une partie de l’année dans cette maison religieuse, et l’autre chez elle ; mais dans une retraite et dans des occupations plus saintes que celles des couvents les plus austères ; et sa vie, qui fut assez courte, laissa des exemples de vertu inimitables.",
+    "original": "Madame de Clèves vécut d’une sorte qui ne laissa pas d’apparence qu’elle pût jamais revenir. Elle passait une partie de l’année dans cette maison religieuse, et l’autre chez elle ; mais dans une retraite et dans des occupations plus saintes que celles des couvents les plus austères ; et sa vie, qui fut assez courte, laissa des exemples de vertu inimitables.",
+    "length": 359,
+    "truncated": false
+  }
+}

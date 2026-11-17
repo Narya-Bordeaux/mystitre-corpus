@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "princesse-de-cleves",
+  "title": "La Princesse de Clèves",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Princesse de Clèves, édition Lepetit, 1820 (orthographe modernisée ; préférée à l'édition originale de 1678 en graphie ancienne à « ſ »)",
+  "pages": [
+    {
+      "title": "La Princesse de Clèves, édition Lepetit, 1820/Première partie",
+      "revisionId": 9098471
+    },
+    {
+      "title": "La Princesse de Clèves, édition Lepetit, 1820/Quatrième partie",
+      "revisionId": 9100724
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "883ceb212e03c70e44a34ec5db5eb8dd01dc9b47cc1b6c1610e122b43aeadd4a",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "La magnificence et la galanterie n’ont jamais paru en France"
+  },
+  "bodyEnd": {
+    "id": "p00165",
+    "textPrefix": "M. de Nemours pensa expirer de douleur en présence de celle "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre d'édition (p00001-2) et mention « fin de la quatrième et dernière partie »"
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
