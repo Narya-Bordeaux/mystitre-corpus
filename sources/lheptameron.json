@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "lheptameron",
+  "title": "L’Heptaméron",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "L’Heptaméron des nouvelles (fr.wikisource, édition en quatre tomes ; éditeur non indiqué dans les pages enregistrées), texte en orthographe ancienne ; deux bouts seulement",
+  "pages": [
+    {
+      "title": "L’Heptaméron des nouvelles/Prologue",
+      "revisionId": 13032647
+    },
+    {
+      "title": "L’Heptaméron des nouvelles/72",
+      "revisionId": 11971115
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8468f8305e98bc3922a3b220e60d14da131d14fe88358902ef04e03d4d2e4ae7",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "e premier jour de septembre que les baings des Montz Pirénée"
+  },
+  "bodyEnd": {
+    "id": "p00067",
+    "textPrefix": "— Aussy ay je ung compte tout prest », respondist elle, « di"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre (p1-4), intertitres, et la mention d'édition « Cy finent les Comptes & Nouvelles de la feue Royne de Navarre… » (p68, reprise de l'édition de 1559, pas de l'autrice). Le corps s'ouvre au prologue et s'achève sur l'annonce de la soixante-treizième nouvelle, que le recueil n'a jamais racontée : la fin du livre est une phrase qui s'interrompt sur « : »."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "e premier jour de septembre",
+      "replace": "Le premier jour de septembre",
+      "reason": "Lettrine initiale L absente de la numérisation (« e premier jour… » pour « Le premier jour… »), rétablie"
+    }
+  ]
+}

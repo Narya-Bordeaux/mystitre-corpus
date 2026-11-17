@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "bookId": "lheptameron",
+  "title": "L’Heptaméron",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Heptaméron des nouvelles (fr.wikisource, édition en quatre tomes ; éditeur non indiqué dans les pages enregistrées), texte en orthographe ancienne ; deux bouts seulement",
+    "pages": [
+      {
+        "title": "L’Heptaméron des nouvelles/Prologue",
+        "revisionId": 13032647
+      },
+      {
+        "title": "L’Heptaméron des nouvelles/72",
+        "revisionId": 11971115
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "8468f8305e98bc3922a3b220e60d14da131d14fe88358902ef04e03d4d2e4ae7"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "e premier jour de septembre",
+      "replace": "Le premier jour de septembre",
+      "reason": "Lettrine initiale L absente de la numérisation (« e premier jour… » pour « Le premier jour… »), rétablie"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00006.s1"
+    ],
+    "french": "Le premier jour de septembre que les baings des Montz Pirénées commencent d’entrer en leur vertu, se trouvèrent à ceulx de Cauderès plusieurs personnes, tant de France que d’Espaigne, les ungs pour y boire de l’eaue, les autres pour se y baigner & les autres pour prendre de la fange, qui sont choses si merveilleuses que les malades habandonnez des Médecins s’en retournent tout guariz.",
+    "original": "Le premier jour de septembre que les baings des Montz Pirénées commencent d’entrer en leur vertu, se trouvèrent à ceulx de Cauderès plusieurs personnes, tant de France que d’Espaigne, les ungs pour y boire de l’eaue, les autres pour se y baigner & les autres pour prendre de la fange, qui sont choses si merveilleuses que les malades habandonnez des Médecins s’en retournent tout guariz.",
+    "length": 387,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00066.s1",
+      "p00067.s1",
+      "p00067.s2"
+    ],
+    "french": "— Vous avez dict », dist Dagoucin, « que vous ne racompterez que de follyes, & il me semble que je n’y ay poinct failly ; mais pour en oyr ung plus plaisant je donne ma voix à Nomerfide, espérant qu’elle rabillera ma faulte.\n— Aussy ay je ung compte tout prest », respondist elle, « digne de suyvre le vostre, car je parle de Religieux & de mort. Or escoutez le bien, s’il vous plaist :",
+    "original": "— Vous avez dict », dist Dagoucin, « que vous ne racompterez que de follyes, & il me semble que je n’y ay poinct failly ; mais pour en oyr ung plus plaisant je donne ma voix à Nomerfide, espérant qu’elle rabillera ma faulte.\n— Aussy ay je ung compte tout prest », respondist elle, « digne de suyvre le vostre, car je parle de Religieux & de mort. Or escoutez le bien, s’il vous plaist :",
+    "length": 386,
+    "truncated": false
+  }
+}
