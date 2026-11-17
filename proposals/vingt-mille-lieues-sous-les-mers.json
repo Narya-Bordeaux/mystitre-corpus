@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "vingt-mille-lieues-sous-les-mers",
+  "title": "Vingt mille lieues sous les mers",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource fr, « Vingt mille lieues sous les mers » (premier chapitre de la partie 1 et dernier de la partie 2) ; édition source non indiquée ici",
+    "pages": [
+      {
+        "title": "Vingt mille lieues sous les mers/Partie 1/Chapitre 1",
+        "revisionId": 15413666
+      },
+      {
+        "title": "Vingt mille lieues sous les mers/Partie 2/Chapitre 23",
+        "revisionId": 6381335
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "39bfa58a92fb1cf9021b7de4ae0f1214091d906296bd2cced2586e64ee821933"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "L’année 1866 fut marquée par un événement bizarre, un phénomène inexpliqué et inexplicable que personne n’a sans doute oublié. Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l’esprit public à l’intérieur des continents, les gens de mer furent particulièrement émus. Les négociants, armateurs, capitaines de navires, skippers et masters de l’Europe et de l’Amérique, officiers des marines militaires de tous pays, et, après eux, les gouvernements des divers États des deux continents, se préoccupèrent de ce fait au plus haut point.",
+    "original": "L’année 1866 fut marquée par un événement bizarre, un phénomène inexpliqué et inexplicable que personne n’a sans doute oublié. Sans parler des rumeurs qui agitaient les populations des ports et surexcitaient l’esprit public à l’intérieur des continents, les gens de mer furent particulièrement émus. Les négociants, armateurs, capitaines de navires, skippers et masters de l’Europe et de l’Amérique, officiers des marines militaires de tous pays, et, après eux, les gouvernements des divers États des deux continents, se préoccupèrent de ce fait au plus haut point.",
+    "length": 565,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00038.s7",
+      "p00038.s8",
+      "p00038.s9",
+      "p00038.s10"
+    ],
+    "french": "Ne l’ai-je pas compris par moi-même ? N’ai-je pas vécu dix mois de cette existence extra-naturelle ? Aussi, à cette demande posée, il y a six mille ans, par l’Écclésiaste : « Qui a jamais pu sonder les profondeurs de l’abîme ? » deux hommes entre tous les hommes ont le droit de répondre maintenant. Le capitaine Nemo et moi.",
+    "original": "Ne l’ai-je pas compris par moi-même ? N’ai-je pas vécu dix mois de cette existence extra-naturelle ? Aussi, à cette demande posée, il y a six mille ans, par l’Écclésiaste : « Qui a jamais pu sonder les profondeurs de l’abîme ? » deux hommes entre tous les hommes ont le droit de répondre maintenant. Le capitaine Nemo et moi.",
+    "length": 325,
+    "truncated": false
+  }
+}

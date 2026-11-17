@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "vingt-mille-lieues-sous-les-mers",
+  "title": "Vingt mille lieues sous les mers",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource fr, « Vingt mille lieues sous les mers » (premier chapitre de la partie 1 et dernier de la partie 2) ; édition source non indiquée ici",
+  "pages": [
+    {
+      "title": "Vingt mille lieues sous les mers/Partie 1/Chapitre 1",
+      "revisionId": 15413666
+    },
+    {
+      "title": "Vingt mille lieues sous les mers/Partie 2/Chapitre 23",
+      "revisionId": 6381335
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "39bfa58a92fb1cf9021b7de4ae0f1214091d906296bd2cced2586e64ee821933",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "L’année 1866 fut marquée par un événement bizarre, un phénom"
+  },
+  "bodyEnd": {
+    "id": "p00038",
+    "textPrefix": "Je l’espère. J’espère également que son puissant appareil a "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de chapitre, ligne de sommaire « J'étais couché dans la cabane d'un pêcheur. » en tête du chapitre XXIII (p00031), mention « fin de la seconde partie » (p00039). Le texte commence au premier paragraphe du chapitre premier et finit à la conclusion."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
