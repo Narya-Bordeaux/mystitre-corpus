@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-chef-doeuvre-inconnu",
+  "title": "Le Chef-d'œuvre inconnu",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Chef-d'œuvre inconnu, version remaniée, tome XIV des Œuvres complètes de H. de Balzac, éd. Houssiaux, 1855 (page Wikisource « Œuvres complètes de H. de Balzac/14/Le Chef-d’œuvre inconnu »)",
+  "pages": [
+    {
+      "title": "Œuvres complètes de H. de Balzac/14/Le Chef-d’œuvre inconnu",
+      "revisionId": 15078882
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d5584efb662439c16f1fd879588c71cb56b46ef17f2ff0a47f61ecb9ec6f3420",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Vers la fin de l’année 1612, par une froide matinée de décem"
+  },
+  "bodyEnd": {
+    "id": "p00163",
+    "textPrefix": "Cet adieu glaça les deux peintres. Le lendemain, Porbus inqu"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, dédicace « À un lord » avec sa date 1845, intertitre « I. Gillette » et la mention finale « Paris, février 1832. »"
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
