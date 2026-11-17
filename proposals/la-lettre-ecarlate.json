@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-lettre-ecarlate",
+  "title": "La Lettre écarlate",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Scarlet Letter, 2e édition (1850), Wikisource anglais ; chapitres 1 et 24 figés (œuvre longue : deux bouts)",
+    "pages": [
+      {
+        "title": "Scarlet Letter (1850) 2ed/Chapter 1",
+        "revisionId": 7254500
+      },
+      {
+        "title": "Scarlet Letter (1850) 2ed/Chapter 24",
+        "revisionId": 7255012
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "9c0c9fdea77692fb654e77b9996fa52076389500f84437daa7c99a869b6b9e95"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1"
+    ],
+    "french": "Une foule d'hommes barbus, vêtus de sombres habits et coiffés de chapeaux gris à haute calotte pointue, mêlés à des femmes, les unes en capuche, les autres tête nue, était rassemblée devant un édifice de bois, dont la porte, épaisse de chêne, était hérissée de clous de fer.\nLes fondateurs d'une colonie nouvelle, quelque utopie de vertu et de bonheur humains qu'ils aient d'abord projetée, ont invariablement jugé nécessaire, dès l'origine, de réserver une part du sol vierge pour en faire un cimetière, et une autre pour y bâtir une prison.",
+    "original": "A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods, and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes.\nThe founders of a new colony, whatever Utopia of human virtue and happiness they might originally project, have invariably recognized it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery, and another portion as the site of a prison.",
+    "length": 542,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00020.s5",
+      "p00020.s6"
+    ],
+    "french": "Tout autour, des monuments étaient sculptés d'armoiries ; et sur cette simple dalle d'ardoise — le curieux observateur peut encore le discerner, et s'en perdre en conjectures — apparaissait l'image d'un écusson gravé. Il portait une devise, dont un héraut aurait pu donner la formule comme motto et brève description de notre légende maintenant achevée, tant elle est sombre, et relevée seulement par un point de lumière toujours ardent, plus lugubre que l'ombre :\n« Sur champ de sable, la lettre A de gueules. »",
+    "original": "All around, there were monuments carved with armorial bearings; and on this simple slab of slate—as the curious investigator may still discern, and perplex himself with the purport—there appeared the semblance of an engraved escutcheon. It bore a device, a herald's wording of which might serve for a motto and brief description of our now concluded legend; so sombre is it, and relieved only by one ever-glowing point of light gloomier than the shadow:—\n\"On a field, sable, the letter A, gules.\"",
+    "length": 512,
+    "truncated": false
+  }
+}

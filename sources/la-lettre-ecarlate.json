@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-lettre-ecarlate",
+  "title": "La Lettre écarlate",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Scarlet Letter, 2e édition (1850), Wikisource anglais ; chapitres 1 et 24 figés (œuvre longue : deux bouts)",
+  "pages": [
+    {
+      "title": "Scarlet Letter (1850) 2ed/Chapter 1",
+      "revisionId": 7254500
+    },
+    {
+      "title": "Scarlet Letter (1850) 2ed/Chapter 24",
+      "revisionId": 7255012
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "9c0c9fdea77692fb654e77b9996fa52076389500f84437daa7c99a869b6b9e95",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "A throng of bearded men, in sad-colored garments, and gray, "
+  },
+  "bodyEnd": {
+    "id": "p00021",
+    "textPrefix": "\"On a field, sable, the letter A, gules.\""
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, « I. THE PRISON-DOOR », « XXIV. CONCLUSION ». L'introduction « The Custom-House » n'est pas enregistrée (préface de l'auteur). Gardée : la devise héraldique finale, qui clôt le récit."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
