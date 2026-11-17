@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "robur-le-conquerant",
+  "title": "Robur le conquérant",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Édition non indiquée (Wikisource, Robur le conquérant, chapitres 1 et 18)",
+  "pages": [
+    {
+      "title": "Robur le conquérant/1",
+      "revisionId": 3987818
+    },
+    {
+      "title": "Robur le conquérant/18",
+      "revisionId": 3988005
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "20d28263777dee0c1ed2fed71eac5aa4d064e865ae21772bd483456243fa68f8",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "« Pan !… Pan !… »"
+  },
+  "bodyEnd": {
+    "id": "p00154",
+    "textPrefix": "C’est aux Albatros qu’est définitivement réservée la conquêt"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de chapitres et sous-titre du chapitre I, mention FIN. Le corps commence au coup de pistolet « Pan !… Pan !… » et s'achève sur « la conquête de l'air ! »."
+  ],
+  "titleMasks": [
+    "Robur-le-Conquérant"
+  ],
+  "readingOptions": []
+}

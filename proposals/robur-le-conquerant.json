@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "bookId": "robur-le-conquerant",
+  "title": "Robur le conquérant",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Édition non indiquée (Wikisource, Robur le conquérant, chapitres 1 et 18)",
+    "pages": [
+      {
+        "title": "Robur le conquérant/1",
+        "revisionId": 3987818
+      },
+      {
+        "title": "Robur le conquérant/18",
+        "revisionId": 3988005
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "20d28263777dee0c1ed2fed71eac5aa4d064e865ae21772bd483456243fa68f8"
+  },
+  "titleMasks": [
+    "Robur-le-Conquérant"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3",
+      "p00005.s1",
+      "p00006.s1"
+    ],
+    "french": "« Pan !… Pan !… »\nLes deux coups de pistolet partirent presque en même temps. Une vache, qui paissait à cinquante pas de là, reçut une des balles dans l’échine. Elle n’était pour rien dans l’affaire, cependant.\nNi l’un ni l’autre des deux adversaires n’avait été touché.\nQuels étaient ces deux gentlemen ?",
+    "original": "« Pan !… Pan !… »\nLes deux coups de pistolet partirent presque en même temps. Une vache, qui paissait à cinquante pas de là, reçut une des balles dans l’échine. Elle n’était pour rien dans l’affaire, cependant.\nNi l’un ni l’autre des deux adversaires n’avait été touché.\nQuels étaient ces deux gentlemen ?",
+    "length": 305,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00152.s3",
+      "p00152.s4",
+      "p00153.s1",
+      "p00154.s1"
+    ],
+    "french": "[TITRE] reparaîtra-t-il un jour, ainsi qu’il l’a annoncé ? Oui ! il viendra livrer le secret d’une invention qui peut modifier les conditions sociales et politiques du monde.\nQuant à l’avenir de la locomotion aérienne, il appartient à l’aéronef, non à l’aérostat.\nC’est aux Albatros qu’est définitivement réservée la conquête de l’air !",
+    "original": "Robur-le-Conquérant reparaîtra-t-il un jour, ainsi qu’il l’a annoncé ? Oui ! il viendra livrer le secret d’une invention qui peut modifier les conditions sociales et politiques du monde.\nQuant à l’avenir de la locomotion aérienne, il appartient à l’aéronef, non à l’aérostat.\nC’est aux Albatros qu’est définitivement réservée la conquête de l’air !",
+    "length": 348,
+    "truncated": false
+  }
+}
