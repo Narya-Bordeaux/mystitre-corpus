@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "bookId": "ruy-blas",
+  "title": "Ruy Blas",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (Wikisource, Ruy Blas, drame de Victor Hugo)",
+  "pages": [
+    {
+      "title": "Ruy Blas/Acte 1",
+      "revisionId": 12106304
+    },
+    {
+      "title": "Ruy Blas/Acte 5",
+      "revisionId": 12112279
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "4ed5aaa69909870f6265937f0c3a11be200b1c554f4bfb6bd7382fe995f45934",
+  "bodyStart": {
+    "id": "p00017",
+    "textPrefix": "Ruy Blas, fermez la porte, — ouvrez cette fenêtre."
+  },
+  "bodyEnd": {
+    "id": "p00611",
+    "textPrefix": "Merci !"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre d'acte, liste des personnages, didascalie de décor, intitulé de scène, « FIN. ». Le texte commence à la première réplique (Don Salluste) et finit sur « Merci ! »."
+  ],
+  "titleMasks": [
+    "Ruy Blas",
+    "RUY BLAS"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00601",
+      "find": ", défaillant.",
+      "replace": "RUY BLAS, défaillant.",
+      "reason": "nom de personnage en petites capitales perdu à la numérisation (la réplique précédente et la suivante l'établissent)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00608",
+      "find": ", se jetant",
+      "replace": "LA REINE, se jetant",
+      "reason": "nom de personnage en petites capitales perdu à la numérisation (la réplique précédente et la suivante l'établissent)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00610",
+      "find": ", qui allait",
+      "replace": "RUY BLAS, qui allait",
+      "reason": "nom de personnage en petites capitales perdu à la numérisation (la réplique précédente et la suivante l'établissent)"
+    }
+  ]
+}

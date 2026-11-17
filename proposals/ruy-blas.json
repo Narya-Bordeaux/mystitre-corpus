@@ -1,0 +1,90 @@
+{
+  "formatVersion": 1,
+  "bookId": "ruy-blas",
+  "title": "Ruy Blas",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (Wikisource, Ruy Blas, drame de Victor Hugo)",
+    "pages": [
+      {
+        "title": "Ruy Blas/Acte 1",
+        "revisionId": 12106304
+      },
+      {
+        "title": "Ruy Blas/Acte 5",
+        "revisionId": 12112279
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "4ed5aaa69909870f6265937f0c3a11be200b1c554f4bfb6bd7382fe995f45934"
+  },
+  "titleMasks": [
+    "Ruy Blas",
+    "RUY BLAS"
+  ],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00601",
+      "find": ", défaillant.",
+      "replace": "RUY BLAS, défaillant.",
+      "reason": "nom de personnage en petites capitales perdu à la numérisation (la réplique précédente et la suivante l'établissent)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00608",
+      "find": ", se jetant",
+      "replace": "LA REINE, se jetant",
+      "reason": "nom de personnage en petites capitales perdu à la numérisation (la réplique précédente et la suivante l'établissent)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00610",
+      "find": ", qui allait",
+      "replace": "RUY BLAS, qui allait",
+      "reason": "nom de personnage en petites capitales perdu à la numérisation (la réplique précédente et la suivante l'établissent)"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00017.s1",
+      "p00019.s1",
+      "p00021.s1",
+      "p00021.s2",
+      "p00021.s3",
+      "p00021.s4",
+      "p00021.s5"
+    ],
+    "french": "DON SALLUSTE. — [TITRE], fermez la porte, — ouvrez cette fenêtre.\nIls dorment encore tous ici, — le jour va naître.\nAh ! C’est un coup de foudre !… — oui, mon règne est passé,\nGudiel ! — renvoyé, disgracié, chassé ! —\nAh ! tout perdre en un jour ! — L’aventure est secrète\nEncor, n’en parle pas. — Oui, pour une amourette,\n— Chose, à mon âge, sotte et folle, j’en conviens ! —",
+    "original": "DON SALLUSTE. — Ruy Blas, fermez la porte, — ouvrez cette fenêtre.\nIls dorment encore tous ici, — le jour va naître.\nAh ! C’est un coup de foudre !… — oui, mon règne est passé,\nGudiel ! — renvoyé, disgracié, chassé ! —\nAh ! tout perdre en un jour ! — L’aventure est secrète\nEncor, n’en parle pas. — Oui, pour une amourette,\n— Chose, à mon âge, sotte et folle, j’en conviens ! —",
+    "length": 377,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00600.s4",
+      "p00601.s1",
+      "p00602.s1",
+      "p00604.s1",
+      "p00604.s2",
+      "p00606.s1",
+      "p00606.s2",
+      "p00606.s3",
+      "p00608.s1",
+      "p00609.s1",
+      "p00610.s1",
+      "p00611.s1"
+    ],
+    "french": "LA REINE. — Si j’avais pardonné ?…\n[TITRE], défaillant.\n[TITRE]. — J’aurais agi de même.\nJe ne pouvais plus vivre. Adieu !\nFuyez d’ici !\n— Tout restera secret. — Je meurs.\nLA REINE, se jetant sur son corps.\nLA REINE. — [TITRE] !\n[TITRE], qui allait mourir, se réveille à son nom prononcé par la reine.\n[TITRE]. — Merci !",
+    "original": "LA REINE. — Si j’avais pardonné ?…\nRUY BLAS, défaillant.\nRUY BLAS. — J’aurais agi de même.\nJe ne pouvais plus vivre. Adieu !\nFuyez d’ici !\n— Tout restera secret. — Je meurs.\nLA REINE, se jetant sur son corps.\nLA REINE. — Ruy Blas !\nRUY BLAS, qui allait mourir, se réveille à son nom prononcé par la reine.\nRUY BLAS. — Merci !",
+    "length": 325,
+    "truncated": false
+  }
+}
