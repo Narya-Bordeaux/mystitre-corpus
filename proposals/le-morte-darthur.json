@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-morte-darthur",
+  "title": "Le Morte d'Arthur",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Le Morte Darthur, texte de l'édition Caxton (1485), édition Wikisource en deux volumes ; livre I, chapitre 1, et livre XXI, chapitre 13",
+    "pages": [
+      {
+        "title": "Le Morte d'Arthur/Volume 1/Book 1/Chapter 1",
+        "revisionId": 16385191
+      },
+      {
+        "title": "Le Morte d'Arthur/Volume II/Book XXI/Chapter XIII",
+        "revisionId": 12183267
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ce3d21d72977633ff87a5d399e591ff212387595a9cb040dedf9dd88f439912b"
+  },
+  "titleMasks": [
+    "Arthur"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "Il advint, au temps d'Uther Pendragon, quand il était roi de toute l'Angleterre et qu'il régnait ainsi, qu'il y avait en Cornouailles un puissant duc qui lui fit longtemps la guerre. Et ce duc s'appelait le duc de Tintagel. Et ainsi, par l'entremise de certains, le roi Uther fit venir ce duc en le priant d'amener sa femme avec lui, car on la disait belle dame et fort sage, et elle se nommait Ygraine.",
+    "original": "It befell in the days of Uther Pendragon, when he was king of all England, and so reigned, that there was a mighty duke in Cornwall that held war against him long time. And the duke was called the duke of Tintagil. And so by means King Uther sent for this duke, charging him to bring his wife with him, for she was called a fair lady, and a passing wise, and her name was called Igraine.",
+    "length": 403,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00007.s25",
+      "p00007.s26",
+      "p00007.s27",
+      "p00007.s28"
+    ],
+    "french": "Car le livre français, qui fait autorité, rapporte que sire Bohort, sire Hector, sire Blamor et sire Bléobéris s'en allèrent en Terre sainte, là où Jésus-Christ vécut et mourut, dès qu'ils eurent mis leurs terres en ordre. Car le livre dit que sire Lancelot leur avait commandé de le faire avant de quitter ce monde. Et ces quatre chevaliers livrèrent maintes batailles contre les mécréants, les Turcs. Et là, ils moururent un Vendredi saint, pour l'amour de Dieu.",
+    "original": "For the French book maketh mention, and is authorised, that Sir Bors, Sir Ector, Sir Blamore, and Sir Bleoberis, went into the Holy Land thereas Jesu Christ was quick and dead, and anon as they had stablished their lands. For the book saith, so Sir Launcelot commanded them for to do, or ever he passed out of this world. And these four knights did many battles upon the miscreants or Turks. And there they died upon a Good Friday for God’s sake.",
+    "length": 464,
+    "truncated": false
+  }
+}

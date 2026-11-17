@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-morte-darthur",
+  "title": "Le Morte d'Arthur",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Le Morte Darthur, texte de l'édition Caxton (1485), édition Wikisource en deux volumes ; livre I, chapitre 1, et livre XXI, chapitre 13",
+  "pages": [
+    {
+      "title": "Le Morte d'Arthur/Volume 1/Book 1/Chapter 1",
+      "revisionId": 16385191
+    },
+    {
+      "title": "Le Morte d'Arthur/Volume II/Book XXI/Chapter XIII",
+      "revisionId": 12183267
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ce3d21d72977633ff87a5d399e591ff212387595a9cb040dedf9dd88f439912b",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "It befell in the days of Uther Pendragon, when he was king o"
+  },
+  "bodyEnd": {
+    "id": "p00007",
+    "textPrefix": "And when Sir Ector heard such noise and light in the quire o"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Titres de livre et de chapitre exclus ; fin sur le récit (les quatre chevaliers morts un Vendredi saint) ; exclus : l'explicit de Malory (« Here is the end of the book of King Arthur… by Sir Thomas Maleore, knight »), qui nomme l'auteur et le titre, et le colophon de Caxton"
+  ],
+  "titleMasks": [
+    "Arthur"
+  ],
+  "readingOptions": []
+}

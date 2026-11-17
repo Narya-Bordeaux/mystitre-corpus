@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-morte-darthur",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "ce3d21d72977633ff87a5d399e591ff212387595a9cb040dedf9dd88f439912b",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "It befell in the days of Uther Pendragon, when he was king of all England, and so reigned, that there was a mighty duke in Cornwall that held war against him long time.",
+      "translation": "Il advint, au temps d'Uther Pendragon, quand il était roi de toute l'Angleterre et qu'il régnait ainsi, qu'il y avait en Cornouailles un puissant duc qui lui fit longtemps la guerre."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "And the duke was called the duke of Tintagil.",
+      "translation": "Et ce duc s'appelait le duc de Tintagel."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "And so by means King Uther sent for this duke, charging him to bring his wife with him, for she was called a fair lady, and a passing wise, and her name was called Igraine.",
+      "translation": "Et ainsi, par l'entremise de certains, le roi Uther fit venir ce duc en le priant d'amener sa femme avec lui, car on la disait belle dame et fort sage, et elle se nommait Ygraine."
+    },
+    {
+      "id": "p00004.s4",
+      "original": "So when the duke and his wife were come unto the king, by the means of great lords they were accorded both: the king liked and loved this lady well, and he made them great cheer out of measure, and desired to have lain by her.",
+      "translation": "Quand le duc et sa femme furent venus auprès du roi, de grands seigneurs les réconcilièrent tous deux : le roi trouva cette dame fort à son goût et l'aima, leur fit fête outre mesure et désira coucher avec elle."
+    },
+    {
+      "id": "p00004.s5",
+      "original": "But she was a passing good woman, and would not assent unto the king.",
+      "translation": "Mais c'était une femme de grande vertu, et elle ne voulut pas consentir au roi."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00007.s22",
+      "original": "Howbeit King Constantine would have had them with him, but they would not abide in this realm.",
+      "translation": "Le roi Constantin aurait bien voulu les garder auprès de lui, mais ils ne voulurent pas demeurer en ce royaume."
+    },
+    {
+      "id": "p00007.s23",
+      "original": "And there they all lived in their countries as holy men.",
+      "translation": "Et tous vécurent en leurs pays comme de saints hommes."
+    },
+    {
+      "id": "p00007.s24",
+      "original": "And some English books make mention that they went never out of England after the death of Sir Launcelot, but that was but favour of makers.",
+      "translation": "Certains livres anglais rapportent qu'ils ne quittèrent jamais l'Angleterre après la mort de sire Lancelot, mais ce n'est que fantaisie d'auteurs."
+    },
+    {
+      "id": "p00007.s25",
+      "original": "For the French book maketh mention, and is authorised, that Sir Bors, Sir Ector, Sir Blamore, and Sir Bleoberis, went into the Holy Land thereas Jesu Christ was quick and dead, and anon as they had stablished their lands.",
+      "translation": "Car le livre français, qui fait autorité, rapporte que sire Bohort, sire Hector, sire Blamor et sire Bléobéris s'en allèrent en Terre sainte, là où Jésus-Christ vécut et mourut, dès qu'ils eurent mis leurs terres en ordre."
+    },
+    {
+      "id": "p00007.s26",
+      "original": "For the book saith, so Sir Launcelot commanded them for to do, or ever he passed out of this world.",
+      "translation": "Car le livre dit que sire Lancelot leur avait commandé de le faire avant de quitter ce monde."
+    },
+    {
+      "id": "p00007.s27",
+      "original": "And these four knights did many battles upon the miscreants or Turks.",
+      "translation": "Et ces quatre chevaliers livrèrent maintes batailles contre les mécréants, les Turcs."
+    },
+    {
+      "id": "p00007.s28",
+      "original": "And there they died upon a Good Friday for God’s sake.",
+      "translation": "Et là, ils moururent un Vendredi saint, pour l'amour de Dieu."
+    }
+  ]
+}
