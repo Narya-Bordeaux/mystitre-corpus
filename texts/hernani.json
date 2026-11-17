@@ -1,0 +1,6521 @@
+{
+  "formatVersion": 1,
+  "bookId": "hernani",
+  "sha256": "70bf4c2491e3a9085fd8c0b5d1a0c5a535fa50db45442a340d954670c48c3c09",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "ACTE PREMIER",
+        "LE ROI"
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "SARAGOSSE"
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Une chambre à coucher. La nuit. Une lampe sur une table."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène Première"
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DOÑA JOSEFA DUARTE, vieille, en noir, avec le corps de sa jupe cousu de jais à la mode d’Isabelle-la-catholique ; DON CARLOS."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", seule."
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Elle ferme les rideaux cramoisis de la fenêtre et met en ordre quelques fauteuils. On frappe à une petite porte dérobée à droite. Elle écoute. On frappe un second coup."
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Serait-ce déjà lui."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Un nouveau coup."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "C’est bien à l’escalier",
+        "Dérobé."
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Un quatrième coup."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Vite, ouvrons."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle ouvre la petite porte masquée. Entre don Carlos, le manteau sur le visage et le chapeau sur les yeux."
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Bonjour, beau cavalier."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Elle l’introduit. Il écarte son manteau, et laisse voir un riche costume de velours et de soie à la mode castillane de 1519. Elle le regarde sous le nez et recule."
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Quoi ! Seigneur Hernani, ce n’est pas vous ! — Main-forte !",
+        "Au feu !"
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui saisissant le bras."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Deux mots de plus, duègne, vous êtes morte !"
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il la regarde fixement. Elle se tait effrayée."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Suis-je chez doña Sol ? fiancée au vieux duc",
+        "De Pastraña, son oncle, un bon seigneur, caduc,",
+        "Vénérable et jaloux ? dites ! La belle adore",
+        "Un cavalier sans barbe et sans moustache encore,",
+        "Et reçoit tous les soirs, malgré les envieux,",
+        "Le jeune amant sans barbe à la barbe du vieux.",
+        "Suis-je bien informé ?",
+        "Elle se tait. Il la secoue par le bras.",
+        "Vous répondrez peut-être."
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Vous m’avez défendu de dire deux mots, maître."
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Aussi n’en veux-je qu’un. — Oui, — non. — Ta dame est bien",
+        "Doña Sol De Silva ? Parle."
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Oui. — Pourquoi ?"
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Pour rien.",
+        "Le duc, son vieux futur, est absent à cette heure ?"
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Sans doute elle attend son jeune ?"
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Que je meure !"
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Duègne, c’est ici qu’aura lieu l’entretien ?"
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Cache-moi céans."
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Vous !"
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Moi."
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Pourquoi ?"
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Pour rien."
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Moi, vous cacher !"
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ici."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Jamais."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tirant de sa ceinture un poignard et une bourse."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "— Daignez, madame,",
+        "Choisir de cette bourse ou bien de cette lame."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", prenant la bourse."
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Vous êtes donc le diable ?"
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Oui, duègne."
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", ouvrant une armoire étroite dans le mur."
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Entrez ici."
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", examinant l’armoire."
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Cette boîte ?"
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", refermant l’armoire."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Va-t’en, si tu n’en veux pas."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", rouvrant l’armoire."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Si !"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "L’examinant encore."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Serait-ce l’écurie où tu mets d’aventure"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Le manche du balai qui te sert de monture ?"
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il s’y blottit avec peine."
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ouf !"
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", joignant les mains avec scandale."
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Un homme ici !"
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", dans l’armoire restée ouverte."
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "C’est une femme, est-ce pas,",
+        "Qu’attendait ta maîtresse ?"
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Ô ciel ! j’entends le pas",
+        "De doña Sol. — Seigneur, fermez vite la porte."
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Elle pousse la porte de l’armoire qui se referme."
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", de l’intérieur de l’armoire."
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Si vous dites un mot, duègne, vous êtes morte."
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", seule."
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Qu’est cet homme ? Jésus mon Dieu ! si j’appelais ?…",
+        "Qui ? Hors madame et moi, tout dort dans le palais.",
+        "Bah ! l’autre va venir. La chose le regarde.",
+        "Il a sa bonne épée, et que le ciel nous garde",
+        "De l’enfer !",
+        "Pesant la bourse.",
+        "Après tout, ce n’est pas un voleur."
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Entre doña Sol, en blanc. Doña Josefa cache la bourse."
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DOÑA JOSEFA DUARTE, DON CARLOS caché ; DOÑA SOL,",
+        "puis HERNANI."
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Josefa !"
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEPHA",
+      "lines": [
+        "Madame ?"
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ah ! je crains quelque malheur.",
+        "Hernani devrait être ici."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Bruit de pas à la petite porte."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Voici qu’il monte."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ouvre avant qu’il ne frappe, et fais vite, et sois prompte."
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Josefa ouvre la petite porte. Entre Hernani. Grand manteau, grand chapeau. Dessous, un costume de montagnard d’Aragon, gris, avec une cuirasse de cuir, une épée, un poignard, et un cor à la ceinture."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", courant à lui."
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Hernani !"
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Doña Sol ! Ah ! c’est vous que je vois",
+        "Enfin ! et cette voix qui parle est votre voix !",
+        "Pourquoi le sort mit-il mes jours si loin des vôtres ?",
+        "J’ai tant besoin de vous pour oublier les autres !"
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", touchant ses vêtements."
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Jésus ! Votre manteau ruisselle ! Il pleut donc bien ?"
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Je ne sais."
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Vous devez avoir froid !"
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ce n’est rien."
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ôtez donc ce manteau."
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Doña Sol, mon amie,",
+        "Dites-moi, quand la nuit vous êtes endormie,",
+        "Calme, innocente et pure, et qu’un sommeil joyeux",
+        "Entr’ouvre votre bouche et du doigt clôt vos yeux,",
+        "Un ange vous dit-il combien vous êtes douce",
+        "Au malheureux que tout abandonne et repousse ?"
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Vous avez bien tardé, seigneur ! Mais dites-moi",
+        "Si vous avez froid."
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Moi ! je brûle près de toi !",
+        "Ah ! quand l’amour jaloux bouillonne dans nos têtes,",
+        "Quand notre cœur se gonfle et s’emplit de tempêtes,",
+        "Qu’importe ce que peut un nuage des airs",
+        "Nous jeter en passant de tempête et d’éclairs !"
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui défaisant son manteau."
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Allons ! donnez la cape, — et l’épée avec elle."
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", la main sur son épée."
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Non. C’est une autre amie, innocente et fidèle.",
+        "— Doña Sol, le vieux duc, votre futur époux,",
+        "Votre oncle, est donc absent ?"
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Oui, cette heure est à nous."
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Cette heure ! et voilà tout. Pour nous, plus rien qu’une heure",
+        "Après, qu’importe ? il faut qu’on oublie ou qu’on meure.",
+        "Ange ! une heure avec vous ! une heure, en vérité",
+        "À qui voudrait la vie, et puis l’éternité !"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Hernani !"
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", amèrement."
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Que je suis heureux que le duc sorte !",
+        "Comme un larron qui tremble et qui force une porte,",
+        "Vite, j’entre, et vous vois, et dérobe au vieillard",
+        "Une heure de vos chants et de votre regard ;",
+        "Et je suis bien heureux, et sans doute on m’envie",
+        "De lui voler une heure, et lui me prend ma vie !"
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Calmez-vous."
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Remettant le manteau à la duègne."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Josefa, fais sécher le manteau."
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Josefa sort."
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle s’assied et fait signe à Hernani de venir près d’elle."
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Venez là."
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", sans l’entendre."
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Donc le duc est absent du château ?"
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", souriant."
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Comme vous êtes grand !"
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Il est absent."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Chère âme.",
+        "Ne pensons plus au duc."
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! Pensons-y, madame !",
+        "Ce vieillard ! Il vous aime, il va vous épouser !",
+        "Quoi donc ! Vous prit-il pas l’autre jour un baiser ?",
+        "N’y plus penser !"
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", riant."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "C’est là ce qui vous désespère !",
+        "Un baiser d’oncle ! Au front ! Presque un baiser de père !"
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Non, un baiser d’amant, de mari, de jaloux.",
+        "Ah ! Vous serez à lui, madame ! Y pensez-vous ?",
+        "Ô l’insensé vieillard, qui, la tête inclinée,",
+        "Pour achever sa route et finir sa journée,",
+        "A besoin d’une femme, et va, spectre glacé,",
+        "Prendre une jeune fille ! ô vieillard insensé !",
+        "Pendant que d’une main il s’attache à la vôtre,",
+        "Ne voit-il pas la mort qui l’épouse de l’autre ?",
+        "Il vient dans nos amours se jeter sans frayeur !",
+        "Vieillard, va-t’en donner mesure au fossoyeur !",
+        "— Qui fait ce mariage ? On vous force, j’espère !"
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Le roi, dit-on, le veut."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le roi ! Le roi ! Mon père",
+        "Est mort sur l’échafaud, condamné par le sien.",
+        "Or, quoiqu’on ait vieilli depuis ce fait ancien,",
+        "Pour l’ombre du feu roi, pour son fils, pour sa veuve,",
+        "Pour tous les siens, ma haine est encor toute neuve !",
+        "Lui, mort, ne compte plus. Et tout enfant, je fis",
+        "Le serment de venger mon père sur son fils.",
+        "Je te cherchais partout, Carlos, roi des Castilles !"
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Car la haine est vivace entre nos deux familles.",
+        "Les pères ont lutté sans pitié, sans remords,",
+        "Trente ans ! Or, c’est en vain que les pères sont morts !",
+        "Leur haine vit. Pour eux la paix n’est point venue,",
+        "Car les fils sont debout, et le duel continue.",
+        "Ah ! c’est donc toi qui veux cet exécrable hymen !",
+        "Tant mieux. Je te cherchais, tu viens dans mon chemin !"
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Vous m’effrayez."
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Chargé d’un mandat d’anathème,",
+        "Il faut que j’en arrive à m’effrayer moi-même !",
+        "Écoutez. L’homme auquel, jeune, on vous destina,",
+        "Ruy de Silva, votre oncle, est duc de Pastraña,",
+        "Riche-homme d’Aragon, comte et grand de Castille.",
+        "À défaut de jeunesse, il peut, ô jeune fille,",
+        "Vous apporter tant d’or, de bijoux, de joyaux,",
+        "Que votre front reluise entre des fronts royaux,",
+        "Et pour le rang, l’orgueil, la gloire et la richesse,",
+        "Mainte reine peut-être envîra sa duchesse !",
+        "Voilà donc ce qu’il est. Moi, je suis pauvre, et n’eus,",
+        "Tout enfant, que les bois où je fuyais pieds nus.",
+        "Peut-être aurais-je aussi quelque blason illustre",
+        "Qu’une rouille de sang à cette heure délustre ;",
+        "Peut-être ai-je des droits, dans l’ombre ensevelis,",
+        "Qu’un drap d’échafaud noir cache encor sous ses plis",
+        "Et qui, si mon attente un jour n’est pas trompée,",
+        "Pourront de ce fourreau sortir avec l’épée.",
+        "En attendant, je n’ai reçu du ciel jaloux",
+        "Que l’air, le jour et l’eau, la dot qu’il donne à tous.",
+        "Ou du duc ou de moi souffrez qu’on vous délivre,",
+        "Il faut choisir des deux, l’épouser, ou me suivre."
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je vous suivrai."
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Parmi mes rudes compagnons ?",
+        "Proscrits dont le bourreau sait d’avance les noms,",
+        "Gens dont jamais le fer ni le cœur ne s’émousse,",
+        "Ayant tous quelque sang à venger qui les pousse ?",
+        "Vous viendrez commander ma bande, comme on dit ?",
+        "Car, vous ne savez pas, moi, je suis un bandit !",
+        "Quand tout me poursuivait dans toutes les Espagnes,",
+        "Seule, dans ses forêts, dans ses hautes montagnes,",
+        "Dans ses rocs où l’on n’est que de l’aigle aperçu,",
+        "La vieille Catalogne en mère m’a reçu.",
+        "Parmi ses montagnards, libres, pauvres et graves,",
+        "Je grandis, et demain, trois mille de ses braves,",
+        "Si ma voix dans leurs monts fait résonner ce cor,",
+        "Viendront… Vous frissonnez. Réfléchissez encor.",
+        "Me suivre dans les bois, dans les monts, sur les grèves,",
+        "Chez des hommes pareils aux démons de vos rêves,",
+        "Soupçonner tout, les yeux, les voix, les pas, le bruit,",
+        "Dormir sur l’herbe, boire au torrent, et la nuit",
+        "Entendre, en allaitant quelque enfant qui s’éveille,",
+        "Les balles des mousquets siffler à votre oreille.",
+        "Être errante avec moi, proscrite, et, s’il le faut,",
+        "Me suivre où je suivrai mon père, — à l’échafaud."
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je vous suivrai."
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le duc est riche, grand, prospère.",
+        "Le duc n’a pas de tache au vieux nom de son père.",
+        "Le duc peut tout. Le duc vous offre avec sa main",
+        "Trésors, titres, bonheur…"
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Nous partirons demain.",
+        "Hernani, n’allez pas sur mon audace étrange"
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Me blâmer. Êtes-vous mon démon ou mon ange ?",
+        "Je ne sais, mais je suis votre esclave. Écoutez.",
+        "Allez où vous voudrez, j’irai. Restez, partez,",
+        "Je suis à vous. Pourquoi fais-je ainsi ? je l’ignore.",
+        "J’ai besoin de vous voir, et de vous voir encore",
+        "Et de vous voir toujours. Quand le bruit de vos pas",
+        "S’efface, alors je crois que mon cœur ne bat pas,",
+        "Vous me manquez, je suis absente de moi-même ;",
+        "Mais dès qu’enfin ce pas que j’attends et que j’aime",
+        "Vient frapper mon oreille, alors il me souvient",
+        "Que je vis, et je sens mon âme qui revient !"
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", la serrant dans ses bras."
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ange !"
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "À minuit. Demain. Amenez votre escorte,",
+        "Sous ma fenêtre. Allez, je serai brave et forte.",
+        "Vous frapperez trois coups."
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Savez-vous qui je suis,",
+        "Maintenant ?"
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Monseigneur, qu’importe ? Je vous suis."
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Non, puisque vous voulez me suivre, faible femme,",
+        "Il faut que vous sachiez quel nom, quel rang, quelle âme,",
+        "Quel destin est caché dans le pâtre Hernani.",
+        "Vous vouliez d’un brigand, voulez-vous d’un banni ?"
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", ouvrant avec fracas la porte de l’armoire."
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Quand aurez-vous fini de conter votre histoire ?",
+        "Croyez-vous donc qu’on soit à l’aise en cette armoire ?"
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Hernani recule étonné. Doña Sol pousse un cri et se réfugie dans ses bras, en fixant sur don Carlos des yeux effarés."
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", la main sur la garde de son épée."
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Quel est cet homme ?"
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ô ciel ! Au secours !"
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Taisez-vous,",
+        "Doña Sol ! Vous donnez l’éveil aux yeux jaloux.",
+        "Quand je suis près de vous, veuillez, quoi qu’il advienne,",
+        "Ne réclamer jamais d’autre aide que la mienne.",
+        "À don Carlos.",
+        "Que faisiez-vous là ?"
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Moi ? Mais, à ce qu’il paraît,",
+        "Je ne chevauchais pas à travers la forêt."
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Qui raille après l’affront s’expose à faire rire",
+        "Aussi son héritier."
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Chacun son tour ! — Messire,",
+        "Parlons franc. Vous aimez madame et ses yeux noirs,",
+        "Vous y venez mirer les vôtres tous les soirs,",
+        "C’est fort bien. J’aime aussi madame, et veux connaître",
+        "Qui j’ai vu tant de fois entrer par la fenêtre,",
+        "Tandis que je restais à la porte."
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "En honneur,",
+        "Je vous ferai sortir par où j’entre, seigneur."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Nous verrons. J’offre donc mon amour à madame.",
+        "Partageons. Voulez-vous ? J’ai vu dans sa belle âme"
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Tant d’amour, de bonté, de tendres sentiments,",
+        "Que madame, à coup sûr, en a pour deux amants.",
+        "Or, ce soir, voulant mettre à fin mon entreprise,",
+        "Pris, je pense, pour vous, j’entre ici par surprise,",
+        "Je me cache, j’écoute, à ne vous celer rien ;",
+        "Mais j’entendais très mal et j’étouffais très bien.",
+        "Et puis, je chiffonnais ma veste à la française.",
+        "Ma foi, je sors !"
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ma dague aussi n’est pas à l’aise,",
+        "Et veut sortir."
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", le saluant."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Monsieur, c’est comme il vous plaira."
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tirant son épée."
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "En garde !"
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Don Carlos tire son épée."
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se jetant entre eux."
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Hernani ! ciel !"
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Calmez-vous, señora."
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don Carlos."
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Dites-moi votre nom."
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Hé ! dites-moi le vôtre !"
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Je le garde, secret et fatal, pour un autre",
+        "Qui doit un jour sentir, sous mon genou vainqueur,",
+        "Mon nom à son oreille, et ma dague à son cœur !"
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Alors, quel est le nom de l’autre ?"
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Que t’importe ?",
+        "En garde ! Défends-toi !"
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ils croisent leurs épées. Doña Sol tombe tremblante sur un fauteuil. On entend des coups à la porte."
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se levant avec effroi."
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ciel ! on frappe à la porte !"
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Les champions s’arrêtent, entre Josefa par la petite porte et tout effarée."
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Josefa."
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Qui frappe ainsi ?"
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à doña Sol."
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEFA",
+      "lines": [
+        "Madame ! Un coup inattendu !",
+        "C’est le duc qui revient !"
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Le duc ! Tout est perdu !",
+        "Malheureuse !"
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", jetant les yeux autour d’elle."
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEFA",
+      "lines": [
+        "Mon dieu ! L’inconnu ! Des épées !",
+        "On se battait. Voilà de belles équipées !"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DOÑA JOSEFA",
+      "lines": [
+        "Les deux combattants remettent leurs épées dans le fourreau, don Carlos s’enveloppe de son manteau et rabat son chapeau sur ses yeux. On frappe de nouveau."
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Que faire ?"
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "On frappe."
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "UNE VOIX",
+      "lines": [
+        "Doña Sol, ouvrez-moi !"
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Doña Josefa fait un pas vers la porte, Hernani l’arrête."
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "N’ouvrez pas."
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tirant son chapelet."
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA JOSEFA",
+      "lines": [
+        "Saint Jacques monseigneur ! tirez-nous de ce pas !"
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "On frappe de nouveau."
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant l’armoire à don Carlos."
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Cachons-nous."
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Dans l’armoire ?"
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Entrez-y, je m’en charge.",
+        "Nous y tiendrons tous deux."
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Grand merci, c’est trop large."
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant la petite porte."
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Fuyons par là."
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Bonsoir. Pour moi, je reste ici."
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! Tête et sang ! Monsieur, vous me paierez ceci !",
+        "À doña Sol.",
+        "Si je barricadais l’entrée ?"
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Josefa."
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ouvrez la porte."
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Que dit-il ?"
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Josefa interdite."
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ouvrez donc, vous dis-je !"
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "On frappe toujours. Doña Josefa va ouvrir en tremblant."
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je suis morte !"
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène III"
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Les Mêmes, DON RUY GOMEZ DE SILVA,",
+        "barbe et cheveux blancs ; en noir. Valets avec des flambeaux."
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Des hommes chez ma nièce à cette heure de nuit !",
+        "Venez tous ! Cela vaut la lumière et le bruit.",
+        "À doña Sol.",
+        "Par saint Jean d’Avila, je crois que, sur mon âme,",
+        "Nous sommes trois chez vous ! C’est trop de deux, madame.",
+        "Aux deux jeunes gens.",
+        "Mes jeunes cavaliers, que faites-vous céans ? —",
+        "Quand nous avions le Cid et Bernard, ces géants",
+        "De l’Espagne et du monde allaient par les Castilles",
+        "Honorant les vieillards et protégeant les filles.",
+        "C’étaient des hommes forts et qui trouvaient moins lourds",
+        "Leur fer et leur acier, que vous votre velours.",
+        "Ces hommes-là portaient respect aux barbes grises,",
+        "Faisaient agenouiller leur amour aux églises,",
+        "Ne trahissaient personne, et donnaient pour raison",
+        "Qu’ils avaient à garder l’honneur de leur maison.",
+        "S’ils voulaient une femme, ils la prenaient sans tache,",
+        "En plein jour, devant tous, et l’épée, ou la hache,",
+        "Ou la lance à la main. — Et quant à ces félons",
+        "Qui le soir, et les yeux tournés vers leurs talons,",
+        "Ne fiant qu’à la nuit leurs manœuvres infâmes,",
+        "Par derrière aux maris volent l’honneur des femmes,",
+        "J’affirme que le Cid, cet aïeul de nous tous,",
+        "Les eût tenus pour vils et fait mettre à genoux,"
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Et qu’il eût, dégradant leur noblesse usurpée,",
+        "Souffleté leur blason du plat de son épée !",
+        "Voilà ce que feraient, j’y songe avec ennui,",
+        "Les hommes d’autrefois aux hommes d’aujourd’hui.",
+        "— Qu’êtes-vous venus faire ici ? C’est donc à dire",
+        "Que je ne suis qu’un vieux dont les jeunes vont rire ?",
+        "On va rire de moi, soldat de Zamora ?",
+        "Et quand je passerai, tête blanche, on rira ?",
+        "Ce n’est pas vous du moins qui rirez !"
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Duc…"
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Silence !",
+        "Quoi ! vous avez l’épée, et la dague, et la lance,",
+        "La chasse, les festins, les meutes, les faucons,",
+        "Les chansons à chanter le soir sous les balcons,",
+        "Les plumes au chapeau, les casaques de soie,",
+        "Les bals, les carrousels, la jeunesse, la joie,",
+        "Enfants, l’ennui vous gagne ! À tout prix, au hasard,",
+        "Il vous faut un hochet. Vous prenez un vieillard.",
+        "Ah ! vous l’avez brisé, le hochet ! mais Dieu fasse",
+        "Qu’il vous puisse en éclats rejaillir à la face !",
+        "Suivez-moi !"
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Seigneur duc…"
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Suivez-moi ! suivez-moi !",
+        "Messieurs, avons-nous fait cela pour rire ? Quoi !",
+        "Un trésor est chez moi. C’est l’honneur d’une fille,",
+        "D’une femme, l’honneur de toute une famille,",
+        "Cette fille, je l’aime, elle est ma nièce, et doit",
+        "Bientôt changer sa bague à l’anneau de mon doigt,",
+        "Je la crois chaste et pure, et sacrée à tout homme,"
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Or il faut que je sorte une heure, et moi qu’on nomme",
+        "Ruy Gomez De Silva, je ne puis l’essayer",
+        "Sans qu’un larron d’honneur se glisse à mon foyer !",
+        "Arrière ! lavez donc vos mains, hommes sans âmes,",
+        "Car, rien qu’en y touchant, vous nous tachez nos femmes.",
+        "Non. C’est bien. Poursuivez. Ai-je autre chose encor ?"
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il arrache son collier."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Tenez, foulez aux pieds, foulez ma toison d’or !"
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il jette son chapeau."
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Arrachez mes cheveux, faites-en chose vile !"
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Et vous pourrez demain vous vanter par la ville",
+        "Que jamais débauchés, dans leurs jeux insolents,",
+        "N’ont sur plus noble front souillé cheveux plus blancs !"
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Monseigneur…"
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à ses valets."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Écuyers ! écuyers ! à mon aide !",
+        "Ma hache, mon poignard, ma dague de Tolède !"
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Aux deux jeunes gens."
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Et suivez-moi tous deux !"
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", faisant un pas."
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Duc, ce n’est pas d’abord",
+        "De cela qu’il s’agit. Il s’agit de la mort",
+        "De Maximilien, empereur d’Allemagne."
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il jette son manteau, et découvre son visage caché par son chapeau."
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Raillez-vous ?… — Dieu ! le roi !"
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Le roi !"
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", dont les yeux s’allument."
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le roi d’Espagne !"
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", gravement."
+      ]
+    },
+    {
+      "id": "p00223",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Oui, Carlos. — Seigneur duc, es-tu donc insensé ?",
+        "Mon aïeul l’empereur est mort. Je ne le sai",
+        "Que de ce soir. Je viens, tout en hâte, et moi-même,",
+        "Dire la chose à toi, féal sujet que j’aime,",
+        "Te demander conseil, incognito, la nuit,",
+        "Et l’affaire est bien simple, et voilà bien du bruit !"
+      ]
+    },
+    {
+      "id": "p00224",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Don Ruy Gomez renvoie ses gens d’un signe. Il examine don Carlos, que doña Sol regarde avec crainte et surprise, et sur lequel Hernani, demeuré dans un coin, fixe des yeux étincelants."
+      ]
+    },
+    {
+      "id": "p00225",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Mais pourquoi tarder tant à m’ouvrir cette porte ?"
+      ]
+    },
+    {
+      "id": "p00226",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Belle raison ! tu viens avec toute une escorte !",
+        "Quand un secret d’état m’amène en ton palais,",
+        "Duc, est-ce pour l’aller dire à tous tes valets ?"
+      ]
+    },
+    {
+      "id": "p00227",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Altesse, pardonnez ! l’apparence…"
+      ]
+    },
+    {
+      "id": "p00228",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Bon père,",
+        "Je t’ai fait gouverneur du château de Figuère,",
+        "Mais qui dois-je à présent faire ton gouverneur ?"
+      ]
+    },
+    {
+      "id": "p00229",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Pardonnez…"
+      ]
+    },
+    {
+      "id": "p00230",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Il suffit. N’en parlons plus, seigneur.",
+        "Donc l’empereur est mort."
+      ]
+    },
+    {
+      "id": "p00231",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "L’aïeul de votre altesse",
+        "Est mort ?"
+      ]
+    },
+    {
+      "id": "p00232",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Duc, tu m’en vois pénétré de tristesse."
+      ]
+    },
+    {
+      "id": "p00233",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Qui lui succède ?"
+      ]
+    },
+    {
+      "id": "p00234",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Un duc de Saxe est sur les rangs.",
+        "François Premier, de France, est un des concurrents."
+      ]
+    },
+    {
+      "id": "p00235",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Où vont se rassembler les électeurs d’empire ?"
+      ]
+    },
+    {
+      "id": "p00236",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ils ont choisi, je crois, Aix-La-Chapelle, ou Spire,",
+        "Ou Francfort."
+      ]
+    },
+    {
+      "id": "p00237",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Notre roi, dont Dieu garde les jours,",
+        "N’a-t-il pensé jamais à l’empire ?"
+      ]
+    },
+    {
+      "id": "p00238",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Toujours."
+      ]
+    },
+    {
+      "id": "p00239",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "C’est à vous qu’il revient."
+      ]
+    },
+    {
+      "id": "p00240",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Je le sais."
+      ]
+    },
+    {
+      "id": "p00241",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Votre père",
+        "Fut archiduc d’Autriche, et l’empire, j’espère,",
+        "Aura ceci présent, que c’était votre aïeul,",
+        "Celui qui vient de choir de la pourpre au linceul."
+      ]
+    },
+    {
+      "id": "p00242",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Et puis, on est bourgeois de Gand."
+      ]
+    },
+    {
+      "id": "p00243",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Dans mon jeune âge",
+        "Je le vis, votre aïeul. Hélas ! seul je surnage",
+        "D’un siècle tout entier. Tout est mort à présent.",
+        "C’était un empereur magnifique et puissant."
+      ]
+    },
+    {
+      "id": "p00244",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Rome est pour moi."
+      ]
+    },
+    {
+      "id": "p00245",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Vaillant, ferme, point tyrannique."
+      ]
+    },
+    {
+      "id": "p00246",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Cette tête allait bien au vieux corps germanique."
+      ]
+    },
+    {
+      "id": "p00247",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il s’incline sur les mains du roi et les baise."
+      ]
+    },
+    {
+      "id": "p00248",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Que je vous plains ! Si jeune, en un tel deuil plongé !"
+      ]
+    },
+    {
+      "id": "p00249",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Le pape veut ravoir la Sicile, que j’ai,",
+        "Un empereur ne peut posséder la Sicile,",
+        "Il me fait empereur ; alors, en fils docile.",
+        "Je lui rends Naple. Ayons l’aigle, et puis nous verrons",
+        "Si je lui laisserai rogner les ailerons."
+      ]
+    },
+    {
+      "id": "p00250",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Qu’avec joie il verrait, ce vétéran du trône,",
+        "Votre front déjà large aller à sa couronne !",
+        "Ah ! seigneur, avec vous nous le pleurerons bien,",
+        "Cet empereur très grand, très bon et très chrétien !"
+      ]
+    },
+    {
+      "id": "p00251",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Le saint-père est adroit. — Qu’est-ce que la Sicile ?",
+        "C’est une île qui pend à mon royaume, une île,",
+        "Une pièce, un haillon, qui, tout déchiqueté,",
+        "Tient à peine à l’Espagne et qui traîne à côté.",
+        "— Que ferez-vous, mon fils, de cette île bossue",
+        "Au monde impérial au bout d’un fil cousue ?",
+        "Votre empire est mal fait ; vite, venez ici,",
+        "Des ciseaux ! et coupons ! — Très saint-père, merci !"
+      ]
+    },
+    {
+      "id": "p00252",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Car de ces pièces-là, si j’ai bonne fortune,",
+        "Je compte au saint-empire en recoudre plus d’une,",
+        "Et, si quelques lambeaux m’en étaient arrachés,",
+        "Rapiécer mes états d’îles et de duchés !"
+      ]
+    },
+    {
+      "id": "p00253",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Consolez-vous ! il est un empire des justes",
+        "Où l’on revoit les morts plus saints et plus augustes !"
+      ]
+    },
+    {
+      "id": "p00254",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ce roi François Premier, c’est un ambitieux !",
+        "Le vieil empereur mort, vite il fait les doux yeux",
+        "À l’empire ! A-t-il pas sa France très chrétienne ?",
+        "Ah ! la part est pourtant belle, et vaut qu’on s’y tienne !",
+        "L’empereur mon aïeul disait au roi Louis :",
+        "— Si j’étais Dieu le père, et si j’avais deux fils,",
+        "Je ferais l’aîné dieu, le second roi de France. —",
+        "Au duc.",
+        "Crois-tu que François puisse avoir quelque espérance ?"
+      ]
+    },
+    {
+      "id": "p00255",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "C’est un victorieux."
+      ]
+    },
+    {
+      "id": "p00256",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Il faudrait tout changer.",
+        "La bulle d’or défend d’élire un étranger."
+      ]
+    },
+    {
+      "id": "p00257",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "À ce compte, seigneur, vous êtes roi d’Espagne ?"
+      ]
+    },
+    {
+      "id": "p00258",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Je suis bourgeois de Gand."
+      ]
+    },
+    {
+      "id": "p00259",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "La dernière campagne",
+        "A fait monter bien haut le roi François premier."
+      ]
+    },
+    {
+      "id": "p00260",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "L’aigle qui va peut-être éclore à mon cimier",
+        "Peut aussi déployer ses ailes."
+      ]
+    },
+    {
+      "id": "p00261",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Votre altesse",
+        "Sait-elle le latin ?"
+      ]
+    },
+    {
+      "id": "p00262",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Mal."
+      ]
+    },
+    {
+      "id": "p00263",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Tant pis. La noblesse",
+        "D’Allemagne aime fort qu’on lui parle latin."
+      ]
+    },
+    {
+      "id": "p00264",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Ils se contenteront d’un espagnol hautain ;",
+        "Car il importe peu, croyez-en le roi Charles,",
+        "Quand la voix parle haut, quelle langue elle parle.",
+        "— Je vais en Flandre. Il faut que ton roi, cher Silva,",
+        "Te revienne empereur. Le roi de France va",
+        "Tout remuer. Je veux le gagner de vitesse.",
+        "Je partirai sous peu."
+      ]
+    },
+    {
+      "id": "p00265",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Vous nous quittez, altesse,",
+        "Sans purger l’Aragon de ces nouveaux bandits",
+        "Qui partout dans nos monts lèvent leurs fronts hardis ?"
+      ]
+    },
+    {
+      "id": "p00266",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "J’ordonne au duc d’Arcos d’exterminer la bande."
+      ]
+    },
+    {
+      "id": "p00267",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Donnez-vous aussi l’ordre au chef qui la commande",
+        "De se laisser faire ?"
+      ]
+    },
+    {
+      "id": "p00268",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Eh ! quel est ce chef ? son nom ?"
+      ]
+    },
+    {
+      "id": "p00269",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Je l’ignore. On le dit un rude compagnon."
+      ]
+    },
+    {
+      "id": "p00270",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Bah ! je sais que pour l’heure il se cache en Galice,",
+        "Et j’en aurai raison avec quelque milice."
+      ]
+    },
+    {
+      "id": "p00271",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "De faux avis alors le disaient près d’ici."
+      ]
+    },
+    {
+      "id": "p00272",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Faux avis ! — Cette nuit tu me loges."
+      ]
+    },
+    {
+      "id": "p00273",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’inclinant jusqu’à terre."
+      ]
+    },
+    {
+      "id": "p00274",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Merci,",
+        "Altesse !"
+      ]
+    },
+    {
+      "id": "p00275",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il appelle ses valets."
+      ]
+    },
+    {
+      "id": "p00276",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Faites tous honneur au roi mon hôte."
+      ]
+    },
+    {
+      "id": "p00277",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Les valets entrent avec des flambeaux. Le duc les range sur deux haies jusqu’à la porte du fond. Cependant doña Sol s’approche lentement d’Hernani. Le roi les épie tous deux."
+      ]
+    },
+    {
+      "id": "p00278",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à Hernani."
+      ]
+    },
+    {
+      "id": "p00279",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Demain, sous ma fenêtre, à minuit, et sans faute.",
+        "Vous frapperez des mains trois fois."
+      ]
+    },
+    {
+      "id": "p00280",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas."
+      ]
+    },
+    {
+      "id": "p00281",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Demain."
+      ]
+    },
+    {
+      "id": "p00282",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00283",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Demain !"
+      ]
+    },
+    {
+      "id": "p00284",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Haut à doña Sol vers laquelle il fait un pas avec Galanterie."
+      ]
+    },
+    {
+      "id": "p00285",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Souffrez que pour rentrer je vous offre la main."
+      ]
+    },
+    {
+      "id": "p00286",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il lui donne la main et la reconduit à la porte. Elle sort."
+      ]
+    },
+    {
+      "id": "p00287",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", la main dans sa poitrine sur la poignée de sa dague."
+      ]
+    },
+    {
+      "id": "p00288",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Mon bon poignard !"
+      ]
+    },
+    {
+      "id": "p00289",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", revenant, à part."
+      ]
+    },
+    {
+      "id": "p00290",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Notre homme a la mine attrapée."
+      ]
+    },
+    {
+      "id": "p00291",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il prend Hernani à part."
+      ]
+    },
+    {
+      "id": "p00292",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Je vous ai fait l’honneur de toucher votre épée,"
+      ]
+    },
+    {
+      "id": "p00293",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Monsieur. Vous me seriez suspect pour cent raisons.",
+        "Mais le roi don Carlos répugne aux trahisons.",
+        "Allez. Je daigne encor protéger votre fuite."
+      ]
+    },
+    {
+      "id": "p00294",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", revenant et montrant Hernani."
+      ]
+    },
+    {
+      "id": "p00295",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Qu’est-ce seigneur ?"
+      ]
+    },
+    {
+      "id": "p00296",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CARLOS",
+      "lines": [
+        "Il part. C’est quelqu’un de ma suite."
+      ]
+    },
+    {
+      "id": "p00297",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ils sortent avec les valets et les flambeaux, le duc précédant le roi une cire à la main."
+      ]
+    },
+    {
+      "id": "p00298",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène IV"
+      ]
+    },
+    {
+      "id": "p00299",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "HERNANI, seul."
+      ]
+    },
+    {
+      "id": "p00300",
+      "page": 0,
+      "kind": "verse",
+      "lines": [
+        "Oui, de ta suite, ô roi ! de ta suite ! — J’en suis !",
+        "Nuit et jour, en effet, pas à pas, je te suis.",
+        "Un poignard à la main, l’œil fixé sur ta trace",
+        "Je vais. Ma race en moi poursuit en toi ta race.",
+        "Et puis, te voilà donc mon rival ! Un instant",
+        "Entre aimer et haïr je suis resté flottant,",
+        "Mon cœur pour elle et toi n’était point assez large,",
+        "J’oubliais en l’aimant ta haine qui me charge ;",
+        "Mais puisque tu le veux, puisque c’est toi qui viens",
+        "Me faire souvenir, c’est bon, je me souviens !",
+        "Mon amour fait pencher la balance incertaine",
+        "Et tombe tout entier du côté de ma haine.",
+        "Oui, je suis de ta suite, et c’est toi qui l’as dit !",
+        "Va, jamais courtisan de ton lever maudit,",
+        "Jamais seigneur baisant ton ombre, ou majordome",
+        "Ayant à te servir abjuré son cœur d’homme,",
+        "Jamais chiens de palais dressés à suivre un roi",
+        "Ne seront sur tes pas plus assidus que moi !",
+        "Ce qu’ils veulent de toi, tous ces grands de Castille,",
+        "C’est quelque titre creux, quelque hochet qui brille,",
+        "C’est quelque mouton d’or qu’on se va pendre au cou ;",
+        "Moi, pour vouloir si peu je ne suis pas si fou !",
+        "Ce que je veux de toi, ce n’est point faveurs vaines,",
+        "C’est l’âme de ton corps, c’est le sang de tes veines,",
+        "C’est tout ce qu’un poignard, furieux et vainqueur,",
+        "En y fouillant longtemps peut prendre au fond d’un cœur.",
+        "Va devant ! je te suis. Ma vengeance qui veille"
+      ]
+    },
+    {
+      "id": "p00301",
+      "page": 0,
+      "kind": "verse",
+      "lines": [
+        "Avec moi toujours marche et me parle à l’oreille.",
+        "Va ! je suis là, j’épie et j’écoute, et sans bruit",
+        "Mon pas cherche ton pas et le presse et le suit.",
+        "Le jour tu ne pourras, ô roi, tourner la tête",
+        "Sans me voir immobile et sombre dans ta fête ;",
+        "La nuit tu ne pourras tourner les yeux, ô roi,",
+        "Sans voir mes yeux ardents luire derrière toi !"
+      ]
+    },
+    {
+      "id": "p00302",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il sort par la petite porte."
+      ]
+    },
+    {
+      "id": "p00303",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "ACTE CINQUIÈME",
+        "LA NOCE"
+      ]
+    },
+    {
+      "id": "p00304",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "SARAGOSSE"
+      ]
+    },
+    {
+      "id": "p00305",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Une terrasse du palais d’Aragon. Au fond, la rampe d’un escalier qui s’enfonce dans le jardin. À droite et à gauche, deux portes donnant sur une terrasse, que ferme une balustrade surmontée de deux rangs d’arcades moresques, au-dessus et au travers desquelles on voit les jardins du palais, les jets d’eau dans l’ombre, les bosquets avec les lumières qui s’y promènent, et au fond les faîtes gothiques et arabes du palais illuminé. Il est nuit. On entend des fanfares éloignées. Des masques, des dominos, épars, isolés ou groupés, traversent çà et là la terrasse. Sur le devant, un groupe de jeunes seigneurs, les masques à la main, riant et causant à grand bruit."
+      ]
+    },
+    {
+      "id": "p00306",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène Première"
+      ]
+    },
+    {
+      "id": "p00307",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DON SANCHO SANCHEZ DE ZUNIGA, comte de Monterey, DON MATIAS CENTURION, marquis d’Almuñan, DON RICARDO DE ROXA, comte de Casapalma, DON FRANCISCO DE SOTOMAYOR, comte de Velalcazar, DON GARCI SUAREZ DE CARBAJAL, comte de Peñalver."
+      ]
+    },
+    {
+      "id": "p00308",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Ma foi, vive la joie et vive l’épousée !"
+      ]
+    },
+    {
+      "id": "p00309",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", regardant au balcon."
+      ]
+    },
+    {
+      "id": "p00310",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Saragosse ce soir se met à la croisée."
+      ]
+    },
+    {
+      "id": "p00311",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Et fait bien ! on ne vit jamais noce aux flambeaux",
+        "Plus gaie, et nuit plus douce, et mariés plus beaux !"
+      ]
+    },
+    {
+      "id": "p00312",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Bon empereur !"
+      ]
+    },
+    {
+      "id": "p00313",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Marquis, certain soir qu’à la brune",
+        "Nous allions avec lui tous deux cherchant fortune,",
+        "Qui nous eût dit qu’un jour tout finirait ainsi ?"
+      ]
+    },
+    {
+      "id": "p00314",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", l’interrompant."
+      ]
+    },
+    {
+      "id": "p00315",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "J’en étais.",
+        "Aux autres.",
+        "Écoutez l’histoire que voici.",
+        "Trois galants, un bandit que l’échafaud réclame,",
+        "Puis un duc, puis un roi, d’un même cœur de femme",
+        "Font le siège à la fois. L’assaut donné, qui l’a ?",
+        "C’est le bandit."
+      ]
+    },
+    {
+      "id": "p00316",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Mais rien que de simple en cela.",
+        "L’amour et la fortune, ailleurs comme en Espagne,",
+        "Sont jeux de dés pipés. C’est le voleur qui gagne !"
+      ]
+    },
+    {
+      "id": "p00317",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Moi, j’ai fait ma fortune à voir faire l’amour.",
+        "D’abord comte, puis grand, puis alcade de cour,",
+        "J’ai fort bien employé mon temps, sans qu’on s’en doute."
+      ]
+    },
+    {
+      "id": "p00318",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Le secret de monsieur, c’est d’être sur la route",
+        "Du roi…"
+      ]
+    },
+    {
+      "id": "p00319",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Faisant valoir mes droits, mes actions."
+      ]
+    },
+    {
+      "id": "p00320",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Vous avez profité de ses distractions."
+      ]
+    },
+    {
+      "id": "p00321",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Que devient le vieux duc ? Fait-il clouer sa bière ?"
+      ]
+    },
+    {
+      "id": "p00322",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Marquis, ne riez pas ! car c’est une âme fière.",
+        "Il aimait doña Sol, ce vieillard. Soixante ans",
+        "Ont fait ses cheveux gris, un jour les a faits blancs."
+      ]
+    },
+    {
+      "id": "p00323",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Il n’a pas reparu, dit-on, à Saragosse."
+      ]
+    },
+    {
+      "id": "p00324",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Vouliez-vous pas qu’il mît son cercueil de la noce ?"
+      ]
+    },
+    {
+      "id": "p00325",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Et que fait l’empereur ?"
+      ]
+    },
+    {
+      "id": "p00326",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "L’empereur aujourd’hui",
+        "Est triste. Le Luther lui donne de l’ennui."
+      ]
+    },
+    {
+      "id": "p00327",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Ce Luther, beau sujet de soucis et d’alarmes !",
+        "Que j’en finirais vite avec quatre gendarmes !"
+      ]
+    },
+    {
+      "id": "p00328",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Le Soliman aussi lui fait ombre."
+      ]
+    },
+    {
+      "id": "p00329",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Ah ! Luther,",
+        "Soliman, Neptunus, le diable et Jupiter,",
+        "Que me font ces gens là ? Les femmes sont jolies,",
+        "La mascarade est rare, et j’ai dit cent folies !"
+      ]
+    },
+    {
+      "id": "p00330",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Voilà l’essentiel."
+      ]
+    },
+    {
+      "id": "p00331",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Garci n’a point tort. Moi,",
+        "Je ne suis plus le même un jour de fête, et croi",
+        "Qu’un masque que je mets me fait une autre tête,",
+        "En vérité !"
+      ]
+    },
+    {
+      "id": "p00332",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à Matias."
+      ]
+    },
+    {
+      "id": "p00333",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Que n’est-ce alors tous les jours fête ?"
+      ]
+    },
+    {
+      "id": "p00334",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant la porte à droite."
+      ]
+    },
+    {
+      "id": "p00335",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Messeigneurs, n’est-ce pas la chambre des époux ?"
+      ]
+    },
+    {
+      "id": "p00336",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", avec un signe de tête."
+      ]
+    },
+    {
+      "id": "p00337",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Nous les verrons venir dans l’instant."
+      ]
+    },
+    {
+      "id": "p00338",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Croyez-vous ?"
+      ]
+    },
+    {
+      "id": "p00339",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Hé ! sans doute !"
+      ]
+    },
+    {
+      "id": "p00340",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Tant mieux. L’épousée est si belle !"
+      ]
+    },
+    {
+      "id": "p00341",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Que l’empereur est bon ! Hernani, ce rebelle",
+        "Avoir la toison d’or ! marié ! pardonné !",
+        "Loin de là, s’il m’eût cru, l’empereur eût donné",
+        "Lit de pierre au galant, lit de plume à la dame."
+      ]
+    },
+    {
+      "id": "p00342",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à don Matias."
+      ]
+    },
+    {
+      "id": "p00343",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Que je le crèverais volontiers de ma lame,",
+        "Faux seigneur de clinquant recousu de gros fil !",
+        "Pourpoint de comte, empli de conseils d’alguazil !"
+      ]
+    },
+    {
+      "id": "p00344",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’approchant."
+      ]
+    },
+    {
+      "id": "p00345",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Que dites-vous là ?"
+      ]
+    },
+    {
+      "id": "p00346",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à don Sancho."
+      ]
+    },
+    {
+      "id": "p00347",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Comte, ici pas de querelle !",
+        "À don Ricardo.",
+        "Il me chante un sonnet de Pétrarque à sa belle."
+      ]
+    },
+    {
+      "id": "p00348",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Avez-vous remarqué, messieurs, parmi les fleurs,",
+        "Les femmes, les habits de toutes les couleurs,",
+        "Ce spectre, qui, debout contre une balustrade,",
+        "De son domino noir tachait la mascarade ?"
+      ]
+    },
+    {
+      "id": "p00349",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Oui, pardieu !"
+      ]
+    },
+    {
+      "id": "p00350",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Qu’est-ce donc ?"
+      ]
+    },
+    {
+      "id": "p00351",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Mais, sa taille, son air…",
+        "C’est don Prancasio, général de la mer."
+      ]
+    },
+    {
+      "id": "p00352",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00353",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Il n’a pas quitté son masque."
+      ]
+    },
+    {
+      "id": "p00354",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Il n’avait garde.",
+        "C’est le duc de Soma qui veut qu’on le regarde.",
+        "Rien de plus."
+      ]
+    },
+    {
+      "id": "p00355",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Non. Le duc m’a parlé."
+      ]
+    },
+    {
+      "id": "p00356",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Qu’est-ce alors",
+        "Que ce masque ? — Tenez, le voilà."
+      ]
+    },
+    {
+      "id": "p00357",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Entre un domino noir qui traverse lentement la terrasse au fond. Tous se retournent et le suivent des yeux, sans qu’il paraisse y prendre garde."
+      ]
+    },
+    {
+      "id": "p00358",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Si les morts",
+        "Marchent, voici leur pas."
+      ]
+    },
+    {
+      "id": "p00359",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", courant au domino noir."
+      ]
+    },
+    {
+      "id": "p00360",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Beau masque !…"
+      ]
+    },
+    {
+      "id": "p00361",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Le domino noir se retourne et s’arrête. Garci recule."
+      ]
+    },
+    {
+      "id": "p00362",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Sur mon âme,"
+      ]
+    },
+    {
+      "id": "p00363",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Messeigneurs, dans ses yeux j’ai vu luire une flamme !"
+      ]
+    },
+    {
+      "id": "p00364",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Si c’est le diable, il trouve à qui parler."
+      ]
+    },
+    {
+      "id": "p00365",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il va au domino noir, toujours immobile."
+      ]
+    },
+    {
+      "id": "p00366",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Mauvais !"
+      ]
+    },
+    {
+      "id": "p00367",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Nous viens-tu de l’enfer ?"
+      ]
+    },
+    {
+      "id": "p00368",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Je n’en viens pas, j’y vais."
+      ]
+    },
+    {
+      "id": "p00369",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il reprend sa marche et disparaît par la rampe de l’escalier.",
+        "Tous le suivent des yeux avec une sorte d’effroi."
+      ]
+    },
+    {
+      "id": "p00370",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "La voix est sépulcrale autant qu’on le peut dire."
+      ]
+    },
+    {
+      "id": "p00371",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Baste ! ce qui fait peur ailleurs, au bal fait rire."
+      ]
+    },
+    {
+      "id": "p00372",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Quelque mauvais plaisant !"
+      ]
+    },
+    {
+      "id": "p00373",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Ou si c’est Lucifer",
+        "Qui vient nous voir danser, en attendant l’enfer,",
+        "Dansons !"
+      ]
+    },
+    {
+      "id": "p00374",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "C’est à coup sûr quelque bouffonnerie."
+      ]
+    },
+    {
+      "id": "p00375",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Nous le saurons demain."
+      ]
+    },
+    {
+      "id": "p00376",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don Matias."
+      ]
+    },
+    {
+      "id": "p00377",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Regardez, je vous prie.",
+        "Que devient-il ?"
+      ]
+    },
+    {
+      "id": "p00378",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à la balustrade de la terrasse."
+      ]
+    },
+    {
+      "id": "p00379",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Il a descendu l’escalier.",
+        "Plus rien."
+      ]
+    },
+    {
+      "id": "p00380",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "C’est un plaisant drôle !",
+        "Rêvant.",
+        "C’est singulier."
+      ]
+    },
+    {
+      "id": "p00381",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à une dame qui passe."
+      ]
+    },
+    {
+      "id": "p00382",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Marquise, dansons-nous celle-ci ?"
+      ]
+    },
+    {
+      "id": "p00383",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il la salue et lui présente la main."
+      ]
+    },
+    {
+      "id": "p00384",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA DAME",
+      "lines": [
+        "Mon cher comte,",
+        "Vous savez, avec vous, que mon mari les compte."
+      ]
+    },
+    {
+      "id": "p00385",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON GARCI",
+      "lines": [
+        "Raison de plus. Cela l’amuse apparemment.",
+        "C’est son plaisir. Il compte, et nous dansons."
+      ]
+    },
+    {
+      "id": "p00386",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "La dame lui donne la main, et ils sortent."
+      ]
+    },
+    {
+      "id": "p00387",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", pensif."
+      ]
+    },
+    {
+      "id": "p00388",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Vraiment,",
+        "C’est singulier !"
+      ]
+    },
+    {
+      "id": "p00389",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Voici les mariés. Silence !"
+      ]
+    },
+    {
+      "id": "p00390",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "Entrent Hernani et doña Sol se donnant la main. Doña Sol en magnifique habit de mariée ; Hernani tout en velours noir, avec la toison d’or au cou. Derrière eux foule de masques, de dames et de seigneurs qui leur font cortège. Deux hallebardiers en riche livrée les suivent, et quatre pages les précèdent. Tout le monde se range et l’on s’incline sur leur passage. Fanfare."
+      ]
+    },
+    {
+      "id": "p00391",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00392",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Les Mêmes, HERNANI, DOÑA SOL, suite."
+      ]
+    },
+    {
+      "id": "p00393",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", saluant."
+      ]
+    },
+    {
+      "id": "p00394",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Chers amis !"
+      ]
+    },
+    {
+      "id": "p00395",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", allant à lui et s’inclinant."
+      ]
+    },
+    {
+      "id": "p00396",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RICARDO",
+      "lines": [
+        "Ton bonheur fait le nôtre, excellence !"
+      ]
+    },
+    {
+      "id": "p00397",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", contemplant doña Sol."
+      ]
+    },
+    {
+      "id": "p00398",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Saint Jacques, monseigneur ! C’est Vénus qu’il conduit !"
+      ]
+    },
+    {
+      "id": "p00399",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON MATIAS",
+      "lines": [
+        "D’honneur, on est heureux un pareil jour la nuit !"
+      ]
+    },
+    {
+      "id": "p00400",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant à don Mathias la chambre nuptiale."
+      ]
+    },
+    {
+      "id": "p00401",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON FRANCISCO",
+      "lines": [
+        "Qu’il va se passer là de gracieuses choses !",
+        "Être fée, et tout voir, feux éteints, portes closes,",
+        "Serait-ce charmant ?"
+      ]
+    },
+    {
+      "id": "p00402",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don Matias."
+      ]
+    },
+    {
+      "id": "p00403",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Il est tard. Partons-nous ?"
+      ]
+    },
+    {
+      "id": "p00404",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Tous vont saluer les mariés et sortent, les uns par la porte, les autres par l’escalier du fond."
+      ]
+    },
+    {
+      "id": "p00405",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", les reconduisant."
+      ]
+    },
+    {
+      "id": "p00406",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Dieu vous garde !"
+      ]
+    },
+    {
+      "id": "p00407",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", resté le dernier, lui serre la main."
+      ]
+    },
+    {
+      "id": "p00408",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Soyez heureux !"
+      ]
+    },
+    {
+      "id": "p00409",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il sort."
+      ]
+    },
+    {
+      "id": "p00410",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DON SANCHO",
+      "lines": [
+        "Hernani et Doña sol restent seuls. Bruit de pas et de voix qui s’éloignent, puis cessent tout à fait. Pendant tout le commencement de la scène qui suit, les fanfares et les lumières éloignées s’éteignent par degrés. La nuit et le silence reviennent peu à peu."
+      ]
+    },
+    {
+      "id": "p00411",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène III"
+      ]
+    },
+    {
+      "id": "p00412",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "HERNANI, DOÑA SOL."
+      ]
+    },
+    {
+      "id": "p00413",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ils s’en vont tous,",
+        "Enfin !"
+      ]
+    },
+    {
+      "id": "p00414",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", cherchant à l’attirer dans ses bras."
+      ]
+    },
+    {
+      "id": "p00415",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Cher amour !"
+      ]
+    },
+    {
+      "id": "p00416",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", rougissant et reculant."
+      ]
+    },
+    {
+      "id": "p00417",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "C’est… qu’il est tard, ce me semble."
+      ]
+    },
+    {
+      "id": "p00418",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ange ! il est toujours tard pour être seuls ensemble."
+      ]
+    },
+    {
+      "id": "p00419",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ce bruit me fatiguait. N’est-ce pas, cher seigneur,",
+        "Que toute cette joie étourdit le bonheur ?"
+      ]
+    },
+    {
+      "id": "p00420",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Tu dis vrai. Le bonheur, amie, est chose grave.",
+        "Il veut des cœurs de bronze et lentement s’y grave.",
+        "Le plaisir l’effarouche en lui jetant des fleurs.",
+        "Son sourire est moins près du rire que des pleurs."
+      ]
+    },
+    {
+      "id": "p00421",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Dans vos yeux, ce sourire est le jour."
+      ]
+    },
+    {
+      "id": "p00422",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Hernani cherche à l’entraîner vers la porte. Elle rougit."
+      ]
+    },
+    {
+      "id": "p00423",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Tout à l’heure."
+      ]
+    },
+    {
+      "id": "p00424",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Oh ! je suis ton esclave ! Oui, demeure, demeure !",
+        "Fais ce que tu voudras. Je ne demande rien.",
+        "Tu sais ce que tu fais ! ce que tu fais est bien !",
+        "Je rirai si tu veux, je chanterai. Mon âme",
+        "Brûle. Eh ! dis au volcan qu’il étouffe sa flamme,",
+        "Le volcan fermera ses gouffres entr’ouverts,",
+        "Et n’aura sur ses flancs que fleurs et gazons verts.",
+        "Car le géant est pris, le Vésuve est esclave,",
+        "Et que t’importe à toi son cœur rongé de lave ?",
+        "Tu veux des fleurs ? c’est bien ! Il faut que de son mieux",
+        "Le volcan tout brûlé s’épanouisse aux yeux !"
+      ]
+    },
+    {
+      "id": "p00425",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Oh ! que vous êtes bon pour une pauvre femme,",
+        "Hernani de mon cœur !"
+      ]
+    },
+    {
+      "id": "p00426",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Quel est ce nom, madame ?",
+        "Ah ! ne me nomme plus de ce nom, par pitié !",
+        "Tu me fais souvenir que j’ai tout oublié !",
+        "Je sais qu’il existait autrefois, dans un rêve,",
+        "Un Hernani dont l’œil avait l’éclair du glaive,",
+        "Un homme de la nuit et des monts, un proscrit,",
+        "Sur qui le mot vengeance était partout écrit,",
+        "Un malheureux traînant après lui l’anathème !",
+        "Mais je ne connais pas ce Hernani. — Moi, j’aime",
+        "Les prés, les fleurs, les bois, le chant du rossignol.",
+        "Je suis Jean d’Aragon, mari de doña Sol !",
+        "Je suis heureux !"
+      ]
+    },
+    {
+      "id": "p00427",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je suis heureuse !"
+      ]
+    },
+    {
+      "id": "p00428",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Que m’importe",
+        "Les haillons qu’en entrant j’ai laissés à la porte ?"
+      ]
+    },
+    {
+      "id": "p00429",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Voici que je reviens à mon palais en deuil.",
+        "Un ange du Seigneur m’attendait sur le seuil.",
+        "J’entre, et remets debout les colonnes brisées,",
+        "Je rallume les feux, je rouvre les croisées,",
+        "Je fais arracher l’herbe au pavé de la cour,",
+        "Je ne suis plus que joie, enchantement, amour.",
+        "Qu’on me rende mes tours, mes donjons, mes bastilles,",
+        "Mon panache, mon siège au conseil des Castilles,",
+        "Vienne ma doña Sol rouge et le front baissé,",
+        "Qu’on nous laisse tous deux, et le reste est passé !",
+        "Je n’ai rien vu, rien dit, rien fait. Je recommence,",
+        "J’efface tout, j’oublie ! Ou sagesse ou démence,",
+        "Je vous ai, je vous aime, et vous êtes mon bien !"
+      ]
+    },
+    {
+      "id": "p00430",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", examinant sa toison d’or."
+      ]
+    },
+    {
+      "id": "p00431",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Que sur ce velours noir ce collier d’or fait bien !"
+      ]
+    },
+    {
+      "id": "p00432",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Vous vîtes avant moi le roi mis de la sorte."
+      ]
+    },
+    {
+      "id": "p00433",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je n’ai pas remarqué. Tout autre, que m’importe ?",
+        "Puis, est-ce le velours ou le satin encor ?",
+        "Non, mon duc, c’est ton cou qui sied au collier d’or.",
+        "Vous êtes noble et fier, monseigneur."
+      ]
+    },
+    {
+      "id": "p00434",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il veut l’entraîner."
+      ]
+    },
+    {
+      "id": "p00435",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Tout à l’heure !"
+      ]
+    },
+    {
+      "id": "p00436",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Un moment ! — Vois-tu bien, c’est la joie ! et je pleure !",
+        "Viens voir la belle nuit."
+      ]
+    },
+    {
+      "id": "p00437",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Elle va à la balustrade."
+      ]
+    },
+    {
+      "id": "p00438",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Mon duc, rien qu’un moment !"
+      ]
+    },
+    {
+      "id": "p00439",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Le temps de respirer et de voir seulement.",
+        "Tout s’est éteint, flambeaux et musique de fête.",
+        "Rien que la nuit et nous. Félicité parfaite !",
+        "Dis, ne le crois-tu pas ? sur nous, tout en dormant,",
+        "La nature à demi veille amoureusement.",
+        "Pas un nuage au ciel. Tout, comme nous, repose."
+      ]
+    },
+    {
+      "id": "p00440",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Viens, respire avec moi l’air embaumé de rose !",
+        "Regarde. Plus de feux, plus de bruit. Tout se tait.",
+        "La lune tout à l’heure à l’horizon montait",
+        "Tandis que tu parlais, sa lumière qui tremble",
+        "Et ta voix, toutes deux m’allaient au cœur ensemble,",
+        "Je me sentais joyeuse et calme, ô mon amant,",
+        "Et j’aurais bien voulu mourir en ce moment !"
+      ]
+    },
+    {
+      "id": "p00441",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! qui n’oublierait tout à cette voix céleste ?",
+        "Ta parole est un chant où rien d’humain ne reste.",
+        "Et, comme un voyageur, sur un fleuve emporté,",
+        "Qui glisse sur les eaux par un beau soir d’été",
+        "Et voit fuir sous ses yeux mille plaines fleuries,",
+        "Ma pensée entraînée erre en tes rêveries !"
+      ]
+    },
+    {
+      "id": "p00442",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ce silence est trop noir, ce calme est trop profond.",
+        "Dis, ne voudrais-tu point voir une étoile au fond ?",
+        "Ou qu’une voix des nuits, tendre et délicieuse,",
+        "S’élevant tout à coup, chantât ?…"
+      ]
+    },
+    {
+      "id": "p00443",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", souriant."
+      ]
+    },
+    {
+      "id": "p00444",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Capricieuse !",
+        "Tout à l’heure on fuyait la lumière et les chants !"
+      ]
+    },
+    {
+      "id": "p00445",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Le bal ! mais un oiseau qui chanterait aux champs !",
+        "Un rossignol perdu dans l’ombre et dans la mousse,",
+        "Ou quelque flûte au loin !… Car la musique est douce,",
+        "Fait l’âme harmonieuse, et, comme un divin chœur,",
+        "Éveille mille voix qui chantent dans le cœur !",
+        "Ah ! Ce serait charmant !"
+      ]
+    },
+    {
+      "id": "p00446",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "On entend le bruit lointain d’un cor dans l’ombre."
+      ]
+    },
+    {
+      "id": "p00447",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Dieu ! Je suis exaucée !"
+      ]
+    },
+    {
+      "id": "p00448",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tressaillant, à part."
+      ]
+    },
+    {
+      "id": "p00449",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! malheureuse !"
+      ]
+    },
+    {
+      "id": "p00450",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Un ange a compris ma pensée, —",
+        "Ton bon ange, sans doute !"
+      ]
+    },
+    {
+      "id": "p00451",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", amèrement."
+      ]
+    },
+    {
+      "id": "p00452",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Oui, mon bon ange !"
+      ]
+    },
+    {
+      "id": "p00453",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Le cor recommence. — À part."
+      ]
+    },
+    {
+      "id": "p00454",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Encor !"
+      ]
+    },
+    {
+      "id": "p00455",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", souriant."
+      ]
+    },
+    {
+      "id": "p00456",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Don Juan, je reconnais le son de votre cor !"
+      ]
+    },
+    {
+      "id": "p00457",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "N’est-ce pas ?"
+      ]
+    },
+    {
+      "id": "p00458",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Seriez-vous dans cette sérénade",
+        "De moitié ?"
+      ]
+    },
+    {
+      "id": "p00459",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "De moitié, tu l’as dit."
+      ]
+    },
+    {
+      "id": "p00460",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Bal maussade !",
+        "Oh ! que j’aime bien mieux le cor au fond des bois !",
+        "Et puis, c’est votre cor, c’est comme votre voix."
+      ]
+    },
+    {
+      "id": "p00461",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Le cor recommence."
+      ]
+    },
+    {
+      "id": "p00462",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00463",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! le tigre est en bas qui hurle, et veut sa proie !"
+      ]
+    },
+    {
+      "id": "p00464",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Don Juan, cette harmonie emplit le cœur de joie."
+      ]
+    },
+    {
+      "id": "p00465",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se levant terrible."
+      ]
+    },
+    {
+      "id": "p00466",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Nommez-moi Hernani ! nommez-moi Hernani !",
+        "Avec ce nom fatal je n’en ai pas fini !"
+      ]
+    },
+    {
+      "id": "p00467",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Qu’avez-vous ?"
+      ]
+    },
+    {
+      "id": "p00468",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le vieillard !"
+      ]
+    },
+    {
+      "id": "p00469",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Dieu ! quels regards funèbres !",
+        "Qu’avez-vous ?"
+      ]
+    },
+    {
+      "id": "p00470",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le vieillard, qui rit dans les ténèbres !",
+        "— Ne le voyez-vous pas ?"
+      ]
+    },
+    {
+      "id": "p00471",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Où vous égarez-vous ?",
+        "Qu’est-ce que ce vieillard ?"
+      ]
+    },
+    {
+      "id": "p00472",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le vieillard !"
+      ]
+    },
+    {
+      "id": "p00473",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tombant à genoux."
+      ]
+    },
+    {
+      "id": "p00474",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "À genoux",
+        "Je t’en supplie, oh ! dis, quel secret te déchire ?",
+        "Qu’as-tu ?"
+      ]
+    },
+    {
+      "id": "p00475",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Je l’ai juré !"
+      ]
+    },
+    {
+      "id": "p00476",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Juré ?"
+      ]
+    },
+    {
+      "id": "p00477",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle suit tous ses mouvements avec anxiété.",
+        "Il s’arrête tout à coup, et passe la main sur son front."
+      ]
+    },
+    {
+      "id": "p00478",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00479",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Qu’allais-je dire ?",
+        "Épargnons-la.",
+        "Haut.",
+        "Moi, rien. De quoi t’ai-je parlé ?"
+      ]
+    },
+    {
+      "id": "p00480",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Vous avez dit…"
+      ]
+    },
+    {
+      "id": "p00481",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Non. Non. J’avais l’esprit troublé…",
+        "Je souffre un peu, vois-tu. N’en prends pas d’épouvante."
+      ]
+    },
+    {
+      "id": "p00482",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Te faut-il quelque chose ? ordonne à ta servante."
+      ]
+    },
+    {
+      "id": "p00483",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Le cor recommence."
+      ]
+    },
+    {
+      "id": "p00484",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00485",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Il le veut ! il le veut ! Il a mon serment !"
+      ]
+    },
+    {
+      "id": "p00486",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Cherchant à sa ceinture sans épée et sans poignard."
+      ]
+    },
+    {
+      "id": "p00487",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "— Rien !"
+      ]
+    },
+    {
+      "id": "p00488",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ce devrait être fait ! — Ah !…"
+      ]
+    },
+    {
+      "id": "p00489",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Tu souffres donc bien ?"
+      ]
+    },
+    {
+      "id": "p00490",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Une blessure ancienne, et qui semblait fermée,",
+        "Se rouvre…",
+        "À part.",
+        "Éloignons-la."
+      ]
+    },
+    {
+      "id": "p00491",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Haut."
+      ]
+    },
+    {
+      "id": "p00492",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Doña Sol, bien aimée,"
+      ]
+    },
+    {
+      "id": "p00493",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Écoute. Ce coffret qu’en des jours — moins heureux —",
+        "Je portais avec moi…"
+      ]
+    },
+    {
+      "id": "p00494",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je sais ce que tu veux.",
+        "Eh bien, qu’en veux-tu faire ?"
+      ]
+    },
+    {
+      "id": "p00495",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Un flacon qu’il renferme"
+      ]
+    },
+    {
+      "id": "p00496",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Contient un élixir qui pourra mettre un terme",
+        "Au mal que je ressens. — Va !"
+      ]
+    },
+    {
+      "id": "p00497",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "J’y vais, mon seigneur."
+      ]
+    },
+    {
+      "id": "p00498",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle sort par la porte de la chambre nuptiale."
+      ]
+    },
+    {
+      "id": "p00499",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène IV"
+      ]
+    },
+    {
+      "id": "p00500",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "HERNANI, seul."
+      ]
+    },
+    {
+      "id": "p00501",
+      "page": 1,
+      "kind": "verse",
+      "lines": [
+        "Voilà donc ce qu’il vient faire de mon bonheur !",
+        "Voici le doigt fatal qui luit sur la muraille !",
+        "Oh ! Que la destinée amèrement me raille !"
+      ]
+    },
+    {
+      "id": "p00502",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il tombe dans une profonde et convulsive rêverie, puis se détourne brusquement."
+      ]
+    },
+    {
+      "id": "p00503",
+      "page": 1,
+      "kind": "verse",
+      "lines": [
+        "Hé bien ?… — Mais tout se tait. Je n’entends rien venir.",
+        "Si je m’étais trompé ?…"
+      ]
+    },
+    {
+      "id": "p00504",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Le masque en domino noir paraît au haut de la rampe.",
+        "Hernani s’arrête pétrifié."
+      ]
+    },
+    {
+      "id": "p00505",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène V"
+      ]
+    },
+    {
+      "id": "p00506",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "HERNANI, LE MASQUE"
+      ]
+    },
+    {
+      "id": "p00507",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "« Quoi qu’il puisse advenir,",
+        "« Quand tu voudras, vieillard, quel que soit le lieu, l’heure,",
+        "« S’il te passe à l’esprit qu’il est temps que je meure,",
+        "« Viens, sonne de ce cor, et ne prends d’autres soins.",
+        "« Tout sera fait. » — Ce pacte eut les morts pour témoins.",
+        "Eh bien, tout est-il fait ?"
+      ]
+    },
+    {
+      "id": "p00508",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à voix basse."
+      ]
+    },
+    {
+      "id": "p00509",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "C’est lui !"
+      ]
+    },
+    {
+      "id": "p00510",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Dans ta demeure",
+        "Je viens, et je te dis qu’il est temps. C’est mon heure.",
+        "Je te trouve en retard."
+      ]
+    },
+    {
+      "id": "p00511",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Bien. Quel est ton plaisir ?",
+        "Que feras-tu de moi ? Parle."
+      ]
+    },
+    {
+      "id": "p00512",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Tu peux choisir.",
+        "Du fer ou du poison. Ce qu’il faut, je l’apporte.",
+        "Nous partirons tous deux."
+      ]
+    },
+    {
+      "id": "p00513",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Soit."
+      ]
+    },
+    {
+      "id": "p00514",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Prions-nous ?"
+      ]
+    },
+    {
+      "id": "p00515",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Qu’importe ?"
+      ]
+    },
+    {
+      "id": "p00516",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Que prends-tu ?"
+      ]
+    },
+    {
+      "id": "p00517",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Le poison."
+      ]
+    },
+    {
+      "id": "p00518",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Bien ! — Donne-moi ta main."
+      ]
+    },
+    {
+      "id": "p00519",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il présente une fiole à Hernani, qui la reçoit en pâlissant."
+      ]
+    },
+    {
+      "id": "p00520",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Bois, — pour que je finisse."
+      ]
+    },
+    {
+      "id": "p00521",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Hernani approche la fiole de ses lèvres, puis recule."
+      ]
+    },
+    {
+      "id": "p00522",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Oh ! par pitié, demain ! —",
+        "Oh ! s’il te reste un cœur, duc, ou du moins une âme,",
+        "Si tu n’es pas un spectre échappé de la flamme,",
+        "Un mort damné, fantôme ou démon désormais,",
+        "Si Dieu n’a point encor mis sur ton front : jamais !",
+        "Si tu sais ce que c’est que ce bonheur suprême",
+        "D’aimer, d’avoir vingt ans, d’épouser quand on aime,",
+        "Si jamais femme aimée a tremblé dans tes bras,",
+        "Attends jusqu’à demain ! Demain tu reviendras !"
+      ]
+    },
+    {
+      "id": "p00523",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Simple qui parle ainsi ! Demain ! demain ! — Tu railles !",
+        "Ta cloche a ce matin sonné tes funérailles !",
+        "Et que ferais-je, moi, cette nuit ? J’en mourrais.",
+        "Et qui viendrait te prendre et t’emporter après ?",
+        "Seul descendre au tombeau ! Jeune homme, il faut me suivre !"
+      ]
+    },
+    {
+      "id": "p00524",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Eh bien, non ! et de toi, démon, je me délivre !",
+        "Je n’obéirai pas."
+      ]
+    },
+    {
+      "id": "p00525",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Je m’en doutais. Fort bien.",
+        "Sur quoi donc m’as-tu fait ce serment ? — Ah, sur rien.",
+        "Peu de chose après tout ! La tête de ton père !",
+        "Cela peut s’oublier. La jeunesse est légère."
+      ]
+    },
+    {
+      "id": "p00526",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Mon père ! Mon père !… — Ah ! j’en perdrai la raison !"
+      ]
+    },
+    {
+      "id": "p00527",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Non, ce n’est qu’un parjure et qu’une trahison."
+      ]
+    },
+    {
+      "id": "p00528",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Duc !"
+      ]
+    },
+    {
+      "id": "p00529",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Puisque les aînés des maisons espagnoles",
+        "Se font jeu maintenant de fausser leurs paroles,",
+        "Adieu !"
+      ]
+    },
+    {
+      "id": "p00530",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il fait un pas pour sortir."
+      ]
+    },
+    {
+      "id": "p00531",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ne t’en va pas."
+      ]
+    },
+    {
+      "id": "p00532",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MASQUE",
+      "lines": [
+        "Alors…"
+      ]
+    },
+    {
+      "id": "p00533",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Vieillard cruel !"
+      ]
+    },
+    {
+      "id": "p00534",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il prend la fiole."
+      ]
+    },
+    {
+      "id": "p00535",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Revenir sur mes pas à la porte du ciel !"
+      ]
+    },
+    {
+      "id": "p00536",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Rentre doña Sol, sans voir le masque, qui est debout, au fond."
+      ]
+    },
+    {
+      "id": "p00537",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène VI."
+      ]
+    },
+    {
+      "id": "p00538",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Les Mêmes, DOÑA SOL."
+      ]
+    },
+    {
+      "id": "p00539",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je n’ai pu le trouver, ce coffret."
+      ]
+    },
+    {
+      "id": "p00540",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part"
+      ]
+    },
+    {
+      "id": "p00541",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Dieu ! c’est elle !",
+        "Dans quel moment !"
+      ]
+    },
+    {
+      "id": "p00542",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Qu’a-t-il ? je l’effraie, il chancelle",
+        "À ma voix ! — Que tiens-tu dans ta main ? quel soupçon !",
+        "Que tiens-tu dans ta main ? réponds."
+      ]
+    },
+    {
+      "id": "p00543",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Le domino s’est approché et se démasque. Elle pousse un cri, et reconnaît don Ruy."
+      ]
+    },
+    {
+      "id": "p00544",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "C’est du poison !"
+      ]
+    },
+    {
+      "id": "p00545",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Grand Dieu !"
+      ]
+    },
+    {
+      "id": "p00546",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Hernani"
+      ]
+    },
+    {
+      "id": "p00547",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Que t’ai-je fait ? Quel horrible mystère !",
+        "Vous me trompiez, don Juan !"
+      ]
+    },
+    {
+      "id": "p00548",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! j’ai dû te le taire.",
+        "J’ai promis de mourir au duc qui me sauva.",
+        "Aragon doit payer cette dette à Silva."
+      ]
+    },
+    {
+      "id": "p00549",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Vous n’êtes pas à lui, mais à moi. Que m’importe"
+      ]
+    },
+    {
+      "id": "p00550",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Tous vos autres serments ?",
+        "À don Ruy Gomez.",
+        "Duc, l’amour me rend forte.",
+        "Contre vous, contre tous, duc, je le défendrai."
+      ]
+    },
+    {
+      "id": "p00551",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", immobile."
+      ]
+    },
+    {
+      "id": "p00552",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Défends-le, si tu peux, contre un serment juré."
+      ]
+    },
+    {
+      "id": "p00553",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Quel serment ?"
+      ]
+    },
+    {
+      "id": "p00554",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "J’ai juré."
+      ]
+    },
+    {
+      "id": "p00555",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Non, non, rien ne te lie !",
+        "Cela ne se peut pas ! Crime ! attentat ! folie !"
+      ]
+    },
+    {
+      "id": "p00556",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Allons, duc !"
+      ]
+    },
+    {
+      "id": "p00557",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Hernani fait un geste pour obéir. Doña Sol cherche à l’entraîner."
+      ]
+    },
+    {
+      "id": "p00558",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Laissez-moi, doña Sol, il le faut.",
+        "Le duc a ma parole, et mon père est là-haut !"
+      ]
+    },
+    {
+      "id": "p00559",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don Ruy Gomez."
+      ]
+    },
+    {
+      "id": "p00560",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Il vaudrait mieux pour vous aller aux tigres même",
+        "Arracher leurs petits qu’à moi celui que j’aime !",
+        "Savez-vous ce que c’est que doña Sol ? Longtemps,",
+        "Par pitié pour votre âge et pour vos soixante ans,",
+        "J’ai fait la fille douce, innocente et timide,",
+        "Mais voyez-vous cet œil de pleurs de rage humide ?"
+      ]
+    },
+    {
+      "id": "p00561",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Elle tire un poignard de son sein."
+      ]
+    },
+    {
+      "id": "p00562",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Voyez-vous ce poignard ? — Ah ! vieillard insensé,"
+      ]
+    },
+    {
+      "id": "p00563",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Craignez-vous pas le fer quand l’œil a menacé ?",
+        "Prenez garde, don Ruy ! — Je suis de la famille,",
+        "Mon oncle ! Écoutez-moi. Fussé-je votre fille,"
+      ]
+    },
+    {
+      "id": "p00564",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Malheur si vous portez la main sur mon époux !"
+      ]
+    },
+    {
+      "id": "p00565",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle jette le poignard, et tombe à genoux devant le duc."
+      ]
+    },
+    {
+      "id": "p00566",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ah ! je tombe à vos pieds ! Ayez pitié de nous !"
+      ]
+    },
+    {
+      "id": "p00567",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Grâce ! Hélas ! monseigneur, je ne suis qu’une femme,",
+        "Je suis faible, ma force avorte dans mon âme,",
+        "Je me brise aisément. Je tombe à vos genoux !",
+        "Ah ! je vous en supplie, ayez pitié de nous !"
+      ]
+    },
+    {
+      "id": "p00568",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Doña Sol !"
+      ]
+    },
+    {
+      "id": "p00569",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Pardonnez ! Nous autres espagnoles,",
+        "Notre douleur s’emporte à de vives paroles,",
+        "Vous le savez. Hélas ! vous n’étiez pas méchant !",
+        "Pitié ! vous me tuez, mon oncle, en le touchant !",
+        "Pitié ; je l’aime tant !"
+      ]
+    },
+    {
+      "id": "p00570",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", sombre."
+      ]
+    },
+    {
+      "id": "p00571",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Vous l’aimez trop !"
+      ]
+    },
+    {
+      "id": "p00572",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Tu pleures !"
+      ]
+    },
+    {
+      "id": "p00573",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Non, non, je ne veux pas, mon amour, que tu meures !",
+        "Non, je ne le veux pas."
+      ]
+    },
+    {
+      "id": "p00574",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "À don Ruy."
+      ]
+    },
+    {
+      "id": "p00575",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Faites grâce aujourd’hui !"
+      ]
+    },
+    {
+      "id": "p00576",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je vous aimerai bien aussi, vous."
+      ]
+    },
+    {
+      "id": "p00577",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Après lui !",
+        "De ces restes d’amour, d’amitié, — moins encore,",
+        "Croyez-vous apaiser la soif qui me dévore ?",
+        "Montrant Hernani.",
+        "Il est seul ! il est tout ! Mais moi, belle pitié !",
+        "Qu’est-ce que je peux faire avec votre amitié ?"
+      ]
+    },
+    {
+      "id": "p00578",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Ô rage ! il aurait, lui, le cœur, l’amour, le trône,",
+        "Et d’un regard de vous il me ferait l’aumône !",
+        "Et s’il fallait un mot à mes vœux insensés,",
+        "C’est lui qui vous dirait : — Dis cela, c’est assez ! —",
+        "En maudissant tout bas le mendiant avide",
+        "Auquel il faut jeter le fond du verre vide !",
+        "Honte ! dérision ! Non. Il faut en finir,",
+        "Bois !"
+      ]
+    },
+    {
+      "id": "p00579",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Il a ma parole, et je dois la tenir."
+      ]
+    },
+    {
+      "id": "p00580",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Allons !"
+      ]
+    },
+    {
+      "id": "p00581",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Hernani approche la fiole de ses lèvres. Doña Sol se jette sur son bras."
+      ]
+    },
+    {
+      "id": "p00582",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Oh ! pas encor ! Daignez tous deux m’entendre."
+      ]
+    },
+    {
+      "id": "p00583",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Le sépulcre est ouvert, et je ne puis attendre."
+      ]
+    },
+    {
+      "id": "p00584",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Un instant ! — Mon seigneur ! Mon don Juan ! — Ah ! tous deux,",
+        "Vous êtes bien cruels ! Qu’est-ce que je veux d’eux ?",
+        "Un instant ! voilà tout, tout ce que je réclame ! —",
+        "Enfin, on laisse dire à cette pauvre femme",
+        "Ce qu’elle a dans le cœur !… — Oh ! laissez-moi parler !"
+      ]
+    },
+    {
+      "id": "p00585",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Hernani."
+      ]
+    },
+    {
+      "id": "p00586",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "J’ai hâte."
+      ]
+    },
+    {
+      "id": "p00587",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Messeigneurs, vous me faites trembler !",
+        "Que vous ai-je donc fait ?"
+      ]
+    },
+    {
+      "id": "p00588",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! son cri me déchire."
+      ]
+    },
+    {
+      "id": "p00589",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui retenant toujours le bras."
+      ]
+    },
+    {
+      "id": "p00590",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Vous voyez bien que j’ai mille choses à dire !"
+      ]
+    },
+    {
+      "id": "p00591",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Hernani."
+      ]
+    },
+    {
+      "id": "p00592",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Il faut mourir."
+      ]
+    },
+    {
+      "id": "p00593",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", toujours pendue au bras d’Hernani."
+      ]
+    },
+    {
+      "id": "p00594",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Don Juan, lorsque j’aurai parlé,",
+        "Tout ce que tu voudras, tu le feras."
+      ]
+    },
+    {
+      "id": "p00595",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle lui arrache la fiole."
+      ]
+    },
+    {
+      "id": "p00596",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Je l’ai !"
+      ]
+    },
+    {
+      "id": "p00597",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle élève la fiole aux yeux d’Hernani et du vieillard étonné."
+      ]
+    },
+    {
+      "id": "p00598",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Puisque je n’ai céans affaire qu’à deux femmes,",
+        "Don Juan, il faut qu’ailleurs j’aille chercher des âmes.",
+        "Tu fais de beaux serments par le sang dont tu sors,",
+        "Et je vais à ton père en parler chez les morts !",
+        "— Adieu…"
+      ]
+    },
+    {
+      "id": "p00599",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il fait quelques pas pour sortir. Hernani le retient."
+      ]
+    },
+    {
+      "id": "p00600",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Duc, arrêtez !"
+      ]
+    },
+    {
+      "id": "p00601",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "À doña Sol."
+      ]
+    },
+    {
+      "id": "p00602",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Hélas ! je t’en conjure,"
+      ]
+    },
+    {
+      "id": "p00603",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Veux-tu me voir faussaire, et félon, et parjure ?",
+        "Veux-tu que partout j’aille avec la trahison",
+        "Écrite sur le front ? Par pitié, ce poison.",
+        "Rends-le-moi ! Par l’amour, par notre âme immortelle !…"
+      ]
+    },
+    {
+      "id": "p00604",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", sombre."
+      ]
+    },
+    {
+      "id": "p00605",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Tu veux ?",
+        "Elle boit.",
+        "Tiens, maintenant !"
+      ]
+    },
+    {
+      "id": "p00606",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00607",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Ah ! c’était donc pour elle ?"
+      ]
+    },
+    {
+      "id": "p00608",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tendant à Hernani la fiole à demi vidée."
+      ]
+    },
+    {
+      "id": "p00609",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Prends, te dis-je !"
+      ]
+    },
+    {
+      "id": "p00610",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Don Ruy."
+      ]
+    },
+    {
+      "id": "p00611",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Vois-tu, misérable vieillard ?"
+      ]
+    },
+    {
+      "id": "p00612",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ne te plains pas de moi, je t’ai gardé ta part."
+      ]
+    },
+    {
+      "id": "p00613",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", prenant la fiole."
+      ]
+    },
+    {
+      "id": "p00614",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Dieu !"
+      ]
+    },
+    {
+      "id": "p00615",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Tu ne m’aurais pas ainsi laissé la mienne,",
+        "Toi ! Tu n’as pas le cœur d’une épouse chrétienne.",
+        "Tu ne sais pas aimer comme aime une Silva.",
+        "Mais j’ai bu la première et suis tranquille. — Va !",
+        "Bois si tu veux !"
+      ]
+    },
+    {
+      "id": "p00616",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Hélas ! qu’as-tu fait, malheureuse ?"
+      ]
+    },
+    {
+      "id": "p00617",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "C’est toi qui l’as voulu."
+      ]
+    },
+    {
+      "id": "p00618",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "C’est une mort affreuse !"
+      ]
+    },
+    {
+      "id": "p00619",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Non. Pourquoi donc ?"
+      ]
+    },
+    {
+      "id": "p00620",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ce philtre au sépulcre conduit."
+      ]
+    },
+    {
+      "id": "p00621",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Devions-nous pas dormir ensemble cette nuit ?",
+        "Qu’importe dans quel lit ?"
+      ]
+    },
+    {
+      "id": "p00622",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Mon père, tu te venges"
+      ]
+    },
+    {
+      "id": "p00623",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Sur moi qui t’oubliais !"
+      ]
+    },
+    {
+      "id": "p00624",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il porte la fiole à sa bouche."
+      ]
+    },
+    {
+      "id": "p00625",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se jetant sur lui."
+      ]
+    },
+    {
+      "id": "p00626",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Ciel ! des douleurs étranges !…",
+        "Ah ! jette loin de toi ce philtre ! — Ma raison",
+        "S’égare. Arrête ! Hélas ! mon don Juan, ce poison",
+        "Est vivant ! ce poison dans le cœur fait éclore",
+        "Une hydre à mille dents qui ronge et qui dévore !",
+        "Oh ! je ne savais pas qu’on souffrît à ce point !",
+        "Qu’est-ce donc que cela ? c’est du feu ! Ne bois point !",
+        "Oh ! tu souffrirais trop !"
+      ]
+    },
+    {
+      "id": "p00627",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don Ruy."
+      ]
+    },
+    {
+      "id": "p00628",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah ! ton âme est cruelle !",
+        "Pouvais-tu pas choisir d’autre poison pour elle ?"
+      ]
+    },
+    {
+      "id": "p00629",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il boit et jette la fiole."
+      ]
+    },
+    {
+      "id": "p00630",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Que fais-tu ?"
+      ]
+    },
+    {
+      "id": "p00631",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Qu’as-tu fait ?"
+      ]
+    },
+    {
+      "id": "p00632",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Viens, ô mon jeune amant,",
+        "Dans mes bras."
+      ]
+    },
+    {
+      "id": "p00633",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ils s’asseyent l’un près de l’autre."
+      ]
+    },
+    {
+      "id": "p00634",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "N’est-ce pas qu’on souffre horriblement ?"
+      ]
+    },
+    {
+      "id": "p00635",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00636",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Voilà notre nuit de noce commencée !",
+        "Je suis bien pâle, dis, pour une fiancée ?"
+      ]
+    },
+    {
+      "id": "p00637",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Ah !"
+      ]
+    },
+    {
+      "id": "p00638",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "La fatalité s’accomplit."
+      ]
+    },
+    {
+      "id": "p00639",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Désespoir !",
+        "Ô tourment ! doña Sol souffrir, et moi le voir !"
+      ]
+    },
+    {
+      "id": "p00640",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Calme-toi. Je suis mieux. — Vers des clartés nouvelles",
+        "Nous allons tout à l’heure ensemble ouvrir nos ailes.",
+        "Partons d’un vol égal vers un monde meilleur.",
+        "Un baiser seulement, un baiser !"
+      ]
+    },
+    {
+      "id": "p00641",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Ils s’embrassent."
+      ]
+    },
+    {
+      "id": "p00642",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Ô douleur !"
+      ]
+    },
+    {
+      "id": "p00643",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", d’une voix affaiblie."
+      ]
+    },
+    {
+      "id": "p00644",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Oh ! béni soit le ciel qui m’a fait une vie",
+        "D’abîmes entourée et de spectres suivie,",
+        "Mais qui permet que, las d’un si rude chemin,",
+        "Je puisse m’endormir, ma bouche sur ta main !"
+      ]
+    },
+    {
+      "id": "p00645",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Qu’ils sont heureux !"
+      ]
+    },
+    {
+      "id": "p00646",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", d’une voix de plus en plus faible."
+      ]
+    },
+    {
+      "id": "p00647",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Viens, viens… doña Sol… tout est sombre…",
+        "Souffres-tu ?"
+      ]
+    },
+    {
+      "id": "p00648",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", d’une voix également éteinte."
+      ]
+    },
+    {
+      "id": "p00649",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Rien, plus rien."
+      ]
+    },
+    {
+      "id": "p00650",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Vois-tu des feux dans l’ombre ?"
+      ]
+    },
+    {
+      "id": "p00651",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Pas encor."
+      ]
+    },
+    {
+      "id": "p00652",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", avec un soupir."
+      ]
+    },
+    {
+      "id": "p00653",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HERNANI",
+      "lines": [
+        "Voici…"
+      ]
+    },
+    {
+      "id": "p00654",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il tombe."
+      ]
+    },
+    {
+      "id": "p00655",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", soulevant sa tête, qui retombe."
+      ]
+    },
+    {
+      "id": "p00656",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Mort !"
+      ]
+    },
+    {
+      "id": "p00657",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", échevelée, et se dressant à demi sur son séant."
+      ]
+    },
+    {
+      "id": "p00658",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Mort ! non pas ! nous dormons.",
+        "Il dort. C’est mon époux, vois-tu. Nous nous aimons.",
+        "Nous sommes couchés là. C’est notre nuit de noce.",
+        "D’une voix qui s’éteint.",
+        "Ne le réveillez pas, seigneur duc de Mendoce.",
+        "Il est las."
+      ]
+    },
+    {
+      "id": "p00659",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle retourne la figure d’Hernani."
+      ]
+    },
+    {
+      "id": "p00660",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Mon amour, tiens-toi vers moi tourné."
+      ]
+    },
+    {
+      "id": "p00661",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DOÑA SOL",
+      "lines": [
+        "Plus près… plus près encor…"
+      ]
+    },
+    {
+      "id": "p00662",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Elle retombe."
+      ]
+    },
+    {
+      "id": "p00663",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON RUY GOMEZ",
+      "lines": [
+        "Morte ! — Oh ! je suis damné !"
+      ]
+    },
+    {
+      "id": "p00664",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il se tue."
+      ]
+    }
+  ]
+}

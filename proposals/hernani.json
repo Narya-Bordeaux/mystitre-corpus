@@ -1,0 +1,96 @@
+{
+  "formatVersion": 1,
+  "bookId": "hernani",
+  "title": "Hernani",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Hernani, Hetzel, 1889 (d'après le titre de la page Wikisource)",
+    "pages": [
+      {
+        "title": "Hernani (Hetzel, 1889)/Acte I",
+        "revisionId": 13642205
+      },
+      {
+        "title": "Hernani (Hetzel, 1889)/Acte V",
+        "revisionId": 13642285
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "70bf4c2491e3a9085fd8c0b5d1a0c5a535fa50db45442a340d954670c48c3c09"
+  },
+  "titleMasks": [
+    "Hernani",
+    "HERNANI"
+  ],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00015",
+      "reason": "didascalie étiquetée à tort au nom de doña Josépha par la mise en page de l'édition (elle décrit l'entrée de don Carlos)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00658",
+      "find": "D’une voix qui s’éteint.",
+      "replace": "",
+      "reason": "didascalie de l'édition restée dans la réplique, sans nom de personnage"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00017",
+      "find": ", lui saisissant",
+      "replace": "DON CARLOS, lui saisissant",
+      "reason": "nom de personnage perdu à la numérisation ; la réplique suivante est de don Carlos"
+    }
+  ],
+  "reviewFlags": [
+    "p00015 exclu, SANS doublon ailleurs dans l'œuvre : « Elle l’introduit. Il écarte son manteau, et laisse voir un riche costume de velours et de soie à la mode castillane de 1… »",
+    "p00658 : remplacement ample (24 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00008.s1",
+      "p00010.s1",
+      "p00012.s1",
+      "p00014.s1",
+      "p00016.s1",
+      "p00016.s2",
+      "p00016.s3",
+      "p00016.s4",
+      "p00017.s1",
+      "p00018.s1",
+      "p00020.s1"
+    ],
+    "french": "DOÑA JOSEPHA. — Serait-ce déjà lui.\nC’est bien à l’escalier\nDérobé.\nVite, ouvrons.\nBonjour, beau cavalier.\nQuoi ! Seigneur [TITRE], ce n’est pas vous ! — Main-forte !\nAu feu !\nDON CARLOS, lui saisissant le bras.\nDON CARLOS. — Deux mots de plus, duègne, vous êtes morte !\nSuis-je chez doña Sol ? fiancée au vieux duc\nDe Pastraña, son oncle, un bon seigneur, caduc,\nVénérable et jaloux ? dites !",
+    "original": "DOÑA JOSEPHA. — Serait-ce déjà lui.\nC’est bien à l’escalier\nDérobé.\nVite, ouvrons.\nBonjour, beau cavalier.\nQuoi ! Seigneur Hernani, ce n’est pas vous ! — Main-forte !\nAu feu !\nDON CARLOS, lui saisissant le bras.\nDON CARLOS. — Deux mots de plus, duègne, vous êtes morte !\nSuis-je chez doña Sol ? fiancée au vieux duc\nDe Pastraña, son oncle, un bon seigneur, caduc,\nVénérable et jaloux ? dites !",
+    "length": 393,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00658.s1",
+      "p00658.s2",
+      "p00658.s3",
+      "p00658.s4",
+      "p00658.s5",
+      "p00658.s6",
+      "p00658.s7",
+      "p00658.s8",
+      "p00660.s1",
+      "p00661.s1",
+      "p00663.s1",
+      "p00663.s2"
+    ],
+    "french": "DOÑA SOL. — Mort ! non pas ! nous dormons.\nIl dort. C’est mon époux, vois-tu. Nous nous aimons.\nNous sommes couchés là. C’est notre nuit de noce.\n\nNe le réveillez pas, seigneur duc de Mendoce.\nIl est las.\nMon amour, tiens-toi vers moi tourné.\nPlus près… plus près encor…\nDON RUY GOMEZ. — Morte ! — Oh ! je suis damné !",
+    "original": "DOÑA SOL. — Mort ! non pas ! nous dormons.\nIl dort. C’est mon époux, vois-tu. Nous nous aimons.\nNous sommes couchés là. C’est notre nuit de noce.\n\nNe le réveillez pas, seigneur duc de Mendoce.\nIl est las.\nMon amour, tiens-toi vers moi tourné.\nPlus près… plus près encor…\nDON RUY GOMEZ. — Morte ! — Oh ! je suis damné !",
+    "length": 318,
+    "truncated": false
+  }
+}
