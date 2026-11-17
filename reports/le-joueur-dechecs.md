@@ -1,3 +1,6 @@
-# Le Joueur d'échecs (Stefan Zweig) — bloqué
+# Le Joueur d'échecs (Zweig) — repris par source déclarée
 
-Texte absent de Wikisource : aucune *Schachnovelle* sur de.wikisource, aucune traduction de Zweig sur fr.wikisource (la page « Le Joueur d’échecs » y est celle de Marsollier-Chazet), rien sur en.wikisource. Fiche bloquée par `block` ; à reprendre si une source libre apparaît ailleurs.
+- **Bloqué par la vague 4** : l'œuvre est absente de Wikisource. Elle est libre en France depuis 2013 (Zweig est mort en 1942).
+- **Source déclarée** (17/11/2026) : *Schachnovelle*, PDF de literaturdownload.at (https://www.literaturdownload.at/pdf/Stefan%20Zweig%20-%20Schachnovelle.pdf). Le début et la fin ont été copiés par l'utilisateur, avec l'option `--wrapped-prose` (lignes du PDF recollées).
+- **Moteur** : en allemand, « » » ouvre une citation. Avant, il était lu comme un guillemet fermant, et « …entgangen zu sein. »Damned fool!« » formait une seule phrase.
+- **Extraits** : ouverture de 508 caractères, clôture de 537 caractères. L'anglais de McConnor (« Damned fool! ») est gardé tel quel, selon la règle des citations dans une troisième langue. Traduction faite par nos soins sur l'original, à relire.

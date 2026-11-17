@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-joueur-dechecs",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "a950a3d9ed59a7014a6a31e69002f690533f0331b761f1a885653785918877ed",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Auf dem großen Passagierdampfer, der um Mitternacht von New York nach Buenos Aires abgehen sollte, herrschte die übliche Geschäftigkeit und Bewegung der letzten Stunde.",
+      "translation": "Sur le grand paquebot qui devait quitter New York à minuit pour Buenos Aires régnait l'agitation et le va-et-vient habituels de la dernière heure."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Gäste vom Land drängten durcheinander, um ihren Freunden das Geleit zu geben, Telegraphenboys mit schiefen Mützen schossen Namen ausrufend durch die Gesellschaftsräume, Koffer und Blumen wurden geschleppt, Kinder liefen neugierig treppauf und treppab, während das Orchester unerschütterlich zur Deckshow spielte.",
+      "translation": "Des visiteurs venus de terre se bousculaient pour accompagner leurs amis, des grooms du télégraphe, la casquette de travers, traversaient en trombe les salons en criant des noms, on traînait des malles et des fleurs, des enfants montaient et descendaient les escaliers avec curiosité, tandis que l'orchestre, imperturbable, jouait pour le spectacle sur le pont."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Er verbeugte sich und ging, in der gleichen bescheidenen und geheimnisvollen Weise, mit der er zuerst erschienen.",
+      "translation": "Il s'inclina et s'en alla, de la même manière modeste et mystérieuse qu'il était apparu d'abord."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Nur ich wußte, warum dieser Mann nie mehr ein Schachbrett berühren würde, indes die andern ein wenig verwirrt zurückblieben mit dem ungewissen Gefühl, mit knapper Not etwas Unbehaglichem und Gefährlichem entgangen zu sein.",
+      "translation": "J'étais seul à savoir pourquoi cet homme ne toucherait plus jamais un échiquier, tandis que les autres restaient là, un peu déconcertés, avec le sentiment confus d'avoir échappé de justesse à quelque chose de désagréable et de dangereux."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00001.s2",
+      "original": "Gäste vom Land drängten durcheinander, um ihren Freunden das Geleit zu geben, Telegraphenboys mit schiefen Mützen schossen Namen ausrufend durch die Gesellschaftsräume, Koffer und Blumen wurden geschleppt, Kinder liefen neugierig treppauf und treppab, während das Orchester unerschütterlich zur Deckshow spielte.",
+      "translation": "Des visiteurs venus de terre se bousculaient pour accompagner leurs amis, des grooms du télégraphe, la casquette de travers, traversaient en trombe les salons en criant des noms, on traînait des malles et des fleurs, des enfants montaient et descendaient les escaliers avec curiosité, tandis que l'orchestre, imperturbable, jouait pour le spectacle sur le pont."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Er verbeugte sich und ging, in der gleichen bescheidenen und geheimnisvollen Weise, mit der er zuerst erschienen.",
+      "translation": "Il s'inclina et s'en alla, de la même manière modeste et mystérieuse qu'il était apparu d'abord."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Nur ich wußte, warum dieser Mann nie mehr ein Schachbrett berühren würde, indes die andern ein wenig verwirrt zurückblieben mit dem ungewissen Gefühl, mit knapper Not etwas Unbehaglichem und Gefährlichem entgangen zu sein.",
+      "translation": "J'étais seul à savoir pourquoi cet homme ne toucherait plus jamais un échiquier, tandis que les autres restaient là, un peu déconcertés, avec le sentiment confus d'avoir échappé de justesse à quelque chose de désagréable et de dangereux."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "»Damned fool!« knurrte McConnor in seiner Enttäuschung.",
+      "translation": "« Damned fool! » grogna McConnor dans sa déception."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "Als letzter erhob sich Czentovic von seinem Sessel und warf noch einen Blick auf die halbbeendete Partie.",
+      "translation": "Le dernier, Czentovic se leva de son fauteuil et jeta encore un regard sur la partie à demi achevée."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "»Schade«, sagte er großmütig.",
+      "translation": "« Dommage, dit-il avec magnanimité."
+    },
+    {
+      "id": "p00003.s6",
+      "original": "»Der Angriff war gar nicht so übel disponiert.",
+      "translation": "L'attaque n'était pas si mal conçue."
+    },
+    {
+      "id": "p00003.s7",
+      "original": "Für einen Dilettanten ist dieser Herr eigentlich ungewöhnlich begabt.«",
+      "translation": "Pour un dilettante, ce monsieur est vraiment d'un talent peu ordinaire. »"
+    }
+  ]
+}

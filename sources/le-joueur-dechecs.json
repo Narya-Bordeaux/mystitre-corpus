@@ -1,0 +1,44 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-joueur-dechecs",
+  "title": "Le Joueur d'échecs",
+  "host": "declared",
+  "sourceLanguage": "de",
+  "edition": "Schachnovelle (1942), PDF de literaturdownload.at ; début et fin copiés par l'utilisateur",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a950a3d9ed59a7014a6a31e69002f690533f0331b761f1a885653785918877ed",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Auf dem großen Passagierdampfer, der um Mitternacht von New "
+  },
+  "bodyEnd": {
+    "id": "p00003",
+    "textPrefix": "Er verbeugte sich und ging, in der gleichen bescheidenen und"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée (PDF)"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://www.literaturdownload.at/pdf/Stefan%20Zweig%20-%20Schachnovelle.pdf",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur",
+    "wrappedProse": true
+  }
+}
