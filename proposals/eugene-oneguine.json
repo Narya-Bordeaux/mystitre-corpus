@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "eugene-oneguine",
+  "title": "Eugène Onéguine",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Paul Béesau",
+    "translationYear": 1868,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Paul Béesau, 1868)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Eugène Onéguine, traduit du russe par Paul Béesau, Paris, Librairie A. Franck, 1868 (fr.wikisource, Texte entier)",
+    "pages": [
+      {
+        "title": "Eugène Onéguine/Texte entier",
+        "revisionId": 14175773
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "126764539d7cd29a4dded37f752ee40652aa0b9c523e446e60874867912de35b"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00053.s1",
+      "p00053.s2",
+      "p00054.s1"
+    ],
+    "french": "« Mon oncle devint un homme des plus sévères principes lorsqu’il tomba sérieusement malade ; il obligea tout le monde à l’estimer, et certes il ne pouvait faire mieux. — Que son exemple soit une leçon pour les autres !\n» Mais, grand Dieu ! quel ennui de rester près d’un malade nuit et jour sans le quitter d’un pas !",
+    "original": "« Mon oncle devint un homme des plus sévères principes lorsqu’il tomba sérieusement malade ; il obligea tout le monde à l’estimer, et certes il ne pouvait faire mieux. — Que son exemple soit une leçon pour les autres !\n» Mais, grand Dieu ! quel ennui de rester près d’un malade nuit et jour sans le quitter d’un pas !",
+    "length": 317,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00672.s1",
+      "p00673.s1",
+      "p00673.s2",
+      "p00673.s3"
+    ],
+    "french": "Et toi dont l’image s’est identifiée avec ma Tatiana, où es-tu maintenant ?\nHélas ! le sort a frappé tout autour de moi ! Heureux celui qui de bonne heure quitta le banquet de la vie avant d’avoir entièrement vidé la coupe ! Heureux aussi celui qui n’acheva pas son propre roman, et le quitta comme je quitte mon Onéguine !",
+    "original": "Et toi dont l’image s’est identifiée avec ma Tatiana, où es-tu maintenant ?\nHélas ! le sort a frappé tout autour de moi ! Heureux celui qui de bonne heure quitta le banquet de la vie avant d’avoir entièrement vidé la coupe ! Heureux aussi celui qui n’acheva pas son propre roman, et le quitta comme je quitte mon Onéguine !",
+    "length": 323,
+    "truncated": false
+  }
+}

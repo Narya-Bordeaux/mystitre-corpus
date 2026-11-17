@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "eugene-oneguine",
+  "title": "Eugène Onéguine",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Eugène Onéguine, traduit du russe par Paul Béesau, Paris, Librairie A. Franck, 1868 (fr.wikisource, Texte entier)",
+  "pages": [
+    {
+      "title": "Eugène Onéguine/Texte entier",
+      "revisionId": 14175773
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "126764539d7cd29a4dded37f752ee40652aa0b9c523e446e60874867912de35b",
+  "bodyStart": {
+    "id": "p00053",
+    "textPrefix": "« Mon oncle devint un homme des plus sévères principes lorsq"
+  },
+  "bodyEnd": {
+    "id": "p00673",
+    "textPrefix": "Hélas ! le sort a frappé tout autour de moi ! Heureux celui "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Paul Béesau",
+    "translationYear": 1868,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre, dédicace du traducteur, préface et notice biographique de Béesau, dédicace de Pouchkine à Plétnief, épigraphe de Viazemski, « FIN. ». Début à « Mon oncle… », fin à « …mon Onéguine ! »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

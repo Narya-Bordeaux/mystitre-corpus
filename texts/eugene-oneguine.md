@@ -1,0 +1,1411 @@
+# Eugène Onéguine
+
+Source : Eugène Onéguine, traduit du russe par Paul Béesau, Paris, Librairie A. Franck, 1868 (fr.wikisource, Texte entier) — fr.wikisource.org
+
+Origine : Traduction libre de droits (Paul Béesau, 1868)
+
+- [Eugène Onéguine/Texte entier](https://fr.wikisource.org/w/index.php?title=Eugène_Onéguine/Texte_entier&oldid=14175773)
+
+`p00001` EUGÈNE ONÉGUINE
+
+`p00002` NOGENT-LE-ROTROU, IMPRIMERIE DE A. GOUVERNEUR.
+
+`p00003` POUCHKINE
+
+`p00004` EUGÈNE ONÉGUINE
+
+`p00005` TRADUIT DU RUSSE
+
+`p00006` PAR
+
+`p00007` PAUL BÉESAU
+
+`p00008` Pétri de vanité, il avait encore plus de cette espèce d’orgueil qui fait avouer avec la même indifférence les bonnes comme les mauvaises actions, suite d’un sentiment de supériorité, peut-être imaginaire.
+
+`p00009` (Tiré d’une lettre particulière.)
+
+`p00010` PARIS
+
+`p00011` LIBRAIRIE A. FRANCK
+
+`p00012` Rue Richelieu, 67
+
+`p00013` —
+
+`p00014` 1868
+
+`p00015` À SON EXCELLENCE
+
+`p00016` LE PRINCE
+
+`p00017` WLADIMIR ODOIEFSKY
+
+`p00018` HOMMAGE DE PROFONDE VÉNÉRATION
+
+`p00019` Paul Béesau
+
+`p00020` **PRÉFACE.**
+
+`p00021` Eugène Onéguine, regardé comme le chef-d’œuvre de Pouchkine, n’avait pas encore été traduit en notre langue. Il n’est pas écrit dans le goût du jour : on n’y trouve ni banqueroute, ni suicide, ni prostituées, ni adultères, mais une galerie de tableaux pris çà et là dans l’existence russe et servant de fond à une action très-simple. Du reste, ce petit poème ou ce petit roman, comme on voudra, ne manque ni d’originalité, ni de verve satirique, ni de douce poésie, sans parler des faits et gestes d’Onéguine « le mauvais sujet. »
+
+`p00022` Je n’ajoute plus un mot, et je confie à ceux qui savent encore goûter les choses simples et vraies le soin de statuer sur le sort d’Onéguine.
+
+`p00023` Paul Béesau.
+
+`p00024` **NOTICE BIOGRAPHIQUE.**
+
+`p00025` Alexandre Serguéevitch Pouchkine naquit le 26 mai 1799, dans le village de Mikhaïlofski, gouvernement de Pskof. Son père et son oncle étaient en relations amicales avec le célèbre Karamzine et le poète Joukofski : c’était entrer dans la vie sous d’heureux auspices.
+
+`p00026` Il fit ses études au lycée de Tsarskoë Sélo, où il ne s’occupa sérieusement que de littérature. À douze ans, son génie se révélait, et à la fin de son séjour au collége, il traçait le plan de Rousslan et Lioudmila. C’est alors que le vieux Derjavine, comme doué d’une seconde vue, le bénit : le vieillard, sur le bord de la tombe, avait salué dans l’adolescent le poète de l’avenir. À sa sortie du collége, Pouchkine entra au ministère des affaires étrangères. Les relations de sa famille, l’amitié dont l’honoraient les premiers écrivains de la Russie lui ouvrirent tous les salons. Il se laissa d’abord absorber tout entier par la vie frivole et mondaine ; mais bientôt la Muse reprit ses droits. Pouchkine lut chez Joukofski les fragments de Rousslan et Lioudmila. Ce poème parut, et alors se levèrent sur le front du poète les rayons d’une gloire qui devaient l’accompagner au-delà même de la tombe. Bientôt Pouchkine, forcé de quitter Saint-Pétersbourg, prit du service dans la chancellerie du gouverneur plénipotentiaire de Bessarabie. Pendant plusieurs années, il parcourut en tous sens le pays qui s’étend en amphithéâtre sur les bords de la mer Noire. Son âme s’exalta dans la solitude, au contact de cette nature sublime ; les chaudes haleines du midi la vivifièrent, et la steppe lui dévoila ses beautés sauvages et grandioses.
+
+`p00027` Ce fut pendant cet exil qu’il composa les Prisonniers du Caucase, la Fontaine de Baktchisaraï, et qu’il prépara Boris Godounof et Onéguine.
+
+`p00028` Notons ici le changement qui s’opère dans les idées de Pouchkine vers 1831 : « Maintenant, » dit-il, « j’entre dans une voie nouvelle avec une âme sereine et résignée : le temps est venu de me reposer du passé… ». Ce fut alors qu’il se chargea d’un travail immense, l’histoire de Pierre-le-Grand, et à partir de cette époque, il ne quitta plus guère Saint-Pétersbourg que pour quelques excursions d’automne à Mikhaïlofski. Pouchkine aimait l’automne, avec son cortége de pluies et de brouillards : c’était son meilleur temps de travail. — Il avoue lui-même que lorsque le soleil brille, la Muse s’envole et qu’il sent le besoin irrésistible des longues promenades, des bains et des exercices du corps.
+
+`p00029` Au commencement de cette même année il avait vu mourir son ami, le baron Delvig. Cette mort fut une perte irréparable pour son cœur ; marié quelques mois après avec Nathalie Nikolaiévna Gontcharova, il ajoutait en parlant de son bonheur : « Le souvenir de Delvig est la seule ombre qui se fasse autour de ma claire existence ». C’est alors qu’il écrivit ses deux odes : Aux détracteurs de la Russie et l’Anniversaire de Borodino. Pendant l’automne de 1832, il vécut à Tsarskoë Sélo dans l’intimité de Joukofski, et les deux poètes écrivirent des contes russes, dans le genre populaire, qui sont restés comme des modèles. C’est aussi vers cette époque qu’il publia la Fille du Capitaine, la Dame de Pique, les Frères brigands et Poltava. À ce moment de sa vie, Pouchkine pouvait se dire heureux. Ses succès littéraires le rendaient digne d’envie, l’empereur venait de le nommer gentilhomme de la chambre, l’amour de sa femme semblait le couvrir d’une égide et défier le sort. Il se préparait à des œuvres dignes de la maturité de son talent. Les archives secrètes de l’empire lui étaient ouvertes, la Russie attendait une grande épopée nationale… Hélas ! à la place des lauriers qu’elle préparait à son poète, elle dut bientôt lui creuser une tombe !
+
+`p00030` En 1835, Pouchkine perdit sa mère. Il reconduisit sa dépouille mortelle au monastère de Sviatogorsky, et, comme s’il eût pressenti sa fin prochaine, il acheta un emplacement tout près de la tombe de celle qui lui avait donné le jour. Vers le même temps, le baron de Hœckerene, ambassadeur de Hollande, et le baron Dantess, son fils adoptif, Français, au service militaire de la Russie, étaient reçus souvent chez Pouchkine. La liaison se continua aux eaux. Tout-à-coup le bruit se répand que Dantess fait la cour à Nathalie Nikolaiévna, et le poète reçoit le même jour dix-huit lettres anonymes, écrites en français, injurieuses pour son honneur et pour celui de sa femme. Celle-ci pria son mari de ne plus recevoir M. Dantess, espérant ainsi mettre fin à ces bruits scandaleux. Les billets offensants continuèrent toujours ; alors le sang arabe que le poète tenait de sa mère s’enflamma ; il provoqua en duel M. Dantess. En acceptant le défi, Dantess demanda un délai de quinze jours, pendant lesquels Joukofski, le prince Viazemski et le baron de Hœckerene firent tous leurs efforts pour apaiser l’affaire. Enfin l’ambassadeur de Hollande déclara à Joukofski que l’explication toute naturelle de l’assiduité de son fils près de Nathalie Nikolaiévna était le désir d’obtenir la main de sa sœur Catherine Nikolaiévna. — Le poète retira son cartel. — Le mariage eut lieu. Pouchkine y assista, mais il refusa toujours de recevoir M. de Hœckerene et son fils. Il gardait au cœur une blessure difficile à cicatriser. Plusieurs tentatives de réconciliation restèrent infructueuses : il sentait que la réputation est le premier des biens, le premier « joyau de notre âme. » Tu dis vrai, Shakespeare, il n’a pas d’excuse l’homme inepte et lâche qui ravit aux autres la bonne renommée !… Des lettres anonymes furent de nouveau écrites à Pouchkine. Nathalie Nikolaiévna voulut quitter pour quelque temps Saint-Pétersbourg, mais son mari résolut de terminer autrement l’affaire. Il écrivit au baron de Hœckerene une lettre très-violente dans laquelle il l’accusait d’être la cause de tous ces bruits scandaleux. Un cartel était inévitable ; M. de Hœckerene ne pouvait se battre à cause de son titre de ministre de Hollande : ce fut son fils adoptif qu’il envoya au poète. Le duel eut lieu dans un bois de bouleaux, derrière la rivière Noire. Le 27 janvier 1837, Pouchkine tombait, blessé à mort.
+
+`p00031` Les détails des dernières heures de sa vie nous ont été conservés par deux de ses amis : Danzas, son témoin, et le poète Joukofski. À peine le mourant fut-il porté chez lui, que, s’adressant au docteur Arendt, il le pressa de lui dire la vérité sur son état. Arendt ne lui cacha pas qu’il conservait bien peu d’espoir de le sauver. Pouchkine le remercia de sa franchise et tourna ses pensées vers sa femme : « L’infortunée, » dit-il, « elle est innocente, et le monde la déchirera ! »
+
+`p00032` Bientôt arrivèrent ses amis : Joukofski, le prince Viazemski, le comte Vilghorski, le prince Mechtcherski, Tourguénef et Valouief. Arendt dit qu’il devait informer l’empereur de tout ce qui s’était passé. « Priez l’empereur qu’il me pardonne, » répondit Pouchkine, « et qu’il ne poursuive point Danzas ! » Puis il demanda lui-même un prêtre, se confessa et reçut le saint viatique avec une grande foi. Deux heures après, Arendt revint avec un billet de l’empereur écrit au crayon : « Mon cher Alexandre Serguéevitch, » disait le monarque, « s’il ne nous est plus donné de nous revoir en ce monde, reçois mon dernier conseil : meurs en chrétien ! Ne t’inquiète pas du sort de ta femme et de tes enfants, je les prends sous ma protection ! »
+
+`p00033` Qu’elles sont belles ces paroles de Nicolas Ier ! ce dernier conseil donné à un ami mourant ! Comme nous les reproduisons avec joie et avec respect !… Du reste, on l’a vu, avant de recevoir le billet de l’empereur, Pouchkine avait demandé un prêtre. L’effervescence de la jeunesse, les fumées de la gloire, le scepticisme importé de l’Occident, avaient éloigné Pouchkine de la pratique de la religion. Mais la foi ne meurt pas facilement au fond du cœur des Russes : Pouchkine portait sur sa poitrine la petite croix de son baptême, et lorsqu’il se sentit mortellement atteint, il ne s’endormit en paix qu’après s’être réconcilié avec le Dieu de ses pères.
+
+`p00034` Vers le soir, il dicta à Danzas la liste de ses dettes, puis il ôta une bague de son doigt, la donna à son fidèle ami, en lui disant : « Garde-la en souvenir de moi !… Je ne veux pas que personne songe à venger ma mort !… Je veux mourir en chrétien ! »
+
+`p00035` À peine avait-il prononcé ces paroles que la crise suprême commençait. Pendant trois heures les souffrances du blessé devinrent horribles. « Alors », dit Joukofski, « sa malheureuse femme, dans un état de prostration complète, était couchée auprès de la chambre de son mari. Un sommeil léthargique s’était emparé de ses sens. Dieu semblait l’avoir envoyé exprès, car l’infortunée n’eût pu être témoin des tortures qu’endurait le poète mourant. » Tout le temps que dura la crise, craignant que sa femme ne l’entendît, il étouffait ses gémissements et se tordait les bras… Vers le matin ses terribles souffrances se calmèrent ; il dit alors à Spasky, l’un de ses médecins : « Ma femme, appelez ma femme ! » — La plume se refuse à décrire ces adieux déchirants. « Ensuite, » dit Joukofski dans sa lettre au père de Pouchkine, « il demanda à voir ses enfants. Ils sommeillaient ; on les lui apporta à moitié endormis. Il les regarda les uns après les autres en silence ; il mit la main sur leur tête, les bénit et fit un signe pour qu’on les éloignât. Il m’appela aussi. Je m’approchai, je lui pris la main et la baisai : « Dis à l’empereur, » dit-il d’une voix faible, « que je regrette de mourir, que j’aurais été tout à lui. Dis-lui que je lui souhaite un règne long, bien long ; qu’il soit heureux dans son fils, heureux dans sa Russie ! »
+
+`p00036` Il s’empressa de faire venir ses autres amis. La nuit fut plus calme, mais le lendemain matin, tout espoir s’évanouit : le pouls s’affaiblit visiblement, les mains devinrent froides. Sa pauvre femme espérait toujours : « Vous verrez, » disait-elle, « il vivra, il ne mourra point ! » Il était deux heures ; s’étant touché le pouls, le mourant dit d’une voix forte : « La mort approche ! » La dernière lutte de la vie commençait. Trois quarts d’heure après, le 29 janvier 1837, Pouchkine n’était plus. Mais laissons encore la parole à Joukofski. « Sa vie s’éteignait si doucement et avec tant de calme que nous croyions tous qu’il dormait encore. Arendt nous dit que c’était fini. Nous gardâmes longtemps le silence, sans oser remuer, craignant d’interrompre le mystère de la mort qui s’était accompli en notre présence dans sa touchante bénédiction. Lorsque tout le monde fut sorti, je restai seul près de lui et je le regardai longtemps. Jamais je n’avais vu sur son visage quelque chose qui ressemblât à ce que j’y vis au premier moment qui suivit sa mort. Sa tête était un peu inclinée ; ses mains étaient tranquillement allongées et comme détendues pour se reposer après un pénible travail. Quant à ce qui était peint sur son front, je ne puis l’exprimer. C’était quelque chose de nouveau, et pourtant de déjà vu. Ce n’était pas le sommeil, ce n’était pas l’expression de l’esprit, si naturelle à ce visage ; ce n’était pas non plus quelque chose de poétique ; non ! Quelle était donc cette pensée grande, étonnante, qui s’y trouvait empreinte ? En le regardant, j’étais prêt à lui demander : Que vois-tu, ami ?… Que m’aurait-il répondu, s’il avait pu revivre ?… Voilà les moments de notre vie tout-à-fait dignes du nom de grands ! Alors je vis l’image de la mort elle-même, divinement secrète. »
+
+`p00037` Pendant cette longue agonie la maison du poète n’avait pas cessé d’être encombrée d’une foule immense. Enfin les domestiques furent obligés de déclarer que les amis seuls pourraient entrer. — « Laissez-nous donc passer, » dirent les visiteurs, « la Russie tout entière est l’amie de Pouchkine ! » Après sa mort son cercueil fut exposé dans l’église. Plus de dix mille personnes vinrent prier auprès de ses restes ; les rangs, les âges, les nationalités étaient confondus : on eût dit un deuil européen !
+
+`p00038` « Je voudrais laisser après moi une voix, une seule, qui, comme un ami fidèle, conserve ma mémoire ». Ce désir du poète a été réalisé. Ce n’est pas seulement « une voix, » c’est la Russie tout entière qui a recueilli ses œuvres avec un noble orgueil et les conserve avec un respect religieux. Elle acclame encore le poète qui dota sa patrie de créations neuves, originales et brillantes, écrites dans une langue inconnue avant lui ; elle se souvient aussi du véritable patriote. « Moscou ! Moscou ! » — s’écriait-il, — « quelle magie dans ce mot ! que de choses il dit au cœur russe ! » Ce que Moscou disait surtout au cœur de Pouchkine, c’était abolition du servage, réforme des abus. Il coopéra à ce grand œuvre en soutenant de son amitié et de ses conseils, le courageux citoyen qui osa présenter le miroir à l’ancienne société russe, espérant qu’elle aurait elle-même horreur des plaies qui la rongeaient, et qu’elle les cicatriserait.
+
+`p00039` « La pensée du Révisor appartient tout entière à Pouchkine, » — nous dit Gogol ; — « dans ma comédie du Révisor je résolus d’entasser tout ce qu’il y a de plus mauvais en Russie, selon ce que j’en pouvais savoir, toutes les iniquités dont on se rend coupable dans les juridictions mêmes où l’homme doit le plus pouvoir compter sur la justice de ses semblables. »
+
+`p00040` C’est à Rome que Gogol apprit la mort de son ami ; voilà en quels termes il épanchait sa douleur : « Quelle terrible catastrophe ! Toute ma joie, tout le bonheur de ma vie, vous venez de l’ensevelir avec lui ! Je n’entreprenais rien sans l’avoir consulté.
+
+`p00041` Je n’ai pas écrit une ligne sans me le représenter à côté de moi. Ce qu’il dirait, quelle observation il ferait, ce qui le ferait rire, à quoi il donnerait son approbation… Voilà ce qui m’occupait, ce qui soutenait mes forces. Avec lui le mystérieux frisson d’un bien-être inconnu sur la terre pénétrait mon âme de volupté. Eh ! mon Dieu ! mon travail actuel, il était son inspiration ; c’est à lui que je le rapporte… je n’ai plus de force pour le continuer ! »
+
+`p00042` Ainsi donc Pouchkine fut l’inspirateur des œuvres de Gogol, qui ont fait connaître la Russie, et, en mettant à nu bien des misères, ont hâté l’instant de la délivrance morale de ce pays.
+
+`p00043` Pouchkine, Gogol, Lermontof ! âmes nobles et courageuses ! du fond de vos tombeaux, vous avez dû mêler vos voix au long cri d’enthousiasme qui a salué les réformes libérales d’Alexandre II. Votre patriotisme éclairé répugna toujours aux mesures violentes : Pestel, le conjuré de 1825, ne vous compta point dans ses rangs, vous aviez foi en la Russie, foi en vos tsars, foi en l’avenir !… votre confiance n’a pas été trahie !
+
+`p00044` Paul Béesau.
+
+`p00045` Paris, 15 novembre 1867.
+
+`p00046` **DÉDICACE DE POUCHKINE — À — PIERRE ALEXANDROVITCH PLÉTNIEF.**
+
+`p00047` Mon dessein n’est pas d’amuser un public hautain, mais d’attirer les suffrages de l’amitié seule.
+
+`p00048` J’aurais voulu t’offrir une œuvre plus digne de toi, plus digne de ta belle âme, étrangère à tout ce qui se passe ici-bas, et remplie d’une poésie vivante et pure, de pensées simples et grandes ! Mais je n’ai à présenter à ton accueil bienveillant et amical que ces chants bizarres, moitié plaisants et moitié tristes, vulgaires et fantasques, fruits tardifs de mes loisirs, de mes légères inspirations, de mes nuits sans sommeil, de mes années jeunes et déjà flétries ; froides observations de mon esprit et tristes remarques de mon cœur.
+
+`p00049` EUGÈNE ONÉGUINE
+
+`p00050` **CHAPITRE I.**
+
+`p00051` Et se hâter de vivre et se presser de sentir.
+
+`p00052` (Viazemski.)
+
+`p00053` « Mon oncle devint un homme des plus sévères principes lorsqu’il tomba sérieusement malade ; il obligea tout le monde à l’estimer, et certes il ne pouvait faire mieux. — Que son exemple soit une leçon pour les autres !
+
+`p00054` » Mais, grand Dieu ! quel ennui de rester près d’un malade nuit et jour sans le quitter d’un pas ! Quelle félonie de chercher à distraire un moribond, de lui arranger les oreillers, de lui présenter les médecines avec un visage voilé par la tristesse, lorsque, dans le fond du cœur, on se dit : « Quand donc le diable t’emportera-t-il ? »
+
+`p00055` Telles étaient les réflexions d’un mauvais sujet roulant, à travers un nuage de poussière, en voiture de poste, et que la volonté toute-puissante de Jupiter avait fait héritier de tous ses parents. Amis de Lioudmila et de Rousslan, permettez que, sans autre préambule, je vous fasse faire la connaissance du héros de mon poème. Mon bon ami Eugène Onéguine naquit sur les bords de la Néva, où peut-être vous reçûtes vous-même le jour, où peut-être vous avez brillé, cher lecteur. — Hélas ! il fut un temps où moi aussi je me promenais sur ces rives, mais le Nord m’a été fatal !
+
+`p00056` Après avoir servi avec honneur, son père s’était endetté, avait continué à donner tous les ans ses trois bals, puis enfin s’était ruiné complètement. La destinée sourit à Eugène : dès son jeune âge, il eut une bonne française, remplacée bientôt par un précepteur. Enfant, il était charmant, malgré ses espiègleries et ses turbulences ; un abbé français, soucieux avant tout de la santé de son élève, ne le fatiguait point par une discipline sévère, traitait avec indulgence ses petites fautes et le menait promener au jardin d’Été.
+
+`p00057` Quand vint la jeunesse impatiente de tout frein, l’heureux temps des espérances et des tendres soucis, le précepteur fut congédié, et Eugène entra en possession de sa liberté. Habillé comme un fashionable, les cheveux coupés à la dernière mode, il se lança dans le monde. Il parlait et il écrivait parfaitement le français, dansait avec grâce la mazourka, saluait avec aisance. — Que voulez-vous de plus ? — Le monde décida qu’il était spirituel et charmant.
+
+`p00058` En Russie, nous apprenons un peu de toutes choses, aussi ne nous est-il pas difficile de briller dans les salons. Au jugement de beaucoup d’hommes sévères et justes, Eugène avait de l’instruction, mais aussi beaucoup de pédanterie. Il avait le don d’effleurer tous les sujets de conversation, de garder le silence dans une discussion, en homme qui connaît ce dont il s’agit, et de provoquer le sourire des dames par le feu de ses épigrammes inattendues.
+
+`p00059` Le latin n’est plus de mode aujourd’hui ; j’avouerai donc que mon héros n’en savait que juste assez pour lire les épigraphes, parler de Juvénal, écrire vale à la fin d’une lettre, et se rappeler tant bien que mal deux vers de l’Énéide. Son esprit ne le portait pas à remuer la poussière des annales du monde, mais il gardait dans sa mémoire plusieurs anecdotes des jours écoulés depuis Romulus jusqu’à nous.
+
+`p00060` Son cœur, vide de grandes passions, était sourd aux voix de la poésie, et malgré tous ses efforts, il ne put jamais distinguer le vers iambique du vers choréen. Homère et Théocrite excitaient ses dédains, mais il lisait Adam Smith et s’occupait d’économie politique, c’est-à-dire qu’il pouvait expliquer comment un empire augmente ses richesses, comment il se soutient, et pourquoi il n’a que faire de l’or s’il possède un sol productif et abondant. Son père ne comprenait pas cette théorie, et il ne cessait d’engager ses terres.
+
+`p00061` Enfin le temps me manque pour énumérer tout ce qu’Eugène savait. Je vous parlerai pourtant de son talent suprême, de la source de ses peines et de ses joies, de ce qui donnait à sa paresse un aliment journalier : c’était la science des tendres passions qu’Ovide a chantées, et qui l’ont fait achever ses jours orageux en Moldavie, dans le fond d’une steppe, loin de son Italie.
+
+`p00062` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00063` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00064` Comme Eugène apprit vite l’art de feindre ! Comme il sut vite dissimuler l’espoir, paraître jaloux, faire croire le oui ou le non, se montrer sombre, accablé de tristesse, fier et soumis, attentif et indifférent ! Comme son silence était languissant, son éloquence ardente ! Avec quelle indifférence il écrivait ses billets d’amour, et pourtant comme il semblait n’avoir qu’un vœu, qu’un désir et s’oublier tout entier lui-même !…
+
+`p00065` Comme il savait paraître novice, et, par la naïveté de ses plaisanteries, étonner l’innocence ! Comme il savait jeter l’effroi par un désespoir toujours prêt, se servir d’une caresse insinuante pour saisir le moment de l’émotion, préjugé des innocentes années ! Comme son esprit et sa feinte passion le faisaient triompher des obstacles ! Comme il attendait une caresse involontaire ! comme il savait implorer, arracher un aveu ! Puis, lorsqu’il avait entendu le premier battement du cœur, il ne s’en tenait pas là, il faisait accepter un secret rendez-vous, et là, seul à seul, il enseignait sa théorie de l’amour.
+
+`p00066` De bonne heure, il troubla le cœur des coquettes les plus renommées. Lorsqu’il voulait ruiner ses rivaux, de combien d’amères railleries il envenimait ses paroles ! Quels pièges il leur tendait ! Mais pour vous, mari béat, il restait toujours un ami ; et vous, rusé mari, vous, ancien élève de Faublas, vous, défiant vieillard, vous le combliez de caresses ; et vous enfin, mari trompé, vous restiez toujours satisfait de votre dîner et de votre femme !…
+
+`p00067` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00068` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00069` Dans ce temps-là, il recevait au lit des billets. Mais quels billets ? des invitations ? oui, des invitations ; trois maisons le convient à une fête : ici, un bal ; là, une soirée. Où ira-t-il d’abord ? Eh ! qu’importe ? il n’est pas difficile de n’être en retard nulle part ! En attendant, coiffé d’un chapeau à la Bolivar, Eugène, dans sa toilette du matin, se dirige vers le boulevard et se promène dans les allées désertes, jusqu’à ce que sa montre vigilante sonne le dîner.
+
+`p00070` Le soir vient ; Eugène monte en traîneau : « Fouette, cocher. » Son collet de castor s’argente par la fine poussière de la gelée ; il arrive chez le restaurateur Talon, où il sait que Kaverine l’attend déjà. Il entre. Bientôt le bouchon saute, et le vin, comme une traînée lumineuse, coule à flots. Sur la table, un roast-beef saigne ; des truffes, — fleurs de la cuisine française, tant prisées par la jeunesse, — côtoient un frais pâté de Strasbourg placé entre le fromage vivant de Limbourg et l’ananas doré.
+
+`p00071` Le gosier altéré des convives désire encore arroser les grasses côtelettes d’un vin généreux, mais l’heure les avertit qu’un ballet nouveau a commencé. Alors le lion caustique du parterre, l’adorateur inconstant des ravissantes actrices, celui qui a reçu des coulisses le titre de bourgeois notable, — mon Eugène, en un mot, vole au théâtre, où chaque spectateur ne respire que la critique et se dispose à applaudir l’entrechat, à siffler Phèdre et Cléopâtre, à rappeler Moïna, — et tout cela uniquement pour faire du bruit.
+
+`p00072` Théâtre ! pays de la féerie ! c’est dans tes murs que, de mon temps, brilla la gloire du roi de la satire, la gloire de Fone-Vizine, l’ami de la liberté, et celle de Knijénine, l’imitateur ! Là, Ozeroff et la jeune Séméonova se partagèrent le tribut involontaire des larmes et des applaudissements du peuple ; là, notre Katénine fit revivre le génie du grand Corneille ; là, le caustique Chakofskoï fit représenter le bruyant essaim de ses comédies ; là, Didelo cueillit les palmes de sa renommée ; — c’est là, c’est là, derrière les coulisses, que se passèrent mes jeunes années !
+
+`p00073` Mes déesses ! que faites-vous ? où êtes-vous maintenant ? Écoutez ma triste voix ! Dites, êtes-vous toujours les mêmes ? D’autres jeunes filles n’ont-elles point pris vos places ?… Entendrai-je encore vos chants ? Verrai-je la russe Terpsichore, dont j’admirais si souvent la grâce enchanteresse ? ou bien mon regard attristé ne rencontrera-t-il plus, sur l’ennuyeuse scène, de visage connu, et, spectateur indifférent, serai-je réduit à promener sur des figures étrangères ma lorgnette désenchantée, à bâiller en silence, et à me souvenir du temps passé ?
+
+`p00074` Le théâtre est rempli, les loges étincellent, le parterre et les fauteuils bourdonnent, le paradis s’impatiente ; enfin le rideau se lève. Brillante, vaporeuse, prête à obéir à l’archet magique et entourée d’un grand nombre de nymphes, Istomina paraît. L’un de ses pieds effleure à peine le sol, l’autre tourne doucement ; puis, tout-à-coup, elle s’élance par bonds légers ; elle vole, elle vole, semblable à un duvet qui s’échappe des lèvres d’Éole ; tantôt elle plie gracieusement son corps souple et moelleux, tantôt elle le balance et frappe ses petits pieds l’un contre l’autre.
+
+`p00075` Tout le monde applaudit. Eugène entre alors en se frayant un passage à travers les fauteuils et les pieds des spectateurs. Il dirige sa jumelle sur les loges des dames inconnues, parcourt les rangs, et un coup-d’œil rapide lui suffit pour tout voir. Les visages, les toilettes lui déplaisent extrêmement. De tous côtés il salue les hommes, puis regarde nonchalamment la scène, se retourne, bâille et dit : « Il serait bien temps de changer tout cela ! j’ai pu longtemps supporter les ballets, mais à la fin Didelo aussi m’ennuie ! »
+
+`p00076` Les amours, les diables, les serpents sautent et se remuent sur la scène, les laquais fatigués dorment sur les pelisses de leurs maîtres ; les applaudissements n’ont point cessé ; on se mouche, on tousse, on siffle, on frappe des pieds ; au dedans et au dehors brillent encore les lanternes ; les chevaux, transis de froid, ennuyés de leurs harnais, s’impatientent ; les cochers, autour du poêle, murmurent contre leurs maîtres en se battant les flancs, — et Eugène est déjà loin ; déjà il arrive chez lui et il s’habille.
+
+`p00077` Pourrai-je tracer un tableau fidèle du cabinet où l’élève exemplaire de la mode s’habille, se déshabille, pour s’habiller encore ? Tout ce qui peut satisfaire abondamment le caprice, tous ces petits objets que Londres nous envoie par les vagues de la Baltique, en échange de nos bateaux chargés de bois et de suif ; tout ce que Paris, dans son goût raffiné, invente pour l’amusement, le luxe, la mignardise de la mode, tout cela ornait le cabinet du philosophe de dix-huit ans.
+
+`p00078` Sur la table, on voyait des pipes de Constantinople en ambre jaune, des porcelaines, des bronzes, et, renfermés dans du cristal taillé à facettes, des parfums, ce besoin des sens blasés ; puis des peignes, des limes en acier, des ciseaux droits et recourbés, trente espèces de brosses pour les dents et pour les ongles. (À ce propos, il me souvient que Jean-Jacques ne put jamais comprendre que le célèbre Grimm ait osé se brosser les ongles devant lui. Certes, dans cette occasion, l’apôtre de la Raison et de la Liberté n’eut pas la raison de son côté ! Ceci soit dit en passant.)
+
+`p00079` On peut être homme de bien et penser à la beauté de ses ongles ; pourquoi donc se mettre en guerre inutile avec le siècle ? l’habitude règne en despote sur l’humanité. — Mon Eugène craignait la critique, et aussi soignait-il extrêmement sa toilette. Il était ce qu’on appelle un petit-maître, passait trois heures au moins devant son miroir, et lorsqu’il le quittait, il ressemblait à Vénus partant pour la mascarade en habits d’homme.
+
+`p00080` Je viens de vous parler, lecteur, de toilettes et de modes ; je me sentirais capable de vous décrire tout le vêtement d’Eugène (et certes cela serait hardi, quoique, après tout, décrire soit mon affaire). — Mais une chose m’arrête : comment parler d’un pantalon, d’un frac, d’un gilet ? tous ces mots ne se trouvent point dans la langue russe. Hélas ! même sans ces mots, mon pauvre style est déjà assez bariolé. — Dieu sait pourtant si j’ai feuilleté notre dictionnaire académique !
+
+`p00081` Mais cette question est ici hors de propos. Hâtons-nous plutôt d’aller au bal vers lequel le hiémchik de mon héros a lancé au galop les chevaux de sa troïka.
+
+`p00082` Devant les maisons sombres, le long de la rue endormie, les doubles lanternes des voitures répandent une joyeuse clarté et font briller la neige des couleurs de l’arc-en-ciel. Le magnifique hôtel où la fête a lieu est splendidement illuminé ; des ombres passent et repassent devant les glaces des fenêtres ; on aperçoit de temps en temps des profils de femmes et de dandys à la mode.
+
+`p00083` Enfin, notre héros entre dans le vestibule, passe comme une flèche devant le suisse, gravit lestement l’escalier de marbre, et, après avoir donné un dernier coup à sa chevelure, fait son entrée dans la salle pleine de monde. Déjà les musiciens sont las ; la mazourka occupe la foule des invités ; dans tous les salons, on se presse, on cause bruyamment ; les éperons des chevaliers-gardes retentissent, les petits pieds des charmantes danseuses semblent avoir des ailes, et sur leurs traces enchanteresses s’attachent des regards pleins de flamme ; la coterie des femmes à la mode s’en émeut, mais le bruit de l’archet couvre leur jaloux murmure.
+
+`p00084` Pendant mes jours de joie et d’espérance, je raffolais des bals. Quel lieu plus propice pour un aveu d’amour, pour glisser un billet ?… Écoutez ma voix, respectables époux ! je vous offre mes services, je voudrais que mes paroles pussent vous être une sauvegarde… et vous, mères attentives, veillez, veillez sur vos filles, n’abaissez pas votre lorgnon, ou bien alors,… ou bien alors… Dieu vous garde ! Si je vous donne ce conseil, c’est que depuis longtemps je ne fais plus de ces péchés-là !
+
+`p00085` Hélas ! dans le tourbillon des plaisirs, j’ai consumé ma vie ! et même à présent, si les bals ne corrompaient pas les mœurs, j’avoue que je les aimerais encore ! Oui, j’aime la folle jeunesse, l’encombrement et l’éclat, et le plaisir, et la parure des dames, si longtemps méditée ! J’aime leurs petits pieds, — toutefois, peut-on trouver dans toute la Russie trois paires de pieds féminins bien faits ? — Hélas ! longtemps, bien longtemps, deux petits pieds me tinrent sous le charme… toujours je les avais devant mes yeux… aujourd’hui, triste et glacé, je me les rappelle encore, ils apparaissent dans mes songes pour me troubler le cœur !
+
+`p00086` Insensé que tu es, quand donc les oublieras-tu ? Quel désert faut-il placer entre eux et toi pour les ôter de ton souvenir ? Oh ! petits pieds bien-aimés ! où êtes-vous ? où foulez-vous les fleurs printanières que l’Orient produit ?… Sur la triste neige du Nord, vous n’avez pas laissé de traces !… Vous aimiez le moelleux contact des somptueux tapis. Pendant combien de temps oubliai-je pour vous la soif de la gloire et des louanges, et le pays de mes pères, et mes jours de prison !… Le bonheur des jeunes années a disparu comme vos traces légères sur les champs !…
+
+`p00087` Le sein de Diane, les joues de Flore sont charmants, mes amis ; mais le petit pied de Terpsichore l’emporte de beaucoup à mes yeux. En promettant au regard une inénarrable récompense, il entraîne vers les beautés qu’il fait deviner l’essaim des désirs follement passionnés.
+
+`p00088` Je l’aime, chère Elvina, sous la nappe de la table, je l’aime au printemps sur l’herbe des prairies, je l’aime en hiver sur les chenets, dans les salons sur le parquet uni, je l’aime sur le sable de la mer, sur le granit des rochers.
+
+`p00089` Il m’en souvient : la mer, avant l’orage, amenait ses vagues se coucher amoureusement l’une après l’autre à ses pieds… Combien j’étais jaloux ! Combien je brûlais de pouvoir, avec les ondes, effleurer de mes lèvres ses charmants petits pieds ! Non, jamais, pas même lors des ardeurs les plus dévorantes de ma fougueuse jeunesse, jamais je ne désirai avec une pareille souffrance baiser les lèvres des jeunes Armides, ou leurs joues roses, ou leur sein soulevé par l’amour ! Non, jamais la fougue de mes passions n’avait tourmenté ainsi mon âme !
+
+`p00090` Mais voici d’autres souvenirs : parfois, dans mes rêves, il me semble tenir l’heureux étrier, et sentir dans mes mains le petit pied ; alors l’imagination s’enflamme, alors ce contact fait bouillonner mon sang dans mes veines desséchées… De nouveau reviennent et l’angoisse et l’amour. Mais c’est assez, lyre qui ne sais pas te modérer ! cessons de célébrer ces femmes orgueilleuses ! elles ne méritent point que nous nous passionnions pour elles ; elles ne méritent point les chants qu’elles nous inspirent ; les paroles, les regards de ces fées sont aussi trompeurs que leurs petits pieds.
+
+`p00091` Revenons à mon Eugène Onéguine. À moitié endormi, il a quitté le bal pour gagner son lit. Déjà la bruyante cité de Pierre-le-Grand s’est éveillée au son du tambour : le marchand se lève, le colporteur commence sa tournée, l’izvochik gagne la station ; une Cendrillon de la rue d’Okhta porte en courant sa cruche, et fait craquer sous ses pas la neige du matin. Les bruits du jour commencent, les volets s’ouvrent, la fumée des cheminées monte en spirale bleue, et le ponctuel boulanger allemand, coiffé du traditionnel bonnet de coton, ouvre pour la troisième fois son vasistas.
+
+`p00092` Épuisé par la fatigue du bal, l’enfant du luxe et du plaisir du jour a fait la nuit : il dort d’un profond sommeil. Il se réveillera bien après midi, et ce sera pour recommencer sa vie monotone et bizarre, pour consumer le jour de demain de la même façon que celui d’hier.
+
+`p00093` Mais était-il heureux, mon Eugène, avec sa liberté, sa florissante jeunesse et ses conquêtes dignes d’envie ? Au fond de la coupe enivrante de ses festins, trouvait-il le contentement ?
+
+`p00094` Non ! ses sens bien vite s’étaient émoussés ; les bruits du monde ne lui apportaient plus que lassitude et ennui ; bien vite le culte de la beauté avait cessé d’occuper ses pensées. Lorsqu’il ne pouvait plus arroser de champagne les beefsteaks et les pâtés de Strasbourg, lorsqu’il ne pouvait plus se répandre en saillies, lorsqu’il sentait sa tête lourde, son cœur triste, alors les amis et l’amitié le fatiguaient. Enfin, Eugène, le hardi viveur, avait même fini par trouver insipides les bruyantes querelles, les coups de sabre et les pistolets.
+
+`p00095` Cette maladie dont il serait temps de découvrir les causes, et qui ressemble au spleen anglais, la handra russe, pour l’appeler par son nom, s’empara peu à peu de sa vie. Dieu merci, la pensée de se faire sauter ne lui vint pas, mais l’existence lui donnait la nausée ; comme Childe-Harold, il traînait dans les salons sa mélancolie profonde, sa morne tristesse. Les propos railleurs, les plaisanteries fines, le boston, les tendres regards, les soupirs indiscrets, rien ne parvenait à le distraire.
+
+`p00096` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00097` Femmes du grand monde, vous fûtes les premières qu’il abandonna. Il faut dire qu’à notre âge le grand monde est passablement ennuyeux : quelques femmes sans doute pourront causer de Say et de Bentham, mais le reste ne sait tenir que des conversations d’une banalité insupportable et tellement inoffensives, tellement irréprochables, tellement exemptes de laisser-aller, tellement remplies d’idées de justice et de bon ton, tellement inaccessibles aux hommes, que leur aspect seul donne le spleen.
+
+`p00098` Et vous, jeunes beautés, qui partez les dernières du bal, emportées dans les rues de Pétersbourg par vos drochkis étincelants, vous aussi, mon Eugène vous a délaissées ! Transfuge du plaisir, il s’est renfermé chez lui, et, tout en bâillant, le voilà qui prend la plume ; il veut écrire ; mais le labeur de la composition le trouve impuissant : rien ne sort de sa veine aride. Il n’entra donc pas dans les rangs de cette caste orgueilleuse, de laquelle je ne veux rien dire, puisque je lui appartiens.
+
+`p00099` Alors, retombé en face de l’oisiveté et du vide douloureux de l’âme, il prend la louable résolution de s’approprier l’esprit d’autrui. Il couvre une tablette de livres et se met à lire, à lire encore, mais sans suite. Cet ouvrage l’ennuie, cet autre lui paraît fausseté et bavardage, celui-ci est écrit sans conscience, celui-là est vide de sens ; sur tous il trouve quelque chose à redire : les auteurs anciens n’ont plus d’intérêt, les modernes ne sont qu’un écho affaibli des anciens. Comme il avait quitté les femmes, il quitta les livres, et le poudreux fardeau de sa tablette fut voilé d’un rideau de deuil.
+
+`p00100` À cette époque, moi aussi, j’avais secoué la chaîne des exigences du monde, et je vivais retiré loin de ses rumeurs ; c’est alors que je me liai avec Eugène. Sa physionomie m’était sympathique ainsi que son penchant natif au rêve, son originalité sans pareille et son esprit.
+
+`p00101` J’étais irrité, aigri : lui, morne et découragé. Tous deux, nous connaissions le jeu des passions ; fatigués de la vie, nous portions deux cœurs où toute flamme était éteinte. Sur le seuil de nos deux existences, nous étions déjà brouillés avec l’aveugle destinée et avec l’humanité.
+
+`p00102` Celui qui a vécu et qui a pensé doit, dans l’intime de son âme, mépriser les hommes. Celui qui a senti, sera toujours troublé par les visions des jours qui ne sont plus ! Il n’a plus d’illusions : le serpent du souvenir et du regret rongera son cœur… Toutes ces idées donnaient du charme à nos entretiens. D’abord, il est vrai, le langage d’Eugène m’avait jeté dans l’agitation, mais bientôt je m’habituai à ses âcres récriminations, à ses plaisanteries pleines de fiel, à ses épigrammes violentes et emportées.
+
+`p00103` Que de fois pendant l’été, lorsqu’une nuit sereine étendait la transparence de son ciel au-dessus de la Néva, et que les eaux du fleuve ne reflétaient pas le visage de Diane dans leur large miroir glacé, que de fois, évoquant le souvenir des amitiés et des amours passées, redevenant sensibles et jeunes, nous nous enivrions en silence des doux soupirs de la nuit !…
+
+`p00104` Comme le prisonnier, transporté pendant son sommeil hors de son obscur cachot, se réveille dans un bois verdoyant, ainsi nous étions transportés par nos rêves au joyeux matin de notre vie !
+
+`p00105` L’âme remplie d’émotion, Eugène tout pensif s’appuyait sur la margelle de granit, ainsi qu’on se plaît à représenter le poète. Tout était tranquille : le cri de veille des sentinelles, le bruit lointain d’un drochki courant sur le pavé de la rue Millionne, la rame d’un bateau glissant sur les eaux dormantes, le son du cor, une chanson joyeuse, frappaient seuls notre oreille. Mais bien plus doux que tous ces bruits, résonne au milieu des plaisirs de la nuit, le chant des strophes du Tasse !
+
+`p00106` Ô vagues de l’Adriatique ! ô Brenta ! mes yeux vous verront encore, et, le cœur palpitant d’enthousiasme poétique, j’entendrai vos voix harmonieuses !… vos voix sacrées pour les disciples d’Apollon ! Les chants sauvages de la lyre d’Albion me les révélèrent, et maintenant elles sont miennes. — Alors je me livrerai avec ivresse à la molle douceur des nuits dorées de l’Italie ; la mer me bercera doucement dans une gondole mystérieuse avec une jeune Vénitienne, tantôt silencieuse, tantôt s’abandonnant à une folle causerie ;… d’elle mes lèvres apprendront la langue de Pétrarque et de l’amour.
+
+`p00107` L’heure de liberté viendra-t-elle ? Ô temps ! ô temps, je t’implore ! Je me promène près de la mer, j’attends que l’horizon s’éclaircisse, j’appelle les blanches voiles du vaisseau ! Battu par la tempête, luttant contre les flots, quand donc verrai-je l’Océan m’ouvrir un libre passage ! Quand donc me sera-t-il donné de commencer ma route tant désirée ?… Il est temps d’abandonner les bords de l’élément inhospitalier, et de gagner les sables mouvants, le ciel embrasé de mon Afrique, et là, de songer en soupirant à la froide Russie où j’ai souffert, où j’ai aimé, où j’ai enseveli mon cœur !
+
+`p00108` Eugène était tout prêt à visiter avec moi les contrées étrangères ; mais bientôt le destin nous sépara pour longtemps. Son père vint à mourir, et l’essaim des créanciers avides fondit sur mon ami. Chacun d’eux était sûr de ses droits. Comme le jeune homme n’aimait pas les procès et se trouvait content de son sort, il leur abandonna l’héritage ; peut-être croyait-il n’y pas perdre beaucoup, peut-être prévoyait-il que son vieil oncle ne vivrait pas longtemps.
+
+`p00109` En effet, voilà que l’intendant lui écrit tout-à-coup que le vieillard est sur le point de mourir, et qu’il désire lui dire adieu. À peine a-t-il lu ce triste message qu’il saute en chaise de poste. Avant d’arriver, il s’ennuie déjà ; mais pour l’amour de l’argent, il est décidé à soupirer, à paraître triste, à jouer son rôle. — C’est à ce moment, cher lecteur, que je vous l’ai présenté dès la première page de ce livre. — Parvenu à la campagne de son parent, il le trouve déjà sur la table, comme un tribut réservé à la terre.
+
+`p00110` La cour était remplie de serviteurs, et les amateurs de cérémonies funèbres arrivaient de tous côtés. Enfin notre mort repose en terre, et prêtres et visiteurs, après avoir bu et mangé, se séparent gravement comme s’ils venaient de régler une affaire sérieuse. Voilà notre Eugène habitant un village. Il possède des fabriques, des bois, des terres, des eaux. Jusqu’à présent, il avait été grand dissipateur et ennemi déclaré de l’ordre, mais il est content du changement qui vient de s’opérer dans sa vie.
+
+`p00111` Pendant deux jours, la solitude des champs, la fraîcheur des futaies ombreuses, le murmure paisible du ruisseau, eurent pour lui les charmes de la nouveauté. Mais le troisième jour, la forêt, le coteau, la prairie ne lui disaient plus rien. Un peu plus tard, au milieu de ses bois, le sommeil le gagnait, et il vit clairement que l’ennui est aussi l’hôte de la campagne. Loin des rues, des palais, des cartes, des bals et des vers, la handra n’était pas moins à son poste pour l’attendre et le poursuivre comme son ombre ou comme une femme fidèle.
+
+`p00112` J’étais né pour mener une vie tranquille, pour goûter la paix des champs. Dans les bois solitaires, la lyre résonne plus harmonieuse et plus vibrante ; plus vigoureux et plus forts éclosent les rêves du poète. Au milieu de mes loisirs, j’erre sur le bord du lac isolé ; le far-niente est ma loi, et chaque matin me réveille pour consacrer mes heures à la mollesse et à la liberté. Je lis peu, je dors beaucoup, je n’essaie pas d’arriver à la gloire, indifférent que je suis à son vol majestueux… À quoi bon, en effet ?… n’est-ce point ainsi que jadis dans l’inaction et le calme, j’ai coulé mes jours les plus heureux ?
+
+`p00113` Fleurs, amours, campagne, oisiveté, prairies, vous fûtes toujours mes délices ! — Je suis heureux de faire remarquer la différence qui existe entre Eugène Onéguine et moi, afin que le lecteur, enclin à la critique, ou quelque éditeur malveillant et malin ne puisse pas répéter, après m’avoir comparé à mon héros, qu’à l’exemple de Byron, le chantre de l’orgueil, j’ai crayonné mon propre portrait ; — comme si nous autres poètes nous ne pouvions écrire que notre propre histoire ! —
+
+`p00114` Je remarque que les disciples d’Apollon sont amis de l’amour rêveur… Jadis, de charmantes apparitions me visitaient en songe, mon âme garda leur mystérieuse image, et plus tard, ma Muse les anima. C’est ainsi que je chantai la fille de la montagne, mon idéal chéri, et les prisonnières des rives de Salgir. Aujourd’hui vous me demandez, mes amis : Vers qui s’envolent tes chants ? à qui donc, dans la foule rivale des jeunes filles, consacres-tu tes vers harmonieux ? Quel regard, troublant ton inspiration, a récompensé d’une tendre caresse les sons mélancoliques de ta lyre ? À qui offres-tu ton encens ?… — Ô mes amis, j’affirme devant Dieu que mes vers ne s’adressent à aucune créature. Naguère mon cœur a ressenti la blessure secrète de l’amour. Heureux celui qui peut unir à un sentiment profond le culte de la Poésie ! Par là il double son génie, et, comme Pétrarque, il apaise les souffrances de son âme en arrivant à l’immortalité. Hélas ! lorsque j’étais son captif, l’Amour, loin de réchauffer ma Muse, enchaînait mon essor et ma voix.
+
+`p00115` Mon amour est passé, la Muse m’est apparue de nouveau, et les ténèbres de mon esprit se sont dissipées… Redevenu libre, je veux plier aux lois du rhythme mes sentiments et mes pensées. Je puis écrire : mon cœur ne souffre plus, et ma plume distraite ne dessine plus auprès des vers inachevés les petits pieds des femmes ni leurs têtes charmantes. La cendre de mon cœur ne recouvre aucune flamme, la tristesse m’est restée, mais je n’ai plus de larmes, et bientôt, bientôt, les dernières traces de l’orage seront effacées entièrement. Alors je commencerai à écrire un long poème, un poème où je veux mettre vingt-cinq chants.
+
+`p00116` J’ai déjà songé au plan de cette nouvelle création, et au nom de mon héros. En attendant, je clos le premier chapitre de ce roman ; je l’ai examiné sévèrement, et j’y ai trouvé de nombreuses contradictions ; — mais je ne corrigerai rien, — je paierai mon tribut à la censure, je livrerai en pâture aux journalistes mon œuvre si chère !
+
+`p00117` Va donc sur les bords de la Néva, mon petit livre nouveau-né, va gagner la gloire, va exciter les commentaires malveillants, les querelles et le bruit !
+
+`p00118` **CHAPITRE II.**
+
+`p00119` O rus !
+
+`p00120` (Horace.)
+
+`p00121` La campagne où s’ennuyait Eugène, était un charmant petit coin ; là, un ami des innocents plaisirs eût béni le ciel. Abrité du vent par une colline, le château s’élevait isolé au bord d’une petite rivière, et tout autour les champs et les prairies étalaient leur tapis d’or. On apercevait çà et là des villages, des troupeaux errants dans les plaines. Le vestibule ombragé s’ouvrait sur un immense jardin désert, refuge des Dryades pensives.
+
+`p00122` L’antique château était construit comme toutes les demeures féodales, très solidement et d’après le goût sévère et sage de nos pères. Les chambres étaient vastes et paisibles ; dans les salons, de riches tentures couvraient les murailles où étaient suspendus des portraits de famille. Enfin, lecteur, les poêles étaient en faïence de Hollande. — Ces choses sont aujourd’hui passées de mode, et je ne sais vraiment pourquoi ! — Du reste, ces détails importaient fort peu à mon ami ; le bâillement le prenait aussi bien dans les salons à la mode que dans les salons surannés.
+
+`p00123` Il s’installa dans l’appartement où son oncle vieillard casanier, avait, pendant quarante ans, fait la guerre à sa femme de charge, tout en regardant par la fenêtre et en tuant les mouches. Là, tout était fort simple : un plancher en bois de chêne, deux armoires, une table, un sopha ; et sur tous ces meubles vous eussiez vainement cherché un peu de poussière ou une tache d’encre. Eugène ouvrit les armoires. Dans la première il trouva le cahier des dépenses, dans la seconde une rangée de bouteilles de nalivka, des flacons remplis de jus de pommes, et le calendrier de 1808, seule lecture du vieillard, trop occupé pour ouvrir d’autres livres.
+
+`p00124` Eugène vivait solitaire et isolé au fond de ses propriétés. Pour passer le temps, il songea à faire des réformes : il diminua la redevance de ses paysans. Les paysans bénirent le ciel, mais l’un des gentilshommes voisins, prudent et intéressé, vit un grand mal dans cette mesure et cessa d’en voir l’auteur. Un autre sourit malicieusement ; enfin l’opinion générale fut qu’Eugène était un innovateur dangereux.
+
+`p00125` Avant cet événement, tout le monde allait le voir. Mais il avait l’habitude, dès qu’une voiture paraissait sur la grande route, de faire avancer à la porte qui s’ouvrait sur le bois, son coursier du Don. Ce procédé blessa et fit cesser avec lui tout rapport amical. « Notre voisin est un mal-appris, un insensé, un fanfaron ; il boit du vin rouge par grands verres, il ne baise jamais la main des dames, toujours nous répond Da (oui) et niett (non) et jamais Da-sse, niett-sse ». Voilà les reproches que tout le monde lui fit.
+
+`p00126` Sur ces entrefaites, un seigneur du voisinage vint habiter ses terres, et, autant qu’Eugène, encourut la réprobation générale. Son nom était Wladimir Lensky ; il sortait de l’université de Gœttingue, beau, jeune, admirateur passionné de Kant, et de plus poète. Il avait rapporté de la nébuleuse Allemagne des rêves de liberté, un esprit ardent et quelque peu étrange ; une parole enthousiaste, et de longs cheveux tombant jusqu’aux épaules.
+
+`p00127` Son âme ne s’était pas desséchée au souffle corrompu du monde ; elle goûtait encore les charmes de l’amitié, la douceur des caresses d’une jeune fille. La candeur, l’ignorance naïve embaumaient sa vie ; l’espérance la berçait ; l’éclat et le bruit du monde enchantaient sa jeune imagination. Il nourrissait les doutes de son cœur par de douces rêveries ; le but de notre existence était à ses yeux une séduisante énigme, à laquelle il se plaisait à donner des solutions imaginaires et grandioses.
+
+`p00128` Il croyait qu’une âme sœur devait s’unir à son âme, et qu’elle se consumait tristement dans une attente de chaque jour. Il croyait à l’existence d’amis qui accepteraient des fers pour la défense de son honneur, et briseraient, sans hésitation et sans trouble, le vase de la calomnie. Il croyait que la Providence consacrait pour le dévouement et l’amitié des cœurs choisis dont la phalange lumineuse nous entourerait de sa clarté et nous apporterait un bonheur nouveau.
+
+`p00129` L’indignation, la pitié, l’amour désintéressé du bien, le désir inquiet de la gloire avaient de bonne heure agité sa vie. Poète-pélerin à travers la patrie de Schiller et de Gœthe, il s’enflamma à la chaleur de leurs accents. Il eut le bonheur de ne jamais faire rougir la muse ; il conserva fièrement dans ses chants le culte des sentiments élevés, les élans d’une imagination virginale, et le charme d’une naïve simplicité.
+
+`p00130` Il célébrait l’amour, et ses hymnes avaient l’innocence des pensées d’une jeune vierge et des songes d’un enfant ; ils avaient la transparence et la limpidité de tes rayons, pâle Déesse du mystère et des tendres soupirs, lorsque tu brilles solitaire au milieu d’un ciel serein. Il chantait la séparation, les peines de l’éloignement, les roses de l’amour, et les contrées lointaines où bien souvent des larmes brûlantes avaient attristé ses jours retirés. À peine dix-huit années avaient passé sur sa tête, et il chantait déjà plus d’une fleur flétrie.
+
+`p00131` Au fond de ce désert, Eugène Onéguine était seul capable d’apprécier la nature de Lensky. Aussi ce dernier ne trouvait-il qu’ennui et fatigue dans les fêtes des seigneurs du voisinage. Il fuyait leurs réunions bruyantes et leurs conversations posées et rassises, sur les foins, les vins, la vénerie ou leur famille, éternels sujets qui certes ne brillaient ni par le sentiment ni par la poésie, ni par les saillies spirituelles, ni par le bon ton et l’élégance. Quant aux femmes, leur conversation n’arrivait même pas à ce niveau.
+
+`p00132` Riche et beau, Lensky fut accueilli dans toutes les maisons comme un gendre futur, car tel est l’usage dans les campagnes. — Bientôt toutes les jeunes filles furent destinées à ce jeune russe, plus qu’à demi-étranger par ses goûts et ses études.
+
+`p00133` Entrait-il ? de suite la conversation était habilement dirigée sur les ennuis de la vie de garçon. On lui faisait prendre place auprès du samavar ; la jeune Eudoxie faisait le thé, et la mère à chaque instant disait : « Dounia, prends garde ! » Enfin on apportait la guitare, et Eudoxie commençait à chanter d’une voix glapissante : « Viens dans mon château d’or, ô mon bien-aimé, etc. »
+
+`p00134` Mais Lensky ne se souciait pas encore de porter le joug de l’hyménée.
+
+`p00135` Il souhaitait vivement entrer dans l’intimité d’Eugène et il parvint enfin à lier connaissance. Les vagues et le rocher, les vers et la prose, la glace et la flamme ont plus de rapports que n’en avaient nos deux jeunes gens. D’abord la diversité flagrante de leurs deux natures les tint éloignés ; bientôt après, ils commencèrent à se plaire ensemble, à se rechercher. Ils se rencontraient dans leurs promenades à cheval ; solitaires et isolés tous deux, ils furent nécessaires l’un à l’autre et devinrent bientôt inséparables. L’oisiveté, ce lien ordinaire des amitiés humaines, fut aussi le leur.
+
+`p00136` Amitié ! pourquoi prononcer ton nom, puisque tu n’existes pas !… Mortels insensés, nous nous croyons au-dessus des préjugés ; à nos yeux le monde n’est pas, nous sommes le monde ; les hommes sont des machines, et les sentiments généreux une faute et un ridicule ! — Mais Eugène n’allait pas jusque-là, et bien qu’il connût assez les hommes pour les mépriser, il faisait des exceptions, accordait son estime à beaucoup d’entre eux, et lorsqu’il rencontrait une âme capable de sentiment, il ne blasphémait pas, il était ému de respect et d’admiration.
+
+`p00137` Les paroles de Lensky faisaient naître le sourire sur ses lèvres ; le langage de feu du jeune poète, ses jugements indécis, son regard inspiré, tout était nouveau pour lui. Il retenait une parole froide et désenchanteresse. « Ce serait mal, pensait-il, de détruire une jouissance qui sera courte ; le temps viendra bien sans moi ! En attendant, qu’il croie à la perfection humaine ! il a pour excuse l’ardeur et l’inexpérience de sa jeunesse ! »
+
+`p00138` Toutes les questions possibles, ils les agitaient : les rapports des peuples entre eux, les progrès de la science, le mal et le bien, les préjugés des siècles, les mystères de la tombe, la vie, la destinée, passaient tour à tour au creuset de leur examen. Comme solutions à tous ces problèmes, Lensky lisait des pages des auteurs du Nord qu’Eugène écoutait avec attention, bien qu’il n’y comprît pas grand’chose.
+
+`p00139` L’étude des passions humaines occupait surtout nos deux ermites. Onéguine, à l’abri de leur désastreuse puissance, laissait percer en parlant d’elles, un soupir involontaire de pitié. Heureux celui qui a connu leur tyrannie et s’en est affranchi ! plus heureux encore celui qui ne les connut jamais, celui qui coupa les racines de l’amour par une prompte fuite, et n’eut besoin, pour assouvir sa haine que d’une parole de mépris ! Heureux qui, assis à son foyer, entre sa femme et ses amis, ignora toujours les souffrances de la jalousie et n’exposa jamais sur une carte le patrimoine de ses ancêtres !
+
+`p00140` Lorsque nous avons pris place sous le drapeau de la froide sagesse, lorsque la flamme des passions est éteinte, et que leurs fantaisies, leurs transports et leur retentissement n’éveillent plus en nous qu’un sourire de pitié dédaigneuse ; — tranquilles alors, non sans peine, nous aimons à prêter l’oreille au langage rebelle des passions d’autrui. Leur bruit tumultueux fait battre notre cœur : ainsi le vieil invalide, sous son chaume solitaire, s’anime au récit des campagnes du jeune soldat.
+
+`p00141` Le cœur de la jeunesse est un livre ouvert à tout le monde : ses chagrins et ses joies, ses haines et ses amours, elle y laisse tout lire. Lensky dévoilait à son ami les mystères de son âme naïve, et Eugène, qui se croyait le cœur invulnérable, écoutait impassible. Il comprit sans peine cette histoire que nous connaissons tous, le tendre récit d’un premier amour.
+
+`p00142` Ah ! cet amour était de ceux que notre temps ne connaît plus, et qui sont réservés aux seules âmes des poètes ! — Pour lui, en effet, à chaque heure, en tout lieu, un seul rêve, un seul désir, une seule image !… Rien, ni l’absence qui refroidit, ni les heures consacrées à la muse, ni les plaisirs bruyants, ni l’étude, ne peuvent soustraire son âme au charme de cet amour d’enfance.
+
+`p00143` Lensky entrait à peine dans l’adolescence lorsqu’il s’éprit d’Olga. Mais alors les tourments du cœur lui étaient inconnus, et il partageait, sous les bosquets ombreux, les jeux de son amie ; les voisins et les parents prédisaient aux deux enfants la couronne de l’hyménée. Au fond des bois qui entouraient sa demeure, Olga croissait sous les regards paternels, comme le muguet inconnu fleurit sous l’herbe, ignoré des abeilles et des papillons.
+
+`p00144` C’est elle qui fournit au poète le premier de ses rêves enthousiastes ; c’est elle qui fit vibrer sa lyre pour la première fois. Mais bientôt il fallut dire adieu aux plaisirs de l’âge de l’innocence. Le temps vint et le jeune homme ne rechercha plus que l’épaisseur des forêts, le silence de la solitude, la nuit, les étoiles, et cette pâle lampe du ciel qui éclaira tant de fois nos promenades nocturnes et fut témoin des larmes qui allégeaient nos secrètes douleurs. Hélas ! aujourd’hui cet astre brillant n’est plus pour nous qu’une blafarde lanterne !
+
+`p00145` Toujours modeste et soumise, toujours gaie comme le matin, candide comme la vie du poète, charmante comme un baiser d’amour, avec ses yeux bleus, ses boucles soyeuses, son sourire d’ange, ses mouvements gracieux, sa taille légère, Olga était… Mais, prenez le premier roman venu vous y trouverez son portrait : il est parfait. Autrefois je l’admirais aussi, mais il a fini par m’ennuyer à l’excès.
+
+`p00146` Permettez-moi, lecteur, de vous parler de sa sœur aînée.
+
+`p00147` Elle se nommait Tatiana. C’est pour la première fois que j’ose écrire ce nom sur la page délicate d’un roman. Il est agréable et sonore, mais il n’est plus à la mode, il sent le vieux temps et la chambre des servantes. Ah ! que nous montrons peu de goût dans le choix des noms, (sans parler des vers !) La civilisation ne nous va pas, elle ne nous apporte que l’afféterie, rien de plus.
+
+`p00148` Ainsi donc elle se nommait Tatiana. Elle n’avait ni la fraîcheur vermeille, ni la beauté de sa sœur. Sauvage, triste et silencieuse, craintive comme la biche des forêts, elle semblait une étrangère au sein même de sa famille. Elle ignorait l’art de s’attirer les caresses de ses parents, et jamais elle ne prenait part aux jeux bruyants de ses petites compagnes. Bien souvent, elle passait des journées entières, assise près de la fenêtre dans le plus complet silence.
+
+`p00149` Le rêve ! depuis le berceau il ne l’avait pas quittée, il avait vécu avec elle, et il répandait sur sa vie champêtre et inactive le charme de ses illusions. Jamais Tatiana ne tenait l’aiguille dans ses doigts délicats ; jamais, penchée sur le métier, elle n’animait la toile des riches couleurs de la soie. L’enfant, lorsqu’il joue avec sa poupée et lui répète gravement les leçons de sa mère, se prépare aux devoirs et au rôle de la femme dans le monde ;
+
+`p00150` mais Tatiana, même dans son bas-âge, n’eut jamais de poupée ; jamais elle ne l’entretint des modes ni des nouvelles de la ville. Toujours elle ignora les espiègleries de l’enfance ; les récits effrayants, pendant les soirées du sombre hiver, la charmaient bien davantage. Lorsque la bonne rassemblait sur la verte pelouse les jeunes amies d’Olga, Tatiana ne jouait point aux garéalki, et leurs rires sonores et leurs jeux bruyants l’ennuyaient.
+
+`p00151` Ce qu’elle aimait, c’était épier sur le balcon le lever de l’aurore, le moment où le chœur des étoiles quitte le ciel pâlissant, où la terre se colore à l’horizon d’une légère teinte blanchâtre, et où la brise, messagère du matin, commence à souffler, et le jour à poindre. En hiver, lorsque les ténèbres couvrent l’orient engourdi dans un lourd sommeil, Tatiana, réveillée à son heure habituelle, se levait encore à la clarté de sa lampe.
+
+`p00152` De bonne heure elle aima les romans, et cette lecture lui tint lieu de tout. Elle s’éprit des brillantes fictions de Richardson et de Rousseau. Son père, homme excellent d’ailleurs, était arriéré d’un siècle et il ne soupçonnait même pas le mal qu’un livre pouvait faire, car il n’en avait jamais lu. Il les regardait comme un simple délassement, et ne se préoccupait nullement du volume mystérieux qui dormait jusqu’au matin sous l’oreiller de sa fille ; quant à sa femme, elle était folle elle-même de Richardson.
+
+`p00153` Elle aimait Richardson, — ce n’est pas qu’elle l’eût jamais ouvert, ce n’est pas qu’elle préférât Grandisson à Lovelace ; mais la princesse Alina, sa cousine de Moscou, en parlait souvent devant elle, — c’en était assez. Dans ce temps, son mari n’était encore que son fiancé, et elle soupirait après un autre personnage dont le cœur et l’esprit lui plaisaient beaucoup mieux. Cet autre Grandisson était sergent aux gardes, petit-maître achevé et joueur effréné.
+
+`p00154` Comme lui du reste, elle choisissait toujours la toilette à la dernière mode, et qui faisait le mieux ressortir ses attraits.
+
+`p00155` Mais on la conduisit à l’église sans lui demander son avis. Qu’arriva-t-il ? Pour dissiper son chagrin, son mari, en homme prudent et sage, partit avec elle pour ses terres. D’abord elle se roidit contre sa destinée, se répandit en plaintes et en larmes, et faillit laisser là son mari. Cependant elle finit par s’occuper de son ménage et par s’habituer à sa position. Le calme et le contentement revinrent : l’habitude nous a été donnée par le ciel pour nous tenir lieu de bonheur.
+
+`p00156` L’habitude eut donc la puissance d’adoucir un chagrin qui résistait à tout. Bientôt une grande découverte consola entièrement la jeune femme. Au milieu de ses travaux et de ses loisirs, elle apprit le secret d’exercer sur son mari un empire absolu. — À partir de ce moment tout alla bien ; elle surveillait les travaux, salait les champignons pour l’hiver, tenait les comptes, coupait les cheveux des domestiques, allait au bain tous les samedis, se mettait en colère, battait les servantes, tout cela sans demander permission à personne.
+
+`p00157` Jadis elle écrivait avec son sang dans les albums de ses jeunes amies ; elle changeait le nom de Prascovie en celui plus élégant de Pauline ; elle parlait en traînant chaque syllabe, portait un corset très-étroit et donnait à l’n russe le son nasillard de l’n français. Mais bientôt tout fut changé ; album, corset, princesse Pauline, recueil de poésies sentimentales, tout fut oublié. Elle appela Akoulka la Céline d’autrefois, et enfin elle alla jusqu’à endosser la robe de chambre ouatée et mettre le bonnet de drap.
+
+`p00158` Son mari l’aimait de tout son cœur. Il ne contrariait jamais ses projets, ne s’occupait de rien, la croyait en tout, et vêtu lui-même de la robe de chambre, il passait son existence paisible à boire et à manger. De temps en temps, une honorable famille du voisinage venait faire visite ; alors on donnait carrière aux lamentations, aux médisances, on riait un peu de tout, et le temps s’envolait. Olga versait le thé ; enfin arrivait l’heure du souper et le moment de se livrer au repos, et la compagnie quittait le salon.
+
+`p00159` Ils conservaient dans leur manière de vivre les coutumes du bon vieux temps : ils mangeaient les blinis pendant les trois jours du carnaval, communiaient deux fois par an, aimaient les rondes balançoires, les noëls joyeux et les kharavodes. Le jour de la Trinité, lorsque le peuple bâillait à l’office, ils laissaient tomber quelques larmes sur leurs rameaux fleuris. Enfin le kvass leur était aussi indispensable que l’air qu’on respire, et à table, ils veillaient scrupuleusement à ce que les plats fussent présentés à leurs hôtes selon leur rang.
+
+`p00160` Tous les deux vieillissaient ainsi. Enfin les portes de la tombe s’ouvrirent pour le mari qui alla recevoir au ciel une autre couronne. Il mourut une heure avant le dîner, pleuré de ses voisins, de ses enfants et de sa femme. Sa vie pure, la franchise de son caractère, le mettaient au-dessus des autres hommes ; il fut un maître simple et bon. Sur le monument qui recouvre ses restes, on lit ces mots :
+
+`p00161` LE BRIGADIER DMITRI LARINE,  
+HUMBLE PÉCHEUR,  
+SERVITEUR DE DIEU,  
+REPOSE EN PAIX SOUS CETTE PIERRE.
+
+`p00162` De retour dans ses terres, Wladimir Lensky alla visiter l’humble tombeau de son voisin, donna un regret à sa cendre et resta longtemps en proie à la tristesse.
+
+`p00163` « Poor Yorick ! murmura-t-il ; il m’a tenu dans ses bras ! Que de fois, dans mon enfance, je jouai avec sa médaille d’Otchakoff ! Il me destinait Olga, et disait : Verrai-je jusqu’à ce jour ? » — Et Wladimir épanchait sa douleur dans quelques strophes à la mémoire de son vieil ami,
+
+`p00164` et consacrait aux cendres patriarcales de son père et de sa mère une plaintive élégie. — Hélas ! la loi mystérieuse du destin veut que, dans les champs de la vie, les générations des hommes, comme des moissons éphémères, naissent, mûrissent et tombent ; d’autres prennent leur place… L’espèce variable et folle des humains croît, s’agite, bouillonne et se hâte ainsi vers le tombeau où reposent déjà ses ancêtres. Notre tour viendra ; un jour nos petits enfants sembleront nous dire : « Que fais-tu dans ce monde ? »
+
+`p00165` En attendant, amis, videz à longs traits la coupe du banquet de cette courte vie ! — J’ai compris la fragilité de nos jours et je sens qu’aucun lien ne m’y rattache ! De leurs brillants fantômes j’ai détourné mon regard ;… et cependant, mon cœur s’ouvre parfois à un lointain espoir… Il me serait douloureux de quitter la terre sans y laisser de trace. Le but de ma vie et de mes vers ce n’est point la louange, mais c’est le désir de laisser après moi une voix, une seule, qui, comme un ami fidèle, conserve ma mémoire !
+
+`p00166` Peut-être cette voix touchera-t-elle une âme ; peut-être mes chants, victorieux de l’oubli, seront-ils conservés ! Peut-être !… séduisant espoir !… la postérité, montrant mon portrait orné d’une couronne, dira-t-elle : « Ce fut un grand poète ! »
+
+`p00167` Reçois donc, à l’avance, mes remercîments, disciple d’Apollon, ô toi qui conserveras mes légères créations, et dont la main bienfaisante caressera les lauriers du vieillard !
+
+`p00168` **CHAPITRE III.**
+
+`p00169` Elle était fille, elle était amoureuse.
+
+`p00170` (Malfilatre.)
+
+`p00171` — Eh bien, où allez-vous ?… Vraiment, vous autres poètes, vous êtes bien fantasques !
+
+`p00172` — Adieu, Onéguine ; je suis pressé.
+
+`p00173` — Je ne te retiens pas. Mais, dis-moi donc où tu passes tes soirées ?
+
+`p00174` — Chez les Larine.
+
+`p00175` — Voilà qui est étrange ! et chez eux tu viens à bout de tuer le temps ?
+
+`p00176` — Certes oui.
+
+`p00177` — Je n’y comprends rien ! ou plutôt je vois ce que c’est : écoute-moi, et dis si je me trompe. On trouve chez les Larine le simple intérieur de la famille russe, un grand empressement pour les visiteurs, des confitures et l’éternelle conversation sur la pluie, le beau temps, le lin, le bétail, etc…
+
+`p00178` — Mon cher, dans tout cela je ne vois rien de mal !
+
+`p00179` — Et l’ennui donc, c’est lui qui est le mal !
+
+`p00180` — Je déteste votre monde à la mode ; mais le cercle intime de la famille a des charmes pour moi, j’y trouve…
+
+`p00181` — Encore une églogue ! assez, assez, mon ami, pour l’amour de Dieu ! Eh bien ! tu pars ? c’est dommage. Écoute, Lensky, ne puis-je voir cette Philis, la dame de tes pensées, de tes chants, de tes larmes, de tes vers, etc ?…
+
+`p00182` Présente moi !
+
+`p00183` — Tu plaisantes !
+
+`p00184` — Non.
+
+`p00185` — Alors, je suis enchanté.
+
+`p00186` — À quand la présentation ?
+
+`p00187` — Allons de suite ! sois assuré que nous serons parfaitement reçus.
+
+`p00188` — Partons !
+
+`p00189` Nos deux amis lancent leurs chevaux au galop et arrivent bientôt. Dès leur entrée ils sont l’objet des attentions, parfois un peu gênantes, de l’hospitalité russe. On sert le thé, les confitures, les gâteaux d’usage ; on place sur la table le carafon de liqueur de brousnika.
+
+`p00190` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00191` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00192` Enfin les deux jeunes gens prennent congé de l’aimable famille. Tâchons maintenant de saisir leur conversation tandis qu’ils rentrent chez eux par le plus court chemin, emportés par le galop de leurs chevaux.
+
+`p00193` « Tu bâilles, Onéguine ?
+
+`p00194` — Par habitude, mon cher Lensky.
+
+`p00195` — Mais tu me parais encore plus ennuyé qu’avant notre visite !
+
+`p00196` — Mon Dieu, non, ni plus, ni moins ! La nuit se fait autour de nous. Plus vite, plus vite, Androuchka !… Quels mauvais chemins !… À propos, madame Larine est une petite vieille qui est très-aimable. Ouf ! je crains bien que la liqueur de brousnika ne me fasse du mal !…
+
+`p00197` » Dis-moi donc laquelle des deux jeunes filles est Tatiana ?
+
+`p00198` — C’est celle qui, triste et silencieuse comme Svetlana, a traversé le salon pour aller s’asseoir près de la fenêtre.
+
+`p00199` — Celle-ci est l’aînée. Et tu es amoureux de la cadette ?
+
+`p00200` — Oui, eh bien ?…
+
+`p00201` — Moi, si j’étais poète comme toi, je serais amoureux de l’autre. Olga n’a point de vie dans les traits, c’est une madone de Van Dyck ; sa figure est ronde et rouge comme cette lune qui nous regarde si bêtement ! »
+
+`p00202` Wladimir fit une réponse quelque peu sèche, et garda le silence le reste du chemin.
+
+`p00203` Cependant l’apparition d’Onéguine avait fait grande sensation chez les Larine ; tout le voisinage s’en occupait. On fit conjecture sur conjecture, les langues allèrent leur train, et l’on se perdit dans le champ des suppositions : les uns le fiancèrent à Tatiana, d’autres allèrent jusqu’à affirmer que le mariage était décidé, et que la seule difficulté de trouver un anneau à la mode le retardait. Tant qu’au mariage de Lensky, il était depuis longtemps regardé comme certain.
+
+`p00204` Tatiana écoutait avec peine tout ce commérage, mais bientôt, et sans le savoir, la pensée d’un mariage avec Eugène lui devint familière ; elle s’en nourrit et lui livra son âme. Le temps vint et transforma cette pensée en amour. Ainsi le grain tombé dans le sillon germe et se développe sous l’action de la bienfaisante chaleur du printemps. Depuis longtemps, l’imagination de la jeune fille, en proie à l’ennui et à l’excitation d’une vie molle, aspirait sans cesse après un aliment de feu ; depuis longtemps son cœur oppressé gonflait sa poitrine, et sa jeune âme attendait… un ami.
+
+`p00205` Elle le vit enfin. Ses yeux s’ouvrirent, elle se dit : C’est lui ! À partir de ce moment, ses jours et ses nuits et jusqu’à son sommeil agité sur sa couche solitaire, tout fut rempli de son image.
+
+`p00206` Partout elle entendait une voix mystérieuse qui prononçait son nom. Hélas ! maintenant tout l’importune, et les paroles aimables, et l’air empressé des domestiques. Plongée dans un profond abattement, elle ne fait aucune attention aux visiteurs, si ce n’est pour maudire leurs loisirs, cause de leur présence importune.
+
+`p00207` Quel charme elle trouve dans la lecture des romans ! avec quel bonheur elle se nourrit des fictions sentimentales ! L’amant de Julie Wolmar, Maleck-Adhel et Linar ; Werther, ce rebelle martyr, et Grandisson, cet homme incomparable qui nous porte au sommeil, tous revêtirent aux yeux de la rêveuse jeune fille, une seule et même forme, tous s’identifièrent à Onéguine.
+
+`p00208` Se croyant l’héroïne de ses ouvrages bien-aimés, Clarisse, Julie ou Delphine, Tatiana erre dans les bois avec ce livre, aliment du feu qui la dévore et où elle retrouve les rêves ardents de son propre cœur. Elle soupire, elle souffre de la souffrance des héros de son dangereux roman, elle s’identifie avec eux et répète les phrases d’une lettre pour son ami.
+
+`p00209` — Mais cet ami ne ressemble guère à Grandisson.
+
+`p00210` Autrefois, l’auteur d’un roman nous dépeignait dans un style grave et châtié, un héros modèle de perfection, qui, toujours persécuté injustement, était doué d’une âme sensible, d’un esprit élevé et d’un beau visage ; sa passion était ardente et pure, il était prêt à tous les sacrifices. À la dernière page, toujours le vice était puni et la vertu récompensée.
+
+`p00211` Aujourd’hui que toute âme est malade, que la lecture d’un ouvrage moral nous endort, le roman rend le vice aimable et séduisant ; il le fait triompher toujours. Aujourd’hui les fantômes de la muse d’Albion troublent le sommeil de la jeune adolescente qui professe un culte pour le Vampire, Melmoth, l’obscur aventurier, ou bien le Juif-Errant, le Corsaire, ou le mystérieux Sbogar. Lord Byron, dont le génie est du reste hors d’atteinte, n’a fait que draper l’égoïsme désespéré dans le manteau d’un romantisme lugubre.
+
+`p00212` Et que penser, mes amis, d’un tel état de choses ?
+
+`p00213` Peut-être le ciel mettra-t-il fin à ma carrière poétique. Alors un nouveau démon s’emparera de moi, et, bravant les menaces d’Apollon, je n’écrirai plus que de la modeste prose : un roman honnête comme ceux que l’on faisait jadis, occupera mon joyeux déclin. Je n’y décrirai pas les détours tortueux du crime, mais je peindrai tout simplement l’intérieur d’une famille russe, les rêves enchantés de l’amour et les mœurs de nos ancêtres.
+
+`p00214` Je raconterai les simples paroles d’un père ou d’un vieil oncle, les rendez-vous des enfants, sous les tilleuls, au bord du ruisseau. Je dirai les tourments de la jalousie, les séparations, les pleurs du retour ; puis surviendra une rupture : enfin je les conduirai à l’autel. Dans ce temps-là le tendre langage de la passion et de l’amour inquiet reviendra à ma mémoire ; — je savais bien le parler autrefois, aux genoux de ma belle maîtresse : aujourd’hui je l’ai oublié…
+
+`p00215` Tatiana, pauvre Tatiana, je veux maintenant verser des larmes sur ton sort. Tu as livré ta destinée aux mains d’un jeune élégant qui sera ton tyran cruel ! Ma pauvre enfant, tu succomberas ! Et en attendant, tu te berces d’espérances, tu appelles de tes vœux une félicité qui te fera souffrir. Dans quel aveuglement tu es tombée !… Tu apprends à connaître les douceurs de la volupté, tu bois le magique poison des ardents désirs, et un cortège d’illusions te poursuit. Partout tu vois un asile pour une rencontre, et partout, oui, partout, ton tentateur se tient à tes côtés.
+
+`p00216` En proie aux langueurs de l’amour, elle s’enfonce dans le jardin pour donner un libre cours à ses larmes. Tout-à-coup son regard devient fixe, il lui faut un effort pour faire un pas de plus ; son sein palpite, ses joues se couvrent d’une subite rougeur, sa respiration devient haletante, ses oreilles bourdonnent, un éclair passe devant ses yeux… La nuit vient, la lune commence sa marche dans la voûte azurée, et au milieu des forêts plongées dans les vapeurs du soir, le rossignol commence aussi ses chants mélodieux. Tatiana ne dort pas : elle veille malgré la nuit sombre, et cause doucement avec sa vieille bonne.
+
+`p00217` « Je ne puis dormir, ma bonne ; l’air est si chaud ici ! Ouvre la fenêtre, et assieds-toi près de moi.
+
+`p00218` — Ma Tania, qu’as-tu donc !
+
+`p00219` — Je suis triste !… Parle-moi de ton jeune âge.
+
+`p00220` — De quoi, Tania ? Jadis je connaissais beaucoup d’histoires, beaucoup de contes qui parlaient des mauvais esprits et des jeunes filles ; mais aujourd’hui la nuit s’est faite dans ma mémoire : ce que je savais, je l’ai oublié. Oui, mon tour est venu, je paye mon tribut à la vieillesse.
+
+`p00221` — Bonne, parle-moi de tes jeunes années. Tu étais amoureuse alors ?
+
+`p00222` — Amoureuse ? ah ! bien oui ! De notre temps, nous ne savions pas ce que c’était, Tania, et ma défunte belle-mère m’eût tuée s’il en avait été autrement.
+
+`p00223` — Alors, comment donc t’es-tu mariée ?
+
+`p00224` — C’était sans doute écrit dans le ciel ! Mon Vania, vois-tu, ma belle, était plus jeune que moi, et j’avais seize ans. Pendant quelques jours une entremetteuse vint chez mes parents, et puis mon père me donna sa bénédiction. J’eus grand’peur alors, et je versai des larmes bien amères ; mais on dénoua la tresse de mes cheveux malgré mes larmes et l’on me conduisit à l’église avec des chants de fête.
+
+`p00225` J’entrai dans une famille étrangère… Mais tu ne m’écoutes pas.
+
+`p00226` — Ah ! ma bonne, ma bonne, je suis bien triste !… Je souffre, les pleurs m’inondent, les sanglots m’oppressent.
+
+`p00227` — Tu es malade, mon enfant. Que le Seigneur soit avec toi, qu’il te garde et te protège !… Que veux-tu, dis-moi ?… Laisse-moi jeter sur toi l’eau bénite… tu es toute brûlante.
+
+`p00228` — Je ne suis pas malade, je… sais-tu, ma bonne ?… j’aime !
+
+`p00229` — Mon enfant, mon enfant, que Dieu te soit en aide ! »
+
+`p00230` Et la vieille bonne, de sa main ridée, faisait le signe de la croix sur le front de la jeune fille, en balbutiant une prière.
+
+`p00231` « J’aime ! » murmura de nouveau Tatiana à l’oreille de la vieille.
+
+`p00232` « Ma chère âme, je suis sûre que tu es malade !
+
+`p00233` — Laisse-moi, j’aime. »
+
+`p00234` Et durant ce dialogue, la lune brille au ciel et ses rayons font ressortir le pâle visage de Tatiana, encadré dans ses cheveux flottants et tout baigné de larmes : assise sur un banc se tient la servante, la tête enveloppée d’un châle, d’où s’échappent quelques mèches de cheveux gris.
+
+`p00235` Tatiana, les yeux fixés sur l’astre des nuits, se livre à une rêverie silencieuse. Soudain une pensée frappe son esprit.
+
+`p00236` « Va-t-en, laisse-moi seule, ma bonne. Donne-moi une plume et du papier, et approche la table. Je me coucherai bientôt ; adieu ! »
+
+`p00237` La jeune fille est seule ; tout est tranquille autour d’elle. Le front penché sur son bras, ayant toujours devant les yeux la chère image d’Onéguine, elle confie au papier les aveux d’un amour ingénu. Voilà la lettre finie, elle est pliée… Tatiana, Tatiana, pour qui donc est-elle ?
+
+`p00238` J’ai connu des beautés inaccessibles et étonnantes, froides comme la glace d’un jour d’hiver et chastes comme une malade. J’admirais leur orgueil, leur vertu naturelle, mais je les fuyais, je l’avoue, croyant lire sur leurs fronts l’inscription de l’Enfer :
+
+`p00239` Lasciate ogni speranza, voi ch’entrate.
+
+`p00240` Malheureux celui qui les aimera ; elles prendront plaisir à le tourmenter. — Peut-être avez-vous vu des femmes de ce genre sur les bords de la Néva ?
+
+`p00241` J’en ai rencontré d’autres, bizarres et orgueilleuses, indifférentes aux soupirs passionnés et aux flatteuses adulations de leurs adorateurs. Leurs mœurs sévères rebutaient d’abord un amoureux timide, mais bientôt elles savaient l’attirer de nouveau, par un regard, par une parole, et le crédule amant revenait s’enchaîner au char de la coquette.
+
+`p00242` En quoi donc Tatiana est-elle plus coupable que ces femmes ? Est-ce pour avoir, dans sa charmante simplicité, ignoré le mensonge et cru à son rêve ? est-ce parce qu’elle aime sans artifice, parce qu’elle obéit à l’attrait d’un sentiment qu’elle ignore ? est-ce parce que le Ciel l’a douée d’une imagination ardente, d’un esprit brillant, d’une volonté forte et d’un cœur tendre et passionné ? — Auriez-vous donc le courage, qui que vous soyez, de ne pas lui pardonner sa conduite imprudente ?
+
+`p00243` La coquette juge froidement : Tatiana aime sans calcul ; elle se laisse dominer par le sentiment qu’elle éprouve, comme une enfant à qui son inexpérience ajoute un nouveau charme. Elle ne se dit point : Ne nous hâtons pas, c’est le moyen d’augmenter l’ardeur de son amour, de le faire plus facilement tomber dans nos filets. Flattons d’abord sa vanité par l’espoir de la réussite, puis nous tourmenterons son cœur en y jetant un doute, et enfin nous exciterons sa flamme en le rendant jaloux. Si nous n’agissons de la sorte, le premier homme venu, à peine captivé par nos charmes, rassasié de jouissance, brisera sa chaîne.
+
+`p00244` Mais j’entrevois encore une difficulté ; pour sauver l’honneur de mon pays, je devrais traduire la lettre de Tatiana, car elle savait mal le russe, ne lisait jamais nos journaux et s’exprimait très-difficilement dans cette langue ; en un mot, elle écrivait en français ! Que faire ?… Jusqu’à présent les dames n’ont jamais parlé d’amour en russe ; jusqu’à présent, notre langue orgueilleuse ne s’est point pliée au style épistolaire.
+
+`p00245` Je sais qu’on veut forcer les dames à lire le russe ; — vraiment je m’effraie de cette audace, et ne pourrai jamais me figurer une femme du monde tenant entre ses mains le Bien-Intentionné. — Je vous prends à témoin, jeunes poètes, n’est-il pas vrai que l’objet aimé auquel chacun de nous adressait mystérieusement ses vers et consacrait toutes ses pensées parlait bien incorrectement le russe ? n’est-il pas vrai qu’une langue étrangère était devenue, dans sa bouche, sa langue maternelle ?
+
+`p00246` Que Dieu me préserve de rencontrer au bal ou sur le perron, au départ, le bas-bleu russe, que nous appelons un séminariste en châle jaune ou un académicien en bonnet de femme ! — Le russe parlé sans faute, c’est une bouche rose sans sourire.
+
+`p00247` Peut-être viendra le temps où une nouvelle génération de jeunes beautés, obéissant à la voix suppliante de la presse, nous habituera aux règles de grammaire, et mettra les vers en usage. Mais que m’importe après tout ? moi, je resterai fidèle aux vieilles habitudes.
+
+`p00248` Alors un babil incorrect et négligé, une prononciation inexacte, me feront battre le cœur, comme autrefois. Je ne me corrigerai point, je n’en ai pas le courage ! Les gallicismes me resteront chers comme les fautes de ma jeunesse, comme les vers de Bogdanovitch.
+
+`p00249` Mais c’est assez sur ce sujet, il est temps de m’occuper de la lettre de ma belle héroïne. J’ai donné ma parole de vous en entretenir, mais j’avoue que j’ai grande envie de la reprendre, car je sais trop bien que la plume du tendre Parny n’est plus à la mode de nos jours.
+
+`p00250` Chantre des festins et des soucis amoureux, si du moins tu étais près de moi, Baratinski, je t’adresserais une requête. Je te prierais de transporter sur ton luth magique les paroles étrangères d’une jeune fille en proie à une fatale passion. Où donc es-tu, poète ? Viens : je te cède mes droits avec bonheur. Mais ton âme n’est plus habituée à la louange, elle est errante et solitaire sous le ciel de Finlande, au milieu des rochers grisâtres, et tu n’entends point mon appel !
+
+`p00251` La lettre de Tatiana est sous mes yeux. Je la conserve pieusement. Elle me cause toujours un trouble secret, et pourtant je ne puis me lasser de la lire. Qui donc lui inspira cette tendresse, cette charmante simplicité ? Qui lui révéla ces rêves gracieux, ce langage ardent d’un cœur éperdu, si entraînant et si dangereux tout à la fois ?… Je ne sais ! Mais voici la traduction incomplète, la pâle copie d’un tableau animé où Freyschutz est joué par de timides écoliers.
+
+`p00252` Lettre de Tatiana à Onéguine.
+
+`p00253` « Je vous écris… que puis-je faire de plus ?… Maintenant, je le sais, vous pouvez m’accabler de votre mépris ;… mais non, vous aurez pitié de mon malheureux sort, et vous ne me rejetterez pas !
+
+`p00254` » D’abord je voulais garder un silence éternel. Jamais vous n’eussiez connu ma faiblesse et ma honte, si j’avais pu conserver l’espoir de vous voir, rarement, une fois par semaine, pour entendre votre voix, pour vous dire un mot, puis nourrir nuit et jour ma pensée de votre souvenir jusqu’à une nouvelle rencontre ! — Mais on dit que vous fuyez le contact des hommes, que l’ennui vous poursuit toujours, jusqu’au fond de la campagne ! et nous, nous n’avons à vous offrir qu’une amitié simple et cordiale…
+
+`p00255` » Pourquoi êtes-vous venu dans notre maison ? Au fond de notre village, je ne vous aurais jamais connu ; j’aurais toujours ignoré l’amertume des douleurs que le trouble de l’amour apporte à une âme inexpérimentée. Le temps peut-être m’eût donné la force d’accepter la vie ; j’aurais trouvé un ami pour appuyer mon cœur, j’aurais été une épouse fidèle et une mère vertueuse… Un autre ?… non ! à personne au monde je n’aurais accordé mon amour ! Le ciel a rendu un arrêt suprême : Je suis à toi ! Ma vie entière n’a été qu’une attente de toi ; je sais que tu es envoyé de Dieu pour être, jusqu’à la tombe, mon ange gardien !… Tu m’apparaissais dans mes songes ; je ne t’avais pas encore vu, et déjà tu m’étais cher, ton regard enchanteur me ravissait, et depuis longtemps ta voix retentissait dans mon âme ! Non, non, ce n’était pas un rêve ! À peine avais-tu franchi notre seuil que je te reconnus ; un frisson brûlant et glacé parcourut tout mon être, et je me dis : C’est lui. — Ah ! je t’ai entendu, n’est-ce pas ? tu me parlais dans le silence, lorsque je secourais les pauvres, ou que je cherchais dans la prière un peu de calme pour mon âme agitée ? Tu m’apparaissais alors, vision chérie, à travers l’obscurité, qui pour moi devenait lumineuse ; c’était toi, c’était toi qui venais doucement te courber sur mon chevet !…
+
+`p00256` » N’était-ce pas toi encore qui murmurais à mon oreille des paroles d’amour et d’espérance ? Réponds, qui es-tu, mon bon ange ou mon tentateur ?… Dissipe mon incertitude !
+
+`p00257` » Peut-être tout cela n’est-ce qu’un mirage, et la vision d’une âme jeune et inexpérimentée… Mais qu’importe ! Dès ce jour, je te livre ma destinée, je verse des larmes à tes pieds, j’implore ton appui ! Vois, je suis seule ici, personne ne me comprend, ma raison s’affaiblit et je dois succomber en silence ! Je t’attends : ton regard ranimera l’espoir dans mon sein, ou bien ton mépris (trop mérité, hélas !) brisera le rêve infortuné de toute ma vie !
+
+`p00258` » Je finis ; j’ai peur de relire, je me sens mourir de honte et d’effroi. Mais votre honneur est mon refuge et c’est à lui que je me confie sans crainte et sans remords ! »
+
+`p00259` Tatiana laisse échapper des soupirs et des gémissements ; la lettre tremble dans ses mains, le pain à cacheter sèche sur sa langue brûlante ; elle incline sa tête, et ce mouvement fait glisser sa chemise et découvre sa blanche épaule.
+
+`p00260` Mais l’astre des nuits a quitté les cieux ; on entrevoit la vallée à travers le brouillard du matin ; le torrent s’argente, le villageois se réveille au son de la corne du berger. Voilà le jour ! tout le monde est levé depuis longtemps ; mais Tatiana ne voit rien, ne s’occupe de rien.
+
+`p00261` Elle ne s’aperçoit pas du lever de l’aurore : assise, la tête toujours baissée, elle ne se hâte point d’imprimer son cachet.
+
+`p00262` La porte s’ouvre doucement, et la vieille Philipiévna lui apporte son thé sur un plateau.
+
+`p00263` « Mon enfant, il est temps de te lever. Mais, ma belle, tu es toute prête ! Ô mon petit oiseau matinal ! Que j’étais inquiète hier soir ! Dieu merci, te voilà bien portante, je ne vois plus aucune trace d’insomnie, ton visage a la teinte pourpre du pavot.
+
+`p00264` — Ma bonne, rends-moi un service.
+
+`p00265` — Mon enfant, je suis à tes ordres !
+
+`p00266` — Ne pense pas… vraiment… le soupçon… mais, vois-tu… Oh ! ne me refuse pas !
+
+`p00267` — Mon enfant chérie, je prends Dieu à témoin que je ferai tout ce que tu voudras !
+
+`p00268` — Eh bien, envoie tout doucement ton petit neveu porter ce billet à O… à celui… à notre voisin ; et recommande bien de ne pas me nommer.
+
+`p00269` — Mais à qui donc, mon ange ? Maintenant, vois-tu, je comprends mal ce que l’on dit, et puis… nous avons autour de nous beaucoup de voisins, je n’en sais pas même le nombre…
+
+`p00270` — Comme tu as peu de sagacité, ma pauvre bonne ! tu ne devines donc pas ?…
+
+`p00271` — Enfant de mon cœur, je suis vieille, bien vieille ; mon esprit est devenu si faible ! Tatiana, jadis j’étais fine, jadis une parole de mes maîtres, et…
+
+`p00272` — Ah ! ma bonne, tout cela n’est pas la question ! Qu’ai-je à faire avec ton esprit ? Comprends-moi donc : il s’agit de porter une lettre à Onéguine !
+
+`p00273` — Bien, bien, ne te fâche pas, mon âme ; tu sais que j’entends mal… Mais qu’as-tu donc ? Tu deviens toute pâle ?
+
+`p00274` — Ma bonne, ma bonne, mais je n’ai rien, je te jure. Envoie donc promptement ton petit neveu !… »
+
+`p00275` La journée s’écoula et la réponse ne vint pas ; le lendemain arrive et toujours rien !… Pâle comme une ombre, habillée dès le matin, Tatiana attend… quand donc recevra-t-elle une réponse ?…
+
+`p00276` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00277` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00278` Sur ces entrefaites arrive l’adorateur d’Olga. « Où donc est votre ami ? » lui demande la maîtresse de la maison… « il semble nous oublier pour tout de bon ! » À ces mots, Tatiana rougit et tremble.
+
+`p00279` « Il a promis de venir aujourd’hui, » répondit Lensky à la vieille femme, « mais la poste l’aura retenu. »
+
+`p00280` Tatiana baisse les yeux ; il semble que les paroles de Lensky soient pour elle un reproche.
+
+`p00281` Le soir est venu ; sur la table brille le Samavar dont la vapeur légère et chaude réchauffe une théière en porcelaine de Chine. Le thé odoriférant, déjà versé par les mains d’Olga, remplit les tasses d’une liqueur dorée, et le petit garçon présente la crème. Tatiana, debout contre la fenêtre, couvre les froides vitres de son haleine, et, toute pensive, trace avec son petit doigt, sur le nuage qu’elle a formé, les chères initiales O et E.
+
+`p00282` Pendant ce temps, son âme languit et son mélancolique regard est rempli de larmes. Soudain un bruit frappe son oreille, son sang se fige dans ses veines ; le bruit approche : elle entend le galop d’un cheval, et Eugène saute dans la cour. Elle pousse un cri, et, plus légère qu’une ombre, elle se précipite vers la porte opposée, traverse la cour et se jette dans le jardin, sans oser regarder derrière elle. En un clin d’œil, elle a parcouru le Parc, passé le petit pont, la plaine, l’allée qui conduit à l’étang et le petit bois ; elle brise tout sur son passage, les branches des lilas, les fleurs des plates-bandes… enfin, arrivée près de la rivière, elle tombe, hors d’haleine, sur un banc.
+
+`p00283` « Il est ici ! Eugène est ici ! Dieu ! qu’a-t-il pensé de moi ! » Mais dans son cœur agité par une crainte douloureuse, il y a encore de l’espoir.
+
+`p00284` Elle tremble, un feu brûlant la dévore,… elle attend : « Ne vient-il pas ? » — Mais aucun bruit n’arrive jusqu’à elle… Dans le jardin, les servantes cueillaient des fraises et d’autres petites baies. Elles chantaient en chœur, comme leur maître le leur avait ordonné. (Lorsqu’on chante, il est impossible de manger des fruits : — ingénieuse invention du propriétaire villageois !)
+
+`p00285` CHANSON DES JEUNES FILLES  
+Que les échos, joyeuses pastourelles,  
+Répètent nos chansons !  
+N’oublions pas que nous sommes les belles,  
+Les belles du canton.  
+I  
+Nos yeux bleus, notre taille ronde  
+Attireront  
+Jolis garçons ;  
+Ils viendront près de notre ronde.  
+Dès que nous les apercevrons,  
+Alors nous nous disperserons :  
+Des fruits dont le jardin abonde  
+Tout entiers nous les couvrirons !  
+II  
+Aujourd’hui, bien que jeunes filles,  
+Nous vous donnons  
+Bonnes leçons.  
+Si vous écoutez près des grilles,  
+Lorsque le soir nous chanterons,  
+Alors nous recommencerons !  
+Si vous fuyez sous les charmilles  
+Allez, nous vous rattraperons !
+
+`p00286` Pendant qu’elles chantent, Tatiana attend avec impatience que les battements de son cœur s’apaisent et que le feu de ses joues s’éteigne ; mais son sein se soulève toujours, et ses joues sont de plus en plus brûlantes. — Ainsi le pauvre papillon, saisi par un méchant écolier, se débat et fait reluire son aile azurée, — ainsi le lièvre, au milieu des blés, tremble en apercevant un chasseur qui se baisse dans les buissons.
+
+`p00287` Enfin elle pousse un soupir, se lève et se dispose à regagner la maison. Arrivée au détour de l’allée que voit-elle ? Eugène Onéguine, avec son regard brillant, et semblable à une ombre sévère. Alors, elle s’arrête ; il lui semble qu’un feu intérieur la dévore.
+
+`p00288` Mais je n’ai pas le courage, chers lecteurs, de vous raconter aujourd’hui l’issue d’une rencontre si inattendue. Il faut que je fasse une promenade et que je prenne haleine après un si long récit : Mais un peu de patience ! Soyez assurés que je finirai d’une manière ou d’une autre.
+
+`p00289` **CHAPITRE IV.**
+
+`p00290` La morale est dans la nature des choses.
+
+`p00291` (Necker.)
+
+`p00292` Moins nous avons d’amour pour une femme, plus nous lui plaisons, et plus facilement nous la faisons tomber dans nos pièges. — Jadis la débauche se décorait du titre de science de l’amour et se parait des dehors de la passion : c’était la jouissance et non le véritable amour. Mais ce grave amusement est digne des vieux singes chantés par nos ancêtres, et la gloire de Lovelace a disparu avec celle des talons rouges et des perruques à marteau.
+
+`p00293` Qui, du reste, ne se lasserait de jouer le rôle de l’hypocrite et de répéter les mêmes fadaises sous des formes différentes ? Qui ne se lasserait de vous assurer toujours de ce dont vous ne doutez plus depuis longtemps, d’entendre toujours les mêmes objections, de détruire les préjugés qui n’ont pas existé et n’existeront jamais dans l’esprit d’une jeune enfant de treize ans ? Qui ne se lasserait des menaces, des prières, des serments, des prétendues craintes, des lettres de six pages, des mensonges, des calomnies, des bagues et des larmes, de la surveillance des tantes et des mères, et de l’amitié fatigante des maris ?
+
+`p00294` Ainsi pensait mon Eugène. — Dans sa première jeunesse, il connut les égarements des passions indomptables ; la vie était pour lui une affaire d’habitude. On le voyait s’éprendre pour quelque chose d’une sympathie passagère, se désenchanter subitement d’une autre ; se tourmenter d’un désir trop lent à se réaliser, se fatiguer d’un succès éphémère. Mais il entendait toujours, et dans le silence comme dans le bruit, l’éternel murmure de l’âme, et sous le sourire de la gaîté, il dissimulait mal les bâillements de l’ennui. C’est ainsi qu’il passa huit années à effeuiller les roses de sa jeunesse.
+
+`p00295` Il n’était plus amoureux des jolies filles, mais toutefois il se laissait aller de temps en temps à leur faire la cour. Rebuté, il s’en consolait vite : trahi, il était tout heureux d’en avoir fini avec son roman. Il recherchait les femmes sans aucune ardeur, les quittait sans aucun regret, et se souvenait à peine de leur amour ou de leur haine. Ainsi le visiteur indifférent se dirige vers une table de whist et s’assied : le jeu fini, il rentre chez lui, s’endort tranquille, sans même se soucier du salon où il portera le lendemain son ennui.
+
+`p00296` Pourtant Onéguine fut vivement ému en lisant la lettre de Tatiana : cette naïve expression de l’amour d’une jeune fille avait troublé l’essaim moqueur de ses pensées. Il se souvint du teint pâle et de la langueur de Tatiana, et une image d’amour et d’innocence se présenta un instant à son imagination. Peut-être aussi la fougue de ses passions se réveilla-t-elle… mais il ne voulut pas abuser de la confiance d’une âme simple et pure.
+
+`p00297` Transportons-nous maintenant au jardin où la jeune fille et lui se sont rencontrés.
+
+`p00298` Il y eut d’abord un silence de quelques minutes, puis Eugène s’approcha d’elle et lui dit :
+
+`p00299` « Vous m’avez écrit… Pourquoi sembler le désavouer ?… Vous avez versé votre âme dans la mienne ; j’ai reçu l’aveu de votre amour… Votre sincérité ingénue m’a touché, et vous avez réveillé en moi des sentiments qui dormaient depuis longtemps. Mais je ne veux pas vous flatter d’un trompeur espoir. J’imiterai votre franchise : je vous dirai tout et je ferai ce que vous ordonnerez vous-même.
+
+`p00300` » Si je pouvais goûter les joies du foyer, si le destin me réservait le titre de père ou d’époux, si mon regard s’arrêtait un seul instant sur l’image de la famille, — jamais, jamais je ne songerais à une autre que vous. Je vous choisirais pour l’unique compagne de mes tristes jours, car, il faut que vous le sachiez, je trouve en vous la réalisation de mon premier idéal ; vous m’êtes comme le type sacré de tout ce qui est beau, et je sens que je serais heureux… autant que je puis l’être !
+
+`p00301` » Mais je ne suis pas né pour le bonheur : mon âme lui a toujours été étrangère. Toutes les qualités que je découvre en vous sont donc inutiles, et d’ailleurs j’en suis tout-à-fait indigne. Croyez-moi (je vous parle en homme d’honneur) si je vous épousais, je vous ferais souffrir. Quelque fort que serait mon amour, l’habitude le tuerait… Alors vos larmes couleraient ; elles couleraient, elles tomberaient sur mon cœur en l’irritant au lieu de le toucher. Voilà les roses de votre hyménée : voilà votre sort pendant de longs jours peut-être.
+
+`p00302` » Y a-t-il au monde une destinée plus triste que celle de la femme nuit et jour délaissée au foyer domestique ? Son indigne époux l’apprécie au fond de son cœur, mais, impuissant à maîtriser ses colères et ses jalousies, il maudit son sort ! Hélas ! je suis cet époux ! Est-ce là le rêve où se complaisait votre âme ardente et pure lorsque vous m’écriviez votre lettre ?… Serait-il possible que le Ciel vous réservât un avenir pareil ?…
+
+`p00303` » Comme les jeunes années, les jeunes illusions n’ont point de retour ; je ne puis rendre à mon âme une vie nouvelle. Je ressens pour vous une affection de frère, peut-être même pourrais-je lui donner un nom plus tendre encore… Mais, écoutez-moi ! Plus d’une fois la jeune fille abandonne son rêve léger pour un rêve nouveau, son illusion du moment pour une illusion nouvelle : — ainsi l’arbre change de feuilles à l’approche de chaque printemps. Le Ciel le veut ainsi : — vous aimerez donc encore ; mais… ne vous livrez plus ! Tous ne vous comprendraient pas comme moi, et l’inexpérience peut faire le malheur d’une vie entière. »
+
+`p00304` Telles furent les paroles d’Eugène.
+
+`p00305` Tatiana, aveuglée par ses larmes et respirant à peine, l’écouta dans un profond silence et resta sans réponse. Il lui offrit le bras ; elle le prit machinalement, et, la tête courbée par la douleur, elle revint à la maison en traversant le verger. Les deux jeunes gens arrivèrent ensemble, et personne ne trouva rien à y redire, car, aussi bien que l’orgueilleuse Moscou, le village a ses privilèges.
+
+`p00306` Convenez maintenant, cher lecteur, que notre ami Onéguine s’est bien conduit envers la pauvre Tatiana. Ce n’est pas, du reste, la première fois qu’il montre la noblesse et la droiture de son âme ; mais la malveillance des hommes les empêchait de voir le bien. Ses amis et ses ennemis (ce qui, dans le fond, est peut-être la même chose) ne le ménageaient guère. Dans le monde, chacun a ses ennemis, mais Dieu vous garde de vos amis !
+
+`p00307` — Qu’avez-vous donc ? — Je n’ai rien ! J’endors mes visions lugubres et vides de sens. Permettez-moi seulement de remarquer en passant qu’il ne s’est point fait sur votre compte de vile calomnie, venue de la bouche du plus fameux menteur, et descendue de la mansarde jusqu’à la foule inepte des salons ; remarquez, dis-je, qu’il ne s’est point dit d’absurdités, ni forgé d’épigrammes, que votre ami, avec le plus charmant sourire du monde, n’ait répétées dans le cercle de la bonne compagnie, du reste, sans aucune méchanceté ni aucune arrière-pensée.
+
+`p00308` N’oubliez pas surtout qu’il se dit et se dira toujours votre défenseur à outrance, qu’il vous aime comme… un parent !
+
+`p00309` Hum ! hum ! honorable lecteur, dites-moi donc comment vous aime votre parenté ? — Mais peut-être serez-vous bien aise de savoir ce que j’entends par la parenté ? Le voici : les parents sont ceux que nous sommes obligés de caresser, d’aimer, d’estimer sincèrement, et auxquels, selon l’usage du peuple russe, nous devons une visite ou une carte le jour de Noël, afin que, le reste de l’année, ils ne s’occupent plus de nous… Que Dieu leur fasse de longs jours !
+
+`p00310` Voilà ce que je pense des amis et des parents. Ah ! bien plus sûr, sans doute, bien plus fort que tout cela, est l’amour d’une jeune fille ! Il est toujours là, et les plus fortes tempêtes ne l’éloigneront jamais !
+
+`p00311` Mais, dites-moi, et le tourbillon de la mode, et le caprice de la nature, et le torrent de l’opinion ? Le beau sexe n’est-il pas léger comme le duvet ? et ne voilà-t-il pas votre fidèle épouse entraînée en un instant ! — Le diable joue toujours avec l’amour.
+
+`p00312` Mais alors qui faut-il donc aimer ? Qui donc faut-il croire ? qui donc ne nous trahira pas ? qui pèse toutes ses actions, toutes ses paroles et ne se fait point l’écho de la calomnie ? Qui donc ne nous flatte pas, ne se scandalise pas de nos défauts ? Qui donc enfin ne nous ennuie jamais ? — Ami lecteur, aime-toi toi-même, et ne cherche pas inutilement une solution à tous ces problèmes, bien que le sujet dont tu t’occupes soit grave et certes le plus important du monde.
+
+`p00313` Revenons à Tatiana. — Quelle fut la suite de l’entrevue ? Hélas ! il n’est pas difficile de le deviner ! les tourments de l’amour ne cessent d’agiter son âme avide de souffrances. L’infortunée ressent de plus en plus les ardeurs de sa fatale passion ; le sommeil a fui sa couche ; la santé, ce charme de l’existence, le sourire, le calme des jeunes années, tout s’est évanoui comme un vain songe ! Elle voit se flétrir de jour en jour davantage la fleur de sa jeunesse ; ainsi le nuage qui porte la foudre obscurcit l’aurore d’un beau jour.
+
+`p00314` Hélas ! elle dépérit, elle s’éteint en silence ! Rien ne peut la distraire, rien ne peut arriver jusqu’à la région intime où elle souffre. Les voisins hochent la tête et se disent entre eux : « Il serait temps de la marier ! »
+
+`p00315` Mais abandonnons ce triste récit. Il faut maintenant que je réjouisse un peu votre imagination par le tableau d’un amour heureux. Malgré moi, je sens la pitié envahir mon cœur. Pardonnez-moi, j’aime tant ma Tatiana !
+
+`p00316` De plus en plus épris des charmes d’Olga, Wladimir Lensky se livre entièrement à ce doux esclavage. Il est toujours aux côtés de son amie. Le soir les trouve assis tous deux ensemble dans le boudoir écarté, et l’aurore les voit se promener, la main dans la main, sous les bosquets fleuris. Enivré par l’amour et retenu par une pudeur craintive, c’est à peine si, encouragé par le sourire de la jeune fille, il ose jouer avec une boucle de ses cheveux ou effleurer de ses lèvres le bord de son vêtement.
+
+`p00317` De temps en temps il lui fait la lecture. Il choisit un auteur qui connaisse mieux la nature que Châteaubriand et qui soit honnête et moral : pourtant il passe en rougissant plus d’une page, vides fadaises, chimères vaines et dangereuses pour le cœur d’une jeune fille. Souvent, retirés tous deux loin du bruit, le coude appuyé sur une table à jeu, ils laissent errer leur imagination bien loin du monde réel, et Lensky, dans ces moments-là, prend un fou à la place d’un pion.
+
+`p00318` Rentré chez lui, il ne cesse de s’occuper de sa chère Olga ; pour elle, il s’ingénie à couvrir de dessins les feuilles d’un album. Tantôt c’est un paysage, tantôt une pierre funèbre ou le temple de Cypris, ou une colombe sur une lyre : il emploie ses plus riches couleurs, il met en jeu tout son talent. Quelquefois, il glisse au bas de la signature un vers mélancolique qui exprime toujours la même rêverie et le même amour.
+
+`p00319` Vous devez avoir vu plus d’une fois l’album d’une jeune fille noble de province. Ses amies ont barbouillé les pages depuis le commencement jusqu’à la fin, et, malgré le secours des fautes d’orthographe, elles n’ont pu écrire que des vers sans mesure ; tantôt avec une syllabe de trop, tantôt avec une syllabe de moins, mais toujours en gage d’une amitié fidèle. Sur la première feuille, vous lisez :
+
+`p00320` « Qu’écrirez-vous sur ces tablettes ?
+
+`p00321` Tout à vous,
+
+`p00322` Annette.
+
+`p00323` et sur la dernière ligne :
+
+`p00324` « Qui t’aime plus que je ne t’aime peut écrire après moi. »
+
+`p00325` Dans cet album, vous trouverez certainement deux cœurs, un flambeau et des fleurs ; vous y verrez à coup sûr le serment : « Je t’aimerai jusqu’à la tombe, » auquel un officier a ajouté quelque malicieux couplet. — J’avoue, mes amis, que j’aurais été content d’écrire dans un pareil album. Là, je le sais, tout obtient un regard bienveillant, et l’on ne s’aviserait pas d’analyser gravement, avec un méchant sourire, si mes vers ont ou n’ont pas de l’esprit.
+
+`p00326` Mais quant à vous, volumes dépareillés de la bibliothèque du diable, albums magnifiques, tourment des rimeurs à la mode ; vous, couverts du pinceau merveilleux de Tolstoï ou de la plume de Baratinski, puisse la foudre du ciel vous réduire en poudre ! Lorsqu’une femme me présente son in-quarto, un frisson de colère me saisit, et l’épigramme est prête à jaillir de ma plume, — et pourtant, pauvre poète, il faut que tu écrives un sonnet ou un madrigal !
+
+`p00327` Lensky n’écrit pas de madrigaux sur l’album de son amie. Sa plume ne distille pas les froides saillies de la galanterie : elle parle d’amour, elle ne s’inspire que d’Olga, de ses paroles, de ses grâces. Sa poésie élégiaque n’emprunte qu’à la réalité ses touchants tableaux, et coule abondante comme l’eau d’une source. Tu ne fais pas autrement, Yasikoff, toi dont les chants n’ont de fictif que le nom, et qui pourrais reconstruire avec tes élégies l’histoire de ta vie entière.
+
+`p00328` Mais, silence ! N’entends-tu pas le sévère critique qui ordonne de jeter loin de nous la pâle couronne de l’élégie, et crie aux poètes : « Cessez donc de toujours pleurer, de répéter sans cesse la même chose, de vous répandre en regrets sur le passé ! Nous avons assez de tout cela ; changez de sujet et de style.
+
+`p00329` — Ami, tu as raison, et je te vois d’ici nous montrer la trompette, le masque et le poignard, et le meurtre de la pensée ! Tu ne veux plus qu’on parle de mort, eh bien ! il faudra ressusciter tout le monde !
+
+`p00330` — Nullement ! vous pouvez écrire des odes, messieurs,
+
+`p00331` comme faisaient les poètes anciens.
+
+`p00332` — Rien que des odes solennelles !… Mais, mon ami, tout cela n’est-ce pas la même chose ? Est-il bien vrai que le style de nos poètes lyriques vous paraisse plus supportable que le ton mélancolique de nos poètes élégiaques ?
+
+`p00333` — Mais qu’y a-t-il donc dans l’élégie ? Rien ! son objet, son but, tout n’est que tristesse et inanité ; dans l’ode, au contraire, tout est grand et noble !
+
+`p00334` — Voici matière à discussion ; mais je préfère me taire plutôt que de commencer une querelle de deux siècles. »
+
+`p00335` Wladimir adorait la gloire et la liberté. Dans ses transports enthousiastes, il aurait écrit des odes si Olga avait voulu les lire. — Les poètes élégiaques lisent toujours leurs vers à leurs bien-aimées, et l’on dit que ce bonheur est le plus grand qui soit sur la terre. En effet, il est vraiment heureux le poète rêveur qui récite à sa belle les strophes où il exalte son amour ! Il est heureux… quoique peut-être elle soit préoccupée de tout autre chose !
+
+`p00336` Quant à moi, je ne lis qu’à ma vieille bonne le résultat de mes rêveries et mes ébauches timides. Quelquefois pourtant, il m’arrive, après un ennuyeux dîner, de saisir inopinément par le pan de son habit le voisin qui me rend visite, et de lui faire endurer, dans un coin, la lecture d’une tragédie. Quelquefois encore (et cela sans plaisanterie), las du travail de la versification, et traînant un pesant ennui, j’erre sur les bords de mon lac, et je m’en vais troubler de mes strophes sonores la troupe des canards sauvages, qui écoute attentivement et s’envole à tire d’aile sur l’autre rive.
+
+`p00337` — Mais revenons à Eugène Onéguine. — Attendez, mon ami, je vais vous dépeindre en détail ses occupations journalières.
+
+`p00338` Onéguine vit en anachorète ; en été, il se lève vers sept heures et se dirige d’un pas léger au bord de la rivière qui coule au pied de la montagne. Là, imitant le chantre de Gulnare, il traverse à la nage cet autre Hellespont. Il prend ensuite son café en parcourant un mauvais journal, et enfin il s’habille.
+
+`p00339` Des promenades, des lectures, un profond sommeil, l’ombre des bois, le murmure du ruisseau ; parfois le frais baiser d’une jeune fille aux yeux noirs ; un ardent coursier docile au frein, un dîner recherché, une bouteille d’un vin clair, la solitude, la paix : voilà ce qui remplit la vie d’Eugène. Cette manière de couler ses jours a pour lui un charme auquel il se livre tout entier : il ne compte plus, dans son heureuse insouciance, les beaux jours de l’été ; il oublie la ville et les amis et l’ennui des préparatifs d’une fête.
+
+`p00340` Notre été du Nord, pâle reflet des étés du Midi, se montre à peine et disparaît : — voilà ce qui arrive le plus ordinairement, malgré que nous ne voulions pas en convenir. — Déjà le ciel d’automne passe sur nos têtes, le soleil brille plus rare, les jours deviennent plus courts, l’ombre mystérieuse des bois disparaît avec chaque feuille qui tombe ; le brouillard couvre la campagne, la caravane des oies criardes se dirige vers le sud. Une saison assez triste approche : novembre est à la porte.
+
+`p00341` L’aurore n’apparaît plus qu’entourée de froids brouillards. Le bruit des travaux a cessé dans la campagne. Le loup sort sur la grande route avec sa louve affamée : le coursier, qui flaire son approche, fait entendre ses hennissements, et le prudent voyageur galope à toute bride vers la montagne. Voilà que le berger ne fait plus sortir son troupeau dès le matin ; il ne le rassemble plus à midi au son de la corne retentissante. La jeune paysanne file en chantant dans son isba, et la loutchinka pétille devant elle.
+
+`p00342` La neige craque sous nos pieds, et la gelée argente nos champs. Mieux que le parquet d’un salon brille notre rivière glacée. Voyez-vous une bande joyeuse d’enfants du peuple qui fendent la glace de leurs patins ? Une oie se traîne lourdement sur ses pattes rouges ; elle croit nager dans l’eau ; elle s’avance pas à pas, glisse et tombe en criant.
+
+`p00343` Que faire à cette époque de l’année si l’on habite la campagne ? Se promener ?… mais le regard ne rencontre que tristesse et ennui ! tout est uniforme et nu. Galoper dans les steppes arides ?… mais le cheval glissera sur la glace et s’abattra. Restez donc sous votre toit solitaire : lisez ! N’avez-vous pas Pradt ; n’avez-vous pas Walter Scott ? — La lecture vous ennuie ? eh bien ! réglez vos comptes, fâchez-vous, mettez-vous en colère, ou versez-vous à boire, et la longue soirée passera, et la journée de demain ; et l’hiver arrivera à sa fin.
+
+`p00344` Comme Childe-Harold, Onéguine s’abandonne à une paresse rêveuse. Au saut du lit, il se jette dans un bain d’eau froide, et, toute la journée, il reste à la maison et s’enfonce dans les calculs, ou bien, armé d’une queue émoussée, il joue seul au billard avec deux billes. Le soir, le billard est délaissé et la queue repoussée. Assis à la table dressée devant la cheminée, Eugène attend : tout-à-coup Lensky arrive dans sa troïka attelée de chevaux gris. Vite à table !
+
+`p00345` Une pieuse bouteille d’un Cliquot frappé est apportée en l’honneur du poète. Le Champagne pétillant et mousseux, — semblable à… tout ce que vous voudrez, — me fut longtemps cher ! Pour lui, jadis j’ai donné bien souvent jusqu’à mon dernier copeck ! Vous souvient-il, amis, de ses flots dorés qui faisaient éclore tant de sottises, de plaisanteries, de vers et de rêves !
+
+`p00346` Mais son écume bruyante a fait des ravages dans mon estomac, et maintenant je lui préfère le bordeaux, plus tranquille. Et l’aï même, je ne saurais le boire, l’aï, vin généreux, qui ressemble à une amante vive, brillante, volage, capricieuse et vaine… Mais toi, bordeaux, tu es pour l’homme un ami toujours prêt à rendre service dans le malheur, ou bien à partager une heure de joie. Vive le bordeaux ! c’est encore notre meilleur camarade !
+
+`p00347` Le feu est éteint ; la cendre recouvre quelques charbons brûlants ; la fumée ne s’élève plus qu’en une faible colonne, et le foyer ne donne qu’une chaleur presque insensible. — La fumée des pipes monte en spirale ; la coupe, remplie jusqu’aux bords d’un breuvage écumeux, est encore sur la table. Le crépuscule descend… J’aime (pourquoi ? je n’en sais rien !), j’aime les causeries amicales autour d’une bouteille de bon vin, à l’heure qu’on appelle entre chien et loup.
+
+`p00348` Nos deux amis parlent maintenant à cœur ouvert.
+
+`p00349` « Eh bien ! que deviennent nos voisines ? que fait Tatiana ? que fait la pétulante Olga ?
+
+`p00350` — Verse encore un demi-verre… Assez, cher ami ! Toute la famille est bien portante et te fait saluer. Oh ! si tu savais, mon cher, comme les épaules d’Olga sont devenues belles ! Quel cou ! Quelle âme !… Un de ces jours, passons ensemble chez les Larine : tu les obligeras. Autrement, juge toi-même : deux fois tu es entré dans leur maison, et puis tu n’y mets plus les pieds. — Mais (sot que je suis !) tu es invité pour la semaine prochaine, et j’oubliais de te le dire !
+
+`p00351` — Moi ?
+
+`p00352` — Mais oui ! Le jour de fête de Tatiana arrive samedi. Olinka et sa mère m’ont chargé de t’inviter, et tu n’as aucune raison de répondre par un refus.
+
+`p00353` — Mais il y aura une grande foule… j’y trouverai toute espèce de gens ?
+
+`p00354` — Oh ! personne, j’en suis sûr !
+
+`p00355` — Quels sont donc les conviés ?
+
+`p00356` — La famille. Allons-y ensemble ! Voyons, fais-moi ce plaisir !
+
+`p00357` — Eh bien… j’irai !
+
+`p00358` — Comme tu es aimable ! »
+
+`p00359` Et Lensky vida son verre à la santé de sa voisine, et se remit à parler d’Olga : tel est l’amour !
+
+`p00360` Il était gai ce soir-là. L’attente de son bonheur n’était plus que de deux semaines : le mystère du lit nuptial, la récompense d’un mutuel amour, il allait les goûter. Tandis que nous, les ennemis du mariage, nous ne voyons dans la vie de famille qu’une série de tableaux insipides, un roman dans le goût de La Fontaine ; mon pauvre Lensky, lui, ne voyait jamais l’image de son bonheur obscurcie par l’idée des embarras de l’hymen, ni des froids bâillements. — Mon ami avait un cœur qui le prédestinait à cette vie.
+
+`p00361` On l’aima… du moins il le crut et fut heureux ! Mille fois heureux celui qui, s’abandonnant à l’espérance, fait taire la froide raison et trouve un abri tranquille et doux dans l’assouvissement des besoins du cœur ! C’est ainsi que le voyageur en état d’ivresse cherche le sommeil sur sa couche ; ou, plus délicatement, c’est ainsi que le papillon se repose délicieusement dans le calice de la fleur printanière.
+
+`p00362` Mais, malheureux celui qui prévoit l’avenir et ses désenchantements ! Malheureux celui dont la tête, toujours froide et logique, n’a jamais su qu’analyser les paroles et les délires du cœur, et qui, glacé par l’expérience, n’a jamais pu trouver l’oubli au fond d’une rêverie mensongère !
+
+`p00363` **CHAPITRE V.**
+
+`p00364` Ô ma Svétlana, n’apprends jamais à connaître ces songes affreux.
+
+`p00365` (Joukovski.)
+
+`p00366` L’automne fut long cette année-là ; la nature semblait ne pouvoir se résoudre à prendre le manteau d’hiver : la neige ne tomba que dans la nuit du trois janvier. Réveillée de grand matin, Tatiana se mit à la fenêtre et contempla le lever de l’aurore. De légers dessins se formaient sur les vitres ; elle vit le parc, les haies, les toits, tout blanchis par la neige ; les arbres couverts d’une parure argentée, et les pies joyeuses qui sautaient dans la cour. Les montagnes portaient leur couronne étincelante : tous les environs blanchis resplendissaient.
+
+`p00367` L’hiver !… Le paysan le salue joyeusement en traçant un sentier avec son large traîneau ; son cheval flaire en hennissant la neige nouvelle et soutient tant bien que mal son petit trot. La téméraire kibitka soulève dans sa course rapide une blanche poussière. Le cocher s’est assis sur son siége, vêtu de son tuloup, serré à la taille par une ceinture rouge. Voilà un petit garçon qui court : il a attelé un chien noir à son traîneau en guise de cheval ; le polisson a déjà son petit doigt gelé, il souffre et rit tout de même : par la fenêtre sa mère le gronde et le menace.
+
+`p00368` Mais ce tableau de l’hiver n’a sans doute aucun charme pour vous. Il ne contient, en effet, rien d’extraordinaire, et tout y est pris dans la nature même. Un autre poète, mieux inspiré, nous a dépeint, dans un style luxuriant, la première neige et les plaisirs variés de l’hiver avec toutes leurs nuances. Il vous enchante, j’en suis sûr, lorsqu’il retrace dans ses vers les mystérieuses promenades en traîneau, sous un beau clair de lune. Mais je n’ai pas l’intention de lutter avec lui, ni avec toi, ô chantre de la jeune Finlandaise !…
+
+`p00369` Russe dans l’âme, Tatiana aimait d’instinct l’hiver de son pays et sa froide beauté. Elle aimait le soleil des frimas sur un sol couvert par la gelée, et les traîneaux, et l’éclat rosé des neiges au crépuscule du soir ; et les brouillards de l’Épiphanie, saint jour que l’on fêtait chez ses parents suivant les anciennes traditions. Alors les servantes tiraient la bonne aventure à leurs jeunes maîtresses et leur prédisaient chaque année un officier pour mari et des voyages.
+
+`p00370` Tatiana ajoutait une foi entière aux superstitions populaires, aux rêves, aux cartes et à l’astrologie. Partout elle voyait des présages mystérieux, mille pressentiments l’agitaient. Si, couché sur le poêle, le chat se mettait à nettoyer son petit museau avec sa patte, tout en faisant son ronron, elle y voyait le signe certain d’une visite prochaine… Apercevait-elle à gauche le croissant de la nouvelle lune, aussitôt elle tremblait… Mais, lorsqu’une étoile filante parcourait le sombre azur du ciel, elle se hâtait, toute troublée, de lui jeter le souhait de son cœur, avant de la voir disparaître de l’horizon. Si elle rencontrait quelque part un moine, ou si un lapin agile traversait son chemin dans les champs, elle devenait triste, et, l’âme remplie de noires visions, elle s’attendait à un malheur.
+
+`p00371` Mais ses terreurs mêmes lui apportaient un charme secret. Voilà bien la nature humaine avec ses contradictions ! — Les fêtes de Noël arrivèrent, et avec elles les jours de joie. À la campagne, jeunes et vieux ne font plus que tirer les cartes, qu’évoquer l’avenir…
+
+`p00372` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00373` Tatiana suit d’un œil inquiet la cire fondue qui tombe dans un bassin ; les dessins bizarres qu’elle forme lui révèlent quelque mystère. On retire des bagues d’un plat rempli d’eau, et celle qui sort pour elle est précédée de ce chant antique : « Là-bas les paysans sont tous riches : ils remuent l’argent à pelletées. Celui pour lequel nous chantons aura fortune et gloire. » Cette chanson populaire est regardée comme annonce de malheurs : plus douce au cœur des jeunes filles est la chanson de la kochourka.
+
+`p00374` La nuit est froide, le ciel est pur ; le chœur des astres du ciel se meut en cadence avec une parfaite harmonie. Vêtue seulement d’une robe, la jeune fille sort dans la vaste cour ; elle présente son miroir aux rayons de la lune ; mais l’astre des nuits projette sa lumière tremblante dans la petite glace, et rien de plus n’arrive. — Mais, écoutez !… la neige craque… un passant ! Elle court à lui sur la pointe du pied, et sa voix résonne plus douce que le son de la flûte de Pan. « Quel est votre nom ? » Le passant regarde et répond : « Agathon ! »
+
+`p00375` D’après le conseil de sa bonne, elle voulait passer toute la nuit à évoquer l’avenir. Elle fit mettre deux couverts dans la salle de bain. Mais tout-à-coup la frayeur la saisit, — et moi, en songeant au sort de Svétlana, j’avoue que j’ai peur aussi pour ma Tatiana. Il n’y a donc rien à faire ! nous n’interrogerons pas l’avenir ensemble : déjà elle a ôté sa ceinture de soie et s’est déshabillée. — Sous son coussin de plume repose le petit miroir. Le sommeil plane ; tout est calme : Tatiana dort.
+
+`p00376` Un rêve étrange l’emporte sur ses ailes. Il lui semble marcher au milieu d’un épais brouillard, dans un champ couvert de neige. Devant elle, un torrent écumeux que la glace de l’hiver n’a pu enchaîner, roule avec fracas les sombres tourbillons de ses ondes blafardes à travers une montagne de neige. Maintenues par une épaisse couche de glace, deux perches flexibles, jetées en travers du torrent, forment une passerelle tremblante et périlleuse. La jeune fille, arrivée au bord du gouffre mugissant, s’arrête hésitante.
+
+`p00377` Elle s’irrite de cet obstacle imprévu, elle cherche quelqu’un qui puisse, de l’autre bord, lui tendre la main, et personne ne paraît ! Soudain, des montagnes de neige s’écroulent et l’avalanche vomit un ours immense à la crinière hérissée. Tatiana jette un cri d’angoisse : la bête féroce lui répond par un rugissement et présente sa patte garnie de griffes aiguës. Alors Tatiana se roidit contre la frayeur qui l’oppresse : d’une main frémissante, elle saisit l’appui que l’ours lui tend, elle franchit le torrent et continue sa route ; l’ours la suit.
+
+`p00378` Elle hâte le pas, sans oser regarder derrière elle. Mais elle ne peut, malgré ses efforts, se débarrasser de son laquais velu, qui se traîne après elle en faisant entendre un sourd grognement. Bientôt la route se trouve coupée par un bois de noirs sapins, fiers de leur austère beauté, étendant immobiles leurs rameaux chargés de neige. Plus loin les trembles, les bouleaux et les tilleuls laissent passer entre leurs branches dépouillées le rayon de l’astre des nuits.
+
+`p00379` Il n’y a plus de sentier ; buissons, ondulations du terrain, précipices même, tout a disparu sous la neige.
+
+`p00380` Tatiana se jette dans le bois : l’ours l’y poursuit. Elle enfonce jusqu’au genou dans la neige ; une branche fouette son épaule et enlève une de ses boucles d’oreilles d’or ; sa bottine ne peut plus garantir son pied d’une humidité glaciale ; son mouchoir lui échappe, elle n’ose s’arrêter pour le relever ; sa frayeur redouble à chaque pas, elle entend toujours l’ours derrière elle, et sa main tremblante n’ose même pas relever sa longue robe. Elle court, il court aussi ; déjà elle sent ses forces défaillir…
+
+`p00381` Enfin elle tombe inanimée. Aussitôt l’ours la saisit. Étendue sans mouvement et sans respiration, elle ne fait aucune résistance. Il la porte à travers le bois jusqu’à une pauvre cabane isolée au milieu de la forêt, et presque engloutie par des monceaux de neige que le pied du voyageur ne foula jamais. Une vive lumière éclaire l’étroite fenêtre, et du dehors on entend des cris et du bruit. L’ours murmure alors tout bas : « Ici habite mon compère, réchauffe-toi un peu chez lui. » Il entre et sous un vestibule il dépose la jeune fille.
+
+`p00382` Tatiana revient à elle ; elle ouvre les yeux : l’ours a disparu, elle est sous un vestibule. Des cris, des bruits de verre, comme après un grand enterrement. Elle ne comprend rien à tout cela. Elle s’approche doucement de la porte et regarde à travers une fente. Que voit-elle ?… Autour de la table, des monstres sont assis ; l’un avec des cornes et un museau de chien, l’autre avec une tête de coq ; ici une sorcière avec une barbe de chèvre, là un squelette insolent et guindé ; plus loin un nain avec une queue, puis un animal moitié grue et moitié chat.
+
+`p00383` Chose plus effrayante encore, une écrevisse se tenait à cheval sur une araignée ; un crâne, coiffé d’un bonnet rouge, tournait sur le cou d’une oie ; un moulin à vent dansait la priciadka en faisant craquer ses ailes. Des aboiements, des éclats de rire, des sifflements et des battements de mains : des cris d’hommes et des trépignements de chevaux, voilà ce qui sort de cet antre ! — Mais quelle n’est pas la stupeur de Tatiana lorsqu’elle reconnaît parmi les convives celui qui lui est tout à la fois si cher et si redoutable : Onéguine, qui, assis là, jette à la dérobée des regards vers la porte !…
+
+`p00384` C’est lui qui préside, et tous lui obéissent. Ils boivent quand il boit, ils rient quand il rit ; s’il fronce le sourcil, tous se taisent : il n’y a pas à en douter, c’est lui qui est le maître de céans. Tatiana n’est plus si effrayée ; la curiosité la saisit et la fait entr’ouvrir la porte… Le vent s’engouffre et les flambeaux s’éteignent ! Alors la bande infernale s’agite ; Onéguine, le regard étincelant, quitte la table en la poussant avec bruit, et se dirige vers la porte ; tous se lèvent aussi.
+
+`p00385` L’épouvante est au comble dans l’âme de la jeune fille ; elle s’efforce de fuir, ses jambes fléchissent ; elle veut crier, la voix expire sur ses lèvres. Eugène pousse la porte et Tatiana apparaît aux regards des fantômes. Un rire strident retentit, et les yeux, les sabots, les trompes crochues, les queues velues, les défenses, les moustaches, les langues ensanglantées, les cornes et les doigts osseux la désignent et tous crient : « À moi ! à moi ! »
+
+`p00386` « À moi ! » dit Eugène avec autorité, et soudain toute la bande s’éloigne. La jeune fille est restée seule dans la froide obscurité. Onéguine l’entraîne doucement dans un coin de la cabane, la fait asseoir sur un escabeau boiteux, et appuyer la tête sur sa robuste épaule. Soudain entrent Olga et Lensky. Une vive lumière se répand partout, Onéguine lève la main, menace ses visiteurs inattendus, et ses yeux lancent des éclairs. Tatiana, affaissée sur elle-même, respire à peine.
+
+`p00387` La querelle s’anime ; tout-à-coup Eugène saisit un long couteau, et, dans un clin-d’œil, Lensky est terrassé. Les ombres s’épaississent, un cri déchirant se fait entendre ; la cabane chancelle, et Tatiana se réveille pleine d’horreur. Elle regarde ; il fait déjà grand jour dans sa chambre, un rayon pourpré se joue sur la vitre gelée. La porte s’est ouverte. Plus vermeille que le premier feu du matin, plus légère que l’hirondelle, Olga s’élance dans la chambre : « Eh bien ! dis-moi, quel rêve as-tu donc fait cette nuit ? »
+
+`p00388` Mais sa sœur ne répond pas. Courbée sur un livre, elle interroge chaque feuille l’une après l’autre, sans dire un seul mot. Ce livre ne renferme pourtant ni douces fictions de poètes, ni sages vérités, ni tableaux enchanteurs ; ce n’est ni Virgile, ni Racine, ni Scott, ni Byron, ni Sénèque, ni même le journal des modes, qui intéresse tant les dames ! C’est, ami lecteur, Martin Zadika, chef des philosophes chaldéens, un devin, un interprète des songes.
+
+`p00389` Cet ouvrage profond fut apporté un jour chez les Larine par un marchand nomade qui le céda à Tatiana avec une Malvina dépareillée. Pour tout cela il reçut trois roubles et demi et des fables, une grammaire, deux Pétriades et le troisième volume de Marmontel. Depuis lors, Zadika, devenu le favori et le consolateur de toutes les tristesses, dormait constamment sous l’oreiller.
+
+`p00390` Tatiana est inquiète de son rêve, elle ne sait comment l’interpréter. Elle cherche dans la table alphabétique les mots forêt, tempête, corbeau, sapin, hérisson, ténèbres, pont, ours, tourbillon, etc. Mais Martin Zadika ne résout pas ses doutes, et pendant bien des jours elle ne peut sans angoisse penser à ce rêve.
+
+`p00391` Enfin se lève joyeuse l’aurore de son jour de fête. Dès le matin, la maison est remplie de monde ; les voisins arrivent avec leur famille, en vosok, en kibitka, en calèche et en traîneau. Dans l’antichambre, on se presse, on se pousse ; les nouveaux visiteurs passent au salon ; ce n’est qu’aboiements de chiens, baisers retentissants des demoiselles, bruit, rires, salutations. La porte est encombrée, les nourrices crient, les petits enfants pleurent.
+
+`p00392` On voit arriver le gros Poustiakoff avec sa grosse femme ; Gvosdine, excellent administrateur, propriétaire économe de paysans qui ne deviendront jamais riches : enfin le couple grisonnant des Skotinine avec leurs enfants de tout âge, depuis deux ans jusqu’à trente. Pétouchkoff, le petit maître du district entre avec mon cousin Bouianoff, tout couvert de ouate et en casquette à visière verte (suivant son habitude bien connue) ; avec eux se trouve le conseiller en retraite Phlianoff, querelleur étourdissant, vieux coquin, gourmand jusqu’à la gloutonnerie, et de plus bouffon, plus ou moins plaisant du reste.
+
+`p00393` Puis, avec la famille Pamphile Karlikoff, apparaît un diseur de bons mots, récemment arrivé de Tamboff et portant des lunettes et une perruque rousse, Monsieur Triquet. En véritable Français, monsieur Triquet a dans sa poche un couplet pour Tatiana, qui commence par ces mots : « Réveillez-vous, belle endormie, » et que les enfants connaissent très-bien. Ce couplet se trouvait dans un almanach, au milieu de vieilles chansons, et Triquet, poète perspicace, l’a fait sortir de son obscurité et a substitué hardiment à belle Nina, — belle Tatiana.
+
+`p00394` L’idole des demoiselles d’un âge mûr, la consolation des mères, le chef de l’escadron de cavalerie, arrive enfin. Il entre… Grande nouvelle ! il y aura musique militaire, par ordre du colonel lui-même ! Quel bonheur, il y aura bal ! Les petites filles sautent d’avance. — Mais le dîner est servi. On se dirige vers la table, deux à deux, la main dans la main. Les jeunes filles se pressent autour de Tatiana : les hommes prennent place en face, et tout le monde s’assied, après avoir fait le signe de la croix.
+
+`p00395` Maintenant toute conversation est suspendue : le travail des mâchoires se fait. De toutes parts, on entend le bruit des verres, des assiettes et des couteaux. Bientôt personne n’écoute, tous crient, tous se lancent dans de violentes discussions ; alors la porte s’ouvre : Lensky et Onéguine paraissent : « Mon Dieu ! s’écrie la maîtresse de la maison, enfin ! » — Les convives se pressent ; vite des chaises, des couverts ; on appelle les deux amis, on leur fait prendre place.
+
+`p00396` Ils se trouvent assis en face de Tatiana, qui, plus pâle que la lune du matin, plus tremblante que la biche forcée, n’ose lever son regard rempli de larmes ; une vive chaleur parcourt ses membres, elle ne peut plus respirer, elle va se trouver mal. Sourde aux félicitations que lui adressent les deux jeunes gens, la pauvre enfant retient à peine ses sanglots ; elle est prête à tomber évanouie. Mais, par un effort suprême, elle parvient enfin à triompher de son trouble, prononce quelques mots et ne quitte pas la table.
+
+`p00397` Depuis longtemps, Eugène ne pouvait plus supporter les scènes tragico-nerveuses, les évanouissements, les larmes des femmes : il en avait été trop souvent témoin. On l’avait conduit au milieu d’un festin bruyant : c’était déjà une première cause d’irritation, et lorsqu’il remarqua la langueur de la jeune fille, le combat qui se livrait en elle, il baissa les yeux, se mordit les lèvres de colère, et, indigné contre Lensky, jura de se venger. Consolé par cet espoir, il commença, pour se distraire, à faire en lui-même la caricature de tous les convives.
+
+`p00398` Eugène ne fut certes pas le seul à remarquer le trouble de Tatiana, mais un objet absorbait alors toute l’attention et tous les commentaires, c’était un pâté de foie gras, malheureusement trop salé. Enfin, entre le rôti et le blanc-manger, on sert avec le champagne une file de verres longs et étroits, semblables à ta taille, ô Zizi, cristal de mon âme, calice attrayant de la fleur de mon amour, toi qui bien souvent me versas l’ivresse d’une véritable folie !
+
+`p00399` La bouteille résonne en se débarrassant de son bouchon humide ; le vin pétille. Éperonné depuis longtemps par son couplet, Triquet se lève d’un air important. Tatiana se soutient à peine ; Triquet se tourne vers elle, une feuille de papier à la main, et entonne d’une voix rauque et fausse. Des applaudissements l’accueillent, et la jeune fille est obligée de faire une révérence au virtuose.
+
+`p00400` Alors commencèrent les compliments et les félicitations. Tatiana remercia tout le monde avec grâce. Lorsqu’Eugène s’approcha d’elle à son tour, il se sentit ému de pitié à la vue de son air languissant, de son trouble et de sa pâleur. Il la salua en silence, mais son regard s’anima d’une tendresse infinie. Était-il véritablement touché, ou bien n’était-ce qu’une coquetterie involontaire ou préméditée ? Je ne sais, mais la tendresse qui brillait dans son regard ranima le cœur de la pauvre enfant.
+
+`p00401` On recule les chaises avec grand fracas, et tout le monde passe au salon : — ainsi de sa ruche féconde s’envole vers la prairie le bruyant essaim des abeilles. — Contents de leur bon dîner, les convives s’endorment les uns devant les autres ; les dames s’assoient près de la cheminée et les jeunes filles chuchotent dans un coin. Les tables s’ouvrent, et les joueurs infatigables prennent place autour des tapis verts, où les attendent le boston et l’hombre aimés des vieillards, ou le whist célèbre jusqu’à nos jours, groupe monotone qu’engendrèrent l’avidité et l’ennui.
+
+`p00402` Déjà les amateurs de whist avaient fait huit parties ; huit fois ils avaient changé de place, lorsqu’on apporta le thé. — J’aime à fixer l’heure du dîner, du thé et du souper, mais à la campagne il n’en est pas besoin ; notre meilleure montre c’est notre estomac.
+
+`p00403` N’allons pas oublier de faire remarquer, entre parenthèses, qu’il est question dans nos vers de festins, de plats et de bouteilles, aussi souvent que dans les tiens, ô divin Homère, l’idole de trente siècles !
+
+`p00404` J’ose même dire que je me sens en état de lutter contre toi dans l’énumération des services d’un dîner. En toute franchise, j’ajouterai que je me sens vaincu sur plusieurs autres points. Ainsi tes farouches héros, tes combats merveilleux, ta Cypris et ton Jupiter sont bien supérieurs au froid Onéguine, à l’ennui et à la paresse de la vie champêtre, et même à notre éducation fashionable, et à mon Istomina ; mais quant à ma Tania, je jure bien qu’elle vaut mille fois ton Hélène.
+
+`p00405` Et personne ne me contredira, non, personne, quoique, pour Hélène, Ménélas n’ait cessé, dis-tu, pendant cent années, de porter le ravage dans l’infortunée Phrygie, et quoiqu’en la voyant passer, les vieillards de Pergame, rangés autour du vénérable Priam, aient proclamé que Ménélas a raison et que la cause de Pâris est juste ! — Et quant à savoir à qui de nous deux appartient la palme pour le récit des combats, — un peu de patience ! Qu’on lise un peu plus loin, qu’on ne soit pas trop sévère, il y aura un combat, et je vous le raconterai tel qu’il s’est passé, j’en donne ma parole d’honneur !
+
+`p00406` On apporte le thé : les jeunes filles touchent à peine les soucoupes, lorsque, dans la longue salle, retentissent le basson et la flûte. Charmé par les accords de la musique, Pétouchkoff, le Pâris des petites villes environnantes, laisse sa tasse de thé au rhum, et s’approche d’Olga ; Lensky s’approche de Tatiana ; Tambouski, le poète, prend mademoiselle Khalikova, vieille folle à marier ; Bouïanoff emporte mademoiselle Poustiakova ; tous se lancent dans la salle et le bal brille dans tout son éclat.
+
+`p00407` Au commencement de mon roman (regardez le premier chapitre), je voulais décrire un bal à Saint-Pétersbourg ; mais, détourné de mon sujet par de vaines rêveries, je me suis occupé des petits pieds des dames ! Sur vos traces étroites, ô petits pieds chéris, je me suis trop longtemps égaré ! Trahi par ma jeunesse, il est temps de devenir plus sage, de perfectionner mes travaux et mon style, et de purger mon cinquième chapitre de digressions.
+
+`p00408` Comme le sang bouillonne dans de jeunes artères, ainsi la valse s’élance et tourne, uniforme et frénétique. Un couple succède rapidement à un autre ; ils passent comme emportés par un tourbillon.
+
+`p00409` Onéguine voit approcher le moment de la vengeance ; il rit sous cape et s’approche d’Olga, il lui fait faire un tour de valse, puis il s’assied près d’elle, et commence à causer : deux minutes se passent, et la valse les emporte de nouveau dans son vol circulaire. Tout le monde s’étonne : Lensky n’en croit pas ses yeux.
+
+`p00410` La mazourka commence. — Jadis, quand l’on dansait la mazourka, tout tremblait dans l’immense salle. Le parquet craquait sous les talons éperonnés des danseurs, les vitres vibraient. Maintenant ce n’est plus cela ; cavaliers et dames glissent sans bruit sur le parquet luisant. Dans les petites villes seulement et dans les châteaux cette danse a conservé sa beauté primitive, les bonds, les talons, les moustaches. Là, du moins, la mode, ce tyran des Russes modernes, n’a pu encore y rien changer.
+
+`p00411` Bouianoff, mon intrépide cousin, amène à notre héros Tatiana et Olga ; vite Onéguine saisit Olga, et en dansant négligemment, il se baisse et lui récite à l’oreille quelque madrigal absurde ; — il lui serre la main, et son visage égoïste se couvre d’un incarnat passionné. Lensky a tout vu, il s’indigne, il ne peut plus se contenir, et, après la mazourka, il invite sa fiancée pour le cotillon.
+
+`p00412` Elle refuse. Et pourquoi ? Elle a déjà promis à Eugène. — Mon Dieu ! mon Dieu ! qu’a-t-il entendu ? Elle a pu… Est-ce possible ! À peine sortie de l’enfance, et déjà coquette et volage ! Elle ignore tout de la vie et connaît pourtant la ruse, la trahison ! Lensky n’a pas la force de supporter ce coup ; il sort, demande son cheval et s’élance au galop en maudissant les tours diaboliques des femmes. « Une paire de pistolets et deux balles décideront de son sort. »
+
+`p00413` **CHAPITRE VI.**
+
+`p00414` Là, sotto giorni nubilosi e brevi,  
+Nasce une gente a cui l’morir non dole.
+
+`p00415` (Pétrarque.)
+
+`p00416` Eugène a remarqué la disparition de Wladimir. Satisfait alors de sa vengeance, il retombe dans son ennui ordinaire, et une profonde rêverie l’absorbe tout entier, à côté d’Olga. La jeune fille sent aussi l’ennui venir ; elle commence à bâiller ; du regard elle cherche Lensky… Il lui semble que l’interminable cotillon ne finira jamais : malgré elle, ses yeux se ferment… Enfin, il est achevé !…
+
+`p00417` Le souper est servi et la foule se presse autour des longues tables. Les domestiques dressent des lits pour les visiteurs, depuis le vestibule jusqu’à la mansarde des servantes. Tous ont hâte de se livrer au sommeil ; Onéguine seul s’en retourne chez lui.
+
+`p00418` Tout est calme. Le lourd Poustiakoff et sa lourde moitié ronflent dans le salon. Gvozdine, Bouianof, Pétouchkof et Flianof, un peu souffrant, se reposent sur des chaises, dans la salle à manger. Monsieur Triquet, en camisole et en bonnet de nuit, s’est fait un lit sur le plancher. Les jeunes filles se sont partagé les chambres de Tatiana et d’Olga. Tout le monde est plongé dans un sommeil calme et profond. Seule, Tatiana ne dort pas : assise près de la fenêtre, elle regarde tristement la campagne sombre.
+
+`p00419` La soudaine apparition d’Eugène, la tendresse qui avait un instant fait briller ses yeux, son étrange conduite avec Olga, tout cela a bouleversé l’âme de la jeune fille. Une angoisse jalouse l’oppresse ; il semble qu’une main glacée lui serre le cœur, et qu’un gouffre béant s’entr’ouvre et gronde sous ses pas… « Je vais mourir, » dit-elle, « mais la blessure qui me vient de lui m’est chère ; je ne murmure pas : il ne peut me donner le bonheur ! »
+
+`p00420` Pressons-nous, mon petit livre, un nouveau personnage nous appelle !
+
+`p00421` À cinq verstes de la Montagne-Rouge où se trouve la campagne de Lensky, demeure et vit, en bonne santé jusqu’à présent, dans son désert philosophique, Zaretsky, jadis personnage turbulent, hetman d’une bande de joueurs passionnés, chef de vauriens, tribun des restaurants et des cafés, maintenant bon et simple père de famille, ami sûr, paisible propriétaire et même honnête homme. — Ainsi notre siècle va se corrigeant.
+
+`p00422` Il était renommé pour son adresse au tir ; il touchait d’une balle un as placé à cinq sagènes. Il faut dire aussi, qu’un jour, il s’était distingué sur un champ de bataille, car il tomba dans la boue de dessus son cheval kalmouk, dans un état complet d’ivresse, et resta aux mains des Français comme un précieux otage. Nouveau Régulus, esclave de la foi jurée, il serait volontiers retourné à Paris, reprendre ses fers ; à Paris où il buvait, tous les matins à crédit, trois bouteilles chez Véry.
+
+`p00423` Jadis, il maniait agréablement la raillerie, savait berner un sot, mystifier même à merveille un homme d’esprit. — Ses tours, pourtant, ne passaient pas toujours sans leçon ; en plus d’une circonstance il avait fait la figure d’un sot et ne s’était pas tiré d’affaires avec honneur. Quoi qu’il en soit, on peut dire qu’il savait se disputer gaîment, faire des réparties spirituelles, quelquefois étonner par sa bêtise feinte et exagérée, se taire à propos, se quereller à propos, brouiller ensemble de jeunes amis et les conduire ensuite sur le terrain,
+
+`p00424` ou bien les forcer à se réconcilier pour faire un bon déjeuner à trois, quitte à les diffamer partout avec une fine raillerie ou un mensonge. Sed alia tempora ! L’audace effrontée, comme le songe de l’amour (autre polissonnerie), passe avec la vivacité de la jeunesse. Comme je vous l’ai déjà annoncé, mon Zaretsky s’est retiré du monde, et, sous l’ombrage des pruniers et des acacias, mène maintenant la vie d’un véritable philosophe. Il plante des choux, comme Horace, il élève des canards et des oies, et il enseigne l’alphabet à ses enfants.
+
+`p00425` Il n’était pas sot, et Eugène, tout en ne faisant pas grande estime de son cœur, appréciait son esprit, ses jugements, et la manière dont il envisageait beaucoup de choses de ce bas-monde. Il n’y avait pas longtemps encore qu’ils s’étaient entrevus avec plaisir, aussi, fut-ce sans aucune surprise qu’Eugène vit, le lendemain de la soirée chez les Larine, son voisin entrer chez lui. Zaretsky, après les premières politesses, interrompt la conversation commencée et, regardant Onéguine en souriant, il lui remet un billet du poète. Notre héros s’approche de la fenêtre et lit tout bas.
+
+`p00426` C’était tout simplement un noble, un laconique défi : un cartel ! deux lignes polies et froides par lesquelles Lensky provoquait son ami en duel. — Onéguine, dans son premier mouvement, se tourne vers le porteur du billet et lui dit sans autre préambule, qu’il est toujours prêt. Zaretsky se lève aussitôt, prétextant ses occupations, et sort. Eugène, resté seul avec sa conscience, était mécontent de lui-même.
+
+`p00427` Ce secret tribunal lui reprochait bien des choses. D’abord, il était coupable d’avoir, la veille, raillé avec tant de légèreté un amour naïf et sincère. Et puis, que le poète Lensky fasse des folies, il a son excuse dans ses dix-huit ans ; mais Eugène, qui l’aime de tout son cœur, devrait lui prouver qu’il est au-dessus des préjugés, qu’il sait dominer sa colère et n’est pas, enfin, un fougueux duelliste, mais un homme d’honneur et d’esprit.
+
+`p00428` Il aurait dû s’expliquer avec son jeune ami, lui donner les raisons qui l’avaient fait agir, et non se hérisser comme une bête fauve ; il aurait dû désarmer le poète ! Mais il est trop tard maintenant, le temps a fui… et d’ailleurs, le vieux duelliste est mêlé dans cette affaire, il est méchant, cancanier, bavard. Ses plaisanteries, il est vrai, ne méritent que le mépris, mais les chuchotements, les rires des sots !… et l’opinion !… l’opinion, ce ressort de l’honneur ! Hélas ! c’est ainsi que va le monde !
+
+`p00429` En proie à une impatience fiévreuse, Lensky attend la réponse. Enfin, son bavard voisin la lui apporte solennellement. C’est un jour de fête pour ce cœur où déborde une colère jalouse ! Il avait craint que le spirituel Eugène ne se tirât d’affaire par une plaisanterie et qu’il n’inventât quelque ruse pour détourner le pistolet de sa poitrine. Maintenant ces doutes ne peuvent plus exister : demain, ils se rendront tous deux derrière le moulin, avant le lever du soleil ; ils chargeront leurs armes et ajusteront ou la tête ou le cœur.
+
+`p00430` Lensky était bien décidé à bannir Olga de sa pensée et à ne pas la voir avant le duel. Il regardait le soleil, il tourmentait sa montre, il s’agitait et enfin, il sortait pour faire une dernière visite à ses voisines. Il pensait que sa présence troublerait Olga, il n’en fut rien. Suivant sa coutume, la jeune fille sauta du perron à la rencontre du pauvre poète, semblable à l’espérance, vive, insouciante et gaie, tout-à-fait la même que les jours précédents.
+
+`p00431` « Pourquoi donc avez-vous disparu si vite hier soir ? » Tel fut le premier mot de la jeune fille. À cette demande inattendue, le poète se trouble, il baisse la tête en silence ; sa jalousie et sa colère se sont évanouies devant la sérénité du regard de sa fiancée, devant sa tendre simplicité et la transparente limpidité de son âme. Il la contemple avec un doux attendrissement ; il sent qu’il est toujours aimé ! Déjà, il se repent, il est prêt à lui tout avouer, à demander son pardon, il tremble, la parole expire sur ses lèvres, il est heureux, presque guéri !
+
+`p00432` Redevenu triste et pensif, il n’a pas le courage de rappeler les circonstances de la veille. Il se dit : « Je serai son sauveur, je me placerai entre ce cœur naïf et tendre et les soupirs et les flatteries d’un infâme séducteur ! J’écraserai ce ver méprisable qui veut ronger la tige délicate de ce beau lys et souiller sa blanche corolle. Non, non, cette fleur qui compte deux matins à peine ne sera pas aussitôt fanée qu’éclose. »
+
+`p00433` Tout cela, cher lecteur, revient à dire : Je veux me battre avec mon ami !
+
+`p00434` Oh ! si la blessure qui rongeait le cœur de Tatiana avait été connue ! Si Tatiana elle-même avait pu savoir que demain Lensky et Eugène se disputeraient la tombe, peut-être son amour lui eût-il donné le pouvoir de réunir les deux amis. Mais personne encore ne soupçonnait cette passion : Tatiana dépérissait en silence, Onéguine se taisait sur toutes choses ; seule, la bonne aurait pu parler, mais on sait déjà que la perspicacité n’était pas une de ses vertus.
+
+`p00435` Toute la soirée, Lensky fut extrêmement distrait ; tantôt il gardait un morne silence, tantôt il se livrait à une folle gaieté. Mais l’enfant chéri de la Muse n’est-il pas toujours ainsi ?… Il fronçait le sourcil, se mettait au piano, en tirait quelques accords, puis, fixant ses regards sur Olga, il disait tout bas : « Je suis heureux, n’est-ce pas ? »
+
+`p00436` Il est tard, le moment de partir est venu. En disant adieu à la jeune fille, son cœur se serra douloureusement ; il sentit sa poitrine se déchirer. Olga le regardait en face. « Qu’avez-vous ? » — « Je n’ai rien ! » et il sortit brusquement.
+
+`p00437` Arrivé chez lui, il examine ses pistolets et les replace dans leur boîte, puis il se déshabille, approche une lampe et ouvre Schiller. Mais une pensée unique l’absorbe et la tristesse dont son âme est remplie ne lui permet pas un instant de calme. L’image d’Olga, divinement belle, se tient toujours devant lui. Il ferme alors son livre, prend une plume, et des vers, d’un non-sens amoureux, s’échappent de son esprit troublé. Il les lit à haute voix dans la chaleur de la composition, comme D*** dans l’ivresse d’un festin.
+
+`p00438` J’ai conservé ces vers et je les ai encore, les voici :
+
+`p00439` Où donc, où donc es-tu, soleil de ma jeunesse ?  
+Dis, que m’apportera le temps mystérieux ?…  
+Je voudrais soulever l’inconnu qui m’oppresse ;  
+Mais un nuage épais le dérobe à mes yeux.
+
+`p00440` Eh ! qu’importe la loi qui sévère ou clémente  
+Doit gouverner ces jours qui bientôt vont finir ?  
+À tous les coups du sort mon âme indifférente,  
+Dans la peine ou la joie, à jamais veut bénir !  
+Loi fatale et divine, à jamais sois bénie ;  
+Tu n’excites en mon cœur ni larme ni regret !  
+Qu’importera ma mort, et qu’importe ma vie ?  
+Tout n’est-il pas écrit, tout n’est-il pas bien fait ?  
+Pressant ses coursiers bleus, bientôt la pâle Aurore  
+Va répandre un rayon de sa douce clarté,  
+Et le brillant soleil va se lever encore  
+Pour dorer l’univers de son disque enflammé.  
+Et moi ?… Peut-être, alors, sous une froide pierre,  
+Dans la nuit du cercueil mes os reposeront,  
+Et sur mon souvenir et sur ma vie entière  
+Les flots silencieux de l’oubli descendront.  
+La mémoire du monde est courte et fugitive ;  
+Mais toi dont la beauté si longtemps m’enivra,  
+Toi, ne viendras-tu pas sur ma tombe hâtive  
+Répandre quelques pleurs et te dire : « Il m’aima !  
+» De ses jours orageux seule j’étais le charme,  
+» Pendant toute sa vie il fut à mes genoux. »  
+Viens, ô ma fiancée, ah ! verse cette larme  
+Sur la cendre de ton époux.
+
+`p00441` L’âme remplie de tristesse, le jeune poète écrivait ces vers que nous appelons romantiques (je ne sais trop pourquoi). — Lorsque le jour commença à poindre, il s’était assoupi doucement en traçant le mot idéal. Mais à peine a-t-il goûté les charmes du premier sommeil que son voisin entre dans le cabinet silencieux et le réveille. « Il est temps, » dit-il, « sept heures vont sonner ; sûrement Onéguine nous attend déjà. »
+
+`p00442` Il se trompait ; Eugène, dans ce moment, dormait d’un sommeil de plomb. Les ombres de la nuit disparaissent, l’étoile du matin est saluée par le chant du coq, et Onéguine dort profondément. Le soleil est déjà haut sur l’horizon, la neige tourbillonne et brille, Eugène n’a pas encore quitté son lit, ses paupières restent appesanties. Enfin, il ouvre les yeux, soulève le rideau, regarde, et voit avec dépit qu’il devrait être parti depuis longtemps.
+
+`p00443` Il sonne. Son domestique, le français Guillot, s’empresse de lui apporter la robe de chambre et les pantoufles. Onéguine s’habille à la hâte, il ordonne à Guillot de se tenir prêt à partir et de prendre sa boîte de pistolets. Le traîneau est prêt. Eugène s’y assied et vole au moulin, lieu du rendez-vous. Guillot remet alors à son maître les armes fatales de Lepage et renvoie les chevaux dans la plaine près des deux chênes.
+
+`p00444` Appuyé sur la digue, Lensky attend depuis de longues heures et il s’impatiente du retard. Zaretski parle d’économie rurale et critique les meules de foin qui sont dans la prairie. Enfin Onéguine les rejoint en s’excusant.
+
+`p00445` « Où est donc votre témoin ? » dit Zaretsky avec étonnement. — Classique et pédant, il aimait la méthode en toute chose, dans les duels surtout ; il ne permettait pas d’étendre un homme sur le carreau, sinon d’après les règles les plus sévères de l’art et les strictes traditions des anciens (détail que nous ne pouvons trop admirer en lui !)
+
+`p00446` « Mon témoin ? » dit Eugène, « le voilà ; c’est mon ami, monsieur Guillot. Je ne pense pas qu’on fasse d’objection à mon choix. Bien que monsieur Guillot vous soit tout-à-fait inconnu, il n’en est pas moins un très-honnête homme. »
+
+`p00447` Zaretski se mordit les lèvres.
+
+`p00448` Onéguine demanda à Lensky : « Eh bien ! commençons-nous ? » — « Soit, » dit Wladimir ; et ils se rendirent derrière le moulin, pendant que notre Zaretsky et l’honnête homme s’entretenaient des chances du combat.
+
+`p00449` Les ennemis se placèrent l’un devant l’autre, les yeux baissés.
+
+`p00450` Les ennemis ! Y a-t-il longtemps qu’ils ont soif du sang l’un de l’autre ? Y a-t-il longtemps qu’ils partageaient en frères leurs repas, leurs loisirs, leurs soins et leurs pensées ? Aujourd’hui, la rage dans le cœur, comme animés dans un rêve affreux, incompréhensible, d’une haine héréditaire, — ils méditent froidement leur perte. — Et cependant, ne devraient-ils pas s’entendre, maintenant que leurs mains ne sont pas encore teintes de sang ? ne devraient-ils pas s’expliquer sur une offense qui n’a pas été sérieuse et ne doit se terminer que par le rire des combattants ? Mais le courage du monde n’affronta jamais la fausse honte.
+
+`p00451` Déjà brille le canon des pistolets ; la baguette retentit ; la balle descend dans le tube ciselé ; la batterie sonne une première fois ; la poudre descend en sillage grisâtre dans le bassinet ; la pierre est fortement serrée par la vis : ils arment de nouveau. Guillot, tout tremblant, se met alors à l’abri derrière un buisson.
+
+`p00452` Les deux champions quittent leurs manteaux, Zaretsky mesure trente-deux pas avec une exactitude parfaite, et les place aux deux extrémités. Chacun lève son arme.
+
+`p00453` « Maintenant, allez ! »
+
+`p00454` À ces mots, les deux ennemis s’avancent de sang-froid, sans viser encore. Ils font quatre pas lents et égaux, quatre degrés de plus vers la tombe ! Eugène ne cesse pas de s’avancer, et, le premier, il lève son pistolet et vise. Ils font encore cinq pas, — et Lensky, fermant l’œil gauche, vise à son tour. Tout-à-coup, Onéguine tire ! — L’heure fatale a sonné ; le poète lâche silencieusement son arme,
+
+`p00455` met lentement la main sur sa poitrine, et tombe… Son regard voilé annonce la mort et non pas la douleur : ainsi le bloc de neige, étincelant au soleil, s’affaisse lentement sur la montagne.
+
+`p00456` Saisi subitement d’un froid au cœur, Onéguine court au jeune homme, le regarde, l’appelle… mais en vain. Il n’est plus ! Le jeune poète est mort avant le temps ! L’orage a soufflé, la fleur s’est fanée dès l’aurore, le feu sacré s’est éteint sur l’autel !
+
+`p00457` Il était là, immobile, étendu par terre. La paix qui se reflétait sur son front livide était étrange et effrayante. La balle avait traversé le cœur, et le sang coulait à flots de la blessure. Il n’y a qu’un moment, l’inspiration, le ressentiment, l’amour et l’espérance faisaient battre ce cœur ! Il n’y a qu’un moment, il était tout plein de vie, le sang y bouillonnait. — Et maintenant, tout est triste, tout est sombre. Il s’est tu pour jamais ! Comme dans une maison déserte, dont les volets sont fermés et les vitres blanchies de craie, la maîtresse du logis est absente !… Où est-elle ?… Dieu seul le sait ; ses traces mêmes ont disparu !…
+
+`p00458` C’est un plaisir de piquer un ennemi par une audacieuse épigramme ; c’est un plaisir de le surprendre se regardant au miroir, avec toutes ses laideurs, sans se reconnaître. C’est un plaisir plus grand encore, s’il s’écrie bêtement : C’est moi ! — Mais croyez-vous, amis, qu’il soit plus doux encore de lui préparer une tombe silencieuse, de viser lentement son front pâle à une distance raisonnable, et enfin de l’envoyer rejoindre ses aïeux ?
+
+`p00459` Eh bien ! si, pour un regard malin ou une réponse insolente, ou une autre niaiserie provoquée par le vin, la balle de votre pistolet étendait à vos pieds votre jeune ami, — quand même il vous aurait appelé en duel le premier, dans un moment de colère… Dites-moi, quel sentiment s’emparerait de votre âme, lorsque vous le verriez à terre, sans mouvement, la mort sur le front, les membres glacés et roides, sourd à votre appel désespéré ?…
+
+`p00460` Déchiré par de cuisants remords, le pistolet serré dans sa main crispée, Eugène regarde Lensky. « Eh bien ! quoi ? » dit le voisin ; « il est mort ! »
+
+`p00461` Il est mort ! ce mot affreux accable Onéguine ! Il s’éloigne en silence et appelle ses gens. Zaretsky pose avec précaution dans le traîneau, le cadavre glacé, et transporte à la maison ce lamentable trésor. Les chevaux, sentant la mort, hennissent, se cabrent, couvrent le mors d’une blanche écume et partent avec la rapidité d’une flèche.
+
+`p00462` Amis, vous plaignez le sort de mon poète ? Il avait fait quelques pas à peine dans le sentier de la vie, et déjà il n’est plus ! Son cœur surabondait d’espérances qui n’ont pu germer. Qu’est devenue l’ardente inspiration et la noble impétuosité de ses chants ? Où sont ses sentiments si élevés, si hardis et si tendres ? Où sont les souhaits généreux de l’amitié, la soif du savoir et du travail, l’horreur du vice et de la honte ! — Et vous, secrètes rêveries, mirage d’une vie céleste, élans d’une sainte poésie, où êtes-vous, où êtes-vous ?
+
+`p00463` Peut-être Lensky était-il né pour le bien de l’humanité, ou du moins pour sa gloire. Peut-être sa lyre, silencieuse maintenant, eût-elle vibré longtemps dans le souvenir des siècles ; peut-être les palmes du triomphe l’attendaient-elles au seuil de son existence ; — peut-être son ombre éplorée a-t-elle emporté un saint mystère, et un chant qui eût jeté dans le monde une semence de vie ? Alors l’hymne des temps à venir et les bénédictions des cœurs auxquels il aurait entr’ouvert l’idéal, seraient venus bercer doucement son ombre, par delà les froids tombeaux !
+
+`p00464` Ou bien, qui sait ? peut-être ses jours auraient-ils coulé dans la tranquillité et la monotonie d’une existence banale ; peut-être, la jeunesse une fois passée, l’ardeur de son âme se serait-elle éteinte. Il aurait dit adieu à la Poésie, il se serait marié. Heureux alors et trompé par sa femme, bien couvert d’une robe de chambre ouatée, il eût pris la vie par son côté réel et pratique. Mangeant bien, buvant mieux encore, il eût attendu la goutte vers quarante ans, l’embonpoint ensuite, et puis l’ennui, l’affaiblissement et enfin la mort, dans son lit, au milieu de ses enfants, de femmes en pleurs et de médecins.
+
+`p00465` Mais ni l’une ni l’autre de ces hypothèses n’a pu se réaliser. — Hélas ! le jeune amant, le poète inspiré, le rêveur solitaire est tombé, frappé par une main amie !…
+
+`p00466` À gauche du village où il vécut, il est un tertre vert, ombragé de deux sapins qui ont grandi en entrelaçant leurs branches et leurs racines. Là coule un ruisseau limpide, près duquel le laboureur aime à se reposer ; les moissonneurs viennent plonger dans ses ondes leurs cruches sonores ; là, sous l’ombre épaisse, on a posé le marbre d’un tombeau.
+
+`p00467` Près de cette tombe, lorsque la pluie du printemps arrose l’herbe des prairies, le berger chante la romance des Pêcheurs du Volga, en tressant sa chaussure d’écorce. Près de cette tombe s’arrête, en traversant seule, à cheval, les champs solitaires, la jeune fille qui a quitté la ville pour passer l’été à la campagne. Elle retient son coursier, puis, écartant son voile, elle lit d’un regard rapide la simple épitaphe, et sent une larme mouiller ses yeux.
+
+`p00468` Elle reprend ensuite, au pas, en silence, plongée dans une rêverie profonde, son chemin à travers la plaine immense. Longtemps son âme reste involontairement remplie du souvenir de Lensky ; elle se dit : « Qu’est devenue Olga ? A-t-elle longtemps souffert, ou bien ses larmes se sont-elles vite séchées ? Et sa sœur, où est-elle maintenant ? Et cet ennemi des hommes et du monde, l’Adonis à la mode, le sombre original, le meurtrier du poète, où est-il ? »
+
+`p00469` Je répondrai en détail à toutes ces questions,
+
+`p00470` mais non pas immédiatement, quoique je sois, croyez-le bien, fortement attaché à mon héros.
+
+`p00471` Les années, voyez-vous, lecteur, nous inclinent vers la prose austère ; les années chassent la rime aventureuse : et moi, je l’avoue en soupirant, je sens à mon tour que mon nerf et mon entrain d’autrefois sont affaiblis. — Ma plume n’a plus son ancienne légèreté, elle ne remplit plus si rapidement les feuilles légères. Mon esprit est obsédé de chimères plus froides, plus graves, plus prosaïques.
+
+`p00472` J’ai de nouveaux désirs qui ont pris la place des anciens ; des peines nouvelles qui ont absorbé les premières. Ô mes illusions passées ! où est maintenant votre douceur ? Où est ce besoin de chanter qui dévorait ma jeunesse ? Est-il vraiment possible que ma couronne d’années soit déjà flétrie ? Est-il vrai (et je le dis sérieusement cette fois, et non plus pour faire une élégie), — est-il vrai que le printemps de mes jours est fini ? est-il vrai qu’il ne reviendra plus ? est-il vrai que j’aurai bientôt trente ans ?
+
+`p00473` Ainsi donc, je touche au midi de ma carrière ; je le vois, je le sens, il n’y a plus à en douter ! Eh bien ! puisqu’il en est ainsi, ô ma brillante jeunesse, reçois mon adieu amical ! Merci pour les jouissances, pour les tristesses, pour les tourments pleins de charme que tu m’as donnés ! Merci pour le bruit, les tempêtes, les festins : pour tous, pour tous tes dons ! Par toi, au milieu des troubles et du calme, j’ai goûté de véritables délices. C’est assez ! aujourd’hui j’entre dans une voie nouvelle, avec une âme sereine et résignée : le temps est venu de me reposer du passé !
+
+`p00474` Je reviens encore jeter un regard en arrière. Adieu donc, forêts qui couvriez de votre ombre les passions, l’oisiveté, les rêves de mon âme mélancolique ! — Et toi, souffle de l’inspiration, viens faire sortir ma pensée et mon cœur de ce sommeil qui va les accabler ! Visite quelquefois ma demeure. Ne laisse pas refroidir l’âme du poète ; ne la laisse pas s’endurcir et se pétrifier dans l’ivresse mortelle du monde, parmi les orgueilleux égoïstes et les sots importants.
+
+`p00475` Qu’au milieu d’enfants astucieux, lâches et gâtés ; qu’au milieu de scélérats ridicules et ennuyeux, de juges stupides et tracassiers, de coquettes dévotes et d’esclaves volontaires, je ne perde pas ma sérénité ! Que je ne me ressente pas de tout ce qui se passe sur la scène du monde : ni des caresses d’une femme dont les baisers sont autant de trahisons, ni des sentences sévères de la vanité impitoyable, ni des calculs, des jugements et des conversations !
+
+`p00476` Hélas ! hélas ! c’est dans ce gouffre, ô mes amis, que je suis plongé avec vous !
+
+`p00477` **CHAPITRE VII.**
+
+`p00478` Moscou, fille chérie de la Russie, où trouver ton pareil ?
+
+`p00479` (Dmitri.)
+
+`p00480` Comment ne pas aimer Moscou, où nous reçûmes le jour !
+
+`p00481` (Baratinsky.)
+
+`p00482` La défaveur et le mépris ont été jetés sur Moscou. Voilà ce que c’est que de voir le monde ! Où se trouve-t-on mieux ? — Où l’on n’est pas.
+
+`p00483` (Extrait des œuvres de Griboiédoff.)
+
+`p00484` À l’approche des rayons du printemps, les neiges ont fui ; le long des montagnes, elles se sont écoulées en ruisseaux grisâtres dans les plaines inondées. La nature accueille en souriant l’année qui sort d’un long sommeil. Le ciel brille et reprend son azur. Une verdure clair-semée recouvre, comme d’un léger duvet, les bois encore sans voiles. L’abeille quitte sa cellule de cire pour prélever l’impôt des fleurs. Les vallées perdent leur humidité et reprennent leur parure, les troupeaux sortent en mugissant, et le rossignol a déjà chanté dans le silence des nuits.
+
+`p00485` Que ton apparition m’attriste, printemps vermeil, saison de l’amour ! Quel trouble plein de langueur tu apportes à mon âme ! Lorsque ton souffle embaumé se joue sur mon front, je ressens une émotion qui m’accable.
+
+`p00486` Le bonheur m’est-il donc interdit ? Tout ce qui plaît, tout ce qui vivifie, tout ce qui réjouit, se change-t-il en accablement et en ennui douloureux pour l’âme sombre et malade ?
+
+`p00487` Ou bien les premiers bruits des forêts qui reprennent leur feuillage me reportent-ils à l’automne dernier, où elles le perdaient ? Peut-être la blessure que me fit une perte amère se rouvre-t-elle ? Peut-être mon esprit est-il frappé du contraste de cette nature toujours renaissante avec nos années, que rien ne peut rajeunir… Peut-être aussi suis-je reporté à un autre printemps déjà loin, et mon cœur tressaille au souvenir d’un rivage éloigné, d’une nuit splendide, des étoiles…
+
+`p00488` Oisifs, sages, philosophes épicuriens, heureux indifférents, enfants de l’école de Levchine, et vous, Priams villageois, et vous, dames délicates, le printemps vous appelle à la campagne ! Voici le temps des fleurs et du tiède soleil ; voici le temps du travail, des promenades et des nuits enchanteresses. Aux champs, amis ! Vite, vite, en voiture ! prenez des chevaux de poste, montez en équipage de toute espèce, mais quittez, quittez la ville.
+
+`p00489` Et vous, bienveillant lecteur, prenez votre calèche, quittez la cité turbulente où vous vous êtes amusé pendant l’hiver. Suivez ma muse fantasque, allons ensemble écouter les mille bruits de la forêt qui surplombe une rivière sans nom ; gagnons la campagne où mon Eugène vivait naguère en anachorète, dans la tristesse et l’oisiveté.
+
+`p00490` L’hiver dernier, il était encore le voisin de Tatiana, mon aimable visionnaire. Maintenant il a disparu, laissant après lui des traces douloureuses.
+
+`p00491` Au milieu du demi-cercle formé par ces montagnes, allons sur les bords du ruisseau qui serpente à travers une verte plaine, jusqu’à la rivière. Là, le rossignol, amant du printemps, fait retentir sa voix dans le calme des nuits : là fleurit l’églantier : là murmure une source ignorée. C’est là aussi, qu’à l’ombre de deux sapins vieillis, s’élève un tombeau avec cette inscription :
+
+`p00492` ICI REPOSE WLADIMIR LENSKY,  
+TOMBÉ DE BONNE HEURE DE LA MORT DES BRAVES,  
+TELLE ANNÉE, À TEL ÂGE.  
+JEUNE POÈTE, DORS EN PAIX !
+
+`p00493` Il fut un temps où le vent du matin balançait au-dessus de l’urne modeste une guirlande suspendue aux branches du sapin. Il fut un temps où, vers le soir, deux jeunes filles venaient y pleurer, en se tenant embrassées. Mais maintenant la tombe est solitaire et oubliée, l’herbe recouvre le sentier qui y conduisait ; il n’y a plus de guirlande sur la branche. Seul, le berger, vieux et infirme, y chante comme autrefois en tressant sa misérable chaussure.
+
+`p00494` Pauvre Lensky ! elle n’a pas pleuré longtemps, ta jeune fiancée ! elle ne resta pas longtemps fidèle à son amour ! un autre attira bientôt ses regards et réussit, par des flatteries caressantes, à calmer sa douleur. Hélas ! elle s’éprit d’un uhlan et l’aima de toute son âme. — La voilà au pied de l’autel, rougissante sous sa couronne de mariée, les lèvres épanouies, les yeux brillants de bonheur.
+
+`p00495` Pauvre Lensky ! sous le marbre glacé de ton sépulcre, au sein de l’immuable éternité, dis, ô mon poète, ton âme s’est-elle troublée à la nouvelle de cette trahison ?
+
+`p00496` Ou bien, devenu insensible, endormi sur les bords du Léthé, es-tu pour jamais hors d’atteinte des blessures d’un monde muet désormais pour toi ?
+
+`p00497` Ainsi, l’indifférence et l’oubli, voilà ce qui nous attend au-delà de la tombe. La voix de nos amis, de nos ennemis, de notre fiancée se tait tout-à-coup ; seuls, d’avides héritiers conservent dans leurs discussions la mémoire du défunt !
+
+`p00498` Mais bientôt la voix sonore d’Olga ne retentit plus dans la maison paternelle : le uhlan fut obligé de partir pour l’armée. La vieille mère, en disant adieu à sa fille, répandit bien des larmes ; il semblait qu’on lui arrachât la vie. Tatiana ne pleura point : une pâleur mortelle couvrit son visage ; sortie avec tout le monde sur le perron, elle resta jusqu’au départ des jeunes mariés.
+
+`p00499` Longtemps elle les suivit des yeux… Désormais elle sera seule ! La voilà séparée de sa sœur, la compagne de toute sa vie, sa petite colombe, ainsi qu’elle l’appelait. Plus jamais elles ne seront réunies ! Et elle erre sans but dans la campagne, elle regarde le jardin désert, rien ne peut la soulager ; ses larmes l’oppressent, son cœur se déchire !
+
+`p00500` La solitude développe encore sa passion ; son cœur bat de plus en plus fort à la pensée d’Onéguine qui lui aussi est loin. Elle ne le verra plus ! Elle doit même le haïr comme l’assassin du poète… auquel on ne songe plus, dont la fiancée s’est déjà donnée à un autre, et dont le souvenir a passé comme la fumée sur un ciel bleu.
+
+`p00501` Toutefois deux cœurs ont gardé sa mémoire et répandent des larmes en pensant à lui !… Mais à quoi servent les pleurs ?…
+
+`p00502` C’était le soir. Les ténèbres commençaient à couvrir la campagne. Les eaux de la rivière coulaient doucement, le hanneton bourdonnait, les danses des paysans s’achevaient, et sur la rive opposée, brillait le feu du pêcheur.
+
+`p00503` Plongée dans ses rêveries, Tatiana marchait dans une vaste plaine, aux clartés de la nuit. Elle marchait, elle marchait, et tout à coup elle aperçut, du haut d’une colline, une demeure seigneuriale : le village, le bois et le jardin étaient situés au bord d’une rivière. Elle regarde, et son cœur bat plus vite.
+
+`p00504` L’incertitude la tourmente : « Faut-il continuer mon chemin, ou faut-il retourner sur mes pas ?… Il n’est pas ici, — je suis inconnue, — je jetterai un regard sur cette maison, sur ce jardin ! » Et Tatiana descend la colline ; elle promène un regard irrésolu, enfin elle entre dans la cour déserte. Les chiens se précipitent en aboyant ; les domestiques accourent aux cris de l’étrangère, et dispersent les animaux irrités.
+
+`p00505` « Peut-on visiter le château ? » demanda Tatiana : les domestiques courent avertir la vieille Anyssia, dépositaire de toutes les clefs. La vieille se hâte d’ouvrir les portes, et la jeune fille entre dans la maison qu’Onéguine venait de quitter. — Elle regarde : une queue avait été oubliée sur le billard ; sur un vieux canapé, un fouet de manège avait été jeté. Alors la vieille lui dit : « Voilà le foyer où mon maître s’asseyait seul : là, feu M. Lensky, notre voisin, dînait souvent avec lui pendant l’hiver. »
+
+`p00506` Par ici, suivez-moi ! — voilà le cabinet de Monsieur : c’est ici qu’il dormait, qu’il prenait son café, qu’il écoutait le rapport de son intendant et lisait tous les matins. L’ancien seigneur, l’oncle de monsieur Onéguine, demeurait aussi dans cette chambre. Quelquefois, le dimanche, il mettait ses lunettes et me faisait l’honneur de jouer avec moi au douratchki, là, tout près de la fenêtre. Mon pauvre maître ! que Dieu prenne pitié de son âme ! que ses os reposent en paix dans la terre humide, notre mère ! »
+
+`p00507` Tatiana regardait toutes ces choses avec attendrissement ; elles lui semblaient d’un prix immense. Tout ranimait son âme abattue et lui faisait éprouver une douleur qui n’était pas sans adoucissement : et la table, avec la lampe éteinte, et les livres, et, près de la fenêtre, le lit couvert d’un tapis ; et le panorama qui se déroulait sous ses yeux, à la clarté de la lune, et le portrait de lord Byron, et la petite colonne surmontée d’une figure en fer, coiffée d’un chapeau, le front morne et les bras croisés.
+
+`p00508` Tatiana resta longtemps dans cette chambre comme sous un charme. Mais il est tard, un vent froid s’est levé, la vallée est sombre ; dans le hameau, sur le bord de la rivière couverte de brouillard, tout repose : la lune s’est cachée derrière la montagne. Il est temps que la jeune pélerine retourne à la maison. Tatiana, cachant son émotion, se dispose, non sans regret, à quitter le château solitaire, mais auparavant, elle demande la permission de revenir visiter la bibliothèque.
+
+`p00509` Tatiana a pris congé de la vieille femme de charge, et la porte cochère s’est refermée sur ses pas. Le lendemain, elle arriva de bonne heure. Oubliant le monde ; seule enfin dans le cabinet silencieux, elle pleura longtemps… Elle parcourut les livres d’Eugène, et d’abord, les impressions qui la dominaient lui rendirent toute lecture impossible, puis, entraînée par le choix étrange des volumes, elle se mit à lire et son âme vit les horizons d’un monde nouveau s’ouvrir devant elle.
+
+`p00510` Quoique (comme nous le savons déjà) Eugène eût abandonné depuis longtemps sa bibliothèque, il avait conservé cependant quelques ouvrages. C’étaient le chantre du Giaour et de don Juan, et deux ou trois romans, peinture fidèle de notre siècle et de l’homme de nos jours, avec son âme sans principes, sa sécheresse de cœur, son égoïsme, son esprit chimérique, irritable et frivole.
+
+`p00511` Beaucoup de pages portaient des marques d’ongle et attiraient son attention. Elle remarquait avec émotion les pensées qui avaient frappé Onéguine et les passages qu’il avait semblé approuver par son silence. À toutes les pages elle rencontrait les traces de son crayon ; partout l’âme d’Onéguine se dévoilait tantôt par un mot bref, tantôt par une croix, tantôt par un point d’interrogation.
+
+`p00512` Ma Tatiana commence à connaître mieux celui pour lequel le destin la condamne à soupirer en vain. — De quel nom l’appeler, cet être bizarre, triste et dangereux ? D’où vient-il, du ciel ou de l’enfer ? Cet ange ou ce démon orgueilleux, qu’est-il donc ? Une pâle imitation, un fantôme ? Ou bien un habitant de Moscou, un nouveau Childe-Harold, un type des caprices où peuvent tomber les humains, un dictionnaire complet des mots à la mode ? Ne serait-il pas une parodie byronienne ?
+
+`p00513` A-t-on résolu l’énigme ? a-t-on trouvé le mot ?
+
+`p00514` Les heures s’envolent, et la jeune fille ne songe pas qu’elle est attendue depuis longtemps à la maison où deux voisins parlent d’elle.
+
+`p00515` « Que faire ? Tatiana n’est plus une enfant ! » disait en gémissant madame Larine. « Olinka était plus jeune qu’elle ! Il est bien temps de la marier ; mais que faire, mon Dieu ! Elle répond à tout le monde : « Je ne veux pas me marier ! » et, triste et seule, elle s’enfonce continuellement dans les bois !
+
+`p00516` — N’est-elle pas amoureuse de quelqu’un ?
+
+`p00517` — Bouianoff l’a recherchée ; il a été refusé.
+
+`p00518` — Et Jean Pétouchkoff ?
+
+`p00519` — Aussi.
+
+`p00520` — Le hussard Pouiktine, qui a demeuré quelque temps chez nous, était épris de ses charmes, il la comblait d’attentions. Je pensais : espérons qu’elle se décidera ! Ah ! bien oui ! l’affaire manqua comme toutes les autres.
+
+`p00521` — Eh bien ! chère madame, tout n’est pas perdu ; allez à Moscou, c’est, vous le savez, la foire des promises. On dit qu’il y a beaucoup de jeunes gens à marier.
+
+`p00522` — Hélas ! j’ai trop peu de revenus !
+
+`p00523` — Assez pour un hiver ! Et je puis vous prêter tout ce dont vous avez besoin. »
+
+`p00524` Ce bon conseil fut goûté de la vieille mère ; elle compta son argent et prit tout de suite la résolution d’aller passer l’hiver à Moscou. Tatiana apprend cette nouvelle. Eh quoi ! montrer à un monde exigeant et capricieux la simplicité provinciale, une toilette passée de mode, et un langage vieilli ! — Eh quoi ! attirer les regards moqueurs des petits-maîtres et des Circé de Moscou ! Telles sont les craintes qui envahissent le cœur de la jeune fille. Ses solitudes boisées, combien eût-elle préféré y rester !
+
+`p00525` Les premiers rayons du jour la trouvent déjà dans la campagne ; elle fixe sur la nature qui l’entoure un regard attendri :
+
+`p00526` « Adieu, paisibles vallées, et vous, sommets de mes montagnes, et vous, forêts bien connues ! Adieu, ciel azuré, adieu, joyeuse nature ! Je quitte le petit coin de terre, si paisible et si cher, pour une ville bruyante et frivole ! Adieu, toi aussi, ma liberté… Mais pourquoi donc fuir ces lieux ? Où vais-je ? que me réserve le sort ?… »
+
+`p00527` Elle prolonge ses promenades. Tantôt c’est un ruisseau, tantôt c’est une colline qu’elle contemple. Elle se hâte de s’entretenir avec les bois, les plaines et les ruisseaux, comme avec d’anciens amis que l’on doit bientôt quitter.
+
+`p00528` Mais l’été a passé rapidement — l’automne avec sa robe d’or est venu ; la nature est pâle et tremblante, somptueusement parée, comme une victime avant le sacrifice. Le vent du Nord pousse les nuages et souffle dans les bois avec violence ; — l’hiver se fait pressentir.
+
+`p00529` Il arrive enfin avec tout son cortège. Il tombe, il se suspend en flocons sur les branches des chênes, il se couche en tapis blancs sur les plaines, autour des collines ; il réunit par une nappe solide de glace les deux rives du fleuve. La gelée étincelle, et nous prenons part à tous les plaisirs que cette dure saison nous apporte. Mais Tatiana est triste ; elle ne va pas, suivant la coutume des jeunes filles, souhaiter la bienvenue à l’hiver, elle ne va pas respirer le premier vent qui a passé sur la glace, ni se laver le visage, les épaules et les seins avec la neige des toits. Cette année, Tatiana redoute ce que l’hiver doit lui apporter.
+
+`p00530` Le jour du départ, fixé depuis longtemps, est enfin venu. On amène la voiture de voyage, oubliée dans la remise, on la nettoie, on la recouvre à neuf ; puis, trois charrettes transportent les meubles : effets, fauteuils, coffres, confitures en bocaux, matelas, lits de plume, cage avec des coqs, bassin de cuivre, pots en terre, etc. Les gens crient, se disent adieu en pleurant. On conduit dans la cour dix-huit haridelles, qui, de suite, sont attelées au vosok seigneurial.
+
+`p00531` Les cuisiniers apprêtent le déjeuner, les kibitki sont tellement chargées qu’elles ressemblent à des montagnes, les servantes et les cochers se querellent, le postillon à longue barbe enfourche une cavale, hérissée et maigre ; les domestiques font cercle à la porte cochère pour prendre congé de leurs maîtres. Enfin, Tatiana et sa mère ont pris place dans le respectable véhicule qui doit les transporter à Moscou. L’essieu crie en glissant hors des portes.
+
+`p00532` « Adieu, retraite paisible ! adieu, asile solitaire ! vous reverrai-je jamais… ? » Et un ruisseau de larmes coule des yeux de Tatiana.
+
+`p00533` Lorsque la civilisation sera plus avancée (dans 500 ans, d’après les calculs des philosophes), il viendra une époque où de grands changements s’opéreront dans nos chemins. Des chaussées réuniront les différents points de la Russie et faciliteront les transports ; des ponts de fer seront jetés sur les rivières, les montagnes seront percées, nous creuserons sous les eaux des routes audacieuses, et le paysan établira un restaurant à chaque station nouvelle.
+
+`p00534` Mais aujourd’hui nos chemins sont affreux ; les ponts pourrissent oubliés ; dans les stations, les insectes et la vermine empêchent le voyageur fatigué de prendre une minute de repos. Des vivres, il n’y en a pas ; et si, dans l’isba glacée, quelque apparence satisfait d’abord, on y endure bientôt la faim : un prix-courant, suspendu seulement pour les yeux, excite l’appétit du voyageur, pendant que les cyclopes du village battent l’enclume et raccommodent votre voiture, fragile ouvrage de l’Europe, en bénissant les ornières et les fossés de leur pays.
+
+`p00535` Toutefois il y a une compensation : pendant l’hiver, le voyage est agréable et facile, la route est unie comme le vers sans pensée d’une romance à la mode. Nos automédons sont habiles, nos chevaux infatigables, et les verstes passent devant les yeux comme les barreaux d’une grille. Mais madame Larine, craignant les frais de poste, voyageait avec ses propres chevaux et resta en route sept jours et sept nuits. Tatiana put donc jouir pleinement de l’ennui du voyage.
+
+`p00536` Enfin elles touchent au terme de leurs fatigues : les antiques coupoles de Moscou, la ville aux blanches murailles, brillent comme le feu avec leurs croix dorées.
+
+`p00537` Ah ! frères ! combien j’étais heureux lorsque j’apercevais devant moi les églises, les clochers, les jardins, les palais de ma vieille cité ! Combien de fois, ô Moscou, dans la séparation imposée par ma destinée errante, n’ai-je pas songé à toi ! — Moscou !… quelle magie dans ce mot ! que de choses il dit au cœur russe !
+
+`p00538` Voilà le château de Pétrofski, entouré de sa forêt de chênes. Il est tout fier encore de son dernier triomphe. C’est dans ses murs que Napoléon attendait que Moscou s’humiliât et mît à ses pieds les clefs de son vieux Kremlin. Non, Moscou, mon cher pays, tu n’allas point au-devant du vainqueur, tu ne lui préparas ni fête splendide, ni riches présents ; mais tu lui souhaitas la joyeuse bienvenue, en allumant sous ses pas un imposant incendie ! — C’est de cet endroit que, plongé dans de sombres pensées, le héros contemplait la flamme menaçante.
+
+`p00539` Mais, adieu, témoin de notre gloire ; adieu, château de Pétrofsky !
+
+`p00540` Eh bien ! continuons notre route. Déjà les colonnes de la barrière blanchissent devant nos voyageurs ; le vosok les emporte le long de la Tverskoï, à travers les cahots. Guérites, paysans, gamins, monastères, boutiques, traîneaux, marchands, boulevards, tours, Cosaques, passent comme un éclair. À peine s’ils peuvent remarquer les pharmacies, les magasins de modes, les balcons, les livres étalés sous les portes cochères, et les nuées de corbeaux sur les croix des coupoles.
+
+`p00541` Dans cette promenade fatigante, une heure s’écoule,… puis une autre. Enfin le vosok s’arrête à la porte d’une maison de la rue Kharitoni, chez une vieille tante malade de la poitrine depuis plus de trois ans. Un vieux Kalmouk, en lunettes et en caftan déchiré, leur ouvre, son bas à la main. La princesse, étendue sur un sopha, les accueille en poussant un cri de surprise ; les deux cousines s’embrassent en pleurant et les acclamations ne tarissent pas.
+
+`p00542` « Princesse, mon ange !
+
+`p00543` — Pachette !
+
+`p00544` — Aline !
+
+`p00545` — Qui pouvait penser ?
+
+`p00546` — Comme il y a longtemps !…
+
+`p00547` — Pour combien de temps ?
+
+`p00548` — Chère cousine !
+
+`p00549` — Assieds-toi ! Comme c’est étrange ! Mon Dieu ! c’est comme un roman !
+
+`p00550` — Je te présente ma fille Tatiana.
+
+`p00551` — Ah ! Tatiana ! Viens donc près de moi ! Je crois rêver…
+
+`p00552` Cousine, te rappelles-tu de Grandisson ?
+
+`p00553` — Grandisson ? Ah ! oui, Grandisson ! Je m’en souviens, je m’en souviens ; où est-il maintenant ?
+
+`p00554` — À Moscou. Il demeure chez Siméon. Il m’a fait visite le jour de Noël. Il n’y a pas longtemps qu’il a marié son fils.
+
+`p00555` Et celui qui… Mais nous causerons de cela plus tard. Demain nous présenterons Tania à toute la famille. Hélas ! il me sera impossible de sortir avec vous : c’est à peine si je mets un pied devant l’autre ! Mais vous êtes fatiguées du voyage ;… allons nous reposer. Mon Dieu ! je suis à bout de forces ! J’ai la poitrine bien malade !… La joie maintenant m’est aussi difficile à supporter que la douleur… Ma chère amie, je ne suis plus bonne à rien !… Que la vie est triste dans la vieillesse ! » Alors, se sentant défaillir, la princesse eut une quinte de toux et ne put retenir ses larmes.
+
+`p00556` Ces caresses et cette joie touchèrent Tatiana mais sa nouvelle demeure lui déplut ; elle regrettait sa petite chambre, elle ne pouvait dormir sous les rideaux de soie de son nouveau lit. Le son matinal des cloches qui annonce, dès l’aurore, la reprise des travaux, lui fait quitter sa couche. Elle s’assied à la fenêtre, et lorsque la lumière du jour paraît ce ne sont pas ses champs paternels qui frappent ses regards, mais une cour inconnue, une écurie, une cuisine et une haie.
+
+`p00557` Tous les jours on conduit Tatiana à des dîners de famille où elle montre aux grands parents sa langueur distraite.
+
+`p00558` Pourtant la mère et la fille sont l’objet des plus grandes attentions ; partout on leur présente le pain et le sel et puis viennent les exclamations :
+
+`p00559` « Comme Tatiana a grandi ! Il me semble pourtant qu’il n’y a pas longtemps que je l’ai présentée au baptême !
+
+`p00560` — Et moi, combien de fois je l’ai bercée dans mes bras !
+
+`p00561` — Et moi, comme je lui ai tiré les oreilles !
+
+`p00562` — Et moi donc ! que de pains d’épice je lui apportais ! »
+
+`p00563` Et les grand-mères répètent en chœur : « Comme les années s’envolent ! »
+
+`p00564` Toutes ces personnes n’ont point changé : elles sont restées telles qu’on les a toujours connues. La princesse Hélène a toujours ses bonnets de tulle, Lukéria Lévovna son fard, Luboff Pétrovna ses mensonges quotidiens, Ivan Pétrovitch est toujours aussi bête, Siméon Pétrovitch toujours aussi avare, Pélagie Nikolaiévna a toujours son vieil ami, madame Fine-Mouche son épagneul et son vieux mari, toujours membre assidu du cercle, toujours aussi calme, aussi sourd, toujours buvant et mangeant pour deux.
+
+`p00565` Les jeunes filles embrassent Tatiana, et commencent par l’examiner en silence des pieds à la tête. Elles la trouvent à vrai dire un peu étrange, un peu maniérée, un peu pâle et un peu maigre, mais en somme assez jolie. Bientôt, entraînées par l’habitude, elles l’emmènent familièrement, elles l’embrassent, lui serrent tendrement les mains, arrangent ses cheveux à la dernière mode, et lui confient leurs amours, ce secret de toutes les jeunes filles.
+
+`p00566` Elles lui font part de leurs conquêtes et de celles de leurs amies, de leurs espérances, de leurs folies, de leurs rêves, et, dans la trame de leurs innocentes causeries, mêlent çà et là les fils de légères médisances. Puis, en échange de leur babil, elles exigent gracieusement mêmes aveux ; mais Tatiana écoute leurs récits en rêvant ; elle n’y comprend rien, son esprit est ailleurs ; et malgré les questions empressées, elle garde religieusement le secret de son cœur, la cause de ses larmes et de son bonheur : elle le garde comme un trésor sacré qu’elle ne saurait partager avec personne !
+
+`p00567` Tatiana avait le désir de connaître les conversations des salons. Mais elle les trouva ternes, vides, vulgaires et dénuées de sens. Jamais une pensée n’illumine la sécheresse stérile des entretiens. Les récits, les cancans, les nouvelles, les critiques, jamais ne reflètent, même par hasard un éclair d’esprit. Rien n’y provoque le sourire, rien n’y fait tressaillir le cœur ; — même dans les plaisanteries, ô monde frivole et vide, tu ne peux nous fournir une bêtise vraiment comique.
+
+`p00568` Les jeunes gens regardent Tatiana avec des airs affectés, et ils la critiquent sévèrement. Un fade plaisant lui applique l’épithète d’idéale, et, appuyé contre la porte, lui prépare une élégie. Un certain V*** qui l’a vue chez sa vieille tante, s’assied à ses côtés et réussit à attirer son attention ; un vieillard, la voyant passer, prend des renseignements sur elle en arrangeant sa perruque.
+
+`p00569` Mais dans la vaste salle où Melpomène fait retentir sa voix en agitant ses oripeaux devant un froid public, où Thalie, mollement couchée, ne daigne même pas prêter l’oreille aux bravos de ses adorateurs, où Terpsichore seule excite l’enthousiasme de la jeunesse (comme de votre temps et du mien, cher lecteur), — là, dis-je, ni les lorgnettes jalouses des dames, ni les binocles des dandys à la mode, ne furent dirigés vers Tatiana.
+
+`p00570` On la conduisit aussi à l’Assemblée de la Noblesse où tout est foule, agitation, chaleur ; où les sens sont frappés par le son des instruments, l’éclat des lumières, le passage des couples gracieux, les légères toilettes des femmes. C’est à l’Assemblée que les élégants de renom affichent leur impudeur, leur gilet, leur lorgnon oisif ; c’est là que le hussard en congé s’empresse de briller, de captiver et de disparaître.
+
+`p00571` Comme la nuit a beaucoup d’étoiles charmantes, Moscou a beaucoup de jeunes beautés. Mais de même que Phœbé, dans l’azur vaporeux, brille plus séduisante que tous les astres de son cortège, de même aussi, plus séduisante que toutes ses compagnes, brille celle que je n’ose troubler par mes chants. Quelle démarche de déesse ! Comme elle effleure à peine la terre de son pied charmant ! Quelle molle agitation dans son sein ! Quelle langueur dans son regard !
+
+`p00572` Mais assez, assez, ô poète ! N’as-tu pas déjà largement payé ton tribut à la folie ?…
+
+`p00573` Les rires éclatants, les allées et venues, les saluts, le galop, la valse, la mazourka se succèdent, — Tatiana reste assise auprès d’une colonne entre deux vieilles tantes, et personne ne la remarque. Elle a horreur de l’agitation du monde ; elle étouffe dans cet air… Sa pensée s’élance vers la vie des champs, vers les pauvres villageois, vers le petit coin solitaire, vers les bords du ruisseau. Ah ! comme elle regrette ses fleurs, ses livres, et, dans la sombre allée de tilleuls, l’endroit où il lui était apparu pour la première fois !
+
+`p00574` Cependant tandis que sa pensée errait ainsi bien loin du monde et du bal bruyant, un vieux général ne la quittait pas des yeux. Les tantes se firent un signe et poussèrent en même temps Tatiana du coude en lui disant chacune à l’oreille : « Regarde vite à gauche. » Tatiana répond : « À gauche ? où ? qu’y a-t-il donc ?
+
+`p00575` — Regarde toujours. Ne vois-tu pas, devant toi, deux hommes en uniforme ? Le voilà qui s’éloigne… le voilà qui s’est mis de l’autre côté.
+
+`p00576` — Qui ? ce gros général ?… »
+
+`p00577` Mais félicitons Tatiana de sa conquête, et prenons ensuite un autre sentier pour ne pas oublier Onéguine le héros de mon roman.
+
+`p00578` À propos :
+
+`p00579` Je chante un jeune ami et ses mille caprices, — inspire-moi, ô muse épique ! et place entre mes mains un bâton solide afin que je ne me perde pas dans les chemins !
+
+`p00580` Assez ! déchargeons mes épaules de ce fardeau. Je me suis conformé aux habitudes classiques, bien qu’un peu tard : j’ai fait une invocation !
+
+`p00581` **CHAPITRE VIII.**
+
+`p00582` Fare thee well, and if for ever  
+Still for ever fare thee well.
+
+`p00583` (Byron.)
+
+`p00584` Pendant les jours que je coulais en paix au collège, je lisais volontiers Apulée, et très-peu Cicéron. Dans ces jours, lorsque le printemps revenait, que les cygnes chantaient, les visites de la Muse commencèrent pour moi, au sein des vallées mystérieuses et près des eaux qui brillent dans la solitude. Alors ma petite chambre d’étudiant s’illumina soudain, et une jeune poésie prêta son langage à tous mes projets. Elle chanta les plaisirs de la jeunesse, la gloire de nos aïeux et les rêves et les palpitations du cœur.
+
+`p00585` Le monde l’accueillit avec un sourire. Ce premier succès lui donna des ailes : le vieux Derjavine me remarqua et me bénit en descendant au tombeau.
+
+`p00586` . . . . . . . . . . . . . . . . . . . . . . . . .
+
+`p00587` Et moi, n’acceptant d’autre loi que mes passions, je rendis la foule l’écho de mes sentiments et de mes émotions ; je portai ma muse indomptée au milieu des festins et des querelles bruyantes : elle y devint la terreur des patrouilles de nuit. C’était au milieu des fêtes qu’elle faisait entendre sa voix. Elle se livrait au plaisir comme une bacchante, chantait aux convives des hymnes du dieu du vin, et, sur ses traces, la jeunesse courait avec fureur ; et moi, entouré de joyeux compagnons, je m’enorgueillissais de ma folâtre amie.
+
+`p00588` Bientôt je partis au loin ; elle me suivit. Que de fois elle adoucit mon triste chemin par ses caresses et par la magie secrète de ses rêves ! Que de fois, sur les rochers du Caucase, je la sentis derrière moi, prendre place sur mon cheval !… comme Lénore nous galopions ensemble, à la clarté de la lune. Bien souvent, sur les rivages de Tauride, à travers les ténèbres de la nuit, elle me conduisait écouter le bruit de la grande mer, le chuchotement incessant des Néréides, le bruissement des flots, hymnes éternels à la louange du Père des mondes.
+
+`p00589` Oubliant la splendeur et les festins brillants de la cité lointaine, ma muse visita dans les déserts de la Moldavie l’humble tente des tribus nomades. Elle devint sauvage et oublia la langue des dieux pour le chant des steppes chéries. — Mais voilà qu’elle m’apparut plus tard dans mon jardin, sous la forme d’une noble demoiselle de province, le front assombri, et tenant à la main un livre français.
+
+`p00590` Pour la première fois aujourd’hui, je la conduis à un raout du monde, et c’est avec une crainte jalouse que je regarde les beautés de ce nouveau pays. Elle glisse à travers les rangs pressés des nobles, des militaires élégants, des diplomates et des dames orgueilleuses. La voilà tranquillement assise au milieu d’une foule bruyante qui lui plaît. Elle admire la soudaine apparition des robes et des langages, celle plus lente des convives devant la maîtresse du logis, et le cercle sombre des hommes rangés autour des femmes, comme autour d’un tableau.
+
+`p00591` L’ordre harmonieux des sociétés oligarchiques lui plaît, et la froideur et la fierté, et le pêle-mêle des rangs et des âges. Mais, quel est donc cet homme qui, au milieu de la foule choisie, reste debout, silencieux et sombre ? Il semble étranger à tous ceux qui l’entourent, et les figures passent devant lui comme autant de visions importunes. Qu’est-ce donc ? Voyez-vous sur son front la trace de la souffrance, du spleen ou d’une vanité blessée ?… Que fait-il ici ? Quel est-il ? Ne serait-ce pas Eugène ?… Oui, c’est bien lui ! — Depuis quand est-il revenu parmi nous ?
+
+`p00592` Est-il toujours le même, ce personnage original et bizarre que nous avons connu, ou bien a-t-il changé ?… Dites-nous comment il est revenu, sous quel aspect il paraîtra maintenant ? Sera-t-il cosmopolite, patriote, ou un Childe-Harold, un quaker ou un faux dévot ? Prendra-t-il un autre masque, ou bien sera-t-il tout bonnement un bon garçon, comme vous et moi, et comme tout le monde ?… Si je pouvais lui donner un conseil, ce serait celui d’abandonner une mode surannée. Le public est bien assez dupé comme cela !
+
+`p00593` — Mais, connaissez-vous Eugène ?…
+
+`p00594` — Oui et non.
+
+`p00595` — Alors, pourquoi en dire du mal ?… Est-ce parce qu’il est dans la nature humaine de s’inquiéter de tout sans relâche ? Est-ce parce que les fautes d’une âme ardente offensent ou font rire la nullité égoïste ? Est-ce parce que l’esprit qui aime ses aises froisse tout ce qui l’entoure ? Parce que nous sommes trop souvent heureux de donner à des paroles l’importance des faits ? Est-ce parce que la bêtise est étourdie et méchante, que les sottises sont importantes pour les gens importants, que la médiocrité seule étant à la hauteur de nos épaules, ne nous paraît pas ridicule ?…
+
+`p00596` Heureux celui qui fut jeune dans sa jeunesse ; heureux celui qui a mûri à temps, qui s’est fait peu à peu au froid de l’existence, qui ne s’est pas livré à des rêves étranges, et n’a jamais irrité le vulgaire ! Heureux qui fut petit maître à vingt ans, à trente s’est marié avantageusement, s’est débarrassé à cinquante de toutes ses dettes, et, parvenu tour à tour à la gloire, à la fortune, aux honneurs, a toujours entendu porter de lui ce témoignage : « N… est un homme parfait ! »
+
+`p00597` Mais aussi il est triste de penser que la jeunesse nous fut donnée en vain, que nous lui avons été infidèle à toute heure, que nous l’avons méconnue, tandis que nos meilleurs désirs et nos plus fraîches illusions sont tombés rapidement l’un après l’autre, comme les feuilles d’automne. Oui, il est pénible de ne plus rien voir devant soi dans la vie qu’une longue file de dîners, de regarder l’existence comme une cérémonie, et de suivre la foule dont on ne peut partager ni les sentiments ni les opinions.
+
+`p00598` Il faut convenir qu’il est dur, pour avoir été en butte à la critique et aux jugements du monde, de passer aux yeux d’hommes raisonnables et sensés, pour un prétentieux original, pour un triste fou ou pour un démon.
+
+`p00599` Onéguine (je reviens à lui), après avoir tué son ami en duel et vécu sans but comme sans peine jusqu’à vingt-six ans, languissait encore dans une oisive indolence, sans emploi, sans femme, sans affaires, impuissant à s’intéresser à quoi que ce fût.
+
+`p00600` Une inquiète activité s’était emparée de lui : à tout prix il fallut changer de place (état pénible et qui, grâce à Dieu, n’est subi que par très-peu de gens). Il quitta son domaine, ses champs et ses bois où une ombre ensanglantée surgissait sans cesse devant ses yeux ; et, dominé toujours par le même sentiment, il se mit à voyager. Les voyages l’ennuyèrent comme tout le reste ; alors il revient, et, comme Tchatski, au sortir du vaisseau il tombe dans un bal.
+
+`p00601` À ce moment, la foule s’agitait, et dans tout le salon courait un murmure inaccoutumé… Une femme venait d’entrer et s’approchait de la maîtresse de la maison : un grave général l’accompagnait. Cette femme n’affectait ni froideur, ni vivacité, ni coquetterie ; son regard ne provoquait pas l’admiration ; elle plaisait sans avoir aucune prétention au succès, sans employer une seule de ces petites ruses que les femmes du monde connaissent si bien : tout en elle était simple et réservé, elle semblait la plus fidèle image du comme il faut.
+
+`p00602` Les femmes l’abordaient, les vieilles mamans lui souriaient, les hommes la saluaient profondément et tâchaient de recueillir un de ses regards ; en sa présence les jeunes filles traversaient plus doucement le salon. Quant au général, il levait, en la suivant, le nez et les épaules plus haut que tout le monde.
+
+`p00603` Et pourtant personne n’était frappé de la beauté de cette reine du bal ; mais des pieds à la tête on n’eût rien trouvé de ce que les Anglais stigmatisent du nom de vulgar. Je ne puis…
+
+`p00604` J’aime beaucoup ce mot, mais je ne puis le traduire. Jusqu’à présent, il est nouveau chez nous et je doute qu’il y soit jamais en honneur ; qu’il ferait bien pourtant dans une épigramme !
+
+`p00605` Je reviens à notre héroïne. Dans l’éclat de ses attraits, qu’elle ignore, elle cause avec la brillante Nina Voronskoï. Mais, quoique éblouissante, la beauté de marbre de Nina est loin d’éclipser celle de sa voisine.
+
+`p00606` « Est-ce possible ? » se dit tout-à-coup Eugène. « Est-ce possible ? Oui, c’est elle !… mais, non ! Comment, du fond de ses bois sauvages !… »
+
+`p00607` Et prenant son lorgnon, il le dirige sur cette jeune femme qui lui rappelle confusément des traits oubliés.
+
+`p00608` « Dis-moi, prince, sais-tu quelle est cette femme qui porte un béret cramoisi et cause dans ce moment avec l’ambassadeur d’Espagne ? » Le prince regarde Onéguine : « Ah ! je vois qu’il y a longtemps que tu n’es allé dans le monde ! Viens, je vais te présenter.
+
+`p00609` — Mais quelle est-elle ?
+
+`p00610` — Ma femme.
+
+`p00611` — Tu es donc marié ? Je ne le savais pas… Depuis quand ?
+
+`p00612` — Depuis près de deux ans.
+
+`p00613` — Avec qui ?
+
+`p00614` — Avec mademoiselle Larine.
+
+`p00615` — Tatiana ?
+
+`p00616` — Tu la connais !
+
+`p00617` — Je suis leur voisin.
+
+`p00618` — Eh bien ! allons, allons. »
+
+`p00619` Le prince s’approche et présente à sa femme son parent et son ami. La princesse lève les yeux et regarde… Elle est étonnée, saisie : mais sa volonté triomphe, et c’est avec sa réserve habituelle qu’elle salue Onéguine.
+
+`p00620` Elle ne laissa voir aucun trouble, aucune émotion. Elle ne devint ni pâle ni rouge. Le frémissement le plus imperceptible ne vint pas plisser ses lèvres, et, malgré une observation attentive, Onéguine ne put rien retrouver de l’ancienne Tatiana. Il voulut parler : la voix expira sur ses lèvres. Alors elle lui demanda s’il était depuis longtemps à Saint-Pétersbourg, d’où il venait, s’il n’arrivait pas de leur province ?… Puis, ses regards fatigués se portèrent sur son mari ; elle disparut, le laissant immobile et interdit.
+
+`p00621` Est-ce bien cette même Tatiana à laquelle, dans une contrée lointaine, nous l’avons vu donner une leçon de morale ? Est-ce vraiment celle qui a écrit la lettre où s’est dévoilé un cœur d’enfant ? Est-ce bien cette petite fille ; ou plutôt n’est-ce pas un rêve ?… Celle qu’avec tant de flegme il dédaigna jadis, peut-elle être devenue, dans ce court espace de temps, si indifférente et si forte ?
+
+`p00622` Il quitte le raout. Il retourne chez lui, tout pensif, et dans son sommeil, bien lent à venir, une pensée, tantôt triste et tantôt délicieuse, vient le troubler. À son réveil, il reçoit une lettre : le prince  N. l’invite à une soirée. « Dieu ! chez elle !… Oh ! j’irai, j’irai ! » et vite il griffonne un mot de réponse. Que se passe-t-il dans son âme ? Dans quelles pensées étranges est-il plongé ? que s’est-il donc remué au fond de ce cœur si égoïste et si froid ? le dépit, la vanité, ou bien le tourment de la jeunesse : l’amour ?
+
+`p00623` Onéguine compte les heures ; la fin du jour lui est d’une attente insupportable. Dix heures sonnent ; il part, il court ; le voilà sur les degrés du perron : il entre en tremblant chez la princesse. Tatiana est seule. Ils passent quelques moments ensemble : Eugène ne peut parler, il est morne et gauche, c’est à peine s’il répond ; son esprit n’est occupé que d’une seule pensée. Il jette enfin un regard sur la jeune femme : elle est assise tranquillement, et son maintien ne décèle aucun trouble.
+
+`p00624` L’entrée du général rompt cet ennuyeux tête-à-tête. Les deux amis se rappellent les espiègleries, les folies du temps passé ; ils en rient tous deux. Arrivent les invités. La conversation s’assaisonne alors du gros sel de la méchanceté du monde ; mais autour de la princesse brille une causerie fine et légère, interrompue quelquefois par quelques jugements et par quelques réflexions tout aussi éloignées du pédantisme que de la trivialité.
+
+`p00625` Il y avait dans ce salon un monde choisi, le monde à la mode ; la noblesse, les visages que l’on rencontre partout, et les personnages indispensables. Il y avait les femmes âgées en bonnets garnis de roses et à la mine sévère ; les jeunes filles qui déjà ne savent plus sourire ; l’ambassadeur traitant toujours d’affaires d’État, enfin le vieillard à cheveux blancs qui sait plaisanter avec l’esprit et la grâce d’autrefois, que notre temps ne connaît plus.
+
+`p00626` Il y avait l’amateur d’épigrammes qui critique tout : le thé qui est trop sucré, la frivolité des femmes, le ton des hommes, les jugements portés sur un roman nébuleux, le monogramme donné à deux sœurs, le mensonge des journaux, la guerre, la neige, et jusqu’à sa propre femme.
+
+`p00627` Là, vous rencontreriez aussi tel et tel dont la bassesse d’âme est connue. Tenez, voici encore Saint-P***, dont les crayons se sont émoussés sur tous les albums. Celui qui se tient entre les deux portes, muet et immobile, c’est un autre dictateur des bals, une gravure de modes, vermeil comme un chérubin du dimanche des Rameaux. Enfin vous apercevez cet oiseau de passage qui fait rire tout le monde par le soin qu’il prend de paraître toujours mieux qu’il n’est en réalité, et qui n’obtient jamais de l’attention des autres qu’un sourire désapprobateur.
+
+`p00628` Mais, toute la soirée, mon Onéguine n’a de pensée et de regard que pour Tatiana, non pas Tatiana la petite fille timide, amoureuse, pauvre et simple, mais Tatiana, la princesse indifférente, la déesse inaccessible, la reine fastueuse des bords de la Néva. Fils d’Ève ! vous ressemblez tous à votre mère ! Ce qui vous est donné n’a pour vous nul attrait ; c’est vers le mystère de l’arbre défendu que le serpent vous pousse sans cesse ! C’est ce fruit-là qu’il vous faut ! Sans lui ne vous contenteraient pas les joies mêmes du Ciel !
+
+`p00629` Comme Tatiana a changé ! comme elle s’est vite pliée aux exigences de son nouveau rôle ! Qui pourrait croire que la timide jeune fille est devenue cette majestueuse législatrice des salons ? Et c’est lui qui avait troublé le cœur de cette femme ! C’est lui qui faisait couler ses larmes virginales, au milieu du silence des nuits ; et l’indicible tristesse qui noyait son regard, c’était de lui qu’elle venait. Ah ! c’était avec lui qu’elle désirait vivre dans la solitude et l’oubli !…
+
+`p00630` L’amour parle en maître à tous les âges : pour le cœur de la jeunesse, ses transports sont un bienfait, comme pour la prairie les orages du printemps. La pluie des passions rafraîchit le cœur du jeune homme, le renouvelle et le mûrit ; elle fait porter à sa puissante sève des fleurs éclatantes et des fruits bien doux. Mais, au déclin des années, la trace en est pâle et mourante. Ainsi les orages de la froide automne changent la prairie en un marais et dépouillent la forêt de sa couronne.
+
+`p00631` Il n’y a plus à en douter, Eugène aime Tatiana comme un enfant. Sourd aux remontrances de sa raison, il consume dans l’angoisse les jours et les nuits. Il passe cent fois sous les croisées de la jeune femme ; il la poursuit comme une ombre. Jeter sur ses épaules le manteau de fourrure, effleurer sa main, lui frayer un passage à travers l’armée des serviteurs en livrée, à la sortie du bal : voilà tout son bonheur !
+
+`p00632` Efforts inutiles ! — Eugène dépérit chaque jour, et on ne remarque point cela. Tatiana le reçoit toujours chez elle avec une aisance parfaite. Le rencontre-t-elle dans le monde, elle lui adresse deux ou trois mots, quelquefois s’en tient à un salut : quelquefois elle affecte de ne pas même le voir. Elle n’est du reste coquette avec personne, et beaucoup s’en affligent. Eugène commence à pâlir : elle ne le remarque pas, ou elle n’en a pas souci. Il maigrit ; tout le monde lui parle de médecins, d’une saison aux eaux ;
+
+`p00633` mais il ne veut point partir, et d’avance il est prêt à dire à ses aïeux qu’il les verra bientôt : Tatiana ne s’en inquiète pas davantage. Toutefois il ne veut pas que sa passion meure, et il espère encore… Plus hardi que l’homme en pleine santé, le malade écrit d’une main tremblante une lettre à la princesse. Ce n’est pas qu’il ait confiance dans les lettres, mais sa souffrance est devenue trop vive ; il faut parler.
+
+`p00634` Voici sa lettre mot à mot :
+
+`p00635` Lettre d’Onéguine à Tatiana.
+
+`p00636` « Je prévois l’effet de cette lettre : l’aveu de ma douleur, retenue jusqu’à présent, vous offensera. Et quel mépris n’exprimera pas votre fier regard ! Ah ! quel est donc mon but ? Pourquoi ouvrir mon âme ? Pourquoi exciter peut-être dans la vôtre une joie vengeresse ?
+
+`p00637` » Un jour, le hasard a fait que nous nous sommes rencontrés : vous m’étiez sympathique, mais je ne pus y croire, et je gardai ma farouche liberté. Une autre barrière s’éleva encore entre nous… Lensky, victime infortunée, tomba frappé de ma main. Alors j’arrachai de mon cœur tout ce qui jusqu’alors en faisait la joie. Étranger au monde et sans aucune chaîne, je croyais, libre et calme, pouvoir me dire heureux. Mon Dieu ! comme je me trompais et comme j’en ai été puni !
+
+`p00638` » Mais non ! vous voir toujours, vous suivre partout, dévorer de mes regards le sourire de vos lèvres le mouvement de vos yeux, écouter vos paroles avec ravissement, comprendre avec l’âme toutes vos perfections… enfin me consumer devant vous, pâlir et mourir ! Voilà pour moi le bonheur auquel j’aspire : pourrai-je le goûter ?…
+
+`p00639` » Partout je me jette sur votre passage, et, si je ne parviens pas à vous voir, je traîne dans un ennui qui m’accable, des heures déjà assez pénibles sans cela.
+
+`p00640` » La science a compté mes jours. Je le sais : et pourtant, pour avoir le courage d’aller jusqu’au soir, il faut que j’aie dès le matin l’espérance de vous apercevoir dans la journée. Je crains même que votre regard sévère ne voie dans mon humble prière qu’une machination ou une ruse… et j’entends vos reproches !
+
+`p00641` » Oh ! si vous saviez combien il est affreux de se sentir consumer sourdement par les ardeurs de l’amour ! Si vous saviez combien il est douloureux d’être toujours en lutte avec sa raison et avec son cœur, — de se jeter à vos genoux, vous absente, de vous adresser en sanglotant des prières, des aveux, tout ce que la langue humaine peut exprimer ; — et, après tous ces transports, d’être forcé de prendre le masque de la froideur, de soutenir avec vous une conversation banale, et de vous regarder gaiement !
+
+`p00642` » Mais qu’il en soit ainsi ! Je n’ai plus le pouvoir de me vaincre moi-même. Tout est fini : je suis à vous et je me soumets à mon sort, sans vouloir y rien changer. »
+
+`p00643` Cette lettre resta sans réponse. Il en écrivit une seconde, une troisième, mais toujours en vain. Entre-t-il ? Tatiana vient à sa rencontre ;… mais avec quelle indifférence ! Ou bien elle ne le regarde pas, ne lui adresse pas une parole. Le froid brouillard des soirées de l’Épiphanie semble l’entourer comme d’un manteau. Elle réprime à peine des paroles d’indignation. Eugène a fixé sur elle un regard perçant, mais il n’aperçoit sur ce visage de marbre ni compassion, ni souffrance. Il cherche la trace des larmes qu’elle versa autrefois, mais elles ont disparu depuis longtemps, et la rancune, la fierté et l’indignation ont pris leur place.
+
+`p00644` Mais peut-être cette indifférence n’a-t-elle pour but que de cacher à un mari et à un monde sévère, une faiblesse de femme ?… Hélas ! toutes les questions imaginables, Onéguine se les fit ; mais il ne put se donner une lueur d’espérance !
+
+`p00645` Il partait en maudissant sa folie, et s’y plongeait de plus en plus.
+
+`p00646` De nouveau il renonça à fréquenter les salons. Ce même spleen qui le poursuivait au milieu des bruits du monde, qui lui sautait à la gorge et le clouait dans un coin de la salle de bal, l’atteignit encore.
+
+`p00647` Comme autrefois, pour remédier à l’ennui, il se remit à lire. Il lut Gibbon, Rousseau, Manzoni, Herder, Chamfort, Mme de Staël, Tissot, le sceptique Bayle, et Fontenelle. Il lut même plusieurs de nos auteurs russes. Ne voulant exclure aucun genre, il lut aussi les almanachs, où nous trouvons toujours les mêmes leçons, — et les journaux, où maintenant l’on me blâme avec tant d’amertume, et où naguère encore je trouvais tant de madrigaux à ma louange ! È sempre bene, messieurs !
+
+`p00648` Mais les yeux seuls d’Onéguine lisaient ; sa pensée était loin. Ses rêves, ses désirs, ses chagrins se pressaient dans son âme. Entre les lignes imprimées, il voyait d’autres lignes qui absorbaient son attention. C’étaient des traditions mystérieuses du sombre passé, des rêves sans suite, des menaces, des interprétations, des prédictions, une longue histoire d’amour et des lettres de jeunes filles.
+
+`p00649` Il s’oublie au milieu des divagations de sa pensée et du voile brillant et bariolé que son imagination agite devant ses yeux. Tantôt un jeune homme lui apparaît, étendu sur la neige et comme endormi, et il entend une voix rauque : « Eh bien ! quoi ?… il est tué ! » — Tantôt lui apparaît l’image d’ennemis oubliés depuis longtemps, de calomniateurs, de méchants, de lâches, et un essaim de jeunes traîtresses, et une réunion de vils camarades. Quelquefois aussi une maison de campagne, et, assise auprès de la fenêtre… elle… toujours elle !…
+
+`p00650` Eugène concentra tellement son existence dans ses souvenirs, qu’il faillit devenir fou ou poète. Avouez, cher lecteur, qu’il est étonnant que mon jeune élève ne se soit pas mis à écrire des vers russes ! Il connaissait si bien les règles et les mesures poétiques !… Il ressemblait tant à un poète, lorsque, assis près d’un feu clair, il fredonnait Benedetta ou Idol mio, et laissait glisser dans la cheminée, tantôt sa pantoufle, tantôt son journal !
+
+`p00651` Les jours passent ; l’atmosphère réchauffée met déjà l’hiver en fuite. Mon Eugène n’a été visité par aucun démon poétique, il n’est point mort, il n’est pas même devenu fou ! mais il a senti ses forces revenir avec la tiède haleine du printemps. Par une belle matinée, il quitta pour la première fois les chambres où il avait passé l’hiver enfermé comme une marmotte, entre son foyer et ses doubles croisées, et il se fit conduire en traîneau sur les bords de la Néva. Le soleil se jouait sur la glace bleuâtre et déjà fendue çà et là ; dans les rues, la neige souillée et à demi fondue se changeait en boue.
+
+`p00652` Mais où donc va-t-il, Eugène ?…
+
+`p00653` Vous l’avez déjà deviné, n’est-ce pas ? Il va chez elle, chez sa Tatiana, mon incorrigible original.
+
+`p00654` Il entre, semblable à un cadavre. Dans l’antichambre, personne. Il traverse le salon, encore personne. Il ouvre une porte… Pourquoi donc semble-t-il éperdu ? La princesse est assise devant lui ; elle est pâle, en toilette du matin : elle lit une lettre, et ses larmes coulent doucement le long de ses joues.
+
+`p00655` Oh ! le premier regard d’Onéguine suffit pour lui dévoiler les souffrances de la jeune femme ! Maintenant il reconnaît dans la princesse altière l’ancienne Tatiana, la pauvre Tania. Il tombe à ses pieds, en proie à une angoisse insensée. Elle tressaille et se tait… Elle fixe sur Onéguine des yeux où ne se manifestent ni étonnement, ni colère. Elle contemple la langueur maladive, l’air suppliant du jeune homme, elle comprend les reproches muets qu’il s’adresse.
+
+`p00656` La simple jeune fille, avec ses rêves et son cœur d’autrefois, est-elle donc retrouvée ?
+
+`p00657` Elle ne le relève pas ; elle ne soustrait pas sa main à des baisers ardents… À quoi pense-t-elle donc ?
+
+`p00658` Enfin, après un long silence :
+
+`p00659` « C’est assez ; levez-vous, je vous parlerai avec franchise. Onéguine, vous souvient-il de l’heure où le hasard nous réunit dans une allée de notre jardin, et où j’écoutai si humblement votre froid sermon ? — Aujourd’hui, c’est mon tour.
+
+`p00660` » J’étais plus jeune alors, et plus belle aussi ; je vous aimais !… Qu’ai-je trouvé dans votre cœur pour répondre à mon amour ? Vous avez été dur et insensible, n’est-il pas vrai ? L’amour d’une humble petite fille ne vous touchait pas ! Et maintenant !… Grand Dieu ! Mon sang se glace lorsque je me rappelle votre regard, votre leçon de morale !… Mais je ne vous accuse pas ; vous avez noblement agi dans cette heure décisive pour moi, et de toute mon âme je vous en suis reconnaissante.
+
+`p00661` » Alors, n’est-ce pas, dans la solitude, loin du monde et de ses succès, je n’avais aucun charme pour vous. Pourquoi aujourd’hui me suivre partout ? Pourquoi m’offrir votre amour ? Est-ce parce que je figure dans le monde ? Parce que je suis riche et noble, et que mon mari, blessé dans les combats, est l’objet des faveurs de la cour ? Est-ce parce que mon déshonneur serait public et vous apporterait un renom scandaleux ?…
+
+`p00662` » Je pleure !… Si vous n’avez pas oublié votre Tatiana, sachez qu’elle eût préféré à la démonstration d’une passion qui m’outrage, à vos lettres et à vos larmes, — vos invectives et vos paroles froides et sévères d’autrefois. Alors vous aviez du moins de la pitié pour mes rêves d’enfant, du respect pour mon jeune âge. Et aujourd’hui ! N’est-ce pas l’espoir d’un honteux et mesquin triomphe de vanité qui vous a conduit à mes pieds ? Et c’est vous, c’est vous, avec votre cœur et votre esprit, c’est vous qui êtes l’esclave d’un tel sentiment !
+
+`p00663` » Que m’importe ce luxe qui m’environne, cette position qui attire vos regards, ce clinquant d’une vie qui m’est à charge ! Que m’importent mes succès, ma maison à la mode et mes salons remplis de la société la plus brillante !
+
+`p00664` » Ah ! que je serais heureuse d’échanger à l’instant même toute cette mascarade, toute cette splendeur, ce bruit et cet encens, pour une petite table et quelques livres, dans notre pauvre logis et dans notre jardin inculte, tout près des lieux où je vous vis pour la première fois, et de l’humble cimetière où une croix marque la tombe de ma pauvre bonne !
+
+`p00665` » Et pourtant le bonheur fut si près de nous ! Il nous était si facile !…
+
+`p00666` » Mais maintenant mon sort est fixé pour jamais. Peut-être ai-je été imprudente ! Mais ma mère me conjurait avec larmes, et tout était indifférent à la pauvre Tatiana ! Enfin je suis mariée ! Partez, je vous en conjure ! Je m’adresse à votre fierté et à votre honneur : je vous aime (pourquoi le cacher ?) Mais j’appartiens à un autre : je lui serai fidèle, jusqu’à la mort ! »
+
+`p00667` À ces mots elle sortit. Eugène resta comme frappé de la foudre. Mille sentiments divers bouleversaient son cœur… Soudain un bruit d’éperons se fit entendre et le prince parut. À ce moment critique, cher lecteur, nous quitterons Onéguine, pour longtemps… pour toujours ! Voilà de longs jours que nous voyageons avec lui : félicitons-nous mutuellement d’avoir atteint le port. Hourra ! J’aurais bien dû, n’est-ce pas, finir depuis longtemps ?…
+
+`p00668` Mais, qui que tu sois, cher lecteur, ami ou ennemi, je veux que nous nous séparions en bons camarades, je veux te dire un cordial adieu. Je ne sais si tu as trouvé dans ce livre ce que tu y cherchais, délassement à tes travaux, saillies mordantes ou fautes de style. Fasse le ciel que tu aies au moins rencontré quelques lignes qui aient réjoui ton cœur et alimenté une heure ta rêverie ! Sur cela, séparons-nous. Adieu.
+
+`p00669` Adieu toi aussi, mon étrange compagnon, mon cher Onéguine ! Adieu mon travail, laborieux quoique de légère apparence ! Vous m’avez donné tout ce que le poète désire : l’oubli de la vie et du monde et une douce causerie avec des cœurs amis !…
+
+`p00670` Bien des jours sont passés depuis celui où Tatiana et Onéguine se dessinèrent pour la première fois dans mon imagination. Alors je ne pouvais encore prévoir la fin de mon roman.
+
+`p00671` Hélas ! de ceux auxquels, dans nos réunions intimes, je lus mes premières strophes, les uns ne sont plus, les autres sont bien loin de moi, et j’ai dû achever sans eux l’histoire d’Onéguine.
+
+`p00672` Et toi dont l’image s’est identifiée avec ma Tatiana, où es-tu maintenant ?
+
+`p00673` Hélas ! le sort a frappé tout autour de moi ! Heureux celui qui de bonne heure quitta le banquet de la vie avant d’avoir entièrement vidé la coupe ! Heureux aussi celui qui n’acheva pas son propre roman, et le quitta comme je quitte mon Onéguine !
+
+`p00674` FIN.
