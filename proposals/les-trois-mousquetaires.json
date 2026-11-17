@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-trois-mousquetaires",
+  "title": "Les Trois Mousquetaires",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Trois Mousquetaires, texte par chapitres sur fr.wikisource (éditeur et date non indiqués)",
+    "pages": [
+      {
+        "title": "Les Trois Mousquetaires/Chapitre 1",
+        "revisionId": 13417011
+      },
+      {
+        "title": "Les Trois Mousquetaires/Épilogue",
+        "revisionId": 11304079
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d56fc5437d52a8f6275cca231f9151b5ca46cdb2239c20ec9d1c8cea3b3f8c29"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "Le premier lundi du mois d’avril 1626, le bourg de Meung, où naquit l’auteur du Roman de la Rose, semblait être dans une révolution aussi entière que si les huguenots en fussent venus faire une seconde Rochelle. Plusieurs bourgeois, voyant s’enfuir les femmes le long de la grande rue, entendant les enfants crier sur le seuil des portes, se hâtaient d’endosser la cuirasse, et appuyant leur contenance quelque peu incertaine d’un mousquet ou d’une pertuisane, se dirigeaient vers l’hôtellerie du Franc-Meunier, devant laquelle s’empressait, en grossissant de minute en minute, un groupe compacte…",
+    "original": "Le premier lundi du mois d’avril 1626, le bourg de Meung, où naquit l’auteur du Roman de la Rose, semblait être dans une révolution aussi entière que si les huguenots en fussent venus faire une seconde Rochelle. Plusieurs bourgeois, voyant s’enfuir les femmes le long de la grande rue, entendant les enfants crier sur le seuil des portes, se hâtaient d’endosser la cuirasse, et appuyant leur contenance quelque peu incertaine d’un mousquet ou d’une pertuisane, se dirigeaient vers l’hôtellerie du Franc-Meunier, devant laquelle s’empressait, en grossissant de minute en minute, un groupe compacte, bruyant et plein de curiosité.",
+    "length": 596,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00144.s3",
+      "p00145.s1",
+      "p00145.s2"
+    ],
+    "french": "Le cardinal lui fit répondre qu’il allait pourvoir à ce qu’il ne manquât jamais de rien désormais.\nEn effet, le lendemain M. Bonacieux étant sorti à sept heures du soir de chez lui pour se rendre au Louvre, ne reparut plus rue des Fossoyeurs. L’avis de ceux qui se crurent le mieux informés fut qu’il était nourri et logé dans quelque château royal aux frais de Sa généreuse Éminence.",
+    "original": "Le cardinal lui fit répondre qu’il allait pourvoir à ce qu’il ne manquât jamais de rien désormais.\nEn effet, le lendemain M. Bonacieux étant sorti à sept heures du soir de chez lui pour se rendre au Louvre, ne reparut plus rue des Fossoyeurs. L’avis de ceux qui se crurent le mieux informés fut qu’il était nourri et logé dans quelque château royal aux frais de Sa généreuse Éminence.",
+    "length": 384,
+    "truncated": false
+  }
+}

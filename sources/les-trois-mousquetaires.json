@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-trois-mousquetaires",
+  "title": "Les Trois Mousquetaires",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Trois Mousquetaires, texte par chapitres sur fr.wikisource (éditeur et date non indiqués)",
+  "pages": [
+    {
+      "title": "Les Trois Mousquetaires/Chapitre 1",
+      "revisionId": 13417011
+    },
+    {
+      "title": "Les Trois Mousquetaires/Épilogue",
+      "revisionId": 11304079
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d56fc5437d52a8f6275cca231f9151b5ca46cdb2239c20ec9d1c8cea3b3f8c29",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Le premier lundi du mois d’avril 1626, le bourg de Meung, où"
+  },
+  "bodyEnd": {
+    "id": "p00145",
+    "textPrefix": "En effet, le lendemain M. Bonacieux étant sorti à sept heure"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de chapitres et « FIN DES TROIS MOUSQUETAIRES ». Préface non enregistrée. Seuls chapitre 1 et épilogue enregistrés."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
