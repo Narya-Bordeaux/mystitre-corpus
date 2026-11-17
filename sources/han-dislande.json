@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "han-dislande",
+  "title": "Han d'Islande",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Han d’Islande, édition non indiquée (pages Wikisource « Chapitre I » et « Conclusion », révision figée)",
+  "pages": [
+    {
+      "title": "Han d’Islande/Chapitre I",
+      "revisionId": 4367521
+    },
+    {
+      "title": "Han d’Islande/Conclusion",
+      "revisionId": 2262005
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "58d1c9ef26edbd6d0ba0930fcf583a6f4ff2015549032ee20a6eb1063e23d194",
+  "bodyStart": {
+    "id": "p00007",
+    "textPrefix": "— Voilà où conduit l’amour, voisin Niels, cette pauvre Guth "
+  },
+  "bodyEnd": {
+    "id": "p00128",
+    "textPrefix": "Schumacker ne jouit pas longtemps de l’union d’Éthel et d’Or"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, numéro de chapitre, épigraphes (p00003-p00006). Début au premier paragraphe du récit."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

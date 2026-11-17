@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "han-dislande",
+  "title": "Han d'Islande",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Han d’Islande, édition non indiquée (pages Wikisource « Chapitre I » et « Conclusion », révision figée)",
+    "pages": [
+      {
+        "title": "Han d’Islande/Chapitre I",
+        "revisionId": 4367521
+      },
+      {
+        "title": "Han d’Islande/Conclusion",
+        "revisionId": 2262005
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "58d1c9ef26edbd6d0ba0930fcf583a6f4ff2015549032ee20a6eb1063e23d194"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00007.s1",
+      "p00007.s2"
+    ],
+    "french": "— Voilà où conduit l’amour, voisin Niels, cette pauvre Guth Stersen ne serait point là étendue sur cette grande pierre noire, comme une étoile de mer oubliée par la marée, si elle n’avait jamais songé qu’à reclouer la barque ou à raccommoder les filets de son père, notre vieux camarade. Que saint Usuph le pêcheur le console dans son affliction !",
+    "original": "— Voilà où conduit l’amour, voisin Niels, cette pauvre Guth Stersen ne serait point là étendue sur cette grande pierre noire, comme une étoile de mer oubliée par la marée, si elle n’avait jamais songé qu’à reclouer la barque ou à raccommoder les filets de son père, notre vieux camarade. Que saint Usuph le pêcheur le console dans son affliction !",
+    "length": 347,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00128.s2",
+      "p00128.s3",
+      "p00128.s4"
+    ],
+    "french": "Il mourut dans la même année 1699, et ce chagrin vint frapper ses enfants, comme pour leur apprendre qu’il n’est point de félicité parfaite sur la terre. On l’inhuma dans l’église de Veer, terre que son gendre possédait dans le Jutland, et le tombeau lui conserva tous les titres que la captivité lui avait enlevés. De l’alliance d’Ordener et d’Éthel naquit la famille de Danneskiold.",
+    "original": "Il mourut dans la même année 1699, et ce chagrin vint frapper ses enfants, comme pour leur apprendre qu’il n’est point de félicité parfaite sur la terre. On l’inhuma dans l’église de Veer, terre que son gendre possédait dans le Jutland, et le tombeau lui conserva tous les titres que la captivité lui avait enlevés. De l’alliance d’Ordener et d’Éthel naquit la famille de Danneskiold.",
+    "length": 384,
+    "truncated": false
+  }
+}
