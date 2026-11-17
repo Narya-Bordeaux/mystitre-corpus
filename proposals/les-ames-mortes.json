@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-ames-mortes",
+  "title": "Les Âmes mortes",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ru.wikisource.org",
+    "edition": "Wikisource russe, « Мёртвые души (Гоголь) », Том I (chapitres I et XI) ; édition source non indiquée",
+    "pages": [
+      {
+        "title": "Мёртвые души (Гоголь)/Том I/Глава I",
+        "revisionId": 5640514
+      },
+      {
+        "title": "Мёртвые души (Гоголь)/Том I/Глава XI",
+        "revisionId": 5640336
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7150bf02860bffdde5686cb5b9af020a0c29aa098613391a7882bd490c3e0f5c"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1"
+    ],
+    "french": "Une assez jolie petite britchka à ressorts, de celles où voyagent les célibataires — lieutenants-colonels en retraite, capitaines en second, propriétaires possédant une centaine d’âmes de paysans, bref tous ceux qu’on appelle des gentilshommes de moyenne condition — franchit la porte d’une auberge de la ville de gouvernement de NN.",
+    "original": "В ворота гостиницы губернского города NN въехала довольно красивая рессорная небольшая бричка, в какой ездят холостяки: отставные подполковники, штабс-капитаны, помещики, имеющие около сотни душ крестьян, — словом, все те, которых называют господами средней руки.",
+    "length": 333,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00049.s8",
+      "p00049.s9",
+      "p00049.s10"
+    ],
+    "french": "Russie, où cours-tu ? réponds. Elle ne répond pas. La clochette s’emplit d’un tintement merveilleux ; l’air déchiré en lambeaux gronde et devient vent ; tout ce qui existe sur la terre vole en arrière et, regardant de travers, les autres peuples et les autres États s’écartent et lui cèdent la route.",
+    "original": "Русь, куда ж несешься ты? дай ответ. Не дает ответа. Чудным звоном заливается колокольчик; гремит и становится ветром разорванный в куски воздух; летит мимо все, что ни есть на земле, и, косясь, постораниваются и дают ей дорогу другие народы и государства.",
+    "length": 300,
+    "truncated": false
+  }
+}

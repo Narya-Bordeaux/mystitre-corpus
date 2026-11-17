@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-ames-mortes",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "7150bf02860bffdde5686cb5b9af020a0c29aa098613391a7882bd490c3e0f5c",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "В ворота гостиницы губернского города NN въехала довольно красивая рессорная небольшая бричка, в какой ездят холостяки: отставные подполковники, штабс-капитаны, помещики, имеющие около сотни душ крестьян, — словом, все те, которых называют господами средней руки.",
+      "translation": "Une assez jolie petite britchka à ressorts, de celles où voyagent les célibataires — lieutenants-colonels en retraite, capitaines en second, propriétaires possédant une centaine d’âmes de paysans, bref tous ceux qu’on appelle des gentilshommes de moyenne condition — franchit la porte d’une auberge de la ville de gouvernement de NN."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "В бричке сидел господин, не красавец, но и не дурной наружности, ни слишком толст, ни слишком тонок; нельзя сказать, чтобы стар, однако ж и не так чтобы слишком молод.",
+      "translation": "Dans la britchka était assis un monsieur, ni beau ni laid de sa personne, ni trop gras ni trop maigre ; on ne pouvait dire qu’il fût vieux, mais il n’était pas non plus trop jeune."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Въезд его не произвел в городе совершенно никакого шума и не был сопровожден ничем особенным; только два русские мужика, стоявшие у дверей кабака против гостиницы, сделали кое-какие замечания, относившиеся, впрочем, более к экипажу, чем к сидевшему в нем.",
+      "translation": "Son arrivée ne fit aucun bruit dans la ville et ne fut accompagnée de rien de particulier ; seuls deux paysans russes, debout à la porte d’un cabaret en face de l’auberge, firent quelques remarques qui se rapportaient d’ailleurs plus à la voiture qu’à celui qui s’y trouvait."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00049.s3",
+      "original": "Остановился пораженный Божьим чудом созерцатель: не молния ли это, сброшенная с неба? что значит это наводящее ужас движение? и что за неведомая сила заключена в сих неведомых светом конях?",
+      "translation": "Le spectateur s’arrête, frappé d’un prodige divin : n’est-ce pas la foudre jetée du ciel ? que signifie ce mouvement qui glace d’effroi ? et quelle force inconnue du monde habite ces chevaux inconnus du monde ?"
+    },
+    {
+      "id": "p00049.s4",
+      "original": "Эх, кони, кони, что за кони!",
+      "translation": "Ah ! chevaux, chevaux, quels chevaux !"
+    },
+    {
+      "id": "p00049.s5",
+      "original": "Вихри ли сидят в ваших гривах?",
+      "translation": "Des tourbillons siègent-ils dans vos crinières ?"
+    },
+    {
+      "id": "p00049.s6",
+      "original": "Чуткое ли ухо горит во всякой вашей жилке?",
+      "translation": "Une oreille sensible brûle-t-elle dans chacune de vos fibres ?"
+    },
+    {
+      "id": "p00049.s7",
+      "original": "Заслышали с вышины знакомую песню, дружно и разом напрягли медные груди и, почти не тронув копытами земли, превратились в одни вытянутые линии, летящие по воздуху, и мчится вся вдохновенная Богом!..",
+      "translation": "Vous avez entendu d’en haut le chant familier, d’un même élan vous avez tendu vos poitrails de bronze et, sans presque toucher la terre de vos sabots, vous n’êtes plus que des lignes étirées volant dans l’air, et tout l’attelage file, inspiré de Dieu !…"
+    },
+    {
+      "id": "p00049.s8",
+      "original": "Русь, куда ж несешься ты? дай ответ.",
+      "translation": "Russie, où cours-tu ? réponds."
+    },
+    {
+      "id": "p00049.s9",
+      "original": "Не дает ответа.",
+      "translation": "Elle ne répond pas."
+    },
+    {
+      "id": "p00049.s10",
+      "original": "Чудным звоном заливается колокольчик; гремит и становится ветром разорванный в куски воздух; летит мимо все, что ни есть на земле, и, косясь, постораниваются и дают ей дорогу другие народы и государства.",
+      "translation": "La clochette s’emplit d’un tintement merveilleux ; l’air déchiré en lambeaux gronde et devient vent ; tout ce qui existe sur la terre vole en arrière et, regardant de travers, les autres peuples et les autres États s’écartent et lui cèdent la route."
+    }
+  ]
+}

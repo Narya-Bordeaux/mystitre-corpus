@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-ames-mortes",
+  "title": "Les Âmes mortes",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Wikisource russe, « Мёртвые души (Гоголь) », Том I (chapitres I et XI) ; édition source non indiquée",
+  "pages": [
+    {
+      "title": "Мёртвые души (Гоголь)/Том I/Глава I",
+      "revisionId": 5640514
+    },
+    {
+      "title": "Мёртвые души (Гоголь)/Том I/Глава XI",
+      "revisionId": 5640336
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7150bf02860bffdde5686cb5b9af020a0c29aa098613391a7882bd490c3e0f5c",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "В ворота гостиницы губернского города NN въехала довольно кр"
+  },
+  "bodyEnd": {
+    "id": "p00049",
+    "textPrefix": "Не так ли и ты, Русь, что бойкая необгонимая тройка несешься"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Tome I, ch. I et XI seuls enregistrés ; l'ouverture est le 1er paragraphe du ch. I, la fin la 'troïka' du ch. XI. Préface « К читателю » exclue (non enregistrée). Tome II inachevé ignoré."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
