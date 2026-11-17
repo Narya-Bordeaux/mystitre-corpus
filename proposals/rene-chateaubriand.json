@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "rene-chateaubriand",
+  "title": "René",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (page Wikisource « René », révision 14437618)",
+    "pages": [
+      {
+        "title": "René",
+        "revisionId": 14437618
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "57780146994108a2b5880af56b60f3f9d7d2fa57f11ca5fc367d666c7d02d0bc"
+  },
+  "titleMasks": [
+    "René"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "En arrivant chez les Natchez, [TITRE] avait été obligé de prendre une épouse, pour se conformer aux mœurs des Indiens, mais il ne vivait point avec elle. Un penchant mélancolique l’entraînait au fond des bois ; il y passait seul des journées entières, et semblait sauvage parmi les sauvages. Hors Chactas, son père adoptif, et le père Souël, missionnaire au fort Rosalie, il avait renoncé au commerce des hommes.",
+    "original": "En arrivant chez les Natchez, René avait été obligé de prendre une épouse, pour se conformer aux mœurs des Indiens, mais il ne vivait point avec elle. Un penchant mélancolique l’entraînait au fond des bois ; il y passait seul des journées entières, et semblait sauvage parmi les sauvages. Hors Chactas, son père adoptif, et le père Souël, missionnaire au fort Rosalie, il avait renoncé au commerce des hommes.",
+    "length": 409,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00123.s2",
+      "p00123.s3",
+      "p00123.s4",
+      "p00123.s5"
+    ],
+    "french": "Les trois amis reprirent la route de leurs cabanes : [TITRE] marchait en silence entre le missionnaire, qui priait Dieu, et le Sachem aveugle, qui cherchait sa route. On dit que, pressé par les deux vieillards, il retourna chez son épouse, mais sans y trouver le bonheur. Il périt peu de temps après avec Chactas et le père Souël dans le massacre des Français et des Natchez à la Louisiane. On montre encore un rocher où il allait s’asseoir au soleil couchant.",
+    "original": "Les trois amis reprirent la route de leurs cabanes : René marchait en silence entre le missionnaire, qui priait Dieu, et le Sachem aveugle, qui cherchait sa route. On dit que, pressé par les deux vieillards, il retourna chez son épouse, mais sans y trouver le bonheur. Il périt peu de temps après avec Chactas et le père Souël dans le massacre des Français et des Natchez à la Louisiane. On montre encore un rocher où il allait s’asseoir au soleil couchant.",
+    "length": 457,
+    "truncated": false
+  }
+}
