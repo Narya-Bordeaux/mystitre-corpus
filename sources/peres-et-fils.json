@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "peres-et-fils",
+  "title": "Pères et Fils",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Pères et Enfants, par Ivan Tourguenef, précédé d'une lettre à l'éditeur par Prosper Mérimée, Paris, Charpentier, 1863 (fr.wikisource)",
+  "pages": [
+    {
+      "title": "Pères et Enfants/01",
+      "revisionId": 5967234
+    },
+    {
+      "title": "Pères et Enfants/26",
+      "revisionId": 6016007
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "19551807b6cb3e158e0fccfdeeac0e378f03e7aebc400098735dc843fe154ea2",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "« Eh bien ! Pierre, rien ne vient encore ? » demandait, le 2"
+  },
+  "bodyEnd": {
+    "id": "p00030",
+    "textPrefix": "Il existe un petit cimetière dans un des recoins les plus él"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "inconnu (non indiqué par Wikisource)",
+    "translationYear": 1863,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, numéros de chapitre, « FIN ». Préface de Mérimée non enregistrée (hors œuvre)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
