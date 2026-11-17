@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-pailles-rompues",
+  "title": "Les Pailles rompues",
+  "host": "declared",
+  "sourceLanguage": "fr",
+  "edition": "Les Pailles rompues, comédie en un acte et en vers (1850), Gallica ; scène première et fin de la pièce recopiées par l'agent depuis les captures de l'utilisateur ; titre de scène, liste des personnages et indications de jeu (« Marinette lit auprès d'une table », « entre avec deux candélabres », « au public », « Montrant sa bourse ») non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "f67da0e01a6b064807a49813186b19333a1e2ad282a3a81701f0e865e10b92b9",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "FRONTIN.\nOh ! à cette heure-ci la chambre n'est pas faite ?"
+  },
+  "bodyEnd": {
+    "id": "p00013",
+    "textPrefix": "LE SUISSE.\nMessious,\nMonsir t'Espard, il est gondent ; il mè"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée ; théâtre en vers"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "speakerLines",
+      "names": [
+        "FRONTIN",
+        "MARINETTE",
+        "LE SUISSE"
+      ],
+      "reason": "Texte déclaré : le nom du personnage ouvre chaque réplique, sur sa propre ligne"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k322657v",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur"
+  }
+}

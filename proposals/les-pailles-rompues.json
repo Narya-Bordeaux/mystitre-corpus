@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-pailles-rompues",
+  "title": "Les Pailles rompues",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "declared",
+    "edition": "Les Pailles rompues, comédie en un acte et en vers (1850), Gallica ; scène première et fin de la pièce recopiées par l'agent depuis les captures de l'utilisateur ; titre de scène, liste des personnages et indications de jeu (« Marinette lit auprès d'une table », « entre avec deux candélabres », « au public », « Montrant sa bourse ») non recopiés",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "f67da0e01a6b064807a49813186b19333a1e2ad282a3a81701f0e865e10b92b9",
+    "declaredSource": {
+      "url": "https://gallica.bnf.fr/ark:/12148/bpt6k322657v",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "speakerLines",
+      "names": [
+        "FRONTIN",
+        "MARINETTE",
+        "LE SUISSE"
+      ],
+      "reason": "Texte déclaré : le nom du personnage ouvre chaque réplique, sur sa propre ligne"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001-1.s1",
+      "p00002-1.s1",
+      "p00003-1.s1",
+      "p00004-1.s1",
+      "p00005-1.s1",
+      "p00006-1.s1",
+      "p00007-1.s1"
+    ],
+    "french": "FRONTIN. — Oh ! à cette heure-ci la chambre n'est pas faite ?\nMARINETTE. — Frontin !\nFRONTIN. — D'une servante il faudra faire emplette.\nMARINETTE. — Frontin !\nFRONTIN. — Lorsqu'on paresse ainsi tout le matin,\nPour terminer l'ouvrage on compte sur…\nMARINETTE. — Frontin !\nFRONTIN. — Frontin par-ci, par-là… je vous tire mes chausses !",
+    "original": "FRONTIN. — Oh ! à cette heure-ci la chambre n'est pas faite ?\nMARINETTE. — Frontin !\nFRONTIN. — D'une servante il faudra faire emplette.\nMARINETTE. — Frontin !\nFRONTIN. — Lorsqu'on paresse ainsi tout le matin,\nPour terminer l'ouvrage on compte sur…\nMARINETTE. — Frontin !\nFRONTIN. — Frontin par-ci, par-là… je vous tire mes chausses !",
+    "length": 334,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00013-1.s1",
+      "p00013-1.s2",
+      "p00013-1.s3",
+      "p00013-1.s4"
+    ],
+    "french": "LE SUISSE. — Messious,\nMonsir t'Espard, il est gondent ; il mène\nSans fous, pien endendu, son épousse en Lorraine ;\nMarinette est gondende, et même avec le demp,\nLe Vrondin vuinira par se trufer gondend.\nMonsir t'Elmont s'en fa gondend ; l'amour l'enifre ;\nMatame est oun beu drop gondende de le suifre ;\nMoi, je zuis drès gondend d'avoir touché ceci.\nLes acters zont gondends de vous trufer ici…\nEt l'andeur le sera, si fous l'êdes aussi.",
+    "original": "LE SUISSE. — Messious,\nMonsir t'Espard, il est gondent ; il mène\nSans fous, pien endendu, son épousse en Lorraine ;\nMarinette est gondende, et même avec le demp,\nLe Vrondin vuinira par se trufer gondend.\nMonsir t'Elmont s'en fa gondend ; l'amour l'enifre ;\nMatame est oun beu drop gondende de le suifre ;\nMoi, je zuis drès gondend d'avoir touché ceci.\nLes acters zont gondends de vous trufer ici…\nEt l'andeur le sera, si fous l'êdes aussi.",
+    "length": 439,
+    "truncated": false
+  }
+}
