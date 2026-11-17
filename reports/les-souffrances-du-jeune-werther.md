@@ -1,0 +1,8 @@
+# Les Souffrances du jeune Werther — compte rendu /corpus-book
+
+- **Œuvre** : *Les Souffrances du jeune Werther* (Goethe). Texte français libre de droits retenu : traduction de Jean-Jacques Porchat, Goethe, Œuvres, tome V (catégorie Wikisource « parus en 1860 »), page « Les Souffrances du jeune Werther (trad. Porchat) ». Décès de Porchat lu par le moteur sur « Auteur:Jean-Jacques Porchat-Bressenel ».
+- **Comparaison à l'original** : le texte allemand n'est pas sur de.wikisource (introuvable par recherche) ; `peek` sur l'original impossible. Comparaison faite sur le contenu, début et fin : le début (« Comme je suis joyeux d'être parti ! Cher ami, qu'est-ce que le cœur de l'homme ? ») rend l'ouverture de la lettre du 4 mai, la fin (« Aucun ecclésiastique ne l'accompagna. ») rend la dernière phrase du récit de l'éditeur ; le texte est complet de bout en bout et conserve le ton épistolaire. Jugée fidèle, mais sans vérification phrase à phrase sur l'original : à confirmer à la relecture.
+- **Exclus** : intertitre « LIVRE PREMIER. », date « 4 mai. » (en-tête de lettre), note de bas de page finale (p00505).
+- **Extraits** : ouverture 313 caractères (5 phrases) ; clôture 336 caractères (6 phrases). Aucune correction ni masque ; le titre ne fuit pas.
+- **Points douteux** : l'édition de Porchat ne contient pas la préface de l'éditeur ni les dates des lettres du récit final dans les extraits ; la clôture « Aucun ecclésiastique ne l'accompagna. » diffère de l'ancienne (« Il n'y eut point de prêtre. », autre traduction).
+- **Hésitation** : retenir une traduction dont l'original n'est pas comparable sur Wikisource.
