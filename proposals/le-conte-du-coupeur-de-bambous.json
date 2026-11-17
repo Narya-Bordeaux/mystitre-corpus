@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-conte-du-coupeur-de-bambous",
+  "title": "Le Conte du coupeur de bambous",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ja.wikisource.org",
+    "edition": "竹取物語 (國民文庫), d'après Wikisource japonais (éditeur et date non indiqués)",
+    "pages": [
+      {
+        "title": "竹取物語 (國民文庫)",
+        "revisionId": 161009
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2137cf732c958e388423f34c3da7002ef663b3dfe057871cd1a4fc04afc0c6f0"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00052",
+      "find": "（＊ママ）",
+      "replace": "",
+      "reason": "Note d'éditeur Wikisource (sic) insérée dans le texte, pas du texte de l'œuvre"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00006.s1",
+      "p00006.s2",
+      "p00006.s3",
+      "p00006.s4",
+      "p00006.s5"
+    ],
+    "french": "Il y a bien longtemps vivait un vieil homme que l'on appelait le coupeur de bambous. Il allait dans les champs et les montagnes, coupait des bambous et en tirait mille usages. Son nom était Sanuki no Miyatsuko. Or, parmi ces bambous, il en était un dont le pied brillait. Intrigué, il s'approcha et vit que l'intérieur du tube était tout illuminé.",
+    "original": "今は昔竹取の翁といふものありけり。野山にまじりて、竹をとりつゝ、萬の事につかひけり。名をば讃岐造麿となんいひける。その竹の中に、本光る竹ひとすぢありけり。怪しがりて寄りて見るに、筒の中ひかりたり。",
+    "length": 347,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00052.s3",
+      "p00052.s4",
+      "p00052.s5"
+    ],
+    "french": "Il ordonna de disposer côte à côte la lettre et la jarre de l'élixir, et d'y mettre le feu. Ayant reçu cet ordre, les soldats y montèrent en grand nombre, et c'est de là que cette montagne fut appelée Fushi, la montagne de l'Immortalité. On dit que la fumée s'élève encore aujourd'hui dans les nuages.",
+    "original": "御文・不死の藥の壺ならべて、火をつけてもやすべきよし仰せ給ふ。そのよし承りて、兵士（つはもの）どもあまた具して山へ登りけるよりなん、その山をふしの山とは名づけゝる。その煙いまだ雲の中へたち昇るとぞいひ傳へたる。",
+    "length": 301,
+    "truncated": false
+  }
+}

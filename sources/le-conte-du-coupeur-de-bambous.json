@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-conte-du-coupeur-de-bambous",
+  "title": "Le Conte du coupeur de bambous",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "竹取物語 (國民文庫), d'après Wikisource japonais (éditeur et date non indiqués)",
+  "pages": [
+    {
+      "title": "竹取物語 (國民文庫)",
+      "revisionId": 161009
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2137cf732c958e388423f34c3da7002ef663b3dfe057871cd1a4fc04afc0c6f0",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "今は昔竹取の翁といふものありけり。野山にまじりて、竹をとりつゝ、萬の事につかひけり。名をば讃岐造麿となんいひける。その竹"
+  },
+  "bodyEnd": {
+    "id": "p00052",
+    "textPrefix": "かの奉る不死の藥の壺に、御文具して御使に賜はす。勅使には調岩笠（つきのいはかさ）といふ人を召して、駿河の國にあンなる山の"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : bandeau Wikisource, titre d'édition, numéros de section (1, 2…), colophon « 竹取物語 了 » et mentions de licence. Le corps va de « 今は昔竹取の翁… » à la fin du mont Fuji."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00052",
+      "find": "（＊ママ）",
+      "replace": "",
+      "reason": "Note d'éditeur Wikisource (sic) insérée dans le texte, pas du texte de l'œuvre"
+    }
+  ]
+}

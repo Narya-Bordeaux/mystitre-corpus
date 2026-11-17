@@ -1,0 +1,107 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-conte-du-coupeur-de-bambous",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "2137cf732c958e388423f34c3da7002ef663b3dfe057871cd1a4fc04afc0c6f0",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00006.s1",
+      "original": "今は昔竹取の翁といふものありけり。",
+      "translation": "Il y a bien longtemps vivait un vieil homme que l'on appelait le coupeur de bambous."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "野山にまじりて、竹をとりつゝ、萬の事につかひけり。",
+      "translation": "Il allait dans les champs et les montagnes, coupait des bambous et en tirait mille usages."
+    },
+    {
+      "id": "p00006.s3",
+      "original": "名をば讃岐造麿となんいひける。",
+      "translation": "Son nom était Sanuki no Miyatsuko."
+    },
+    {
+      "id": "p00006.s4",
+      "original": "その竹の中に、本光る竹ひとすぢありけり。",
+      "translation": "Or, parmi ces bambous, il en était un dont le pied brillait."
+    },
+    {
+      "id": "p00006.s5",
+      "original": "怪しがりて寄りて見るに、筒の中ひかりたり。",
+      "translation": "Intrigué, il s'approcha et vit que l'intérieur du tube était tout illuminé."
+    },
+    {
+      "id": "p00006.s6",
+      "original": "それを見れば、三寸ばかりなる人いと美しうて居たり。",
+      "translation": "En regardant, il aperçut, assise là, une personne haute de trois pouces à peine, d'une grande beauté."
+    },
+    {
+      "id": "p00006.s7",
+      "original": "翁いふやう、「われ朝ごと夕ごとに見る、竹の中におはするにて知りぬ、子になり給ふべき人なンめり。」",
+      "translation": "Le vieil homme dit : « Chaque matin, chaque soir, je regarde les bambous ; si tu es là, au milieu d'eux, c'est donc que tu es destinée à devenir mon enfant. »"
+    },
+    {
+      "id": "p00006.s8",
+      "original": "とて、手にうち入れて家にもてきぬ。",
+      "translation": "Et il la mit au creux de sa main et la rapporta chez lui."
+    },
+    {
+      "id": "p00006.s9",
+      "original": "妻の嫗にあづけて養はす。",
+      "translation": "Il la confia à sa femme, la vieille, pour qu'elle l'élève."
+    },
+    {
+      "id": "p00006.s10",
+      "original": "美しきこと限なし。",
+      "translation": "Sa beauté était sans égale."
+    },
+    {
+      "id": "p00006.s11",
+      "original": "いと幼ければ籠に入れて養ふ。",
+      "translation": "Comme elle était toute petite, on l'éleva dans une corbeille."
+    },
+    {
+      "id": "p00006.s12",
+      "original": "竹取の翁この子を見つけて後に、竹をとるに、節をへだてゝよ毎に、金ある竹を見つくること重りぬ。",
+      "translation": "Depuis qu'il avait trouvé cette enfant, chaque fois que le vieux coupeur de bambous allait en couper, il découvrait, entre deux nœuds, des bambous renfermant de l'or, de plus en plus souvent."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00050.s13",
+      "original": "と奏す。",
+      "translation": "dit-on à l'Empereur."
+    },
+    {
+      "id": "p00050.s14",
+      "original": "是をきかせ給ひて、\nあふことも涙にうかぶわが身にはしなぬくすりも何にかはせむ\nかの奉る不死の藥の壺に、御文具して御使に賜はす。",
+      "translation": "Entendant cela,\nNe pouvant plus la revoir, je flotte dans mes larmes ; que m'importe, à moi, l'élixir qui empêche de mourir ?\nIl fit remettre à un envoyé la jarre de l'élixir d'immortalité qu'on lui avait offerte, avec la lettre."
+    },
+    {
+      "id": "p00052.s1",
+      "original": "勅使には調岩笠（つきのいはかさ）といふ人を召して、駿河の國にあンなる山の巓（いたゞき）にもて行くべきよし仰せ給ふ。",
+      "translation": "Parmi les envoyés impériaux, il appela un homme du nom de Tsuki no Iwakasa, et lui ordonna de la porter au sommet de la montagne qui, dit-on, se trouve en la province de Suruga."
+    },
+    {
+      "id": "p00052.s2",
+      "original": "峰にてすべきやう教へさせたもふ。",
+      "translation": "Il lui fit enseigner ce qu'il fallait faire sur le sommet."
+    },
+    {
+      "id": "p00052.s3",
+      "original": "御文・不死の藥の壺ならべて、火をつけてもやすべきよし仰せ給ふ。",
+      "translation": "Il ordonna de disposer côte à côte la lettre et la jarre de l'élixir, et d'y mettre le feu."
+    },
+    {
+      "id": "p00052.s4",
+      "original": "そのよし承りて、兵士（つはもの）どもあまた具して山へ登りけるよりなん、その山をふしの山とは名づけゝる。",
+      "translation": "Ayant reçu cet ordre, les soldats y montèrent en grand nombre, et c'est de là que cette montagne fut appelée Fushi, la montagne de l'Immortalité."
+    },
+    {
+      "id": "p00052.s5",
+      "original": "その煙いまだ雲の中へたち昇るとぞいひ傳へたる。",
+      "translation": "On dit que la fumée s'élève encore aujourd'hui dans les nuages."
+    }
+  ]
+}
