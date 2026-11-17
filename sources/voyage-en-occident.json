@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "voyage-en-occident",
+  "title": "Voyage en Occident",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Wikisource chinois, page « 西遊記 », chapitres 1 et 100 ; édition non indiquée au-delà du titre",
+  "pages": [
+    {
+      "title": "西遊記/第001回",
+      "revisionId": 2562136
+    },
+    {
+      "title": "西遊記/第100回",
+      "revisionId": 1500545
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b0e161e9ab64baf9e32ab695cf29d8a0ac6007b503804fbfc781d445ad078282",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "詩曰："
+  },
+  "bodyEnd": {
+    "id": "p00124",
+    "textPrefix": "十方三世一切佛，諸尊菩薩摩訶薩，摩訶般若波羅密。」"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut la formule finale d'édition « 《西遊記》至此終 » (équivalent de FIN). Le poème d'ouverture (詩曰) fait partie du récit et est conservé."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
