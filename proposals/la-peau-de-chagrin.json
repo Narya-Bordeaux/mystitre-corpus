@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-peau-de-chagrin",
+  "title": "La Peau de chagrin",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Peau de chagrin, édition de 1855 (Œuvres complètes de H. de Balzac, tome 14), d'après Wikisource ; page « La Peau de chagrin/1855 »",
+    "pages": [
+      {
+        "title": "La Peau de chagrin/1855/Chapitre 1",
+        "revisionId": 14944417
+      },
+      {
+        "title": "La Peau de chagrin/1855/Chapitre 4",
+        "revisionId": 10515354
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "3b14e5823eace8cb513b6c862592ab59080ac7f26deb53d9a847974b96646de6"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00006.s1"
+    ],
+    "french": "Vers la fin du mois d’octobre dernier, un jeune homme entra dans le Palais-Royal au moment où les maisons de jeu s’ouvraient, conformément à la loi qui protège une passion essentiellement imposable. Sans trop hésiter, il monta l’escalier du tripot désigné sous le nom de numéro 36.\n— Monsieur, votre chapeau, s’il vous plaît ? lui cria d’une voix sèche et grondeuse un petit vieillard blême accroupi dans l’ombre, protégé par une barricade, et qui se leva soudain en montrant une figure moulée sur un type ignoble.",
+    "original": "Vers la fin du mois d’octobre dernier, un jeune homme entra dans le Palais-Royal au moment où les maisons de jeu s’ouvraient, conformément à la loi qui protège une passion essentiellement imposable. Sans trop hésiter, il monta l’escalier du tripot désigné sous le nom de numéro 36.\n— Monsieur, votre chapeau, s’il vous plaît ? lui cria d’une voix sèche et grondeuse un petit vieillard blême accroupi dans l’ombre, protégé par une barricade, et qui se leva soudain en montrant une figure moulée sur un type ignoble.",
+    "length": 514,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00307.s4",
+      "p00307.s5",
+      "p00308.s1",
+      "p00308.s2",
+      "p00309.s1",
+      "p00309.s2",
+      "p00309.s3"
+    ],
+    "french": "…sa tête à travers les hauts peupliers ; puis devenue gigantesque elle faisait ou resplendir les mille plis de sa robe, ou briller l’auréole décrite par le soleil autour de son visage ; elle planait sur les hameaux, sur les collines et semblait défendre au bateau à vapeur de passer devant le château d’Ussé. Vous eussiez dit le fantôme de la Dame des Belles Cousines qui voulait protéger son pays contre les invasions modernes.\n— Bien, je comprends, ainsi de Pauline. Mais Fœdora ?\n— Oh ! Fœdora, vous la rencontrerez. Elle était hier aux Bouffons, elle ira ce soir à l’Opéra, elle est partout.",
+    "original": "Tour à tour ondine ou sylphide, cette fluide créature voltigeait dans les airs comme un mot vainement cherché qui court dans la mémoire sans se laisser saisir ; elle se promenait entre les îles, elle agitait sa tête à travers les hauts peupliers ; puis devenue gigantesque elle faisait ou resplendir les mille plis de sa robe, ou briller l’auréole décrite par le soleil autour de son visage ; elle planait sur les hameaux, sur les collines et semblait défendre au bateau à vapeur de passer devant le château d’Ussé. Vous eussiez dit le fantôme de la Dame des Belles Cousines qui voulait protéger son pays contre les invasions modernes.\n— Bien, je comprends, ainsi de Pauline. Mais Fœdora ?\n— Oh ! Fœdora, vous la rencontrerez. Elle était hier aux Bouffons, elle ira ce soir à l’Opéra, elle est partout.",
+    "length": 594,
+    "truncated": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-peau-de-chagrin",
+  "title": "La Peau de chagrin",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Peau de chagrin, édition de 1855 (Œuvres complètes de H. de Balzac, tome 14), d'après Wikisource ; page « La Peau de chagrin/1855 »",
+  "pages": [
+    {
+      "title": "La Peau de chagrin/1855/Chapitre 1",
+      "revisionId": 14944417
+    },
+    {
+      "title": "La Peau de chagrin/1855/Chapitre 4",
+      "revisionId": 10515354
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "3b14e5823eace8cb513b6c862592ab59080ac7f26deb53d9a847974b96646de6",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Vers la fin du mois d’octobre dernier, un jeune homme entra "
+  },
+  "bodyEnd": {
+    "id": "p00309",
+    "textPrefix": "— Oh ! Fœdora, vous la rencontrerez. Elle était hier aux Bou"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, dédicace « À Monsieur Savary », intertitre « Le Talisman », et la mention de lieu et de date finale « Paris, 1830-31. » (signature de l'auteur, non du narrateur)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
