@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "sindbad",
+  "title": "Sindbad le marin",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Mille et Une Nuits, tome II, Le Normant, 1806 (tomes I à VII traduits par Antoine Galland), d'après Wikisource",
+  "pages": [
+    {
+      "title": "Les Mille et Une Nuits/Histoire de Sindbad le marin",
+      "revisionId": 11814005
+    },
+    {
+      "title": "Les Mille et Une Nuits/Septième et dernier voyage de Sindbad le marin",
+      "revisionId": 11816763
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "66e2ad3f4896e890a6d90188e666b3b53759141f77c62e7d9702be8294b807dc",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Sire, sous le règne de ce même calife Haroun Alraschid, dont"
+  },
+  "bodyEnd": {
+    "id": "p00048",
+    "textPrefix": "Sindbad lui fit donner encore cent sequins, le reçut au nomb"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres centrés (HISTOIRE DE SINDBAD LE MARIN), « Notes » et la phrase de liaison finale de Schéhérazade (p00049), qui annonce un autre conte. Corps gardé : cadre du porteur Hindbad (début) jusqu'au don de cent sequins (fin du septième voyage)."
+  ],
+  "titleMasks": [
+    "Sindbad le Marin",
+    "Sindbad"
+  ],
+  "readingOptions": []
+}
