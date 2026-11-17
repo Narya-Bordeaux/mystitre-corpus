@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-pecheur-et-le-genie",
+  "title": "Le Pêcheur et le Génie",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Antoine Galland, 1806)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Mille et Une Nuits (neuf tomes), Le Normant, 1806, tome I — traduction par Antoine Galland (tomes I à VII) d'après l'arabe, telle que l'indique la page d'accueil de fr.wikisource",
+    "pages": [
+      {
+        "title": "Les Mille et Une Nuits/Histoire du pêcheur",
+        "revisionId": 15416269
+      },
+      {
+        "title": "Les Mille et Une Nuits/Histoire du jeune roi des Isles Noires",
+        "revisionId": 5807567
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d5050223aef523dfa972a7222bd701d86625417ba764e3fa872795c3729321e4"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Sire, il y avoit autrefois un pêcheur fort âgé, et si pauvre, qu’à peine pouvoit-il gagner de quoi faire subsister sa femme et trois enfans, dont sa famille étoit composée. Il alloit tous les jours à la pêche de grand matin ; et chaque jour, il s’étoit fait une loi de ne jeter ses filets que quatre fois seulement.",
+    "original": "Sire, il y avoit autrefois un pêcheur fort âgé, et si pauvre, qu’à peine pouvoit-il gagner de quoi faire subsister sa femme et trois enfans, dont sa famille étoit composée. Il alloit tous les jours à la pêche de grand matin ; et chaque jour, il s’étoit fait une loi de ne jeter ses filets que quatre fois seulement.",
+    "length": 315,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00093.s3",
+      "p00094.s1"
+    ],
+    "french": "Enfin, pour reconnoître la fidélité qu’ils lui avoient tous gardée, il leur fit des largesses proportionnées au rang que chacun tenoit à sa cour.\nPour le pêcheur, comme il étoit la première cause de la délivrance du jeune prince, le sultan le combla de biens, et le rendit, lui et sa famille, très-heureux le reste de leurs jours.",
+    "original": "Enfin, pour reconnoître la fidélité qu’ils lui avoient tous gardée, il leur fit des largesses proportionnées au rang que chacun tenoit à sa cour.\nPour le pêcheur, comme il étoit la première cause de la délivrance du jeune prince, le sultan le combla de biens, et le rendit, lui et sa famille, très-heureux le reste de leurs jours.",
+    "length": 330,
+    "truncated": false
+  }
+}
