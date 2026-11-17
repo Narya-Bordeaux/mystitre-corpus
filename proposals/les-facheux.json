@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-facheux",
+  "title": "Les Fâcheux",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Fâcheux, Wikisource (page unique ; édition non indiquée)",
+    "pages": [
+      {
+        "title": "Les Fâcheux",
+        "revisionId": 6891728
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2ab83989ede2a92eea7c3b7833b4416a10eb6ed8ccf29952cbd7596d6778312f"
+  },
+  "titleMasks": [
+    "fâcheux"
+  ],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "Prologue\n",
+      "replace": "",
+      "reason": "Intitulé « Prologue » collé au premier vers par la mise en page de l'édition"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00001.s3",
+      "p00001.s4"
+    ],
+    "french": "Pour voir en ces beaux lieux le plus grand Roi du monde,\nMortels, je viens à vous de ma grotte profonde.\nFaut-il en sa faveur que la Terre ou que l'Eau\nProduisent à vos yeux un spectacle nouveau?\nQu'il parle ou qu'il souhaite, il n'est rien d'impossible:\nLui-même n'est-il pas un miracle visible?\nSon règne, si fertile en miracles divers,\nN'en demande-t-il pas à tout cet univers?",
+    "original": "Pour voir en ces beaux lieux le plus grand Roi du monde,\nMortels, je viens à vous de ma grotte profonde.\nFaut-il en sa faveur que la Terre ou que l'Eau\nProduisent à vos yeux un spectacle nouveau?\nQu'il parle ou qu'il souhaite, il n'est rien d'impossible:\nLui-même n'est-il pas un miracle visible?\nSon règne, si fertile en miracles divers,\nN'en demande-t-il pas à tout cet univers?",
+    "length": 380,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00072.s7",
+      "p00072.s8",
+      "p00072.s9",
+      "p00072.s10",
+      "p00072.s11",
+      "p00072.s12",
+      "p00072.s13",
+      "p00072.s14",
+      "p00072.s15",
+      "p00072.s16",
+      "p00072.s17"
+    ],
+    "french": "Célébrons l’heureux sort dont vous allez jouir,\nEt que nos violons viennent nous réjouir.\n(comme les violons veulent jouer, on frappe fort à la porte.)\nÉraste.\nQui frappe là si fort  ?\nL’Espine.\nMonsieur, ce sont des masques,\nQui portent des crincins et des tambours de Basques.\n(les masques entrent, qui occupent toute la place.)\nÉraste.\nQuoi  ? Toujours des [TITRE]  ! Holà  ! Suisses, ici  !\nQu’on me fasse sortir ces gredins que voici.",
+    "original": "Célébrons l’heureux sort dont vous allez jouir,\nEt que nos violons viennent nous réjouir.\n(comme les violons veulent jouer, on frappe fort à la porte.)\nÉraste.\nQui frappe là si fort  ?\nL’Espine.\nMonsieur, ce sont des masques,\nQui portent des crincins et des tambours de Basques.\n(les masques entrent, qui occupent toute la place.)\nÉraste.\nQuoi  ? Toujours des fâcheux  ! Holà  ! Suisses, ici  !\nQu’on me fasse sortir ces gredins que voici.",
+    "length": 439,
+    "truncated": false
+  }
+}
