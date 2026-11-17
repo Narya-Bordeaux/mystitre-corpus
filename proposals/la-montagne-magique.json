@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-montagne-magique",
+  "title": "La Montagne magique",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Maurice Betz",
+    "translationYear": 1931,
+    "translatorDeathYear": 1946,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Maurice_Betz&oldid=15678810",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Maurice Betz, 1931)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Montagne magique, traduction de Maurice Betz, 2 volumes, Fayard (collection Univers), Paris, 1931 (d'après l'en-tête Wikisource) ; chapitre I/1 et chapitre VII/10 seulement",
+    "pages": [
+      {
+        "title": "La Montagne magique/Chapitre I/1",
+        "revisionId": 15562699
+      },
+      {
+        "title": "La Montagne magique/Chapitre VII/10",
+        "revisionId": 15678768
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7165f4bbff8127421c6dcf46bd28fadf29abca3b5894a04464d94b933e1669b9"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Un simple jeune homme se rendait au plein de l’été, de Hambourg, sa ville natale, à Davos-Platz, dans les Grisons. Il allait en visite pour trois semaines.\nMais de Hambourg jusque là-haut, c’est un long voyage ; trop long en somme par rapport à la brièveté du séjour projeté. On passe par différentes contrées, en amont et en aval, du haut plateau de l’Allemagne méridionale jusqu’au bord de la mer souabe, et, en bateau, sur ses vagues bondissantes, par delà des abîmes que l’on tenait autrefois pour insondables.",
+    "original": "Un simple jeune homme se rendait au plein de l’été, de Hambourg, sa ville natale, à Davos-Platz, dans les Grisons. Il allait en visite pour trois semaines.\nMais de Hambourg jusque là-haut, c’est un long voyage ; trop long en somme par rapport à la brièveté du séjour projeté. On passe par différentes contrées, en amont et en aval, du haut plateau de l’Allemagne méridionale jusqu’au bord de la mer souabe, et, en bateau, sur ses vagues bondissantes, par delà des abîmes que l’on tenait autrefois pour insondables.",
+    "length": 514,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00095.s6",
+      "p00095.s7",
+      "p00095.s8"
+    ],
+    "french": "Des aventures de la chair et de l’esprit qui ont élevé ta simplicité, t’ont permis de surmonter dans l’esprit ce à quoi tu ne survivras sans doute pas dans la chair. Des instants sont venus où dans les rêves que tu gouvernais, un songe d’amour a surgi pour toi, de la mort et de la luxure du corps. De cette fête de la mort, elle aussi, de cette mauvaise fièvre qui incendie à l’entour le ciel de ce soir pluvieux, l’amour s’élèvera-t-il un jour ?",
+    "original": "Des aventures de la chair et de l’esprit qui ont élevé ta simplicité, t’ont permis de surmonter dans l’esprit ce à quoi tu ne survivras sans doute pas dans la chair. Des instants sont venus où dans les rêves que tu gouvernais, un songe d’amour a surgi pour toi, de la mort et de la luxure du corps. De cette fête de la mort, elle aussi, de cette mauvaise fièvre qui incendie à l’entour le ciel de ce soir pluvieux, l’amour s’élèvera-t-il un jour ?",
+    "length": 447,
+    "truncated": false
+  }
+}

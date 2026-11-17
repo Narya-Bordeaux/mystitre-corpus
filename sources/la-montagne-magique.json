@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-montagne-magique",
+  "title": "La Montagne magique",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Montagne magique, traduction de Maurice Betz, 2 volumes, Fayard (collection Univers), Paris, 1931 (d'après l'en-tête Wikisource) ; chapitre I/1 et chapitre VII/10 seulement",
+  "pages": [
+    {
+      "title": "La Montagne magique/Chapitre I/1",
+      "revisionId": 15562699
+    },
+    {
+      "title": "La Montagne magique/Chapitre VII/10",
+      "revisionId": 15678768
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7165f4bbff8127421c6dcf46bd28fadf29abca3b5894a04464d94b933e1669b9",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Un simple jeune homme se rendait au plein de l’été, de Hambo"
+  },
+  "bodyEnd": {
+    "id": "p00095",
+    "textPrefix": "Adieu ! Tu vas vivre maintenant, ou tomber. Tes chances sont"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Maurice Betz",
+    "translationYear": 1931,
+    "translatorDeathYear": 1946,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Maurice_Betz&oldid=15678810",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de chapitre (« Arrivée. »), « FINIS OPERIS » (formule finale) et la note du traducteur ; l'avant-propos « Dessein » (Vorsatz, adresse du narrateur au lecteur avant le chapitre I) n'est pas pris : le corps commence au chapitre I, comme l'ancienne citation. Texte du chapitre I/1 et du chapitre VII/10 seulement."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
