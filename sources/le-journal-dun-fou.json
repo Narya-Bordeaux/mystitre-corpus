@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-journal-dun-fou",
+  "title": "Le Journal d’un fou",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource français, « Les Mémoires d’un Fou », trad. de Louis Viardot, dans Nouvelles choisies de Nicolas Gogol (Hachette, 1853)",
+  "pages": [
+    {
+      "title": "Nouvelles choisies de Nicolas Gogol/Les Mémoires d’un Fou",
+      "revisionId": 10357078
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "80cab5c85de70b34e5496fe58310cad996c70aef4c806d1d5fcd49c9c9fe6808",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Aujourd’hui, il est arrivé un événement extraordinaire. Je m"
+  },
+  "bodyEnd": {
+    "id": "p00138",
+    "textPrefix": "Non, je n’ai plus la force de souffrir. Mon Dieu, que font-i"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Louis Viardot",
+    "translationYear": 1853,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : note explicative préliminaire du traducteur (tchin), titre, première date « 3 octobre. » (en-tête de rubrique, non phrase), mention « FIN ». La date altérée du dernier article (p00137) reste hors extrait."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "est-il ?  —",
+      "replace": "est-il ?",
+      "reason": "tiret de fin de réplique redondant laissé par la numérisation (la réplique est suivie de « Elle m'a répondu »)"
+    }
+  ]
+}
