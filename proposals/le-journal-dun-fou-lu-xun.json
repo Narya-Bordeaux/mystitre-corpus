@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-journal-dun-fou-lu-xun",
+  "title": "Le Journal d'un fou",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Édition non indiquée (texte de la page « 狂人日記 » de zh.wikisource, signé « 一九一八年四月 »)",
+    "pages": [
+      {
+        "title": "狂人日記",
+        "revisionId": 2605391
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "15b0dbe09dff5de9ef684ecb74af056aed09451deb93deb9ac04125d6cb84e72"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00001.s3"
+    ],
+    "french": "Deux frères, que je ne nommerai pas ici. J'ai tu leurs noms : ils furent jadis, au collège, de bons amis à moi ; puis nous nous sommes perdus de vue pendant de longues années, et les nouvelles se sont peu à peu raréfiées. Il y a quelques jours, j'ai appris par hasard que l'un d'eux avait été gravement malade ; comme je rentrais au pays, j'ai fait un détour pour leur rendre visite, mais je n'ai trouvé qu'un seul des deux : il m'a dit que le malade était son cadet.",
+    "original": "某君昆仲。今隱其名，皆余昔日在中學校時良友；分隔多年，消息漸闕。日前偶聞其一大病；適歸故鄕，迂道往訪，則僅晤一人，言病者其弟也。",
+    "length": 467,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00086.s1",
+      "p00087.s1",
+      "p00089.s1",
+      "p00090.s1"
+    ],
+    "french": "Peut-être, sans le savoir, ai-je mangé moi aussi quelques morceaux de la chair de ma sœur, et maintenant c'est mon tour…\nMoi qui ai quatre mille ans d'histoire de mangeur d'hommes, je ne le savais pas au début ; maintenant je comprends : il est difficile de rencontrer un vrai homme !\nY a-t-il peut-être encore des enfants qui n'ont pas mangé d'homme ?\nSauvez les enfants…",
+    "original": "我未必無意之中，不喫了我妹子的幾片肉，現在也輪到我自己，……\n有了四千年喫人履歷的我，當初雖然不知道，現在明白，難見眞的人！\n沒有喫過人的孩子，或者還有？\n救救孩子……",
+    "length": 372,
+    "truncated": false
+  }
+}
