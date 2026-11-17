@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "lucrece-borgia",
+  "title": "Lucrèce Borgia",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (Wikisource, « Lucrèce Borgia »)",
+    "pages": [
+      {
+        "title": "Lucrèce Borgia/Acte I",
+        "revisionId": 13955513
+      },
+      {
+        "title": "Lucrèce Borgia/Acte III",
+        "revisionId": 13218049
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "3d6cb4f02af2eead45918266d7c9f652a241280687144d3c063e3b17df722d87"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00677",
+      "find": ", se débattant",
+      "replace": "DONA LUCREZIA, se débattant",
+      "reason": "nom de personnage perdu à la numérisation ; la réplique suivante est de Lucrèce"
+    }
+  ],
+  "reviewFlags": [
+    "p00677 : remplacement ample (13 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00009.s1",
+      "p00010.s1",
+      "p00011.s1"
+    ],
+    "french": "OLOFERNO. — Nous vivons dans une époque où les gens accomplissent tant d’actions horribles qu’on ne parle plus de celle-là, mais certes il n’y eut jamais événement plus sinistre et plus mystérieux.\nASCARIO. — Une chose ténébreuse faite par des hommes ténébreux.\nJEPPO. — Moi, je sais les faits, messeigneurs.",
+    "original": "OLOFERNO. — Nous vivons dans une époque où les gens accomplissent tant d’actions horribles qu’on ne parle plus de celle-là, mais certes il n’y eut jamais événement plus sinistre et plus mystérieux.\nASCARIO. — Une chose ténébreuse faite par des hommes ténébreux.\nJEPPO. — Moi, je sais les faits, messeigneurs.",
+    "length": 308,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00677.s1",
+      "p00678.s1",
+      "p00678.s2",
+      "p00679.s1",
+      "p00680.s1",
+      "p00680.s2",
+      "p00681.s1",
+      "p00682.s1",
+      "p00683.s1",
+      "p00684.s1",
+      "p00685.s1",
+      "p00685.s2"
+    ],
+    "french": "DONA LUCREZIA, se débattant et lui retenant le bras.\nDONA LUCREZIA. — Grâce ! grâce ! Encore un mot !\nGENNARO. — Non !\nDONA LUCREZIA. — Pardon ! Écoute-moi !\nGENNARO. — Non !\nDONA LUCREZIA. — Au nom du ciel !\nGENNARO. — Non !\nIl la frappe.\nDONA LUCREZIA. — Ah !… tu m’as tuée ! — Gennaro ! je suis ta mère !",
+    "original": "DONA LUCREZIA, se débattant et lui retenant le bras.\nDONA LUCREZIA. — Grâce ! grâce ! Encore un mot !\nGENNARO. — Non !\nDONA LUCREZIA. — Pardon ! Écoute-moi !\nGENNARO. — Non !\nDONA LUCREZIA. — Au nom du ciel !\nGENNARO. — Non !\nIl la frappe.\nDONA LUCREZIA. — Ah !… tu m’as tuée ! — Gennaro ! je suis ta mère !",
+    "length": 307,
+    "truncated": false
+  }
+}

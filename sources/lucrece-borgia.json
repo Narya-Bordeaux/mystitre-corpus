@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "lucrece-borgia",
+  "title": "Lucrèce Borgia",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (Wikisource, « Lucrèce Borgia »)",
+  "pages": [
+    {
+      "title": "Lucrèce Borgia/Acte I",
+      "revisionId": 13955513
+    },
+    {
+      "title": "Lucrèce Borgia/Acte III",
+      "revisionId": 13218049
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "3d6cb4f02af2eead45918266d7c9f652a241280687144d3c063e3b17df722d87",
+  "bodyStart": {
+    "id": "p00009",
+    "textPrefix": "Nous vivons dans une époque où les gens accomplissent tant d"
+  },
+  "bodyEnd": {
+    "id": "p00685",
+    "textPrefix": "Ah !… tu m’as tuée ! — Gennaro ! je suis ta mère !"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres d'acte et de partie, liste des personnages, décor, didascalies d'ouverture, « FIN. ». Le corps va de la première réplique (Oloferno) au cri « je suis ta mère ! »."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00677",
+      "find": ", se débattant",
+      "replace": "DONA LUCREZIA, se débattant",
+      "reason": "nom de personnage perdu à la numérisation ; la réplique suivante est de Lucrèce"
+    }
+  ]
+}
