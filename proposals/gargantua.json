@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "gargantua",
+  "title": "Gargantua",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux), Gargantua ; texte en orthographe ancienne, complet",
+    "pages": [
+      {
+        "title": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux)/Gargantua/Prologe",
+        "revisionId": 15909530
+      },
+      {
+        "title": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux)/Gargantua/58",
+        "revisionId": 13536280
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "dff1edb580daf17579dc71b530f7472db69c361f4e849cb8c782bda320284685"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "evvevrs treſilluſtres, & vous Verolez treſprecieux (car à vous non à aultres ſont dediez mes eſcriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant ſon precepteur Socrates, ſans controuerſe prince des philoſophes, entre aultres parolles le dict eſtre ſemblable es Silenes. Silenes eſtoient iadis petites boites telles que voyons de preſent es bouticques des apothecaires, pinctes au deſſus de figures ioyeuſes & friuoles, comme de Harpies, Satyres, oyſons bridez, lieures cornuz, canes baſtees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaiſir pour",
+      "replace": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes. Silenes estoient iadis petites boites telles que voyons de present es bouticques des apothecaires, pinctes au dessus de figures ioyeuses & friuoles, comme de Harpies, Satyres, oysons bridez, lieures cornuz, canes bastees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaisir pour",
+      "reason": "Édition en orthographe ancienne : « ſ » (s long) rendu par « s », seule graphie modernisée ; le reste du texte est inchangé ; lettrine initiale B absente, rétablie"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00017",
+      "find": "Les eaulx ſont les ſueurs : les chordes des raquettes ſont faictes de boyaux de moutons ou de cheures. La machine ronde eſt la pelote ou l’eſteuf. Apres le ieu on ſe refraiſchit deuant vn clair feu & change l’on de chemiſe. Et voluntiers bancquete l’on, mais plus ioyeuſement ceulx qui ont guaingné. Et grand chere.",
+      "replace": "Les eaulx sont les sueurs : les chordes des raquettes sont faictes de boyaux de moutons ou de cheures. La machine ronde est la pelote ou l’esteuf. Apres le ieu on se refraischit deuant vn clair feu & change l’on de chemise. Et voluntiers bancquete l’on, mais plus ioyeusement ceulx qui ont guaingné. Et grand chere.",
+      "reason": "Édition en orthographe ancienne : « ſ » (s long) rendu par « s », seule graphie modernisée ; le reste du texte est inchangé"
+    }
+  ],
+  "reviewFlags": [
+    "p00002 : remplacement ample (594 caractères changés)",
+    "p00017 : remplacement ample (260 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes. Silenes estoient iadis petites boites telles que voyons de present es bouticques des apothecaires, pinctes au dessus de figures ioyeuses & friuoles, comme de Harpies, Satyres, oysons bridez, lieures cornuz, canes bastees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaisir…",
+    "original": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes. Silenes estoient iadis petites boites telles que voyons de present es bouticques des apothecaires, pinctes au dessus de figures ioyeuses & friuoles, comme de Harpies, Satyres, oysons bridez, lieures cornuz, canes bastees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaisir pour exciter le monde à rire, quel fut Silene, maiſtre du bon Bacchus : mais au dedans l’on reſeruoit les fines drogues comme Baulme, Ambre gris, Amomon, Muſc, ziuette, pierreries : & aultres choſes precieuſes.",
+    "length": 596,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00017.s13",
+      "p00017.s14",
+      "p00017.s15",
+      "p00017.s16",
+      "p00017.s17"
+    ],
+    "french": "Les eaulx sont les sueurs : les chordes des raquettes sont faictes de boyaux de moutons ou de cheures. La machine ronde est la pelote ou l’esteuf. Apres le ieu on se refraischit deuant vn clair feu & change l’on de chemise. Et voluntiers bancquete l’on, mais plus ioyeusement ceulx qui ont guaingné. Et grand chere.",
+    "original": "Les eaulx sont les sueurs : les chordes des raquettes sont faictes de boyaux de moutons ou de cheures. La machine ronde est la pelote ou l’esteuf. Apres le ieu on se refraischit deuant vn clair feu & change l’on de chemise. Et voluntiers bancquete l’on, mais plus ioyeusement ceulx qui ont guaingné. Et grand chere.",
+    "length": 315,
+    "truncated": false
+  }
+}
