@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-malade-imaginaire",
+  "title": "Le Malade imaginaire",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Malade imaginaire, page « Texte entier » de fr.wikisource (Œuvres complètes de Molière, éd. Louandre ; édition non précisée davantage)",
+  "pages": [
+    {
+      "title": "Le Malade imaginaire/Texte entier",
+      "revisionId": 13271527
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a0ed162fcb2baa46d2727d5819758b0b10c1f544a5faa9bceb27256aae88b208",
+  "bodyStart": {
+    "id": "p00051",
+    "textPrefix": "Après les glorieuses fatigues et les exploits victorieux de "
+  },
+  "bodyEnd": {
+    "id": "p01449",
+    "textPrefix": "   Vivat, vivat, vivat, vivat, cent fois vivat,\n     Novus d"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, notice de l'éditeur, liste des personnages, mention « La scène est à Paris », didascalie finale et « fin du Malade imaginaire ». Début sur le texte d'ouverture du Prologue ; fin sur le dernier chœur de la cérémonie (troisième intermède), dernier texte dit de la pièce."
+  ],
+  "titleMasks": [
+    "Malade imaginaire"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p01448",
+      "find": "Amen.]",
+      "replace": "Amen.",
+      "reason": "Crochet fermant orphelin : le crochet ouvrant est au début du paragraphe p01446, hors de l'extrait ; la mise en page de l'édition l'a laissé isolé."
+    }
+  ]
+}
