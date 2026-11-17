@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-montagnes-hallucinees",
+  "title": "Les Montagnes hallucinées",
+  "host": "declared",
+  "sourceLanguage": "en",
+  "edition": "At the Mountains of Madness (1931, publié en 1936), texte du site The H. P. Lovecraft Archive : début et fin copiés par l'utilisateur",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "681751d127c9eb04c386f3e66ed1bfe6f234301c3fde37c20873879e1607ae40",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "I am forced into speech because men of science have refused "
+  },
+  "bodyEnd": {
+    "id": "p00004",
+    "textPrefix": "“Tekeli-li! Tekeli-li!”"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée : début et fin seuls, copiés du site The H. P. Lovecraft Archive"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://www.hplovecraft.com/writings/texts/fiction/mm.aspx",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur"
+  }
+}

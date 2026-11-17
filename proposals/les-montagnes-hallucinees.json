@@ -1,0 +1,56 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-montagnes-hallucinees",
+  "title": "Les Montagnes hallucinées",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "At the Mountains of Madness (1931, publié en 1936), texte du site The H. P. Lovecraft Archive : début et fin copiés par l'utilisateur",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "681751d127c9eb04c386f3e66ed1bfe6f234301c3fde37c20873879e1607ae40",
+    "declaredSource": {
+      "url": "https://www.hplovecraft.com/writings/texts/fiction/mm.aspx",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2"
+    ],
+    "french": "Je suis contraint de parler parce que des hommes de science ont refusé de suivre mon conseil sans en connaître les raisons. C'est tout à fait contre mon gré que j'expose les motifs de mon opposition à cette invasion projetée de l'Antarctique — avec sa vaste chasse aux fossiles et ses forages et fontes en masse de l'antique calotte glaciaire —, et je suis d'autant plus réticent que mon avertissement risque d'être vain.",
+    "original": "I am forced into speech because men of science have refused to follow my advice without knowing why. It is altogether against my will that I tell my reasons for opposing this contemplated invasion of the antarctic—with its vast fossil-hunt and its wholesale boring and melting of the ancient ice-cap—and I am the more reluctant because my warning may be in vain.",
+    "length": 421,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00002.s2",
+      "p00002.s3",
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "L'imagination, sachant avec quelle netteté des scènes lointaines peuvent parfois être reflétées, réfractées et grossies par de telles couches de nuages agités, a pu aisément fournir le reste — et bien entendu, Danforth n'a fait allusion à aucune de ces horreurs précises avant que sa mémoire ait eu l'occasion de puiser dans ses lectures passées. Il n'aurait jamais pu en voir autant d'un seul coup d'œil instantané.\nSur le moment, ses cris se bornaient à la répétition d'un seul mot dément, à la source par trop évidente :\n« Tekeli-li ! Tekeli-li ! »",
+    "original": "Imagination, knowing how vividly distant scenes can sometimes be reflected, refracted, and magnified by such layers of restless cloud, might easily have supplied the rest—and of course Danforth did not hint any of those specific horrors till after his memory had had a chance to draw on his bygone reading. He could never have seen so much in one instantaneous glance.\nAt the time his shrieks were confined to the repetition of a single mad word of all too obvious source:\n“Tekeli-li! Tekeli-li!”",
+    "length": 551,
+    "truncated": false
+  }
+}
