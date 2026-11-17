@@ -1,0 +1,74 @@
+{
+  "formatVersion": 1,
+  "bookId": "frankenstein",
+  "title": "Frankenstein ou le prométhée moderne",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Frankenstein, ou le Prométhée moderne, traduction Jules Saladin, Paris, Corréard, 1821, 3 vol. (indication de la page « Frankenstein » de Wikisource) ; seules la première lettre et la dernière page sont téléchargées",
+  "pages": [
+    {
+      "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/2",
+      "revisionId": 7328954
+    },
+    {
+      "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/29",
+      "revisionId": 7020612
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "08ffc0723bdcc167dcab198cb744f85da40244ae085ee5a326035ec94d2c6eee",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "« Vous serez bien aise d’apprendre qu’aucun malheur n’a trou"
+  },
+  "bodyEnd": {
+    "id": "p00071",
+    "textPrefix": "» Il dit, et s’élança par la fenêtre de la cabine, sur le ra"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Jules Saladin",
+    "translationYear": 1821,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre « Lettre Ière », adresse « À Madame Saville » et date, qui précèdent la lettre. Fin sur la dernière phrase du roman (la création de la créature du récit).",
+    "Exclus : titre « Lettre Ière », adresse « À Madame Saville » et date, qui précèdent la lettre. Fin sur la dernière phrase du roman (départ de la créature)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00071",
+      "find": "» Il dit",
+      "replace": "Il dit",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "« Vous serez",
+      "replace": "Vous serez",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00070",
+      "find": "Adieu ».",
+      "replace": "Adieu.",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00071",
+      "find": "l’éloignement ».",
+      "replace": "l’éloignement.",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    }
+  ]
+}

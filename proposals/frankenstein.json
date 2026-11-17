@@ -1,0 +1,87 @@
+{
+  "formatVersion": 1,
+  "bookId": "frankenstein",
+  "title": "Frankenstein ou le prométhée moderne",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Jules Saladin",
+    "translationYear": 1821,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Jules Saladin, 1821)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Frankenstein, ou le Prométhée moderne, traduction Jules Saladin, Paris, Corréard, 1821, 3 vol. (indication de la page « Frankenstein » de Wikisource) ; seules la première lettre et la dernière page sont téléchargées",
+    "pages": [
+      {
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/2",
+        "revisionId": 7328954
+      },
+      {
+        "title": "Frankenstein, ou le Prométhée moderne (trad. Saladin)/29",
+        "revisionId": 7020612
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "08ffc0723bdcc167dcab198cb744f85da40244ae085ee5a326035ec94d2c6eee"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00071",
+      "find": "» Il dit",
+      "replace": "Il dit",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "« Vous serez",
+      "replace": "Vous serez",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00070",
+      "find": "Adieu ».",
+      "replace": "Adieu.",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00071",
+      "find": "l’éloignement ».",
+      "replace": "l’éloignement.",
+      "reason": "Guillemets de la citation continue de la lettre (ouvrante, de reprise et fermante) retirés des extraits : la lettre de Walton n'y est plus citée"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Vous serez bien aise d’apprendre qu’aucun malheur n’a troublé le commencement d’une entreprise que vous avez envisagée avec de funestes pressentimens. Je suis arrivé ici hier, et mon premier devoir est d’informer ma chère sœur que ma santé est bonne, et ma confiance plus grande dans le succès de mon entreprise.",
+    "original": "Vous serez bien aise d’apprendre qu’aucun malheur n’a troublé le commencement d’une entreprise que vous avez envisagée avec de funestes pressentimens. Je suis arrivé ici hier, et mon premier devoir est d’informer ma chère sœur que ma santé est bonne, et ma confiance plus grande dans le succès de mon entreprise.",
+    "length": 312,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00070.s4",
+      "p00070.s5",
+      "p00070.s6",
+      "p00071.s1",
+      "p00071.s2"
+    ],
+    "french": "La lueur de ce foyer s’affaiblira ; mes cendres seront emportées dans la mer par les vents. Mon esprit reposera en paix ; ou s’il pense, il ne sera certainement pas en proie aux mêmes pensées. Adieu.\nIl dit, et s’élança par la fenêtre de la cabine, sur le radeau de glace qui était attaché au vaisseau. Il fut bientôt emporté par les vagues, et perdu dans l’obscurité et l’éloignement.",
+    "original": "La lueur de ce foyer s’affaiblira ; mes cendres seront emportées dans la mer par les vents. Mon esprit reposera en paix ; ou s’il pense, il ne sera certainement pas en proie aux mêmes pensées. Adieu.\nIl dit, et s’élança par la fenêtre de la cabine, sur le radeau de glace qui était attaché au vaisseau. Il fut bientôt emporté par les vagues, et perdu dans l’obscurité et l’éloignement.",
+    "length": 385,
+    "truncated": false
+  }
+}
