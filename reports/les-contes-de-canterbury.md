@@ -1,0 +1,10 @@
+# Les Contes de Canterbury — compte rendu
+
+- **Édition retenue** : original en moyen anglais, en.wikisource, « The Canterbury Tales (unsourced) », pages « General Prologue » et « Chaucer's Retraction » (œuvre longue : deux bouts seulement). Édition non indiquée (« unsourced »). Origine : original étranger traduit par nos soins (« Claude (agent), traduction sur l'original, à relire »).
+- **Traduction française de fr.wikisource écartée** : « Les Contes de Canterbury » (index « Chaucer - Les Contes de Canterbury.djvu », traduction collective de professeurs agrégés d'anglais sur le texte de Skeat, 1895, publiée vers 1908). Pas de traducteur unique ni de date de décès lisible, et publiée après 1871 : non libre par ancienneté. On traduit l'original. Début et fin de cette traduction non comparés (inutile, écartée avant).
+- **Exclu du corps** : titre « General Prologue » et rubrique « Here bygynneth the Book of the Tales of Caunterbury ». Le Prologue général ouvre l'œuvre ; la Rétractation (fin du Conte du curé) la clôt, elle fait partie du texte de Chaucer.
+- **Corrections déclarées** (p00003) : cinq numéros de vers de l'édition collés aux mots (« breeth5 », « yë10 », « ende15 », « lay20 », « yfalle25 »), retirés ; ils ne sont pas du texte.
+- **Extraits** : ouverture 599 caractères (1 phrase, 18 vers, coupée), clôture 600 caractères (3 phrases, coupée). Les vers gardent leurs retours à la ligne.
+- **Points douteux** : le texte du prologue est un seul paragraphe de vers que le moteur découpe en phrases sur la ponctuation, juste ici. La phrase latine finale (« Qui cum patre et spiritu sancto… ») et « Amen » sont laissés tels quels dans la traduction (doxologie latine de l'auteur). Traduction du moyen anglais à relire (« open yë », « shires ende », « Ram »). La clôture commence au milieu d'une phrase (règle des 600 caractères). Titre non visible, aucun masque.
+- **Écart avec l'ancienne citation** : non comparé (l'œuvre n'est pas dans l'audit).
+- **Hésitation** : pas de traduction du texte moyen anglais à partir de la version « modernisée » de la même page (« The Prologue, Modern »), pour ne traduire que l'original.

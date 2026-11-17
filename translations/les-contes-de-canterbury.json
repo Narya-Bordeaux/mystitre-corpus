@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contes-de-canterbury",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "d3e627702b5f5a563b1466d482046e2211f28f093d79d95eeba090b05a9fe7f7",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "Whan that Aprill, with his shoures soote\nThe droghte of March hath perced to the roote\nAnd bathed every veyne in swich licour,\nOf which vertu engendred is the flour;\nWhan Zephirus eek with his sweete breeth\nInspired hath in every holt and heeth\nThe tendre croppes, and the yonge sonne\nHath in the Ram his halfe cours yronne,\nAnd smale foweles maken melodye,\nThat slepen al the nyght with open yë\n(So priketh hem Nature in hir corages);\nThanne longen folk to goon on pilgrimages\nAnd palmeres for to seken straunge strondes\nTo ferne halwes, kowthe in sondry londes;\nAnd specially from every shires ende\nOf Engelond, to Caunterbury they wende,\nThe hooly blisful martir for to seke\nThat hem hath holpen, whan that they were seeke.",
+      "translation": "Quand avril, avec ses douces ondées,\nA percé jusqu'à la racine la sécheresse de mars\nEt baigné chaque veine d'une telle liqueur\nDont la vertu engendre la fleur ;\nQuand Zéphyr aussi, de son souffle suave,\nA ranimé dans chaque bois et sur chaque lande\nLes tendres pousses, et que le jeune soleil\nDans le Bélier a couru la moitié de sa course,\nEt que les petits oiseaux font mélodie,\nEux qui dorment toute la nuit les yeux ouverts\n(Ainsi la Nature les excite en leur cœur),\nAlors les gens aspirent à partir en pèlerinage,\nEt les pèlerins à chercher des rivages étrangers,\nVers des sanctuaires lointains, connus en divers pays ;\nEt surtout du bout de chaque comté\nD'Angleterre, ils se rendent à Cantorbéry\nPour chercher le saint et bienheureux martyr\nQui les a secourus quand ils étaient malades."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Bifil that in that seson, on a day,\nIn Southwerk at the Tabard as I lay\nRedy to wenden on my pilgrymage\nTo Caunterbury with ful devout corage,\nAt nyght was come into that hostelrye\nWel nyne and twenty in a compaignye\nOf sondry folk, by aventure yfalle\nIn felaweshipe, and pilgrimes were they alle,\nThat toward Caunterbury wolden ryde.",
+      "translation": "Il advint qu'en cette saison, un jour,\nÀ Southwark, au Tabard, où je logeais,\nPrêt à partir en pèlerinage\nVers Cantorbéry, le cœur plein de dévotion,\nArrivèrent le soir en cette hôtellerie\nBien vingt-neuf personnes en compagnie,\nDe gens de toutes sortes, réunis par hasard\nEn confrérie ; tous étaient pèlerins\nEt voulaient chevaucher vers Cantorbéry."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00004.s6",
+      "original": "But of the translacion of Boece de Consolacione, and othere bookes of legendes of seintes, and omelies and moralitee, and devocioun.",
+      "translation": "Mais de la traduction de Boèce, De la consolation, et des autres livres de légendes de saints, d'homélies, de morale et de dévotion."
+    },
+    {
+      "id": "p00004.s7",
+      "original": "That thanke I oure lord Jhesu Crist and his blisful mooder, and alle the seintes of hevene, bisekynge hem that they from hennes forth unto my lyves ende sende me grace to biwayle my giltes, and to studie to the salvacioun of my soule, and graunte me grace of verray penitence, confessioun and satisfaccioun to doon in this present lyf, thurgh the benigne grace of hym that is kyng of kynges and preest over alle preestes, that boghte us with the precious blood of his herte; so that is may been oon of hem at the day of doom that shulle be saved.",
+      "translation": "Pour cela je remercie notre seigneur Jésus-Christ et sa bienheureuse mère, et tous les saints du ciel, les suppliant de m'envoyer désormais, jusqu'à la fin de ma vie, la grâce de pleurer mes péchés et de travailler au salut de mon âme, et de m'accorder la grâce d'une vraie pénitence, de la confession et de la satisfaction à accomplir en cette vie présente, par la grâce bénigne de celui qui est roi des rois et prêtre au-dessus de tous les prêtres, qui nous a rachetés par le précieux sang de son cœur, afin que je sois l'un de ceux qui seront sauvés au jour du jugement."
+    },
+    {
+      "id": "p00004.s8",
+      "original": "Qui cum patre et spiritu sancto vivit et regnat deus per omnia secula.",
+      "translation": "Qui cum patre et spiritu sancto vivit et regnat deus per omnia secula."
+    },
+    {
+      "id": "p00004.s9",
+      "original": "Amen.",
+      "translation": "Amen."
+    }
+  ]
+}
