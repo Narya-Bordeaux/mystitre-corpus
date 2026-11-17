@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "claude-gueux",
+  "title": "Claude Gueux",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres complètes de Victor Hugo, édition dite de l’Imprimerie nationale (d'après l'en-tête de la page Wikisource)",
+    "pages": [
+      {
+        "title": "Claude Gueux",
+        "revisionId": 13960535
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b18216d66514d28ac2c0292b30454ce6aa21300f736a1fbe4398982fa37ea99c"
+  },
+  "titleMasks": [
+    "Claude Gueux"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3",
+      "p00002.s4"
+    ],
+    "french": "Il y a sept ou huit ans, un homme nommé [TITRE], pauvre ouvrier, vivait à Paris. Il avait avec lui une fille qui était sa maîtresse, et un enfant de cette fille. Je dis les choses comme elles sont, laissant le lecteur ramasser les moralités à mesure que les faits les sèment sur leur chemin. L’ouvrier était capable, habile, intelligent, fort maltraité par l’éducation, fort bien traité par la nature, ne sachant pas lire et sachant penser.",
+    "original": "Il y a sept ou huit ans, un homme nommé Claude Gueux, pauvre ouvrier, vivait à Paris. Il avait avec lui une fille qui était sa maîtresse, et un enfant de cette fille. Je dis les choses comme elles sont, laissant le lecteur ramasser les moralités à mesure que les faits les sèment sur leur chemin. L’ouvrier était capable, habile, intelligent, fort maltraité par l’éducation, fort bien traité par la nature, ne sachant pas lire et sachant penser.",
+    "length": 445,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00245.s2",
+      "p00245.s3",
+      "p00245.s4"
+    ],
+    "french": "Cette tête est pleine de germes utiles ; employez pour la faire mûrir et venir à bien ce qu’il y a de plus lumineux et de mieux tempéré dans la vertu. Tel a assassiné sur les grandes routes qui, mieux dirigé, eût été le plus excellent serviteur de la cité. Cette tête de l’homme du peuple, cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ; vous n’aurez pas besoin de la couper.",
+    "original": "Cette tête est pleine de germes utiles ; employez pour la faire mûrir et venir à bien ce qu’il y a de plus lumineux et de mieux tempéré dans la vertu. Tel a assassiné sur les grandes routes qui, mieux dirigé, eût été le plus excellent serviteur de la cité. Cette tête de l’homme du peuple, cultivez-la, défrichez-la, arrosez-la, fécondez-la, éclairez-la, moralisez-la, utilisez-la ; vous n’aurez pas besoin de la couper.",
+    "length": 420,
+    "truncated": false
+  }
+}
