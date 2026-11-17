@@ -1,0 +1,70 @@
+{
+  "formatVersion": 1,
+  "bookId": "onze-jours-de-siege",
+  "title": "Onze jours de siège",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Comédie en trois actes en prose, Paris, Michel Lévy frères, 1861 (d'après la page de titre reproduite sur Wikisource)",
+    "pages": [
+      {
+        "title": "Onze jours de siège",
+        "revisionId": 11522989
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d82fb4ec386b4c26f7552b3685507e56b60d8a8fb44fc54e98b764d5be8fe640"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p01682",
+      "reason": "Didascalie centrée amputée du nom du personnage (le nom, en lien dans l'édition, a été perdu à l'extraction) : « , prenant la main de … » n'est pas du texte lisible sans lui"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p01684",
+      "reason": "Didascalie centrée amputée du nom du personnage (le nom, en lien dans l'édition, a été perdu à l'extraction) : « , prenant la main de … » n'est pas du texte lisible sans lui"
+    }
+  ],
+  "reviewFlags": [
+    "p01682 exclu, SANS doublon ailleurs dans l'œuvre : « , prenant la main de Léonie. »",
+    "p01684 exclu, SANS doublon ailleurs dans l'œuvre : « , prenant la main de Laurence. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00029.s1",
+      "p00029.s2",
+      "p00029.s3",
+      "p00029.s4",
+      "p00029.s5",
+      "p00029.s6"
+    ],
+    "french": "BAPTISTE. — On les entend d’ici ! (Descendant en scène). Ma foi ! m’est avis que quand les maîtres se disputent à table, les domestiques font sagement de s’en aller. (On sonne. Il hausse les épaules et va s’asseoir sur le canapé.) C’est vrai, cela trouble le service ; on ignore si monsieur ou madame parlent sérieusement ou plaisantent, (On resonne.) et l’on ne sait plus quelle contenance garder, s’il faut sourire ou prendre son air grave.",
+    "original": "BAPTISTE. — On les entend d’ici ! (Descendant en scène). Ma foi ! m’est avis que quand les maîtres se disputent à table, les domestiques font sagement de s’en aller. (On sonne. Il hausse les épaules et va s’asseoir sur le canapé.) C’est vrai, cela trouble le service ; on ignore si monsieur ou madame parlent sérieusement ou plaisantent, (On resonne.) et l’on ne sait plus quelle contenance garder, s’il faut sourire ou prendre son air grave.",
+    "length": 442,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01680.s1",
+      "p01681.s1",
+      "p01683.s1",
+      "p01685.s1",
+      "p01686.s1",
+      "p01687.s1",
+      "p01687.s2"
+    ],
+    "french": "ROQUEFEUILLE. — Qu’est-ce que cela fait, puisque, comme dans les comédies, cela finit par un mariage.\nROBERT. — Par deux mariages !\nMAXIME. — Le mien… et ?…\nROBERT. — Et le mien !\nMAXIME. — Ah bah !\nROQUEFEUILLE. — Votre exemple me gagne… J’en ferais bien autant… si l’on pouvait se marier… sans prendre une femme !",
+    "original": "ROQUEFEUILLE. — Qu’est-ce que cela fait, puisque, comme dans les comédies, cela finit par un mariage.\nROBERT. — Par deux mariages !\nMAXIME. — Le mien… et ?…\nROBERT. — Et le mien !\nMAXIME. — Ah bah !\nROQUEFEUILLE. — Votre exemple me gagne… J’en ferais bien autant… si l’on pouvait se marier… sans prendre une femme !",
+    "length": 315,
+    "truncated": false
+  }
+}
