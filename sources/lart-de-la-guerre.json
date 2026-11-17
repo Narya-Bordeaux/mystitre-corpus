@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "lart-de-la-guerre",
+  "title": "L'Art de la guerre",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "édition non indiquée (page « 孫子兵法 » de la Wikisource en chinois)",
+  "pages": [
+    {
+      "title": "孫子兵法",
+      "revisionId": 12193261
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "527f4569e2a03355a32c881912865505517e9063c34d2c7907e175463d378139",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。故經之以五事，校之以計，而索其情：一曰道，二曰天，三曰地，四曰將"
+  },
+  "bodyEnd": {
+    "id": "p00087",
+    "textPrefix": "昔殷之興也，伊摯在夏；周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功。此兵之要，三軍之所恃而動也。"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut les titres de chapitres (始計第一…), le dossier « 答話 » (dialogues avec le roi de Wu, fragments rapportés, notes d'éditeur) postérieur aux treize chapitres. Corps = chapitres 1 à 13, du premier paragraphe au dernier (« 昔殷之興也… »)."
+  ],
+  "titleMasks": [
+    "art de la guerre"
+  ],
+  "readingOptions": []
+}
