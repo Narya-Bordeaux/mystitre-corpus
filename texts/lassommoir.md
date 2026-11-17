@@ -1,0 +1,684 @@
+# L'Assommoir
+
+Source : édition non indiquée (texte de la page Wikisource « L’Assommoir ») — fr.wikisource.org
+
+Origine : Texte original libre de droits
+
+- [L’Assommoir/Chapitre I](https://fr.wikisource.org/w/index.php?title=L’Assommoir/Chapitre_I&oldid=4624542)
+- [L’Assommoir/Chapitre XIII](https://fr.wikisource.org/w/index.php?title=L’Assommoir/Chapitre_XIII&oldid=9675822)
+
+`p00001` **I**
+
+`p00002` Gervaise avait attendu Lantier jusqu’à deux heures du matin. Puis, toute frissonnante d’être restée en camisole à l’air vif de la fenêtre, elle s’était assoupie, jetée en travers du lit, fiévreuse, les joues trempées de larmes. Depuis huit jours, au sortir du Veau à deux têtes, où ils mangeaient, il l’envoyait se coucher avec les enfants et ne reparaissait que tard dans la nuit, en racontant qu’il cherchait du travail. Ce soir-là, pendant qu’elle guettait son retour, elle croyait l’avoir vu entrer au bal du Grand-Balcon, dont les dix fenêtres flambantes éclairaient d’une nappe d’incendie la coulée noire des boulevards extérieurs ; et, derrière lui, elle avait aperçu la petite Adèle, une brunisseuse qui dînait à leur restaurant, marchant à cinq ou six pas, les mains ballantes, comme si elle venait de lui quitter le bras pour ne pas passer ensemble sous la clarté crue des globes de la porte.
+
+`p00003` Quand Gervaise s’éveilla, vers cinq heures, raidie, les reins brisés, elle éclata en sanglots. Lantier n’était pas rentré. Pour la première fois, il découchait. Elle resta assise au bord du lit, sous le lambeau de perse déteinte qui tombait de la flèche attachée au plafond par une ficelle. Et, lentement, de ses yeux voilés de larmes, elle faisait le tour de la misérable chambre garnie, meublée d’une commode de noyer dont un tiroir manquait, de trois chaises de paille et d’une petite table graisseuse, sur laquelle traînait un pot à eau ébréché. On avait ajouté, pour les enfants, un lit de fer qui barrait la commode et emplissait les deux tiers de la pièce. La malle de Gervaise et de Lantier, grande ouverte dans un coin, montrait ses flancs vides, un vieux chapeau d’homme tout au fond, enfoui sous des chemises et des chaussettes sales ; tandis que, le long des murs, sur le dossier des meubles, pendaient un châle troué, un pantalon mangé par la boue, les dernières nippes dont les marchands d’habits ne voulaient pas. Au milieu de la cheminée, entre deux flambeaux de zinc dépareillés, il y avait un paquet de reconnaissances du Mont-de-Piété, d’un rose tendre. C’était la belle chambre de l’hôtel, la chambre du premier, qui donnait sur le boulevard.
+
+`p00004` Cependant, couchés côte à côte sur le même oreiller, les deux enfants dormaient. Claude, qui avait huit ans, ses petites mains rejetées hors de la couverture, respirait d’une haleine lente, tandis qu’Étienne, âgé de quatre ans seulement, souriait, un bras passé au cou de son frère. Lorsque le regard noyé de leur mère s’arrêta sur eux, elle eut une nouvelle crise de sanglots, elle tamponna un mouchoir sur sa bouche, pour étouffer les légers cris qui lui échappaient. Et, pieds nus, sans songer à remettre ses savates tombées, elle retourna s’accouder à la fenêtre, elle reprit son attente de la nuit, interrogeant les trottoirs, au loin.
+
+`p00005` L’hôtel se trouvait sur le boulevard de la Chapelle, à gauche de la barrière Poissonnière. C’était une masure de deux étages, peinte en rouge lie de vin jusqu’au second, avec des persiennes pourries par la pluie. Au-dessus d’une lanterne aux vitres étoilées, on parvenait à lire entre les deux fenêtres : Hôtel Boncœur, tenu par Marsoullier, en grandes lettres jaunes, dont la moisissure du plâtre avait emporté des morceaux. Gervaise, que la lanterne gênait, se haussait, son mouchoir sur les lèvres. Elle regardait à droite, du côté du boulevard de Rochechouart, où des groupes de bouchers, devant les abattoirs, stationnaient en tabliers sanglants ; et le vent frais apportait une puanteur par moments, une odeur fauve de bêtes massacrées. Elle regardait à gauche, enfilant un long ruban d’avenue, s’arrêtant, presque en face d’elle, à la masse blanche de l’hôpital de Lariboisière, alors en construction. Lentement, d’un bout à l’autre de l’horizon, elle suivait le mur de l’octroi, derrière lequel, la nuit, elle entendait parfois des cris d’assassinés ; et elle fouillait les angles écartés, les coins sombres, noirs d’humidité et d’ordure, avec la peur d’y découvrir le corps de Lantier, le ventre troué de coups de couteau. Quand elle levait les yeux, au delà de cette muraille grise et interminable qui entourait la ville d’une bande de désert, elle apercevait une grande lueur, une poussière de soleil, pleine déjà du grondement matinal de Paris. Mais c’était toujours à la barrière Poissonnière qu’elle revenait, le cou tendu, s’étourdissant à voir couler, entre les deux pavillons trapus de l’octroi, le flot ininterrompu d’hommes, de bêtes, de charrettes, qui descendait des hauteurs de Montmartre et de la Chapelle. Il y avait là un piétinement de troupeau, une foule que de brusques arrêts étalaient en mares sur la chaussée, un défilé sans fin d’ouvriers allant au travail, leurs outils sur le dos, leur pain sous le bras ; et la cohue s’engouffrait dans Paris où elle se noyait, continuellement. Lorsque Gervaise, parmi tout ce monde, croyait reconnaître Lantier, elle se penchait davantage, au risque de tomber ; puis, elle appuyait plus fortement son mouchoir sur la bouche, comme pour renfoncer sa douleur.
+
+`p00006` Une voix jeune et gaie lui fit quitter la fenêtre.
+
+`p00007` — Le bourgeois n’est donc pas là, madame Lantier ?
+
+`p00008` — Mais non, monsieur Coupeau, répondit-elle en tâchant de sourire.
+
+`p00009` C’était un ouvrier zingueur qui occupait, tout en haut de l’hôtel, un cabinet de dix francs. Il avait son sac passé à l’épaule. Ayant trouvé la clef sur la porte, il était entré, en ami.
+
+`p00010` — Vous savez, continua-t-il, maintenant, je travaille là, à l’hôpital… Hein ! quel joli mois de mai ! Ça pique dur, ce matin.
+
+`p00011` Et il regardait le visage de Gervaise, rougi par les larmes. Quand il vit que le lit n’était pas défait, il hocha doucement la tête ; puis, il vint jusqu’à la couchette des enfants qui dormaient toujours avec leurs mines roses de chérubins ; et, baissant la voix :
+
+`p00012` — Allons ! le bourgeois n’est pas sage, n’est-ce pas ? … Ne vous désolez pas, madame Lantier. Il s’occupe beaucoup de politique ; l’autre jour, quand on a voté pour Eugène Sue, un bon, paraît-il, il était comme un fou. Peut-être bien qu’il a passé la nuit avec des amis à dire du mal de cette crapule de Bonaparte.
+
+`p00013` — Non, non, murmura-t-elle avec effort, ce n’est pas ce que vous croyez. Je sais où est Lantier… Nous avons nos chagrins comme tout le monde, mon Dieu !
+
+`p00014` Coupeau cligna les yeux, pour montrer qu’il n’était pas dupe de ce mensonge. Et il partit, après lui avoir offert d’aller chercher son lait, si elle ne voulait pas sortir : elle était une belle et brave femme, elle pouvait compter sur lui, le jour où elle serait dans la peine. Gervaise, dès qu’il se fut éloigné, se remit à la fenêtre.
+
+`p00015` À la barrière, le piétinement de troupeau continuait, dans le froid du matin. On reconnaissait les serruriers à leurs bourgerons bleus, les maçons à leurs cottes blanches, les peintres à leurs paletots, sous lesquels de longues blouses passaient. Cette foule, de loin, gardait un effacement plâtreux, un ton neutre, où dominaient le bleu déteint et le gris sale. Par moments, un ouvrier s’arrêtait, rallumait sa pipe, tandis qu’autour de lui les autres marchaient toujours, sans un rire, sans une parole dite à un camarade, les joues terreuses, la face tendue vers Paris, qui, un à un, les dévorait, par la rue béante du Faubourg-Poissonnière. Cependant, aux deux coins de la rue des Poissonniers, à la porte des deux marchands de vin qui enlevaient leurs volets, des hommes ralentissaient le pas ; et, avant d’entrer, ils restaient au bord du trottoir, avec des regards obliques sur Paris, les bras mous, déjà gagnés à une journée de flâne. Devant les comptoirs, des groupes s’offraient des tournées, s’oubliaient là, debout, emplissant les salles, crachant, toussant, s’éclaircissant la gorge à coups de petits verres.
+
+`p00016` Gervaise guettait, à gauche de la rue, la salle du père Colombe, où elle pensait avoir vu Lantier, lorsqu’une grosse femme, nu-tête, en tablier, l’interpella du milieu de la chaussée.
+
+`p00017` — Dites donc, madame Lantier, vous êtes bien matinale !
+
+`p00018` Gervaise se pencha.
+
+`p00019` — Tiens ! c’est vous, madame Boche ! … Oh ! j’ai un tas de besogne, aujourd’hui !
+
+`p00020` — Oui, n’est-ce pas ? les choses ne se font pas toutes seules.
+
+`p00021` Et une conversation s’engagea, de la fenêtre au trottoir. Madame Boche était concierge de la maison dont le restaurant du Veau à deux têtes occupait le rez-de-chaussée. Plusieurs fois, Gervaise avait attendu Lantier dans sa loge, pour ne pas s’attabler seule avec tous les hommes qui mangeaient, à côté. La concierge raconta qu’elle allait à deux pas, rue de la Charbonnière, pour trouver au lit un employé, dont son mari ne pouvait pas tirer le raccommodage d’une redingote. Ensuite, elle parla d’un de ses locataires qui était rentré avec une femme, la veille, et qui avait empêché le monde de dormir, jusqu’à trois heures du matin. Mais, tout en bavardant, elle dévisageait la jeune femme, d’un air de curiosité aiguë ; et elle semblait n’être venue là, se poser sous la fenêtre, que pour savoir.
+
+`p00022` — Monsieur Lantier est donc encore couché ? demanda-t-elle brusquement.
+
+`p00023` — Oui, il dort, répondit Gervaise, qui ne put s’empêcher de rougir.
+
+`p00024` Madame Boche vit les larmes lui remonter aux yeux ; et, satisfaite sans doute, elle s’éloignait en traitant les hommes de sacrés fainéants, lorsqu’elle revint, pour crier :
+
+`p00025` — C’est ce matin que vous allez au lavoir, n’est-ce pas ? … J’ai quelque chose à laver, je vous garderai une place à côté de moi, et nous causerons.
+
+`p00026` Puis, comme prise d’une subite pitié :
+
+`p00027` — Ma pauvre petite, vous feriez bien mieux de ne pas rester là, vous prendrez du mal… Vous êtes violette.
+
+`p00028` Gervaise s’entêta encore à la fenêtre pendant deux mortelles heures, jusqu’à huit heures. Les boutiques s’étaient ouvertes. Le flot de blouses descendant des hauteurs avait cessé ; et seuls quelques retardataires franchissaient la barrière à grandes enjambées. Chez les marchands de vin, les mêmes hommes, debout, continuaient à boire, à tousser et à cracher. Aux ouvriers avaient succédé les ouvrières, les brunisseuses, les modistes, les fleuristes, se serrant dans leurs minces vêtements, trottant le long des boulevards extérieurs ; elles allaient par bandes de trois ou quatre, causaient vivement, avec de légers rires et des regards luisants jetés autour d’elles ; de loin en loin, une, toute seule, maigre, l’air pâle et sérieux, suivait le mur de l’octroi, en évitant les coulées d’ordures. Puis, les employés étaient passés, soufflant dans leurs doigts, mangeant leur pain d’un sou en marchant ; des jeunes gens efflanqués, aux habits trop courts, aux yeux battus, tout brouillés de sommeil ; de petits vieux qui roulaient sur leurs pieds, la face blême, usée par les longues heures du bureau, regardant leur montre pour régler leur marche à quelques secondes près. Et les boulevards avaient pris leur paix du matin ; les rentiers du voisinage se promenaient au soleil ; les mères, en cheveux, en jupes sales, berçaient dans leurs bras des enfants au maillot, qu’elles changeaient sur les bancs ; toute une marmaille mal mouchée, débraillée, se bousculait, se traînait par terre, au milieu de piaulements, de rires et de pleurs. Alors, Gervaise se sentit étouffer, saisie d’un vertige d’angoisse, à bout d’espoir ; il lui semblait que tout était fini, que les temps étaient finis, que Lantier ne rentrerait plus jamais. Elle allait, les regards perdus, des vieux abattoirs noirs de leur massacre et de leur puanteur, à l’hôpital neuf, blafard, montrant, par les trous encore béants de ses rangées de fenêtres, des salles nues où la mort devait faucher. En face d’elle, derrière le mur de l’octroi, le ciel éclatant, le lever de soleil qui grandissait au-dessus du réveil énorme de Paris, l’éblouissait.
+
+`p00029` La jeune femme était assise sur une chaise, les mains abandonnées, ne pleurant plus, lorsque Lantier entra tranquillement.
+
+`p00030` — C’est toi ! c’est toi ! cria-t-elle, en voulant se jeter à son cou.
+
+`p00031` — Oui, c’est moi, après ? répondit-il. Tu ne vas pas commencer tes bêtises, peut-être !
+
+`p00032` Il l’avait écartée. Puis, d’un geste de mauvaise humeur, il lança à la volée son chapeau de feutre noir sur la commode. C’était un garçon de vingt-six ans, petit, très-brun, d’une jolie figure, avec de minces moustaches, qu’il frisait toujours d’un mouvement machinal de la main. Il portait une cotte d’ouvrier, une vieille redingote tachée qu’il pinçait à la taille, et avait en parlant un accent provençal très-prononcé.
+
+`p00033` Gervaise, retombée sur la chaise, se plaignait doucement, par courtes phrases.
+
+`p00034` — Je n’ai pas pu fermer l’œil… Je croyais qu’on t’avait donné un mauvais coup… Où es-tu allé ? où as-tu passé la nuit ? Mon Dieu ! ne recommence pas, je deviendrais folle… Dis, Auguste, où es-tu allé ?
+
+`p00035` — Où j’avais affaire, parbleu ! dit-il avec un haussement d’épaules. J’étais à huit heures à la Glacière, chez cet ami qui doit monter une fabrique de chapeaux. Je me suis attardé. Alors, j’ai préféré coucher… Puis, tu sais, je n’aime pas qu’on me moucharde. Fiche-moi la paix !
+
+`p00036` La jeune femme se remit à sangloter. Les éclats de voix, les mouvements brusques de Lantier, qui culbutait les chaises, venaient de réveiller les enfants. Ils se dressèrent sur leur séant, demi-nus, débrouillant leurs cheveux de leurs petites mains ; et, entendant pleurer leur mère, ils poussèrent des cris terribles, pleurant eux aussi de leurs yeux à peine ouverts.
+
+`p00037` — Ah ! voilà la musique ! s’écria Lantier furieux. Je vous avertis, je reprends la porte, moi ! Et je file pour tout de bon, cette fois… Vous ne voulez pas vous taire ? Bonsoir ! je retourne d’où je viens.
+
+`p00038` Il avait déjà repris son chapeau sur la commode. Mais Gervaise se précipita, balbutiant :
+
+`p00039` — Non, non !
+
+`p00040` Et elle étouffa les larmes des petits sous des caresses. Elle baisait leurs cheveux, elle les recouchait avec des paroles tendres. Les petits, calmés tout d’un coup, riant sur l’oreiller, s’amusèrent à se pincer. Cependant, le père, sans même retirer ses bottes, s’était jeté sur le lit, l’air éreinté, la face marbrée par une nuit blanche. Il ne s’endormit pas, il resta les yeux grands ouverts, à faire le tour de la chambre.
+
+`p00041` — C’est propre, ici ! murmura-t-il.
+
+`p00042` Puis, après avoir regardé un instant Gervaise, il ajouta méchamment :
+
+`p00043` — Tu ne te débarbouilles donc plus ?
+
+`p00044` Gervaise n’avait que vingt-deux ans. Elle était grande, un peu mince, avec des traits fins, déjà tirés par les rudesses de sa vie. Dépeignée, en savates, grelottant sous sa camisole blanche où les meubles avaient laissé de leur poussière et de leur graisse, elle semblait vieillie de dix ans par les heures d’angoisse et de larmes qu’elle venait de passer. Le mot de Lantier la fit sortir de son attitude peureuse et résignée.
+
+`p00045` — Tu n’es pas juste, dit-elle en s’animant. Tu sais bien que je fais tout ce que je peux. Ce n’est pas ma faute, si nous sommes tombés ici… Je voudrais te voir, avec les deux enfants, dans une pièce où il n’y a pas même un fourneau pour avoir de l’eau chaude… Il fallait, en arrivant à Paris, au lieu de manger ton argent, nous établir tout de suite, comme tu l’avais promis.
+
+`p00046` — Dis donc ! cria-t-il, tu as croqué le magot avec moi ; ça ne te va pas, aujourd’hui, de cracher sur les bons morceaux !
+
+`p00047` Mais elle ne parut pas l’entendre, elle continua :
+
+`p00048` — Enfin, avec du courage, on pourra encore s’en tirer… J’ai vu, hier soir, madame Fauconnier, la blanchisseuse de la rue Neuve ; elle me prendra lundi. Si tu te mets avec ton ami de la Glacière, nous reviendrons sur l’eau avant six mois, le temps de nous nipper et de louer un trou quelque part, où nous serons chez nous… Oh ! il faudra travailler, travailler…
+
+`p00049` Lantier se tourna vers la ruelle, d’un air d’ennui. Gervaise alors s’emporta.
+
+`p00050` — Oui, c’est ça, on sait que l’amour du travail ne t’étouffe guère. Tu crèves d’ambition, tu voudrais être habillé comme un monsieur et promener des catins en jupes de soie. N’est-ce pas ? tu ne me trouves plus assez bien, depuis que tu m’as fait mettre toutes mes robes au Mont-de-Piété… Tiens ! Auguste, je ne voulais pas t’en parler, j’aurais attendu encore, mais je sais où tu as passé la nuit ; je t’ai vu entrer au Grand-Balcon avec cette traînée d’Adèle. Ah ! tu les choisis bien ! Elle est propre, celle-là ! elle a raison de prendre des airs de princesse… Elle a couché avec tout le restaurant.
+
+`p00051` D’un saut, Lantier se jeta à bas du lit. Ses yeux étaient devenus d’un noir d’encre dans son visage blême. Chez ce petit homme, la colère soufflait une tempête.
+
+`p00052` — Oui, oui, avec tout le restaurant ! répéta la jeune femme. Madame Boche va leur donner congé, à elle et à sa grande bringue de sœur, parce qu’il y a toujours une queue d’hommes dans l’escalier.
+
+`p00053` Lantier leva les deux poings ; puis, résistant au besoin de la battre, il lui saisit les bras, la secoua violemment, l’envoya tomber sur le lit des enfants, qui se mirent de nouveau à crier. Et il se recoucha, en bégayant, de l’air farouche d’un homme qui prend une résolution devant laquelle il hésitait encore :
+
+`p00054` — Tu ne sais pas ce que tu viens de faire, Gervaise… Tu as eu tort, tu verras.
+
+`p00055` Pendant un instant, les enfants sanglotèrent. Leur mère, restée ployée au bord du lit, les tenait dans une même étreinte ; et elle répétait cette phrase, à vingt reprises, d’une voix monotone :
+
+`p00056` — Ah ! si vous n’étiez pas là, mes pauvres petits !… Si vous n’étiez pas là !… Si vous n’étiez pas là !…
+
+`p00057` Tranquillement allongé, les yeux levés au-dessus de lui, sur le lambeau de perse déteinte, Lantier n’écoutait plus, s’enfonçait dans une idée fixe. Il resta ainsi près d’une heure, sans céder au sommeil, malgré la fatigue qui appesantissait ses paupières. Quand il se retourna, s’appuyant sur le coude, la face dure et déterminée, Gervaise achevait de ranger la chambre. Elle faisait le lit des enfants, qu’elle venait de lever et d’habiller. Il la regarda donner un coup de balai, essuyer les meubles ; la pièce restait noire, lamentable, avec son plafond fumeux, son papier décollé par l’humidité, ses trois chaises et sa commode éclopées, où la crasse s’entêtait et s’étalait sous le torchon. Puis, pendant qu’elle se lavait à grande eau, après avoir rattaché ses cheveux, devant le petit miroir rond, pendu à l’espagnolette, qui lui servait pour se raser, il parut examiner ses bras nus, son cou nu, tout le nu qu’elle montrait, comme si des comparaisons s’établissaient dans son esprit. Et il eut une moue des lèvres. Gervaise boitait de la jambe droite ; mais on ne s’en apercevait guère que les jours de fatigue, quand elle s’abandonnait, les hanches brisées. Ce matin-là, rompue par sa nuit, elle traînait sa jambe, elle s’appuyait aux murs.
+
+`p00058` Le silence régnait, ils n’avaient plus échangé une parole. Lui, semblait attendre. Elle, rongeant sa douleur, s’efforçant d’avoir un visage indifférent, se hâtait. Comme elle faisait un paquet du linge sale jeté dans un coin, derrière la malle, il ouvrit enfin les lèvres, il demanda :
+
+`p00059` — Qu’est-ce que tu fais ? … Où vas-tu ?
+
+`p00060` Elle ne répondit pas d’abord. Puis, lorsqu’il répéta sa question, furieusement, elle se décida.
+
+`p00061` — Tu le vois bien, peut-être… Je vais laver tout ça… Les enfants ne peuvent pas vivre dans la crotte.
+
+`p00062` Il lui laissa ramasser deux ou trois mouchoirs. Et, au bout d’un nouveau silence, il reprit :
+
+`p00063` — Est-ce que tu as de l’argent ?
+
+`p00064` Du coup, elle se releva, le regarda en face, sans lâcher les chemises sales des petits qu’elle tenait à la main.
+
+`p00065` — De l’argent ! où veux-tu donc que je l’aie volé ?… Tu sais bien que j’ai eu trois francs avant-hier sur ma jupe noire. Nous avons déjeuné deux fois là-dessus, et l’on va vite, avec la charcuterie… Non, sans doute, je n’ai pas d’argent. J’ai quatre sous pour le lavoir… Je n’en gagne pas comme certaines femmes.
+
+`p00066` Il ne s’arrêta pas à cette allusion. Il était descendu du lit, il passait en revue les quelques loques pendues autour de la chambre. Il finit par décrocher le pantalon et le châle, ouvrit la commode, ajouta au paquet une camisole et deux chemises de femme ; puis, jetant le tout sur les bras de Gervaise :
+
+`p00067` — Tiens, porte ça au clou.
+
+`p00068` — Tu ne veux pas que je porte aussi les enfants ? demanda-t-elle. Hein ! si l’on prêtait sur les enfants, ce serait un fameux débarras !
+
+`p00069` Elle alla au Mont-de-Piété, pourtant. Quand elle revint, au bout d’une demi-heure, elle posa une pièce de cent sous sur la cheminée, en joignant la reconnaissance aux autres, entre les deux flambeaux.
+
+`p00070` — Voilà ce qu’ils m’ont donné, dit-elle. Je voulais six francs, mais il n’y a pas eu moyen. Oh ! ils ne se ruineront pas… Et l’on trouve toujours un monde, là-dedans !
+
+`p00071` Lantier ne prit pas tout de suite la pièce de cent sous. Il aurait voulu qu’elle fît de la monnaie, pour lui laisser quelque chose. Mais il se décida à la glisser dans la poche de son gilet, quand il vit, sur la commode, un reste de jambon dans un papier, avec un bout de pain.
+
+`p00072` — Je n’ai pas osé aller chez la laitière, parce que nous lui devons huit jours, expliqua Gervaise. Mais je reviendrai de bonne heure, tu descendras chercher du pain et des côtelettes panées, pendant que je ne serai pas là, et nous déjeunerons… Monte aussi un litre de vin.
+
+`p00073` Il ne dit pas non. La paix semblait se faire. La jeune femme achevait de mettre en paquet le linge sale. Mais quand elle voulut prendre les chemises et les chaussettes de Lantier au fond de la malle, il lui cria de laisser ça.
+
+`p00074` — Laisse mon linge, entends-tu ! Je ne veux pas !
+
+`p00075` — Qu’est-ce que tu ne veux pas ? demanda-t-elle en se redressant. Tu ne comptes pas, sans doute, remettre ces pourritures ? Il faut bien les laver.
+
+`p00076` Et elle l’examinait, inquiète, retrouvant sur son visage de joli garçon la même dureté, comme si rien, désormais, ne devait le fléchir. Il se fâcha, lui arracha des mains le linge qu’il rejeta dans la malle.
+
+`p00077` — Tonnerre de Dieu ! obéis-moi donc une fois ! Quand je te dis que je ne veux pas !
+
+`p00078` — Mais pourquoi ? reprit-elle, pâlissante, effleurée d’un soupçon terrible. Tu n’as pas besoin de tes chemises maintenant, tu ne vas pas partir… Qu’est-ce que ça peut te faire que je les emporte ?
+
+`p00079` Il hésita un instant, gêné par les yeux ardents qu’elle fixait sur lui.
+
+`p00080` — Pourquoi ? pourquoi ? bégayait-il… Parbleu ! tu vas dire partout que tu m’entretiens, que tu laves, que tu raccommodes. Eh bien ! ça m’embête, là ! Fais tes affaires, je ferai les miennes… Les blanchisseuses ne travaillent pas pour les chiens.
+
+`p00081` Elle le supplia, se défendit de s’être jamais plainte ; mais il ferma la malle brutalement, s’assit dessus, lui cria : Non ! dans la figure. Il était bien le maître de ce qui lui appartenait ! Puis, pour échapper aux regards dont elle le poursuivait, il retourna s’étendre sur le lit, en disant qu’il avait sommeil, et qu’elle ne lui cassât pas la tête davantage. Cette fois, en effet, il parut s’endormir.
+
+`p00082` Gervaise resta un moment indécise. Elle était tentée de repousser du pied le paquet de linge, de s’asseoir là, à coudre. La respiration régulière de Lantier finit par la rassurer. Elle prit la boule de bleu et le morceau de savon qui lui restaient de son dernier savonnage ; et, s’approchant des petits qui jouaient tranquillement avec de vieux bouchons, devant la fenêtre, elle les baisa, en leur disant à voix basse :
+
+`p00083` — Soyez bien sages, ne faites pas de bruit. Papa dort.
+
+`p00084` Quand elle quitta la chambre, les rires adoucis de Claude et d’Étienne sonnaient seuls dans le grand silence, sous le plafond noir. Il était dix heures. Une raie de soleil entrait par la fenêtre entr’ouverte.
+
+`p00085` Sur le boulevard, Gervaise tourna à gauche et suivit la rue Neuve de la Goutte-d’Or. En passant devant la boutique de madame Fauconnier, elle salua d’un petit signe de tête. Le lavoir était situé vers le milieu de la rue, à l’endroit où le pavé commençait à monter. Au-dessus d’un bâtiment plat, trois énormes réservoirs d’eau, des cylindres de zinc fortement boulonnés, montraient leurs rondeurs grises ; tandis que, derrière, s’élevait le séchoir, un deuxième étage très-haut, clos de tous les côtés par des persiennes à lames minces, au travers desquelles passait le grand air, et qui laissaient voir des pièces de linge séchant sur des fils de laiton. À droite des réservoirs, le tuyau étroit de la machine à vapeur soufflait, d’une haleine rude et régulière, des jets de fumée blanche. Gervaise, sans retrousser ses jupes, en femme habituée aux flaques, s’engagea sous la porte, encombrée de jarres d’eau de javelle. Elle connaissait déjà la maîtresse du lavoir, une petite femme délicate, aux yeux malades, assise dans un cabinet vitré, avec des registres devant elle, des pains de savon sur des étagères, des boules de bleu dans des bocaux, des livres de carbonate de soude en paquets. Et, en passant, elle lui réclama son battoir et sa brosse, qu’elle lui avait donnés à garder, lors de son dernier savonnage. Puis, après avoir pris son numéro, elle entra.
+
+`p00086` C’était un immense hangar, à plafond plat, à poutres apparentes, monté sur des piliers de fonte, fermé par de larges fenêtres claires. Un plein jour blafard passait librement dans la buée chaude suspendue comme un brouillard laiteux. Des fumées montaient de certains coins, s’étalant, noyant les fonds d’un voile bleuâtre. Il pleuvait une humidité lourde, chargée d’une odeur savonneuse ; et, par moments, des souffles plus forts d’eau de javelle dominaient. Le long des batteries, aux deux côtés de l’allée centrale, il y avait des files de femmes, les bras nus jusqu’aux épaules, le cou nu, les jupes raccourcies montrant des bas de couleur et de gros souliers lacés. Elles tapaient furieusement, riaient, se renversaient pour crier un mot dans le vacarme, se penchaient au fond de leurs baquets, ordurières, brutales, dégingandées, trempées comme par une averse, les chairs rougies et fumantes. Autour d’elles, sous elles, coulait un grand ruissellement, les seaux d’eau chaude promenés et vidés d’un trait, les robinets d’eau froide ouverts, pissant de haut, les éclaboussements des battoirs, les égouttures des linges rincés, les mares où elles pataugeaient s’en allant par petits ruisseaux sur les dalles en pente. Et, au milieu des cris, des coups cadencés, du bruit murmurant de pluie, de cette clameur d’orage s’étouffant sous le plafond mouillé, la machine à vapeur, à droite, toute blanche d’une rosée fine, haletait et ronflait sans relâche, avec la trépidation dansante de son volant qui semblait régler l’énormité du tapage.
+
+`p00087` Cependant, Gervaise, à petits pas, suivait l’allée, en jetant des regards à droite et à gauche. Elle portait son paquet de linge passé au bras, la hanche haute, boitant plus fort, dans le va-et-vient des laveuses qui la bousculaient.
+
+`p00088` — Eh ! par ici, ma petite ! cria la grosse voix de madame Boche.
+
+`p00089` Puis, quand la jeune femme l’eut rejointe, à gauche, tout au bout, la concierge, qui frottait furieusement une chaussette, se mit à parler par courtes phrases, sans lâcher sa besogne.
+
+`p00090` — Mettez-vous là, je vous ai gardé votre place… Oh ! je n’en ai pas pour longtemps. Boche ne salit presque pas son linge… Et vous ? ça ne va pas traîner non plus, hein ? Il est tout petit, votre paquet. Avant midi, nous aurons expédié çà, et nous pourrons aller déjeuner… Moi, je donnais mon linge à une blanchisseuse de la rue Poulet ; mais elle m’emportait tout, avec son chlore et ses brosses. Alors, je lave moi-même. C’est tout gagné. Ça ne coûte que le savon… Dites donc, voilà des chemises que vous auriez dû mettre à couler. Ces gueux d’enfants, ma parole ! ça a de la suie au derrière.
+
+`p00091` Gervaise défaisait son paquet, étalait les chemises des petits ; et comme madame Boche lui conseillait de prendre un seau d’eau de lessive, elle répondit :
+
+`p00092` — Oh ! non, l’eau chaude suffira… Ça me connaît.
+
+`p00093` Elle avait trié le linge, mis à part les quelques pièces de couleur. Puis, après avoir empli son baquet de quatre seaux d’eau froide, pris au robinet, derrière elle, elle plongea le tas du linge blanc ; et, relevant sa jupe, la tirant entre ses cuisses, elle entra dans une boîte, posée debout, qui lui arrivait au ventre.
+
+`p00094` — Ça vous connaît, hein ? répétait madame Boche. Vous étiez blanchisseuse dans votre pays, n’est-ce pas, ma petite ?
+
+`p00095` Gervaise, les manches retroussées, montrant ses beaux bras de blonde, jeunes encore, à peine rosés aux coudes, commençait à décrasser son linge. Elle venait d’étaler une chemise sur la planche étroite de la batterie, mangée et blanchie par l’usure de l’eau ; elle la frottait de savon, la retournait, la frottait de l’autre côté. Avant de répondre, elle empoigna son battoir, se mit à taper, criant ses phrases, les ponctuant à coups rudes et cadencés.
+
+`p00096` — Oui, oui, blanchisseuse… À dix ans… Il y a douze ans de ça… Nous allions à la rivière… Ça sentait meilleur qu’ici… Il fallait voir, il y avait un coin sous les arbres… avec de l’eau claire qui courait… Vous savez, à Plassans… Vous ne connaissez pas Plassans ?… près de Marseille ?
+
+`p00097` — C’est du chien, ça ! s’écria madame Boche, émerveillée de la rudesse des coups de battoir. Quelle mâtine ! elle vous aplatirait du fer, avec ses petits bras de demoiselle !
+
+`p00098` La conversation continua, très haut. La concierge, parfois, était obligée de se pencher, n’entendant pas. Tout le linge blanc fut battu, et ferme ! Gervaise le replongea dans le baquet, le reprit pièce par pièce pour le frotter de savon une seconde fois et le brosser. D’une main, elle fixait la pièce sur la batterie ; de l’autre main, qui tenait la courte brosse de chiendent, elle tirait du linge une mousse salie, qui, par longues bavures, tombait. Alors, dans le petit bruit de la brosse, elles se rapprochèrent, elles causèrent d’une façon plus intime.
+
+`p00099` — Non, nous ne sommes pas mariés, reprit Gervaise. Moi, je ne m’en cache pas. Lantier n’est pas si gentil pour qu’on souhaite d’être sa femme. S’il n’y avait pas les enfants, allez !… J’avais quatorze ans et lui dix-huit, quand nous avons eu notre premier. L’autre est venu quatre ans plus tard… C’est arrivé comme ça arrive toujours, vous savez. Je n’étais pas heureuse chez nous ; le père Macquart, pour un oui, pour un non, m’allongeait des coups de pied dans les reins. Alors, ma foi, on songe à s’amuser dehors… On nous aurait mariés, mais je ne sais plus, nos parents n’ont pas voulu.
+
+`p00100` Elle secoua ses mains, qui rougissaient sous la mousse blanche.
+
+`p00101` — L’eau est joliment dure à Paris, dit-elle.
+
+`p00102` Madame Boche ne lavait plus que mollement. Elle s’arrêtait, faisant durer son savonnage, pour rester là, à connaître cette histoire, qui torturait sa curiosité depuis quinze jours. Sa bouche était à demi ouverte dans sa grosse face ; ses yeux, à fleur de tête, luisaient. Elle pensait, avec la satisfaction d’avoir deviné :
+
+`p00103` — C’est ça, la petite cause trop. Il y a eu du grabuge.
+
+`p00104` Puis, tout haut :
+
+`p00105` — Il n’est pas gentil, alors ?
+
+`p00106` — Ne m’en parlez pas ! répondit Gervaise, il était très bien pour moi, là-bas ; mais, depuis que nous sommes à Paris, je ne peux plus en venir à bout… Il faut vous dire que sa mère est morte l’année dernière, en lui laissant quelque chose, dix-sept cents francs à peu près. Il voulait partir pour Paris. Alors, comme le père Macquart m’envoyait toujours des gifles sans crier gare, j’ai consenti à m’en aller avec lui ; nous avons fait le voyage avec les deux enfants. Il devait m’établir blanchisseuse et travailler de son état de chapelier. Nous aurions été très-heureux… Mais, voyez-vous, Lantier est un ambitieux, un dépensier, un homme qui ne songe qu’à son amusement. Il ne vaut pas grand’chose, enfin… Nous sommes donc descendus à l’hôtel Montmartre, rue Montmartre. Et ç’a été des dîners, des voitures, le théâtre, une montre pour lui, une robe de soie pour moi ; car il n’a pas mauvais cœur, quand il a de l’argent. Vous comprenez, tout le tremblement, si bien qu’au bout de deux mois nous étions nettoyés. C’est à ce moment-là que nous sommes venus habiter l’hôtel Boncœur et que la sacrée vie a commencé…
+
+`p00107` Elle s’interrompit, serrée tout d’un coup à la gorge, rentrant ses larmes. Elle avait fini de brosser son linge.
+
+`p00108` — Il faut que j’aille chercher mon eau chaude, murmura-t-elle.
+
+`p00109` Mais madame Boche, très contrariée de cet arrêt dans les confidences, appela le garçon du lavoir qui passait.
+
+`p00110` — Mon petit Charles, vous serez bien gentil, allez donc chercher un seau d’eau chaude à madame, qui est pressée.
+
+`p00111` Le garçon prit le seau et le rapporta plein. Gervaise paya ; c’était un sou le seau. Elle versa l’eau chaude dans le baquet, et savonna le linge une dernière fois, avec les mains, se ployant au-dessus de la batterie, au milieu d’une vapeur qui accrochait des filets de fumée grise dans ses cheveux blonds.
+
+`p00112` — Tenez, mettez donc des cristaux, j’en ai là, dit obligeamment la concierge.
+
+`p00113` Et elle vida dans le baquet de Gervaise le fond d’un sac de bicarbonate de soude, qu’elle avait apporté. Elle lui offrit aussi de l’eau de javelle ; mais la jeune femme refusa ; c’était bon pour les taches de graisse et les taches de vin.
+
+`p00114` — Je le crois un peu coureur, reprit madame Boche, en revenant à Lantier, sans le nommer.
+
+`p00115` Gervaise, les reins en deux, les mains enfoncées et crispées dans le linge, se contenta de hocher la tête.
+
+`p00116` — Oui, oui, continua l’autre, je me suis aperçue de plusieurs petites choses…
+
+`p00117` Mais elle se récria, devant le brusque mouvement de Gervaise qui s’était relevée, toute pâle, en la dévisageant.
+
+`p00118` — Oh ! non, je ne sais rien !… Il aime à rire, je crois, voilà tout… Ainsi, les deux filles qui logent chez nous, Adèle et Virginie, vous les connaissez, eh bien ! il plaisante avec elles, et ça ne va pas plus loin, j’en suis sûre.
+
+`p00119` La jeune femme, droite devant elle, la face en sueur, les bras ruisselants, la regardait toujours, d’un regard fixe et profond. Alors, la concierge se fâcha, s’appliqua un coup de poing sur la poitrine, en donnant sa parole d’honneur. Elle criait :
+
+`p00120` — Je ne sais rien, là, quand je vous le dis !
+
+`p00121` Puis, se calmant, elle ajouta d’une voix doucereuse, comme on parle à une personne à qui la vérité ne vaudrait rien :
+
+`p00122` — Moi, je trouve qu’il a les yeux francs… Il vous épousera, ma petite, je vous le promets !
+
+`p00123` Gervaise s’essuya le front de sa main mouillée. Puis, elle tira de l’eau une autre pièce de linge, en hochant de nouveau la tête. Un instant, toutes deux gardèrent le silence. Autour d’elles, le lavoir s’était apaisé. Onze heures sonnaient. La moitié des laveuses, assises d’une jambe au bord de leurs baquets, avec un litre de vin débouché à leurs pieds, mangeaient des saucisses dans des morceaux de pain fendus. Seules, les ménagères venues là pour laver leurs petits paquets de linge, se hâtaient, en regardant l’œil-de-bœuf accroché au-dessus du bureau. Quelques coups de battoir partaient encore, espacés, au milieu des rires adoucis, des conversations qui s’empâtaient dans un bruit glouton de mâchoires ; tandis que la machine à vapeur, allant son train, sans repos ni trêve, semblait hausser la voix, vibrante, ronflante, emplissant l’immense salle. Mais pas une des femmes ne l’entendait ; c’était comme la respiration même du lavoir, une haleine ardente amassant sous les poutres du plafond l’éternelle buée qui flottait. La chaleur devenait intolérable ; des raies de soleil entraient à gauche, par les hautes fenêtres, allumant les vapeurs fumantes de nappes opalisées, d’un gris-rose et d’un gris-bleu très-tendres. Et, comme des plaintes s’élevaient, le garçon Charles allait d’une fenêtre à l’autre, tirait des stores de grosse toile ; ensuite, il passa de l’autre côté, du côté de l’ombre, et ouvrit des vasistas. On l’acclamait, on battait des mains ; une gaieté formidable roulait. Bientôt, les derniers battoirs eux-mêmes se turent. Les laveuses, la bouche pleine, ne faisaient plus que des gestes avec les couteaux ouverts qu’elles tenaient au poing. Le silence devenait tel, qu’on entendait régulièrement, tout au bout, le grincement de la pelle du chauffeur, prenant du charbon de terre et le jetant dans le fourneau de la machine.
+
+`p00124` Cependant, Gervaise lavait son linge de couleur dans l’eau chaude, grasse de savon, qu’elle avait conservée. Quand elle eut fini, elle approcha un tréteau, jeta en travers toutes les pièces, qui faisaient à terre des mares bleuâtres. Et elle commença à rincer. Derrière elle, le robinet d’eau froide coulait au-dessus d’un vaste baquet, fixé au sol, et que traversaient deux barres de bois, pour soutenir le linge. Au-dessus, en l’air, deux autres barres passaient, où le linge achevait de s’égoutter.
+
+`p00125` — Voilà qui va être fini, ce n’est pas malheureux, dit madame Boche. Je reste pour vous aider à tordre tout ça.
+
+`p00126` — Oh ! ce n’est pas la peine, je vous remercie bien, répondit la jeune femme, qui pétrissait de ses poings et barbottait les pièces de couleur dans l’eau claire. Si j’avais des draps, je ne dis pas.
+
+`p00127` Mais il lui fallut pourtant accepter l’aide de la concierge. Elles tordaient toutes deux, chacune à un bout, une jupe, un petit lainage marron mauvais teint, d’où sortait une eau jaunâtre, lorsque madame Boche s’écria :
+
+`p00128` — Tiens ! la grande Virginie !… Qu’est-ce qu’elle vient laver ici, celle-là, avec ses quatre guenilles dans un mouchoir ?
+
+`p00129` Gervaise avait vivement levé la tête. Virginie était une fille de son âge, plus grande qu’elle, brune, jolie, malgré sa figure un peu longue. Elle avait une vieille robe noire à volants, un ruban rouge au cou ; et elle était coiffée avec soin, le chignon pris dans un filet en chenille bleue. Un instant, au milieu de l’allée centrale, elle pinça les paupières, ayant l’air de chercher ; puis, quand elle eut aperçu Gervaise, elle vint passer près d’elle, raide, insolente, balançant ses hanches, et s’installa sur la même rangée, à cinq baquets de distance.
+
+`p00130` — En voilà un caprice ! continuait madame Boche, à voix plus basse. Jamais elle ne savonne une paire de manches… Ah ! une fameuse fainéante, je vous en réponds ! Une couturière qui ne recoud pas seulement ses bottines ! C’est comme sa sœur, la brunisseuse, cette gredine d’Adèle, qui manque l’atelier deux jours sur trois ! Ça n’a ni père ni mère connus, ça vit d’on ne sait quoi, et si l’on voulait parler… Qu’est-ce qu’elle frotte donc là ? Hein ! c’est un jupon ? Il est joliment dégoûtant, il a dû en voir de propres, ce jupon !
+
+`p00131` Madame Boche, évidemment, voulait faire plaisir à Gervaise. La vérité était qu’elle prenait souvent le café avec Adèle et Virginie, quand les petites avaient de l’argent. Gervaise ne répondait pas, se dépêchait, les mains fiévreuses. Elle venait de faire son bleu, dans un petit baquet monté sur trois pieds. Elle trempait ses pièces de blanc, les agitait un instant au fond de l’eau teintée, dont le reflet prenait une pointe de laque ; et, après les avoir tordues légèrement, elle les alignait sur les barres de bois, en haut. Pendant toute cette besogne, elle affectait de tourner le dos à Virginie. Mais elle entendait ses ricanements, elle sentait sur elle ses regards obliques. Virginie semblait n’être venue que pour la provoquer. Un instant, Gervaise s’étant retournée, elles se regardèrent toutes deux, fixement.
+
+`p00132` — Laissez-la donc, murmura madame Boche. Vous n’allez peut-être pas vous prendre aux cheveux… Quand je vous dis qu’il n’y a rien ! Ce n’est pas elle, là !
+
+`p00133` À ce moment, comme la jeune femme pendait sa dernière pièce de linge, il y eut des rires à la porte du lavoir.
+
+`p00134` — C’est deux gosses qui demandent maman ! cria Charles.
+
+`p00135` Toutes les femmes se penchèrent. Gervaise reconnut Claude et Étienne. Dès qu’ils l’aperçurent, ils coururent à elle, au milieu des flaques, tapant sur les dalles les talons de leurs souliers dénoués. Claude, l’aîné, donnait la main à son petit frère. Les laveuses, sur leur passage, avaient de légers cris de tendresse, à les voir un peu effrayés, souriant pourtant. Et ils restèrent là, devant leur mère, sans se lâcher, levant leurs têtes blondes.
+
+`p00136` — C’est papa qui vous envoie ? demanda Gervaise.
+
+`p00137` Mais comme elle se baissait pour rattacher les cordons des souliers d’Étienne, elle vit, à un doigt de Claude, la clef de la chambre avec son numéro de cuivre, qu’il balançait.
+
+`p00138` — Tiens ! tu m’apportes la clef ! dit-elle, très-surprise. Pourquoi donc ?
+
+`p00139` L’enfant, en apercevant la clef qu’il avait oubliée à son doigt, parut se souvenir et cria de sa voix claire :
+
+`p00140` — Papa est parti.
+
+`p00141` — Il est allé acheter le déjeuner, il vous a dit de venir me chercher ici ?
+
+`p00142` Claude regarda son frère, hésita, ne sachant plus. Puis, il reprit d’un trait :
+
+`p00143` — Papa est parti… Il a sauté du lit, il a mis toutes les affaires dans la malle, il a descendu la malle sur une voiture… Il est parti.
+
+`p00144` Gervaise, accroupie, se releva lentement, la figure blanche, portant les mains à ses joues et à ses tempes, comme si elle entendait sa tête craquer. Et elle ne put trouver qu’un mot, elle le répéta vingt fois sur le même ton :
+
+`p00145` — Ah ! mon Dieu !… ah ! mon Dieu !… ah ! mon Dieu !…
+
+`p00146` Madame Boche, cependant, interrogeait l’enfant à son tour, tout allumée de se trouver dans cette histoire.
+
+`p00147` — Voyons, mon petit, il faut dire les choses… C’est lui qui a fermé la porte et qui vous a dit d’apporter la clef, n’est-ce pas ?
+
+`p00148` Et, baissant la voix, à l’oreille de Claude :
+
+`p00149` — Est-ce qu’il y avait une dame dans la voiture ?
+
+`p00150` L’enfant se troubla de nouveau. Il recommença son histoire, d’un air triomphant :
+
+`p00151` — Il a sauté du lit, il a mis toutes les affaires dans la malle, il est parti…
+
+`p00152` Alors, comme madame Boche le laissait aller, il tira son frère devant le robinet. Ils s’amusèrent tous les deux à faire couler l’eau.
+
+`p00153` Gervaise ne pouvait pleurer. Elle étouffait, les reins appuyés contre son baquet, le visage toujours entre les mains. De courts frissons la secouaient. Par moments, un long soupir passait, tandis qu’elle s’enfonçait davantage les poings sur les yeux, comme pour s’anéantir dans le noir de son abandon. C’était un trou de ténèbres au fond duquel il lui semblait tomber.
+
+`p00154` — Allons, ma petite, que diable ! murmurait madame Boche.
+
+`p00155` — Si vous saviez ! si vous saviez ! dit-elle enfin tout bas. Il m’a envoyée ce matin porter mon châle et mes chemises au Mont-de-Piété pour payer cette voiture…
+
+`p00156` Et elle pleura. Le souvenir de sa course au Mont-de-Piété, en précisant un fait de la matinée, lui avait arraché les sanglots qui s’étranglaient dans sa gorge.
+
+`p00157` Cette course-là, c’était une abomination, la grosse douleur dans son désespoir. Les larmes coulaient sur son menton que ses mains avaient déjà mouillé, sans qu’elle songeât seulement à prendre son mouchoir.
+
+`p00158` — Soyez raisonnable, taisez-vous, on vous regarde, répétait madame Boche qui s’empressait autour d’elle. Est-il possible de se faire tant de mal pour un homme !… Vous l’aimiez donc toujours, hein ? ma pauvre chérie. Tout à l’heure, vous étiez joliment montée contre lui. Et vous voilà, maintenant, à le pleurer, à vous crever le cœur… Mon Dieu, que nous sommes bêtes !
+
+`p00159` Puis, elle se montra maternelle.
+
+`p00160` — Une jolie petite femme comme vous ! s’il est permis !… On peut tout vous raconter à présent, n’est-ce pas ? Eh bien ! vous vous souvenez, quand je suis passée sous votre fenêtre, je me doutais… Imaginez-vous que, cette nuit, lorsque Adèle est rentrée, j’ai entendu un pas d’homme avec le sien. Alors, j’ai voulu savoir, j’ai regardé dans l’escalier. Le particulier était déjà au deuxième étage, mais j’ai bien reconnu la redingote de monsieur Lantier. Boche, qui faisait le guet, ce matin, l’a vu redescendre tranquillement… C’était avec Adèle, vous entendez. Virginie a maintenant un monsieur chez lequel elle va deux fois par semaine. Seulement, ce n’est guère propre tout de même, car elles n’ont qu’une chambre et une alcôve, et je ne sais trop où Virginie a pu coucher.
+
+`p00161` Elle s’interrompit un instant, se tournant, reprenant de sa grosse voix étouffée :
+
+`p00162` — Elle rit de vous voir pleurer, cette sans-cœur, là-bas. Je mettrais ma main au feu que son savonnage est une frime… Elle a emballé les deux autres et elle est venue ici pour leur raconter la tête que vous feriez.
+
+`p00163` Gervaise ôta ses mains, regarda. Quand elle aperçut devant elle Virginie, au milieu de trois ou quatre femmes, parlant bas, la dévisageant, elle fut prise d’une colère folle. Les bras en avant, cherchant à terre, tournant sur elle-même, dans un tremblement de tous ses membres, elle marcha quelques pas, rencontra un seau plein, le saisit à deux mains, le vida à toute volée.
+
+`p00164` — Chameau, va ! cria la grande Virginie.
+
+`p00165` Elle avait fait un saut en arrière, ses bottines seules étaient mouillées. Cependant, le lavoir, que les larmes de la jeune femme révolutionnaient depuis un instant, se bousculait pour voir la bataille. Des laveuses, qui achevaient leur pain, montèrent sur des baquets. D’autres accoururent, les mains pleines de savon. Un cercle se forma.
+
+`p00166` — Ah ! le chameau ! répétait la grande Virginie. Qu’est-ce qui lui prend, à cette enragée-là !
+
+`p00167` Gervaise en arrêt, le menton tendu, la face convulsée, ne répondait pas, n’ayant point encore le coup de gosier de Paris. L’autre continua :
+
+`p00168` — Va donc ! C’est las de rouler la province, ça n’avait pas douze ans que ça servait de paillasse à soldats, ça a laissé une jambe dans son pays… Elle est tombée de pourriture, sa jambe…
+
+`p00169` Un rire courut. Virginie, voyant son succès, s’approcha de deux pas, redressant sa haute taille, criant plus fort :
+
+`p00170` — Hein ! avance un peu, pour voir, que je te fasse ton affaire ! Tu sais, il ne faut pas venir nous embêter, ici… Est-ce que je la connais, moi, cette peau ! Si elle m’avait attrapée, je lui aurais joliment retroussé ses jupons ; vous auriez vu ça. Qu’elle dise seulement ce que je lui ai fait… Dis, rouchie, qu’est-ce qu’on t’a fait ?
+
+`p00171` — Ne causez pas tant, bégaya Gervaise. Vous savez bien… On a vu mon mari, hier soir… Et taisez-vous, parce que je vous étranglerais, bien sûr.
+
+`p00172` — Son mari ! Ah ! elle est bonne, celle-là !… Le mari à madame ! comme si on avait des maris avec cette dégaîne !… Ce n’est pas ma faute s’il t’a lâchée. Je ne te l’ai pas volé, peut-être. On peut me fouiller… Veux-tu que je te dise, tu l’empoisonnais, cet homme ! Il était trop gentil pour toi… Avait-il son collier, au moins ? Qui est-ce qui a trouvé le mari à madame ?… Il y aura récompense…
+
+`p00173` Les rires recommencèrent. Gervaise, à voix presque basse, se contentait toujours de murmurer :
+
+`p00174` — Vous savez bien, vous savez bien… C’est votre sœur, je l’étranglerai, votre sœur…
+
+`p00175` — Oui, va te frotter à ma sœur, reprit Virginie en ricanant. Ah ! c’est ma sœur ! C’est bien possible, ma sœur a un autre chic que toi… Mais est-ce que ça me regarde ! est-ce qu’on ne peut plus laver son linge tranquillement ! Flanque-moi la paix, entends-tu, parce qu’en voilà assez !
+
+`p00176` Et ce fut elle qui revint, après avoir donné cinq ou six coups de battoir, grisée par les injures, emportée. Elle se tut et recommença ainsi trois fois :
+
+`p00177` — Eh bien ! oui, c’est ma sœur. Là, es-tu contente ?… Ils s’adorent tous les deux. Il faut les voir se bécoter !… Et il t’a lâchée avec tes bâtards ! De jolis mômes qui ont des croûtes plein la figure ! Il y en a un d’un gendarme, n’est-ce pas ? et tu en as fait crever trois autres, parce que tu ne voulais pas de surcroît de bagage pour venir… C’est ton Lantier qui nous a raconté ça. Ah ! il en dit de belles, il en avait assez de ta carcasse !
+
+`p00178` — Salope ! salope ! salope ! hurla Gervaise, hors d’elle, reprise par un tremblement furieux.
+
+`p00179` Elle tourna, chercha une fois encore par terre ; et, ne trouvant que le petit baquet, elle le prit par les pieds, lança l’eau du bleu à la figure de Virginie.
+
+`p00180` — Rosse ! elle m’a perdu ma robe ! cria celle-ci, qui avait toute une épaule mouillée et sa main gauche teinte en bleu. Attends, gadoue !
+
+`p00181` À son tour, elle saisit un seau, le vida sur la jeune femme. Alors, une bataille formidable s’engagea. Elles couraient toutes deux le long des baquets, s’emparant des seaux pleins, revenant se les jeter à la tête. Et chaque déluge était accompagné d’un éclat de voix. Gervaise elle-même répondait, à présent.
+
+`p00182` — Tiens ! saleté !… Tu l’as reçu celui-là. Ça te calmera le derrière.
+
+`p00183` — Ah ! la carne ! Voilà pour ta crasse. Débarbouille-toi une fois dans ta vie.
+
+`p00184` — Oui, oui, je vas te dessaler, grande morue !
+
+`p00185` — Encore un !… Rince-toi les dents, fais ta toilette pour ton quart de ce soir, au coin de la rue Belhomme.
+
+`p00186` Elles finirent par emplir les seaux aux robinets. Et, en attendant qu’ils fussent pleins, elles continuaient leurs ordures. Les premiers seaux, mal lancés, les touchaient à peine. Mais elles se faisaient la main. Ce fut Virginie qui, la première, en reçut un en pleine figure ; l’eau, entrant par son cou, coula dans son dos et dans sa gorge, pissa par-dessous sa robe. Elle était encore tout étourdie, quand un second la prit de biais, lui donna une forte claque contre l’oreille gauche, en trempant son chignon, qui se déroula comme une ficelle. Gervaise fut d’abord atteinte aux jambes ; un seau lui emplit ses souliers, rejaillit jusqu’à ses cuisses ; deux autres l’inondèrent aux hanches. Bientôt, d’ailleurs, il ne fut plus possible de juger les coups. Elles étaient l’une et l’autre ruisselantes de la tête aux pieds, les corsages plaqués aux épaules, les jupes collant sur les reins, maigries, raidies, grelottantes, s’égouttant de tous les côtés, ainsi que des parapluies pendant une averse.
+
+`p00187` — Elles sont rien drôles ! dit la voix enrouée d’une laveuse.
+
+`p00188` Le lavoir s’amusait énormément. On s’était reculé, pour ne pas recevoir les éclaboussures. Des applaudissements, des plaisanteries montaient, au milieu du bruit d’écluse des seaux vidés à toute volée. Par terre, des mares coulaient, les deux femmes pataugeaient jusqu’aux chevilles. Cependant, Virginie, ménageant une traîtrise, s’emparant brusquement d’un seau d’eau de lessive bouillante, qu’une de ses voisines avait demandé, le jeta. Il y eut un cri. On crut Gervaise ébouillantée. Mais elle n’avait que le pied gauche brûlé légèrement. Et, de toutes ses forces, exaspérée par la douleur, sans le remplir cette fois, elle envoya un seau dans les jambes de Virginie, qui tomba.
+
+`p00189` Toutes les laveuses parlaient ensemble.
+
+`p00190` — Elle lui a cassé une patte !
+
+`p00191` — Dame ! l’autre a bien voulu la faire cuire !
+
+`p00192` — Elle a raison, après tout, la blonde, si on lui a pris son homme !
+
+`p00193` Madame Boche levait les bras au ciel, en s’exclamant. Elle s’était prudemment garée entre deux baquets ; et les enfants, Claude et Étienne, pleurant, suffoquant, épouvantés, se pendaient à sa robe, avec ce cri continu : Maman ! maman ! qui se brisait dans leurs sanglots. Quand elle vit Virginie par terre, elle accourut, tirant Gervaise par ses jupes, répétant :
+
+`p00194` — Voyons, allez-vous-en ! Soyez raisonnable… J’ai les sangs tournés, ma parole ! On n’a jamais vu une tuerie pareille.
+
+`p00195` Mais elle recula, elle retourna se réfugier entre les deux baquets, avec les enfants. Virginie venait de sauter à la gorge de Gervaise. Elle la serrait au cou, tâchait de l’étrangler. Alors, celle-ci, d’une violente secousse, se dégagea, se pendit à son tour à la queue de son chignon, comme si elle avait voulu lui arracher la tête. La bataille recommença, muette, sans un cri, sans une injure. Elles ne se prenaient pas corps à corps, s’attaquaient à la figure, les mains ouvertes et crochues, pinçant, griffant ce qu’elles empoignaient. Le ruban rouge et le filet en chenille bleue de la grande brune furent arrachés ; son corsage, craqué au cou, montra sa peau, tout un bout d’épaule ; tandis que la blonde, déshabillée, une manche de sa camisole blanche ôtée sans qu’elle sût comment, avait un accroc à sa chemise qui découvrait le pli nu de sa taille. Des lambeaux d’étoffe volaient. D’abord, ce fut sur Gervaise que le sang parut, trois longues égratignures descendant de la bouche sous le menton ; et elle garantissait ses yeux, les fermait à chaque claque, de peur d’être éborgnée. Virginie ne saignait pas encore. Gervaise visait ses oreilles, s’enrageait de ne pouvoir les prendre, quand elle saisit enfin l’une des boucles, une poire de verre jaune ; elle tira, fendit l’oreille ; le sang coula.
+
+`p00196` — Elles se tuent ! séparez-les, ces guenons ! dirent plusieurs voix.
+
+`p00197` Les laveuses s’étaient rapprochées. Il se formait deux camps : les unes excitaient les deux femmes comme des chiennes qui se battent ; les autres, plus nerveuses, toutes tremblantes, tournaient la tête, en avaient assez, répétaient qu’elles en seraient malades, bien sûr. Et une bataille générale faillit avoir lieu ; on se traitait de sans-cœur, de propre à rien ; des bras nus se tendaient ; trois gifles retentirent.
+
+`p00198` Madame Boche, pourtant, cherchait le garçon du lavoir.
+
+`p00199` — Charles ! Charles !… Où est-il donc ?
+
+`p00200` Et elle le trouva au premier rang, regardant, les bras croisés. C’était un grand gaillard, à cou énorme. Il riait, il jouissait des morceaux de peau que les deux femmes montraient. La petite blonde était grasse comme une caille. Ça serait farce, si sa chemise se fendait.
+
+`p00201` — Tiens ! murmura-t-il en clignant un œil, elle a une fraise sous le bras.
+
+`p00202` — Comment ! vous êtes là ! cria madame Boche en l’apercevant. Mais aidez-nous donc à les séparer !… Vous pouvez bien les séparer, vous !
+
+`p00203` — Ah bien ! non, merci ! s’il n’y a que moi ! dit-il tranquillement. Pour me faire griffer l’œil comme l’autre jour, n’est-ce pas ?… Je ne suis pas ici pour ça, j’aurais trop de besogne… N’ayez pas peur, allez ! Ça leur fait du bien, une petite saignée. Ça les attendrit.
+
+`p00204` La concierge parla alors d’aller avertir les sergents de ville. Mais la maîtresse du lavoir, la jeune femme délicate, aux yeux malades, s’y opposa formellement. Elle répéta à plusieurs reprises :
+
+`p00205` — Non, non, je ne veux pas, ça compromet la maison.
+
+`p00206` Par terre, la lutte continuait. Tout d’un coup, Virginie se redressa sur les genoux. Elle venait de ramasser un battoir, elle le brandissait. Elle râlait, la voix changée :
+
+`p00207` — Voilà du chien, attends ! Apprête ton linge sale !
+
+`p00208` Gervaise, vivement, allongea la main, prit également un battoir, le tint levé comme une massue. Et elle avait, elle aussi, une voix rauque.
+
+`p00209` — Ah ! tu veux la grande lessive… Donne ta peau, que j’en fasse des torchons !
+
+`p00210` Un moment, elles restèrent là, agenouillées, à se menacer. Les cheveux dans la face, la poitrine soufflante, boueuses, tuméfiées, elles se guettaient, attendant, reprenant haleine. Gervaise porta le premier coup ; son battoir glissa sur l’épaule de Virginie. Et elle se jeta de côté pour éviter le battoir de celle-ci, qui lui effleura la hanche. Alors, mises en train, elles se tapèrent comme les laveuses tapent leur linge, rudement, en cadence. Quand elles se touchaient, le coup s’amortissait, on aurait dit une claque dans un baquet d’eau.
+
+`p00211` Autour d’elles, les blanchisseuses ne riaient plus ; plusieurs s’en étaient allées, en disant que ça leur cassait l’estomac ; les autres, celles qui restaient, allongeaient le cou, les yeux allumés d’une lueur de cruauté, trouvant ces gaillardes-là très-crânes. Madame Boche avait emmené Claude et Étienne ; et l’on entendait, à l’autre bout, l’éclat de leurs sanglots mêlé aux heurts sonores des deux battoirs.
+
+`p00212` Mais Gervaise, brusquement, hurla. Virginie venait de l’atteindre à toute volée sur son bras nu, au-dessus du coude ; une plaque rouge parut, la chair enfla tout de suite. Alors, elle se rua. On crut qu’elle voulait assommer l’autre.
+
+`p00213` — Assez ! assez ! criait-on.
+
+`p00214` Elle avait un visage si terrible, que personne n’osa approcher. Les forces décuplées, elle saisit Virginie par la taille, la plia, lui colla la figure sur les dalles, les reins en l’air ; et, malgré les secousses, elle lui releva les jupes, largement. Dessous, il y avait un pantalon. Elle passa la main dans la fente, l’arracha, montra tout, les cuisses nues, les fesses nues. Puis, le battoir levé, elle se mit à battre, comme elle battait autrefois à Plassans, au bord de la Viorne, quand sa patronne lavait le linge de la garnison. Le bois mollissait dans les chairs avec un bruit mouillé. À chaque tape, une bande rouge marbrait la peau blanche.
+
+`p00215` — Oh ! oh ! murmurait le garçon Charles, émerveillé, les yeux agrandis.
+
+`p00216` Des rires, de nouveau, avaient couru. Mais bientôt le cri : Assez ! assez ! recommença. Gervaise n’entendait pas, ne se lassait pas. Elle regardait sa besogne, penchée, préoccupée de ne pas laisser une place sèche. Elle voulait toute cette peau battue, couverte de contusions. Et elle causait, prise d’une gaieté féroce, se rappelant une chanson de lavandière :
+
+`p00217` — Pan ! pan ! Margot au lavoir… Pan ! pan ! à coups de battoir… Pan ! pan ! va laver son cœur… Pan ! pan ! tout noir de douleur…
+
+`p00218` Et elle reprenait :
+
+`p00219` — Ça c’est pour toi, ça c’est pour ta sœur, ça c’est pour Lantier… Quand tu les verras, tu leur donneras ça… Attention ! je recommence. Ça c’est pour Lantier, ça c’est pour ta sœur, ça c’est pour toi… Pan ! pan ! Margot au lavoir… Pan ! pan ! à coups de battoir…
+
+`p00220` On dut lui arracher Virginie des mains. La grande brune, la figure en larmes, pourpre, confuse, reprit son linge, se sauva ; elle était vaincue. Cependant, Gervaise repassait la manche de sa camisole, rattachait ses jupes. Son bras la faisait souffrir, et elle pria madame Boche de lui mettre son linge sur l’épaule. La concierge racontait la bataille, disait ses émotions, parlait de lui visiter le corps, pour voir.
+
+`p00221` — Vous avez peut-être bien quelque chose de cassé… J’ai entendu un coup…
+
+`p00222` Mais la jeune femme voulait s’en aller. Elle ne répondait pas aux apitoiements, à l’ovation bavarde des laveuses qui l’entouraient, droites dans leurs tabliers. Quand elle fut chargée, elle gagna la porte, où ses enfants l’attendaient.
+
+`p00223` — C’est deux heures, ça fait deux sous, lui dit en l’arrêtant la maîtresse du lavoir, déjà réinstallée dans son cabinet vitré.
+
+`p00224` Pourquoi deux sous ? Elle ne comprenait plus qu’on lui demandait le prix de sa place. Puis, elle donna ses deux sous. Et, boitant fortement sous le poids du linge mouillé pendu à son épaule, ruisselante, le coude bleui, la joue en sang, elle s’en alla, en traînant de ses bras nus Étienne et Claude, qui trottaient à ses côtés, secoués encore et barbouillés de leurs sanglots.
+
+`p00225` Derrière elle, le lavoir reprenait son bruit énorme d’écluse. Les laveuses avaient mangé leur pain, bu leur vin, et elles tapaient plus dur, les faces allumées, égayées par le coup de torchon de Gervaise et de Virginie. Le long des baquets, de nouveau, s’agitaient une fureur de bras, des profils anguleux de marionnettes aux reins cassés, aux épaules déjetées, se pliant violemment comme sur des charnières. Les conversations continuaient d’un bout à l’autre des allées. Les voix, les rires, les mots gras, se fêlaient dans le grand gargouillement de l’eau. Les robinets crachaient, les seaux jetaient des flaquées, une rivière coulait sous les batteries. C’était le chien de l’après-midi, le linge pilé à coups de battoir. Dans l’immense salle, les fumées devenaient rousses, trouées seulement par des ronds de soleil, des balles d’or, que les déchirures des rideaux laissaient passer. On respirait l’étouffement tiède des odeurs savonneuses. Tout d’un coup, le hangar s’emplit d’une buée blanche ; l’énorme couvercle du cuvier où bouillait la lessive, montait mécaniquement le long d’une tige centrale à crémaillère ; et le trou béant du cuivre, au fond de sa maçonnerie de briques, exhalait des tourbillons de vapeur, d’une saveur sucrée de potasse. Cependant, à côté, les essoreuses fonctionnaient ; des paquets de linge, dans des cylindres de fonte, rendaient leur eau sous un tour de roue de la machine, haletante, fumante, secouant plus rudement le lavoir de la besogne continue de ses bras d’acier.
+
+`p00226` Quand Gervaise mit le pied dans l’allée de l’hôtel Boncœur, les larmes la reprirent. C’était une allée noire, étroite, avec un ruisseau longeant le mur, pour les eaux sales ; et cette puanteur qu’elle retrouvait, lui faisait songer aux quinze jours passés là avec Lantier, quinze jours de misère et de querelles, dont le souvenir, à cette heure, était un regret cuisant. Il lui sembla entrer dans son abandon.
+
+`p00227` En haut, la chambre était nue, pleine de soleil, la fenêtre ouverte. Ce coup de soleil, cette nappe de poussière d’or dansante, rendait lamentables le plafond noir, les murs au papier arraché. Il n’y avait plus, à un clou de la cheminée, qu’un petit fichu de femme, tordu comme une ficelle. Le lit des enfants, tiré au milieu de la pièce, découvrait la commode, dont les tiroirs laissés ouverts montraient leurs flancs vides. Lantier s’était lavé et avait achevé la pommade, deux sous de pommade dans une carte à jouer ; l’eau grasse de ses mains emplissait la cuvette. Et il n’avait rien oublié, le coin occupé jusque-là par la malle paraissait à Gervaise faire un trou immense. Elle ne retrouva même pas le petit miroir rond, accroché à l’espagnolette. Alors, elle eut un pressentiment, elle regarda sur la cheminée : Lantier avait emporté les reconnaissances, le paquet rose tendre n’était plus là, entre les flambeaux de zinc dépareillés.
+
+`p00228` Elle pendit son linge au dossier d’une chaise ; elle demeura debout, tournant, examinant les meubles, frappée d’une telle stupeur, que ses larmes ne coulaient plus. Il lui restait un sou sur les quatre sous gardés pour le lavoir. Puis, entendant rire à la fenêtre Étienne et Claude, déjà consolés, elle s’approcha, prit leurs têtes sous ses bras, s’oublia un instant devant cette chaussée grise, où elle avait vu, le matin, s’éveiller le peuple ouvrier, le travail géant de Paris. À cette heure, le pavé échauffé par les besognes du jour allumait une réverbération ardente au-dessus de la ville, derrière le mur de l’octroi. C’était sur ce pavé, dans cet air de fournaise, qu’on la jetait toute seule avec les petits ; et elle enfila d’un regard les boulevards extérieurs, à droite, à gauche, s’arrêtant aux deux bouts, prise d’une épouvante sourde, comme si sa vie, désormais, allait tenir là, entre un abattoir et un hôpital.
+
+`p00229` **XIII**
+
+`p00230` Coupeau tira une bordée, cette nuit-là. Le lendemain, Gervaise reçut dix francs de son fils Étienne, qui était mécanicien dans un chemin de fer ; le petit lui envoyait des pièces de cent sous de temps à autre, sachant qu’il n’y avait pas gras à la maison. Elle mit un pot-au-feu et le mangea toute seule, car cette rosse de Coupeau ne rentra pas davantage le lendemain. Le lundi personne, le mardi personne encore. Toute la semaine se passa. Ah ! nom d’un chien ! si une dame l’avait enlevé, c’est ça qui aurait pu s’appeler une chance. Mais, juste le dimanche, Gervaise reçut un papier imprimé, qui lui fit peur d’abord, parce qu’on aurait dit une lettre du commissaire de police. Puis, elle se rassura, c’était simplement pour lui apprendre que son cochon était en train de crever à Sainte-Anne. Le papier disait ça plus poliment, seulement ça revenait au même. Oui, c’était bien une dame qui avait enlevé Coupeau, et cette dame s’appelait Sophie Tourne-de-l’œil, la dernière bonne amie des pochards.
+
+`p00231` Ma foi, Gervaise ne se dérangea pas. Il connaissait le chemin, il reviendrait bien tout seul de l’asile ; on l’y avait tant de fois guéri, qu’on lui ferait une fois de plus la mauvaise farce de le remettre sur ses pattes. Est-ce qu’elle ne venait pas d’apprendre le matin même que, pendant huit jours, on avait aperçu Coupeau, rond comme une balle, roulant les marchands de vin de Belleville, en compagnie de Mes-Bottes ! Parfaitement, c’était même Mes-Bottes qui finançait ; il avait dû jeter le grappin sur le magot de sa bourgeoise, des économies gagnées au joli jeu que vous savez. Ah ! ils buvaient là du propre argent, capable de flanquer toutes les mauvaises maladies ! Tant mieux, si Coupeau en avait empoigné des coliques ! Et Gervaise était surtout furieuse, en songeant que ces deux bougres d’égoïstes n’auraient seulement pas songé à venir la prendre pour lui payer une goutte. A-t-on jamais vu ! une noce de huit jours, et pas une galanterie aux dames ! Quand on boit seul, on crève seul, voilà !
+
+`p00232` Pourtant, le lundi, comme Gervaise avait un bon petit repas pour le soir, un reste de haricots et une chopine, elle se donna le prétexte qu’une promenade lui ouvrirait l’appétit. La lettre de l’asile, sur la commode, l’embêtait. La neige avait fondu, il faisait un temps de demoiselle, gris et doux, avec un fond vif dans l’air qui ragaillardissait. Elle partit à midi, car la course était longue ; il fallait traverser Paris, et sa gigue restait toujours en retard. Avec ça, il y avait une suée de monde dans les rues ; mais le monde l’amusait, elle arriva très gentiment. Lorsqu’elle se fut nommée, on lui en raconta une raide : il paraît qu’on avait repêché Coupeau au Pont-Neuf ; il s’était élancé par-dessus le parapet, en croyant voir un homme barbu qui lui barrait le chemin. Un joli saut, n’est-ce pas ? et quant à savoir comment Coupeau se trouvait sur le Pont-Neuf, c’était une chose qu’il ne pouvait pas expliquer lui-même.
+
+`p00233` Cependant, un gardien conduisit Gervaise. Elle montait un escalier, lorsqu’elle entendit des gueulements qui lui donnèrent froid aux os.
+
+`p00234` — Hein ? il en fait, une musique ! dit le gardien.
+
+`p00235` — Qui donc ? demanda-t-elle.
+
+`p00236` — Mais votre homme ! Il gueule comme ça depuis avant-hier. Et il danse, vous allez voir.
+
+`p00237` Ah ! mon Dieu ! quelle vue ! Elle resta saisie. La cellule était matelassée du haut en bas ; par terre, il y avait deux paillassons, l’un sur l’autre ; et, dans un coin, s’allongeaient un matelas et un traversin, pas davantage. Là dedans, Coupeau dansait et gueulait. Un vrai chienlit de la Courtille, avec sa blouse en lambeaux et ses membres qui battaient l’air ; mais un chienlit pas drôle, oh ! non, un chienlit dont le chahut effrayant vous faisait dresser tout le poil du corps. Il était déguisé en un-qui-va-mourir. Cré nom ! quel cavalier seul ! Il butait contre la fenêtre, s’en retournait à reculons, les bras marquant la mesure, secouant les mains, comme s’il avait voulu se les casser et les envoyer à la figure du monde. On rencontre des farceurs dans les bastringues, qui imitent ça ; seulement, ils l’imitent mal, il faut voir sauter ce rigodon des soûlards, si l’on veut juger quel chic ça prend, quand c’est exécuté pour de bon. La chanson a son cachet aussi, une engueulade continue de carnaval, une bouche grande ouverte lâchant pendant des heures les mêmes notes de trombone enroué. Coupeau, lui, avait le cri d’une bête dont on a écrasé la patte. Et, en avant l’orchestre, balancez vos dames !
+
+`p00238` — Seigneur ! qu’est-ce qu’il a donc ?… qu’est-ce qu’il a donc ?… répétait Gervaise, prise de taf.
+
+`p00239` Un interne, un gros garçon blond et rose, en tablier blanc, tranquillement assis, prenait des notes. Le cas était curieux, l’interne ne quittait pas le malade.
+
+`p00240` — Restez un instant, si vous voulez, dit-il à la blanchisseuse ; mais tenez-vous tranquille… Essayez de lui parler, il ne vous reconnaîtra pas.
+
+`p00241` Coupeau, en effet, ne parut même pas apercevoir sa femme. Elle l’avait mal vu en entrant tant il se disloquait. Quand elle le regarda sous le nez, les bras lui tombèrent. Était-ce Dieu possible qu’il eût une figure pareille, avec du sang dans les yeux et des croûtes plein les lèvres ? Elle ne l’aurait bien sûr pas reconnu. D’abord, il faisait trop de grimaces, sans dire pourquoi, la margoulette tout d’un coup à l’envers, le nez froncé, les joues tirées, un vrai museau d’animal. Il avait la peau si chaude, que l’air fumait autour de lui ; et son cuir était comme verni, ruisselant d’une sueur lourde qui dégoulinait. Dans sa danse de chicard enragé, on comprenait tout de même qu’il n’était pas à son aise, la tête lourde, avec des douleurs dans les membres.
+
+`p00242` Gervaise s’était rapprochée de l’interne, qui battait un air du bout des doigts sur le dossier de sa chaise.
+
+`p00243` — Dites donc, monsieur, c’est sérieux alors, cette fois ?
+
+`p00244` L’interne hocha la tête sans répondre.
+
+`p00245` — Dites donc, est-ce qu’il ne jacasse pas tout bas ?… Hein ? vous entendez, qu’est-ce que c’est ?
+
+`p00246` — Des choses qu’il voit, murmura le jeune homme. Taisez-vous, laissez-moi écouter.
+
+`p00247` Coupeau parlait d’une voix saccadée. Pourtant, une flamme de rigolade lui éclairait les yeux. Il regardait par terre, à droite, à gauche, et tournait, comme s’il avait flâné au bois de Vincennes, en causant tout seul.
+
+`p00248` — Ah ! ça, c’est gentil, c’est pommé… Il y a des chalets, une vraie foire. Et de la musique un peu chouette ! Quel Balthazar ! ils cassent les pots, là dedans… Très chic ! V’là que ça s’illumine ; des ballons rouges en l’air, et ça saute, et ça file !… Oh ! oh ! que de lanternes dans les arbres !… Il fait joliment bon ! Ça pisse de partout, des fontaines, des cascades, de l’eau qui chante, oh ! d’une voix d’enfant de chœur… Épatant ! les cascades !
+
+`p00249` Et il se redressait, comme pour mieux entendre la chanson délicieuse de l’eau ; il aspirait l’air fortement, croyant boire la pluie fraîche envolée des fontaines. Mais, peu à peu, sa face reprit une expression d’angoisse. Alors, il se courba, il fila plus vite le long des murs de la cellule, avec de sourdes menaces.
+
+`p00250` — Encore des fourbis, tout ça !… Je me méfiais… Silence, tas de gouapes ! Oui, vous vous fichez de moi. C’est pour me turlupiner que vous buvez et que vous braillez là-dedans avec vos traînées… Je vas vous démolir, moi, dans votre chalet !… Nom de Dieu ! voulez-vous me foutre la paix !
+
+`p00251` Il serrait les poings ; puis, il poussa un cri rauque, il s’aplatit en courant. Et il bégayait, les dents claquant d’épouvante :
+
+`p00252` — C’est pour que je me tue. Non, je ne me jetterai pas !… Toute cette eau, ça signifie que je n’ai pas de cœur. Non, je ne me jetterai pas !
+
+`p00253` Les cascades, qui fuyaient à son approche, s’avançaient quand il reculait. Et, tout d’un coup, il regarda stupidement autour de lui, il balbutia, d’une voix à peine distincte :
+
+`p00254` — Ce n’est pas possible, on a embauché des physiciens contre moi !
+
+`p00255` — Je m’en vais, monsieur, bonsoir ! dit Gervaise à l’interne. Ça me retourne trop, je reviendrai.
+
+`p00256` Elle était blanche. Coupeau continuait son cavalier seul, de la fenêtre au matelas, et du matelas à la fenêtre, suant, s’échinant, battant la même mesure. Alors, elle se sauva. Mais elle eut beau dégringoler l’escalier, elle entendit jusqu’en bas le sacré chahut de son homme. Ah ! mon Dieu ! qu’il faisait bon dehors, on respirait !
+
+`p00257` Le soir, toute la maison de la Goutte-d’Or causait de l’étrange maladie du père Coupeau. Les Boche, qui traitaient la Banban par-dessous la jambe maintenant, lui offrirent pourtant un cassis dans leur loge, histoire d’avoir des détails. Madame Lorilleux arriva, madame Poisson aussi. Ce furent des commentaires interminables. Boche avait connu un menuisier qui s’était mis tout nu dans la rue Saint-Martin, et qui était mort en dansant la polka ; celui-là buvait de l’absinthe. Ces dames se tortillèrent de rire, parce que ça leur semblait drôle tout de même, quoique triste. Puis, comme on ne comprenait pas bien, Gervaise repoussa le monde, cria pour avoir de la place ; et, au milieu de la loge, tandis que les autres regardaient, elle fit Coupeau, braillant, sautant, se démanchant avec des grimaces abominables. Oui, parole d’honneur ! c’était tout à fait ça ! Alors, les autres s’épatèrent : pas possible ! un homme n’aurait pas duré trois heures à un commerce pareil. Eh bien ! elle le jurait sur ce qu’elle avait de plus sacré, Coupeau durait depuis la veille, trente-six heures déjà. On pouvait aller y voir, d’ailleurs, si on ne la croyait pas. Mais madame Lorilleux déclara que, merci bien ! elle était revenue de Sainte-Anne ; elle empêcherait même Lorilleux d’y ficher les pieds. Quant à Virginie, dont la boutique tournait de plus mal en plus mal, et qui avait une figure d’enterrement, elle se contenta de murmurer que la vie n’était pas toujours gaie, ah ! sacredié, non ! On acheva le cassis, Gervaise souhaita le bonsoir à la compagnie. Lorsqu’elle ne parlait plus, elle prenait tout de suite la tête d’un ahuri de Chaillot, les yeux grands ouverts. Sans doute elle voyait son homme en train de valser. Le lendemain, en se levant, elle se promit de ne plus aller là-bas. À quoi bon ? Elle ne voulait pas perdre la boule, à son tour. Cependant, toutes les dix minutes, elle retombait dans ses réflexions, elle était sortie, comme on dit. Ça serait curieux pourtant, s’il faisait toujours ses ronds de jambe. Quand midi sonna, elle ne put tenir davantage, elle ne s’aperçut pas de la longueur du chemin, tant le désir et la peur de ce qui l’attendait lui occupaient la cervelle.
+
+`p00258` Oh ! elle n’eut pas besoin de demander des nouvelles. Dès le bas de l’escalier, elle entendit la chanson de Coupeau. Juste le même air, juste la même danse. Elle pouvait croire qu’elle venait de descendre à la minute, et qu’elle remontait. Le gardien de la veille, qui portait des pots de tisane dans le corridor, cligna de l’œil en la rencontrant, pour se montrer aimable.
+
+`p00259` — Alors, toujours ! dit-elle.
+
+`p00260` — Oh ! toujours ! répondit-il sans s’arrêter.
+
+`p00261` Elle entra, mais elle se tint dans le coin de la porte, parce qu’il y avait du monde avec Coupeau. L’interne blond et rose était debout, ayant cédé sa chaise à un vieux monsieur décoré, chauve et la figure en museau de fouine. C’était bien sûr le médecin en chef, car il avait des regards minces et perçants comme des vrilles. Tous les marchands de mort subite vous ont de ces regards-là.
+
+`p00262` Gervaise, d’ailleurs, n’était pas venue pour ce monsieur, et elle se haussait derrière son crâne, mangeant Coupeau des yeux. Cet enragé dansait et gueulait plus fort que la veille. Elle avait bien vu, autrefois, à des bals de la mi-carême, des garçons de lavoir solides s’en donner pendant toute une nuit ; mais jamais, au grand jamais, elle ne se serait imaginée qu’un homme pût prendre du plaisir si longtemps ; quand elle disait prendre du plaisir, c’était une façon de parler, car il n’y a pas de plaisir à faire malgré soi des sauts de carpe, comme si on avait avalé une poudrière. Coupeau, trempé de sueur, fumait davantage, voilà tout. Sa bouche semblait plus grande, à force de crier. Oh ! les dames enceintes faisaient bien de rester dehors. Il avait tant marché du matelas à la fenêtre, qu’on voyait son petit chemin à terre ; le paillasson était mangé par ses savates.
+
+`p00263` Non, vrai, ça n’offrait rien de beau, et Gervaise, tremblante, se demandait pourquoi elle était revenue. Dire que, la veille au soir, chez les Boche, on l’accusait d’exagérer le tableau ! Ah bien ! elle n’en avait pas fait la moitié assez ! Maintenant, elle voyait mieux comment Coupeau s’y prenait, elle ne l’oublierait jamais plus, les yeux grands ouverts sur le vide. Pourtant, elle saisissait des phrases, entre l’interne et le médecin. Le premier donnait des détails sur la nuit, avec des mots qu’elle ne comprenait pas. Toute la nuit, son homme avait causé et pirouetté, voilà ce que ça signifiait au fond. Puis, le vieux monsieur chauve, pas très-poli d’ailleurs, parut enfin s’apercevoir de sa présence ; et, quand l’interne lui eut dit qu’elle était la femme du malade, il se mit à l’interroger, d’un air méchant de commissaire de police.
+
+`p00264` — Est-ce que le père de cet homme buvait ?
+
+`p00265` — Oui, monsieur, un petit peu, comme tout le monde… Il s’est tué en dégringolant d’un toit, un jour de ribote.
+
+`p00266` — Est-ce que sa mère buvait ?
+
+`p00267` — Dame ! monsieur, comme tout le monde, vous savez, une goutte par-ci, une goutte par-là… Oh ! la famille est très bien !… Il y a eu un frère, mort très jeune dans des convulsions.
+
+`p00268` Le médecin la regardait de son œil perçant. Il reprit, de sa voix brutale :
+
+`p00269` — Vous buvez aussi, vous ?
+
+`p00270` Gervaise bégaya, se défendit, posa la main sur son cœur pour donner sa parole sacrée.
+
+`p00271` — Vous buvez ! Prenez garde, voyez où mène la boisson… Un jour ou l’autre, vous mourrez ainsi.
+
+`p00272` Alors, elle resta collée contre le mur. Le médecin avait tourné le dos. Il s’accroupit, sans s’inquiéter s’il ne ramassait pas la poussière du paillasson avec sa redingote ; il étudia longtemps le tremblement de Coupeau, l’attendant au passage, le suivant du regard. Ce jour-là, les jambes sautaient à leur tour, le tremblement était descendu des mains dans les pieds ; un vrai polichinelle, dont on aurait tiré les fils, rigolant des membres, le tronc raide comme du bois. Le mal gagnait petit à petit. On aurait dit une musique sous la peau ; ça partait toutes les trois ou quatre secondes, roulait un instant ; puis ça s’arrêtait et ça reprenait, juste le petit frisson qui secoue les chiens perdus, quand ils ont froid l’hiver, sous une porte. Déjà le ventre et les épaules avaient un frémissement d’eau sur le point de bouillir. Une drôle de démolition tout de même, s’en aller en se tordant, comme une fille à laquelle les chatouilles font de l’effet !
+
+`p00273` Coupeau, cependant, se plaignait d’une voix sourde. Il semblait souffrir beaucoup plus que la veille. Ses plaintes entrecoupées laissaient deviner toutes sortes de maux. Des milliers d’épingles le piquaient. Il avait partout sur la peau quelque chose de pesant ; une bête froide et mouillée se traînait sur ses cuisses et lui enfonçait des crocs dans la chair. Puis, c’étaient d’autres bêtes qui se collaient à ses épaules, en lui arrachant le dos à coups de griffes.
+
+`p00274` — J’ai soif, oh ! j’ai soif ! grognait-il continuellement.
+
+`p00275` L’interne prit un pot de limonade sur une planchette et le lui donna. Il saisit le pot à deux mains, aspira goulûment une gorgée, en répandant la moitié du liquide sur lui ; mais il cracha tout de suite la gorgée, avec un dégoût furieux, en criant :
+
+`p00276` — Nom de Dieu ! c’est de l’eau-de-vie !
+
+`p00277` Alors, l’interne, sur un signe du médecin, voulut lui faire boire de l’eau, sans lâcher la carafe. Cette fois, il avala la gorgée, en hurlant, comme s’il avait avalé du feu.
+
+`p00278` — C’est de l’eau-de-vie, nom de Dieu ! c’est de l’eau-de-vie !
+
+`p00279` Depuis la veille, tout ce qu’il buvait était de l’eau-de-vie. Ça redoublait sa soif, et il ne pouvait plus boire, parce que tout le brûlait. On lui avait apporté un potage, mais on cherchait à l’empoisonner bien sûr, car ce potage sentait le vitriol. Le pain était aigre et gâté. Il n’y avait que du poison autour de lui. La cellule puait le soufre. Même il accusait des gens de frotter des allumettes sous son nez pour l’empester.
+
+`p00280` Le médecin venait de se relever et écoutait Coupeau, qui maintenant voyait de nouveau des fantômes en plein midi. Est-ce qu’il ne croyait pas apercevoir sur les murs des toiles d’araignée grandes comme des voiles de bateau ! Puis, ces toiles devenaient des filets avec des mailles qui se rétrécissaient et s’allongeaient, un drôle de joujou ! Des boules noires voyageaient dans les mailles, de vraies boules d’escamoteur, d’abord grosses comme des billes, puis grosses comme des boulets ; et elles enflaient, et elles maigrissaient, histoire simplement de l’embêter. Tout d’un coup, il cria :
+
+`p00281` — Oh ! les rats, v’là les rats, à cette heure !
+
+`p00282` C’étaient les boules qui devenaient des rats. Ces sales animaux grossissaient, passaient à travers le filet, sautaient sur le matelas, où ils s’évaporaient. Il y avait aussi un singe, qui sortait du mur, qui rentrait dans le mur, en s’approchant chaque fois si près de lui, qu’il reculait, de peur d’avoir le nez croqué. Brusquement, ça changea encore ; les murs devaient cabrioler, car il répétait, étranglé de terreur et de rage :
+
+`p00283` — C’est ça, aïe donc ! secouez-moi, je m’en fiche !… Aïe donc ! la cambuse ! aïe donc ! par terre !… Oui, sonnez les cloches, tas de corbeaux ! jouez de l’orgue pour m’empêcher d’appeler la garde !… Et ils ont mis une machine derrière le mur, ces racailles ! Je l’entends bien, elle ronfle, ils vont nous faire sauter… Au feu ! nom de Dieu ! au feu. On crie au feu ! voilà que ça flambe. Oh ! ça s’éclaire, ça s’éclaire ! tout le ciel brûle, des feux rouges, des feux verts, des feux jaunes… À moi ! au secours ! au feu !
+
+`p00284` Ses cris se perdaient dans un râle. Il ne marmottait plus que des mots sans suite, une écume à la bouche, le menton mouillé de salive. Le médecin se frottait le nez avec le doigt, un tic qui lui était sans doute habituel, en face des cas graves. Il se tourna vers l’interne, lui demanda à mi-voix :
+
+`p00285` — Et la température, toujours quarante degrés, n’est-ce pas ?
+
+`p00286` — Oui, monsieur.
+
+`p00287` Le médecin fit une moue. Il demeura encore là deux minutes, les yeux fixés sur Coupeau. Puis, il haussa les épaules, en ajoutant :
+
+`p00288` — Le même traitement, bouillon, lait, limonade citrique, extrait mou de quinquina en potion… Ne le quittez pas, et faites-moi appeler.
+
+`p00289` Il sortit, Gervaise le suivit, pour lui demander s’il n’y avait plus d’espoir. Mais il marchait si raide dans le corridor, qu’elle n’osa pas l’aborder. Elle resta plantée là un instant, hésitant à rentrer voir son homme. La séance lui semblait déjà joliment rude. Comme elle l’entendait crier encore que la limonade sentait l’eau-de-vie, ma foi ! elle fila, ayant assez d’une représentation. Dans les rues, le galop des chevaux et le bruit des voitures lui firent croire que tout Sainte-Anne était à ses trousses. Et ce médecin qui l’avait menacée ! Vrai, elle croyait déjà avoir la maladie.
+
+`p00290` Naturellement, rue de la Goutte-d’Or, les Boche et les autres l’attendaient. Dès qu’elle parut sous la porte, on l’appela dans la loge. Eh bien ! est-ce que le père Coupeau durait toujours ? Mon Dieu ! oui, il durait toujours. Boche semblait stupéfait et consterné : il avait parié un litre que le père Coupeau n’irait pas jusqu’au soir. Comment ! il durait encore ! Et toute la société s’étonnait, en se tapant sur les cuisses. En voilà un gaillard qui résistait ! Madame Lorilleux calcula les heures : trente-six heures et vingt-quatre heures, soixante heures. Sacré mâtin ! soixante heures déjà qu’il jouait des quilles et de la gueule ! On n’avait jamais vu un pareil tour de force. Mais Boche, qui riait jaune à cause de son litre, questionnait Gervaise d’un air de doute, en lui demandant si elle était bien sûre qu’il n’eût pas défilé la parade derrière son dos. Oh ! non, il sautait trop fort, il n’en avait pas envie. Alors, Boche, insistant davantage, la pria de refaire un peu comme il faisait, pour voir. Oui, oui, encore un peu ! à la demande générale ! la société lui disait qu’elle serait bien gentille, car justement il y avait là deux voisines, qui n’avaient pas vu la veille, et qui venaient de descendre exprès pour assister au tableau. Le concierge criait au monde de se ranger, les gens débarrassaient le milieu de la loge, en se poussant du coude, avec un frémissement de curiosité. Cependant, Gervaise baissait la tête. Vrai, elle craignait de se rendre malade. Pourtant, désirant prouver que ce n’était pas histoire de se faire prier, elle commença deux ou trois petits sauts ; mais elle devint toute chose, elle se rejeta en arrière ; parole d’honneur, elle ne pouvait pas ! Un murmure de désappointement courut : c’était dommage, elle imitait ça à la perfection. Enfin, si elle ne pouvait pas ! Et, comme Virginie retournait à sa boutique, on oublia le père Coupeau, pour causer vivement du ménage Poisson, une pétaudière maintenant ; la veille, les huissiers étaient venus ; le sergent de ville allait perdre sa place ; quant à Lantier, il tournait autour de la fille du restaurant d’à côté, une femme magnifique, qui parlait de s’établir tripière. Dame ! on en rigolait, on voyait déjà une tripière installée dans la boutique ; après la friandise, le solide. Ce cocu de Poisson avait une bonne tête, dans tout ça ; comment diable un homme dont le métier était d’être malin, se montrait-il si godiche chez lui ? Mais on se tut brusquement, en apercevant Gervaise, qu’on ne regardait plus, et qui s’essayait toute seule au fond de la loge, tremblant des pieds et des mains, faisant Coupeau. Bravo ! c’était ça, on n’en demandait pas davantage. Elle resta hébétée, ayant l’air de sortir d’un rêve. Puis, elle fila raide. Bien le bonsoir, la compagnie ! elle montait pour tâcher de dormir.
+
+`p00291` Le lendemain, les Boche la virent partir à midi, comme les deux autres jours. Ils lui souhaitaient bien de l’agrément. Ce jour-là, à Sainte-Anne, le corridor tremblait des gueulements et des coups de talon de Coupeau. Elle tenait encore la rampe de l’escalier, qu’elle l’entendit hurler :
+
+`p00292` — En v’là des punaises !… Rappliquez un peu par ici, que je vous désosse !… Ah ! ils veulent m’escoffier, ah ! les punaises ! Je suis plus rupin que vous tous ! Décarrez, nom de Dieu !
+
+`p00293` Un instant, elle souffla devant la porte. Il se battait donc avec une armée ! Quand elle entra, ça croissait et ça embellissait. Coupeau était fou furieux, un échappé de Charenton ! Il se démenait au milieu de la cellule, envoyant les mains partout, sur lui, sur les murs, par terre, culbutant, tapant dans le vide ; et il voulait ouvrir la fenêtre, et il se cachait, se défendait, appelait, répondait, tout seul pour faire ce sabbat, de l’air exaspéré d’un homme cauchemardé par une flopée de monde. Puis, Gervaise comprit qu’il s’imaginait être sur un toit, en train de poser des plaques de zinc. Il faisait le soufflet avec sa bouche, il remuait des fers dans le réchaud, se mettait à genoux, pour passer le pouce sur les bords du paillasson, en croyant qu’il le soudait. Oui, son métier lui revenait, au moment de crever ; et s’il gueulait si fort, s’il se crochait sur son toit, c’était que des mufes l’empêchaient d’exécuter proprement son travail. Sur tous les toits voisins, il y avait de la fripouille qui le mécanisait. Avec ça, ces blagueurs lui lâchaient des bandes de rats dans les jambes. Ah ! les sales bêtes, il les voyait toujours ! Il avait beau les écraser, en frottant son pied sur le sol de toutes ses forces, il en passait de nouvelles ribambelles, le toit en était noir. Est-ce qu’il n’y avait pas des araignées aussi ! Il serrait rudement son pantalon pour tuer contre sa cuisse de grosses araignées, qui s’étaient fourrées là. Sacré tonnerre ! il ne finirait jamais sa journée, on voulait le perdre, son patron allait l’envoyer à Mazas. Alors, en se dépêchant, il crut qu’il avait une machine à vapeur dans le ventre ; la bouche grande ouverte, il soufflait de la fumée, une fumée épaisse qui emplissait la cellule et qui sortait par la fenêtre ; et penché, soufflant toujours, il regardait dehors le ruban de fumée se dérouler, monter dans le ciel, où il cachait le soleil.
+
+`p00294` — Tiens ! cria-t-il, c’est la bande de la chaussée Clignancourt, déguisée en ours, avec des flafla…
+
+`p00295` Il restait accroupi devant la fenêtre, comme s’il avait suivi un cortège dans une rue, du haut d’une toiture.
+
+`p00296` — V’là la cavalcade, des lions et des panthères qui font des grimaces… Il y a des mômes habillés en chiens et en chats… Il y a la grande Clémence, avec sa tignasse pleine de plumes. Ah ! sacredié ! elle fait la culbute, elle montre tout ce qu’elle a !… Dis donc, ma biche, faut nous carapatter… Eh ! bougres de roussins, voulez-vous bien ne pas la prendre !… Ne tirez pas, tonnerre ! ne tirez pas…
+
+`p00297` Sa voix montait, rauque, épouvantée, et il se baissait vivement, répétant que la rousse et les pantalons rouges étaient en bas, des hommes qui le visaient avec des fusils. Dans le mur, il voyait le canon d’un pistolet braqué sur sa poitrine. On venait lui reprendre la fille.
+
+`p00298` — Ne tirez pas, nom de Dieu ! ne tirez pas…
+
+`p00299` Puis, les maisons s’effondraient, il imitait le craquement d’un quartier qui croule ; et tout disparaissait, tout s’envolait. Mais il n’avait pas le temps de souffler, d’autres tableaux passaient, avec une mobilité extraordinaire. Un besoin furieux de parler lui emplissait la bouche de mots, qu’il lâchait sans suite, avec un barbotement de la gorge. Il haussait toujours la voix.
+
+`p00300` — Tiens, c’est toi, bonjour !… Pas de blague ! ne me fais pas manger tes cheveux.
+
+`p00301` Et il passait la main devant son visage, il soufflait pour écarter des poils. L’interne l’interrogea :
+
+`p00302` — Qui voyez-vous donc ?
+
+`p00303` — Ma femme, pardi !
+
+`p00304` Il regardait le mur, tournant le dos à Gervaise.
+
+`p00305` Celle-ci eut un joli trac, et elle examina aussi le mur, pour voir si elle ne s’apercevait pas. Lui, continuait de causer.
+
+`p00306` — Tu sais, ne m’embobine pas… Je ne veux pas qu’on m’attache… Fichtre ! te voilà belle, t’as une toilette chic. Où as-tu gagné ça, vache ! Tu viens de la retape, chameau ! Attends un peu que je t’arrange !… Hein ? tu caches ton monsieur derrière tes jupes. Qu’est-ce que c’est que celui-là ? Fais donc la révérence, pour voir… Nom de Dieu ! c’est encore lui !
+
+`p00307` D’un saut terrible, il alla se heurter la tête contre la muraille ; mais la tenture rembourrée amortit le coup. On entendit seulement le rebondissement de son corps sur le paillasson, où la secousse l’avait jeté.
+
+`p00308` — Qui voyez-vous donc ? répéta l’interne.
+
+`p00309` — Le chapelier ! le chapelier ! hurlait Coupeau.
+
+`p00310` Et, l’interne ayant interrogé Gervaise, celle-ci bégaya sans pouvoir répondre, car cette scène remuait en elle tous les embêtements de sa vie. Le zingueur allongeait les poings.
+
+`p00311` — À nous deux, mon cadet ! Faut que je te nettoie à la fin ! Ah ! tu viens tout de go, avec cette drogue au bras, pour te ficher de moi en public. Eh bien ! je vas t’estrangouiller, oui, oui, moi ! et sans mettre des gants encore !… Ne fais pas le fendant… Empoche ça. Et atout ! atout ! atout !
+
+`p00312` Il lançait ses poings dans le vide. Alors, une fureur s’empara de lui. Ayant rencontré le mur en reculant, il crut qu’on l’attaquait par derrière. Il se retourna, s’acharna sur la tenture. Il bondissait, sautait d’un coin à un autre, tapait du ventre, des fesses, d’une épaule, roulait, se relevait. Ses os mollissaient, ses chairs avaient un bruit d’étoupes mouillées. Et il accompagnait ce joli jeu de menaces atroces, de cris gutturaux et sauvages. Cependant, la bataille devait mal tourner pour lui, car sa respiration devenait courte, ses yeux sortaient de leurs orbites ; et il semblait peu à peu pris d’une lâcheté d’enfant.
+
+`p00313` — À l’assassin ! à l’assassin !… Foutez le camp, tous les deux. Oh ! les salauds, ils rigolent. La voilà les quatre fers en l’air, cette garce !… Il faut qu’elle y passe, c’est décidé… Ah ! le brigand, il la massacre ! Il lui coupe une quille avec son couteau. L’autre quille est par terre, le ventre est en deux, c’est plein de sang… Oh ! mon Dieu, oh ! mon Dieu, oh ! mon Dieu…
+
+`p00314` Et, baigné de sueur, les cheveux dressés sur le front, effrayant, il s’en alla à reculons, en agitant violemment les bras, comme pour repousser l’abominable scène. Il jeta deux plaintes déchirantes, il s’étala à la renverse sur le matelas, dans lequel ses talons s’étaient empêtrés.
+
+`p00315` — Monsieur, monsieur, il est mort ! dit Gervaise, les mains jointes.
+
+`p00316` L’interne s’était avancé, tirant Coupeau au milieu du matelas. Non, il n’était pas mort. On l’avait déchaussé ; ses pieds nus passaient, au bout ; et ils dansaient tout seuls, l’un à côté de l’autre, en mesure, d’une petite danse pressée et régulière.
+
+`p00317` Justement, le médecin entra. Il amenait deux collègues, un maigre et un gras, décorés comme lui. Tous les trois se penchèrent, sans rien dire, regardant l’homme partout ; puis, rapidement, à demi-voix, ils causèrent. Ils avaient découvert l’homme des cuisses aux épaules, Gervaise voyait, en se haussant, ce torse nu étalé. Eh bien ! c’était complet, le tremblement était descendu des bras et monté des jambes, le tronc lui-même entrait en gaieté, à cette heure ! Positivement, le polichinelle rigolait aussi du ventre. C’étaient des risettes le long des côtes, un essoufflement de la berdouille, qui semblait crever de rire. Et tout marchait, il n’y avait pas à dire ! les muscles se faisaient vis-à-vis, la peau vibrait comme un tambour, les poils valsaient en se saluant. Enfin, ça devait être le grand branle-bas, comme qui dirait le galop de la fin, quand le jour paraît et que tous les danseurs se tiennent par la patte en tapant du talon.
+
+`p00318` — Il dort, murmura le médecin en chef.
+
+`p00319` Et il fit remarquer la figure de l’homme aux deux autres. Coupeau, les paupières closes, avait de petites secousses nerveuses qui lui tiraient toute la face. Il était plus affreux encore, ainsi écrasé, la mâchoire saillante, avec le masque déformé d’un mort qui aurait eu des cauchemars. Mais les médecins, ayant aperçu les pieds, vinrent mettre leurs nez dessus, d’un air de profond intérêt. Les pieds dansaient toujours. Coupeau avait beau dormir, les pieds dansaient ! Oh ! leur patron pouvait ronfler, ça ne les regardait pas, ils continuaient leur train-train, sans se presser ni se ralentir. De vrais pieds mécaniques, des pieds qui prenaient leur plaisir où ils le trouvaient.
+
+`p00320` Pourtant, Gervaise, ayant vu les médecins poser leurs mains sur le torse de son homme, voulut le tâter elle aussi. Elle s’approcha doucement, lui appliqua sa main sur une épaule. Et elle la laissa une minute. Mon Dieu ! qu’est-ce qui se passait donc là dedans ? Ça dansait jusqu’au fond de la viande ; les os eux-mêmes devaient sauter. Des frémissements, des ondulations arrivaient de loin, coulaient pareils à une rivière, sous la peau. Quand elle appuyait un peu, elle sentait les cris de souffrance de la moelle. À l’œil nu, on voyait seulement les petites ondes creusant des fossettes, comme à la surface d’un tourbillon ; mais, dans l’intérieur, il devait y avoir un joli ravage. Quel sacré travail ! un travail de taupe ! C’était le vitriol de l’Assommoir qui donnait là-bas des coups de pioche. Le corps entier en était saucé, et dame ! il fallait que ce travail s’achevât, émiettant, emportant Coupeau, dans le tremblement général et continu de toute la carcasse.
+
+`p00321` Les médecins s’en étaient allés. Au bout d’une heure, Gervaise, restée avec l’interne, répéta à voix basse :
+
+`p00322` — Monsieur, monsieur, il est mort…
+
+`p00323` Mais l’interne, qui regardait les pieds, dit non de la tête. Les pieds nus, hors du lit, dansaient toujours. Ils n’étaient guère propres, et ils avaient les ongles longs. Des heures encore passèrent. Tout d’un coup, ils se raidirent, immobiles. Alors, l’interne se tourna vers Gervaise, en disant :
+
+`p00324` — Ça y est.
+
+`p00325` La mort seule avait arrêté les pieds.
+
+`p00326` Quand Gervaise rentra rue de la Goutte-d’Or, elle trouva chez les Boche un tas de commères qui jabotaient d’une voix allumée. Elle crut qu’on l’attendait pour avoir des nouvelles, comme les autres jours.
+
+`p00327` — Il est claqué, dit-elle en poussant la porte, tranquillement, la mine éreintée et abêtie.
+
+`p00328` Mais on ne l’écoutait pas. Toute la maison était en l’air. Oh ! une histoire impayable ! Poisson avait pigé sa femme avec Lantier. On ne savait pas au juste les choses, parce que chacun racontait ça à sa manière. Enfin, il était tombé sur leur dos au moment où les deux autres ne l’attendaient pas. Même on ajoutait des détails que les dames se répétaient en pinçant les lèvres. Une vue pareille, naturellement, avait fait sortir Poisson de son caractère. Un vrai tigre ! Cet homme, peu causeur, qui semblait marcher avec un bâton dans le derrière, s’était mis à rugir et à bondir. Puis, on n’avait plus rien entendu. Lantier devait avoir expliqué l’affaire au mari. N’importe, ça ne pouvait plus aller loin. Et Boche annonçait que la fille du restaurant d’à côté prenait décidément la boutique, pour y installer une triperie. Ce roublard de chapelier adorait les tripes.
+
+`p00329` Cependant, Gervaise, en voyant arriver madame Lorilleux avec madame Lerat, répéta mollement :
+
+`p00330` — Il est claqué… Mon Dieu ! quatre jours à gigoter et à gueuler…
+
+`p00331` Alors, les deux sœurs ne purent pas faire autrement que de tirer leurs mouchoirs. Leur frère avait eu bien des torts, mais enfin c’était leur frère. Boche haussa les épaules, en disant assez haut pour être entendu de tout le monde :
+
+`p00332` — Bah ! c’est un soûlard de moins !
+
+`p00333` Depuis ce jour, comme Gervaise perdait la tête souvent, une des curiosités de la maison était de lui voir faire Coupeau. On n’avait plus besoin de la prier, elle donnait le tableau gratis, tremblement des pieds et des mains, lâchant de petits cris involontaires. Sans doute elle avait pris ce tic-là à Sainte-Anne, en regardant trop longtemps son homme. Mais elle n’était pas chanceuse, elle n’en crevait pas comme lui. Ça se bornait à des grimaces de singe échappé, qui lui faisaient jeter des trognons de choux par les gamins, dans les rues.
+
+`p00334` Gervaise dura ainsi pendant des mois. Elle dégringolait plus bas encore, acceptait les dernières avanies, mourait un peu de faim tous les jours. Dès qu’elle possédait quatre sous, elle buvait et battait les murs. On la chargeait des sales commissions du quartier. Un soir, on avait parié qu’elle ne mangerait pas quelque chose de dégoûtant ; et elle l’avait mangé, pour gagner dix sous. M. Marescot s’était décidé à l’expulser de la chambre du sixième. Mais, comme on venait de trouver le père Bru mort dans son trou, sous l’escalier, le propriétaire avait bien voulu lui laisser cette niche. Maintenant, elle habitait la niche du père Bru. C’était là dedans, sur de la vieille paille, qu’elle claquait du bec, le ventre vide et les os glacés. La terre ne voulait pas d’elle, apparemment. Elle devenait idiote, elle ne songeait seulement pas à se jeter du sixième sur le pavé de la cour, pour en finir. La mort devait la prendre petit à petit, morceau par morceau, en la traînant ainsi jusqu’au bout dans la sacrée existence qu’elle s’était faite. Même on ne sut jamais au juste de quoi elle était morte. On parla d’un froid et chaud. Mais la vérité était qu’elle s’en allait de misère, des ordures et des fatigues de sa vie gâtée. Elle creva d’avachissement, selon le mot des Lorilleux. Un matin, comme ça sentait mauvais dans le corridor, on se rappela qu’on ne l’avait pas vue depuis deux jours ; et on la découvrit déjà verte, dans sa niche.
+
+`p00335` Justement, ce fut le père Bazouge qui vint, avec la caisse des pauvres sous le bras, pour l’emballer. Il était encore joliment soûl, ce jour-là, mais bon zig tout de même, et gai comme un pinson. Quand il eut reconnu la pratique à laquelle il avait affaire, il lâcha des réflexions philosophiques, en préparant son petit ménage.
+
+`p00336` — Tout le monde y passe… On n’a pas besoin de se bousculer, il y a de la place pour tout le monde… Et c’est bête d’être pressé, parce qu’on arrive moins vite… Moi, je ne demande pas mieux que de faire plaisir. Les uns veulent, les autres ne veulent pas. Arrangez un peu ça, pour voir… En v’là une qui ne voulait pas, puis elle a voulu. Alors, on l’a fait attendre… Enfin, ça y est, et, vrai ! elle l’a gagné ! Allons-y gaiement !
+
+`p00337` Et, lorsqu’il empoigna Gervaise dans ses grosses mains noires, il fut pris d’une tendresse, il souleva doucement cette femme qui avait eu un si long béguin pour lui. Puis, en l’allongeant au fond de la bière avec un soin paternel, il bégaya, entre deux hoquets :
+
+`p00338` — Tu sais… écoute bien… c’est moi, Bibi-la-Gaieté, dit le consolateur des dames… Va, t’es heureuse. Fais dodo, ma belle !
