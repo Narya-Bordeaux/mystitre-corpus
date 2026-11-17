@@ -1,0 +1,3431 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-bourgeois-gentilhomme",
+  "sha256": "a5a5b583c1619eb7b16960477e253d58e35d41dfa6417d2993457d2ba693e028",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "ACTE PREMIER."
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "L’ouverture se fait par un grand assemblage d’instruments ; et dans le milieu du théâtre on voit un élève du maître de musique qui compose sur une table un air que le bourgeois a demandé pour une sérénade."
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène I."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "UN MAÎTRE DE MUSIQUE, UN MAÎTRE À DANSER, TROIS MUSICIENS. DEUX VIOLONS, QUATRE DANSEURS."
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", aux musiciens."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Venez, entrez dans cette salle, et vous reposez là, en attendant qu’il vienne."
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", aux danseurs."
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Et vous aussi, de ce côté."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à son élève."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Est-ce fait ?"
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "L’ÉLÈVE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Voyons… Voilà qui est bien."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Est-ce quelque chose de nouveau ?"
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Oui, c’est un air pour une sérénade, que je lui ai fait composer ici, en attendant que notre homme fût éveillé."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Peut-on voir ce que c’est ?"
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Vous l’allez entendre avec le dialogue, quand il viendra. Il ne tardera guère."
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Nos occupations, à vous et à moi, ne sont pas petites maintenant."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Il est vrai. Nous avons trouvé ici un homme comme il nous le faut à tous deux. Ce nous est une douce rente que ce monsieur Jourdain, avec les visions de noblesse et de galanterie qu’il est allé se mettre en tête, et votre danse et ma musique auroient à souhaiter que tout le monde lui ressemblât."
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Non pas entièrement ; et je voudrois, pour lui, qu’il se connût mieux qu’il ne fait aux choses que nous lui donnons."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Il est vrai qu’il les connoît mal, mais il les paie bien ; et c’est de quoi maintenant nos arts ont plus besoin que de toute autre chose."
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Pour moi, je vous l’avoue, je me repais un peu de gloire. Les applaudissements me touchent, et je tiens que, dans tous les beaux-arts, c’est un supplice assez fâcheux que de se produire à des sots, que d’essuyer, sur des compositions, la barbarie d’un stupide. Il y a plaisir, ne m’en parlez point, à travailler pour des personnes qui soient capables de sentir les délicatesses d’un art, qui sachent faire un doux accueil aux beautés d’un ouvrage, et, par de chatouillantes approbations, vous régaler de votre travail. Oui, la récompense la plus agréable qu’on puisse recevoir des choses que l’on fait, c’est de les voir connues, de les voir caressées d’un applaudissement qui vous honore. Il n’y a rien, à mon avis, qui nous paie mieux que cela de toutes nos fatigues ; et ce sont des douceurs exquises que des louanges éclairées."
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "J’en demeure d’accord, et je les goûte comme vous. Il n’y a rien assurément qui chatouille davantage que les applaudissements que vous dites ; mais cet encens ne fait pas vivre. Des louanges toutes pures ne mettent point un homme à son aise : il y faut mêler du solide ; et la meilleure façon de louer, c’est de louer avec les mains. C’est un homme, à la vérité, dont les lumières sont petites, qui parle à tort et à travers de toutes choses, et n’applaudit qu’à contre-sens ; mais son argent redresse les jugements de son esprit ; il a du discernement dans sa bourse ; ses louanges sont monnoyées ; et ce bourgeois ignorant nous vaut mieux, comme vous voyez, que le grand seigneur éclairé qui nous a introduits ici."
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Il y a quelque chose de vrai dans ce que vous dites ; mais Je trouve que vous appuyez un peu trop sur l’argent ; et l’intérêt est quelque chose de si bas, qu’il ne faut jamais qu’un honnête homme montre pour lui de l’attachement."
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Vous recevez fort bien pourtant l’argent que notre homme vous donne."
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Assurément ; mais je n’en fais pas tout mon bonheur ; et je voudrois qu’avec son bien il eût encore quelque bon goût des choses."
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Je le voudrois aussi ; et c’est à quoi nous travaillons tous deux autant que nous pouvons. Mais, en tout cas, il nous donne moyen de nous faire connoître dans le monde ; et il paiera pour les autres ce que les autres loueront pour lui."
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Le voilà qui vient."
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène II."
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "MONSIEUR JOURDAIN, en robe de chambre et en bonnet de nuit ; LE MAÎTRE DE MUSIQUE, LE MAÎTRE À DANSER, L’ÉLÈVE du maître de musique, UNE MUSICIENNE, DEUX MUSICIENS, DANSEURS, DEUX LAQUAIS."
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Hé bien, messieurs ? Qu’est-ce ? Me ferez-vous voir votre petite drôlerie ?"
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Comment ? Quelle petite drôlerie ?"
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Hé ! la… Comment appelez-vous cela ? Votre prologue ou dialogue de chansons et de danse."
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Ah ! ah !"
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Vous nous y voyez préparés."
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je vous ai fait un peu attendre ; mais c’est que je me fais habiller aujourd’hui comme les gens de qualité ; et mon tailleur m’a envoyé des bas de soie que j’ai pensé ne mettre jamais."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Nous ne sommes ici que pour attendre votre loisir."
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je vous prie tous deux de ne vous point en aller qu’on ne m’ait apporté mon habit, afin que vous me puissiez voir."
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Tout ce qu’il vous plaira."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Vous me verrez équipé comme il faut, depuis les pieds jusqu’à la tête."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Nous n’en doutons point."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je me suis fait faire cette indienne-ci."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Elle est fort belle."
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Mon tailleur m’a dit que les gens de qualité étoient comme cela le matin."
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Cela vous sied à merveille."
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Laquais ! holà, mes deux laquais !"
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER LAQUAIS",
+      "lines": [
+        "Que voulez-vous, monsieur ?"
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Rien. C’est pour voir si vous m’entendez bien. (Au maître de musique et au maître à danser.) Que dites-vous de mes livrées ?"
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Elles sont magnifiques."
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", entr’ouvrant sa robe, et faisant voir son haut-de-chausses étroit de velours rouge, et sa camisole de velours vert."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voici encore un petit déshabillé pour faire le matin mes exercices."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Il est galant."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Laquais !"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER LAQUAIS",
+      "lines": [
+        "Monsieur."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "L’autre laquais !"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SECOND LAQUAIS",
+      "lines": [
+        "Monsieur."
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", ôtant sa robe de chambre."
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Tenez ma robe. (Au maître de musique et au maître à danser.) Me trouvez-vous bien comme cela ?"
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Fort bien. On ne peut pas mieux."
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voyons un peu votre affaire."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Je voudrois bien auparavant vous faire entendre un air (montrant son élève) qu’il vient de composer pour la sérénade que vous m’avez demandée. C’est un de mes écoliers, qui a pour ces sortes de choses un talent admirable."
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui, mais il ne falloit pas faire faire cela par un écolier ; et vous n’étiez pas trop bon vous-même pour cette besogne-là."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Il ne faut pas, monsieur, que le nom d’écolier vous abuse. Ces sortes d’écoliers en savent autant que les plus grands maîtres ; et l’air est aussi beau qu’il s’en puisse faire. Écoutez seulement."
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à ses laquais."
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Donnez-moi ma robe, pour mieux entendre… Attendez, je crois que je serai mieux sans robe. Non, redonnez-la-moi ; cela ira mieux."
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "Je languis nuit et jour, et mon mal est extrême",
+        "Depuis qu’à vos rigueurs vos beaux yeux m’ont soumis.",
+        "Si vous traitez ainsi, belle Iris, qui vous aime,",
+        "Hélas ! que pourriez-vous faire à vos ennemis ?"
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Cette chanson me semble un peu lugubre ; elle endort, et je voudrois que vous la pussiez un peu ragaillardir par-ci par-là."
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Il faut, monsieur, que l’air soit accommodé aux paroles."
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "On m’en apprit un tout à fait joli, il y a quelque temps. Attendez… la… Comment est-ce qu’il dit ?"
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Par ma foi, je ne sais."
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Il y a du mouton dedans."
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Du mouton ?"
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui. Ah !"
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "(Il chante.)"
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je croyois Jeanneton",
+        "Aussi douce que belle ;",
+        "Je croyois Jeanneton",
+        "Plus douce qu’un mouton.",
+        "Hélas ! hélas !",
+        "Elle est cent fois, mille fois plus cruelle",
+        "Que n’est le tigre aux bois."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "N’est-il pas joli ?"
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Le plus joli du monde."
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Et vous le chantez bien."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "C’est sans avoir appris la musique."
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Vous devriez l’apprendre, monsieur, comme vous faites la danse. Ce sont deux arts qui ont une étroite liaison ensemble."
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Et qui ouvrent l’esprit d’un homme aux belles choses."
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Est-ce que les gens de qualité apprennent aussi la musique ?"
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Oui, monsieur."
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je l’apprendrai donc. Mais je ne sais quel temps je pourrai prendre ; car, outre le maître d’armes qui me montre, j’ai arrêté encore un maître de philosophie qui doit commencer ce matin."
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "La philosophie est quelque chose ; mais la musique, monsieur, la musique…"
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAÎTRE À DANSER",
+      "lines": [
+        "La musique et la danse… La musique et la danse, c’est là tout ce qu’il faut."
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Il n’y a rien qui soit si utile dans un État que la musique."
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Il n’y a rien qui soit si nécessaire aux hommes que la danse."
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Sans la musique, un État ne peut subsister,"
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Sans la danse, un homme ne sauroit rien faire."
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Tous les désordres, toutes les guerres qu’on voit dans le monde, n’arrivent que pour n’apprendre pas la musique."
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Tous les malheurs des hommes, tous les revers funestes dont les histoires sont remplies, les bévues des politiques, et les manquements des grands capitaines, tout cela n’est venu que faute de savoir danser."
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Comment cela ?"
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "La guerre ne vient-elle pas d’un manque d’union entre les hommes ?"
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Cela est vrai."
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Et si tous les hommes apprenoient la musique, ne seroit-ce pas le moyen de s’accorder ensemble, et de voir dans le monde la paix universelle ?"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Vous avez raison."
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Lorsqu’un homme a commis un manquement dans sa conduite, soit aux affaires de sa famille, ou au gouvernement d’un État, ou au commandement d’une armée, ne dit-on pas toujours : Un tel a fait un mauvais pas dans telle affaire ?"
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui, on dit cela."
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Et faire un mauvais pas peut-il procéder d’autre chose que de ne savoir pas danser ?"
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Cela est vrai, et vous avez raison tous deux."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "C’est pour vous faire voir l’excellence et l’utilité de la danse et de la musique."
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je comprends cela à cette heure."
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Voulez-vous voir nos deux affaires ?"
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Je vous l’ai déjà dit, c’est un petit essai que j’ai fait autrefois des diverses passions que peut exprimer la musique."
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Fort bien."
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", aux musiciens."
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Allons, avancez, (À monsieur Jourdain.) Il faut vous figurer qu’ils sont habillés en bergers."
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Pourquoi toujours des bergers ? On ne voit que cela partout."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Lorsqu’on a des personnes à faire parler en musique, il faut bien que, pour la vraisemblance, on donne dans la bergerie. Le chant a été de tout temps affecté aux bergers ; et il n’est guère naturel, en dialogue, que des princes ou des bourgeois chantent leurs passions."
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Passe, passe. Voyons."
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "DIALOGUE EN MUSIQUE."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "UNE MUSICIENNE ET DEUX MUSICIENS."
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "Un cœur, dans l’amoureux empire,",
+        "De mille soins est toujours agité.",
+        "On dit qu’avec plaisir on languit, on soupire,",
+        "Mais quoi qu’on puisse dire,",
+        "Il n’est rien de si doux que notre liberté."
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "PREMIER MUSICIEN",
+      "lines": [
+        "Il n’est rien de si doux que les tendres ardeurs",
+        "Qui font vivre deux cœurs",
+        "Dans une même envie ;",
+        "On ne peut être heureux sans amoureux désirs.",
+        "Ôtez l’amour de la vie,",
+        "Vous en ôtez les plaisirs."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SECOND MUSICIEN",
+      "lines": [
+        "Il seroit doux d’entrer sous l’amoureuse loi,",
+        "Si l’on trouvoit en amour de la foi ;",
+        "Mais, hélas ! ô rigueur cruelle !",
+        "On ne voit point de bergère fidèle ;",
+        "Et ce sexe inconstant, trop indigne du jour,",
+        "Doit faire pour jamais renoncer à l’amour."
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "PREMIER MUSICIEN",
+      "lines": [
+        "Aimable ardeur !"
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "Franchise heureuse !"
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SECOND MUSICIEN",
+      "lines": [
+        "Sexe trompeur !"
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "PREMIER MUSICIEN",
+      "lines": [
+        "Que tu m’es précieuse !"
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "Que tu plais à mon cœur !"
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SECOND MUSICIEN",
+      "lines": [
+        "Que tu me fais d’horreur !"
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER MUSICIEN",
+      "lines": [
+        "Ah ! quitte, pour aimer cette haine mortelle !"
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "On peut, on peut te montrer",
+        "Une bergère fidèle."
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SECOND MUSICIEN",
+      "lines": [
+        "Hélas ! où la rencontrer ?"
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "Pour défendre notre gloire,",
+        "Je te veux offrir mon cœur."
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SECOND MUSICIEN",
+      "lines": [
+        "Mais, bergère, puis-je croire",
+        "Qu’il ne sera point trompeur ?"
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNE",
+      "lines": [
+        "Voyons, par expérience,",
+        "Qui des deux aimera mieux."
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SECOND MUSICIEN",
+      "lines": [
+        "Qui manquera de constance,",
+        "Le puissent perdre les dieux !"
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "TOUS TROIS ENSEMBLE",
+      "lines": [
+        "À des ardeurs si belles",
+        "Laissons-nous enflammer ;",
+        "Ah ! qu’il est doux d’aimer",
+        "Quand deux cœurs sont fidèles ?"
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Est-ce tout ?"
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE DE MUSIQUE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je trouve cela bien troussé, et il y a là dedans de petits dictons assez jolis."
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Voici, pour mon affaire, un petit essai des plus beaux mouvements et des plus belles attitudes dont une danse puisse être variée."
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Sont-ce encore des bergers ?"
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "C’est ce qu’il vous plaira, (aux danseurs.) Allons."
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "ENTRÉE DE BALLET."
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LE MAÎTRE À DANSER",
+      "lines": [
+        "Quatre danseurs exécutent tous les mouvements différents et toutes les sortes de pas que le maître à danser leur commande."
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "fin du premier acte."
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "ACTE CINQUIÈME."
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène I."
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "MADAME JOURDAIN, MONSIEUR JOURDAIN."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Ah ! mon Dieu, miséricorde ! Qu’est-ce que c’est donc que cela ? Quelle figure ! Est-ce un momon que vous allez porter, et est-il temps d’aller en masque ? Parlez donc, qu’est-ce que c’est que ceci ? Qui vous a fagoté comme cela ?"
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voyez l’impertinente, de parler de la sorte à un mamamouchi !"
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Comment donc ?"
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui, il me faut porter du respect maintenant, et l’on vient de me faire mamamouchi."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Que voulez-vous dire avec votre mamamouchi ?"
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Mamamouchi, vous dis-je. Je suis mamamouchi."
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Quelle bête est-ce là ?"
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Mamamouchi, c’est-à-dire, en notre langue, paladin."
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Baladin ! Etes-vous en âge de danser des ballets ?"
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Quelle ignorante ! Je dis paladin : c’est une dignité dont on vient de me faire la cérémonie."
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Quelle cérémonie donc ?"
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Mahameta per Jordina."
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Qu’est-ce que cela veut dire ?"
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Jordina, c’est-à-dire Jourdain."
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Hé bien ? quoi, Jourdain ?"
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voler far un paladina de Jordina."
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Comment ?"
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Dar turbanta con galera."
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Qu’est-ce à dire, cela ?"
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Per deffender Palestina."
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Que voulez-vous donc dire ?"
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Dara, dara bastonnara."
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Qu’est-ce donc que ce jargon-là ?"
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Non tener honta, questa star l’ultima affronta."
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Qu’est-ce que c’est donc que tout cela ?"
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", chantant et dansant."
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Hou la ba, ba la chou, ba la ba, ba la da."
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "(Il tombe par terre.)"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Hélas ! mon Dieu ! mon mari est devenu fou !"
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se relevant et s’en allant."
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Paix, insolente. Portez respect à monsieur le mamamouchi."
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", seule."
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Où est-ce donc qu’il a perdu l’esprit ? Courons l’empêcher de sortir. (Apercevant Dorimène et Dorante.) Ah ! ah ! voici justement le reste de notre écu. Je ne vois que chagrin de tous côtés."
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène II."
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DORANTE, DORIMÈNE."
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Oui, madame, vous verrez la plus plaisante chose qu’on puisse voir ; et je ne crois pas que dans tout le monde il soit possible de trouver encore un homme aussi fou que celui-là. Et puis, madame, il faut tâcher de servir l’amour de Cléonte, et d’appuyer toute sa mascarade. C’est un fort galant homme, et qui mérite que l’on s’intéresse pour lui."
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "J’en fais beaucoup de cas, et il est digne d’une bonne fortune."
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Outre cela, nous avons ici, madame, un ballet qui nous revient, que nous ne devons pas laisser perdre ; et il faut bien voir si mon idée pourra réussir."
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "J’ai vu là des apprêts magnifiques, et ce sont des choses, Dorante, que je ne puis plus souffrir. Oui, je veux enfin vous empêcher vos profusions ; et, pour rompre le cours à toutes les dépenses que je vous vois faire pour moi, j’ai résolu de me marier promptement avec vous. C’en est le vrai secret, et toutes ces choses unissent avec le mariage, comme vous savez."
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Ah ! madame, est-il possible que vous ayez pu prendre pour moi une si douce résolution ?"
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "Ce n’est que pour vous empêcher de vous ruiner ; et, sans cela, je vois bien qu’avant qu’il fût peu vous n’auriez pas un sou."
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Que j’ai d’obligation, madame, aux soins que vous avez de conserver mon bien ! Il est entièrement à vous, aussi bien que mon cœur ; et vous en userez de la façon qu’il vous plaira."
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMENE",
+      "lines": [
+        "J’userai bien de tous les deux. Mais voici votre homme : la figure en est admirable."
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène III."
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "MONSIEUR JOURDAIN, DORIMÈNE, DORANTE."
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Monsieur, nous venons rendre hommage, madame et moi, à votre nouvelle dignité, et nous réjouir avec vous du mariage que vous faites de votre fille avec le fils du Grand Turc."
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", après avoir fait les révérences à la turque."
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Monsieur, je vous souhaite la force des serpents et la prudence des lions."
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "J’ai été bien aise d’être des premières, monsieur, à venir vous féliciter du haut degré de gloire où vous êtes monté."
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Madame, je vous souhaite toute l’année votre rosier fleuri. Je vous suis infiniment obligé de prendre part aux honneurs qui m’arrivent ; et j’ai beaucoup de joie de vous voir revenue ici, pour vous faire les très humbles excuses de l’extravagance de ma femme."
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "Cela n’est rien ; j’excuse en elle un pareil mouvement : votre cœur lui doit être précieux ; et il n’est pas étrange que la possession d’un homme comme vous puisse inspirer quelques alarmes."
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "La possession de mon cœur est une chose qui vous est tout acquise."
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Vous voyez, madame, que monsieur Jourdain n’est pas de ces gens que les prospérités aveuglent, et qu’il sait, dans sa grandeur, connoître encore ses amis."
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "C’est la marque d’une ame tout à fait généreuse."
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Où est donc Son Altesse turque ? nous voudrions bien, comme vos amis, lui rendre nos devoirs."
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Le voilà qui vient ; et j’ai envoyé quérir ma fille pour lui donner la main."
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène IV."
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "MONSIEUR JOURDAIN, DORIMÈNE, DORANTE, CLÉONTE, habillé en Turc."
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Cléonte."
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Monsieur, nous venons faire la révérence à Votre Altesse, comme amis de monsieur votre beau-père, et l’assurer avec respect de nos très humbles services."
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Où est le truchement, pour lui dire qui vous êtes, et lui faire entendre ce que vous dites ? Vous verrez qu’il vous répondra ; et il parle turc à merveille, (À cléonte.) Holà ! où diantre est-il allé ? Strouf, strif, strof, straf. Monsieur est un grande segnore, grande segnore, grande segnore ; et madame, une granda dama, granda dama. (Voyant qu’il ne se fait point entendre.) Ah ! (À Cléonte, montrant Dorante.) Monsieur, lui mamamouchi françois, et madame mamamouchie françoise. Je ne puis pas parler plus clairement. Bon ! voici l’interprète."
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène V."
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "MONSIEUR JOURDAIN, DORIMÈNE, DORANTE ; CLÉONTE, habillé en Turc ; COVIELLE, déguisé."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "OÙ allez-vous donc ? nous ne saurions rien dire sans vous. (Montrant Cléonte.) Dites-lui un peu que monsieur et madame sont des personnes de grande qualité, qui lui viennent faire la révérence, comme mes amis, et l’assurer de leurs services. (À Doriméne et à Dorante.) Vous allez voir comme il va répondre."
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Alabala crociam acci boram alabamen."
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "CLÉONTE",
+      "lines": [
+        "Catalequi tubal ourin soter amalouchan."
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Dorimène et à Dorante."
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voyez-vous ?"
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Il dit que la pluie des prospérités arrose en tout temps le jardin de votre famille."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je vous l’avois bien dit, qu’il parle turc."
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Cela est admirable."
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène VI."
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "LUCILE, CLÉONTE, MONSIEUR JOURDAIN, DORIMÈNE, DORANTE, COVIELLE."
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Venez, ma fille ; approchez-vous, et venez donner votre main à monsieur, qui vous fait l’honneur de vous demander en mariage."
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "Comment ! mon père, comme vous voilà fait ! est-ce une comédie que vous jouez ?"
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Non, non, ce n’est pas une comédie ; c’est une affaire fort sérieuse, et la plus pleine d’honneur pour vous qui se peut souhaiter. (Montrant cléonte.) Voilà le mari que je vous donne."
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "À moi, mon père ?"
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui, à vous. Allons, touchez-lui dans la main, et rendez graces au ciel de votre bonheur."
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "Je ne veux point me marier."
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je le veux, moi, qui suis votre père."
+      ]
+    },
+    {
+      "id": "p00223",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "Je n’en ferai rien."
+      ]
+    },
+    {
+      "id": "p00224",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Ah ! que de bruit ! Allons, vous dis-je. Çà, votre main."
+      ]
+    },
+    {
+      "id": "p00225",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "Non, mon père ; je vous l’ai dit, il n’est point de pouvoir qui me puisse obliger à prendre un autre mari que Cléonte ; et je me résoudrai plutôt à toutes les extrémités, que de… (Reconnoissant Cléonte.) Il est vrai que vous êtes mon père ; je vous dois entière obéissance ; et c’est à vous à disposer de moi selon vos volontés."
+      ]
+    },
+    {
+      "id": "p00226",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Ah ! je suis ravi de vous voir si promptement revenue dans votre devoir ; et voilà qui me plaît, d’avoir une fille obéissante."
+      ]
+    },
+    {
+      "id": "p00227",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène VII."
+      ]
+    },
+    {
+      "id": "p00228",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "MADAME JOURDAIN, CLÉONTE, MONSIEUR JOURDAIN, LUCILE, DORANTE, DORIMÈNE, COVIELLE."
+      ]
+    },
+    {
+      "id": "p00229",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Comment donc ? qu’est-ce que c’est que ceci ? on dit que vous voulez donner votre fille en mariage à un carême-prenant."
+      ]
+    },
+    {
+      "id": "p00230",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voulez-vous vous taire, impertinente ? Vous venez toujours mêler vos extravagances à toutes choses ; et il n’y a pas moyen de vous apprendre à être raisonnable."
+      ]
+    },
+    {
+      "id": "p00231",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "C’est vous qu’il n’y a pas moyen de rendre sage ; et vous allez de folie en folie. Quel est votre dessein, et que voulez-vous faire avec cet assemblage ?"
+      ]
+    },
+    {
+      "id": "p00232",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je veux marier notre fille avec le fils du Grand Turc."
+      ]
+    },
+    {
+      "id": "p00233",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Avec le fils du Grand Turc ?"
+      ]
+    },
+    {
+      "id": "p00234",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant Covielle."
+      ]
+    },
+    {
+      "id": "p00235",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Oui. Faites-lui faire vos compliments par le truchement que voilà."
+      ]
+    },
+    {
+      "id": "p00236",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je n’ai que faire du truchement, et je lui dirai bien, moi-même, à son nez, qu’il n’aura point ma fille."
+      ]
+    },
+    {
+      "id": "p00237",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voulez-vous vous taire, encore une fois ?"
+      ]
+    },
+    {
+      "id": "p00238",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Comment ! madame Jourdain, vous vous opposez à un honneur comme celui-là ? vous refusez Son Altesse turque pour gendre ?"
+      ]
+    },
+    {
+      "id": "p00239",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Mon Dieu ! monsieur, mélez-vous de vos affaires."
+      ]
+    },
+    {
+      "id": "p00240",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORIMÈNE",
+      "lines": [
+        "C’est une grande gloire qui n’est pas à rejeter."
+      ]
+    },
+    {
+      "id": "p00241",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Madame, je vous prie aussi de ne vous point embarrasser de ce qui ne vous touche pas."
+      ]
+    },
+    {
+      "id": "p00242",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "C’est l’amitié que nous avons pour vous qui nous fait intéresser dans vos avantages."
+      ]
+    },
+    {
+      "id": "p00243",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je me passerai bien de votre amitié."
+      ]
+    },
+    {
+      "id": "p00244",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Voilà votre fille qui consent aux volontés de son père."
+      ]
+    },
+    {
+      "id": "p00245",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Ma fille consent à épouser un Turc ?"
+      ]
+    },
+    {
+      "id": "p00246",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Sans doute."
+      ]
+    },
+    {
+      "id": "p00247",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Elle peut oublier Cléonte ?"
+      ]
+    },
+    {
+      "id": "p00248",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Que ne fait-on pas pour être grand’dame ?"
+      ]
+    },
+    {
+      "id": "p00249",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je l’étranglerois de mes mains, si elle avoit fait un coup comme celui-là."
+      ]
+    },
+    {
+      "id": "p00250",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voilà bien du caquet ! Je vous dis que ce mariage-le se fera."
+      ]
+    },
+    {
+      "id": "p00251",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je vous dis, moi, qu’il ne se fera point."
+      ]
+    },
+    {
+      "id": "p00252",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Ah ! que de bruit !"
+      ]
+    },
+    {
+      "id": "p00253",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "Ma mère !"
+      ]
+    },
+    {
+      "id": "p00254",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Allez ! vous êtes une coquine."
+      ]
+    },
+    {
+      "id": "p00255",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à madame Jourdain."
+      ]
+    },
+    {
+      "id": "p00256",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Quoi ! vous la querellez de ce qu’elle, m’obéit ?"
+      ]
+    },
+    {
+      "id": "p00257",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Oui ; elle est à moi aussi bien qu’à vous."
+      ]
+    },
+    {
+      "id": "p00258",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à madame Jourdain."
+      ]
+    },
+    {
+      "id": "p00259",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Madame !"
+      ]
+    },
+    {
+      "id": "p00260",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Que me voulez-vous conter, vous ?"
+      ]
+    },
+    {
+      "id": "p00261",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Un mot."
+      ]
+    },
+    {
+      "id": "p00262",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je n’ai que faire de votre mot."
+      ]
+    },
+    {
+      "id": "p00263",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à monsieur Jourdain."
+      ]
+    },
+    {
+      "id": "p00264",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Monsieur, si elle veut écouter une parole en particulier, je vous promets de la faire consentir à ce que vous voulez."
+      ]
+    },
+    {
+      "id": "p00265",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je n’y consentirai point."
+      ]
+    },
+    {
+      "id": "p00266",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Écoutez-moi seulement."
+      ]
+    },
+    {
+      "id": "p00267",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00268",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à madame Jourdain."
+      ]
+    },
+    {
+      "id": "p00269",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Écoutez-le."
+      ]
+    },
+    {
+      "id": "p00270",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Non ; je ne veux pas l’écouter."
+      ]
+    },
+    {
+      "id": "p00271",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Il vous dira…"
+      ]
+    },
+    {
+      "id": "p00272",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je ne veux point qu’il me dise rien."
+      ]
+    },
+    {
+      "id": "p00273",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Voilà une grande obstination de femme ! Cela vous fera-t-il mal de l’entendre ?"
+      ]
+    },
+    {
+      "id": "p00274",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Ne faites que m’écouter ; vous ferez après ce qu’il vous plaira."
+      ]
+    },
+    {
+      "id": "p00275",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Hé bien ! quoi ?"
+      ]
+    },
+    {
+      "id": "p00276",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à madame Jourdain."
+      ]
+    },
+    {
+      "id": "p00277",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Il y a une heure, madame, que nous vous faisons signe. Ne voyez-vous pas bien que tout ceci n’est fait que pour nous ajuster aux visions de votre mari ; que nous l’abusons sous ce déguisement, et que c’est Cléonte lui-même qui est le fils du Grand Turc ?…"
+      ]
+    },
+    {
+      "id": "p00278",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, a Covielle."
+      ]
+    },
+    {
+      "id": "p00279",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Ah ! ah !"
+      ]
+    },
+    {
+      "id": "p00280",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à madame Jourdain."
+      ]
+    },
+    {
+      "id": "p00281",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Et moi, Covielle, qui suis le truchement."
+      ]
+    },
+    {
+      "id": "p00282",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à Covielle."
+      ]
+    },
+    {
+      "id": "p00283",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Ah ! comme cela, je me rends."
+      ]
+    },
+    {
+      "id": "p00284",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à madame Jourdain."
+      ]
+    },
+    {
+      "id": "p00285",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Ne faites pas semblant de rien."
+      ]
+    },
+    {
+      "id": "p00286",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", haut."
+      ]
+    },
+    {
+      "id": "p00287",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Oui, voilà qui est fait, je consens au mariage."
+      ]
+    },
+    {
+      "id": "p00288",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Ah ! voilà tout le monde raisonnable, (à madame Jourdain.) Vous ne vouliez pas l’écouter. Je savois bien qu’il vous expliqueroit ce que c’est que le fils du Grand Turc."
+      ]
+    },
+    {
+      "id": "p00289",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Il me l’a expliqué comme il faut, et j’en suis satisfaite. Envoyons quérir un notaire."
+      ]
+    },
+    {
+      "id": "p00290",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "C’est fort bien dit. Et afin, madame Jourdain, que vous puissiez avoir l’esprit tout à fait content, et que vous perdiez aujourd’hui toute la jalousie que vous pourriez avoir conçue de monsieur votre mari, c’est que nous nous servirons du même notaire pour nous marier, madame et moi."
+      ]
+    },
+    {
+      "id": "p00291",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Je consens aussi à cela."
+      ]
+    },
+    {
+      "id": "p00292",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à Dorante."
+      ]
+    },
+    {
+      "id": "p00293",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "C’est pour lui faire accroire."
+      ]
+    },
+    {
+      "id": "p00294",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à monsieur Jourdain."
+      ]
+    },
+    {
+      "id": "p00295",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Il faut bien l’amuser avec cette feinte."
+      ]
+    },
+    {
+      "id": "p00296",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas."
+      ]
+    },
+    {
+      "id": "p00297",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Bon, bon ! (Haut.) Qu’on aille quérir le notaire."
+      ]
+    },
+    {
+      "id": "p00298",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DORANTE",
+      "lines": [
+        "Tandis qu’il viendra et qu’il dressera les contrats, voyons notre ballet, et donnons-en le divertissement à Son Altesse turque."
+      ]
+    },
+    {
+      "id": "p00299",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "C’est fort bien avisé. Allons prendre nos places."
+      ]
+    },
+    {
+      "id": "p00300",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MADAME JOURDAIN",
+      "lines": [
+        "Et Nicole ?"
+      ]
+    },
+    {
+      "id": "p00301",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "MONSIEUR JOURDAIN",
+      "lines": [
+        "Je la donne au truchement ; et ma femme, à qui la voudra."
+      ]
+    },
+    {
+      "id": "p00302",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "Monsieur, je vous remercie, (À part.) Si l’on en peut voir un plus fou, je l’irai dire à Rome."
+      ]
+    },
+    {
+      "id": "p00303",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "COVIELLE",
+      "lines": [
+        "(La comédie finit par un petit ballet qui avoit été préparé.)"
+      ]
+    },
+    {
+      "id": "p00304",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "PREMIÈRE ENTRÉE",
+      "lines": [
+        "Un homme vient donner les livres du ballet, qui d’abord est fatigué par une multitude de gens de provinces différentes, qui crient en musique pour en avoir, et par trois importuns qu’il trouve toujours sur ses pas."
+      ]
+    },
+    {
+      "id": "p00305",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "qui en musique demandent des livres."
+      ]
+    },
+    {
+      "id": "p00306",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TOUS",
+      "lines": [
+        "À moi, monsieur, à moi, de grace, à moi monsieur :",
+        "Un livre, s’il vous plaît, à votre serviteur."
+      ]
+    },
+    {
+      "id": "p00307",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HOMME DU BEL AIR",
+      "lines": [
+        "Monsieur, distinguer-nous parmi les gens qui crient.",
+        "Quelques livres ici ; les dames vous en prient."
+      ]
+    },
+    {
+      "id": "p00308",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "UN AUTRE HOMME DU BEL AIR",
+      "lines": [
+        "Holà, monsieur ! monsieur, ayez la charité",
+        "D’en jeter de notre côté."
+      ]
+    },
+    {
+      "id": "p00309",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "FEMME DU BEL AIR",
+      "lines": [
+        "Mon Dieu, qu’aux personnes bien faites",
+        "On sait peu rendre honneur céans !"
+      ]
+    },
+    {
+      "id": "p00310",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AUTRE FEMME DU BEL AIR",
+      "lines": [
+        "Ils n’ont des livres et des bancs",
+        "Que pour mesdames les grisettes."
+      ]
+    },
+    {
+      "id": "p00311",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "GASCON",
+      "lines": [
+        "Ah ! l’homme aux libres, qu’on m’en vaille.",
+        "J’ai déjà lé poumon usé.",
+        "Bous boyez qué chacun mé raille ;",
+        "Et jé suis escandalisé."
+      ]
+    },
+    {
+      "id": "p00312",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "GASCON",
+      "lines": [
+        "Dé boie es mains de la canaille",
+        "Ce qui m’est par bous réfusé."
+      ]
+    },
+    {
+      "id": "p00313",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AUTRE GASCON",
+      "lines": [
+        "Hé ! cadédis, monseu, boyez qui l’on pût être.",
+        "Un libret, je bous prie, au varon d’Asbarat.",
+        "Jé pensé, mordi, que lé fat",
+        "N’a pas l’honneur dé mé connoître."
+      ]
+    },
+    {
+      "id": "p00314",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE SUISSE",
+      "lines": [
+        "Montsir le donner de papieir,",
+        "Que vuel dire sti façon de fifre ?",
+        "Moi l’écorchair tout mon gosieir",
+        "À crieir,",
+        "Sans que je pouvre afoir ein lifre",
+        "Pardi, mon foi, montsir, je pense fous l’être ifre."
+      ]
+    },
+    {
+      "id": "p00315",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "VIEUX BOURGEOIS BABILLARD",
+      "lines": [
+        "De tout ceci, franc et net,",
+        "Je suis mal satisfait.",
+        "Et cela sans doute est laid,",
+        "Que notre fille",
+        "Si bien faite et si gentille,",
+        "De tant d’amoureux l’objet,",
+        "N’ait pas à son souhait",
+        "Un livre de ballet,",
+        "Pour lire le sujet",
+        "Du divertissement qu’on fait ;",
+        "Et que toute notre famille",
+        "Si proprement s’habille",
+        "Pour être placée au sommet",
+        "De la salle où l’on met",
+        "Les gens de l’entriguet !",
+        "De tout ceci, franc et net,",
+        "Je suis mal satisfait ;",
+        "Et cela sans doute est laid."
+      ]
+    },
+    {
+      "id": "p00316",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "VIEILLE BOURGEOISE BABILLARDE",
+      "lines": [
+        "Il est vrai que c’est une honte ;",
+        "Le sang au visage me monte ;",
+        "Et ce jeteur de vers, qui manque au capital.",
+        "L’entend fort mal :",
+        "C’est un brutal,",
+        "Un vrai cheval,",
+        "Franc animal,"
+      ]
+    },
+    {
+      "id": "p00317",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "VIEILLE BOURGEOISE BABILLARDE",
+      "lines": [
+        "De faire si peu de compte",
+        "D’une fille qui fait l’ornement principal",
+        "Du quartier du Palais-Royal,",
+        "Et que, ces jours passés, un comte",
+        "Fut prendre la première au bal.",
+        "Il l’entend mal,",
+        "C’est un brutal,",
+        "Un vrai cheval,",
+        "Franc animal."
+      ]
+    },
+    {
+      "id": "p00318",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HOMMES ET FEMMES DU BEL AIR",
+      "lines": [
+        "Ah ! quel bruit !",
+        "Quel fracas !",
+        "Quel chaos !",
+        "Quel mélange !",
+        "Quelle confusion !",
+        "Quelle cohue étrange !",
+        "Quel désordre !",
+        "Quel embarras !",
+        "On y sèche.",
+        "L’on n’y tient pas."
+      ]
+    },
+    {
+      "id": "p00319",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "GASCON",
+      "lines": [
+        "Bentré ! je suis à vout."
+      ]
+    },
+    {
+      "id": "p00320",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AUTRE GASCON",
+      "lines": [
+        "J’enrage, Diou mé damne."
+      ]
+    },
+    {
+      "id": "p00321",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE SUISSE",
+      "lines": [
+        "Ah ! que l’y faire saif dans sti sal de cians !"
+      ]
+    },
+    {
+      "id": "p00322",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "GASCON",
+      "lines": [
+        "Je murs !"
+      ]
+    },
+    {
+      "id": "p00323",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AUTRE GASCON",
+      "lines": [
+        "Je perds la tramontane !"
+      ]
+    },
+    {
+      "id": "p00324",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE SUISSE",
+      "lines": [
+        "Mon foi, moi le foudrois être hors de dedans."
+      ]
+    },
+    {
+      "id": "p00325",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "VIEUX BOURGEOIS BABILLARD",
+      "lines": [
+        "Allons, ma mie,",
+        "Suivez mes pas,",
+        "Je vous en prie,",
+        "Et ne me quittez pas.",
+        "On fait de nous trop peu de cas,",
+        "Et je suis las",
+        "De ce tracas.",
+        "Tout ce fracas,"
+      ]
+    },
+    {
+      "id": "p00326",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "VIEUX BOURGEOIS BABILLARD",
+      "lines": [
+        "Cet embarras,",
+        "Me pèse par trop sur les bras.",
+        "S’il me prend jamais envie",
+        "De retourner de ma vie",
+        "À ballet ni comédie,",
+        "Je veux bien qu’on m’estropie.",
+        "Allons, ma mie,",
+        "Suivez mes pas,",
+        "Je vous en prie,",
+        "Et ne me quittez pas.",
+        "On fait de nous trop peu de cas."
+      ]
+    },
+    {
+      "id": "p00327",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "VIEILLE BOURGEOISE BABILLARDE",
+      "lines": [
+        "Allons, mon mignon, mon fils,",
+        "Regagnons notre logis ;",
+        "Et sortons de ce taudis,",
+        "Où l’on ne peut être assis.",
+        "Ils seront bien ébaubis.",
+        "Quand ils nous verront partis.",
+        "Trop de confusion règne dans cette salle,",
+        "Et j’aimerois mieux être au milieu de la Halle.",
+        "Si jamais je reviens à semblable régale,",
+        "Je veux bien recevoir des soufflets plus de six.",
+        "Allons, mon mignon, mon fils,",
+        "Regagnons notre logis ;",
+        "Et sortons de ce taudis,",
+        "Où l’on ne peut être assis."
+      ]
+    },
+    {
+      "id": "p00328",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TOUS",
+      "lines": [
+        "À moi, monsieur, à moi, de grace, à moi, monsieur ;",
+        "Un livre, s’il vous plaît, à vôtre serviteur."
+      ]
+    },
+    {
+      "id": "p00329",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DEUXIÈME ENTREE",
+      "lines": [
+        "Les trois importuns dansent."
+      ]
+    },
+    {
+      "id": "p00330",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", chantants."
+      ]
+    },
+    {
+      "id": "p00331",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TROIS ESPAGNOLS",
+      "lines": [
+        "Se que me muero de amor",
+        "Y solicito el dolor.",
+        "Aun muriendo de querer,",
+        "De tan buen ayre adolezce"
+      ]
+    },
+    {
+      "id": "p00332",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TROIS ESPAGNOLS",
+      "lines": [
+        "Que es mas de lo que padexco,",
+        "Lo que quiero padecer,",
+        "Y no pudiendo excéder",
+        "A mi deseo el rigor.",
+        "Sé que me muero de amor",
+        "Y solicito el dolor.",
+        "Lisonxeame la fuerte",
+        "Con piedad tan advertida,",
+        "Que me assegura la vida",
+        "En el riesgo de la muerte.",
+        "Vivir de su golpe fuerte",
+        "Es de mi salud primor.",
+        "Sé que me muero de amor",
+        "Y solicito el dolor."
+      ]
+    },
+    {
+      "id": "p00333",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "(Six Espagnols dansent)"
+      ]
+    },
+    {
+      "id": "p00334",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TROIS MUSICIENS ESPAGNOLS",
+      "lines": [
+        "Ay ! que locura, con tanto rigor",
+        "Quexarse de Amor,",
+        "Del nino benito",
+        "Que todo es dulzura.",
+        "Ay ! que locura !",
+        "Ay ! que locura !"
+      ]
+    },
+    {
+      "id": "p00335",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", chantant."
+      ]
+    },
+    {
+      "id": "p00336",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ESPAGNOL",
+      "lines": [
+        "El dolor solicita,",
+        "El que al dolor se da :",
+        "Y nadie de amor muere,",
+        "Sino quien no save amar."
+      ]
+    },
+    {
+      "id": "p00337",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DEUX ESPAGNOLS",
+      "lines": [
+        "Dulce muerte es el amor",
+        "Con correspondencia igual ;",
+        "Y si esta gozamos hoy,",
+        "Porque la quieres turbar ?"
+      ]
+    },
+    {
+      "id": "p00338",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "UN ESPAGNOL",
+      "lines": [
+        "Alegrese enamorado",
+        "Y tome mi parecer,",
+        "Que en esto de querer,",
+        "Todo. es hallar el vado."
+      ]
+    },
+    {
+      "id": "p00339",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TOUS TROIS ENSEMBLE",
+      "lines": [
+        "Vaya, vaya de fiestas !",
+        "Vaya de bayle !",
+        "Alegria, alegria, alegria !",
+        "Que esto de dolor es fantasia."
+      ]
+    },
+    {
+      "id": "p00340",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "italiens."
+      ]
+    },
+    {
+      "id": "p00341",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "UNE MUSICIENNE ITALIENNE fait le premier récit dont voici les paroles :"
+      ]
+    },
+    {
+      "id": "p00342",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "QUATRIÈME ENTRÉE",
+      "lines": [
+        "Di rigori armata il seno,",
+        "Contro Amor mi ribellai ;",
+        "Ma fui vinta in un baleno,",
+        "In mirar due vaghi rai.",
+        "Ahi ! che résiste puoco",
+        "Cor di gelo a stral di fuoco ?",
+        "Ma si caro è ’l mio tormento,",
+        "Dolce è si la piaga mia,",
+        "Ch’il penare è ’l mio contento,",
+        "Ahi ! sanarmi è tirannia.",
+        "Ahi ! che più giova e piace,",
+        "Quanto amor è più vivace !"
+      ]
+    },
+    {
+      "id": "p00343",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "QUATRIÈME ENTRÉE",
+      "lines": [
+        "Après l’air que la musicienne a chanté, deux Scaramouches, deux Trivelins et un Arlequin, représentent une nuit à la manière des comédiens italiens, en cadence. Un musicien italien se joint à la musicienne italienne, et chante avec elle les paroles qui suivent :"
+      ]
+    },
+    {
+      "id": "p00344",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LE MUSICIEN ITALIEN",
+      "lines": [
+        "Bel tempo che vole",
+        "Rapisce il contento :",
+        "D’Amor ne la scola",
+        "si coglie il momento."
+      ]
+    },
+    {
+      "id": "p00345",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA MUSICIENNES",
+      "lines": [
+        "Insin che florida",
+        "Ride l’ età,",
+        "Che pur tropp’orrida,",
+        "Da noi sen va :"
+      ]
+    },
+    {
+      "id": "p00346",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TOUS DEUX",
+      "lines": [
+        "Sù cantiamo,",
+        "Sù godiamo",
+        "Ne’ bei di di gioventù ;",
+        "Perduto ben non si racquista più."
+      ]
+    },
+    {
+      "id": "p00347",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "MUSICIEN",
+      "lines": [
+        "Pupilla ch’è vaga",
+        "Mill’ alme ineatena,",
+        "Fa dolce la piaga,",
+        "Felice la pena."
+      ]
+    },
+    {
+      "id": "p00348",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "MUSICIENNE",
+      "lines": [
+        "Ma poichè frigida",
+        "Langue l’ età,",
+        "Più l’ alma rigida",
+        "Fiamme non ha."
+      ]
+    },
+    {
+      "id": "p00349",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "TOUS DEUX",
+      "lines": [
+        "Sù cantiamo,",
+        "Su godiamo",
+        "Ne’ bei di di gioventù ;",
+        "Perduto ben non si racquista più#1."
+      ]
+    },
+    {
+      "id": "p00350",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "TOUS DEUX",
+      "lines": [
+        "Après les dialogues italiens, les Scaramouches et Trivelins dansent une réjouissance."
+      ]
+    },
+    {
+      "id": "p00351",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "françois."
+      ]
+    },
+    {
+      "id": "p00352",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DEUX MUSICIENS POITEVINS dansent, et chantent les paroles qui suivent."
+      ]
+    },
+    {
+      "id": "p00353",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "PREMIER MENUET",
+      "lines": [
+        "Ah ! qu’il fait beau dans ces bocages !",
+        "Ah ! que le ciel donne un beau jour !"
+      ]
+    },
+    {
+      "id": "p00354",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AUTRE MUSICIEN",
+      "lines": [
+        "Le rossignol, sous ces tendres feuillages.",
+        "Chante aux échos son doux retour ;",
+        "Ce beau séjour,",
+        "Ces doux ramages",
+        "Ce beau séjour",
+        "Nous invite à l’amour."
+      ]
+    },
+    {
+      "id": "p00355",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DEUXIEME MENUET. — TOUS DEUX ENSEMBLES",
+      "lines": [
+        "Vois ma Climéne,",
+        "Vois, sous ce chêne.",
+        "S’entre-baiser ces oiseaux amoureux :",
+        "Ils n’ont rien dans leurs vœux",
+        "Qui les gêne ;",
+        "De leurs doux feux",
+        "Leur ame est pleine.",
+        "Qu’ils sont heureux !",
+        "Nous pouvons tous deux"
+      ]
+    },
+    {
+      "id": "p00356",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DEUXIEME MENUET. — TOUS DEUX ENSEMBLES",
+      "lines": [
+        "Si tu le veux,",
+        "Être comme eux."
+      ]
+    },
+    {
+      "id": "p00357",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DEUXIEME MENUET. — TOUS DEUX ENSEMBLES",
+      "lines": [
+        "Six autres François viennent après, vêtus galamment à la poitevine, trois en hommes et trois en femmes, accompagnés de huit flûtes et de hautbois, et dansent les menuets."
+      ]
+    },
+    {
+      "id": "p00358",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "SIXIÈME ENTRÉE."
+      ]
+    },
+    {
+      "id": "p00359",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DEUXIEME MENUET. — TOUS DEUX ENSEMBLES",
+      "lines": [
+        "Tout cela finit par le mélange des trois nations, et les applaudissements en danse et en musique de toute l’assistance, qui chante les deux vers qui suivent :"
+      ]
+    },
+    {
+      "id": "p00360",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DEUXIEME MENUET. — TOUS DEUX ENSEMBLES",
+      "lines": [
+        "Quels spectacles charmants ! quels plaisirs goûtons-nous ;",
+        "Les dieux mêmes, les dieux n’en ont point de plus doux."
+      ]
+    }
+  ]
+}
