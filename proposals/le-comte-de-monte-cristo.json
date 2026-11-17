@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-comte-de-monte-cristo",
+  "title": "Le Comte de Monte-Cristo",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Comte de Monte-Cristo, texte par chapitres sur fr.wikisource (éditeur et date non indiqués)",
+    "pages": [
+      {
+        "title": "Le Comte de Monte-Cristo/Chapitre 1",
+        "revisionId": 4642213
+      },
+      {
+        "title": "Le Comte de Monte-Cristo/Chapitre 117",
+        "revisionId": 3819788
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7b797ec60aebc9e7b7d364e37f888a7a255fe335266f83c04c64dee74d188899"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "Le 24 février 1815, la vigie de Notre-Dame de la Garde signala le trois-mâts le Pharaon, venant de Smyrne, Trieste et Naples.\nComme d’habitude, un pilote côtier partit aussitôt du port, rasa le château d’If, et alla aborder le navire entre le cap de Morgion et l’île de Rion.\nAussitôt, comme d’habitude encore, la plate-forme du fort Saint-Jean s’était couverte de curieux ; car c’est toujours une grande affaire à Marseille que l’arrivée d’un bâtiment, surtout quand ce bâtiment, comme le Pharaon, a été construit, gréé, arrimé sur les chantiers de la vieille Phocée, et appartient à un armateur de…",
+    "original": "Le 24 février 1815, la vigie de Notre-Dame de la Garde signala le trois-mâts le Pharaon, venant de Smyrne, Trieste et Naples.\nComme d’habitude, un pilote côtier partit aussitôt du port, rasa le château d’If, et alla aborder le navire entre le cap de Morgion et l’île de Rion.\nAussitôt, comme d’habitude encore, la plate-forme du fort Saint-Jean s’était couverte de curieux ; car c’est toujours une grande affaire à Marseille que l’arrivée d’un bâtiment, surtout quand ce bâtiment, comme le Pharaon, a été construit, gréé, arrimé sur les chantiers de la vieille Phocée, et appartient à un armateur de la ville.",
+    "length": 599,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00357.s2",
+      "p00358.s1",
+      "p00358.s2",
+      "p00359.s1",
+      "p00360.s1"
+    ],
+    "french": "Adieu, mon ami, mon père !\n— Partie ! murmura Valentine. Adieu, mon amie ! adieu, ma sœur !\n— Qui sait si nous les reverrons jamais ? fit Morrel en essuyant une larme.\n— Mon ami, dit Valentine, le comte ne vient-il pas de nous dire que l’humaine sagesse était tout entière dans ces deux mots :\n— Attendre et espérer !",
+    "original": "Adieu, mon ami, mon père !\n— Partie ! murmura Valentine. Adieu, mon amie ! adieu, ma sœur !\n— Qui sait si nous les reverrons jamais ? fit Morrel en essuyant une larme.\n— Mon ami, dit Valentine, le comte ne vient-il pas de nous dire que l’humaine sagesse était tout entière dans ces deux mots :\n— Attendre et espérer !",
+    "length": 317,
+    "truncated": false
+  }
+}

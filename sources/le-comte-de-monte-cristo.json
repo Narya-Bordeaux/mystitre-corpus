@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-comte-de-monte-cristo",
+  "title": "Le Comte de Monte-Cristo",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Comte de Monte-Cristo, texte par chapitres sur fr.wikisource (éditeur et date non indiqués)",
+  "pages": [
+    {
+      "title": "Le Comte de Monte-Cristo/Chapitre 1",
+      "revisionId": 4642213
+    },
+    {
+      "title": "Le Comte de Monte-Cristo/Chapitre 117",
+      "revisionId": 3819788
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7b797ec60aebc9e7b7d364e37f888a7a255fe335266f83c04c64dee74d188899",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Le 24 février 1815, la vigie de Notre-Dame de la Garde signa"
+  },
+  "bodyEnd": {
+    "id": "p00361",
+    "textPrefix": "— Attendre et espérer !"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de chapitres et mention « fin du comte de monte-cristo ». Œuvre longue : seuls le chapitre 1 et le chapitre 117 sont enregistrés."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
