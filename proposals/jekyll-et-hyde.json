@@ -1,0 +1,56 @@
+{
+  "formatVersion": 1,
+  "bookId": "jekyll-et-hyde",
+  "title": "L’Étrange Cas du docteur Jekyll et de M. Hyde",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Madame B. J. Lowe",
+    "translationYear": 1890,
+    "translatorDeathYear": 1909,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Berthe_Julienne_Low&oldid=11895220",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Madame B. J. Lowe, 1890)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Cas étrange du docteur Jekyll, trad. Mme B. J. Lowe, Paris, Plon, 1890 (Wikisource, textes validés), première et dernière parties",
+    "pages": [
+      {
+        "title": "Le Cas étrange du docteur Jekyll/01",
+        "revisionId": 16073057
+      },
+      {
+        "title": "Le Cas étrange du docteur Jekyll/10",
+        "revisionId": 4961203
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "32a4abacb7b92012e610493a223c0992efdeba9ece1004d050180b5ef0dbee1c"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "M. Utterson, l’avocat, était un homme de rude apparence ; son visage ne s’éclairait jamais d’un sourire ; il était froid, sobre et embarrassé dans ses discours, très réservé, maigre, long, poussiéreux, morne, et ayant malgré cela un certain fonds d’amabilité. Dans une réunion d’amis, et quand le vin était à son goût, quelque chose d’éminemment humain éclairait ses yeux, quelque chose qui ne ressortait jamais dans sa conversation, mais qui se faisait sentir non seulement dans la face pleine de béatitude d’un homme qui vient de bien dîner, mais, le plus souvent et le plus fortement, dans les…",
+    "original": "M. Utterson, l’avocat, était un homme de rude apparence ; son visage ne s’éclairait jamais d’un sourire ; il était froid, sobre et embarrassé dans ses discours, très réservé, maigre, long, poussiéreux, morne, et ayant malgré cela un certain fonds d’amabilité. Dans une réunion d’amis, et quand le vin était à son goût, quelque chose d’éminemment humain éclairait ses yeux, quelque chose qui ne ressortait jamais dans sa conversation, mais qui se faisait sentir non seulement dans la face pleine de béatitude d’un homme qui vient de bien dîner, mais, le plus souvent et le plus fortement, dans les actions de sa vie.",
+    "length": 596,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00066.s9",
+      "p00066.s10",
+      "p00066.s11",
+      "p00066.s12"
+    ],
+    "french": "Ou trouvera-t-il le courage de se libérer au dernier moment ? Dieu le sait, cela m’est égal. Je suis maintenant à l’heure véritable de ma mort, et ce qui suivra concerne un autre que moi. Ici alors, en posant ma plume, et terminant ma confession, j’amène à sa fin la vie de ce malheureux Henry Jekyll.",
+    "original": "Ou trouvera-t-il le courage de se libérer au dernier moment ? Dieu le sait, cela m’est égal. Je suis maintenant à l’heure véritable de ma mort, et ce qui suivra concerne un autre que moi. Ici alors, en posant ma plume, et terminant ma confession, j’amène à sa fin la vie de ce malheureux Henry Jekyll.",
+    "length": 301,
+    "truncated": false
+  }
+}

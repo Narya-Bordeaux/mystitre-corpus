@@ -1,0 +1,537 @@
+{
+  "formatVersion": 1,
+  "bookId": "jekyll-et-hyde",
+  "sha256": "32a4abacb7b92012e610493a223c0992efdeba9ece1004d050180b5ef0dbee1c",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "I",
+        "L’HISTOIRE DE LA PORTE"
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "M. Utterson, l’avocat, était un homme de rude apparence ; son visage ne s’éclairait jamais d’un sourire ; il était froid, sobre et embarrassé dans ses discours, très réservé, maigre, long, poussiéreux, morne, et ayant malgré cela un certain fonds d’amabilité. Dans une réunion d’amis, et quand le vin était à son goût, quelque chose d’éminemment humain éclairait ses yeux, quelque chose qui ne ressortait jamais dans sa conversation, mais qui se faisait sentir non seulement dans la face pleine de béatitude d’un homme qui vient de bien dîner, mais, le plus souvent et le plus fortement, dans les actions de sa vie. Il était austère pour lui-même, buvant du gin quand il était seul, pour mortifier son goût pour le vin. Et quoique aimant le théâtre, il y avait plus de trente ans qu’il n’avait franchi la porte d’aucune salle de spectacle. Mais il avait beaucoup d’indulgence pour les autres, s’étonnant, presque avec un sentiment d’envie, de leurs hauts faits, et au besoin plutôt enclin à leur venir en aide qu’à les blâmer. « Je tombe dans l’hérésie de Caïn, » disait-il bizarrement, « je laisse mes frères aller au diable comme ils l’entendent. Alors il arrivait souvent qu’il se trouvait être la dernière relation avouable et la dernière influence honnête de certains hommes dans leurs dégringolades. Et à ceux-là, aussi longtemps qu’ils le fréquentaient, il ne laissait jamais apercevoir même un soupçon de changement dans ses manières."
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "C’était, sans aucun doute, chose facile pour M. Utterson, car, jusque dans ses meilleurs moments, il n’était aucunement démonstratif. Ses amitiés semblaient fondées sur la même religion de bonhomie. Il acceptait le cercle de ses amis tout prêt formé par les mains du hasard, ce qui est le fait d’une nature simple. Ses amis étaient généralement ses parents ou ceux qui lui avaient été le plus longtemps connus ; ses affections n’étaient le résultat d’aucun choix particulier, comme le lierre, elles croissaient avec le temps. De là, sans aucun doute, le lien qui l’unissait à M. Richard Enfield, son parent éloigné, l’homme bien répandu et connu par la ville. Que pouvait-il y avoir de commun entre ces deux hommes ? C’était là pour beaucoup un sujet de réflexion. Ceux qui les avaient rencontrés dans leurs promenades du dimanche racontaient qu’ils ne se disaient rien, qu’ils avaient l’air passablement ennuyé et qu’ils accueillaient avec un visible soulagement l’apparition d’un ami. Toutefois, ces deux hommes faisaient grand cas de ces excursions ; ils les comptaient comme l’événement de la semaine, et non seulement repoussaient des occasions de plaisir, mais résistaient même aux appels d’affaires pour n’y apporter aucune interruption."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Il arriva que, pendant une de ces promenades, le hasard les amena dans une rue d’un des quartiers les plus populeux et affairés de Londres. Cette petite rue était tranquille, quoique dans la semaine elle fût animée d’un grand mouvement commercial. Ses habitants semblaient être à leur aise et avoir l’espoir de faire mieux encore ; ils employaient le surplus de leurs gains en embellissements, ce qui donnait à toutes les boutiques le long de cette rue un aspect très séduisant, elles se tenaient là comme des rangées de souriantes et jolies vendeuses. Le dimanche, lorsque par conséquent les plus grands charmes de cette petite rue étaient voilés, elle ressortait quand même par contraste de son sombre voisinage ; comme un incendie dans une forêt, elle en était le point lumineux. L’œil du passant était vivement et plaisamment attiré par la vue de ses persiennes fraîchement peintes, et de ses cuivres bien polis, par sa propreté et son air de gaîté."
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "À deux portes du coin de gauche en allant à l’Est, la rangée symétrique des maisons était interrompue par l’entrée d’une cour ; à cet endroit même, un bâtiment d’aspect sinistre projetait son pignon sur la rue. Ce bâtiment à deux étages n’avait aucun indice de fenêtres, rien, qu’une porte au rez-de-chaussée au-dessus de laquelle s’élevait un grand mur décoloré, portant les marques d’une négligence sordide et remontant à de longues années. La porte n’avait ni sonnette ni marteau ; sa peinture, dont le temps avait changé la couleur, était soulevée à de certains endroits comme par des ampoules. Les vagabonds s’abritaient dans ses coins, et faisaient partir leurs allumettes sur les panneaux ; c’était le refuge ordinaire des enfants du quartier, qui essayaient leurs couteaux sur les moulures, et pendant près d’une génération personne ne s’était présenté pour chasser ces visiteurs de hasard, ou réparer leurs ravages."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "M. Enfield et l’avocat marchaient de l’autre côté de la rue ; en arrivant en face dudit bâtiment le premier leva sa canne et le désignant :"
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Avez-vous jamais remarqué cette porte ? » demanda-t-il ; et après avoir reçu une réponse affirmative de son compagnon, il ajouta : « Elle est associée dans mon esprit à une drôle d’histoire. »"
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Vraiment ? » dit M. Utterson. « Qu’est-ce que c’est donc ? »"
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Voilà, » répondit M. Enfield. « Une fois je revenais de très loin et rentrais chez moi vers trois heures du matin ; la nuit était noire et nous étions en hiver ; on ne voyait rien dans le quartier de la ville où je me trouvais, rien que des réverbères ; les habitants dormaient probablement, toutes les rues étaient éclairées comme pour une procession, et toutes étaient aussi vides qu’une église ; cet état de choses finit par m’agacer. Je commençai d’écouter, prêtant l’oreille au moindre bruit, et j’en arrivai à désirer la présence d’un policeman."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Tout à coup j’aperçus un individu de petite taille qui marchait à grands pas, se dirigeant vers l’Est, et en même temps une petite fille qui descendait, en courant de toutes ses forces, une rue transversale. En tournant le coin tous les deux, il leur arriva ce qui devait naturellement arriver, ils se jetèrent l’un sur l’autre ; là mon cher ami, commence la partie horrible de l’histoire. L’homme renversa la petite fille et, au lieu de s’arrêter, lui passa froidement sur le corps, la laissant se débattre et crier sur le sol. À l’entendre, cela n’a l’air de rien ; à le voir, c’était diabolique ; ce n’était pas l’action d’un être humain, mais bien d’un damné Juggernaut. Je m’élançai en jetant un cri d’appel, je rattrapai mon homme, le saisis au collet, et le ramenai à l’endroit où s’était déjà formé un rassemblement autour de l’enfant qui pleurait. Il était parfaitement calme et ne fit aucune résistance, mais il me jeta un regard si méchant qu’il m’en passa une sueur. Les gens qui se trouvaient là étaient les parents de la petite fille, et bientôt apparut le docteur que l’on avait envoyé chercher. L’enfant avait eu plus de peur que de mal, assura-t-il, et l’incident semblait devoir finir là, sans une circonstance curieuse. Mon Monsieur m’avait à première vue inspiré un profond dégoût. Les parents de la petite semblaient aussi éprouver ce sentiment, ce qui de leur part n’était que très naturel ; mais ce qui m’étonna, ce fut le médecin. C’était un homme frappé sur le même moule que tous ses confrères, une espèce d’apothicaire sec, sans âge et sans couleur, possédant un fort accent Édimbourgeois et pas plus enclin à l’émotion qu’une cornemuse. Eh bien ! mon ami, il ressentit le même dégoût que nous tous, et à chaque fois que ses yeux tombaient sur mon prisonnier, je remarquai qu’il devenait pâle et malade de l’envie de le tuer. Je savais ce qui se passait dans son esprit aussi bien que dans le mien, et le meurtre étant hors de question, nous fîmes la seule chose possible. Nous menaçâmes cet homme de faire assez de bruit autour de cette affaire pour mettre son nom à l’index d’un bout de Londres à l’autre, et lui faire perdre ses amis et son crédit, s’il en avait. Pendant que nous jetions feu et flammes, nous étions en même temps obligés de le préserver de la fureur des femmes, lesquelles ressemblaient à des harpies déchaînées. Je ne m’étais jamais trouvé dans un cercle où toutes les figures portaient à un tel degré l’empreinte de la haine ; lui était au milieu du groupe, gardant un air de froideur méprisante (cependant je m’étais aperçu qu’il n’était pas sans crainte), et supportant ces assauts d’un air satanique. « Si vous voulez spéculer sur cet accident, » dit-il, « naturellement je suis sans défense. Tout galant homme évite les scènes. Combien voulez-vous ? » Nous le fîmes monter jusqu’à cent livres, pour la famille de l’enfant ; il se fût probablement esquivé s’il l’eût pu, mais sans doute notre air déterminé à tous le fit à la fin céder. Il n’y avait plus qu’à toucher l’argent ; et où pensez-vous qu’il nous mena ? Ici, à cette porte même, il sortit une clef de sa poche ; entra et revint bientôt avec dix livres en or et un chèque sur Boutt, payable au porteur pour le restant de la somme ; ce chèque était signé d’un nom que je ne veux pas donner, quoique cela soit un des points curieux de mon histoire, d’un nom bien connu et souvent imprimé. Les chiffres avaient été tracés d’une main raide, mais la signature était bonne pour beaucoup plus, si seulement elle était authentique. Je pris la liberté de faire remarquer à mon Monsieur que tout cela était pour le moins fantastique, que dans la vie réelle un homme n’entre pas à quatre heures du matin dans une maison qui ne lui appartient pas, et n’en sort pas avec un chèque de près de cent livres portant la signature d’une autre personne. Mais il paraissait très tranquille et même railleur. « Ne vous tourmentez pas, » dit-il, « je resterai avec vous jusqu’à l’heure de l’ouverture de la banque, et je toucherai le montant moi-même. » Nous nous mîmes alors en route, le docteur, le père de l’enfant et moi ; je les emmenai passer le restant de la nuit dans ma chambre, et le lendemain, après déjeuner, nous nous rendîmes tous ensemble à la banque. Je présentai le chèque moi-même, en faisant observer que j’avais de grands soupçons qu’il était faux ; mais pas du tout, il était bon. »"
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Vraiment ! » fit M. Utterson."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Je vois que, comme moi, » continua M. Enfield, « vous pensez que c’est une vilaine histoire ; d’autant plus vilaine que mon individu est un personnage avec lequel on n’aurait voulu avoir rien de commun, un vrai démon. La signature apposée sur le chèque était celle d’un homme des plus respectables, d’un homme célèbre et (ce qu’il y a de pire) d’un homme connu pour le bien qu’il fait. Ce doit être un cas de chantage, un honnête homme qui paie quelque péché de jeunesse ; en conséquence, j’ai baptisé cet endroit et je l’appelle : la Maison du chantage. Cependant, c’est loin d’expliquer l’affaire, » ajouta-t-il, et après cela il tomba dans une espèce de rêverie."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Il fut tiré de là par une question que lui fit soudainement M. Utterson :"
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Alors, vous ne savez pas si celui qui a émis le chèque demeure ici ? »"
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« C’est un endroit qui lui irait bien, n’est ce pas ? » répondit M. Enfield. « Mais par hasard j’avais remarqué son adresse, il demeure sur un square, je ne me rappelle plus lequel. »"
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Et vous n’avez jamais pris de renseignements sur ce qui peut se trouver derrière cette porte ? » interrogea M. Utterson."
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Mon cher ami, » répondit l’autre, « c’était pour moi une question de discrétion. J’ai toute une théorie à ce propos. Questionner a trop de rapports avec le jugement dernier. Vous posez une première question ; c’est comme si vous étiez paisiblement assis sur le haut d’une colline, vous amusant à faire rouler une pierre ; cette pierre roule en entraînant d’autres avec elle ; tout à coup elles arrivent en avalanche renversant sur leur chemin quelque bon bourgeois prenant tranquillement le frais dans son jardin (un bourgeois que vous eussiez cru à l’abri de toute catastrophe), et voilà une famille en deuil. Mon cher, je me suis fait une règle : plus il y a de mystère, moins je cherche à l’approfondir. »"
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« C’est une très bonne règle, » dit l’avocat."
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Mais j’ai étudié l’endroit pour ma propre satisfaction, » reprit M. Enfield. « On ne dirait presque pas une maison habitable. Il n’y a pas d’autre porte que celle-là et personne n’y entre ni n’en sort, excepté, de temps en temps, le Monsieur de mon aventure. Il y a trois fenêtres sur la cour au premier étage ; ces fenêtres sont toujours fermées, mais elles sont propres ; il y a aussi une cheminée qui laisse toujours échapper de la fumée, ce qui indique que quelqu’un demeure là ; et encore, ce n’est pas très sûr, car les constructions sont tellement entassées dans le voisinage de cette cour qu’il serait difficile de dire où l’une finit et où l’autre commence. »"
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Ils continuèrent de marcher pendant un moment en silence et alors M. Utterson soudainement s’exclama : « Enfield, vous vous êtes fait une bonne règle. »"
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Oui, c’est ce que je pense, » répondit Enfield."
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Cependant, je veux vous demander une chose : savez-vous le nom de l’individu qui est passé sur le corps de cet enfant ? »"
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Oh ! » dit M. Enfield, « je ne vois pas de mal à le dire. Son nom est Hyde. »"
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Hem ! » fit M. Utterson, « quelle espèce d’homme est-ce ? »"
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Il n’est pas facile à décrire. Il y a quelque chose de douteux dans son apparence, quelque chose qui, à de certains moments, n’est que déplaisant et, dans d’autres, absolument détestable. Je n’ai jamais connu un autre homme qui m’inspirât autant de répulsion, et encore je ne pourrais dire pourquoi. Il doit avoir quelque difformité ; il vous donne très fortement cette impression, quoiqu’il me soit impossible de rien spécifier. C’est un homme extraordinaire, et cependant je ne puis rien me rappeler qui ne soit en lui très naturel. Non, mon ami, je ne puis le décrire, ni rien expliquer. Ce n’est pas un manque de mémoire, car je puis affirmer que je l’ai bien présent devant les yeux, en ce moment même. »"
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "M. Utterson continua de marcher pendant quelques instants sans rien dire ; alors, après mûre réflexion évidemment, il demanda :"
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Vous êtes sûr de l’avoir vu se servir d’une clef ? »"
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Mon cher ami, » commença Enfield plus que surpris."
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Oui, je sais, » dit M. Utterson, « je sais que cela doit vous paraître étrange, mais le fait est que si je ne vous demande pas le nom de l’autre personne, c’est que je le sais déjà. Voyez-vous, Richard, votre histoire a pour moi un grand intérêt, et s’il s’y était glissé quelque erreur, je vous prierais de la rectifier. »"
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« Il me semble que vous auriez bien dû m’avertir, » fit l’autre avec une touche de mauvaise humeur. « Mais le récit que je vous ai fait est absolument exact, aussi exact que vous puissiez le désirer. Cet individu avait une clef, et je dirai même plus, il l’a toujours. Je l’ai vu s’en servir il n’y a pas huit jours ! »"
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Monsieur Utterson soupira profondément, mais ne dit mot. Le jeune homme reprit bientôt : « Voilà encore une leçon pour moi. Je suis honteux d’avoir une telle langue. Promettez-moi de ne jamais revenir sur ce sujet avec moi. »"
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "« De tout mon cœur, » dit l’avocat. « Voilà ma main, Richard. »"
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "X",
+        "EXPLICATION DU MYSTÈRE PAR HENRY JEKYLL"
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je naquis en l’année 18… Héritier d’une grande fortune, doué en plus d’heureuses facultés, d’un esprit naturellement industrieux, tenant à l’estime des gens intelligents et vertueux qui m’entouraient, j’entrais, comme on aurait pu le supposer, dans la vie avec toutes les garanties d’un avenir honorable et distingué. Par le fait, le plus grand de mes défauts était un certain goût mal contenu pour les plaisirs, goût qui eût pu faire le bonheur de beaucoup, mais qui pour moi était incompatible avec le désir impérieux que j’avais de porter haut la tête et d’affecter devant le public une contenance plus grave que le commun de mes semblables. Il arriva alors que je cachai mes folies, et que, lorsque j’atteignis l’âge de réflexion et regardai autour de moi pour constater mes progrès et ma situation dans le monde, j’étais déjà livré à une vie de profonde duplicité. Plus d’un sans doute à ma place eût fait parade des irrégularités dont j’étais coupable ; mais, étant données les grandes vues que j’avais en moi-même, je les considérais comme graves et les cachais avec un sentiment de honte pour ainsi dire malsain. Ce fut donc la nature exigeante de mes aspirations, plutôt qu’aucun avilissement particulier dans mes désordres, qui me fit ce que j’étais, et trancha en moi, plus profondément que dans la majorité des hommes, ces deux provinces, le bien et le mal, qui divisent et composent la double nature de l’homme. Mes pensées alors revenaient sans cesse et avec acharnement à cette dure loi de la vie qui forme la base de la conscience et est une des plus grandes sources de tortures morales. Quoique d’une duplicité si avérée, je n’étais, dans aucun sens du mot, hypocrite ; car ces deux phases de mon caractère étaient très sincères ; quand je mettais de côté toute contrainte et plongeais dans la honte, je n’étais pas plus moi-même que quand je travaillais au grand jour à l’avancement de mon savoir ou au soulagement de la misère et de la souffrance. Il advint que la direction de mes études scientifiques, qui se tournait entièrement vers le mystique et le transcendantal, me démontra clairement la lutte perpétuelle qui existe chez l’homme entre le bien et le mal. Chaque jour, les deux côtés de mon intelligence, le moral et l’intellectuel, me rapprochèrent plus fortement de cette vérité, dont la découverte ruina ma vie, que l’homme n’est pas une entité, mais deux êtres de nature distincte. Je dis deux êtres de nature distincte, parce que mon savoir ne dépasse pas ce point. D’autres me suivront, d’autres me dépasseront sur cette même voie ; et je me hasarde à prédire qu’il sera définitivement reconnu que l’homme renferme en son âme les qualités les plus diverses et les plus opposées, en un mot que ce que nous appelons un homme n’est en vérité qu’un assemblage de plusieurs êtres. Moi, pour ma part, l’influence de la vie que je m’étais faite ne me laissa infailliblement avancer que dans une direction, et dans cette direction seulement. Ce fut par ma propre personne et par mon côté moral que j’appris à reconnaître la dualité complète et primitive de l’homme ; je vis que des deux natures qui se combattaient dans le champ de ma conscience, si je pouvais avec raison dire que j’avais l’une, ce n’était que parce que je les possédais essentiellement toutes les deux. De bonne heure et avant que mes découvertes scientifiques eussent pu me faire entrevoir la moindre possibilité d’un tel miracle, j’avais appris à caresser avec plaisir, comme un rêve, la pensée de séparer ces éléments. « Si chacun d’eux, » me disais-je, « pouvait être logé séparément, la vie serait allégée de tout ce qui est insupportable ; le mal pourrait aller son chemin délivré de toutes les entraves que pourrait lui susciter une conscience gênante, et le bien pourrait suivre la grande route de la vertu en toute assurance et sécurité, se réjouissant de ses bonnes œuvres sans être exposé davantage à la disgrâce et aux remords qui pourraient lui être imposés par le côté pervers. Ce fut la malédiction de l’humanité que ces fagots si peu en rapports fussent ainsi liés ensemble, que dans le flanc agonisant de la conscience ces deux jumeaux de nature si opposée fussent toujours en lutte ? Comment les séparer ? »"
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Voilà où j’en étais lorsque, ainsi que je viens de le dire, la lumière se fit, sortant de mon laboratoire."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je commençai à apercevoir plus qu’on ne l’avait jamais encore constaté l’immatérialité tremblante et l’inconsistance vaporeuse de ce corps en apparence si solide, qui nous revêt. Je découvris que certaines substances avaient le pouvoir de secouer et d’arracher ce vêtement de chair aussi bien que le vent pourrait secouer et arracher les parois d’une tente. Pour deux bonnes raisons, je n’insisterai pas sur le côté pratique de ma découverte. D’abord j’ai appris à mes dépens que notre destinée et le fardeau de la vie sont liés à jamais à notre existence, et que lorsque nous essayons de nous en débarrasser ils retombent sur nous plus lourdement. Ensuite, comme ma narration ne le rendra, hélas ! que trop évident, mes découvertes étaient incomplètes. C’est assez dire que non seulement j’avais reconnu que mon corps matériel n’était que le mirage ou l’ombre de certains éléments dont mon âme était constituée, mais que j’étais même arrivé à composer un breuvage qui avait le pouvoir de détrôner ces éléments, de m’arracher à leur domination, et de me donner une seconde forme, une nouvelle physionomie, lesquelles ne m’étaient pas moins naturelles, quoiqu’elles fussent l’expression et portassent la marque des éléments les plus dégradants de mon âme."
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "J’hésitai longtemps avant de mettre cette théorie à l’épreuve de la pratique. Je savais bien que je risquais la mort, car une drogue pouvant si puissamment ébranler et maîtriser ce qui constitue le côté fort de l’identité pouvait, soit par une dose prise à un moment inopportun, soit encore par un soupçon d’erreur dans les quantités, détruire de fond en comble ce tabernacle immatériel que j’avais la prétention de changer. Mais la tentation d’une découverte si étrange, ouvrant des horizons si profonds, triompha de mes hésitations. J’avais depuis longtemps préparé mon essence ; j’achetai de suite, dans une pharmacie en gros, une quantité énorme de cette espèce de sel que je savais d’après mes expériences être le dernier ingrédient dont j’avais besoin ; très tard alors, pendant une nuit maudite, je composai mon mélange, surveillai son ébullition et les émanations vaporeuses qui s’en échappèrent. Quand il eut jeté son dernier bouillonnement, et avec une grande fièvre de courage, je l’avalai."
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "J’endurai alors d’affreuses tortures, mes os grincèrent ; j’eus des nausées terribles et un soulèvement de l’âme que rien ne pourrait dépasser, ni les sensations de la naissance, ni celles de la mort. Graduellement ces agonies me laissèrent et, en revenant à moi, je me sentis comme une personne qui relèverait d’une grande maladie. Il y avait quelque chose d’étrange dans mes sensations, quelque chose de neuf et d’indescriptible, et cependant leur nouveauté les rendait douces et agréables. Je me sentais plus jeune, plus léger et plus heureux ; il y avait du désordre dans mes idées ; un torrent d’images sensuelles se précipitait devant mon imagination ; l’indépendance pour moi n’avait plus de limites ; je ressentais une liberté d’âme inconnue, mais non innocente. Je reconnus au premier souffle de cette nouvelle vie que j’étais plus vicieux, dix fois plus vicieux, et aussi je me sentis l’esclave de mes vices ; cette pensée au moment me mit en joie, et m’excita autant qu’aurait pu le faire le vin. J’étirai mes mains, me complaisant dans la fraîcheur de ces sensations, mais en faisant ce mouvement je m’aperçus que j’avais perdu en stature."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je n’avais pas de glace dans mon cabinet ; celle qui est là, maintenant, ne fut apportée que plus tard, dans le seul but de ces transformations. Toutefois la nuit était fort avancée ; il était tout près du matin, et le matin, tout noir qu’il fût, allait engendrer le jour ; mes gens étaient encore plongés dans le sommeil. Je me décidai alors, tout rempli que j’étais d’espoir et de triomphe, de m’aventurer sous ma nouvelle forme jusqu’à ma chambre à coucher. Je traversai la cour, où les constellations du ciel me regardèrent ; j’aurais pu croire avec étonnement que j’étais la première créature de mon espèce que leur vigilance nocturne leur avait dévoilée ; je me glissai à travers les corridors, étranger dans ma propre maison, et, arrivant dans ma chambre, je contemplai, pour la première fois, la personnification d’Edward Hyde."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je ne dois parler qu’en théorie, n’étant sûr de rien et me bornant à dire ce que je crois le plus probable. Le côté mauvais de ma nature auquel je venais de mettre l’estampille était moins robuste et moins développé que le bon côté, que je venais de déposer momentanément ; mais ma vie ayant été, après tout, en grande partie, une vie d’efforts, de vertu et de contrainte, il avait été beaucoup moins fatigué et épuisé ; il arriva donc que Edward Hyde était plus petit, plus mince et plus jeune que Henry Jekyll. Autant l’image de la bonté se reflétait dans les traits de l’un, autant les caractères du mal étaient imprimés lisiblement sur le visage de l’autre. De plus, le vice, qui, je suis encore porté à le croire, est le côté léthifère de l’homme, avait laissé sur ce corps une empreinte de difformité et d’affaiblissement. Malgré tout, en regardant dans la glace ce vilain masque, je ne ressentais pas de répugnance, au contraire, je l’aimais. Cela aussi était moi. Cela avait un air humain et naturel. À mes yeux, c’était une image plus vivante et plus personnelle que le physique imparfait et divisé que, jusque-là, j’avais eu l’habitude d’appeler : moi. Et jusqu’à ce point j’avais sans doute raison. Je remarquai que quand je personnifiais Edward Hyde, personne ne pouvait m’approcher sans ressentir un malaise visible. La cause de cela, comme je le comprends, est que tous les êtres humains que nous rencontrons sont un mélange de bien et de mal, et qu’Edward Hyde, seul dans les rangs de l’humanité, était le mal tout pur."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je m’arrêtai un moment devant le miroir ; j’avais à essayer la seconde et concluante expérience, j’avais encore à voir si je n’avais pas perdu mon identité sans retour, et si je n’allais pas être obligé de fuir, avant qu’il fît jour, d’une maison qui ne serait plus la mienne. Donc, retournant vivement à mon cabinet, une fois encore je préparai et bus le breuvage ; je repassai par toutes les souffrances de la dissolution, et revins à moi avec le caractère, la stature et le visage de Henry Jekyll."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cette nuit-là j’étais arrivé à l’embranchement fatal de la route. Si j’avais abordé ma découverte avec un esprit plus élevé, si j’avais risqué l’expérience sous l’empire d’aspirations pieuses et généreuses, tout eût été différent, et je serais sorti de ces agonies de mort et de renaissance un ange au lieu d’un démon. Cette drogue n’avait aucune action déterminée ; elle n’était ni diabolique ni divine, elle ne faisait qu’ébranler les portes de la prison de ma nature ; comme les captifs de Philippi, ce qui était renfermé s’échappait. À ce moment-là la vertu sommeillait chez moi ; et le mal, tenu en éveil par l’ambition, il fut alerte et prompt à saisir l’occasion, et ce qui en résulta fut Edward Hyde. Donc, quoique je possédasse deux caractères et deux physionomies, l’un étant entièrement vicieux et l’autre étant toujours Henry Jekyll, ce mélange malheureux pour l’amélioration duquel j’étais sans espoir, cette expérience était donc entièrement défavorable."
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je n’avais pas encore conquis mon aversion pour la sécheresse d’une vie d’études. J’étais toujours de disposition joyeuse à de certains moments, et comme mes divertissements manquaient (pour ne pas trop dire) de dignité, et que j’étais non seulement bien connu et hautement considéré, mais qu’aussi je prenais de l’âge, cette incohérence de ma vie devenait de plus en plus fâcheuse. Ce fut ce qui me fit succomber à la tentation d’user de mon nouveau pouvoir et me rendit son esclave. Je n’avais qu’à boire ma composition pour me débarrasser de suite du corps du professeur en renom et me revêtir, comme d’un épais manteau, de celui d’Edward Hyde. L’idée me sourit, cela me semblait plaisant ; je fis alors mes dispositions avec le plus grand soin. Je pris et meublai cette maison dans Soho, dans laquelle Hyde fut traqué par la police, et j’engageai, comme femme de ménage, une créature que je connaissais pour être discrète et sans scrupules. D’un autre côté, j’annonçai à mes domestiques qu’un M. Hyde (que je leur décrivis) devait avoir pleine liberté et pouvoir dans ma maison, et de crainte d’accident, je me présentai bientôt et me rendis familier dans mon second caractère. Ensuite, je fis ce testament qui vous rendit si malheureux, afin que, si quelque chose m’arrivait en la personne du docteur Jekyll, je pusse, en celle d’Edward Hyde, prendre possession de mes biens, sans subir aucune perte pécuniaire. À l’abri de toute surprise, comme je le pensais, je me mis à jouir des privilèges de mon étrange situation."
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Il y a eu des hommes avant moi qui ont payé des fripons pour accomplir leurs crimes, pendant que leur propre personne et leur réputation étaient à couvert. Je fus le premier qui usa de ce moyen pour servir ses plaisirs. Je fus le premier qui pût ainsi aller son chemin sous l’œil du public, couvert de l’estime générale, et, dans l’espace de quelques instants, comme un écolier, se débarrasser de ce masque et plonger tête en avant dans une mer de liberté."
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je jouissais d’une sécurité complète, sous mon manteau impénétrable. Pensez donc ! — je n’existais même pas ! Le temps de me glisser par la porte de mon laboratoire, de mélanger et avaler le breuvage que je tenais toujours prêt, et Edward Hyde, eût-il commis les plus grands crimes, s’effaçait comme un souffle sur un miroir, et là, à sa place, paisiblement chez lui, préparant sa lampe pour l’étude du soir, il y avait un homme au-dessus de tout soupçon, il y avait Henry Jekyll."
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Le seul tort des plaisirs que je me hâtai de rechercher, sous mon déguisement, était, comme je l’ai déjà dit, de manquer de dignité. Mais dans les mains d’Edward Hyde ils ne tardèrent pas à tourner vers le monstrueux. Souvent, en revenant de ces excursions, je me demandais comment aucun lien pouvait m’unir à un être si dépravé. Cet être, que je faisais sortir de mon âme et lâchais seul au gré de ses plaisirs, était par nature méchant et vil ; ses actes et ses pensées étaient concentrées sur sa propre personne ; il se jetait dans la débauche avec une avidité bestiale, savourant les tortures qu’il pouvait infliger, impitoyable comme un homme de pierre. Henry Jekyll était quelquefois frappé de stupeur devant les actions d’Edward Hyde ; mais la situation, par cela même qu’elle était en dehors des lois ordinaires, amenait insidieusement un relâchement des étreintes de ma conscience. C’était Hyde, après tout, et Hyde seul qui était coupable. Jekyll n’en valait pas moins, il se réveillait toujours avec ses bonnes qualités, en apparence intactes ; il se hâtait même, quand c’était possible, de remédier au mal fait par Hyde. Et ainsi sa conscience s’endormait."
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je n’ai aucunement l’intention d’entrer dans les détails de l’infamie sur laquelle je fermais les yeux (car, même maintenant, je puis à peine admettre que j’y prisse part) ; je veux seulement indiquer les avertissements qui précédèrent mon châtiment et par quelle marche successive il approchait. Il m’arriva une aventure que je ne ferai que mentionner, car elle n’eut pas de suites. Un acte de cruauté envers une enfant excita contre moi la colère d’un passant, que je reconnus l’autre jour dans la personne de votre cousin ; le médecin, que l’on avait envoyé chercher et la famille de l’enfant se joignirent à lui ; j’eus pendant quelques instants peur pour ma vie, ce qui fit que pour calmer leur trop juste ressentiment, je dus les laisser m’accompagner jusqu’à la porte du laboratoire, d’où je ressortis avec un chèque pour les indemniser ; ce chèque, je dus le signer du nom de Henry Jekyll. Mais j’écartai aisément ce danger pour l’avenir, en ouvrant un crédit, dans une autre banque, au nom d’Edward Hyde ; et quand, après plusieurs tentatives, j’eus réussi à créer une signature pour mon double, je me crus à l’abri des atteintes du sort."
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "À peu près deux mois avant le meurtre de sir Danvers, j’étais sorti pour un de mes exploits, et rentré le soir, quand le lendemain matin je me réveillai avec des sensations quelque peu singulières. En vain je regardai autour de moi, en vain les meubles respectables de ma grande chambre dans le square frappèrent ma vue, en vain je reconnus la forme de mon bois de lit en acajou et le dessin de mes rideaux ; quelque chose de plus fort que moi persistait à me faire croire que je n’étais pas où j’étais, que je ne m’étais pas réveillé où je paraissais être, mais dans la petite chambre dans Soho, où j’avais l’habitude de coucher sous la forme d’Edward Hyde. Je me souris à moi-même, et avec ma manie psychologique je me mis à chercher la cause de cette illusion, tout en retombant de temps en temps dans un agréable assoupissement. J’étais encore en train de débattre la question, quand, dans un intervalle de réveil complet, mes yeux tombèrent sur ma main. La main de Henry Jekyll (comme vous l’avez souvent remarqué) était professionnelle comme forme et comme grandeur ; elle était large, ferme, blanche et gracieuse. Mais la main que j’avais devant moi, étendue à moitié fermée sur les draps du lit, et que je voyais distinctement dans la lumière jaune d’un matin de Londres, était maigre, cordée, noueuse, d’une pâleur terne, et ombragée par une épaisse couche de poils noirs. Cette main était la main d’Edward Hyde."
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je la contemplai pendant près d’une demi-minute, dans un ébahissement stupide, avant que la terreur me saisît ; alors elle s’éveilla en moi tout à coup, soudaine et violente comme un coup de timbale. Je sautai de mon lit et me précipitai vers le miroir. À la vue de l’image qu’il me renvoya, mon sang se glaça dans mes veines. Oui, je m’étais couché Henri Jekyll, je me réveillais Edward Hyde ! « Comment expliquer cela ? » me demandai-je avec terreur. — « Comment y remédier ? » La matinée était déjà avancée ; les domestiques étaient levés ; toutes mes préparations étaient dans mon cabinet. — Quel long voyage ! Descendre deux étages par l’escalier de service, traverser la cour et l’amphithéâtre ! Je restai un instant frappé d’horreur. Il est vrai que je pouvais me couvrir le visage, mais à quoi bon ? Je ne pouvais cacher ma taille. Avec une douce sensation, il me revint à l’esprit que mes domestiques étaient déjà habitués aux allées et venues de mon second moi-même. Je m’habillai vivement, le mieux que je pus, dans des vêtements trop grands ; je traversai la maison rapidement ; Bradshaw m’aperçut et m’examina curieusement pendant un instant, évidemment étonné de voir M. Hyde à une telle heure et dans un tel accoutrement. Dix minutes plus tard, le docteur Jekyll avait recouvré sa forme, et était assis à sa table, les sourcils froncés, faisant semblant de déjeuner."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je n’avais certainement pas beaucoup d’appétit. Cet incident inexplicable, ce renversement de mes expériences antérieures avait un air du doigt Babylonien, écrivant mon jugement sur le mur ; je me mis à réfléchir plus sérieusement que je ne l’avais jamais fait sur les suites possibles de ma double existence. Cette partie de moi-même, que j’avais le pouvoir de faire ressortir, avait été dernièrement bien exercée et fortifiée, et j’avais remarqué dans les derniers temps que le corps d’Edward Hyde avait gagné en stature, et, quand j’étais sous cette forme, je sentais un sang plus généreux couler dans mes veines ; je pressentis un grand danger, je fus convaincu que si je prolongeais longtemps ce genre de vie, la balance de ma nature pourrait être renversée à jamais, le pouvoir de la transformation perdu et le caractère d’Edward Hyde devenir le mien irrévocablement. Le breuvage n’avait pas toujours agi également. Une fois, dans les commencements, il avait complètement manqué son effet ; depuis lors, j’avais été obligé plus d’une fois, au risque de la mort, de doubler et même tripler la dose. Ces rares incertitudes avaient seules jeté une ombre sur ma satisfaction. En me rendant un compte exact de l’état des choses, je constatai qu’en premier lieu la difficulté était de rejeter le corps de Jekyll, et que maintenant elle était décidément passée de l’autre côté. D’où je conclus que petit à petit je perdais prise sur ma meilleure nature, et m’incorporais par degrés dans la seconde, la plus mauvaise."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je sentis qu’il me fallait choisir entre les deux natures. Elles avaient la mémoire en commun, mais toutes mes autres facultés étaient partagées d’une façon bien inégale."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jekyll, qui était un composé, faisait rejaillir ses plaisirs sur Hyde, et les lui faisait partager, tantôt avidement et tantôt avec les appréhensions les plus vives ; tandis que Hyde était indifférent pour Jekyll, ou ne s’en souvenait que comme le bandit de la montagne se souvient de la caverne qui le dérobe aux poursuites. L’intérêt de Jekyll pour Hyde était, pour ainsi dire, plus que paternel, celui de Hyde pour Jekyll était plus qu’indifférent. Me fixer définitivement avec Jekyll était renoncer à la satisfaction de ces appétits, auxquels je m’étais depuis longtemps secrètement livré, et que je commençais à chérir. Me fixer avec Hyde était renoncer à mille intérêts, à mille aspirations ; c’était d’un coup et pour toujours me livrer au mépris, et vivre sans amis. Le marché pouvait paraître inégal, mais j’avais encore un autre chose à prendre en considération : je savais que, pendant que Jekyll souffrirait douloureusement de la fièvre d’abstinence, Hyde n’aurait même pas conscience de tout ce qu’il aurait perdu. Quelque étrange que fût ma position, les termes de ce débat sont aussi vieux et aussi communs que l’homme ; à peu près les mêmes espoirs et les mêmes craintes décident d’un coup de dé le sort du pécheur tenté et indécis ; mais il m’arriva, comme il arrive à la plus grande majorité de mes semblables, de choisir le bon côté, et de désirer fortement d’y rester."
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Oui, je préférai le docteur vieux et mécontent, entouré de ses amis, et caressant des espoirs honnêtes ; j’adressai un adieu résolu à la liberté, à la jeunesse comparative, à la démarche légère et aux plaisirs secrets, dont j’avais joui sous le déguisement de Hyde. Je fis ce choix peut-être avec des réserves dont je n’avais pas conscience, car je gardai la maison de Soho, et je ne détruisis pas les vêtements d’Edward Hyde, que je tenais toujours prêts dans mon cabinet. Pendant deux mois toutefois, je fus fidèle à ma détermination ; pendant deux mois, je menai une vie d’une sévérité à laquelle je n’avais jamais atteint, et je jouis des compensations que vous apporte une conscience tranquille. Mais le temps peu à peu atténua mes alarmes, les louanges de ma conscience ne m’impressionnèrent plus autant ; je subis les tortures du désir et de l’angoisse : c’était Hyde, luttant pour la liberté. Enfin je succombai et une fois encore je mélangeai et bus le breuvage qui transformait."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je ne crois pas qu’un ivrogne raisonnant avec lui-même sur son vice soit, une fois sur cinq cents, affecté par les dangers que lui fait courir son insensibilité physique de brute ; je n’avais pas non plus, malgré le temps que j’avais pris pour y penser, tenu assez compte de la complète insensibilité morale, et de la propension sans bornes à la perversité qui caractérisaient Edward Hyde. Cependant, de là vint ma punition. Mon démon avait été longtemps en cage, il sortit rugissant. Je ressentis même, en prenant le breuvage, un désir furieux et sans frein de faire le mal. Il est même probable que ce fut ce qui souleva dans mon âme cette tempête d’impatience avec laquelle j’écoutai les civilités de ma malheureuse victime ; au moins, je prends Dieu à témoin qu’aucun homme sain d’esprit n’eût pu se rendre coupable de ce crime, sur une provocation si futile, et que je frappais, aussi dépourvu de raison qu’un enfant malade qui brise un jouet. Mais j’avais volontairement rejeté loin de moi tous ces instincts d’équilibre à l’aide desquels les plus méchants d’entre nous poursuivent leur chemin avec quelque degré d’assurance, au milieu des tentations. Dans mon cas, être tenté, aussi légèrement que ce fût, était succomber."
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Un enfer s’éveilla en moi instantanément, et fit rage. C’était avec un transport de joie que je meurtrissais le corps sans résistance de ma victime, goûtant un plaisir extrême à chaque coup que je donnais, et ce ne fut que quand la fatigue s’empara de moi soudainement, et au plus haut degré de mon délire, que je fus frappé au cœur par un tressaillement froid de terreur. Le jour se fit à mes yeux, je vis ma vie entièrement perdue, et je fuis cette scène d’horreur, fier et tremblant à la fois, mon appétit pour le mal satisfait et stimulé, l’instinct de la conservation surexcité au plus haut degré. Je courus à la maison dans Soho, et, pour plus de sûreté, je détruisis mes papiers ; ensuite, je me promenai par les rues éclairées, partagé entre la joie et la crainte, le cœur léger, me réchauffant dans mon crime, en imaginant d’autres pour plus tard ; et cependant hâtant le pas et prêtant l’oreille, me croyant poursuivi par la justice vengeresse. Hyde avait une chanson sur les lèvres en composant le breuvage qu’il but à la santé du mort. Les douleurs de la transformation n’étaient pas encore passées, que Henry Jekyll tombait à genoux, ses mains tendues vers le ciel, versant des larmes de gratitude et de remords. Le voile du mensonge tomba et la vérité m’apparut. Je revis ma vie toute entière ; je la repris aux jours de mon enfance, quand, dans nos promenades, mon père me tenait par la main ; je revis les durs travaux que m’avait imposés ma vie professionnelle, et je revenais toujours, avec une même absence de réalité, aux horreurs maudites de la soirée. J’avais des envies de crier ; je priai et demandai avec des larmes, que cette foule d’images hideuses, qui malgré moi remplissaient mon imagination, fussent effacées, et sans cesse, entre mes prières, mon iniquité se dressait devant moi dans son aspect repoussant et me glaçait jusqu’au fond de l’âme. Cependant à mesure que la violence de mes remords s’affaiblissait, ils étaient remplacés par une sensation de bien-être. Le problème de ma conduite était résolu ; Hyde était devenu impossible ; que je le voulusse ou non, j’étais maintenant réduit à la meilleure part de mon existence ; comme cette pensée me fit du bien ! Avec quelle bonne volonté je me soumis aux obligations d’une vie naturelle, avec quelle sincère renonciation je fermai la porte par laquelle j’étais si souvent entré et sorti, et écrasai la clef sous mon talon !"
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Le jour suivant, j’appris que le meurtre avait été découvert, que la culpabilité de Hyde était prouvée, et que la victime était tenue en haute estime par le public. Ce n’était pas seulement un crime, cela avait été une folie tragique ; j’étais heureux d’avoir cette conviction ; j’étais aussi heureux, je crois, de savoir mes bonnes intentions soutenues et gardées par la crainte de l’échafaud. Jekyll était mon refuge ; Hyde n’avait qu’à se montrer, et le monde entier se lèverait pour le prendre et l’égorger."
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je résolus de racheter mon passé par l’avenir, et je puis honnêtement dire que ma résolution porta des fruits. Vous savez vous-même comment, pendant une bonne partie de l’année dernière, je travaillai à soulager la souffrance ; vous savez comme je m’employai à faire le bien, et vous savez aussi comme les jours s’écoulaient paisiblement pour moi ; j’étais presque heureux. Je ne pourrais pas dire non plus que je me fatiguais de cette vie bienfaisante et innocente ; je pense qu’au contraire elle me plaisait tous les jours davantage ; mais cependant j’étais encore hanté par mes idées de dualité, et à mesure que mon repentir s’effaçait, mon côté bas et vil, qui avait pu satisfaire ses passions pendant si longtemps, et qui n’était enchaîné que depuis si peu, grognait après la liberté. Non pas que je songeasse à ressusciter Hyde (cette seule pensée me rendait fou) ; non, c’était moi-même qui, une fois de plus, avais des velléités de plaisirs ; ce fut avec l’hypocrisie ordinaire du pécheur que je succombai enfin à la tentation."
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Il y a une fin à toutes choses ; la mesure la plus grande finit par s’emplir, et cette brève condescendance à mes mauvais penchants détruisit l’équilibre de mon âme. Cependant, je ne m’alarmai pas ; la chute me parut naturelle, ce fut comme un retour aux anciens jours, avant que j’eusse fait ma découverte. Un beau matin de janvier, quand l’hiver touchait à sa fin, et qu’il n’y avait pas un nuage au ciel, quoique l’humidité se fît un peu sentir aux endroits où la gelée avait fondu, Regent Park était plein de gazouillements et l’air empli d’un parfum printanier. Je m’assis sur un banc, au soleil ; l’animal en moi se pourléchait au souvenir de mes méfaits ; mon être spirituel, tout en se promettant un repentir subséquent, se laissait aller un peu à l’engourdissement, et ne se pressait pas d’entrer dans cette voie. Au beau milieu de ce contentement de moi-même, une faiblesse me saisit, j’eus une horrible nausée et un frissonnement me passa par tout le corps. Ces symptômes se calmèrent, mais me laissèrent le cœur sur les lèvres ; à son tour la faiblesse me quitta ; je remarquai un changement dans le cours de mes pensées, je me sentais une plus grande hardiesse, du mépris pour le danger, et une sorte d’affranchissement de toute espèce de frein. Je baissai les yeux, mes vêtements pendaient, sans aucune forme, sur mes membres rétrécis ; la main posée sur mon genou était noueuse et couverte de poils. Je me trouvais une fois de plus Edward Hyde. Un moment avant, je pouvais prétendre au respect de tout le monde : j’étais riche, estimé, chez moi la table était servie et m’attendait ; maintenant, j’étais à la merci de tous, poursuivi, sans abri, un meurtrier signalé, pour qui l’échafaud était dressé."
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ma raison chancela, mais ne m’abandonna point entièrement. J’ai remarqué plus d’une fois que, dans mon second caractère, mes facultés semblaient aiguisées, et que mon esprit était plus souple ; ce qui fit que, là où Jekyll eût succombé, Hyde s’éleva à la hauteur de la situation. Mes drogues étaient dans une des armoires de mon cabinet. Comment y atteindre ? Ce fut le problème que, pressant ma tête entre mes mains, j’essayai de résoudre. J’avais fermé la porte du laboratoire. Si j’essayais d’entrer par la maison, mes propres serviteurs m’enverraient à l’échafaud. Je vis qu’il fallait employer un intermédiaire et je pensai à Lanyon. Comment pourrais-je l’approcher ? Comment le persuader ? Même en supposant que l’on ne m’arrêtât pas dans la rue, comment me faire admettre en sa présence ? Et comment pourrais-je, moi, visiteur inconnu et déplaisant, persuader ce praticien célèbre de dévaliser le cabinet de son collègue le docteur Jekyll ? Je me souvins alors que de mon caractère original une chose me restait : j’avais conservé ma propre écriture, et une fois que cette idée lumineuse m’eut traversé l’esprit, je vis clairement ce qui me restait à faire d’un bout à l’autre."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "J’arrangeai mes vêtements aussi bien que je pus, et appelai un fiacre qui passait ; je me fis conduire à un hôtel dans Portland Street, que je me rappelai par hasard. À mon aspect (lequel en effet était assez comique, quelque tragique que pût être le sort qu’il recouvrait) le cocher n’avait pu retenir un accès de gaieté. Je grinçai des dents avec un transport de furie diabolique, le sourire disparut de son visage, — heureusement pour lui, — plus heureusement encore pour moi, car une minute de plus et je l’aurais sans doute arraché de son siège. Je jetai des regards si farouches autour de moi, en entrant dans l’hôtel, que les domestiques tremblèrent n’osant échanger un coup d’œil en ma présence ; ils prirent obséquieusement mes ordres, me conduisirent à une chambre et m’apportèrent tout ce qu’il faut pour écrire. Hyde en danger de vie était une créature toute nouvelle pour moi ; secoué par une colère désordonnée, prêt au meurtre, si on l’entravait dans ses desseins, se réjouissant même à cette idée ; il avait cependant conservé toute son intelligence : il maîtrisa sa fureur par un grand effort de volonté, composa ses deux lettres si importantes, une à Lanyon, l’autre à Poole, et, pour plus de sûreté, les envoya à la poste avec l’ordre de les faire enregistrer."
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Il passa la journée assis près du feu dans sa chambre, rongeant ses ongles, et dîna en tête-à-tête avec ses craintes ; le garçon tremblait visiblement devant lui. À la nuit noire, il partit, enfoncé dans un coin d’une voiture fermée, et il se fit promener par les rues. Je dis lui, — car je ne puis pas dire moi. Ce produit de l’enfer n’avait rien d’humain, il n’avait rien, en lui, que de la peur et de la haine. Quand enfin il pensa que le cocher commençait à devenir méfiant, il le renvoya et s’aventura à pied, vêtu de ces habits qui lui allaient si mal, un objet remarquable, parmi les passants nocturnes. Ces deux passions viles firent rage dans son cœur. Il marchait vite, chassé par l’effroi, se parlant à lui-même, se cachant dans tous les renfoncements, comptant les minutes qui le séparaient encore de minuit. Il rencontra une femme qui lui adressa la parole, lui offrant, je crois, d’acheter une boîte d’allumettes ; il lui donna un coup en pleine figure et elle s’enfuit."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lorsque je revins à moi chez Lanyon, la répugnance de mon vieil ami m’affecta peut-être un peu, je ne sais pas ; dans tous les cas, ce ne fut qu’une goutte d’eau dans la mer d’horreur qui m’envahit quand je repassai dans ma mémoire les quelques heures qui venaient de s’écouler. Un changement survint en moi. Je n’avais plus la peur de l’échafaud ; c’était la pensée terrible d’être Hyde qui maintenant me mettait au supplice. Ce fut presque comme dans un rêve que je reçus la condamnation de Lanyon, ce fut presque dans un rêve que j’arrivai chez moi et me couchai. Après les prostrations de la journée, je dormis d’un sommeil profond et complet, dont je ne pus être tiré même par les cauchemars affreux qui m’assaillirent. Je me réveillai le lendemain matin, secoué et affaibli, mais cependant rafraîchi. Je haïssais et craignais toujours la brute qui dormait en moi et, naturellement, je n’avais pas oublié les dangers effrayants de la veille ; toutefois, me retrouvant chez moi, dans ma propre maison, près de mes drogues, le bonheur que j’éprouvais d’être échappé au péril n’était égalé que par mon espoir dans l’avenir."
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je traversai la cour avec lenteur, après déjeuner, aspirant avec plaisir l’air, un peu frais, quand je me sentis ressaisi de ces sensations qui précédaient la transformation. Je n’eus que le temps de m’abriter dans mon cabinet, et je me retrouvai en proie à toute la fureur des passions de Hyde. Cette fois, je dus prendre la dose double, pour me rappeler à moi-même ; et, hélas ! six heures après, j’étais assis devant la cheminée, regardant tristement le feu ; les douleurs me reprirent, et il me fallut de nouveau m’administrer le breuvage."
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Bref, à partir de ce jour, ce ne fut que par de grands efforts, une contrainte continuelle et seulement sous l’influence immédiate de la drogue, que je pus conserver l’apparence de Jekyll ; à toutes les heures du jour et de la nuit, je ressentais le frisson avertisseur ; surtout si je dormais, ou même m’assoupissais un instant dans ma chaise, je me réveillais toujours Hyde. Sous la menace de cette catastrophe, et par le manque de sommeil auquel je me condamnais, même au delà de ce que je croyais possible à l’homme, je ne tardai pas à être rongé et épuisé par la fièvre, affaibli au physique et au moral, et n’ayant plus qu’une pensée : l’horreur de mon autre moi-même ; quand je dormais, ou quand la vertu du médicament s’affaiblissait, j’entrais presque sans transition (car les douleurs de la transformation devenaient tous les jours moins fortes) en la possession d’une imagination débordant de terreur, d’une âme bouillant de haines sans cause, et d’un corps ne semblant pas assez fort pour contenir les énergies impétueuses de la vie. La puissance de Hyde semblait augmenter avec la disposition maladive de Jekyll. Et la haine qui les divisait était certainement égale de chaque côté. Chez Jekyll, c’était un instinct vital. Il avait vu pleinement la difformité de cette créature qui partageait avec lui quelques-uns des éléments de la vie, qui comme lui était cohéritier de la mort ; et au delà de ces liens communs, lesquels par eux-mêmes formaient la partie la plus poignante de sa détresse, il ne regardait Hyde, malgré son existence palpable, que comme une chose non seulement monstrueusement diabolique, mais inorganique. Ce qu’il y avait de plus écœurant, c’était que, de la vase de l’autre, il semblait que des voix sortaient qui proféraient des cris, que les cendres gesticulaient et prêchaient, que ce qui était mort et sans forme usurpait les fonctions de la vie. Et plus encore cette horreur qui s’insurgeait était liée avec lui par des liens plus intimes que ceux qui l’eussent lié à une femme ; elle lui était plus proche que ses yeux, elle était emprisonnée dans sa chair, où il l’entendait murmurer et se débattre pour se faire jour, et à chaque heure de faiblesse aussi bien que dans l’abandon du sommeil, elle s’élevait contre lui et le dépossédait de la vie. La haine de Hyde pour Jekyll était d’un ordre différent. La terreur de l’échafaud lui faisait continuellement commettre un suicide temporaire et retourner à la position subordonnée de n’être qu’une partie d’un être, au lieu d’être cet être en entier ; mais cette nécessité lui inspirait du dégoût ; il avait en aversion l’abattement dans lequel Jekyll était maintenant tombé, et il ressentait l’injure de la répugnance avec laquelle Jekyll le considérait. Ce fut ce qui lui inspira tous les tours de singe qu’il me joua : traçant avec mon écriture des blasphèmes sur les pages de mes livres, brûlant les lettres de mon père et détruisant son portrait, et s’il n’avait pas eu une si grande peur de la mort, il se fût livré il y a longtemps, à seule fin de m’entraîner dans sa perte. Son attachement à la vie est vraiment merveilleux ; je dis plus, moi qui ai le cœur soulevé et le sang glacé à sa seule pensée, quand je me représente l’agitation et la passion de cet attachement, connaissant la crainte qu’il a du pouvoir que j’ai de lui échapper par le suicide, j’arrive même à avoir pitié de lui."
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Le temps me manque terriblement pour prolonger cette description, d’ailleurs inutile ; personne n’a jamais éprouvé de tels tourments : que cela suffise ; et cependant l’habitude m’avait apporté non de l’adoucissement mais une espèce de callosité de l’âme, une certaine acquiescence de désespoir, et ma punition eût pu durer des années sans une dernière calamité qui vient d’arriver et qui m’a finalement séparé et de mon propre visage et de ma propre nature. Ma provision de sels, qui n’avait jamais été renouvelée depuis ma première expérience, diminua sensiblement. J’en envoyai chercher d’autres ; je mêlai le breuvage, l’ébullition eut lieu et le premier changement de couleur suivit, non le second ; je le bus quand même, mais sans effet. Poole vous dira comment j’ai en vain fouillé tout Londres ; je suis maintenant persuadé que ma première provision était impure, et que cette impureté ignorée avait donné son efficacité à mon breuvage."
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Voilà huit jours de passés et je finis ce compte-rendu sous l’influence de la dernière des anciennes poudres. C’est alors la dernière fois que, à moins d’un miracle, Henry Jekyll peut penser ses propres pensées, voir son propre visage (bien tristement altéré maintenant) dans la glace. Je ne dois pas non plus tarder de terminer mes écritures ; car si jusqu’ici ma narration a échappé à la destruction, ce n’est que grâce à une combinaison de grande prudence et d’heureux hasard. Que les angoisses de la transformation me prennent pendant que j’écris, Hyde la déchirera en morceaux. Mais si, après que je l’aurai mise de côté, il se passe un certain temps, son égoïsme étonnant et son instinct de préservation momentanée la sauveront peut-être une fois de plus de l’action de sa colère de singe. Sans aucun doute, le sort qui nous enveloppe tous les deux l’a déjà changé et accablé. Dans une demi-heure, quand je serai, et pour toujours, réintégré dans cette détestable personnalité, je sais que je m’assoirai, pleurant et frissonnant, dans ma chaise, ou continuerai, avec l’angoisse la plus contrainte et la plus craintive, d’écouter, d’aller et venir dans ce cabinet, mon dernier refuge sur cette terre, et de prêter l’oreille à chaque bruit menaçant. Hyde mourra-t-il sur l’échafaud ? Ou trouvera-t-il le courage de se libérer au dernier moment ? Dieu le sait, cela m’est égal. Je suis maintenant à l’heure véritable de ma mort, et ce qui suivra concerne un autre que moi. Ici alors, en posant ma plume, et terminant ma confession, j’amène à sa fin la vie de ce malheureux Henry Jekyll."
+      ]
+    }
+  ]
+}
