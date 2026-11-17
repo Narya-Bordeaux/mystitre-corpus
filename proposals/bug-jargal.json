@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "bug-jargal",
+  "title": "Bug-Jargal",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Bug-Jargal, éd. 1910 (pages Wikisource « I » et « Note », révision figée) ; autre indication d'édition non relevée",
+    "pages": [
+      {
+        "title": "Bug-Jargal/éd. 1910/I",
+        "revisionId": 3632836
+      },
+      {
+        "title": "Bug-Jargal/éd. 1910/Note",
+        "revisionId": 3632916
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "99f6c0d70ce2a47057114f12d53e02a1e935676c9ae0fd4576f66e488e00d2f9"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "Quand vint le tour du capitaine Léopold d’Auverney, il ouvrit de grands yeux et avoua à ces messieurs qu’il ne connaissait réellement aucun événement de sa vie qui méritât de fixer leur attention.\n— Mais, capitaine, lui dit le lieutenant Henri, vous avez pourtant, dit-on, voyagé et vu le monde. N’avez-vous pas visité les Antilles, l’Afrique et l’Italie, l’Espagne ?…",
+    "original": "Quand vint le tour du capitaine Léopold d’Auverney, il ouvrit de grands yeux et avoua à ces messieurs qu’il ne connaissait réellement aucun événement de sa vie qui méritât de fixer leur attention.\n— Mais, capitaine, lui dit le lieutenant Henri, vous avez pourtant, dit-on, voyagé et vu le monde. N’avez-vous pas visité les Antilles, l’Afrique et l’Italie, l’Espagne ?…",
+    "length": 368,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00058.s1",
+      "p00060.s1",
+      "p00061.s1",
+      "p00061.s2"
+    ],
+    "french": "Le commissaire, furieux de voir s’évanouir sa conspiration avec son conspirateur, murmura entre ses dents :\n— Il est mort ! c’est dommage !\nLe général l’entendit et s’écria indigné :\n— Il vous reste encore une ressource, citoyen représentant du peuple ! Allez chercher le corps du capitaine d’Auverney dans les décombres de la redoute. Qui sait ? les boulets ennemis auront peut-être laissé la tête du cadavre à la guillotine nationale !",
+    "original": "Le commissaire, furieux de voir s’évanouir sa conspiration avec son conspirateur, murmura entre ses dents :\n— Il est mort ! c’est dommage !\nLe général l’entendit et s’écria indigné :\n— Il vous reste encore une ressource, citoyen représentant du peuple ! Allez chercher le corps du capitaine d’Auverney dans les décombres de la redoute. Qui sait ? les boulets ennemis auront peut-être laissé la tête du cadavre à la guillotine nationale !",
+    "length": 437,
+    "truncated": false
+  }
+}
