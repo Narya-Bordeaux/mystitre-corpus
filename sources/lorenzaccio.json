@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "lorenzaccio",
+  "title": "Lorenzaccio",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (pages Wikisource « Lorenzaccio/Acte I » à « Acte V », révision 5825647 du sommaire)",
+  "pages": [
+    {
+      "title": "Lorenzaccio/Acte I",
+      "revisionId": 5025835
+    },
+    {
+      "title": "Lorenzaccio/Acte II",
+      "revisionId": 5027584
+    },
+    {
+      "title": "Lorenzaccio/Acte III",
+      "revisionId": 5028256
+    },
+    {
+      "title": "Lorenzaccio/Acte IV",
+      "revisionId": 5028465
+    },
+    {
+      "title": "Lorenzaccio/Acte V",
+      "revisionId": 5033339
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "f6df372d8fe6499369b7c02830e1357b56dc37a81414cb27f757a9dc30ffa3fa",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Qu’elle se fasse attendre encore un quart d’heure, et je m’e"
+  },
+  "bodyEnd": {
+    "id": "p01658",
+    "textPrefix": "« Le remercîment que je veux faire à Vos très illustres et t"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres d'acte et de scène, décors et didascalies d'entrée, « FIN DE LORENZACCIO ». Le texte commence à la première réplique du Duc et finit sur le discours de Côme."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
