@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-colonel-chabert",
+  "title": "Le Colonel Chabert",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Colonel Chabert, page « Le Colonel Chabert » de Wikisource (Œuvres complètes de H. de Balzac) ; édition non précisée plus avant",
+    "pages": [
+      {
+        "title": "Le Colonel Chabert",
+        "revisionId": 15333312
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a4a2e7513aa5c885e8531d1c9dec10047c91aa68146425abae02bbdfe9eb10d0"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1"
+    ],
+    "french": "— Allons ! encore notre vieux carrick !\nCette exclamation échappait à un clerc appartenant au genre de ceux qu’on appelle dans les Études des saute-ruisseaux, et qui mordait en ce moment de fort bon appétit dans un morceau de pain ; il arracha un peu de mie pour faire une boulette qu’il lança railleusement par le vasistas d’une fenêtre sur laquelle il s’appuyait.",
+    "original": "— Allons ! encore notre vieux carrick !\nCette exclamation échappait à un clerc appartenant au genre de ceux qu’on appelle dans les Études des saute-ruisseaux, et qui mordait en ce moment de fort bon appétit dans un morceau de pain ; il arracha un peu de mie pour faire une boulette qu’il lança railleusement par le vasistas d’une fenêtre sur laquelle il s’appuyait.",
+    "length": 365,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00446.s12",
+      "p00446.s13",
+      "p00446.s14"
+    ],
+    "french": "Je ne puis vous dire tout ce que j’ai vu, car j’ai vu des crimes contre lesquels la justice est impuissante. Enfin, toutes les horreurs que les romanciers croient inventer sont toujours au-dessous de la vérité. Vous allez connaître ces jolies choses-là, vous ; moi, je vais vivre à la campagne avec ma femme, Paris me fait horreur.",
+    "original": "Je ne puis vous dire tout ce que j’ai vu, car j’ai vu des crimes contre lesquels la justice est impuissante. Enfin, toutes les horreurs que les romanciers croient inventer sont toujours au-dessous de la vérité. Vous allez connaître ces jolies choses-là, vous ; moi, je vais vivre à la campagne avec ma femme, Paris me fait horreur.",
+    "length": 331,
+    "truncated": false
+  }
+}

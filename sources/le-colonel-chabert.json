@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-colonel-chabert",
+  "title": "Le Colonel Chabert",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Colonel Chabert, page « Le Colonel Chabert » de Wikisource (Œuvres complètes de H. de Balzac) ; édition non précisée plus avant",
+  "pages": [
+    {
+      "title": "Le Colonel Chabert",
+      "revisionId": 15333312
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a4a2e7513aa5c885e8531d1c9dec10047c91aa68146425abae02bbdfe9eb10d0",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "— Allons ! encore notre vieux carrick !"
+  },
+  "bodyEnd": {
+    "id": "p00446",
+    "textPrefix": "— Quelle destinée ! s’écria Derville. Sorti de l’hospice des"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intertitres de livre et de titre, dédicace à la comtesse Ida de Bocarmé, mention finale « Paris, février-mars 1832. »"
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
