@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "de-la-terre-a-la-lune",
+  "title": "De la Terre à la Lune",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, De la Terre à la Lune (édition non indiquée), chapitres 1 et 28",
+  "pages": [
+    {
+      "title": "De la Terre à la Lune/Chapitre 1",
+      "revisionId": 15598150
+    },
+    {
+      "title": "De la Terre à la Lune/Chapitre 28",
+      "revisionId": 3513060
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6764151c5b2739e469530973a81e3a88348d37bc9adbb8cd9de72baac1b2218e",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Pendant la guerre fédérale des États-Unis, un nouveau club t"
+  },
+  "bodyEnd": {
+    "id": "p00074",
+    "textPrefix": "« Nous correspondrons avec eux, disait-il à qui voulait l’en"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de chapitre (p00001) et mention « FIN de la terre à la lune » (p00075)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
