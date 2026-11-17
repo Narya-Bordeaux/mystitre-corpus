@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "bookId": "au-bord-de-leau",
+  "title": "Au bord de l'eau",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Wikisource chinois, page « 水滸傳 (100回本) », introduction (引首) et chapitres 1 et 100 ; édition non indiquée au-delà du titre",
+  "pages": [
+    {
+      "title": "水滸傳 (100回本)/引首",
+      "revisionId": 11181745
+    },
+    {
+      "title": "水滸傳 (100回本)/第001回",
+      "revisionId": 11184025
+    },
+    {
+      "title": "水滸傳 (100回本)/第100回",
+      "revisionId": 11152051
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "1ace7af1b4aecfe4232cd8d298c10a8f30e571f7186dbad8d96b0a0065cf944e",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "　　詞曰："
+  },
+  "bodyEnd": {
+    "id": "p00092",
+    "textPrefix": "生當鼎食死封侯，男子平生志已酬。\n鐵馬夜嘶山月暗，玄猿秋嘯暮雲稠。\n不須出處求真跡，卻喜忠良作話頭。\n千古蓼窪埋玉地，落"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Corps complet : l'introduction (引首) fait partie du récit de l'édition en 100 chapitres et est conservée avec son poème d'ouverture ; rien d'exclu à la fin (le dernier poème clôt le roman)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
