@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-maitre-et-marguerite",
+  "title": "Le Maître et Marguerite",
+  "host": "declared",
+  "sourceLanguage": "ru",
+  "edition": "Мастер и Маргарита, Москва, 1984 (dernière rédaction du vivant de l'auteur, avec les corrections dictées à E. S. Boulgakova), texte du site valib.ru ; début du chapitre 1 et fin de l'épilogue copiés par l'utilisateur",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "448b223d2b446e05eb9a032bc7c86cbfac59f03a306b8fc061ff44ae1719b44c",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Однажды весною, в час небывало жаркого заката, в Москве, на "
+  },
+  "bodyEnd": {
+    "id": "p00006",
+    "textPrefix": "Наутро он просыпается молчаливым, но совершенно спокойным и "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée ; mention d'édition, « Première partie », épigraphe de Goethe et titre du chapitre 1 exclus"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "лПиво и воды»",
+      "replace": "«Пиво и воды»",
+      "reason": "Défaut d'encodage du fichier source : « « » rendu par « л »"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://valib.ru/bulga000/00000027.htm#a34",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur"
+  }
+}

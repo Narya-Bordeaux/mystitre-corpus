@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-maitre-et-marguerite",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "448b223d2b446e05eb9a032bc7c86cbfac59f03a306b8fc061ff44ae1719b44c",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Однажды весною, в час небывало жаркого заката, в Москве, на Патриарших прудах, появились два гражданина.",
+      "translation": "Un jour de printemps, à l'heure d'un coucher de soleil d'une chaleur inouïe, deux citoyens apparurent à Moscou, aux étangs du Patriarche."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Первый из них, одетый в летнюю серенькую пару, был маленького роста, упитан, лыс, свою приличную шляпу пирожком нес в руке, а на хорошо выбритом лице его помещались сверхъестественных размеров очки в черной роговой оправе.",
+      "translation": "Le premier d'entre eux, vêtu d'un costume d'été grisâtre, était de petite taille, replet et chauve ; il tenait à la main son chapeau mou, très convenable, et son visage soigneusement rasé s'ornait de lunettes d'une taille surnaturelle, à épaisse monture d'écaille noire."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Второй - плечистый, рыжеватый, вихрастый молодой человек в заломленной на затылок клетчатой кепке - был в ковбойке, жеваных белых брюках и в черных тапочках.",
+      "translation": "Le second, un jeune homme aux larges épaules, aux cheveux roux en épis, la casquette à carreaux rejetée sur la nuque, portait une chemise à carreaux de cow-boy, un pantalon blanc froissé et des pantoufles noires."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "Первый был не кто иной, как Михаил Александрович Берлиоз, председатель правления одной из крупнейших московских литературных ассоциаций, сокращенно именуемой МАССОЛИТ, и редактор толстого художественного журнала, а молодой спутник его - поэт Иван Николаевич Понырев, пишущий под псевдонимом Бездомный.",
+      "translation": "Le premier n'était autre que Mikhaïl Alexandrovitch Berlioz, président du comité de direction de l'une des plus grandes associations littéraires de Moscou, dite en abrégé MASSOLIT, et rédacteur d'une épaisse revue littéraire ; quant à son jeune compagnon, c'était le poète Ivan Nikolaïevitch Ponyrev, qui écrivait sous le pseudonyme de Bezdomny."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00002.s1",
+      "original": "Первый был не кто иной, как Михаил Александрович Берлиоз, председатель правления одной из крупнейших московских литературных ассоциаций, сокращенно именуемой МАССОЛИТ, и редактор толстого художественного журнала, а молодой спутник его - поэт Иван Николаевич Понырев, пишущий под псевдонимом Бездомный.",
+      "translation": "Le premier n'était autre que Mikhaïl Alexandrovitch Berlioz, président du comité de direction de l'une des plus grandes associations littéraires de Moscou, dite en abrégé MASSOLIT, et rédacteur d'une épaisse revue littéraire ; quant à son jeune compagnon, c'était le poète Ivan Nikolaïevitch Ponyrev, qui écrivait sous le pseudonyme de Bezdomny."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Попав в тень чуть зеленеющих лип, писатели первым долгом бросились к пестро раскрашенной будочке с надписью «Пиво и воды».",
+      "translation": "Arrivés à l'ombre des tilleuls à peine verdissants, les écrivains se précipitèrent avant toute chose vers une petite échoppe bariolée portant l'enseigne « Bière et eaux »."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "Тогда луна начинает неистовствовать, она обрушивает потоки света прямо на Ивана, она разбрызгивает свет во все стороны, в комнате начинается лунное наводнение, свет качается, поднимается выше, затопляет постель.",
+      "translation": "Alors la lune se déchaîne, elle déverse des torrents de lumière droit sur Ivan, elle éclabousse la lumière de tous côtés, une inondation de lune envahit la chambre, la lumière vacille, monte plus haut, submerge le lit."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "Вот тогда и спит Иван Николаевич со счастливым лицом.",
+      "translation": "C'est alors qu'Ivan Nikolaïevitch dort, le visage heureux."
+    },
+    {
+      "id": "p00006.s1",
+      "original": "Наутро он просыпается молчаливым, но совершенно спокойным и здоровым.",
+      "translation": "Le matin, il se réveille silencieux, mais parfaitement calme et en bonne santé."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "Его исколотая память затихает, и до следующего полнолуния профессора не потревожит никто.",
+      "translation": "Sa mémoire meurtrie s'apaise, et jusqu'à la prochaine pleine lune, personne ne viendra troubler le professeur."
+    },
+    {
+      "id": "p00006.s3",
+      "original": "Ни безносый убийца Гестаса, ни жестокий пятый прокуратор Иудеи всадник Понтийский Пилат.",
+      "translation": "Ni l'assassin sans nez de Gestas, ni le cruel cinquième procurateur de Judée, le chevalier Ponce Pilate."
+    }
+  ]
+}

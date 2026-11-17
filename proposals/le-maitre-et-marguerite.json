@@ -1,0 +1,65 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-maitre-et-marguerite",
+  "title": "Le Maître et Marguerite",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Мастер и Маргарита, Москва, 1984 (dernière rédaction du vivant de l'auteur, avec les corrections dictées à E. S. Boulgakova), texte du site valib.ru ; début du chapitre 1 et fin de l'épilogue copiés par l'utilisateur",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "448b223d2b446e05eb9a032bc7c86cbfac59f03a306b8fc061ff44ae1719b44c",
+    "declaredSource": {
+      "url": "https://valib.ru/bulga000/00000027.htm#a34",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "лПиво и воды»",
+      "replace": "«Пиво и воды»",
+      "reason": "Défaut d'encodage du fichier source : « « » rendu par « л »"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2"
+    ],
+    "french": "Un jour de printemps, à l'heure d'un coucher de soleil d'une chaleur inouïe, deux citoyens apparurent à Moscou, aux étangs du Patriarche. Le premier d'entre eux, vêtu d'un costume d'été grisâtre, était de petite taille, replet et chauve ; il tenait à la main son chapeau mou, très convenable, et son visage soigneusement rasé s'ornait de lunettes d'une taille surnaturelle, à épaisse monture d'écaille noire.",
+    "original": "Однажды весною, в час небывало жаркого заката, в Москве, на Патриарших прудах, появились два гражданина. Первый из них, одетый в летнюю серенькую пару, был маленького роста, упитан, лыс, свою приличную шляпу пирожком нес в руке, а на хорошо выбритом лице его помещались сверхъестественных размеров очки в черной роговой оправе.",
+    "length": 408,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00005.s2",
+      "p00006.s1",
+      "p00006.s2",
+      "p00006.s3"
+    ],
+    "french": "C'est alors qu'Ivan Nikolaïevitch dort, le visage heureux.\nLe matin, il se réveille silencieux, mais parfaitement calme et en bonne santé. Sa mémoire meurtrie s'apaise, et jusqu'à la prochaine pleine lune, personne ne viendra troubler le professeur. Ni l'assassin sans nez de Gestas, ni le cruel cinquième procurateur de Judée, le chevalier Ponce Pilate.",
+    "original": "Вот тогда и спит Иван Николаевич со счастливым лицом.\nНаутро он просыпается молчаливым, но совершенно спокойным и здоровым. Его исколотая память затихает, и до следующего полнолуния профессора не потревожит никто. Ни безносый убийца Гестаса, ни жестокий пятый прокуратор Иудеи всадник Понтийский Пилат.",
+    "length": 354,
+    "truncated": false
+  }
+}
