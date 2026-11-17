@@ -1,0 +1,56 @@
+{
+  "formatVersion": 1,
+  "bookId": "pantagruel",
+  "title": "Pantagruel",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux), Pantagruel ; texte en orthographe ancienne, complet",
+  "pages": [
+    {
+      "title": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux)/Pantagruel/Prologue de l’Auteur",
+      "revisionId": 15932449
+    },
+    {
+      "title": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux)/Pantagruel/34",
+      "revisionId": 13536374
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "4c7c5c175b975ffcce15f2370893a03422f156313dd19b7b4e6af021034edecb",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "resillvstres & Treſchevaleureux champions, gentilz hommes & "
+  },
+  "bodyEnd": {
+    "id": "p00006",
+    "textPrefix": "Car donnans entendre au populaire commun, qu’ilz ne ſont occ"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intertitres, et la formule finale d'édition « Fin des Cronicques de Pantagruel… » (p00007), qui est une mention de fin et donnerait le titre. Le corps s'ouvre au prologue de l'auteur et se clôt sur la conclusion du livre (chap. XXXIIII)."
+  ],
+  "titleMasks": [
+    "pantagruel"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "resillvstres & Treſchevaleureux champions, gentilz hommes & aultres, qui voluntiers vous adonnez à toutes gentilleſſes & honneſtetez, vous avez na gueres veu, leu, & ſceu les grandes & ineſtimables Chronicques de l’enorme geant Gargantua : & comme vrays fideles les avez creues gualantement, & y avez maintefoys paſſé voſtre temps avecques les honorables Dames & Damoyſelles, leur en faiſans beaulx et longs narrez, alors que eſtiez hors de propos : dont eſtez bien dignes de grande louange, & memoire ſempiternelle. Et à la mienne volunté que chaſcun laiſſaſt ſa propre beſoigne, ne ſe ſouciaſt de ſon meſtier & miſt ſes affaires propres en oubly, pour y vacquer entierement, ſans que ſon eſperit feuſt de ailleurs diſtraict ny empeſché : iuſques à ce que l’on les tint par cueur, affin que ſi d’adventure l’art de l’Imprimerie ceſſoit, ou en cas que tous liures periſſent, on temps advenir un chaſcun les peuſt bien au net enſeigner à ſes enfans",
+      "replace": "Tresillustres & Treschevaleureux champions, gentilz hommes & aultres, qui voluntiers vous adonnez à toutes gentillesses & honnestetez, vous avez na gueres veu, leu, & sceu les grandes & inestimables Chronicques de l’enorme geant Gargantua : & comme vrays fideles les avez creues gualantement, & y avez maintefoys passé vostre temps avecques les honorables Dames & Damoyselles, leur en faisans beaulx et longs narrez, alors que estiez hors de propos : dont estez bien dignes de grande louange, & memoire sempiternelle. Et à la mienne volunté que chascun laissast sa propre besoigne, ne se souciast de son mestier & mist ses affaires propres en oubly, pour y vacquer entierement, sans que son esperit feust de ailleurs distraict ny empesché : iusques à ce que l’on les tint par cueur, affin que si d’adventure l’art de l’Imprimerie cessoit, ou en cas que tous liures perissent, on temps advenir un chascun les peust bien au net enseigner à ses enfans",
+      "reason": "Édition en orthographe ancienne : « ſ » (s long) rendu par « s », seule graphie modernisée ; le reste du texte est inchangé ; lettrine initiale T absente (« resillvstres » → « Tresillustres »), rétablie"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "Car donnans entendre au populaire commun, qu’ilz ne ſont occupez ſinon à contemplation & deuotion, en ieuſnes & maceration de la ſenſualité, ſinon vrayement pour ſuſtenter & alimenter la petite fragilité de leur humanité : au contraire font chiere dieu ſçait quelle, & Curios ſimulant, ſed Bacchanalia viuunt. Vous le pouuez lire en groſſe lettre & enlumineure de leurs rouges muzeaulx, & ventres à poulaine, ſinon quand ilz ſe parfument de Soulphre. Quant eſt de leur eſtude, elle eſt toute conſummee à la lecture de liures Pantagruelicques : non tant pour paſſer temps ioyeuſement, que pour nuyre à quelcun meſchantement, ſçauoir eſt, articulant, monorticulant, torticulant, culletant, couilletant & diabliculant, c’eſt à dire callumniant. Ce que faiſans ſemblent es coquins de village qui fougent & echarbottent la merde des petitz enfans en la ſaiſon des ceriſes & guignes pour trouuer les noyaulx, & iceulx vendre es drogueurs qui font l’huille de Maguelet. Iceulx fuyez, abhorrissez, et haissez autant que je foys et vous en trouverez bien sur ma foy. Et si desirez estre bons pantagruelistes (c’est à dire vivre en paix, joye, santé, faisans tousjours grande chere), ne vous fiez jamais en gens qui regardent par un partuys.",
+      "replace": "Car donnans entendre au populaire commun, qu’ilz ne sont occupez sinon à contemplation & deuotion, en ieusnes & maceration de la sensualité, sinon vrayement pour sustenter & alimenter la petite fragilité de leur humanité : au contraire font chiere dieu sçait quelle, & Curios simulant, sed Bacchanalia viuunt. Vous le pouuez lire en grosse lettre & enlumineure de leurs rouges muzeaulx, & ventres à poulaine, sinon quand ilz se parfument de Soulphre. Quant est de leur estude, elle est toute consummee à la lecture de liures Pantagruelicques : non tant pour passer temps ioyeusement, que pour nuyre à quelcun meschantement, sçauoir est, articulant, monorticulant, torticulant, culletant, couilletant & diabliculant, c’est à dire callumniant. Ce que faisans semblent es coquins de village qui fougent & echarbottent la merde des petitz enfans en la saison des cerises & guignes pour trouuer les noyaulx, & iceulx vendre es drogueurs qui font l’huille de Maguelet. Iceulx fuyez, abhorrissez, et haissez autant que je foys et vous en trouverez bien sur ma foy. Et si desirez estre bons pantagruelistes (c’est à dire vivre en paix, joye, santé, faisans tousjours grande chere), ne vous fiez jamais en gens qui regardent par un partuys.",
+      "reason": "Édition en orthographe ancienne : « ſ » (s long) rendu par « s », seule graphie modernisée ; le reste du texte est inchangé"
+    }
+  ]
+}
