@@ -29,7 +29,10 @@
   "notes": [
     "Exclus : page de titre, préface, liste des personnages, caractères et habillements, placement des acteurs, indication de lieu, didascalie d'ouverture de l'acte I ; didascalie finale « (Ballet général.) ». Début sur la première réplique de Figaro, fin sur le dernier couplet du vaudeville (Brid'Oison)."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "FIGARO",
+    "Figaro"
+  ],
   "readingOptions": [],
   "textCorrections": [
     {

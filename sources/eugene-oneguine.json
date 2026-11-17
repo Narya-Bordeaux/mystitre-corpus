@@ -34,6 +34,8 @@
   "notes": [
     "Exclus : page de titre, dédicace du traducteur, préface et notice biographique de Béesau, dédicace de Pouchkine à Plétnief, épigraphe de Viazemski, « FIN. ». Début à « Mon oncle… », fin à « …mon Onéguine ! »."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Onéguine"
+  ],
   "readingOptions": []
 }

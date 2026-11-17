@@ -24,7 +24,9 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "883ceb212e03c70e44a34ec5db5eb8dd01dc9b47cc1b6c1610e122b43aeadd4a"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Clèves"
+  ],
   "createdOn": "2026-11-17",
   "opening": {
     "sentenceIds": [
@@ -41,7 +43,7 @@
       "p00165.s6",
       "p00165.s7"
     ],
-    "french": "Madame de Clèves vécut d’une sorte qui ne laissa pas d’apparence qu’elle pût jamais revenir. Elle passait une partie de l’année dans cette maison religieuse, et l’autre chez elle ; mais dans une retraite et dans des occupations plus saintes que celles des couvents les plus austères ; et sa vie, qui fut assez courte, laissa des exemples de vertu inimitables.",
+    "french": "Madame de [TITRE] vécut d’une sorte qui ne laissa pas d’apparence qu’elle pût jamais revenir. Elle passait une partie de l’année dans cette maison religieuse, et l’autre chez elle ; mais dans une retraite et dans des occupations plus saintes que celles des couvents les plus austères ; et sa vie, qui fut assez courte, laissa des exemples de vertu inimitables.",
     "original": "Madame de Clèves vécut d’une sorte qui ne laissa pas d’apparence qu’elle pût jamais revenir. Elle passait une partie de l’année dans cette maison religieuse, et l’autre chez elle ; mais dans une retraite et dans des occupations plus saintes que celles des couvents les plus austères ; et sa vie, qui fut assez courte, laissa des exemples de vertu inimitables.",
     "length": 359,
     "truncated": false

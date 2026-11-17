@@ -25,7 +25,9 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "126764539d7cd29a4dded37f752ee40652aa0b9c523e446e60874867912de35b"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Onéguine"
+  ],
   "createdOn": "2026-11-17",
   "opening": {
     "sentenceIds": [
@@ -45,7 +47,7 @@
       "p00673.s2",
       "p00673.s3"
     ],
-    "french": "Et toi dont l’image s’est identifiée avec ma Tatiana, où es-tu maintenant ?\nHélas ! le sort a frappé tout autour de moi ! Heureux celui qui de bonne heure quitta le banquet de la vie avant d’avoir entièrement vidé la coupe ! Heureux aussi celui qui n’acheva pas son propre roman, et le quitta comme je quitte mon Onéguine !",
+    "french": "Et toi dont l’image s’est identifiée avec ma Tatiana, où es-tu maintenant ?\nHélas ! le sort a frappé tout autour de moi ! Heureux celui qui de bonne heure quitta le banquet de la vie avant d’avoir entièrement vidé la coupe ! Heureux aussi celui qui n’acheva pas son propre roman, et le quitta comme je quitte mon [TITRE] !",
     "original": "Et toi dont l’image s’est identifiée avec ma Tatiana, où es-tu maintenant ?\nHélas ! le sort a frappé tout autour de moi ! Heureux celui qui de bonne heure quitta le banquet de la vie avant d’avoir entièrement vidé la coupe ! Heureux aussi celui qui n’acheva pas son propre roman, et le quitta comme je quitte mon Onéguine !",
     "length": 323,
     "truncated": false

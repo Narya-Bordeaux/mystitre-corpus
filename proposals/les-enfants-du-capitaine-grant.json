@@ -24,7 +24,9 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "3d9478c78f41ffba04e616d463e85adc2426cc6e44c85c007944d414bc67d448"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Grant"
+  ],
   "createdOn": "2026-11-17",
   "opening": {
     "sentenceIds": [
@@ -41,7 +43,7 @@
       "p00102.s1",
       "p00102.s2"
     ],
-    "french": "Le retour du capitaine en Écosse fut salué comme un événement national, et Harry Grant devint l’homme le plus populaire de la vieille Calédonie. Son fils Robert s’est fait marin comme lui, marin comme le capitaine John, et c’est sous les auspices de lord Glenarvan qu’il a repris le projet de fonder une colonie écossaise dans les mers du Pacifique.",
+    "french": "Le retour du capitaine en Écosse fut salué comme un événement national, et Harry [TITRE] devint l’homme le plus populaire de la vieille Calédonie. Son fils Robert s’est fait marin comme lui, marin comme le capitaine John, et c’est sous les auspices de lord Glenarvan qu’il a repris le projet de fonder une colonie écossaise dans les mers du Pacifique.",
     "original": "Le retour du capitaine en Écosse fut salué comme un événement national, et Harry Grant devint l’homme le plus populaire de la vieille Calédonie. Son fils Robert s’est fait marin comme lui, marin comme le capitaine John, et c’est sous les auspices de lord Glenarvan qu’il a repris le projet de fonder une colonie écossaise dans les mers du Pacifique.",
     "length": 349,
     "truncated": false

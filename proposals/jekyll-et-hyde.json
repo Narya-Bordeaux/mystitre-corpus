@@ -29,7 +29,9 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "32a4abacb7b92012e610493a223c0992efdeba9ece1004d050180b5ef0dbee1c"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Jekyll"
+  ],
   "createdOn": "2026-11-17",
   "opening": {
     "sentenceIds": [
@@ -48,7 +50,7 @@
       "p00066.s11",
       "p00066.s12"
     ],
-    "french": "Ou trouvera-t-il le courage de se libérer au dernier moment ? Dieu le sait, cela m’est égal. Je suis maintenant à l’heure véritable de ma mort, et ce qui suivra concerne un autre que moi. Ici alors, en posant ma plume, et terminant ma confession, j’amène à sa fin la vie de ce malheureux Henry Jekyll.",
+    "french": "Ou trouvera-t-il le courage de se libérer au dernier moment ? Dieu le sait, cela m’est égal. Je suis maintenant à l’heure véritable de ma mort, et ce qui suivra concerne un autre que moi. Ici alors, en posant ma plume, et terminant ma confession, j’amène à sa fin la vie de ce malheureux Henry [TITRE].",
     "original": "Ou trouvera-t-il le courage de se libérer au dernier moment ? Dieu le sait, cela m’est égal. Je suis maintenant à l’heure véritable de ma mort, et ce qui suivra concerne un autre que moi. Ici alors, en posant ma plume, et terminant ma confession, j’amène à sa fin la vie de ce malheureux Henry Jekyll.",
     "length": 301,
     "truncated": false

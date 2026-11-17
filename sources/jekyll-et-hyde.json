@@ -38,6 +38,8 @@
   "notes": [
     "Exclus : titres de chapitre. Deux bouts seulement : chapitre I (Histoire de la porte) et dernier chapitre (Exposé complet de Henry Jekyll)."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Jekyll"
+  ],
   "readingOptions": []
 }

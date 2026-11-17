@@ -24,8 +24,10 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "ed1537a31635aa1e228931e6130db4a4f2e42cd6f431a264aa46a19d69cf56c0"
   },
-  "titleMasks": [],
-  "createdOn": "2026-11-16",
+  "titleMasks": [
+    "Parme"
+  ],
+  "createdOn": "2026-11-17",
   "opening": {
     "sentenceIds": [
       "p00003.s1",
@@ -41,7 +43,7 @@
       "p00117.s3",
       "p00118.s1"
     ],
-    "french": "La comtesse en un mot réunissait toutes les apparences du bonheur, mais elle ne survécut que fort peu de temps à Fabrice, qu’elle adorait, et qui ne passa qu’une année dans sa Chartreuse.\nLes prisons de Parme étaient vides, le comte immensément riche, Ernest V adoré de ses sujets qui comparaient son gouvernement à celui des grands-ducs de Toscane.",
+    "french": "La comtesse en un mot réunissait toutes les apparences du bonheur, mais elle ne survécut que fort peu de temps à Fabrice, qu’elle adorait, et qui ne passa qu’une année dans sa Chartreuse.\nLes prisons de [TITRE] étaient vides, le comte immensément riche, Ernest V adoré de ses sujets qui comparaient son gouvernement à celui des grands-ducs de Toscane.",
     "original": "La comtesse en un mot réunissait toutes les apparences du bonheur, mais elle ne survécut que fort peu de temps à Fabrice, qu’elle adorait, et qui ne passa qu’une année dans sa Chartreuse.\nLes prisons de Parme étaient vides, le comte immensément riche, Ernest V adoré de ses sujets qui comparaient son gouvernement à celui des grands-ducs de Toscane.",
     "length": 349,
     "truncated": false

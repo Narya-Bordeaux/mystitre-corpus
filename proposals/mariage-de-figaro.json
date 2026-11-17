@@ -20,7 +20,10 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "7eeaf7de9159fcdaf6ad6b296614a62b2277924b4c16a9bbfac5631e55114eea"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "FIGARO",
+    "Figaro"
+  ],
   "textCorrections": [
     {
       "kind": "exclude",
@@ -52,7 +55,7 @@
       "p00201.s2",
       "p00203.s1"
     ],
-    "french": "FIGARO. — Dix-neuf pieds sur vingt-six.\nSUZANNE. — Tiens, Figaro, voilà mon petit chapeau : le trouves-tu mieux ainsi ?\nFIGARO. — Sans comparaison, ma charmante. Oh ! que ce joli bouquet virginal, élevé sur la tête d’une belle fille, est doux, le matin des noces, à l’œil amoureux d’un époux !…\nSUZANNE. — Que mesures-tu donc là, mon fils ?",
+    "french": "[TITRE]. — Dix-neuf pieds sur vingt-six.\nSUZANNE. — Tiens, [TITRE], voilà mon petit chapeau : le trouves-tu mieux ainsi ?\n[TITRE]. — Sans comparaison, ma charmante. Oh ! que ce joli bouquet virginal, élevé sur la tête d’une belle fille, est doux, le matin des noces, à l’œil amoureux d’un époux !…\nSUZANNE. — Que mesures-tu donc là, mon fils ?",
     "original": "FIGARO. — Dix-neuf pieds sur vingt-six.\nSUZANNE. — Tiens, Figaro, voilà mon petit chapeau : le trouves-tu mieux ainsi ?\nFIGARO. — Sans comparaison, ma charmante. Oh ! que ce joli bouquet virginal, élevé sur la tête d’une belle fille, est doux, le matin des noces, à l’œil amoureux d’un époux !…\nSUZANNE. — Que mesures-tu donc là, mon fils ?",
     "length": 340,
     "truncated": false

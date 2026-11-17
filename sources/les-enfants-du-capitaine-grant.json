@@ -33,6 +33,8 @@
   "notes": [
     "Exclus : page de titre, titre de chapitre (p00001-p00005) et mention « FIN DE LA TROISIÈME ET DERNIÈRE PARTIE » (p00103)."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Grant"
+  ],
   "readingOptions": []
 }

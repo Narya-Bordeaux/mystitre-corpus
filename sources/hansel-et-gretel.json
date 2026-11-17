@@ -29,6 +29,9 @@
   "notes": [
     "Exclut le titre « 15. / Hänsel und Grethel. » (p00001) et l'en-tête « Anmerkungen (Wikisource) » (p00022). La formule finale du conte est incluse."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Hansel",
+    "Gretel"
+  ],
   "readingOptions": []
 }

@@ -33,6 +33,8 @@
   "notes": [
     "Début au premier paragraphe du chapitre I du livre premier ; exclut l'avant-propos « От автора » (non enregistré) et les titres de livre et de chapitre. Fin au dernier paragraphe de l'épilogue."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Karamazov"
+  ],
   "readingOptions": []
 }

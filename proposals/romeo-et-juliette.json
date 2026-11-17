@@ -28,7 +28,12 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "da8a3f92a866f74ec1d44f0045055b77bf7816114a0b4a62fb27dc1650fb710c"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Roméo",
+    "Juliette",
+    "ROMÉO",
+    "JULIETTE"
+  ],
   "textCorrections": [
     {
       "kind": "replace",
@@ -124,7 +129,7 @@
       "p00417.s1",
       "p00418.s1"
     ],
-    "french": "CAPULET. — Aussi riche sera Roméo couché près de sa dame ;\nPauvres victimes de notre inimitié !\nLE PRINCE. — Une paix sombre nous apporte ce matin ;\nLe soleil, de chagrin, ne veut pas montrer sa face :\nSortons, pour parler davantage de ces tristes choses :\nCertains seront graciés, certains seront punis ;\nCar jamais histoire ne fut plus douloureuse\nQue celle de Juliette et de son Roméo.",
+    "french": "CAPULET. — Aussi riche sera [TITRE] couché près de sa dame ;\nPauvres victimes de notre inimitié !\nLE PRINCE. — Une paix sombre nous apporte ce matin ;\nLe soleil, de chagrin, ne veut pas montrer sa face :\nSortons, pour parler davantage de ces tristes choses :\nCertains seront graciés, certains seront punis ;\nCar jamais histoire ne fut plus douloureuse\nQue celle de [TITRE] et de son [TITRE].",
     "original": "CAPULET. — As rich shall Romeo by his lady lie;\nPoor sacrifices of our enmity!\nPRINCE. — A glooming peace this morning with it brings;\nThe sun, for sorrow, will not show his head:\nGo hence, to have more talk of these sad things:\nSome shall be pardon'd, and some punished:\nFor never was a story of more woe\nThan this of Juliet and her Romeo.",
     "length": 388,
     "truncated": false

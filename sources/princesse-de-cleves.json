@@ -33,6 +33,8 @@
   "notes": [
     "Exclus : titre d'édition (p00001-2) et mention « fin de la quatrième et dernière partie »"
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Clèves"
+  ],
   "readingOptions": []
 }

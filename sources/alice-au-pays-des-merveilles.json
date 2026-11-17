@@ -38,6 +38,8 @@
   "notes": [
     "Exclus : intitulé de chapitre, « FIN. » et la mention d'imprimeur anglaise résiduelle. Texte : traduction d'Henri Bué (1869), fidèle sur les extraits comparés."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Alice"
+  ],
   "readingOptions": []
 }

@@ -33,6 +33,8 @@
   "notes": [
     "Avertissement de Stendhal (1839) exclu : paratexte. Fin avant la dédicace « TO THE HAPPY FEW » et « FIN. »."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Parme"
+  ],
   "readingOptions": []
 }

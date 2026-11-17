@@ -29,6 +29,8 @@
   "notes": [
     "Exclut le numéro et le titre (p00001-2) et la liste des sources de Grimm (p00003-12) ; garde le récit et ses inscriptions commémoratives, qui appartiennent à la légende."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Hamelin"
+  ],
   "readingOptions": []
 }
