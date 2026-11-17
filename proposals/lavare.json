@@ -1,0 +1,66 @@
+{
+  "formatVersion": 1,
+  "bookId": "lavare",
+  "title": "L'Avare",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Avare, Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource, actes I à V)",
+    "pages": [
+      {
+        "title": "L’Avare (Molière)/Édition Louandre, 1910/Acte I",
+        "revisionId": 13025060
+      },
+      {
+        "title": "L’Avare (Molière)/Édition Louandre, 1910/Acte II",
+        "revisionId": 13025059
+      },
+      {
+        "title": "L’Avare (Molière)/Édition Louandre, 1910/Acte III",
+        "revisionId": 13025057
+      },
+      {
+        "title": "L’Avare (Molière)/Édition Louandre, 1910/Acte IV",
+        "revisionId": 13025056
+      },
+      {
+        "title": "L’Avare (Molière)/Édition Louandre, 1910/Acte V",
+        "revisionId": 13025055
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b9c8c57175f72eadcab8408ddbfb6860390129c14624987e58060c8a60fef63b"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "VALÈRE. — Hé quoi ! charmante Élise, vous devenez mélancolique, après les obligeantes assurances que vous avez eu la bonté de me donner de votre foi ? Je vous vois soupirer, hélas ! au milieu de ma joie ! Est-ce du regret, dites-moi, de m’avoir fait heureux ? et vous repentez-vous de cet engagement où mes feux ont pu vous contraindre ?",
+    "original": "VALÈRE. — Hé quoi ! charmante Élise, vous devenez mélancolique, après les obligeantes assurances que vous avez eu la bonté de me donner de votre foi ? Je vous vois soupirer, hélas ! au milieu de ma joie ! Est-ce du regret, dites-moi, de m’avoir fait heureux ? et vous repentez-vous de cet engagement où mes feux ont pu vous contraindre ?",
+    "length": 337,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01185.s2",
+      "p01186.s1",
+      "p01187.s1",
+      "p01188.s1",
+      "p01188.s2",
+      "p01189.s1"
+    ],
+    "french": "MAÎTRE JACQUES. — On me donne des coups de bâton pour dire vrai, et on me veut pendre pour mentir !\nANSELME. — Seigneur Harpagon, il faut lui pardonner cette imposture.\nHARPAGON. — Vous payerez donc le commissaire ?\nANSELME. — Soit. Allons vite faire part de notre joie à votre mère.\nHARPAGON. — Et moi, voir ma chère cassette.",
+    "original": "MAÎTRE JACQUES. — On me donne des coups de bâton pour dire vrai, et on me veut pendre pour mentir !\nANSELME. — Seigneur Harpagon, il faut lui pardonner cette imposture.\nHARPAGON. — Vous payerez donc le commissaire ?\nANSELME. — Soit. Allons vite faire part de notre joie à votre mère.\nHARPAGON. — Et moi, voir ma chère cassette.",
+    "length": 327,
+    "truncated": false
+  }
+}
