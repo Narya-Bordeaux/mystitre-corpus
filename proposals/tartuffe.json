@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "tartuffe",
+  "title": "Tartuffe",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Tartuffe ou l’Imposteur, Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource, page « Texte entier »)",
+    "pages": [
+      {
+        "title": "Tartuffe ou l’Imposteur/Édition Louandre, 1910/Texte entier",
+        "revisionId": 14172345
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "454e1f5b9792d986ce09ada9c8a012dfa4e5da99f805c7ce9ee89e466bf68620"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00007.s1",
+      "p00008.s1",
+      "p00009.s1",
+      "p00011.s1"
+    ],
+    "french": "MADAME PERNELLE. — Allons, Flipote, allons ; que d’eux je me délivre.\nELMIRE. — Vous marchez d’un tel pas, qu’on a peine à vous suivre.\nMADAME PERNELLE. — Laissez, ma bru, laissez ; ne venez pas plus loin ;\nCe sont toutes façons dont je n’ai pas besoin.\nELMIRE. — De ce que l’on vous doit envers vous on s’acquitte.",
+    "original": "MADAME PERNELLE. — Allons, Flipote, allons ; que d’eux je me délivre.\nELMIRE. — Vous marchez d’un tel pas, qu’on a peine à vous suivre.\nMADAME PERNELLE. — Laissez, ma bru, laissez ; ne venez pas plus loin ;\nCe sont toutes façons dont je n’ai pas besoin.\nELMIRE. — De ce que l’on vous doit envers vous on s’acquitte.",
+    "length": 315,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01203.s2",
+      "p01204.s1",
+      "p01204.s2"
+    ],
+    "french": "CLÉANTE. — Souhaitez bien plutôt que son cœur, en ce jour,\nAu sein de la vertu fasse un heureux retour ;\nQu’il corrige sa vie en détestant son vice,\nEt puisse du grand prince adoucir la justice ;\nTandis qu’à sa bonté vous irez, à genoux,\nRendre ce que demande un traitement si doux.\nORGON. — Oui, c’est bien dit. Allons à ses pieds avec joie\nNous louer des bontés que son cœur nous déploie :\nPuis, acquittés un peu de ce premier devoir,\nAux justes soins d’un autre il nous faudra pourvoir,\nEt par un doux hymen couronner en Valère\nLa flamme d’un amant généreux et sincère.",
+    "original": "CLÉANTE. — Souhaitez bien plutôt que son cœur, en ce jour,\nAu sein de la vertu fasse un heureux retour ;\nQu’il corrige sa vie en détestant son vice,\nEt puisse du grand prince adoucir la justice ;\nTandis qu’à sa bonté vous irez, à genoux,\nRendre ce que demande un traitement si doux.\nORGON. — Oui, c’est bien dit. Allons à ses pieds avec joie\nNous louer des bontés que son cœur nous déploie :\nPuis, acquittés un peu de ce premier devoir,\nAux justes soins d’un autre il nous faudra pourvoir,\nEt par un doux hymen couronner en Valère\nLa flamme d’un amant généreux et sincère.",
+    "length": 572,
+    "truncated": false
+  }
+}

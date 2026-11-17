@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "tartuffe",
+  "title": "Tartuffe",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Tartuffe ou l’Imposteur, Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource, page « Texte entier »)",
+  "pages": [
+    {
+      "title": "Tartuffe ou l’Imposteur/Édition Louandre, 1910/Texte entier",
+      "revisionId": 14172345
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "454e1f5b9792d986ce09ada9c8a012dfa4e5da99f805c7ce9ee89e466bf68620",
+  "bodyStart": {
+    "id": "p00007",
+    "textPrefix": "Allons, Flipote, allons ; que d’eux je me délivre."
+  },
+  "bodyEnd": {
+    "id": "p01205",
+    "textPrefix": "Nous louer des bontés que son cœur nous déploie :\nPuis, acqu"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : liste des personnages, indication de lieu, titres d'acte et de scène, « Fin du Tartuffe ». Corps = première réplique de Madame Pernelle jusqu'à la dernière d'Orgon."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
