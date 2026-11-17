@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "gatsby-le-magnifique",
+  "title": "Gatsby le Magnifique",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Gatsby le Magnifique, traduction de Victor Llona, Éditions du Sagittaire, Paris, 1946 (édition numérisée sur Wikisource français) ; chapitres I et IX figés (œuvre longue : deux bouts)",
+  "pages": [
+    {
+      "title": "Gatsby le Magnifique/I",
+      "revisionId": 14621232
+    },
+    {
+      "title": "Gatsby le Magnifique/IX",
+      "revisionId": 14649578
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c3ca36995b5d0c4003151c53849c9a70997f13945cd4e3f6d1661bba7782dc29",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Quand j’étais plus jeune, ce qui veut dire plus vulnérable, "
+  },
+  "bodyEnd": {
+    "id": "p00358",
+    "textPrefix": "C’est ainsi que nous avançons, barques luttant contre un cou"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Victor Llona",
+    "translationYear": 1946,
+    "translatorDeathYear": 1953,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Llona&oldid=13593249",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intitulés de chapitres « I » et « IX ». Pages de titre, mentions d'éditeur et de copyright absentes des pages enregistrées. Gardé : tout le texte jusqu'à la dernière phrase."
+  ],
+  "titleMasks": [
+    "Gatsby"
+  ],
+  "readingOptions": []
+}
