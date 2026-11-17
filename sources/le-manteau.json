@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-manteau",
+  "title": "Le Manteau",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource français, « Le Manteau (trad. Henri Mongault) », revue Le Monde slave, avril 1938",
+  "pages": [
+    {
+      "title": "Le Manteau (trad. Henri Mongault)",
+      "revisionId": 13176204
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0b6e0100c258c3152376f2163649e7a8ae496baf4fd20b38d77fc0c939339c11",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Au ministère de… Non, mieux vaut ne pas le nommer. Personne "
+  },
+  "bodyEnd": {
+    "id": "p00117",
+    "textPrefix": "Le fantôme était cette fois de taille beaucoup plus haute et"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Henri Mongault",
+    "translationYear": 1938,
+    "translatorDeathYear": 1941,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Henri_Mongault&oldid=15313150",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, note de présentation de la revue (« M. Sl. »), signature et mention du traducteur en fin de page"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00115",
+      "find": "veux-tu ? » demanda",
+      "replace": "veux-tu ? demanda",
+      "reason": "guillemet fermant orphelin : aucun guillemet ouvrant dans l'édition numérisée (p00114)"
+    }
+  ]
+}
