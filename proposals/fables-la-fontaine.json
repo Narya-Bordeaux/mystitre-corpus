@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "fables-la-fontaine",
+  "title": "Les Fables",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Fables de La Fontaine (éd. 1874), Wikisource ; première fable (Livre I) et dernière (Livre XII)",
+    "pages": [
+      {
+        "title": "Fables de La Fontaine (éd. 1874)/La Cigale et la Fourmi",
+        "revisionId": 13176453
+      },
+      {
+        "title": "Fables de La Fontaine (éd. 1874)/Le Juge Arbitre, l’Hospitalier et le Solitaire",
+        "revisionId": 12789496
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c8c2ae78d9aeee9a1dd718a173f4a7847784bacf4764ea2635743c8db0b95526"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "La cigale, ayant chanté\nTout l’été,\nSe trouva fort dépourvue\nQuand la bise fut venue :\nPas un seul petit morceau\nDe mouche ou de vermisseau.\nElle alla crier famine\nChez la fourmi, sa voisine,\nLa priant de lui prêter\nQuelque grain pour subsister\nJusqu’à la saison nouvelle.\nJe vous paierai, lui dit-elle,\nAvant l’oût, foi d’animal,\nIntérêt et principal.",
+    "original": "La cigale, ayant chanté\nTout l’été,\nSe trouva fort dépourvue\nQuand la bise fut venue :\nPas un seul petit morceau\nDe mouche ou de vermisseau.\nElle alla crier famine\nChez la fourmi, sa voisine,\nLa priant de lui prêter\nQuelque grain pour subsister\nJusqu’à la saison nouvelle.\nJe vous paierai, lui dit-elle,\nAvant l’oût, foi d’animal,\nIntérêt et principal.",
+    "length": 352,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00008.s2",
+      "p00008.s3",
+      "p00008.s4",
+      "p00008.s5"
+    ],
+    "french": "Ô vous, dont le public emporte tous les soins,\nMagistrats, princes, et ministres,\nVous que doivent troubler mille accidents sinistres,\nQue le malheur abat, que le bonheur corrompt,\nVous ne vous voyez point, vous ne voyez personne.\nSi quelque bon moment à ces pensers vous donne,\nQuelque flatteur vous interrompt.\nCette leçon sera la fin de ces ouvrages :\nPuisse-t-elle être utile aux siècles à venir !\nJe la présente aux rois, je la propose aux sages :\nPar où saurais-je mieux finir ?",
+    "original": "Ô vous, dont le public emporte tous les soins,\nMagistrats, princes, et ministres,\nVous que doivent troubler mille accidents sinistres,\nQue le malheur abat, que le bonheur corrompt,\nVous ne vous voyez point, vous ne voyez personne.\nSi quelque bon moment à ces pensers vous donne,\nQuelque flatteur vous interrompt.\nCette leçon sera la fin de ces ouvrages :\nPuisse-t-elle être utile aux siècles à venir !\nJe la présente aux rois, je la propose aux sages :\nPar où saurais-je mieux finir ?",
+    "length": 484,
+    "truncated": false
+  }
+}
