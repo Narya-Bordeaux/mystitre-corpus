@@ -1,0 +1,3414 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-precieuses-ridicules",
+  "sha256": "0bad13cd02d32061a7a25d5adc1d1c90addd4bd5b8b0a3637c217aac1d517ba6",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "PERSONNAGES"
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "verse",
+      "lines": [
+        "Gorgibus, bon bourgeois.",
+        "Marotte, servante des précieuses ridicules."
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "verse",
+      "lines": [
+        "Almanzor, laquais des précieuses ridicules.",
+        "Le Marquis de MASCARILLE, valet de La Grange.",
+        "Le Vicomte de JODELET, valet de Du Croisy.",
+        "Deux porteurs de chaise.",
+        "Voisines.",
+        "Violons."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène I"
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "La Grange, Du Croisy."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Seigneur la Grange."
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Quoi ?"
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Regardez-moi un peu sans rire."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Hé bien ?"
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Que dites-vous de notre visite ? En êtes-vous fort satisfait ?"
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "À votre avis, avons-nous sujet de l’être tous deux ?"
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Pas tout à fait, à dire vrai."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Pour moi, je vous avoue que j’en suis tout scandalisé. A-t-on jamais vu, dites-moi, deux pecques provinciales faire plus les renchéries que celles-là, et deux hommes traités avec plus de mépris que nous ? À peine ont-elles pu se résoudre à nous faire donner des siéges. Je n’ai jamais vu tant parler à l’oreille qu’elles ont fait entre elles, tant bâiller, tant se frotter les yeux, et demander tant de fois : Quelle heure est-il ? Ont-elles répondu que oui et non à tout ce que nous avons pu leur dire ? et ne m’avouerez-vous pas enfin que, quand nous aurions été les dernières personnes du monde, on ne pouvoit nous faire pis qu’elles ont fait ?"
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Il me semble que vous prenez la chose fort à cœur."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Sans doute, je l’y prends, et de telle façon, que je veux me venger de cette impertinence. Je connois ce qui nous a fait mépriser. L’air précieux n’a pas seulement infecté Paris, il s’est aussi répandu dans les provinces, et nos donzelles ridicules en ont humé leur bonne part. En un mot, c’est un ambigu de précieuse et de coquette que leur personne. Je vois ce qu’il faut être pour en être bien reçu ; et si vous m’en croyez, nous leur jouerons tous deux une pièce qui leur fera voir leur sottise, et pourra leur apprendre à connoître un peu mieux leur monde."
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Et comment encore ?"
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "J’ai un certain valet, nommé Mascarille, qui passe, au sentiment de beaucoup de gens, pour une manière de bel esprit ; car il n’y a rien à meilleur marché que le bel esprit maintenant. C’est un extravagant, qui s’est mis dans la tête de vouloir faire l’homme de condition. Il se pique ordinairement de galanterie et de vers, et dédaigne les autres valets, jusqu’à les appeler brutaux."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Eh bien ! qu’en prétendez-vous faire ?"
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Ce que j’en prétends faire ? Il faut… Mais sortons d’ici auparavant."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Gorgibus, du Croisy, La Grange"
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Eh bien ! vous avez vu ma nièce et ma fille : les affaires iront-elles bien ? Quel est le résultat de cette visite ?"
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "C’est une chose que vous pourrez mieux apprendre d’elles que de nous. Tout ce que nous pouvons vous dire, c’est que nous vous rendons grâce de la faveur que vous nous avez faite, et demeurons vos très-humbles serviteurs."
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Vos très humbles serviteurs."
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS, SEUL",
+      "lines": [
+        "Ouais ! il semble qu’ils sortent mal satisfaits d’ici. D’où pourroit venir leur mécontentement ? Il faut savoir un peu ce que c’est. Holà !"
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène III"
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Gorgibus, Marotte."
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Que désirez-vous, Monsieur ?"
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Où sont vos maîtresses ?"
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Dans leur cabinet."
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Que font-elles ?"
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "De la pommade pour les lèvres."
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "C’est trop pommadé. Dites-leur qu’elles descendent."
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène IV"
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Gorgibus, seul."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Ces pendardes-là, avec leur pommade, ont, je pense, envie de me ruiner. Je ne vois partout que blancs d’œufs, lait virginal, et mille autres brimborions que je ne connois point. Elles ont usé, depuis que nous sommes ici, le lard d’une douzaine de cochons, pour le moins, et quatre valets vivroient tous les jours des pieds de mouton qu’elles emploient."
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène V"
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Madelon, Cathos, Gorgibus."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Il est bien nécessaire vraiment de faire tant de dépense pour vous graisser le museau. Dites-moi un peu ce que vous avez fait à ces messieurs, que je les vois sortir avec tant de froideur ? Vous avois-je pas commandé de les recevoir comme des personnes que je voulois vous donner pour maris ?"
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Et quelle estime, mon père, voulez-vous que nous fassions du procédé irrégulier de ces gens-là ?"
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Le moyen, mon oncle, qu’une fille un peu raisonnable se pût accommoder de leur personne ?"
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Et qu’y trouvez-vous à redire ?"
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "La belle galanterie que la leur ! Quoi ! débuter d’abord par le mariage ?"
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Et par où veux-tu donc qu’ils débutent ? par le concubinage ? N’est-ce pas un procédé dont vous avez sujet de vous louer toutes deux aussi bien que moi ? Est-il rien de plus obligeant que cela ? Et ce lien sacré où ils aspirent, n’est-il pas un témoignage de l’honnêteté de leurs intentions ?"
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ah ! mon père, ce que vous dites là est du dernier bourgeois. Cela me fait honte de vous ouïr parler de la sorte, et vous devriez un peu vous faire apprendre le bel air des choses."
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Je n’ai que faire ni d’air ni de chanson. Je te dis que le mariage est une chose sainte et sacrée, et que c’est faire en honnêtes gens que de débuter par là."
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Mon Dieu ! que, si tout le monde vous ressembloit, un roman seroit bientôt fini ! La belle chose que ce seroit si d’abord Cyrus épousoit Mandane, et qu’Aronce de plain-pied fût marié à Clélie !"
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Que me vient conter celle-ci ?"
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Mon père, voilà ma cousine qui vous dira, aussi bien que moi, que le mariage ne doit jamais arriver qu’après les autres aventures. Il faut qu’un amant, pour être agréable, sache débiter les beaux sentiments, pousser le doux, le tendre et le passionné, et que sa recherche soit dans les formes. Premièrement, il doit voir au temple, ou à la promenade, ou dans quelque cérémonie publique, la personne dont il devient amoureux ; ou bien être conduit fatalement chez elle par un parent ou un ami, et sortir de là tout rêveur et mélancolique. Il cache un temps sa passion à l’objet aimé, et cependant lui rend plusieurs visites, où l’on ne manque jamais de mettre sur le tapis une question galante qui exerce les esprits de l’assemblée. Le jour de la déclaration arrive, qui se doit faire ordinairement dans une allée de quelque jardin, tandis que la compagnie s’est un peu éloignée ; et cette déclaration est suivie d’un prompt courroux, qui paroît à notre rougeur, et qui, pour un temps, bannit l’amant de notre présence. Ensuite il trouve moyen de nous apaiser, de nous accoutumer insensiblement au discours de sa passion, et de tirer de nous cet aveu qui fait tant de peine. Après cela viennent les aventures, les rivaux qui se jettent à la traverse d’une inclination établie, les persécutions des pères, les jalousies conçues sur de fausses apparences, les plaintes, les désespoirs, les enlèvements, et ce qui s’ensuit. Voilà comme les choses se traitent dans les belles manières et ce sont des règles dont, en bonne galanterie, on ne sauroit se dispenser. Mais en venir de but en blanc à l’union conjugale, ne faire l’amour qu’en faisant le contrat du mariage, et prendre justement le roman par la queue ; encore un coup, mon père, il ne se peut rien de plus marchand que ce procédé ; et j’ai mal au cœur de la seule vision que cela me fait."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Quel diable de jargon entends-je ici ? Voici bien du haut style."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "En effet, mon oncle, ma cousine donne dans le vrai de la chose. Le moyen de bien recevoir des gens qui sont tout à fait incongrus en galanterie ! Je m’en vais gager qu’ils n’ont jamais vu la carte de Tendre, et que Billets-Doux, Petits-Soins, Billets-Galants et Jolis-Vers sont des terres inconnues pour eux. Ne voyez-vous pas que toute leur personne marque cela, et qu’ils n’ont point cet air qui donne d’abord bonne opinion des gens ? Venir en visite amoureuse avec une jambe toute unie, un chapeau désarmé de plumes, une tête irrégulière en cheveux, et un habit qui souffre une indigence de rubans !… mon Dieu ! quels amants sont-ce là ! Quelle frugalité d’ajustement et quelle sécheresse de conversation ! On n’y dure point, on n’y tient pas. J’ai remarqué encore que leurs rabats ne sont pas de la bonne faiseuse, et qu’il s’en faut plus d’un grand demi-pied que leurs hauts-de-chausses ne soient assez larges."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Je pense qu’elles sont folles toutes deux, et je ne puis rien comprendre à ce baragouin. Cathos, et vous, Magdelon…"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Hé ! de grâce, mon père, défaites-vous de ces noms étranges, et nous appelez autrement."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Comment, ces noms étranges ! Ne sont-ce pas vos noms de baptême ?"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Mon Dieu ! que vous êtes vulgaire ! Pour moi, un de mes étonnements, c’est que vous ayez pu faire une fille si spirituelle que moi. A-t-on jamais parlé dans le beau style de Cathos ni de Magdelon, et ne m’avouerez-vous pas que ce seroit assez d’un de ces noms pour décrier le plus beau roman du monde ?"
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Il est vrai, mon oncle, qu’une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là ; et le nom de Polyxène que ma cousine a choisi, et celui d’Aminte que je me suis donné, ont une grâce dont il faut que vous demeuriez d’accord."
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Écoutez : il n’y a qu’un mot qui serve. Je n’entends point que vous ayez d’autres noms que ceux qui vous ont été donnés par vos parrains et marraines ; et pour ces Messieurs dont il est question, je connois leurs familles et leurs biens, et je veux résolument que vous vous disposiez à les recevoir pour maris. Je me lasse de vous avoir sur les bras, et la garde de deux filles est une charge un peu trop pesante pour un homme de mon âge."
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Pour moi, mon oncle, tout ce que je vous puis dire, c’est que je trouve le mariage une chose tout à fait choquante. Comment est-ce qu’on peut souffrir la pensée de coucher contre un homme vraiment nu ?"
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Souffrez que nous prenions un peu haleine parmi le beau monde de Paris, où nous ne faisons que d’arriver. Laissez-nous faire à loisir le tissu de notre roman, et n’en pressez point tant la conclusion."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", , à part."
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Il n’en faut point douter, elles sont achevées.Haut. Encore un coup, je n’entends rien à toutes ces balivernes : je veux être maître absolu ; et pour trancher toutes sortes de discours, ou vous serez mariées toutes deux avant qu’il soit peu, ou, ma foi ! vous serez religieuses : j’en fais un bon serment."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène V"
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Cathos, Madelon"
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Mon Dieu ! ma chère, que ton père a la forme enfoncée dans la matière ! que son intelligence est épaisse et qu’il fait sombre dans son âme !"
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Que veux-tu, ma chère ? j’en suis en confusion pour lui. J'ai peine à me persuader que je puisse être véritablement sa fille, et je crois que quelque aventure, un jour, me viendra développer une naissance plus illustre."
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Je le croirois bien ; oui, il y a toutes les apparences du monde ; et pour moi, quand je me regarde aussi…"
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène VII"
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Cathos, Madelon, Marotte."
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Voilà un laquais qui demande si vous êtes au logis, et dit que son maître vous veut venir voir."
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Apprenez, sotte, à vous énoncer moins vulgairement. Dites : Voilà un nécessaire qui demande si vous êtes en commodité d’être visibles."
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Dame ! je n’entends point le latin ; et je n’ai pas appris, comme vous, la filofie dans le Grand Cyre."
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "L’impertinente ! Le moyen de souffrir cela ? Et qui est-il, le maître de ce laquais ?"
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Il me l’a nommé le marquis de Mascarille."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ah ! ma chère, un marquis ! un marquis ! Oui, allez dire qu’on nous peut voir. C’est sans doute un bel esprit qui aura ouï parler de nous."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Assurément, ma chère."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il faut le recevoir dans cette salle basse, plutôt qu’en notre chambre. Ajustons un peu nos cheveux au moins, et soutenons notre réputation. Vite, venez nous tendre ici dedans le conseiller des grâces."
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Par ma foi, je ne sais point quelle bête c’est là ; il faut parler chrétien, si vous voulez que je vous entende."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Apportez-nous le miroir, ignorante que vous êtes, et gardez-vous bien d’en salir la glace par la communication de votre image."
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Elles sortent."
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène VIII"
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Mascarille, deux porteurs."
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Holà ! porteurs, holà ! Là, là, là, là, là, là. Je pense que ces marauds-là ont dessein de me briser à force de heurter contre les murailles et les pavés."
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER PORTEUR",
+      "lines": [
+        "Dame ! c’est que la porte est étroite. Vous avez voulu aussi que nous soyons entrés jusqu’ici."
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je le crois bien. Voudriez-vous, faquins, que j’exposasse l’embonpoint de mes plumes aux inclémences de la saison pluvieuse, et que j’allasse imprimer mes souliers en boue ? Allez, ôtez votre chaise d’ici."
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DEUXIÈME PORTEUR",
+      "lines": [
+        "Payez-nous donc, s’il vous plaît, Monsieur."
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Hein ?"
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DEUXIÈME PORTEUR",
+      "lines": [
+        "Je dis, Monsieur, que vous nous donniez de l’argent, s’il vous plaît."
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui donnant un soufflet"
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Comment, coquin ! demander de l’argent à une personne de ma qualité !"
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DEUXIÈME PORTEUR",
+      "lines": [
+        "Est-ce ainsi qu’on paye les pauvres gens ? et votre qualité nous donne-t-elle à dîner ?"
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ah ! ah ! ah ! je vous apprendrai à vous connoître ! Ces canailles-là s’osent jouer à moi !"
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", prenant un des bâtons de sa chaise"
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIÈRE PORTEUR",
+      "lines": [
+        "Cà ! payez-nous vitement."
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Quoi ?"
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER PORTEUR",
+      "lines": [
+        "Je dis que je veux avoir de l’argent tout à l’heure."
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il est raisonnable celui-là."
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER PORTEUR",
+      "lines": [
+        "Vite donc ?"
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Oui-dà ! tu parles comme il faut, toi ; mais l’autre est un coquin qui ne sait ce qu’il dit. Tiens : es-tu content ?"
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "PREMIER PORTEUR",
+      "lines": [
+        "Non, je ne suis pas content ; vous avez donné un soufflet à mon camarade, et…levant son bâton."
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Doucement ; tiens, voilà pour le soufflet. On obtient tout de moi quand on s’y prend de la bonne façon. Allez, venez me reprendre tantôt pour aller au Louvre, au petit coucher."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène IX"
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Marotte, Mascarille."
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Monsieur, voilà mes maîtresses qui vont venir tout à l’heure."
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Qu’elles ne se pressent point ; je suis ici posté commodément pour attendre."
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Les voici."
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène X"
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Madelon, Cathos, Mascarille, Almanzor."
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", après avoir salué"
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Mesdames, vous serez surprises, sans doute de l'audace de ma visite ; mais votre réputation vous attire cette méchante affaire, et le mérite a pour moi des charmes si puissants, que je cours partout après lui."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Si vous poursuivez le mérite, ce n’est pas sur nos terres que vous devez chasser."
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Pour voir chez nous le mérite, il a fallu que vous l’y ayez amené."
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ah ! je m’inscris en faux contre vos paroles. La renommée accuse juste en contant ce que vous valez ; et vous allez faire pic, repic et capot tout ce qu’il y a de galant dans Paris."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Votre complaisance pousse un peu trop avant la libéralité de ses louanges ; et nous n’avons garde, ma cousine et moi, de donner de notre sérieux dans le doux de votre flatterie."
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Ma chère, il faudroit faire donner des siéges."
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Holà ! Almanzor."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "ALMANZOR",
+      "lines": [
+        "Madame."
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Vite, voiturez-nous ici les commodités de la conversation."
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Mais au moins, y a-t-il sûreté ici pour moi ? Almanzor sort."
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Que craignez-vous ?"
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Quelque vol de mon cœur, quelque assassinat de ma franchise. Je vois ici deux yeux qui ont la mine d’être de fort mauvais garçons, de faire insulte aux libertés, et de traiter une âme de Turc à More. Comment diable ! D’abord qu’on les approche, ils se mettent sur leur garde meurtrière. Ah ! par ma foi, je m’en défie ! et je m’en vais gagner au pied, ou je veux caution bourgeoise qu’ils ne me feront point de mal."
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ma chère, c’est le caractère enjoué."
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Je vois bien que c’est un Amilcar."
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ne craignez rien : nos yeux n’ont point de mauvais desseins, et votre cœur peut dormir en assurance sur leur prud’homie."
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Mais de grâce, Monsieur, ne soyez pas inexorable à ce fauteuil qui vous tend les bras il y a un quart d’heure ; contentez un peu l’envie qu’il a de vous embrasser."
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", après s’être peigné et avoir ajusté ses canons."
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Eh bien, Mesdames, que dites-vous de Paris ?"
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Hélas ! qu’en pourrions-nous dire ? Il faudroit être l’antipode de la raison, pour ne pas confesser que Paris est le grand bureau des merveilles, le centre du bon goût, du bel esprit et de la galanterie."
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Pour moi, je tiens que hors de Paris, il n’y a point de salut pour les honnêtes gens."
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "C’est une vérité incontestable."
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il y fait un peu crotté ; mais nous avons la chaise."
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il est vrai que la chaise est un retranchement merveilleux contre les insultes de la boue et du mauvais temps."
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Vous recevez beaucoup de visites ? Quel bel esprit est des vôtres ?"
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Hélas ! nous ne sommes pas encore connues ; mais nous sommes en passe de l’être ; et nous avons une amie particulière qui nous a promis d’amener ici tous ces messieurs du Recueil des pièces choisies."
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Et certains autres qu’on nous a nommés aussi pour être les arbitres souverains des belles choses."
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "C’est moi qui ferai votre affaire mieux que personne ; ils me rendent tous visite ; et je puis dire que je ne me lève jamais sans une demi-douzaine de beaux esprits."
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Hé ! mon Dieu ! nous vous serons obligées de la dernière obligation, si vous nous faites cette amitié ; car enfin il faut avoir la connoissance de tous ces messieurs-là, si l’on veut être du beau monde. Ce sont ceux qui donnent le branle à la réputation dans Paris ; et vous savez qu’il y en a tel dont il ne faut que la seule fréquentation pour vous donner bruit de connoisseuse, quand il n’y auroit rien autre chose que cela. Mais pour moi, ce que je considère particulièrement, c’est que, par le moyen de ces visites spirituelles, on est instruite de cent choses qu’il faut savoir de nécessité, et qui sont de l’essence d’un bel esprit. On apprend par là chaque jour les petites nouvelles galantes, les jolies commerces de prose et de vers. On sait à point nommé : un tel a composé la plus jolie pièce du monde sur un tel sujet ; une telle a fait des paroles sur un tel air ; celui-ci a fait un madrigal sur une jouissance ; celui-là a composé des stances sur une infidélité ; monsieur un tel écrivit hier au soir un sixain à Mademoiselle une telle, dont elle lui a envoyé la réponse ce matin sur les huit heures ; un tel auteur a fait un tel dessein ; celui-là en est à la troisième partie de son roman ; cet autre met ses ouvrages sous la presse. C’est là ce qui vous fait valoir dans les compagnies ; et si l’on ignore ces choses, je ne donnerois pas un clou de tout l’esprit qu’on peut avoir."
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "En effet, je trouve que c’est renchérir sur le ridicule, qu’une personne se pique d’esprit et ne sache pas jusqu’au moindre petit quatrain qui se fait chaque jour ; et, pour moi, j’aurois toutes les hontes du monde s’il falloit qu’on vînt à me demander si j’aurois vu quelque chose de nouveau que je n’aurois pas vu."
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il est vrai qu’il est honteux de n’avoir pas des premiers tout ce qui se fait ; mais ne vous mettez pas en peine ; je veux établir chez vous une académie de beaux esprits, et je vous promets qu’il ne se fera pas un bout de vers dans Paris que vous ne sachiez par cœur avant tous les autres. Pour moi, tel que vous me voyez, je m’en escrime un peu quand je veux ; et vous verrez courir de ma façon, dans les belles ruelles de Paris, deux cents chansons, autant de sonnets, quatre cents épigrammes et plus de mille madrigaux, sans compter les énigmes et les portraits."
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Je vous avoue que je suis furieusement pour les portraits : je ne vois rien de si galant que cela."
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Les portraits sont difficiles, et demandent un esprit profond : vous en verrez de ma manière qui ne vous déplairont pas."
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Pour moi, j’aime terriblement les énigmes."
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Cela exerce l’esprit, et j’en ai fait quatre encore ce matin, que je vous donnerai à deviner."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Les madrigaux sont agréables, quand ils sont bien tournés."
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "C’est mon talent particulier ; et je travaille à mettre en madrigaux toute l’histoire romaine."
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ah ! certes, cela sera du dernier beau ; j’en retiens un exemplaire au moins, si vous le faites imprimer."
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je vous en promets à chacune un, et des mieux reliés. Cela est au-dessous de ma condition ; mais je le fais seulement pour donner à gagner aux libraires qui me persécutent."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Je m’imagine que le plaisir est grand de se voir imprimé."
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Sans doute. Mais à propos, il faut que je vous die un impromptu que je fis hier chez une duchesse de mes amies que je fus visiter ; car je suis diablement fort sur les impromptus."
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "L’impromptu est justement la pierre de touche de l’esprit."
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Écoutez donc."
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Nous y sommes de toutes nos oreilles."
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Oh ! oh ! je n’y prenois pas garde :",
+        "Tandis que, sans songer à mal, je vous regarde,",
+        "Votre œil en tapinois me dérobe mon cœur.",
+        "Au voleur ! au voleur ! au voleur ! au voleur !"
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Ah ! mon Dieu ! voilà qui est poussé dans le dernier galant."
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Tout ce que je fais a l’air cavalier ; cela ne sent point le pédant."
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il en est éloigné de plus de deux mille lieues."
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Avez-vous remarqué ce commencement Oh ! oh voilà qui est extraordinaire, oh ! oh ! comme un homme qui s’avise tout d’un coup, oh ! oh ! La surprise, oh ! oh !"
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Oui, je trouve ce oh ! oh ! admirable."
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il semble que cela ne soit rien."
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Ah ! mon Dieu ! que dites-vous là ? Ce sont là de ces sortes de choses qui ne se peuvent payer."
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Sans doute ; et j’aimerois mieux avoir fait ce oh ! oh ! qu’un poème épique."
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Tudieu ! vous avez le goût bon."
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Hé ! je ne l’ai pas tout à fait mauvais."
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Mais n’admirez-vous pas aussi je n’y prenois pas garde ? je n’y prenois pas garde, je ne m’apercevois pas de cela ; façon de parler naturelle, je n’y prenois pas garde. Tandis que sans songer à mal, tandis qu’innocemment, sans malice, comme un pauvre mouton, je vous regarde, c’est-à-dire, je m’amuse à vous considérer, je vous observe, je vous contemple ; votre œil en tapinois… Que vous semble de ce mot tapinois ? n’est-il pas bien choisi ?"
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Tout à fait bien."
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Tapinois, en cachette : il semble que ce soit un chat qui vienne de prendre une souris, tapinois."
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il ne se peut rien de mieux."
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Me dérobe mon cœur, me l’emporte, me le ravit ; au voleur ! au voleur ! au voleur ! au voleur ! Ne diriez-vous pas que c’est un homme qui crie et court après un voleur pour le faire arrêter ? Au voleur ! au voleur ! au voleur ! au voleur !"
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Il faut avouer que cela a un tour spirituel et galant."
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je veux vous dire l’air que j’ai fait dessus."
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Vous avez appris la musique ?"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Moi ? Point du tout."
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Et comment donc cela se peut-il ?"
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Les gens de qualité savent tout sans avoir jamais rien appris !"
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Assurément, ma chère."
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Écoutez si vous trouverez l’air à votre goût : hem, hem, la, la, la, la, la. La brutalité de la saison a furieusement outragé la délicatesse de ma voix ; mais il n’importe, c’est à la cavalière."
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "(Il chante.)"
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Oh, oh ! je n’y prenois pas garde, Ac."
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Ah ! que voilà un air qui est passionné ! Est-ce qu’on n’en meurt point ?"
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il y a de la chromatique là dedans."
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ne trouvez-vous pas la pensée bien exprimée dans le chant ? Au voleur ! au voleur ! Et puis, comme si l’on crioit bien fort, au, au, au, au, au, au, voleur ! Et tout d’un coup, comme une personne essoufflée, au voleur !"
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "C’est là savoir le fin des choses, le grand fin, le fin du fin. Tout est merveilleux, je vous assure ; je suis enthousiasmée de l’air et des paroles."
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Je n’ai encore rien vu de cette force-là."
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Tout ce que je fais me vient naturellement, c’est sans étude."
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "La nature vous a traité en vraie mère passionnée, et vous en êtes l’enfant gâté."
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "À quoi donc passez-vous le temps, Mesdames ?"
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "À rien du tout."
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Nous avons été jusqu’ici dans un jeûne effroyable de divertissements."
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je m’offre à vous mener l’un de ces jours à la comédie, si vous voulez ; aussi bien on en doit jouer une nouvelle que je serai bien aise que nous voyions ensemble."
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Cela n’est pas de refus."
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Mais je vous demande d’applaudir comme il faut, quand nous serons là ; car je me suis engagé de faire valoir la pièce, et l’auteur m’en est venu prier encore ce matin. C’est la coutume ici qu’à nous autres gens de condition les auteurs viennent lire leurs pièces nouvelles, pour nous engager à les trouver belles, et leur donner de la réputation : et je vous laisse à penser si, quand nous disons quelque chose, le parterre ose nous contredire ! Pour moi, j’y suis fort exact ; et quand j’ai promis à quelque poëte, je crie toujours : Voilà qui est beau ! devant que les chandelles soient allumées."
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ne m’en parlez point : c’est un admirable lieu que Paris ; il s’y passe cent choses tous les jours qu’on ignore dans les provinces, quelque spirituelle qu’on puisse être."
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "C’est assez : puisque nous sommes instruites, nous ferons notre devoir de nous écrier comme il faut sur tout ce qu’on dira."
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je ne sais si je me trompe, mais vous avez toute la mine d’avoir fait quelque comédie."
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Hé ! il pourroit être quelque chose de ce que vous dites."
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ah ! ma foi, il faudra que nous la voyions. Entre nous, j’en ai composé une que je veux faire représenter."
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Hé ! à quels comédiens la donnerez-vous ?"
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Belle demande ! Aux grands comédiens de l'hôtel de Bourgogne : il n’y a qu’eux qui soient capables de faire valoir les choses ; les autres sont des ignorants qui récitent comme l’on parle, ils ne savent pas faire ronfler les vers, et s’arrêter au bel endroit : et le moyen de connoître où est le beau vers, si le comédien ne s’y arrête, et ne vous avertit par là qu’il faut faire le brouhaha ?"
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "En effet, il y a manière de faire sentir aux auditeurs les beautés d’un ouvrage ; et les choses ne valent que ce qu’on les fait valoir."
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Que vous semble de ma petite oie ? La trouvez-vous congruente à l’habit ?"
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Tout à fait."
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Le ruban est bien choisi."
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Furieusement bien. C’est Perdrigeon tout pur."
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Que dites-vous de mes canons ?"
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Ils ont tout à fait bon air."
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je puis me vanter au moins qu’ils ont un grand quartier plus que tous ceux qu’on fait."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il faut avouer que je n’ai jamais vu porter si haut l’élégance de l’ajustement."
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Attachez un peu sur ces gants la réflexion de votre odorat."
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ils sentent terriblement bon."
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Je n’ai jamais respiré une odeur mieux conditionnée."
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Et celle-là ?"
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il donne à sentir les cheveux poudrés de sa perruque."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Elle est tout à fait de qualité ; le sublime en est touché délicieusement."
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Vous ne me dites rien de mes plumes ! comment les trouvez-vous ?"
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Effroyablement belles."
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Savez-vous que le brin me coûte un louis d’or ? Pour moi, j’ai cette manie de vouloir donner généralement sur tout ce qu’il y a de plus beau."
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Je vous assure que nous sympathisons vous et moi. J’ai une délicatesse furieuse pour tout ce que je porte ; et jusqu’à mes chaussettes, je ne puis rien souffrir qui ne soit de la bonne faiseuse."
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s'écriant brusquement"
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ahi ! ahi ! ahi ! doucement. Dieu me damne, mesdames, c’est fort mal en user ; j’ai à me plaindre de votre procédé ; cela n’est pas honnête."
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Qu’est-ce donc ? qu’avez-vous ?"
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Quoi ! toutes deux contre mon cœur, en même temps ! M’attaquer à droite et à gauche ! ah ! c’est contre le droit des gens : la partie n’est pas égale, et je m’en vais crier au meurtre."
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Il faut avouer qu’il dit les choses d’une manière particulière."
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il a un tour admirable dans l’esprit."
+      ]
+    },
+    {
+      "id": "p00223",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Vous avez plus de peur que de mal, et votre cœur crie avant qu’on l’écorche."
+      ]
+    },
+    {
+      "id": "p00224",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Comment, diable ! il est écorché depuis la tête jusqu’aux pieds."
+      ]
+    },
+    {
+      "id": "p00225",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XI"
+      ]
+    },
+    {
+      "id": "p00226",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Cathos, Madelon, Mascarille, Marotte."
+      ]
+    },
+    {
+      "id": "p00227",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Madame, on demande à vous voir."
+      ]
+    },
+    {
+      "id": "p00228",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Qui ?"
+      ]
+    },
+    {
+      "id": "p00229",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Le vicomte de Jodelet."
+      ]
+    },
+    {
+      "id": "p00230",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Le vicomte de Jodelet ?"
+      ]
+    },
+    {
+      "id": "p00231",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAROTTE",
+      "lines": [
+        "Oui, Monsieur."
+      ]
+    },
+    {
+      "id": "p00232",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Le connoissez-vous ?"
+      ]
+    },
+    {
+      "id": "p00233",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "C’est mon meilleur ami."
+      ]
+    },
+    {
+      "id": "p00234",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Faites entrer vitement."
+      ]
+    },
+    {
+      "id": "p00235",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il y a quelque temps que nous ne nous sommes vus, et je suis ravi de cette aventure."
+      ]
+    },
+    {
+      "id": "p00236",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Le voici."
+      ]
+    },
+    {
+      "id": "p00237",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XII"
+      ]
+    },
+    {
+      "id": "p00238",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Cathos, Madelon, Jodelet, Mascarille, Marotte, Almanzor."
+      ]
+    },
+    {
+      "id": "p00239",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ah ! vicomte !"
+      ]
+    },
+    {
+      "id": "p00240",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’embrassant l’un l’autre"
+      ]
+    },
+    {
+      "id": "p00241",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Ah ! marquis !"
+      ]
+    },
+    {
+      "id": "p00242",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Que je suis aise de te rencontrer !"
+      ]
+    },
+    {
+      "id": "p00243",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Que j’ai de joie de te voir ici !"
+      ]
+    },
+    {
+      "id": "p00244",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Baise-moi donc encore un peu, je te prie."
+      ]
+    },
+    {
+      "id": "p00245",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ma toute bonne, nous commençons d’être connues ; voilà le beau monde qui prend le chemin de nous venir voir."
+      ]
+    },
+    {
+      "id": "p00246",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Mesdames, agréez que je vous présente ce gentilhomme-ci : sur ma parole, il est digne d’être connu de vous."
+      ]
+    },
+    {
+      "id": "p00247",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Il est juste de venir vous rendre ce qu’on vous doit ; et vos attraits exigent leurs droits seigneuriaux sur toutes sortes de personnes."
+      ]
+    },
+    {
+      "id": "p00248",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "C’est pousser vos civilités jusqu’aux derniers confins de la flatterie."
+      ]
+    },
+    {
+      "id": "p00249",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Cette journée doit être marquée dans notre almanach comme une journée bienheureuse."
+      ]
+    },
+    {
+      "id": "p00250",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Alamanzor."
+      ]
+    },
+    {
+      "id": "p00251",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Allons, petit garçon, faut-il toujours vous répéter les choses ? Voyez-vous pas qu’il faut le surcroît d’un fauteuil ?"
+      ]
+    },
+    {
+      "id": "p00252",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ne vous étonnez pas de voir le Vicomte de la sorte ; il ne fait que sortir d’une maladie qui lui a rendu le visage pâle comme vous le voyez."
+      ]
+    },
+    {
+      "id": "p00253",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Ce sont fruits des veilles de la cour et des fatigues de la guerre."
+      ]
+    },
+    {
+      "id": "p00254",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Savez-vous, mesdames, que vous voyez dans le vicomte un des plus vaillants hommes du siècle ? C’est un brave à trois poils."
+      ]
+    },
+    {
+      "id": "p00255",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Vous ne m’en devez rien, Marquis ; et nous savons ce que vous savez faire aussi."
+      ]
+    },
+    {
+      "id": "p00256",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il est vrai que nous nous sommes vus tous deux dans l’occasion."
+      ]
+    },
+    {
+      "id": "p00257",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Et dans des lieux où il faisoit fort chaud."
+      ]
+    },
+    {
+      "id": "p00258",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", regardant Cathos et Madelon."
+      ]
+    },
+    {
+      "id": "p00259",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Oui ; mais non pas si chaud qu’ici. Hai, hai, hai."
+      ]
+    },
+    {
+      "id": "p00260",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Notre connoissance s’est faite à l’armée ; et la première fois que nous nous vîmes, il commandoit un régiment de cavalerie sur les galères de Malte."
+      ]
+    },
+    {
+      "id": "p00261",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il est vrai ; mais vous étiez pourtant dans l’emploi avant que j’y fusse ; et je me souviens que je n’étois que petit officier encore, que vous commandiez deux mille chevaux."
+      ]
+    },
+    {
+      "id": "p00262",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "La guerre est une belle chose ; mais, ma foi, la cour récompense bien mal aujourd’hui les gens de service comme nous."
+      ]
+    },
+    {
+      "id": "p00263",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "C’est ce qui fait que je veux pendre l’épée au croc."
+      ]
+    },
+    {
+      "id": "p00264",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Pour moi, j’ai un furieux tendre pour les hommes d’épée."
+      ]
+    },
+    {
+      "id": "p00265",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Je les aime aussi ; mais je veux que l’esprit assaisonne la bravoure."
+      ]
+    },
+    {
+      "id": "p00266",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Te souvient-il, vicomte, de cette demi-lune que nous emportâmes sur les ennemis au siége d’Arras ?"
+      ]
+    },
+    {
+      "id": "p00267",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Que veux-tu dire avec ta demi-lune ? C’étoit bien une lune toute entière."
+      ]
+    },
+    {
+      "id": "p00268",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je pense que tu as raison."
+      ]
+    },
+    {
+      "id": "p00269",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Il m’en doit bien souvenir, ma foi ! j’y fus blessé à la jambe d’un coup de grenade, dont je porte encore les marques. Tâtez un peu, de grâce, vous sentirez quelque coup, c’étoit là."
+      ]
+    },
+    {
+      "id": "p00270",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", après avoir touché l'endroit."
+      ]
+    },
+    {
+      "id": "p00271",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Il est vrai que la cicatrice est grande."
+      ]
+    },
+    {
+      "id": "p00272",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Donnez-moi un peu votre main, et tâtez celui-ci ; là, justement au derrière de la tête. Y êtes-vous ?"
+      ]
+    },
+    {
+      "id": "p00273",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Oui : je sens quelque chose."
+      ]
+    },
+    {
+      "id": "p00274",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "C’est un coup de mousquet que je reçus la dernière campagne que j’ai faite."
+      ]
+    },
+    {
+      "id": "p00275",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", découvrant sa poitrine."
+      ]
+    },
+    {
+      "id": "p00276",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Voici un autre coup qui me perça de part en part à l’attaque de Gravelines."
+      ]
+    },
+    {
+      "id": "p00277",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", mettant la main sur le bouton de son haut-de-chausses."
+      ]
+    },
+    {
+      "id": "p00278",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Je vais vous montrer une furieuse plaie."
+      ]
+    },
+    {
+      "id": "p00279",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il n’est pas nécessaire : nous le croyons sans y regarder."
+      ]
+    },
+    {
+      "id": "p00280",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ce sont des marques honorables qui font voir ce qu’on est."
+      ]
+    },
+    {
+      "id": "p00281",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Nous ne doutons point de ce que vous êtes."
+      ]
+    },
+    {
+      "id": "p00282",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Vicomte, as-tu là ton carrosse ?"
+      ]
+    },
+    {
+      "id": "p00283",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Pourquoi ?"
+      ]
+    },
+    {
+      "id": "p00284",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Nous mènerions promener ces dames hors des portes, et leur donnerions un cadeau."
+      ]
+    },
+    {
+      "id": "p00285",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Nous ne saurions sortir aujourd’hui."
+      ]
+    },
+    {
+      "id": "p00286",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ayons donc les violons pour danser."
+      ]
+    },
+    {
+      "id": "p00287",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Ma foi ! c’est bien avisé."
+      ]
+    },
+    {
+      "id": "p00288",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Pour cela, nous y consentons : mais il faut donc quelque surcroît de compagnie."
+      ]
+    },
+    {
+      "id": "p00289",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Holà ! Champagne, Picard, Bourguignon, Casquaret, Basque, la Verdure, Lorrain, Provençal, la Violette ! Au diable soient tous les laquais ! Je ne pense pas qu’il y ait gentilhomme en France plus mal servi que moi. Ces canailles me laissent toujours seul."
+      ]
+    },
+    {
+      "id": "p00290",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Almanzor, dites aux gens de Monsieur qu’ils aillent querir des violons, et nous faites venir ces messieurs et ces dames d’ici près, pour peupler la solitude de notre bal."
+      ]
+    },
+    {
+      "id": "p00291",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Almanzor sort."
+      ]
+    },
+    {
+      "id": "p00292",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Vicomte, que dis-tu de ces yeux ?"
+      ]
+    },
+    {
+      "id": "p00293",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Mais toi-même, marquis, que t’en semble ?"
+      ]
+    },
+    {
+      "id": "p00294",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Moi, je dis que nos libertés auront peine à sortir d’ici les braies nettes. Au moins, pour moi, je reçois d’étranges secousses, et mon cœur ne tient plus qu’à un filet."
+      ]
+    },
+    {
+      "id": "p00295",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Que tout ce qu’il dit est naturel ! Il tourne les choses le plus agréablement du monde."
+      ]
+    },
+    {
+      "id": "p00296",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Il est vrai qu’il fait une furieuse dépense en esprit."
+      ]
+    },
+    {
+      "id": "p00297",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Pour vous montrer que je suis véritable, je veux faire un impromptu là-dessus."
+      ]
+    },
+    {
+      "id": "p00298",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Il médite."
+      ]
+    },
+    {
+      "id": "p00299",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Hé ! je vous en conjure de toute la dévotion de mon cœur, que nous oyons quelque chose qu’on ait fait pour nous."
+      ]
+    },
+    {
+      "id": "p00300",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "J’aurois envie d’en faire autant ; mais je me trouve un peu incommodé de la veine poétique, pour la quantité des saignées que j’y ai faites ces jours passés."
+      ]
+    },
+    {
+      "id": "p00301",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Que diable est cela ! Je fais toujours bien le premier vers ; mais j’ai peine à faire les autres. Ma foi, ceci est un peu trop pressé ; je vous ferai un impromptu à loisir, que vous trouverez le plus beau du monde."
+      ]
+    },
+    {
+      "id": "p00302",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Il a de l’esprit comme un démon."
+      ]
+    },
+    {
+      "id": "p00303",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Et du galant, et du bien tourné."
+      ]
+    },
+    {
+      "id": "p00304",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Vicomte, dis-moi un peu, y a-t-il longtemps que tu n’as vu la comtesse ?"
+      ]
+    },
+    {
+      "id": "p00305",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Il y a plus de trois semaines que je ne lui ai rendu visite."
+      ]
+    },
+    {
+      "id": "p00306",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Sais-tu bien que le duc m’est venu voir ce matin, et m’a voulu mener à la campagne courir un cerf avec lui ?"
+      ]
+    },
+    {
+      "id": "p00307",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Voici nos amies qui viennent."
+      ]
+    },
+    {
+      "id": "p00308",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XIII"
+      ]
+    },
+    {
+      "id": "p00309",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Lucile, Célimène, Cathos, Madelon, Mascarille, Jodelet, Marotte, Almanzor, violons."
+      ]
+    },
+    {
+      "id": "p00310",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Mon Dieu, mes chères, nous vous demandons pardon."
+      ]
+    },
+    {
+      "id": "p00311",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ces messieurs ont eu fantaisie de nous donner les âmes des pieds ; et nous vous avons envoyé querir pour remplir les vides de notre assemblée."
+      ]
+    },
+    {
+      "id": "p00312",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCILE",
+      "lines": [
+        "Vous nous avez obligées, sans doute."
+      ]
+    },
+    {
+      "id": "p00313",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ce n’est ici qu’un bal à la hâte ; mais l’un de ces jours nous vous en donnerons un dans les formes. Les violons sont-ils venus ?"
+      ]
+    },
+    {
+      "id": "p00314",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "ALMANZOR",
+      "lines": [
+        "Oui, Monsieur ; ils sont ici."
+      ]
+    },
+    {
+      "id": "p00315",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Allons donc, mes chères, prenez place."
+      ]
+    },
+    {
+      "id": "p00316",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", dansant lui seul comme par prélude."
+      ]
+    },
+    {
+      "id": "p00317",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "La, la, la, la, la, la, la, la."
+      ]
+    },
+    {
+      "id": "p00318",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Il a tout à fait la taille élégante."
+      ]
+    },
+    {
+      "id": "p00319",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Et a la mine de danser proprement."
+      ]
+    },
+    {
+      "id": "p00320",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", ayant pris Madelon pour danser."
+      ]
+    },
+    {
+      "id": "p00321",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ma franchise va danser la courante aussi bien que mes pieds. En cadence, violons ; en cadence. Oh ! quels ignorants ! Il n’y a pas moyen de danser avec eux. Le diable vous emporte ! ne sauriez-vous jouer en mesure ? La, la, la, la, la, la, la, la. Ferme. O violons de village !"
+      ]
+    },
+    {
+      "id": "p00322",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", dansant ensuite."
+      ]
+    },
+    {
+      "id": "p00323",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Holà ! ne pressez pas si fort la cadence : je ne fais que sortir de maladie."
+      ]
+    },
+    {
+      "id": "p00324",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XIV"
+      ]
+    },
+    {
+      "id": "p00325",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Du Croisy, La Grange, Cathos, Madelon, Lucile, Célimène, Jodelet, Mascarille, Marotte, violons."
+      ]
+    },
+    {
+      "id": "p00326",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", un bâton à la main."
+      ]
+    },
+    {
+      "id": "p00327",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Ah ! ah ! coquins ! que faites-vous ici ? Il y a trois heures que nous vous cherchons."
+      ]
+    },
+    {
+      "id": "p00328",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se sentant battre"
+      ]
+    },
+    {
+      "id": "p00329",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ahi ! ahi ! ahi ! vous ne m’aviez pas dit que les coups en seroient aussi."
+      ]
+    },
+    {
+      "id": "p00330",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Ahi ! ahi ! ahi !"
+      ]
+    },
+    {
+      "id": "p00331",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "C’est bien à vous, infâme que vous êtes, à vouloir faire l’homme d’importance !"
+      ]
+    },
+    {
+      "id": "p00332",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Voilà qui vous apprendra à vous connoître."
+      ]
+    },
+    {
+      "id": "p00333",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XV"
+      ]
+    },
+    {
+      "id": "p00334",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Cathos, Madelon, Lucile, Célimène, Mascarille, Jodelet, Marotte, violons."
+      ]
+    },
+    {
+      "id": "p00335",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MADELON",
+      "lines": [
+        "Que veut donc dire ceci ?"
+      ]
+    },
+    {
+      "id": "p00336",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "C’est une gageure."
+      ]
+    },
+    {
+      "id": "p00337",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Quoi ! vous laisser battre de la sorte !"
+      ]
+    },
+    {
+      "id": "p00338",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Mon Dieu ! je n’ai pas voulu faire semblant de rien ; car je suis violent, et je me serois emporté."
+      ]
+    },
+    {
+      "id": "p00339",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Endurer un affront comme celui-là, en notre présence !"
+      ]
+    },
+    {
+      "id": "p00340",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Ce n’est rien : ne laissons pas d’achever. Nous nous connoissons il y a longtemps ; et entre amis, on ne va pas se piquer pour si peu de chose."
+      ]
+    },
+    {
+      "id": "p00341",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XVI"
+      ]
+    },
+    {
+      "id": "p00342",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Du Croisy, la Grange, Mascarille, Jodelet, Madelon, Cathos, Célimène, Lucile, Mascarille, Jodelet, Marotte, violons."
+      ]
+    },
+    {
+      "id": "p00343",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Ma foi, marauds, vous ne vous rirez pas de nous, je vous promets. Entrez, vous autres."
+      ]
+    },
+    {
+      "id": "p00344",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Trois ou quatre spadassins entrent."
+      ]
+    },
+    {
+      "id": "p00345",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Quelle est donc cette audace, de venir nous troubler de la sorte dans notre maison ?"
+      ]
+    },
+    {
+      "id": "p00346",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Comment ! mesdames, nous endurerons que nos laquais soient mieux reçus que nous ; qu’ils viennent vous faire l’amour à nos dépens, et vous donnent le bal ?"
+      ]
+    },
+    {
+      "id": "p00347",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Vos laquais !"
+      ]
+    },
+    {
+      "id": "p00348",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Oui, nos laquais : et cela n’est ni beau ni honnête de nous les débaucher comme vous faites."
+      ]
+    },
+    {
+      "id": "p00349",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "O ciel ! quelle insolence !"
+      ]
+    },
+    {
+      "id": "p00350",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Mais ils n’auront pas l’avantage de se servir de nos habits pour vous donner dans la vue ; et si vous les voulez aimer, ce sera, ma foi, pour leurs beaux yeux. Vite, qu’on les dépouille sur-le-champ."
+      ]
+    },
+    {
+      "id": "p00351",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Adieu notre braverie."
+      ]
+    },
+    {
+      "id": "p00352",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Voilà le marquisat et la vicomté à bas."
+      ]
+    },
+    {
+      "id": "p00353",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Ah ! Ah ! coquins, vous avez l’audace d’aller sur nos brisées ! Vous irez chercher autre part de quoi vous rendre agréables aux yeux de vos belles, je vous en assure."
+      ]
+    },
+    {
+      "id": "p00354",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "C’est trop que de nous supplanter, et de nous supplanter avec nos propres habits."
+      ]
+    },
+    {
+      "id": "p00355",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "O fortune ! quelle est ton inconstance !"
+      ]
+    },
+    {
+      "id": "p00356",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DU CROISY",
+      "lines": [
+        "Vite, qu’on leur ôte jusqu’à la moindre chose."
+      ]
+    },
+    {
+      "id": "p00357",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LA GRANGE",
+      "lines": [
+        "Qu’on emporte toutes ces hardes, dépêchez. Maintenant, mesdames, en l’état qu’ils sont, vous pouvez continuer vos amours avec eux tant qu’il vous plaira ; nous vous laissons toute sorte de liberté pour cela, et nous vous protestons, monsieur et moi, que nous n’en serons aucunement jaloux."
+      ]
+    },
+    {
+      "id": "p00358",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XVII"
+      ]
+    },
+    {
+      "id": "p00359",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Madelon, Cathos, Jodelet, Mascarille, violons."
+      ]
+    },
+    {
+      "id": "p00360",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "CATHOS",
+      "lines": [
+        "Ah ! quelle confusion !"
+      ]
+    },
+    {
+      "id": "p00361",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Je crève de dépit."
+      ]
+    },
+    {
+      "id": "p00362",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Mascarille."
+      ]
+    },
+    {
+      "id": "p00363",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "UN DES VIOLONS",
+      "lines": [
+        "Qu’est-ce donc que ceci ? Qui nous payera, nous autres ?"
+      ]
+    },
+    {
+      "id": "p00364",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Demandez à monsieur le vicomte."
+      ]
+    },
+    {
+      "id": "p00365",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Jodelet."
+      ]
+    },
+    {
+      "id": "p00366",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "UN DES VIOLONS",
+      "lines": [
+        "Qui est-ce qui nous donnera de l’argent ?"
+      ]
+    },
+    {
+      "id": "p00367",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "JODELET",
+      "lines": [
+        "Demandez à Monsieur le marquis."
+      ]
+    },
+    {
+      "id": "p00368",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XVIII"
+      ]
+    },
+    {
+      "id": "p00369",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Gorgibus, Madelon, Cathos, Jodelet, Mascarille, violons."
+      ]
+    },
+    {
+      "id": "p00370",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Ah ! coquines que vous êtes, vous nous mettez dans de beaux draps blancs, à ce que je vois ; et je viens d’apprendre de belles affaires, vraiment, de ces messieurs qui sortent !"
+      ]
+    },
+    {
+      "id": "p00371",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ah ! mon père, c’est une pièce sanglante qu’ils nous ont faite."
+      ]
+    },
+    {
+      "id": "p00372",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Oui, c’est une pièce sanglante, mais qui est un effet de votre impertinence, infâmes ! Ils se sont ressentis du traitement que vous leur avez fait, et cependant, malheureux que je suis, il faut que je boive l’affront."
+      ]
+    },
+    {
+      "id": "p00373",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MAGDELON",
+      "lines": [
+        "Ah ! je jure que nous en serons vengées, ou que je mourrai en la peine. Et vous, marauds, osez-vous vous tenir ici après votre insolence ?"
+      ]
+    },
+    {
+      "id": "p00374",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MASCARILLE",
+      "lines": [
+        "Traiter comme cela un marquis ! Voilà ce que c’est que du monde, la moindre disgrâce nous fait mépriser de ceux qui nous chérissoient. Allons, camarade, allons chercher fortune autre part ; je vois bien qu’on n’aime ici que la vaine apparence, et qu’on n’y considère point la vertu toute nue."
+      ]
+    },
+    {
+      "id": "p00375",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène XVII"
+      ]
+    },
+    {
+      "id": "p00376",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Gorgibus, Madelon, Cathos, violons."
+      ]
+    },
+    {
+      "id": "p00377",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "UN DES VIOLONS",
+      "lines": [
+        "Monsieur, nous entendons que vous nous contentiez à leur défaut pour ce que nous avons joué ici."
+      ]
+    },
+    {
+      "id": "p00378",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", les battant."
+      ]
+    },
+    {
+      "id": "p00379",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "GORGIBUS",
+      "lines": [
+        "Oui, oui, je vous vais contenter ; et voici la monnoie dont je vous veux payer. Et vous, pendardes, je ne sais qui me tient que je ne vous en fasse autant ; nous allons servir de fable et de risée à tout le monde, et voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines ; allez vous cacher pour jamais. Seul.Et vous, qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, romans, vers, chansons, sonnets et sonnettes, puissiez-vous être à tous les diables !"
+      ]
+    },
+    {
+      "id": "p00380",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Fin des Précieuses ridicules."
+      ]
+    }
+  ]
+}

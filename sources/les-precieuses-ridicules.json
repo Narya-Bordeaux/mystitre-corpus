@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-precieuses-ridicules",
+  "title": "Les Précieuses ridicules",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource)",
+  "pages": [
+    {
+      "title": "Les Précieuses ridicules/Édition Louandre, 1910",
+      "revisionId": 12958579
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0bad13cd02d32061a7a25d5adc1d1c90addd4bd5b8b0a3637c217aac1d517ba6",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "Seigneur la Grange."
+  },
+  "bodyEnd": {
+    "id": "p00379",
+    "textPrefix": "Oui, oui, je vous vais contenter ; et voici la monnoie dont "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : liste des personnages, titres de scène, didascalies centrées, « Fin des Précieuses ridicules »."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00379",
+      "find": "Seul.Et vous",
+      "replace": "Et vous",
+      "reason": "Didascalie « Seul. » collée au texte sans espace dans l'édition numérisée ; absente de l'édition Librairie de France 1922 sur Wikisource"
+    }
+  ]
+}
