@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dit-du-genji",
+  "title": "Le Dit du Genji",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "源氏物語 (國文大觀), 上・下, d'après Wikisource japonais",
+  "pages": [
+    {
+      "title": "源氏物語 (國文大觀)/上",
+      "revisionId": 195338
+    },
+    {
+      "title": "源氏物語 (國文大觀)/下",
+      "revisionId": 195339
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "1903d6dd2ed51fbb0d97faa1a59d9c6e5b7d5d61a39ef8049a3990de63781870",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "いづれのおほん時にか、女御更衣あまたさぶらひたまひける中に、いとやんごとなききはにはあらぬが優れて時めきたまふ有りけり。"
+  },
+  "bodyEnd": {
+    "id": "p00975",
+    "textPrefix": "　「法の師と尋ぬる道をしるべにておもはぬ山にふみまどふかな。この人はみや忘れ給ひぬらむ。こゝには行くへなき御かたみに見る"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : bandeau Wikisource, titres d'édition et de chapitres (桐壷, 夢浮橋…), « 源氏物語終 »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

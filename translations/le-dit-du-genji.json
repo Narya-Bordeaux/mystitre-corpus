@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dit-du-genji",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "1903d6dd2ed51fbb0d97faa1a59d9c6e5b7d5d61a39ef8049a3990de63781870",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00005.s1",
+      "original": "いづれのおほん時にか、女御更衣あまたさぶらひたまひける中に、いとやんごとなききはにはあらぬが優れて時めきたまふ有りけり。",
+      "translation": "Sous le règne de quel empereur était-ce ? Parmi les épouses et les dames de la chambre, nombreuses à son service, il y en avait une, qui n'était pas de très haut rang, mais que Sa Majesté favorisait plus que toute autre."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "始より我はと思ひあがりたまへるおほん方々、めざましきものにおとしめ猜みたまふ。",
+      "translation": "Celles qui, dès l'origine, avaient nourri l'orgueilleuse prétention d'être les préférées la regardaient d'un mauvais œil, la méprisant et l'enviant."
+    },
+    {
+      "id": "p00005.s3",
+      "original": "同じ程、其より下﨟󠄀の更衣たちはまして安からず。",
+      "translation": "Celles de son rang, et plus encore les dames de rang inférieur, étaient encore moins tranquilles."
+    },
+    {
+      "id": "p00005.s4",
+      "original": "朝夕の宮仕につけても人の心を動かし怨を負ふつもりにやありけむ、いとあつしくなりゆき物心ぼそげに里がちなるを、いよいよ飽かず哀なるものに覺ほして人の謗をも得憚らせたまはず世のためしにもなりぬべき御もてなしなり。",
+      "translation": "Peut-être l'accumulation des rancunes que lui valaient ses services du matin au soir, et les cœurs qu'elle troublait, la rendit-elle de plus en plus souffrante et mélancolique, si bien qu'elle restait souvent chez elle ; l'Empereur, de son côté, l'en chérissait toujours davantage, sans souci des reproches, et la traitait d'une manière qui ferait date dans le monde."
+    },
+    {
+      "id": "p00005.s5",
+      "original": "上達部うへ人などもあいなく目をそばめつゝ、いとまばゆき人の御おぼえなり。",
+      "translation": "Les grands seigneurs et les courtisans eux-mêmes détournaient les yeux, mal à l'aise : telle était l'éblouissante faveur dont elle jouissait."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00975.s16",
+      "original": "唯一言をのたまはせよかし」などいへば「げに」などいひて、かくなむとうつし語れども物もの給はねばかひなくて、「唯かく覺束なき御有樣を聞えさせ給ふべきなめり。",
+      "translation": "« Qu'il vous dise seulement un mot ! » insistent-ils. L'autre répond : « Certes », et lui répète leurs paroles, mais comme elle ne dit rien, tout est vain ; il conclut : « Il ne reste qu'à rapporter qu'elle est dans cet état d'incertitude."
+    },
+    {
+      "id": "p00975.s17",
+      "original": "雲の遙にへだゝらぬほどにも侍るめるを、山風ふくとも又も必ず立ち寄らせ給ひなむかし」といへば、すゞろにゐくらさむもあやしかるべければかへりなむとす。",
+      "translation": "Nous ne sommes pas si loin, par-delà les nuages : même si le vent de montagne souffle, vous reviendrez sûrement la voir. » Mais rester là sans but eût été étrange ; il se prépare à partir."
+    },
+    {
+      "id": "p00975.s18",
+      "original": "人しれずゆかしき御ありさまをもえ見ずなりぬるを、覺束なく口惜しくて、心ゆかずながらまゐりぬ。",
+      "translation": "Sans avoir pu voir, comme il le désirait en secret, la personne qu'il était venu chercher, mécontent et déçu, il s'en retourna auprès de son maître."
+    },
+    {
+      "id": "p00975.s19",
+      "original": "いつしかと待ちおはするにかくたどたどしくかへり來たれば、すさまじくなかなかなりと、おぼすことさまざまにて、人のかくしすゑたるにやあらむと、我が御心の思ひよらぬくまなくおとしおき給へりしならひにとぞ。",
+      "translation": "Celui-ci l'attendait avec impatience ; il vit revenir son messager avec un récit si confus qu'il en fut plus déçu que s'il n'avait rien tenté, et il se mit à penser mille choses, se demandant si quelqu'un ne la tenait pas cachée, lui qui avait jadis lui-même mis cette femme à l'écart sans oublier aucun recoin dans ses pensées."
+    }
+  ]
+}
