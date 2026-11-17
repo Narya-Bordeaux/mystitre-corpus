@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "madame-bovary",
+  "title": "Madame Bovary",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Madame Bovary, texte par chapitres sur fr.wikisource (éditeur et date non indiqués)",
+  "pages": [
+    {
+      "title": "Madame Bovary/Première partie/1",
+      "revisionId": 10429205
+    },
+    {
+      "title": "Madame Bovary/Troisième partie/11",
+      "revisionId": 4965609
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "51609f223f92c2dd6668165e1e5895ee02259fc069fec70d1dd3a90aca2cb20a",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "N ous étions à l’étude, quand le Proviseur entra, suivi d’un"
+  },
+  "bodyEnd": {
+    "id": "p00123",
+    "textPrefix": "Il vient de recevoir la croix d’honneur."
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : numéros de chapitres (I, XI) et « FIN ». Chapitre I de la première partie et chapitre XI de la troisième seuls enregistrés."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "N ous étions",
+      "replace": "Nous étions",
+      "reason": "Lettrine séparée du mot par la numérisation (« N ous »)."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00057",
+      "find": "C harles, le lendemain",
+      "replace": "Charles, le lendemain",
+      "reason": "Lettrine séparée du mot par la numérisation (« C harles »)."
+    }
+  ]
+}
