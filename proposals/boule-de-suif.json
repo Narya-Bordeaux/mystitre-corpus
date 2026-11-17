@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "boule-de-suif",
+  "title": "Boule de Suif",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Boule de Suif, édition Ollendorff (Wikisource, sous-page 01, nouvelle complète)",
+    "pages": [
+      {
+        "title": "Boule de Suif, Ollendorff/01",
+        "revisionId": 13909858
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "96ebad29555a7bffaf177978fb9fafdda6740b700f1fbecafc9ba278714a6ce7"
+  },
+  "titleMasks": [
+    "Boule de suif"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3",
+      "p00002.s4"
+    ],
+    "french": "Pendant plusieurs jours de suite des lambeaux d’armée en déroute avaient traversé la ville. Ce n’était point de la troupe, mais des hordes débandées. Les hommes avaient la barbe longue et sale, des uniformes en guenilles, et ils avançaient d’une allure molle, sans drapeau, sans régiment. Tous semblaient accablés, éreintés, incapables d’une pensée ou d’une résolution, marchant, seulement par habitude, et tombant de fatigue sitôt qu’ils s’arrêtaient.",
+    "original": "Pendant plusieurs jours de suite des lambeaux d’armée en déroute avaient traversé la ville. Ce n’était point de la troupe, mais des hordes débandées. Les hommes avaient la barbe longue et sale, des uniformes en guenilles, et ils avançaient d’une allure molle, sans drapeau, sans régiment. Tous semblaient accablés, éreintés, incapables d’une pensée ou d’une résolution, marchant, seulement par habitude, et tombant de fatigue sitôt qu’ils s’arrêtaient.",
+    "length": 452,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00283.s1",
+      "p00284.s1"
+    ],
+    "french": "On fuyait plus vite, la neige étant plus dure ; et jusqu’à Dieppe, pendant les longues heures mornes du voyage, à travers les cahots du chemin, par la nuit tombante, puis dans l’obscurité profonde de la voiture, il continua avec une obstination féroce, son sifflement vengeur et monotone, contraignant les esprits las et exaspérés à suivre le chant d’un bout à l’autre, à se rappeler chaque parole qu’ils appliquaient sur chaque mesure.\nEt [TITRE] pleurait toujours ; et parfois un sanglot, qu’elle n’avait pu retenir, passait, entre deux couplets, dans les ténèbres.",
+    "original": "On fuyait plus vite, la neige étant plus dure ; et jusqu’à Dieppe, pendant les longues heures mornes du voyage, à travers les cahots du chemin, par la nuit tombante, puis dans l’obscurité profonde de la voiture, il continua avec une obstination féroce, son sifflement vengeur et monotone, contraignant les esprits las et exaspérés à suivre le chant d’un bout à l’autre, à se rappeler chaque parole qu’ils appliquaient sur chaque mesure.\nEt Boule de suif pleurait toujours ; et parfois un sanglot, qu’elle n’avait pu retenir, passait, entre deux couplets, dans les ténèbres.",
+    "length": 573,
+    "truncated": false
+  }
+}
