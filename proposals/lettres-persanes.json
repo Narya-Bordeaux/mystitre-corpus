@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "lettres-persanes",
+  "title": "Lettres persanes",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Lettres persanes (Wikisource, texte des éditions anciennes à l'orthographe d'époque, éditeur non indiqué)",
+    "pages": [
+      {
+        "title": "Lettres persanes/Lettre 1",
+        "revisionId": 6142182
+      },
+      {
+        "title": "Lettres persanes/Lettre 161",
+        "revisionId": 6155285
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b17cb6adcec16bd0445befc866e57e4412fe6d2aee73a0d97e22e462e4c8ca98"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00005.s1"
+    ],
+    "french": "Nous n’avons séjourné qu’un jour à Com. Lorsque nous eûmes fait nos dévotions sur le tombeau de la vierge qui a mis au monde douze prophètes, nous nous remîmes en chemin, et hier, vingt-cinquième jour de notre départ d’Ispahan, nous arrivâmes à Tauris.\nRica et moi sommes peut-être les premiers parmi les Persans que l’envie de savoir ait fait sortir de leur pays, et qui aient renoncé aux douceurs d’une vie tranquille pour aller chercher laborieusement la sagesse.",
+    "original": "Nous n’avons séjourné qu’un jour à Com. Lorsque nous eûmes fait nos dévotions sur le tombeau de la vierge qui a mis au monde douze prophètes, nous nous remîmes en chemin, et hier, vingt-cinquième jour de notre départ d’Ispahan, nous arrivâmes à Tauris.\nRica et moi sommes peut-être les premiers parmi les Persans que l’envie de savoir ait fait sortir de leur pays, et qui aient renoncé aux douceurs d’une vie tranquille pour aller chercher laborieusement la sagesse.",
+    "length": 466,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00017.s2",
+      "p00018.s1",
+      "p00018.s2",
+      "p00018.s3"
+    ],
+    "french": "Nous étions tous deux heureux ; tu me croyois trompée, et je te trompais.\nCe langage, sans doute, te paroît nouveau. Seroit-il possible qu’après t’avoir accablé de douleurs, je te forçasse encore d’admirer mon courage ? Mais c’en est fait, le poison me consume, ma force m’abandonne ; la plume me tombe des mains ; je sens affaiblir jusqu’à ma haine ; je me meurs.",
+    "original": "Nous étions tous deux heureux ; tu me croyois trompée, et je te trompais.\nCe langage, sans doute, te paroît nouveau. Seroit-il possible qu’après t’avoir accablé de douleurs, je te forçasse encore d’admirer mon courage ? Mais c’en est fait, le poison me consume, ma force m’abandonne ; la plume me tombe des mains ; je sens affaiblir jusqu’à ma haine ; je me meurs.",
+    "length": 364,
+    "truncated": false
+  }
+}

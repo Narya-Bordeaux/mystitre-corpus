@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lettres-persanes",
+  "title": "Lettres persanes",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Lettres persanes (Wikisource, texte des éditions anciennes à l'orthographe d'époque, éditeur non indiqué)",
+  "pages": [
+    {
+      "title": "Lettres persanes/Lettre 1",
+      "revisionId": 6142182
+    },
+    {
+      "title": "Lettres persanes/Lettre 161",
+      "revisionId": 6155285
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b17cb6adcec16bd0445befc866e57e4412fe6d2aee73a0d97e22e462e4c8ca98",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Nous n’avons séjourné qu’un jour à Com. Lorsque nous eûmes f"
+  },
+  "bodyEnd": {
+    "id": "p00018",
+    "textPrefix": "Ce langage, sans doute, te paroît nouveau. Seroit-il possibl"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Corps : de la première phrase de la lettre 1 à la dernière phrase de la lettre 161. Exclus : introduction de Montesquieu (paratexte d'auteur), en-têtes et adresses des lettres, dates et lieux, « FIN DU TOME SECOND »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
