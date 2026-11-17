@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "bookId": "ali-baba",
+  "title": "Ali Baba et les quarante voleurs",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Mille et Une Nuits, tome VI, Le Normant, 1806 (tomes I à VII traduits par Antoine Galland), d'après Wikisource",
+  "pages": [
+    {
+      "title": "Les Mille et Une Nuits/Histoire d’Ali Baba",
+      "revisionId": 13692295
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0f1f901bdfc98dc144be4c048345c8cc51730ea0db4bc27f7b319a5aa2f53d21",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Puissant sultan, dit-elle, dans une ville de Perse, aux conf"
+  },
+  "bodyEnd": {
+    "id": "p00213",
+    "textPrefix": "Depuis ce temps-là, Ali Baba, son fils qu’il mena à la grott"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre centré, phrase d'amorce du cadre (« Scheherazade… racontoit… l'histoire »), phrase de liaison finale vers le conte suivant, fin de tome. Le conte s'ouvre sur « Puissant sultan, dit-elle » et s'achève sur la postérité d'Ali Baba."
+  ],
+  "titleMasks": [
+    "Ali Baba"
+  ],
+  "readingOptions": []
+}
