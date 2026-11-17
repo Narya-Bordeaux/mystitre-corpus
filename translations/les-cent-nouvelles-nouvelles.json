@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-cent-nouvelles-nouvelles",
+  "sourceLanguage": "frm",
+  "cleanTextSha256": "8073330d6cdd63897b1876c4a913ba5eba65662b3991cb7bd7ce2ac908f751bf",
+  "translatedBy": "Claude (agent), traduction du moyen français en français moderne, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "En la ville de Valenciennes eut naguères ung notable bourgois, en son temps receveur de Haynau, lequel entre les autres fut renommé de large et discrète prudence, et entre ses loables vertuz celle de liberalité ne fut pas la maindre, car par icelle vint en la grace des princes, seigneurs et aultres gens de tous estaz.",
+      "translation": "Il y avait naguère, en la ville de Valenciennes, un bourgeois de renom, en son temps receveur du Hainaut, réputé entre tous pour sa grande et sage prudence ; et parmi ses louables vertus, la générosité n'était pas la moindre, car c'est par elle qu'il gagna la faveur des princes, des seigneurs et des gens de toutes conditions."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "En ceste eureuse felicité Fortune le maintint et soustint jusques en la fin de ses jours.",
+      "translation": "La Fortune le maintint et le soutint dans ce bonheur jusqu'à la fin de ses jours."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Devant et après que la mort l'eust destaché de la chayne qui à mariage l'accouploit, le bon bourgois cause de ceste histoire n'estoit point si mal logé en la dicte ville que ung bien grand maistre ne se tenist pour content et honoré d'avoir ung tel logis.",
+      "translation": "Avant comme après que la mort l'eut détaché de la chaîne qui le liait au mariage, le bon bourgeois dont il est ici question n'était pas si mal logé en ladite ville qu'un très grand seigneur ne se fût tenu content et honoré d'avoir une telle demeure."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s1",
+      "original": "Benoist soit mon cher espoux de qui j'ay gardé & entretenu la leçon qui donne grant apaisement a mon cueur.",
+      "translation": "Béni soit mon cher époux, dont j'ai gardé et suivi la leçon, qui apporte une grande paix à mon cœur."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Or ca mon amy je vous rends telles graces & remercie comme je puis du grant honneur & biens que m'auez fais, pour lesquels je ne vous sçauroye ne pourroye jamais rendre ne donner suffisantes graces non feroient tous mes amis.",
+      "translation": "Ainsi, mon ami, je vous rends grâce et vous remercie autant que je le puis du grand honneur et du bien que vous m'avez faits, et dont ni moi ni tous mes amis ne saurions jamais vous rendre assez de grâces."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "Le bon & saige seigneur voyant son entreprinse être bien achevée print congé de la bonne Damoiselle, & doulcement l'amonesta qu'il lui souuint de chastier desormais sa nature par abstinence, & toutes les fois qu'elle s'en sentiroit esguillonnée par lequel moyen elle demoura entiere jusques au retour de son mary qui ne sceut rien de l'aduenture, car elle lui cela si fit le Clerc pareillement.",
+      "translation": "Le bon et sage seigneur, voyant son entreprise bien achevée, prit congé de la bonne demoiselle et l'exhorta doucement à se souvenir désormais de châtier sa nature par l'abstinence chaque fois qu'elle s'en sentirait aiguillonnée ; par ce moyen, elle demeura fidèle jusqu'au retour de son mari, qui ne sut rien de l'aventure, car elle la lui cacha, et le clerc fit de même."
+    }
+  ]
+}

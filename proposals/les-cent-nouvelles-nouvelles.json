@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-cent-nouvelles-nouvelles",
+  "title": "Les Cent Nouvelles nouvelles",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "frm",
+    "label": "Traduction par nos soins à partir de l'original (frm)"
+  },
+  "translatedBy": "Claude (agent), traduction du moyen français en français moderne, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Début : Les Cent Nouvelles Nouvelles, tome I (Project Gutenberg, PDF 2012, Internet Archive), copié par l'utilisateur ; fin : édition de 1733, tome II (Internet Archive), recopiée par l'agent depuis la capture de l'utilisateur, « ſ » rendu par « s » ; explicit, devise et « Fin du second Tome » exclus",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "8073330d6cdd63897b1876c4a913ba5eba65662b3991cb7bd7ce2ac908f751bf",
+    "declaredSource": {
+      "url": "https://ia601605.us.archive.org/view_archive.php?archive=/15/items/GutenbergPDF-English/FRA%20%28French%29.zip&file=Les%20Cent%20Nouvelles%20Nouvelles%2C%20tome%20I%20%28FRA%29%20-%20Unknown%2C%202012%20%28140p%29.pdf",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur",
+      "sectionUrls": {
+        "fin": "https://dn790001.ca.archive.org/0/items/LesCentNouvellesNouvelles1733T2/Les_Cent_Nouvelles_Nouvelles_1733_T2.pdf"
+      }
+    }
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "Valenciennnes",
+      "replace": "Valenciennes",
+      "reason": "Coquille d'OCR de l'édition numérisée (trois « n »)"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1"
+    ],
+    "french": "Il y avait naguère, en la ville de Valenciennes, un bourgeois de renom, en son temps receveur du Hainaut, réputé entre tous pour sa grande et sage prudence ; et parmi ses louables vertus, la générosité n'était pas la moindre, car c'est par elle qu'il gagna la faveur des princes, des seigneurs et des gens de toutes conditions.",
+    "original": "En la ville de Valenciennes eut naguères ung notable bourgois, en son temps receveur de Haynau, lequel entre les autres fut renommé de large et discrète prudence, et entre ses loables vertuz celle de liberalité ne fut pas la maindre, car par icelle vint en la grace des princes, seigneurs et aultres gens de tous estaz.",
+    "length": 327,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00003.s3"
+    ],
+    "french": "Le bon et sage seigneur, voyant son entreprise bien achevée, prit congé de la bonne demoiselle et l'exhorta doucement à se souvenir désormais de châtier sa nature par l'abstinence chaque fois qu'elle s'en sentirait aiguillonnée ; par ce moyen, elle demeura fidèle jusqu'au retour de son mari, qui ne sut rien de l'aventure, car elle la lui cacha, et le clerc fit de même.",
+    "original": "Le bon & saige seigneur voyant son entreprinse être bien achevée print congé de la bonne Damoiselle, & doulcement l'amonesta qu'il lui souuint de chastier desormais sa nature par abstinence, & toutes les fois qu'elle s'en sentiroit esguillonnée par lequel moyen elle demoura entiere jusques au retour de son mary qui ne sceut rien de l'aduenture, car elle lui cela si fit le Clerc pareillement.",
+    "length": 371,
+    "truncated": false
+  }
+}

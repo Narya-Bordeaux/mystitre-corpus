@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-cent-nouvelles-nouvelles",
+  "title": "Les Cent Nouvelles nouvelles",
+  "host": "declared",
+  "sourceLanguage": "frm",
+  "edition": "Début : Les Cent Nouvelles Nouvelles, tome I (Project Gutenberg, PDF 2012, Internet Archive), copié par l'utilisateur ; fin : édition de 1733, tome II (Internet Archive), recopiée par l'agent depuis la capture de l'utilisateur, « ſ » rendu par « s » ; explicit, devise et « Fin du second Tome » exclus",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8073330d6cdd63897b1876c4a913ba5eba65662b3991cb7bd7ce2ac908f751bf",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "En la ville de Valenciennnes eut naguères ung notable bourgo"
+  },
+  "bodyEnd": {
+    "id": "p00003",
+    "textPrefix": "Benoist soit mon cher espoux de qui j'ay gardé & entretenu l"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "frm"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée : début de la première nouvelle, fin de la centième"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "Valenciennnes",
+      "replace": "Valenciennes",
+      "reason": "Coquille d'OCR de l'édition numérisée (trois « n »)"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://ia601605.us.archive.org/view_archive.php?archive=/15/items/GutenbergPDF-English/FRA%20%28French%29.zip&file=Les%20Cent%20Nouvelles%20Nouvelles%2C%20tome%20I%20%28FRA%29%20-%20Unknown%2C%202012%20%28140p%29.pdf",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur",
+    "sectionUrls": {
+      "fin": "https://dn790001.ca.archive.org/0/items/LesCentNouvellesNouvelles1733T2/Les_Cent_Nouvelles_Nouvelles_1733_T2.pdf"
+    }
+  }
+}
