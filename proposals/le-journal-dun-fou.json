@@ -38,14 +38,15 @@
   "createdOn": "2026-11-17",
   "opening": {
     "sentenceIds": [
+      "p00004.s1",
       "p00005.s1",
       "p00005.s2",
       "p00007.s1",
       "p00007.s2"
     ],
-    "french": "Aujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :\n— Quelle heure est-il ?\nElle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau.",
-    "original": "Aujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :\n— Quelle heure est-il ?\nElle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau.",
-    "length": 418,
+    "french": "3 octobre.\nAujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :\n— Quelle heure est-il ?\nElle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau.",
+    "original": "3 octobre.\nAujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :\n— Quelle heure est-il ?\nElle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau.",
+    "length": 429,
     "truncated": false
   },
   "closing": {

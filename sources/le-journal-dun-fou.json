@@ -14,8 +14,8 @@
   "cleanerVersion": 1,
   "cleanTextSha256": "80cab5c85de70b34e5496fe58310cad996c70aef4c806d1d5fcd49c9c9fe6808",
   "bodyStart": {
-    "id": "p00005",
-    "textPrefix": "Aujourd’hui, il est arrivé un événement extraordinaire. Je m"
+    "id": "p00004",
+    "textPrefix": "3 octobre."
   },
   "bodyEnd": {
     "id": "p00138",
@@ -32,7 +32,8 @@
   },
   "registeredOn": "2026-11-17",
   "notes": [
-    "Exclus : note explicative préliminaire du traducteur (tchin), titre, première date « 3 octobre. » (en-tête de rubrique, non phrase), mention « FIN ». La date altérée du dernier article (p00137) reste hors extrait."
+    "Exclus : note explicative préliminaire du traducteur (tchin), titre, première date « 3 octobre. » (en-tête de rubrique, non phrase), mention « FIN ». La date altérée du dernier article (p00137) reste hors extrait.",
+    "Exclus : note explicative préliminaire du traducteur (tchin), titre, mention « FIN ». La date « 3 octobre. » est conservée : elle fait partie de l'œuvre et signale la forme du journal."
   ],
   "titleMasks": [],
   "readingOptions": [],
