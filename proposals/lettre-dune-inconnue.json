@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "lettre-dune-inconnue",
+  "title": "Lettre d'une inconnue",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Alzir Hella et Olivier Bournac",
+    "translationYear": null,
+    "translatorDeathYear": 1953,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Alzir_Hella&oldid=16029324",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Alzir Hella et Olivier Bournac)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Amok, traduit de l'allemand par Alzir Hella et Olivier Bournac, Bibliothèque cosmopolite, Stock (année non indiquée sur Wikisource) — page « Amok (recueil)/Lettre d’une inconnue »",
+    "pages": [
+      {
+        "title": "Amok (recueil)/Lettre d’une inconnue",
+        "revisionId": 15668827
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "658fb7b29ee334ca886a202a855c35c290dff8b6fb9713ed1f668b67b23aaf6a"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "R…, le romancier à la mode, rentrait à Vienne de bon matin après une excursion de trois jours dans la montagne. Il acheta un journal à la gare ; ses yeux tombèrent sur la date, et il se rappela aussitôt que c’était celle de son anniversaire. « Quarante et un ans », songea-t-il, et cela ne lui fit ni plaisir ni peine.",
+    "original": "R…, le romancier à la mode, rentrait à Vienne de bon matin après une excursion de trois jours dans la montagne. Il acheta un journal à la gare ; ses yeux tombèrent sur la date, et il se rappela aussitôt que c’était celle de son anniversaire. « Quarante et un ans », songea-t-il, et cela ne lui fit ni plaisir ni peine.",
+    "length": 318,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00091.s9",
+      "p00091.s10"
+    ],
+    "french": "Ce fut pour lui comme si, soudain, une porte invisible s’était ouverte et qu’un courant d’air glacé, sorti de l’autre monde, eût pénétré dans la quiétude de sa chambre. Il sentit que quelqu’un venait de mourir ; il sentit qu’il y avait eu là un immortel amour : au plus profond de son âme, quelque chose s’épanouit, et il pensa à l’amante invisible aussi immatériellement et aussi passionnément qu’à une musique lointaine.",
+    "original": "Ce fut pour lui comme si, soudain, une porte invisible s’était ouverte et qu’un courant d’air glacé, sorti de l’autre monde, eût pénétré dans la quiétude de sa chambre. Il sentit que quelqu’un venait de mourir ; il sentit qu’il y avait eu là un immortel amour : au plus profond de son âme, quelque chose s’épanouit, et il pensa à l’amante invisible aussi immatériellement et aussi passionnément qu’à une musique lointaine.",
+    "length": 422,
+    "truncated": false
+  }
+}
