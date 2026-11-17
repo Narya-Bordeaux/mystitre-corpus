@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-proces",
+  "title": "Le Procès",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Der Prozess, Wikisource (de), chapitres 1 et 10 ; édition non indiquée",
+    "pages": [
+      {
+        "title": "Der Prozess/1. Kapitel",
+        "revisionId": 3107875
+      },
+      {
+        "title": "Der Prozess/10. Kapitel",
+        "revisionId": 3107884
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6ec6e2062abeff5df9663c7abe2687a281a5c2c58c7fe57d6dbb744d84e16e68"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3",
+      "p00003.s4"
+    ],
+    "french": "Quelqu'un avait dû calomnier Josef K., car, sans qu'il eût rien fait de mal, il fut arrêté un matin. La cuisinière de Mme Grubach, sa logeuse, qui lui apportait son petit déjeuner chaque jour vers huit heures, ne vint pas cette fois-là. Cela ne s'était encore jamais produit. K. attendit encore un moment, regarda de son oreiller la vieille femme qui habitait en face et qui l'observait avec une curiosité tout à fait inhabituelle chez elle ; puis, à la fois intrigué et affamé, il sonna.",
+    "original": "Jemand mußte Josef K. verleumdet haben, denn ohne daß er etwas Böses getan hätte, wurde er eines Morgens verhaftet. Die Köchin der Frau Grubach, seiner Zimmervermieterin, die ihm jeden Tag gegen acht Uhr früh das Frühstück brachte, kam diesmal nicht. Das war noch niemals geschehen. K. wartete noch ein Weilchen, sah von seinem Kopfkissen aus die alte Frau, die ihm gegenüber wohnte und die ihn mit einer an ihr ganz ungewöhnlichen Neugierde beobachtete, dann aber, gleichzeitig befremdet und hungrig, läutete er.",
+    "length": 488,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00034.s1",
+      "p00034.s2",
+      "p00034.s3"
+    ],
+    "french": "Mais les mains de l'un des messieurs se posèrent sur la gorge de K., tandis que l'autre lui enfonçait le couteau dans le cœur et l'y tournait deux fois. Les yeux mourants, K. vit encore les messieurs, tout près de son visage, joue contre joue, observer le dénouement. « Comme un chien ! » dit-il ; c'était comme si la honte devait lui survivre.",
+    "original": "Aber an K.s Gurgel legten sich die Hände des einen Herrn, während der andere das Messer ihm ins Herz stieß und zweimal dort drehte. Mit brechenden Augen sah noch K., wie die Herren, nahe vor seinem Gesicht, Wange an Wange aneinander gelehnt, die Entscheidung beobachteten. „Wie ein Hund!“ sagte er, es war, als sollte die Scham ihn überleben.",
+    "length": 344,
+    "truncated": false
+  }
+}

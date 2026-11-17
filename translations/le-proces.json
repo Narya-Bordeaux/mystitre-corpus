@@ -1,0 +1,92 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-proces",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "6ec6e2062abeff5df9663c7abe2687a281a5c2c58c7fe57d6dbb744d84e16e68",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "Jemand mußte Josef K. verleumdet haben, denn ohne daß er etwas Böses getan hätte, wurde er eines Morgens verhaftet.",
+      "translation": "Quelqu'un avait dû calomnier Josef K., car, sans qu'il eût rien fait de mal, il fut arrêté un matin."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Die Köchin der Frau Grubach, seiner Zimmervermieterin, die ihm jeden Tag gegen acht Uhr früh das Frühstück brachte, kam diesmal nicht.",
+      "translation": "La cuisinière de Mme Grubach, sa logeuse, qui lui apportait son petit déjeuner chaque jour vers huit heures, ne vint pas cette fois-là."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "Das war noch niemals geschehen.",
+      "translation": "Cela ne s'était encore jamais produit."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "K. wartete noch ein Weilchen, sah von seinem Kopfkissen aus die alte Frau, die ihm gegenüber wohnte und die ihn mit einer an ihr ganz ungewöhnlichen Neugierde beobachtete, dann aber, gleichzeitig befremdet und hungrig, läutete er.",
+      "translation": "K. attendit encore un moment, regarda de son oreiller la vieille femme qui habitait en face et qui l'observait avec une curiosité tout à fait inhabituelle chez elle ; puis, à la fois intrigué et affamé, il sonna."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "Sofort klopfte es und ein Mann, den er in dieser Wohnung noch niemals gesehen hatte, trat ein.",
+      "translation": "Aussitôt on frappa, et un homme qu'il n'avait encore jamais vu dans cet appartement entra."
+    },
+    {
+      "id": "p00003.s6",
+      "original": "Er war schlank und doch fest gebaut, er trug ein anliegendes schwarzes Kleid, das ähnlich den Reiseanzügen mit verschiedenen Falten, Taschen, Schnallen, Knöpfen und einem Gürtel versehen war und infolgedessen, ohne daß man sich darüber klar wurde, wozu es dienen sollte, besonders praktisch erschien.",
+      "translation": "Il était mince et pourtant solidement bâti ; il portait un habit noir ajusté qui, comme les tenues de voyage, était muni de plis, de poches, de boucles, de boutons et d'une ceinture, et qui, de ce fait, sans qu'on comprît à quoi tout cela pouvait servir, paraissait particulièrement pratique."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00033.s25",
+      "original": "War noch Hilfe?",
+      "translation": "Y avait-il encore du secours ?"
+    },
+    {
+      "id": "p00033.s26",
+      "original": "Gab es Einwände, die man vergessen hatte?",
+      "translation": "Y avait-il des objections qu'on avait oubliées ?"
+    },
+    {
+      "id": "p00033.s27",
+      "original": "Gewiß gab es solche.",
+      "translation": "Il y en avait certainement."
+    },
+    {
+      "id": "p00033.s28",
+      "original": "Die Logik ist zwar unerschütterlich, aber einem Menschen, der leben will, widersteht sie nicht.",
+      "translation": "La logique est certes inébranlable, mais elle ne résiste pas à un homme qui veut vivre."
+    },
+    {
+      "id": "p00033.s29",
+      "original": "Wo war der Richter, den er nie gesehen hatte?",
+      "translation": "Où était le juge qu'il n'avait jamais vu ?"
+    },
+    {
+      "id": "p00033.s30",
+      "original": "Wo war das hohe Gericht, bis zu dem er nie gekommen war?",
+      "translation": "Où était la haute cour devant laquelle il n'était jamais parvenu ?"
+    },
+    {
+      "id": "p00033.s31",
+      "original": "Er hob die Hände und spreizte alle Finger.",
+      "translation": "Il leva les mains et écarta tous les doigts."
+    },
+    {
+      "id": "p00034.s1",
+      "original": "Aber an K.s Gurgel legten sich die Hände des einen Herrn, während der andere das Messer ihm ins Herz stieß und zweimal dort drehte.",
+      "translation": "Mais les mains de l'un des messieurs se posèrent sur la gorge de K., tandis que l'autre lui enfonçait le couteau dans le cœur et l'y tournait deux fois."
+    },
+    {
+      "id": "p00034.s2",
+      "original": "Mit brechenden Augen sah noch K., wie die Herren, nahe vor seinem Gesicht, Wange an Wange aneinander gelehnt, die Entscheidung beobachteten.",
+      "translation": "Les yeux mourants, K. vit encore les messieurs, tout près de son visage, joue contre joue, observer le dénouement."
+    },
+    {
+      "id": "p00034.s3",
+      "original": "„Wie ein Hund!“ sagte er, es war, als sollte die Scham ihn überleben.",
+      "translation": "« Comme un chien ! » dit-il ; c'était comme si la honte devait lui survivre."
+    }
+  ]
+}
