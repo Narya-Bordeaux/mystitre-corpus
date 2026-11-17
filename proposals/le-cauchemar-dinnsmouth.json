@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-cauchemar-dinnsmouth",
+  "title": "Le Cauchemar d'Innsmouth",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Shadow Over Innsmouth (1936), page « full » de Wikisource ; édition non indiquée en détail",
+    "pages": [
+      {
+        "title": "The Shadow Over Innsmouth (1936)/full",
+        "revisionId": 15145807
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "e4ae3397bd297e835a88a4fa6da2fd1ad218a9ad5a21ae8f333a24daa630f913"
+  },
+  "titleMasks": [
+    "Innsmouth"
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Pendant l'hiver 1927-28, des fonctionnaires du gouvernement fédéral menèrent une étrange et secrète enquête sur certaines conditions régnant dans l'antique port du Massachusetts qu'est [TITRE]. Le public ne l'apprit qu'en février, lorsque eut lieu une vaste série de descentes et d'arrestations, suivie de l'incendie et du dynamitage délibérés — avec les précautions voulues — d'un nombre énorme de maisons délabrées, rongées par les vers et réputées vides, le long du front de mer abandonné.",
+    "original": "DURING the winter of 1927–28 officials of the Federal government made a strange and secret investigation of certain conditions in the ancient Massachusetts seaport of Innsmouth. The public first learned of it in February, when a vast series of raids and arrests occurred, followed by the deliberate burning and dynamiting—under suitable precautions—of an enormous number of crumbling, worm-eaten, and supposedly empty houses along the abandoned waterfront.",
+    "length": 494,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00258.s1",
+      "p00258.s2"
+    ],
+    "french": "Je préparerai l'évasion de mon cousin de cet asile de fous de Canton, et ensemble nous irons à [TITRE], ombragée de merveilles. Nous nagerons jusqu'à ce récif menaçant, au large, et plongerons à travers de noirs abîmes jusqu'à Y'ha-nthlei la cyclopéenne aux mille colonnes, et dans ce repaire des Profonds nous demeurerons à jamais au sein de la merveille et de la gloire.",
+    "original": "I shall plan my cousin's escape from that Canton mad-house, and together we shall go to marvel-shadowed Innsmouth. We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei, and in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.",
+    "length": 374,
+    "truncated": false
+  }
+}

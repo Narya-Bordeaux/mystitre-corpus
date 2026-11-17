@@ -1,0 +1,167 @@
+{
+ "formatVersion": 1,
+ "bookId": "voyage-en-occident",
+ "sourceLanguage": "zh",
+ "cleanTextSha256": "b0e161e9ab64baf9e32ab695cf29d8a0ac6007b503804fbfc781d445ad078282",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00001.s1",
+   "original": "詩曰：\n混沌未分天地亂，茫茫渺渺無人見。",
+   "translation": "Un poème dit :\nQuand le chaos n'était pas encore divisé, le ciel et la terre n'étaient que confusion ; tout n'était que brume immense, et nul homme ne voyait rien."
+  },
+  {
+   "id": "p00003.s1",
+   "original": "自從盤古破鴻濛，開闢從茲清濁辨。",
+   "translation": "Depuis que Pangu eut fendu la grande nébuleuse, la séparation du pur et du trouble fut établie."
+  },
+  {
+   "id": "p00004.s1",
+   "original": "覆載群生仰至仁，發明萬物皆成善。",
+   "translation": "Le ciel qui couvre et la terre qui porte nourrissent tous les êtres, que révère la souveraine bonté ; toutes choses qui s'y révèlent deviennent bonnes."
+  },
+  {
+   "id": "p00005.s1",
+   "original": "欲知造化會元功，須看《西遊釋厄傳》。",
+   "translation": "Qui veut connaître l'œuvre première de la création doit lire l'Histoire du Voyage en Occident et de la délivrance des malheurs."
+  },
+  {
+   "id": "p00006.s1",
+   "original": "蓋聞天地之數，有十二萬九千六百歲為一元。",
+   "translation": "On a ouï dire que le nombre du ciel et de la terre est de cent vingt-neuf mille six cents ans pour former une période."
+  },
+  {
+   "id": "p00006.s2",
+   "original": "將一元分為十二會，乃子、丑、寅、卯、辰、巳、午、未、申、酉、戌、亥之十二支也。",
+   "translation": "On divise cette période en douze phases, qui sont les douze rameaux terrestres : zi, chou, yin, mao, chen, si, wu, wei, shen, you, xu et hai."
+  },
+  {
+   "id": "p00006.s3",
+   "original": "每會該一萬八百歲。",
+   "translation": "Chaque phase compte dix mille huit cents ans."
+  },
+  {
+   "id": "p00006.s4",
+   "original": "且就一日而論：子時得陽氣，而丑則雞鳴；寅不通光，而卯則日出；辰時食後，而巳則挨排；日午天中，而未則西蹉；申時晡，而日落酉，戌黃昏，而人定亥。",
+   "translation": "Si l'on prend l'exemple d'un seul jour : à l'heure zi s'éveille le souffle yang, et à l'heure chou chante le coq ; à l'heure yin la lumière ne passe pas encore, et à l'heure mao le soleil se lève ; à l'heure chen vient le repas, et à l'heure si l'on se met à l'ouvrage ; à l'heure wu le soleil est au milieu du ciel, et à l'heure wei il décline à l'ouest ; à l'heure shen vient le soir, et à l'heure you le soleil se couche ; à l'heure xu tombe le crépuscule, et à l'heure hai les hommes s'apaisent."
+  },
+  {
+   "id": "p00006.s5",
+   "original": "譬於大數，若到戌會之終，則天地昏曚而萬物否矣。",
+   "translation": "Comparons-le au grand nombre : quand on arrive à la fin de la phase xu, le ciel et la terre s'obscurcissent et toutes choses sont étouffées."
+  },
+  {
+   "id": "p00006.s6",
+   "original": "再去五千四百歲，交亥會之初，則當黑暗，而兩間人物俱無矣，故曰混沌。",
+   "translation": "Cinq mille quatre cents ans encore, et l'on entre au début de la phase hai : alors règnent les ténèbres, et il n'y a plus ni hommes ni êtres entre le ciel et la terre ; c'est pourquoi on l'appelle le chaos."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00119.s47",
+   "original": "南無鬥戰勝佛。",
+   "translation": "Hommage au Bouddha Victorieux au combat."
+  },
+  {
+   "id": "p00119.s48",
+   "original": "南無觀世音菩薩。",
+   "translation": "Hommage au bodhisattva Guanyin."
+  },
+  {
+   "id": "p00119.s49",
+   "original": "南無大勢至菩薩。",
+   "translation": "Hommage au bodhisattva Mahasthamaprapta."
+  },
+  {
+   "id": "p00119.s50",
+   "original": "南無文殊菩薩。",
+   "translation": "Hommage au bodhisattva Manjushri."
+  },
+  {
+   "id": "p00119.s51",
+   "original": "南無普賢菩薩。",
+   "translation": "Hommage au bodhisattva Samantabhadra."
+  },
+  {
+   "id": "p00119.s52",
+   "original": "南無清淨大海眾菩薩。",
+   "translation": "Hommage aux bodhisattvas purs de la grande mer."
+  },
+  {
+   "id": "p00119.s53",
+   "original": "南無蓮池海會佛菩薩。",
+   "translation": "Hommage aux bouddhas et bodhisattvas de l'assemblée de l'étang de lotus."
+  },
+  {
+   "id": "p00119.s54",
+   "original": "南無西天極樂諸菩薩。",
+   "translation": "Hommage à tous les bodhisattvas de la Terre pure de l'Ouest."
+  },
+  {
+   "id": "p00119.s55",
+   "original": "南無三千揭諦大菩薩。",
+   "translation": "Hommage aux trois mille grands bodhisattvas gardiens."
+  },
+  {
+   "id": "p00119.s56",
+   "original": "南無五百阿羅大菩薩。",
+   "translation": "Hommage aux cinq cents grands arhats."
+  },
+  {
+   "id": "p00119.s57",
+   "original": "南無比丘夷塞尼菩薩。",
+   "translation": "Hommage aux bodhisattvas bhikshus et bhikshunis."
+  },
+  {
+   "id": "p00119.s58",
+   "original": "南無無邊無量法菩薩。",
+   "translation": "Hommage aux bodhisattvas de la Loi sans bornes et sans mesure."
+  },
+  {
+   "id": "p00119.s59",
+   "original": "南無金剛大士聖菩薩。",
+   "translation": "Hommage aux saints bodhisattvas, grands maîtres du diamant."
+  },
+  {
+   "id": "p00119.s60",
+   "original": "南無淨壇使者菩薩。",
+   "translation": "Hommage au bodhisattva Messager de l'autel purifié."
+  },
+  {
+   "id": "p00119.s61",
+   "original": "南無八寶金身羅漢菩薩。",
+   "translation": "Hommage aux bodhisattvas arhats au corps d'or aux huit trésors."
+  },
+  {
+   "id": "p00119.s62",
+   "original": "南無八部天龍廣力菩薩。",
+   "translation": "Hommage aux bodhisattvas dragons célestes des huit classes, à la grande puissance."
+  },
+  {
+   "id": "p00119.s63",
+   "original": "如是等一切世界諸佛：\n願以此功德，莊嚴佛淨土。",
+   "translation": "Tous les bouddhas de tous les mondes, tels que ceux-là :\nPuisse ce mérite orner la Terre pure du Bouddha."
+  },
+  {
+   "id": "p00121.s1",
+   "original": "上報四重恩，下濟三途苦。",
+   "translation": "Il rend grâces aux quatre grands bienfaits d'en haut et soulage les souffrances des trois voies d'en bas."
+  },
+  {
+   "id": "p00122.s1",
+   "original": "若有見聞者，悉發菩提心。",
+   "translation": "Que tous ceux qui en auront vu ou entendu parler éveillent en eux le cœur d'éveil."
+  },
+  {
+   "id": "p00123.s1",
+   "original": "同生極樂國，盡報此一身。",
+   "translation": "Qu'ils renaissent ensemble au pays de la Félicité suprême, et rendent grâces de ce seul corps."
+  },
+  {
+   "id": "p00124.s1",
+   "original": "十方三世一切佛，諸尊菩薩摩訶薩，摩訶般若波羅密。」",
+   "translation": "Tous les bouddhas des dix directions et des trois temps, tous les vénérables bodhisattvas, grands êtres, et la grande sagesse de la Prajna-paramita."
+  }
+ ]
+}

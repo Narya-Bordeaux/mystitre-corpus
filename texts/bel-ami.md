@@ -1,0 +1,547 @@
+# Bel-Ami
+
+Source : Bel-Ami, édition Ollendorff, 1901 (Wikisource) ; deux chapitres seulement : Première partie I et Deuxième partie X — fr.wikisource.org
+
+Origine : Texte original libre de droits
+
+- [Bel-Ami/Édition Ollendorff, 1901/Première Partie/I](https://fr.wikisource.org/w/index.php?title=Bel-Ami/Édition_Ollendorff,_1901/Première_Partie/I&oldid=5631989)
+- [Bel-Ami/Édition Ollendorff, 1901/Deuxième Partie/X](https://fr.wikisource.org/w/index.php?title=Bel-Ami/Édition_Ollendorff,_1901/Deuxième_Partie/X&oldid=5642918)
+
+`p00001` PREMIÈRE PARTIE
+
+`p00002` **I**
+
+`p00003` Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.
+
+`p00004` Comme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire, un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.
+
+`p00005` Les femmes avaient levé la tête vers lui, trois petites ouvrières, une maîtresse de musique entre deux âges, mal peignée, négligée, coiffée d’un chapeau toujours poussiéreux et vêtue toujours d’une robe de travers, et deux bourgeoises avec leurs maris, habituées de cette gargote à prix fixe.
+
+`p00006` Lorsqu’il fut sur le trottoir, il demeura un instant immobile, se demandant ce qu’il allait faire. On était au 28 juin, et il lui restait juste en poche trois francs quarante pour finir le mois. Cela représentait deux dîners sans déjeuners, ou deux déjeuners sans dîners, au choix. Il réfléchit que les repas du matin étant de vingt-deux sous, au lieu de trente que coûtaient ceux du soir, il lui resterait, en se contentant des déjeuners, un franc vingt centimes de boni, ce qui représentait encore deux collations au pain et au saucisson, plus deux bocks sur le boulevard. C’était là sa grande dépense et son grand plaisir des nuits ; et il se mit à descendre la rue Notre-Dame-de-Lorette.
+
+`p00007` Il marchait ainsi qu’au temps où il portait l’uniforme des hussards, la poitrine bombée, les jambes un peu entr’ouvertes comme s’il venait de descendre de cheval ; et il avançait brutalement dans la rue pleine de monde, heurtant les épaules, poussant les gens pour ne point se déranger de sa route. Il inclinait légèrement sur l’oreille son chapeau à haute forme assez défraîchi, et battait le pavé de son talon. Il avait l’air de toujours défier quelqu’un, les passants, les maisons, la ville entière, par chic de beau soldat tombé dans le civil.
+
+`p00008` Quoique habillé d’un complet de soixante francs, il gardait une certaine élégance tapageuse, un peu commune, réelle cependant. Grand, bien fait, blond, d’un blond châtain vaguement roussi, avec une moustache retroussée, qui semblait mousser sur sa lèvre, des yeux bleus, clairs, troués d’une pupille toute petite, des cheveux frisés naturellement, séparés par une raie au milieu du crâne, il ressemblait bien au mauvais sujet des romans populaires.
+
+`p00009` C’était une de ces soirées d’été où l’air manque dans Paris. La ville, chaude comme une étuve, paraissait suer dans la nuit étouffante. Les égouts soufflaient par leurs bouches de granit leurs haleines empestées, et les cuisines souterraines jetaient à la rue, par leurs fenêtres basses, les miasmes infâmes des eaux de vaisselle et des vieilles sauces.
+
+`p00010` Les concierges, en manches de chemise, à cheval sur des chaises en paille, fumaient la pipe sous des portes cochères, et les passants allaient d’un pas accablé, le front nu, le chapeau à la main.
+
+`p00011` Quand Georges Duroy parvint au boulevard, il s’arrêta encore, indécis sur ce qu’il  
+allait faire. Il avait envie maintenant de gagner les Champs-Élysées et l’avenue du bois de Boulogne pour trouver un peu d’air frais sous les arbres ; mais un désir aussi le travaillait, celui d’une rencontre amoureuse.
+
+`p00012` Comment se présenterait-elle ? Il n’en savait rien, mais il l’attendait depuis trois mois, tous les jours, tous les soirs. Quelquefois cependant, grâce à sa belle mine et à sa tournure galante, il volait, par-ci, par-là, un peu d’amour, mais il espérait toujours plus et mieux.
+
+`p00013` La poche vide et le sang bouillant, il s’allumait au contact des rôdeuses qui murmurent, à l’angle des rues : « Venez-vous chez moi, joli garçon ? » mais il n’osait les suivre, ne les pouvant payer ; et il attendait aussi autre chose, d’autres baisers, moins vulgaires.
+
+`p00014` Il aimait cependant les lieux où grouillent les filles publiques, leurs bals, leurs cafés, leurs rues ; il aimait les coudoyer, leur parler, les tutoyer, flairer leurs parfums violents, se sentir près d’elles. C’étaient des femmes enfin, des femmes d’amour. Il ne les méprisait point du mépris inné des hommes de famille.
+
+`p00015` Il tourna vers la Madeleine et suivit le flot de foule qui coulait accablé par la chaleur. Les grands cafés, pleins de monde, débordaient sur le trottoir, étalant leur public de buveurs sous la lumière éclatante et crue de leur devanture illuminée. Devant eux, sur de petites tables carrées ou rondes, les verres contenaient des liquides rouges, jaunes, verts, bruns, de toutes les nuances ; et dans l’intérieur des carafes on voyait briller les gros cylindres transparents de glace qui refroidissaient la belle eau claire.
+
+`p00016` Duroy avait ralenti sa marche, et l’envie de boire lui séchait la gorge.
+
+`p00017` Une soif chaude, une soif de soir d’été le tenait, et il pensait à la sensation délicieuse des boissons froides coulant dans la bouche. Mais s’il buvait seulement deux bocks dans la soirée, adieu le maigre souper du lendemain, et il les connaissait trop, les heures affamées de la fin du mois.
+
+`p00018` Il se dit :« Il faut que je gagne dix heures et je prendrai mon bock à l’Américain. Nom d’un chien ! que j’ai soif tout de même ! » Et il regardait tous ces hommes attablés et buvant, tous ces hommes qui pouvaient se désaltérer tant qu’il leur plaisait. Il allait, passant devant les cafés d’un air crâne et gaillard, et il jugeait d’un coup d’oeil, à la mine, à l’habit, ce que chaque consommateur devait porter d’argent sur lui. Et une colère l’envahissait contre ces gens assis et tranquilles. En fouillant leurs poches, on trouverait de l’or, de la monnaie blanche et des sous. En moyenne, chacun devait avoir au moins deux louis ; ils étaient bien une centaine au café ; cent fois deux louis font quatre mille francs ! Il murmurait : « Les cochons ! » tout en se dandinant avec grâce. S’il avait pu en tenir un au coin d’une rue, dans l’ombre bien noire, il lui aurait tordu le cou, ma foi, sans scrupule, comme il faisait aux volailles des paysans, aux jours de grandes manœuvres.
+
+`p00019` Et il se rappelait ses deux années d’Afrique, la façon dont il rançonnait les Arabes dans les petits postes du Sud. Et un sourire cruel et gai passa sur ses lèvres au souvenir d’une escapade qui avait coûté la vie à trois hommes de la tribu des Ouled-Alane et qui leur avait valu, à ses camarades et à lui, vingt poules, deux moutons et de l’or, et de quoi rire pendant six mois.
+
+`p00020` On n’avait jamais trouvé les coupables, qu’on n’avait guère cherchés d’ailleurs, l’Arabe étant un peu considéré comme la proie naturelle du soldat.
+
+`p00021` À Paris, c’était autre chose. On ne pouvait pas marauder gentiment, sabre au côté et revolver au poing, loin de la justice civile, en liberté. Il se sentait au cœur tous les instincts du sous-off lâché en pays conquis. Certes il les regrettait, ses deux années de désert. Quel dommage de n’être pas resté là-bas ! Mais voilà, il avait espéré mieux en revenant. Et maintenant !… Ah ! oui, c’était du propre, maintenant !
+
+`p00022` Il faisait aller sa langue dans sa bouche, avec un petit claquement, comme pour constater la sécheresse de son palais.
+
+`p00023` La foule glissait autour de lui, exténuée et lente, et il pensait toujours : « Tas de brutes ! tous ces imbéciles-là ont des sous dans le gilet ». Il bousculait les gens de l’épaule, et sifflotait des airs joyeux. Des messieurs heurtés se retournaient en grognant ; des femmes prononçaient : « En voilà un animal ! »
+
+`p00024` Il passa devant le Vaudeville, et s’arrêta en face du café Américain, se demandant s’il n’allait pas prendre son bock, tant la soif le torturait. Avant de se décider, il regarda l’heure aux horloges lumineuses, au milieu de la chaussée. Il était neuf heures un quart. Il se connaissait : dès que le verre plein de bière serait devant lui, il l’avalerait. Que ferait-il ensuite jusqu’à onze heures ?
+
+`p00025` Il passa : « J’irai jusqu’à la Madeleine, se dit-il, et je reviendrai tout doucement. »
+
+`p00026` Comme il arrivait au coin de la place de l’Opéra, il croisa un gros jeune homme, dont il se rappela vaguement avoir vu la tête quelque part.
+
+`p00027` Il se mit à le suivre en cherchant dans ses souvenirs, et répétant à mi-voix : « Où diable ai-je connu ce particulier-là ? »
+
+`p00028` Il fouillait dans sa pensée, sans parvenir à se le rappeler ; puis tout d’un coup, par un singulier phénomène de mémoire, le même homme lui apparut moins gros, plus jeune, vêtu d’un uniforme de hussard. Il s’écria tout haut : « Tiens, Forestier ! » et, allongeant le pas, il alla frapper sur l’épaule du marcheur. L’autre se retourna, le regarda, puis dit : — Qu’est-ce que vous me voulez, monsieur ?
+
+`p00029` Duroy se mit à rire : — Tu ne me reconnais pas ?
+
+`p00030` — Non.
+
+`p00031` — Georges Duroy du 6e hussards.
+
+`p00032` Forestier tendit les deux mains : — Ah ! mon vieux ! comment vas-tu ?
+
+`p00033` — Très bien et toi ?
+
+`p00034` — Oh ! moi, pas trop ; figure-toi que j’ai une poitrine de papier mâché maintenant ; je tousse six mois sur douze, à la suite d’une bronchite que j’ai attrapée à Bougival, l’année de mon retour à Paris, voici quatre ans maintenant.
+
+`p00035` — Tiens ! tu as l’air solide, pourtant.
+
+`p00036` Et Forestier, prenant le bras de son ancien camarade, lui parla de sa maladie, lui raconta les consultations, les opinions et les conseils des médecins, la difficulté de suivre leurs avis dans sa position. On lui ordonnait de passer l’hiver dans le Midi ; mais le pouvait-il ? Il était marié et journaliste, dans une belle situation.
+
+`p00037` — Je dirige la politique à la Vie française. Je fais le Sénat au Salut, et, de temps en temps, des chroniques littéraires pour la Planète. Voilà, j’ai fait mon chemin.
+
+`p00038` Duroy, surpris, le regardait. Il était bien changé, bien mûri. Il avait maintenant une allure, une tenue, un costume d’homme posé, sûr de lui, et un ventre d’homme qui dîne bien. Autrefois il était maigre, mince et souple, étourdi, casseur d’assiettes, tapageur et toujours en train. En trois ans Paris en avait fait quelqu’un de tout autre, de gros et de sérieux, avec quelques cheveux blancs sur les tempes, bien qu’il n’eût pas plus de vingt-sept ans.
+
+`p00039` Forestier demanda : — Où vas-tu ?
+
+`p00040` Duroy répondit : — Nulle part, je fais un tour avant de rentrer.
+
+`p00041` — Eh bien, veux-tu m’accompagner à la Vie française, où j’ai des épreuves à corriger ; puis nous irons prendre un bock ensemble ?
+
+`p00042` — Je te suis.
+
+`p00043` Et ils se mirent à marcher en se tenant par le bras avec cette familiarité facile qui subsiste entre compagnons d’école et entre camarades de régiment.
+
+`p00044` — Qu’est-ce que tu fais à Paris ? dit Forestier.
+
+`p00045` Duroy haussa les épaules : — Je crève de faim, tout simplement. Une fois mon temps fini, j’ai voulu venir ici pour… pour faire fortune ou plutôt pour vivre à Paris ; et voilà six mois que je suis employé aux bureaux du chemin de fer du Nord, à quinze cents francs par an, rien de plus.
+
+`p00046` Forestier murmura : — Bigre, ça n’est pas gras.
+
+`p00047` — Je te crois. Mais comment veux-tu que je m’en tire ? Je suis seul, je ne connais personne, je ne peux me recommander à personne. Ce n’est pas la bonne volonté qui me manque, mais les moyens.
+
+`p00048` Son camarade le regarda des pieds à la tête, en homme pratique, qui juge un sujet, puis il prononça d’un ton convaincu : — Vois-tu, mon petit, tout dépend de l’aplomb, ici. Un homme un peu malin devient plus facilement ministre que chef de bureau. Il faut s’imposer et non pas demander. Mais comment diable n’as-tu pas trouvé mieux qu’une place d’employé au Nord ?
+
+`p00049` Duroy reprit : — J’ai cherché partout, je n’ai rien découvert. Mais j’ai quelque chose en vue en ce moment, on m’offre d’entrer comme écuyer au manège Pellerin. Là, j’aurai, au bas mot, trois mille francs.
+
+`p00050` Forestier s’arrêta net : — Ne fais pas ça, c’est stupide, quand tu devrais gagner dix mille francs. Tu te fermes l’avenir du coup. Dans ton bureau, au moins, tu es caché, personne ne te connaît, tu peux en sortir, si tu es fort, et faire ton chemin. Mais une fois écuyer, c’est fini. C’est comme si tu étais maître d’hôtel dans une maison où Tout-Paris va dîner. Quand tu auras donné des leçons d’équitation aux hommes du monde ou à leurs fils, ils ne pourront plus s’accoutumer à te considérer comme leur égal.
+
+`p00051` Il se tut, réfléchit quelques secondes, puis demanda :
+
+`p00052` — Es-tu bachelier ?
+
+`p00053` — Non. J’ai échoué deux fois.
+
+`p00054` — Ça ne fait rien, du moment que tu as poussé tes études jusqu’au bout. Si on parle de Cicéron ou de Tibère, tu sais à peu près ce que c’est ?
+
+`p00055` — Oui, à peu près.
+
+`p00056` — Bon, personne n’en sait davantage, à l’exception d’une vingtaine d’imbéciles qui ne sont pas fichus de se tirer d’affaire. Ça n’est pas difficile de passer pour fort, va ; le tout est de ne pas se faire pincer en flagrant délit d’ignorance. On manœuvre, on esquive la difficulté, on tourne l’obstacle, et on colle les autres au moyen d’un dictionnaire. Tous les hommes sont bêtes comme des oies et ignorants comme des carpes.
+
+`p00057` Il parlait en gaillard tranquille qui connaît la vie, et il souriait en regardant passer la foule. Mais tout d’un coup il se mit à tousser, et s’arrêta pour laisser finir la quinte, puis, d’un ton découragé : — N’est-ce pas assommant de ne pouvoir se débarrasser de cette bronchite ? Et nous sommes en plein été. Oh ! cet hiver, j’irai me guérir à Menton. Tant pis, ma foi, la santé avant tout.
+
+`p00058` Ils arrivèrent au boulevard Poissonnière, devant une grande porte vitrée, derrière laquelle un journal ouvert était collé sur les deux faces. Trois personnes arrêtées le lisaient.
+
+`p00059` Au-dessus de la porte s’étalait, comme un appel, en grandes lettres de feu dessinées par des flammes de gaz : La Vie Française. Et les promeneurs passant brusquement dans la clarté que jetaient ces trois mots éclatants apparaissaient tout à coup en  
+pleine lumière, visibles, clairs et nets comme au milieu du jour, puis rentraient aussitôt dans l’ombre.
+
+`p00060` Forestier poussa cette porte : « Entre », dit-il. Duroy entra, monta un escalier luxueux et sale que toute la rue voyait, parvint dans une antichambre, dont les deux garçons de bureau saluèrent son camarade, puis s’arrêta dans une sorte de salon d’attente, poussiéreux et fripé, tendu de faux velours d’un vert pisseux, criblé de taches et rongé par endroits, comme si des souris l’eussent grignoté.
+
+`p00061` — Assieds-toi, dit Forestier, je reviens dans cinq minutes.
+
+`p00062` Et il disparut par une des trois sorties qui donnaient dans ce cabinet.
+
+`p00063` Une odeur étrange, particulière, inexprimable, l’odeur des salles de rédaction, flottait dans ce lieu. Duroy demeurait immobile, un peu intimidé, surpris surtout. De temps en temps des hommes passaient devant lui, en courant, entrés par une porte et partis par l’autre avant qu’il eût le temps de les regarder.
+
+`p00064` C’étaient tantôt des jeunes gens, très jeunes, l’air affairé, et tenant à la main une feuille de papier qui palpitait au vent de leur course ; tantôt des ouvriers compositeurs, dont la blouse de toile tachée d’encre laissait voir un col de chemise bien blanc et un pantalon de drap pareil à celui des gens du monde ; et ils portaient avec précaution des bandes de papier imprimé, des épreuves fraîches, tout humides. Quelquefois un petit monsieur entrait, vêtu avec une élégance trop apparente, la taille trop serrée dans la redingote, la jambe trop moulée sous l’étoffe, le pied étreint dans un soulier trop pointu, quelque reporter mondain apportant les échos de la soirée.
+
+`p00065` D’autres encore arrivaient, graves, importants, coiffés de hauts chapeaux à bords plats, comme si cette forme les eût distingués du reste des hommes.
+
+`p00066` Forestier reparut tenant par le bras un grand garçon maigre, de trente à quarante ans, en habit noir et en cravate blanche, très brun, la moustache roulée en pointes aiguës, et qui avait l’air insolent et content de lui.
+
+`p00067` Forestier lui dit : — Adieu, cher maître.
+
+`p00068` L’autre lui serra la main : — Au revoir, mon cher, — et il descendit l’escalier en sifflotant, la canne sous le bras.
+
+`p00069` Duroy demanda : — Qui est-ce ?
+
+`p00070` — C’est Jacques Rival, tu sais, le fameux chroniqueur, le duelliste. Il vient de corriger ses épreuves. Garin, Montel et lui sont les trois premiers chroniqueurs d’esprit et d’actualité que nous ayons à Paris. Il gagne ici trente mille francs par an pour deux articles par semaine.
+
+`p00071` Et comme ils s’en allaient, ils rencontrèrent un petit homme à longs cheveux, gros, d’aspect malpropre, qui montait les marches en soufflant.
+
+`p00072` Forestier salua très bas : — Norbert de Varenne, dit-il, le poète, l’auteur des Soleils morts, encore un homme dans les grands prix. Chaque conte qu’il nous donne coûte trois cents francs, et les plus longs n’ont pas deux cents lignes. Mais entrons au Napolitain, je commence à crever de soif.
+
+`p00073` Dès qu’ils furent assis devant la table du café, Forestier cria : « Deux bocks », et il avala le sien d’un seul trait, tandis que Duroy buvait la bière à lentes gorgées, la savourant et la dégustant, comme une chose précieuse et rare.
+
+`p00074` Son compagnon se taisait, semblait réfléchir, puis tout à coup : — Pourquoi n’essayerais-tu pas du journalisme ?
+
+`p00075` L’autre, surpris, le regarda ; puis il dit : — Mais… c’est que… je n’ai jamais rien écrit.
+
+`p00076` — Bah ! on essaye, on commence. Moi, je pourrais t’employer à aller me chercher des renseignements, à faire des démarches et des visites. Tu aurais, au début, deux cent cinquante francs et tes voitures payées. Veux-tu que j’en parle au directeur ?
+
+`p00077` — Mais certainement que je veux bien.
+
+`p00078` — Alors, fais une chose, viens dîner chez moi demain ; j’ai cinq ou six personnes seulement, le patron, M. Walter, sa femme, Jacques Rival et Norbert de Varenne, que tu viens de voir, plus une amie de Mme Forestier. Est-ce entendu ?
+
+`p00079` Duroy hésitait, rougissant, perplexe. Il murmura enfin :
+
+`p00080` — C’est que… je n’ai pas de tenue convenable.
+
+`p00081` Forestier fut stupéfait : — Tu n’as pas d’habit ? Bigre ! en voilà une chose indispensable pourtant. À Paris, vois-tu, il vaudrait mieux n’avoir pas de lit que pas d’habit.
+
+`p00082` Puis, tout à coup, fouillant dans la poche de son gilet, il en tira une pincée d’or, prit deux louis, les posa devant son ancien camarade, et, d’un ton cordial et familier : — Tu me rendras ça quand tu pourras. Loue ou achète au mois, en donnant un acompte, les vêtements qu’il te faut ; enfin arrange-toi, mais viens dîner à la maison, demain, sept heures et demie, 17, rue Fontaine.
+
+`p00083` Duroy, troublé, ramassait l’argent en balbutiant : — Tu es trop aimable, je te remercie bien, sois certain que je n’oublierai pas…
+
+`p00084` L’autre l’interrompit : — Allons, c’est bon. Encore un bock, n’est-ce pas ? — Et il cria : — Garçon, deux bocks !
+
+`p00085` Puis, quand ils les eurent bus, le journaliste demanda : — Veux-tu flâner un peu, pendant une heure ?
+
+`p00086` — Mais certainement.
+
+`p00087` Et ils se remirent en marche vers la Madeleine.
+
+`p00088` — Qu’est-ce que nous ferions bien ? demanda Forestier. On prétend qu’à Paris un flâneur peut toujours s’occuper ; ça n’est pas vrai. Moi, quand je veux flâner, le soir, je ne sais jamais où aller. Un tour au Bois n’est amusant qu’avec une femme, et on n’en a pas toujours une sous la main ; les cafés-concerts peuvent distraire mon pharmacien et son épouse, mais pas moi. Alors, quoi faire ? Rien. Il devrait y avoir ici un jardin d’été, comme le parc Monceau, ouvert la nuit, où on entendrait de la très bonne musique en buvant des choses fraîches sous les arbres. Ce ne serait pas un lieu de plaisir, mais un lieu de flâne ; et on payerait cher pour entrer, afin d’attirer les jolies dames. On pourrait marcher dans des allées bien sablées, éclairées à la lumière électrique, et s’asseoir quand on voudrait pour écouter la musique de près ou de loin. Nous avons eu à peu près ça autrefois chez Musard, mais avec un goût de bastringue et trop d’airs de danse, pas assez d’étendue, pas assez d’ombre, pas assez de sombre. Il faudrait un très beau jardin, très vaste. Ce serait charmant. Où veux-tu aller ?
+
+`p00089` Duroy, perplexe, ne savait que dire ; enfin, il se décida : — Je ne connais pas les Folies-Bergère. J’y ferais volontiers un tour.
+
+`p00090` Son compagnon s’écria : — Les Folies-Bergère, bigre ? nous y cuirons comme dans une rôtissoire. Enfin, soit, c’est toujours drôle.
+
+`p00091` Et ils pivotèrent sur leurs talons pour gagner la rue du Faubourg-Montmartre.
+
+`p00092` La façade illuminée de l’établissement jetait une grande lueur dans les quatre rues qui se joignent devant elle. Une file de fiacres attendait la sortie.
+
+`p00093` Forestier entrait, Duroy l’arrêta :
+
+`p00094` — Nous oublions de passer au guichet.
+
+`p00095` L’autre répondit d’un ton important :
+
+`p00096` — Avec moi on ne paye pas.
+
+`p00097` Quand il s’approcha du contrôle, les trois contrôleurs le saluèrent. Celui du milieu lui tendit la main. Le journaliste demanda :
+
+`p00098` — Avez-vous une bonne loge ?
+
+`p00099` — Mais, certainement, monsieur Forestier.
+
+`p00100` Il prit le coupon qu’on lui tendait, poussa la porte matelassée, à battants garnis de cuir, et ils se trouvèrent dans la salle.
+
+`p00101` Une vapeur de tabac voilait un peu, comme un très fin brouillard, les parties lointaines, la scène et l’autre côté du théâtre. Et s’élevant sans cesse, en minces filets blanchâtres, de tous les cigares et de toutes les cigarettes que fumaient tous ces gens, cette brume légère montait toujours, s’accumulait au plafond, et formait, sous le large dôme, autour du lustre, au-dessus de la galerie du premier chargée de spectateurs, un ciel ennuagé de fumée.
+
+`p00102` Dans le vaste corridor d’entrée qui mène à la promenade circulaire, où rôde la tribu parée des filles, mêlée à la foule sombre des hommes, un groupe de femmes attendait les arrivants devant un des trois comptoirs où trônaient, fardées et défraîchies, trois marchandes de boissons et d’amour.
+
+`p00103` Les hautes glaces, derrière elles, reflétaient leurs dos et les visages des passants.
+
+`p00104` Forestier ouvrait les groupes, avançait vite, en homme qui a droit à la considération.
+
+`p00105` Il s’approcha d’une ouvreuse. — La loge dix-sept ? — dit-il.
+
+`p00106` — Par ici, monsieur.
+
+`p00107` Et on les enferma dans une petite boîte en bois, découverte, tapissée de rouge, et qui contenait quatre chaises de même couleur, si rapprochées qu’on pouvait à peine se glisser entre elles. Les deux amis s’assirent ; et, à droite comme à gauche, suivant une longue ligne arrondie aboutissant à la scène par les deux bouts, une suite de cases semblables contenait des gens assis également et dont on ne voyait que la tête et la poitrine.
+
+`p00108` Sur la scène, trois jeunes hommes en maillot collant, un grand, un moyen, un petit, faisaient, tour à tour, des exercices sur un trapèze.
+
+`p00109` Le grand s’avançait d’abord, à pas courts et rapides, en souriant, et saluait avec un mouvement de la main comme pour envoyer un baiser.
+
+`p00110` On voyait, sous le maillot, se dessiner les muscles des bras et des jambes ; il gonflait sa poitrine pour dissimuler son estomac trop saillant ; et sa figure semblait celle d’un garçon coiffeur, car une raie soignée ouvrait sa chevelure en deux parties égales, juste au milieu du crâne. Il atteignait le trapèze d’un bond gracieux, et, pendu par les mains, tournait autour comme une roue lancée ; ou bien, les bras roides, le corps droit, il se tenait immobile, couché horizontalement dans le vide, attaché seulement à la barre fixe par la force des poignets.
+
+`p00111` Puis il sautait à terre, saluait de nouveau en souriant sous les applaudissements de l’orchestre, et allait se coller contre le décor, en montrant bien, à chaque pas, la musculature de sa jambe.
+
+`p00112` Le second, moins haut, plus trapu, s’avançait à son tour et répétait le même exercice, que le dernier recommençait encore, au milieu de la faveur plus marquée du public.
+
+`p00113` Mais Duroy ne s’occupait guère du spectacle, et, la tête tournée, il regardait sans cesse derrière lui le grand promenoir plein d’hommes et de prostituées.
+
+`p00114` Forestier lui dit : « Remarque donc l’orchestre : rien que des bourgeois avec leurs femmes et leurs enfants, de bonnes têtes stupides qui viennent pour voir. Aux loges, des boulevardiers, quelques artistes, quelques filles de demi-choix ; et, derrière nous, le plus drôle de mélange qui soit dans Paris. Quels sont ces hommes ? Observe-les. Il y a de tout, de toutes les professions et de toutes les castes, mais la crapule domine. Voici des employés, employés de banque, de magasin, de ministère, des reporters, des souteneurs, des officiers en bourgeois, des gommeux en habit, qui viennent de dîner au cabaret et qui sortent de l’Opéra avant d’entrer aux Italiens, et puis encore tout un monde d’hommes suspects qui défient l’analyse. Quant aux femmes, rien qu’une marque : la soupeuse de l’Américain, la fille à un ou deux louis qui guette l’étranger de cinq louis et prévient ses habitués quand elle est libre. On les connaît toutes depuis six ans ; on les voit tous les soirs, toute l’année, aux mêmes endroits, sauf quand elles font une station hygiénique à Saint-Lazare ou à Lourcine. »
+
+`p00115` Duroy n’écoutait plus. Une de ces femmes, s’étant accoudée à leur loge, le regardait. C’était une grosse brune à la chair blanchie par la pâte, à l’œil noir, allongé, souligné par le crayon, encadré sous des sourcils énormes et factices. Sa poitrine, trop forte, tendait la soie sombre de sa robe ; et ses lèvres peintes, rouges comme une plaie, lui donnaient quelque chose de bestial, d’ardent, d’outré, mais qui allumait le désir cependant.
+
+`p00116` Elle appela, d’un signe de tête, une de ses amies qui passait, une blonde aux cheveux rouges, grasse aussi, et elle lui dit d’une voix assez forte pour être entendue : — Tiens, v’là un joli garçon : s’il veut de moi pour dix louis, je ne dirai pas non.
+
+`p00117` Forestier se retourna, et, souriant, il tapa sur la cuisse de Duroy : — C’est pour toi, ça : tu as du succès, mon cher. Mes compliments.
+
+`p00118` L’ancien sous-off avait rougi ; et il tâtait, d’un mouvement machinal du doigt, les  
+deux pièces d’or dans la poche de son gilet.
+
+`p00119` Le rideau s’était baissé ; l’orchestre maintenant jouait une valse.
+
+`p00120` Duroy dit : — Si nous faisions un tour dans la galerie ?
+
+`p00121` — Comme tu voudras.
+
+`p00122` Ils sortirent, et furent aussitôt entraînés dans le courant des promeneurs. Pressés, poussés, serrés, ballottés, ils allaient, ayant devant les yeux un peuple de chapeaux. Et les filles, deux par deux, passaient dans cette foule d’hommes, la traversaient avec facilité, glissaient entre les coudes, entre les poitrines, entre les dos, comme si elles eussent été bien chez elles, bien à l’aise, à la façon des poissons dans l’eau, au milieu de ce flot de mâles.
+
+`p00123` Duroy ravi, se laissait aller, buvait avec ivresse l’air vicié par le tabac, par l’odeur humaine et les parfums des drôlesses. Mais Forestier suait, soufflait, toussait.
+
+`p00124` — Allons au jardin, — dit-il.
+
+`p00125` Et, tournant à gauche, ils pénétrèrent dans une espèce de jardin couvert, que deux grandes fontaines de mauvais goût rafraîchissaient. Sous des ifs et des thuyas en caisse, des hommes et des femmes buvaient sur des tables de zinc.
+
+`p00126` — Encore un bock ? — demanda Forestier.
+
+`p00127` — Oui, volontiers.
+
+`p00128` Ils s’assirent en regardant passer le public.
+
+`p00129` De temps en temps, une rôdeuse s’arrêtait, puis demandait avec un sourire banal : M’offrez-vous quelque chose, monsieur ? Et comme Forestier répondait : — Un verre d’eau à la fontaine, — elle s’éloignait en murmurant : — Va donc, mufle !
+
+`p00130` Mais la grosse brune qui s’était appuyée tout à l’heure derrière la loge des deux camarades reparut, marchant arrogamment, le bras passé sous celui de la grosse blonde. Cela faisait vraiment une belle paire de femmes, bien assorties.
+
+`p00131` Elle sourit en apercevant Duroy, comme si leurs yeux se fussent dit déjà des choses intimes et secrètes ; et, prenant une chaise, elle s’assit tranquillement en face de lui et fit asseoir son amie, puis elle commanda d’une voix claire : — Garçon, deux grenadines ! — Forestier, surpris, prononça : — Tu ne te gênes pas, toi !
+
+`p00132` Elle répondit : — C’est ton ami qui me séduit. C’est vraiment un joli garçon. Je crois qu’il me ferait faire des folies !
+
+`p00133` Duroy, intimidé, ne trouvait rien à dire. Il retroussait sa moustache frisée en souriant d’une façon niaise. Le garçon apporta les sirops, que les femmes burent d’un seul trait ; puis elles se levèrent, et la brune, avec un petit salut amical de la tête et un léger coup d’éventail sur le bras, dit à Duroy : — Merci, mon chat. Tu n’as pas la parole facile.
+
+`p00134` Et elles partirent en balançant leur croupe.
+
+`p00135` Alors Forestier se mit à rire : — Dis donc, mon vieux, sais-tu que tu as vraiment du succès auprès des femmes ? Il faut soigner ça. Ça peut te mener loin. — Il se tut une seconde, puis reprit, avec ce ton rêveur des gens qui pensent tout haut : — C’est encore par elles qu’on arrive le plus vite.
+
+`p00136` Et comme Duroy souriait toujours sans répondre, il demanda : — Est-ce que tu restes encore ? Moi, je vais rentrer, j’en ai assez.
+
+`p00137` L’autre murmura : — Oui, je reste encore un peu. Il n’est pas tard.
+
+`p00138` Forestier se leva : — Eh bien ! adieu, alors. À demain. N’oublie pas ? 17, rue Fontaine, sept heures et demie.
+
+`p00139` — C’est entendu ; à demain. Merci.
+
+`p00140` Ils se serrèrent la main, et le journaliste s’éloigna.
+
+`p00141` Dès qu’il eut disparu, Duroy se sentit libre, et de nouveau il tâta joyeusement les deux pièces d’or dans sa poche ; puis, se levant, il se mit à parcourir la foule qu’il fouillait de l’œil.
+
+`p00142` Il les aperçut bientôt, les deux femmes, la blonde et la brune, qui voyageaient toujours de leur allure fière de mendiantes, à travers la cohue des hommes.
+
+`p00143` Il alla droit sur elles, et quand il fut tout près, il n’osa plus.
+
+`p00144` La brune lui dit : — As-tu retrouvé ta langue ?
+
+`p00145` Il balbutia : « Parbleu », sans parvenir à prononcer autre chose que cette parole.
+
+`p00146` Ils restaient debout tous les trois, arrêtés, arrêtant le mouvement du promenoir, formant un remous autour d’eux.
+
+`p00147` Alors, tout à coup, elle demanda :
+
+`p00148` — Viens-tu chez moi ?
+
+`p00149` Et lui, frémissant de convoitise, répondit brutalement :
+
+`p00150` — Oui, mais je n’ai qu’un louis dans ma poche.
+
+`p00151` Elle sourit avec indifférence : — Ça ne fait rien.
+
+`p00152` Et elle prit son bras en signe de possession.
+
+`p00153` Comme ils sortaient, il songeait qu’avec les autres vingt francs il pourrait facilement se procurer, en location, un costume de soirée pour le lendemain.
+
+`p00154` **X**
+
+`p00155` Il faisait sombre dans le petit appartement de la rue de Constantinople, car Georges Du Roy et Clotilde de Marelle s’étant rencontrés sous la porte étaient entrés brusquement, et elle lui avait dit, sans lui laisser le temps d’ouvrir les persiennes :
+
+`p00156` — Ainsi, tu épouses Suzanne Walter ?
+
+`p00157` Il avoua avec douceur et ajouta :
+
+`p00158` — Tu ne le savais pas ?
+
+`p00159` Elle reprit, debout devant lui, furieuse, indignée : — Tu épouses Suzanne Walter ! C’est trop fort ! c’est trop fort ! Voilà trois mois que tu me cajoles pour me cacher ça. Tout le monde le sait, excepté moi. C’est mon mari qui me l’a appris !
+
+`p00160` Du Roy se mit à ricaner, un peu confus tout de même et, ayant posé son chapeau sur un coin de la cheminée, il s’assit dans un fauteuil.
+
+`p00161` Elle le regardait bien en face, et elle dit d’une voix irritée et basse :
+
+`p00162` — Depuis que tu as quitté ta femme, tu préparais ce coup-là, et tu me gardais gentiment comme maîtresse, pour faire l’intérim ? Quel gredin tu es !
+
+`p00163` Il demanda :
+
+`p00164` — Pourquoi ça ? J’avais une femme qui me trompait. Je l’ai surprise ; j’ai obtenu le divorce, et j’en épouse une autre. Quoi de plus simple ?
+
+`p00165` Elle murmura, frémissante :
+
+`p00166` — Oh ! comme tu es roué et dangereux, toi !
+
+`p00167` Il se remit à sourire :
+
+`p00168` — Parbleu ! Les imbéciles et les niais sont toujours des dupes !
+
+`p00169` Mais elle suivait son idée :
+
+`p00170` — Comme j’aurais dû te deviner dès le commencement. Mais non, je ne pouvais pas croire que tu serais crapule comme ça.
+
+`p00171` Il prit un air digne :
+
+`p00172` — Je te prie de faire attention aux mots que tu emploies.
+
+`p00173` Elle se révolta contre cette indignation : — Quoi ! tu veux que je prenne des gants pour te parler maintenant ! Tu te conduis avec moi comme un gueux depuis que je te connais, et tu prétends que je ne te le dise pas ? Tu trompes tout le monde, tu exploites tout le monde, tu prends du plaisir et de l’argent partout, et tu veux que je te traite comme un honnête homme ?
+
+`p00174` Il se leva, et la lèvre tremblante :
+
+`p00175` — Tais-toi, ou je te fais sortir d’ici.
+
+`p00176` Elle balbutia :
+
+`p00177` — Sortir d’ici… Sortir d’ici… Tu me ferais sortir d’ici… toi… toi ?…
+
+`p00178` Elle ne pouvait plus parler, tant elle suffoquait de colère, et brusquement, comme si la porte de sa fureur se fût brisée, elle éclata :
+
+`p00179` — Sortir d’ici ? Tu oublies donc que c’est moi qui l’ai payé, depuis le premier jour, ce logement-là ! Ah ! oui, tu l’as bien pris à ton compte de temps en temps. Mais qui est-ce qui l’a loué ?… C’est moi… Qui est-ce qui l’a gardé ?… C’est moi… Et tu veux me faire sortir d’ici. Tais-toi donc, vaurien ! Crois-tu que je ne sais pas comment tu as volé à Madeleine la moitié de l’héritage de Vaudrec ? Crois-tu que je ne sais pas comment tu as couché avec Suzanne pour la forcer à t’épouser…
+
+`p00180` Il la saisit par les épaules et la secouant entre ses mains :
+
+`p00181` — Ne parle pas de celle-là ! Je te le défends !
+
+`p00182` Elle cria :
+
+`p00183` — Tu as couché avec, je le sais.
+
+`p00184` Il eût accepté n’importe quoi, mais ce mensonge l’exaspérait. Les vérités qu’elle lui avait criées par le visage lui faisaient passer tout à l’heure des frissons de rage dans le cœur, mais cette fausseté sur cette petite fille qui allait devenir sa femme éveillait dans le creux de sa main un besoin furieux de frapper.
+
+`p00185` Il répéta :
+
+`p00186` — Tais-toi… prends garde… tais-toi… — Et il l’agitait comme on agite une branche pour en faire tomber les fruits.
+
+`p00187` Elle hurla, décoiffée, la bouche grande ouverte, les yeux fous :
+
+`p00188` — Tu as couché avec !
+
+`p00189` Il la lâcha et lui lança par la figure un tel soufflet qu’elle alla tomber contre le mur. Mais elle se retourna vers lui, et, soulevée sur ses poignets, vociféra encore une fois :
+
+`p00190` — Tu as couché avec !
+
+`p00191` Il se rua sur elle, et, la tenant sous lui, la frappa comme s’il tapait sur un homme.
+
+`p00192` Elle se tut soudain, et se mit à gémir sous les coups. Elle ne remuait plus. Elle avait caché sa figure dans l’angle du parquet et de la muraille, et elle poussait des cris plaintifs.
+
+`p00193` Il cessa de la battre et se redressa. Puis il fit quelques pas par la pièce pour reprendre son sang-froid ; et, une idée lui étant venue, il passa dans la chambre, emplit la cuvette d’eau froide, et se trempa la tête dedans. Ensuite il se lava les mains, et il revint voir ce qu’elle faisait en s’essuyant les doigts avec soin.
+
+`p00194` Elle n’avait point bougé. Elle restait étendue par terre, pleurant doucement.
+
+`p00195` Il demanda :
+
+`p00196` — Auras-tu bientôt fini de larmoyer ?
+
+`p00197` Elle ne répondit pas. Alors il demeura debout au milieu de l’appartement, un peu gêné, un peu honteux en face de ce corps allongé devant lui.
+
+`p00198` Puis, tout à coup, il prit une résolution, et saisit son chapeau sur la cheminée : — Bonsoir. Tu remettras la clef au concierge quand tu seras prête. Je n’attendrai pas ton bon plaisir.
+
+`p00199` Il sortit, ferma la porte, pénétra chez le portier, et lui dit :
+
+`p00200` — Madame est restée. Elle s’en ira tout à l’heure. Vous direz au propriétaire que je donne congé pour le ier octobre. Nous sommes au 16 août, je me trouve donc dans les limites.
+
+`p00201` Et il s’en alla à grands pas, car il avait des courses pressées à faire pour les derniers achats de la corbeille.
+
+`p00202` Le mariage était fixé au 20 octobre, après la rentrée des Chambres. Il aurait lieu à l’église de la Madeleine. On en avait beaucoup jasé sans savoir au juste la vérité. Différentes histoires circulaient. On chuchotait qu’un enlèvement avait eu lieu, mais on n’était sûr de rien.
+
+`p00203` D’après les domestiques, Mme Walter, qui ne parlait plus à son futur gendre, s’était empoisonnée de colère le soir où cette union avait été décidée, après avoir fait conduire sa fille au couvent, à minuit.
+
+`p00204` On l’avait ramenée presque morte. Assurément, elle ne se remettrait jamais. Elle avait l’air maintenant d’une vieille femme ; ses cheveux devenaient tout gris ; et elle tombait dans la dévotion, communiant tous les dimanches.
+
+`p00205` Dans les premiers jours de septembre, la Vie Française annonça que le baron Du Roy de Cantel devenait son rédacteur en chef, M. Walter conservant le titre de directeur.
+
+`p00206` Alors on s’adjoignit un bataillon de chroniqueurs connus, d’échotiers, de rédacteurs politiques, de critiques d’art et de théâtre, enlevés à force d’argent aux grands journaux, aux vieux journaux puissants et posés.
+
+`p00207` Les anciens journalistes, les journalistes graves et respectables ne haussaient plus les épaules en parlant de la Vie Française. Le succès rapide et complet avait effacé la mésestime des écrivains sérieux pour les débuts de cette feuille.
+
+`p00208` Le mariage de son rédacteur en chef fut ce qu’on appelle un fait parisien, Georges Du Roy et les Walter ayant soulevé beaucoup de curiosité depuis quelque temps. Tous les gens qu’on cite dans les échos se promirent d’y aller.
+
+`p00209` Cet événement eut lieu par un jour clair d’automne.
+
+`p00210` Dès huit heures du matin, tout le personnel de la Madeleine, étendant sur les marches du haut perron de cette église qui domine la rue Royale, un large tapis rouge, faisait arrêter les passants, annonçait au peuple de Paris qu’une grande cérémonie allait avoir lieu.
+
+`p00211` Les employés se rendant à leur bureau, les petites ouvrières, les garçons de magasin s’arrêtaient, regardaient et songeaient vaguement aux gens riches qui dépensaient tant d’argent pour s’accoupler.
+
+`p00212` Vers dix heures, les curieux commencèrent à stationner. Ils demeuraient là quelques minutes, espérant que peut-être ça commencerait tout de suite, puis ils s’en allaient.
+
+`p00213` À onze heures, des détachements de sergents de ville arrivèrent et se mirent presque aussitôt à faire circuler la foule, car des attroupements se formaient à chaque instant.
+
+`p00214` Les premiers invités apparurent bientôt, ceux qui voulaient être bien placés pour tout voir. Ils prirent les chaises en bordure, le long de la nef centrale.
+
+`p00215` Peu à peu, il en venait d’autres, des femmes qui faisaient un bruit d’étoffes, un bruit de soie, des hommes sévères, presque tous chauves, marchant avec une correction mondaine, plus graves encore en ce lieu.
+
+`p00216` L’église s’emplissait lentement. Un flot de soleil entrait par l’immense porte ouverte éclairant les premiers rangs d’amis. Dans le chœur qui semblait un peu sombre, l’autel couvert de cierges faisait une clarté jaune, humble et pâle en face du trou de lumière de la grande porte.
+
+`p00217` On se reconnaissait, on s’appelait d’un signe, on se réunissait par groupes. Les hommes de lettres, moins respectueux que les hommes du monde, causaient à mi-voix. On regardait les femmes.
+
+`p00218` Norbert de Varenne, qui cherchait un ami, aperçut Jacques Rival vers le milieu des lignes de chaises, et il le rejoignit.
+
+`p00219` — Eh bien ! dit-il, l’avenir est aux malins ! — L’autre, qui n’était point envieux, répondit : — Tant mieux pour lui. Sa vie est faite. — Et ils se mirent à nommer les figures aperçues.
+
+`p00220` Rival demanda : — Savez-vous ce qu’est devenue sa femme ?
+
+`p00221` Le poète sourit : — Oui et non. Elle vit très retirée, m’a-t-on dit, dans le quartier Montmartre. Mais… il y a un mais… je lis depuis quelque temps dans la Plume des articles politiques qui ressemblent terriblement à ceux de Forestier et de Du Roy. Ils sont d’un nommé Jean Le Dol, un jeune homme, beau garçon, intelligent, de la même race que notre ami Georges, et qui a fait la connaissance de son ancienne femme. D’où j’ai conclu qu’elle aimait les débutants et les aimerait éternellement. Elle est riche d’ailleurs. Vaudrec et Laroche-Mathieu n’ont pas été pour rien les assidus de la maison.
+
+`p00222` Rival déclara :
+
+`p00223` — Elle n’est pas mal, cette petite Madeleine. Très fine et très rouée ! Elle doit être charmante au découvert. Mais, dites-moi, comment se fait-il que Du Roy se marie à l’église après un divorce prononcé ?
+
+`p00224` Norbert de Varenne répondit : — Il se marie à l’église parce que, pour l’Église, il n’était pas marié, la première fois.
+
+`p00225` — Comment ça ?
+
+`p00226` — Notre Bel-Ami, par indifférence ou par économie, avait jugé la mairie suffisante en épousant Madeleine Forestier. Il s’était donc passé de bénédiction ecclésiastique, ce qui constituait, pour notre Sainte Mère l’Église, un simple état de concubinage. Par conséquent, il arrive devant elle aujourd’hui en garçon, et elle lui prête toutes ses pompes, qui coûteront cher au père Walter.
+
+`p00227` La rumeur de la foule accrue grandissait sous la voûte. On entendait des voix qui parlaient presque haut. On se montrait des hommes célèbres, qui posaient, contents d’être vus, et gardant avec soin leur maintien adopté devant le public, habitués à se montrer ainsi dans toutes les fêtes dont ils étaient, leur semblait-il, les indispensables ornements, les bibelots d’art.
+
+`p00228` Rival reprit :
+
+`p00229` — Dites donc, mon cher, vous qui allez souvent chez le Patron, est-ce vrai que Mme Walter et Du Roy ne se parlent jamais plus ?
+
+`p00230` — Jamais. Elle ne voulait pas lui donner la petite. Mais il tenait le père par des cadavres découverts, paraît-il, des cadavres enterrés au Maroc. Il a donc menacé le vieux de révélations épouvantables. Walter s’est rappelé l’exemple de Laroche-Mathieu et il a cédé tout de suite. Mais la mère, entêtée comme toutes les femmes, a juré qu’elle n’adresserait plus la parole à son gendre. Ils sont rudement drôles, en face l’un de l’autre. Elle a l’air d’une statue, de la statue de la Vengeance, et il est fort gêné, lui, bien qu’il fasse bonne contenance, car il sait se gouverner, celui-là !
+
+`p00231` Des confrères venaient leur serrer la main. On entendait des bouts de conversations politiques. Et vague comme le bruit d’une mer lointaine, le grouillement du peuple amassé devant l’église entrait par la porte avec le soleil, montait sous la voûte, au-dessus de l’agitation plus discrète du public d’élite massé dans le temple.
+
+`p00232` Tout à coup le suisse frappa trois fois le pavé du bois de sa hallebarde. Toute l’assistance se retourna avec un long frou-frou de jupes et un remuement de chaises. Et la jeune femme apparut, au bras de son père, dans la vive lumière du portail.
+
+`p00233` Elle avait toujours l’air d’un joujou, d’un délicieux joujou blanc coiffé de fleurs d’oranger.
+
+`p00234` Elle demeura quelques instants sur le seuil, puis quand elle fit son premier pas dans la nef, les orgues poussèrent un cri puissant, annoncèrent l’entrée de la mariée avec leur grande voix de métal.
+
+`p00235` Elle s’en venait, la tête baissée, mais point timide, vaguement émue, gentille, charmante, une miniature d’épousée. Les femmes souriaient et murmuraient en la regardant passer. Les hommes chuchotaient : « Exquise, adorable. » M. Walter marchait avec une dignité exagérée, un peu pâle, les lunettes d’aplomb sur le nez.
+
+`p00236` Derrière eux, quatre demoiselles d’honneur, toutes les quatre vêtues de rose et jolies toutes les quatre, formaient une cour à ce bijou de reine. Les garçons d’honneur, bien choisis, conformes au type, allaient d’un pas qui semblait réglé par un maître de ballet.
+
+`p00237` Mme Walter les suivait, donnant le bras au père de son autre gendre, au marquis de Latour-Yvelin, âgé de soixante-douze ans. Elle ne marchait pas, elle se traînait, prête à s’évanouir à chacun de ses mouvements en avant. On sentait que ses pieds se collaient aux dalles, que ses jambes refusaient d’avancer, que son cœur battait dans sa poitrine comme une bête qui bondit pour s’échapper.
+
+`p00238` Elle était devenue maigre. Ses cheveux blancs faisaient paraître plus blême encore et plus creux son visage.
+
+`p00239` Elle regardait devant elle pour ne voir personne, pour ne songer, peut-être, qu’à ce qui la torturait.
+
+`p00240` Puis Georges Du Roy parut avec une vieille dame inconnue.
+
+`p00241` Il levait la tête sans détourner non plus ses yeux fixes, durs, sous ses sourcils un peu crispés. Sa moustache semblait irritée sur sa lèvre. On le trouvait fort beau garçon. Il avait l’allure fière, la taille fine, la jambe droite. Il portait bien son habit que tachait, comme une goutte de sang, le petit ruban rouge de la Légion d’honneur.
+
+`p00242` Puis venaient les parents, Rose avec le sénateur Rissolin. Elle était mariée depuis six semaines. Le comte de Latour-Yvelin accompagnait la vicomtesse de Percemur.
+
+`p00243` Enfin ce fut une procession bizarre des alliés ou amis de Du Roy qu’il avait présentés dans sa nouvelle famille, gens connus dans l’entremonde parisien qui sont tout de suite les intimes, et, à l’occasion, les cousins éloignés des riches parvenus, gentilshommes déclassés, ruinés, tachés, mariés parfois, ce qui est pis. C’étaient M. de Belvigne, le marquis de Banjolin, le comte et la comtesse de Ravenel, le duc de Ramorano, le prince de Kravalow, le chevalier Valréali, puis des invités de Walter, le prince de Guerche, le duc et la duchesse de Ferracine, la belle marquise des Dunes. Quelques parents de Mme Walter gardaient un air comme il faut de province, au milieu de ce défilé.
+
+`p00244` Et toujours les orgues chantaient, poussaient par l’énorme monument les accents ronflants et rythmés de leurs gorges luisantes, qui crient au ciel la joie ou la douleur des hommes. On referma les grands battants de l’entrée, et, tout à coup, il fit sombre comme si on venait de mettre à la porte le soleil.
+
+`p00245` Maintenant Georges était agenouillé à côté de sa femme dans le chœur, en face de l’autel illuminé. Le nouvel évêque de Tanger, crosse en main, mitre en tête, apparut, sortant de la sacristie, pour les unir au nom de l’Éternel.
+
+`p00246` Il posa les questions d’usage, échangea les anneaux, prononça les paroles qui lient comme des chaînes, et il adressa aux nouveaux époux une allocution chrétienne. Il parla de la fidélité, longuement, en termes pompeux. C’était un gros homme de grande taille, un de ces beaux prélats chez qui le ventre est une majesté.
+
+`p00247` Un bruit de sanglots fit retourner quelques têtes. Mme Walter pleurait, la figure dans ses mains.
+
+`p00248` Elle avait dû céder. Qu’aurait-elle fait ? Mais depuis le jour où elle avait chassé de sa chambre sa fille revenue, en refusant de l’embrasser, depuis le jour où elle avait dit à voix très basse à Du Roy, qui la saluait avec cérémonie en reparaissant devant elle : — Vous êtes l’être le plus vil que je connaisse, ne me parlez jamais plus, car je ne vous répondrai point ! — elle souffrait une intolérable et inapaisable torture. Elle haïssait Suzanne d’une haine aiguë, faite de passion exaspérée et de jalousie déchirante, étrange jalousie de mère et de maîtresse, inavouable, féroce, brûlante comme une plaie vive.
+
+`p00249` Et voilà qu’un évêque les mariait, sa fille et son amant, dans une église, en face de deux mille personnes, et devant elle ! Et elle ne pouvait rien dire ? Elle ne pouvait pas empêcher cela ? Elle ne pouvait pas crier : « Mais il est à moi, cet homme, c’est mon amant. Cette union que vous bénissez est infâme. »
+
+`p00250` Plusieurs femmes, attendries, murmurèrent : — Comme la pauvre mère est émue.
+
+`p00251` L’évêque déclamait : — Vous êtes parmi les heureux de la terre, parmi les plus riches et les plus respectés. Vous, Monsieur, que votre talent élève au-dessus des autres, vous qui écrivez, qui enseignez, qui conseillez, qui dirigez le peuple, vous avez une belle mission à remplir, un bel exemple à donner…
+
+`p00252` Du Roy l’écoutait, ivre d’orgueil. Un prélat de l’Église romaine lui parlait ainsi, à lui. Et il sentait, derrière son dos, une foule, une foule illustre venue pour lui. Il lui semblait qu’une force le poussait, le soulevait. Il devenait un des maîtres de la terre, lui, lui, le fils des deux pauvres paysans de Canteleu.
+
+`p00253` Il les vit tout à coup dans leur humble cabaret, au sommet de la côte, au-dessus de la grande vallée de Rouen, son père et sa mère, donnant à boire aux campagnards du pays. Il leur avait envoyé cinq mille francs en héritant du comte de Vaudrec. Il allait maintenant leur en envoyer cinquante mille ; et ils achèteraient un petit bien. Ils seraient contents, heureux.
+
+`p00254` L’évêque avait terminé sa harangue. Un prêtre vêtu d’une étole dorée montait à l’autel. Et les orgues recommencèrent à célébrer la gloire des nouveaux époux.
+
+`p00255` Tantôt elles jetaient des clameurs prolongées, énormes, enflées comme des vagues, si sonores et si puissantes, qu’il semblait qu’elles dussent soulever et faire sauter le toit pour se répandre dans le ciel bleu. Leur bruit vibrant emplissait toute l’église, faisait frissonner la chair et les âmes. Puis tout à coup elles se calmaient ; et des notes fines, alertes, couraient dans l’air, effleuraient l’oreille comme des souffles légers ; c’étaient de petits chants gracieux, menus, sautillants, qui voletaient ainsi que des oiseaux ; et soudain, cette coquette musique s’élargissait de nouveau, redevenant effrayante de force et d’ampleur, comme si un grain de sable se métamorphosait en un monde.
+
+`p00256` Puis des voix humaines s’élevèrent, passèrent au-dessus des têtes inclinées. Vauri et Landeck, de l’Opéra, chantaient. L’encens répandait une odeur fine de benjoin, et sur l’autel le sacrifice divin s’accomplissait ; l’Homme-Dieu, à l’appel de son prêtre, descendait sur la terre pour consacrer le triomphe du baron Georges Du Roy.
+
+`p00257` Bel-Ami, à genoux à côté de Suzanne, avait baissé le front. Il se sentait en ce moment presque croyant, presque religieux, plein de reconnaissance pour la divinité qui l’avait ainsi favorisé, qui le traitait avec ces égards. Et sans savoir au juste à qui il s’adressait, il la remerciait de son succès.
+
+`p00258` Lorsque l’office fut terminé, il se redressa, et donnant le bras à sa femme, il passa dans la sacristie. Alors commença l’interminable défilé des assistants. Georges, affolé de joie, se croyait un roi qu’un peuple venait acclamer. Il serrait des mains, balbutiait des mots qui ne signifiaient rien, saluait, répondait aux compliments : « Vous êtes bien aimable. »
+
+`p00259` Soudain il aperçut Mme de Marelle ; et le souvenir de tous les baisers qu’il lui avait donnés, qu’elle lui avait rendus, le souvenir de toutes leurs caresses, de ses gentillesses, du son de sa voix, du goût de ses lèvres, lui fit passer dans le sang le désir brusque de la reprendre. Elle était jolie, élégante, avec son air gamin et ses yeux vifs. Georges pensait : « Quelle charmante maîtresse, tout de même. »
+
+`p00260` Elle s’approcha un peu timide, un peu inquiète, et lui tendit la main. Il la reçut dans la sienne et la garda. Alors il sentit l’appel discret de ses doigts de femme, la douce pression qui pardonne et reprend. Et lui-même il la serrait, cette petite main, comme pour dire : « Je t’aime toujours, je suis à toi ! »
+
+`p00261` Leurs yeux se rencontrèrent, souriants, brillants, pleins d’amour. Elle murmura de sa voix gracieuse : — À bientôt, monsieur.
+
+`p00262` Il répondit gaiement : — À bientôt, madame.
+
+`p00263` Et elle s’éloigna.
+
+`p00264` D’autres personnes se poussaient. La foule coulait devant lui comme un fleuve. Enfin elle s’éclaircit. Les derniers assistants partirent. Georges reprit le bras de Suzanne pour retraverser l’église.
+
+`p00265` Elle était pleine de monde, car chacun avait regagné sa place, afin de les voir passer ensemble. Il allait lentement, d’un pas calme, la tête haute, les yeux fixés sur la grande baie ensoleillée de la porte. Il sentait sur sa peau courir de longs frissons, ces frissons froids que donnent les immenses bonheurs. Il ne voyait personne. Il ne pensait qu’à lui.
+
+`p00266` Lorsqu’il parvint sur le seuil, il aperçut la foule amassée, une foule noire, bruissante, venue là pour lui, pour lui Georges Du Roy. Le peuple de Paris le contemplait et l’enviait.
+
+`p00267` Puis, relevant les yeux, il découvrit là-bas, derrière la place de la Concorde, la Chambre des députés. Et il lui sembla qu’il allait faire un bond du portique de la Madeleine au portique du Palais-Bourbon.
+
+`p00268` Il descendit avec lenteur les marches du haut perron entre deux haies de spectateurs. Mais il ne les voyait point ; sa pensée maintenant revenait en arrière, et devant ses yeux éblouis par l’éclatant soleil flottait l’image de Mme de Marelle rajustant en face de la glace les petits cheveux frisés de ses tempes, toujours défaits au sortir du lit.

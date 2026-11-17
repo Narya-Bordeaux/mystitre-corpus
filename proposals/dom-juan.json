@@ -1,0 +1,63 @@
+{
+  "formatVersion": 1,
+  "bookId": "dom-juan",
+  "title": "Dom Juan",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Don Juan ou le Festin de pierre, Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource, actes I à V)",
+    "pages": [
+      {
+        "title": "Don Juan ou le Festin de pierre/Édition Louandre, 1910/Acte I",
+        "revisionId": 12398453
+      },
+      {
+        "title": "Don Juan ou le Festin de pierre/Édition Louandre, 1910/Acte II",
+        "revisionId": 7236350
+      },
+      {
+        "title": "Don Juan ou le Festin de pierre/Édition Louandre, 1910/Acte III",
+        "revisionId": 10255551
+      },
+      {
+        "title": "Don Juan ou le Festin de pierre/Édition Louandre, 1910/Acte IV",
+        "revisionId": 7236353
+      },
+      {
+        "title": "Don Juan ou le Festin de pierre/Édition Louandre, 1910/Acte V",
+        "revisionId": 7236354
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2c60b8bbeaaf01a135dcefc4756a840bb188541d121a298a8da1f512a9f081e1"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00006.s1",
+      "p00006.s2"
+    ],
+    "french": "SGANARELLE. — Quoi que puisse dire Aristote et toute la philosophie, il n’est rien d’égal au tabac : c’est la passion des honnêtes gens, et qui vit sans tabac n’est pas digne de vivre. Non seulement il réjouit et purge les cerveaux humains, mais encore il instruit les âmes à la vertu, et l’on apprend avec lui à devenir honnête homme.",
+    "original": "SGANARELLE. — Quoi que puisse dire Aristote et toute la philosophie, il n’est rien d’égal au tabac : c’est la passion des honnêtes gens, et qui vit sans tabac n’est pas digne de vivre. Non seulement il réjouit et purge les cerveaux humains, mais encore il instruit les âmes à la vertu, et l’on apprend avec lui à devenir honnête homme.",
+    "length": 335,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00839.s1",
+      "p00839.s2",
+      "p00839.s3",
+      "p00839.s4"
+    ],
+    "french": "SGANARELLE. — Ah ! mes gages ! mes gages ! Voilà, par sa mort, un chacun satisfait. Ciel offensé, lois violées, filles séduites, familles déshonorées, parents outragés, femmes mises à mal, maris poussés à bout, tout le monde est content ; il n’y a que moi seul de malheureux. Mes gages, Mes gages, Mes gages !",
+    "original": "SGANARELLE. — Ah ! mes gages ! mes gages ! Voilà, par sa mort, un chacun satisfait. Ciel offensé, lois violées, filles séduites, familles déshonorées, parents outragés, femmes mises à mal, maris poussés à bout, tout le monde est content ; il n’y a que moi seul de malheureux. Mes gages, Mes gages, Mes gages !",
+    "length": 309,
+    "truncated": false
+  }
+}

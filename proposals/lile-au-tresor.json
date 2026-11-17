@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "lile-au-tresor",
+  "title": "L'Île au trésor",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Théo Varlet",
+    "translationYear": 1926,
+    "translatorDeathYear": 1938,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Théo_Varlet&oldid=12731556",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Théo Varlet, 1926)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Île au trésor, trad. Théo Varlet (Deodat Serval), Paris, Nelson, 1926 (Wikisource, textes validés), chapitres I et XXXIV",
+    "pages": [
+      {
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 1",
+        "revisionId": 14806090
+      },
+      {
+        "title": "L’Île au trésor (trad. Varlet)/Chapitre 34",
+        "revisionId": 14806156
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a97be5bc46123f954e4e715819edb56c704e44a8e6681382eaff3d658234ec65"
+  },
+  "titleMasks": [
+    "île au trésor"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1"
+    ],
+    "french": "C’est sur les instances de M. le chevalier Trelawney, du docteur Livesey et de tous ces messieurs en général, que je me suis décidé à mettre par écrit tout ce que je sais concernant l’[TITRE], depuis A jusqu’à Z, sans rien excepter que la position de l’île, et cela uniquement parce qu’il s’y trouve toujours une partie du trésor.",
+    "original": "C’est sur les instances de M. le chevalier Trelawney, du docteur Livesey et de tous ces messieurs en général, que je me suis décidé à mettre par écrit tout ce que je sais concernant l’île au trésor, depuis A jusqu’à Z, sans rien excepter que la position de l’île, et cela uniquement parce qu’il s’y trouve toujours une partie du trésor.",
+    "length": 336,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00059.s2"
+    ],
+    "french": "Un attelage de bœufs ne réussirait pas à me traîner dans cette île maudite ; et les pires de mes cauchemars sont ceux où j’entends le ressac tonner sur ses côtes et où je me dresse en sursaut dans mon lit à la voix stridente de Capitaine Flint qui me corne aux oreilles :\n– Pièces de huit ! pièces de huit !",
+    "original": "Un attelage de bœufs ne réussirait pas à me traîner dans cette île maudite ; et les pires de mes cauchemars sont ceux où j’entends le ressac tonner sur ses côtes et où je me dresse en sursaut dans mon lit à la voix stridente de Capitaine Flint qui me corne aux oreilles :\n– Pièces de huit ! pièces de huit !",
+    "length": 307,
+    "truncated": false
+  }
+}

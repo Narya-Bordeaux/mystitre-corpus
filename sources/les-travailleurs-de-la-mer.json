@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-travailleurs-de-la-mer",
+  "title": "Les Travailleurs de la mer",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Travailleurs de la mer, fr.wikisource.org (page principale, sans édition précisée) ; Partie 1/Livre 1/1 et Partie 3/Livre 3/5 (œuvre longue : deux bouts enregistrés)",
+  "pages": [
+    {
+      "title": "Les Travailleurs de la mer/Partie 1/Livre 1/1",
+      "revisionId": 5539757
+    },
+    {
+      "title": "Les Travailleurs de la mer/Partie 3/Livre 3/5",
+      "revisionId": 5544226
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "4999fdabd97b91b212021f3edd18d0bdde9133171977ea2c644e3d23d2f97a15",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "La Christmas de 182. fut remarquable à Guernesey. Il neigea "
+  },
+  "bodyEnd": {
+    "id": "p00083",
+    "textPrefix": "À l’instant où le navire s’effaça à l’horizon, la tête dispa"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut les titres de chapitre. Début : premier paragraphe de la Partie 1, Livre 1, ch. 1 (dédicace, préface et essai « L'archipel de la Manche » exclus : paratexte, non enregistrés). Fin : dernier paragraphe du roman."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-cauchemar-dinnsmouth",
+  "title": "Le Cauchemar d'Innsmouth",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Shadow Over Innsmouth (1936), page « full » de Wikisource ; édition non indiquée en détail",
+  "pages": [
+    {
+      "title": "The Shadow Over Innsmouth (1936)/full",
+      "revisionId": 15145807
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "e4ae3397bd297e835a88a4fa6da2fd1ad218a9ad5a21ae8f333a24daa630f913",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "DURING the winter of 1927–28 officials of the Federal govern"
+  },
+  "bodyEnd": {
+    "id": "p00258",
+    "textPrefix": "I shall plan my cousin's escape from that Canton mad-house, "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, nom de l'auteur, numéros de chapitre. Début : premier paragraphe du récit ; fin : dernier paragraphe du chapitre 5."
+  ],
+  "titleMasks": [
+    "Innsmouth"
+  ],
+  "readingOptions": []
+}

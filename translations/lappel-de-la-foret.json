@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "lappel-de-la-foret",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "b6e62031215538ec1c80a7390a46e851e9dd72c7a6d5ff688ab05026245a0f93",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "BUCK did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego.",
+      "translation": "Buck ne lisait pas les journaux, sinon il aurait su que des ennuis se préparaient, non seulement pour lui, mais pour tous les chiens de la côte, aux muscles puissants et au poil long et chaud, de Puget Sound à San Diego."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland.",
+      "translation": "Parce que des hommes, tâtonnant dans les ténèbres arctiques, avaient trouvé un métal jaune, et parce que les compagnies de navigation et de transport faisaient grand bruit de la découverte, des milliers d'hommes se ruaient vers le Grand Nord."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "These men wanted dogs, and the dogs they wanted were heavy dogs, with strong muscles by which to toil, and furry coats to protect them from the frost.",
+      "translation": "Ces hommes voulaient des chiens, et les chiens qu'ils voulaient étaient des chiens lourds, aux muscles solides pour le labeur, et à la fourrure épaisse pour les protéger du gel."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "Buck lived at a big house in the sun-kissed Santa Clara Valley.",
+      "translation": "Buck vivait dans une grande maison de la vallée de Santa Clara, baignée de soleil."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "Judge Miller's place, it was called.",
+      "translation": "On l'appelait la propriété du juge Miller."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00107.s3",
+      "original": "He crosses alone from the smiling timber land and comes down into an open space among the trees.",
+      "translation": "Il arrive seul de la riante forêt et descend dans une clairière entre les arbres."
+    },
+    {
+      "id": "p00107.s4",
+      "original": "Here a yellow stream flows from rotted moose-hide sacks and sinks into the ground, with long grasses growing through it and vegetable mould overrunning it and hiding its yellow from the sun; and here he muses for a time, howling once, long and mournfully, ere he departs.",
+      "translation": "Là, un ruisseau jaune s'écoule de sacs en peau d'élan pourris et s'enfonce dans le sol, traversé de hautes herbes et recouvert d'humus qui cachent son jaune au soleil ; et là, il songe un moment, hurle une fois, longuement et tristement, avant de repartir."
+    },
+    {
+      "id": "p00108.s1",
+      "original": "But he is not always alone.",
+      "translation": "Mais il n'est pas toujours seul."
+    },
+    {
+      "id": "p00108.s2",
+      "original": "When the long winter nights come on and the wolves follow their meat into the lower valleys, he may be seen running at the head of the pack through the pale moonlight or glimmering borealis, leaping gigantic above his fellows, his great throat a-bellow as he sings a song of the younger world, which is the song of the pack.",
+      "translation": "Quand viennent les longues nuits d'hiver et que les loups suivent leur gibier dans les vallées basses, on peut le voir courir en tête de la meute sous le pâle clair de lune ou les lueurs de l'aurore boréale, bondissant, gigantesque, au-dessus de ses compagnons, sa large gorge grondante tandis qu'il chante un chant du monde jeune, qui est le chant de la meute."
+    }
+  ]
+}

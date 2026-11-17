@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "poil-de-carotte",
+  "title": "Poil de Carotte",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (texte de la page Wikisource « Poil de Carotte »)",
+    "pages": [
+      {
+        "title": "Poil de Carotte/01",
+        "revisionId": 14865048
+      },
+      {
+        "title": "Poil de Carotte/49",
+        "revisionId": 5672415
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "52ded9f093522625f9a098dace69a668e6ebe7cc9c4b31c756900c553e263840"
+  },
+  "titleMasks": [
+    "Poil de Carotte"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3",
+      "p00003.s1"
+    ],
+    "french": "— Je parie, dit madame Lepic, qu’Honorine a encore oublié de fermer les poules.\nC’est vrai. On peut s’en assurer par la fenêtre. Là-bas, tout au fond de la grande cour, le petit toit aux poules découpe, dans la nuit, le carré noir de sa porte ouverte.\n— Félix, si tu allais les fermer ? dit madame Lepic à l’aîné de ses trois enfants.",
+    "original": "— Je parie, dit madame Lepic, qu’Honorine a encore oublié de fermer les poules.\nC’est vrai. On peut s’en assurer par la fenêtre. Là-bas, tout au fond de la grande cour, le petit toit aux poules découpe, dans la nuit, le carré noir de sa porte ouverte.\n— Félix, si tu allais les fermer ? dit madame Lepic à l’aîné de ses trois enfants.",
+    "length": 334,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00159.s1",
+      "p00161.s1",
+      "p00162.s1"
+    ],
+    "french": "Cela l’énerve, et soudain, comme il se découvre devant la croix du village, il jette sa casquette par terre, l’écrase sous son pied et s’écrie :\n— Personne ne m’aimera jamais, moi !\nAu même instant, madame Lepic, qui n’est pas sourde, se dresse derrière le mur, un sourire aux lèvres, terrible.\nEt [TITRE] ajoute, éperdu :\n— Excepté maman.",
+    "original": "Cela l’énerve, et soudain, comme il se découvre devant la croix du village, il jette sa casquette par terre, l’écrase sous son pied et s’écrie :\n— Personne ne m’aimera jamais, moi !\nAu même instant, madame Lepic, qui n’est pas sourde, se dresse derrière le mur, un sourire aux lèvres, terrible.\nEt Poil de Carotte ajoute, éperdu :\n— Excepté maman.",
+    "length": 347,
+    "truncated": false
+  }
+}

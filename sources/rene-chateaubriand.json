@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "rene-chateaubriand",
+  "title": "René",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (page Wikisource « René », révision 14437618)",
+  "pages": [
+    {
+      "title": "René",
+      "revisionId": 14437618
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "57780146994108a2b5880af56b60f3f9d7d2fa57f11ca5fc367d666c7d02d0bc",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "En arrivant chez les Natchez, René avait été obligé de prend"
+  },
+  "bodyEnd": {
+    "id": "p00123",
+    "textPrefix": "Chactas cessa de parler, et l’on entendit la voix du flamman"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre « RENÉ » et la mention finale « fin de René ». Le récit-cadre (Natchez) fait partie de l'œuvre."
+  ],
+  "titleMasks": [
+    "René"
+  ],
+  "readingOptions": []
+}

@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "bookId": "au-bord-de-leau",
+ "sourceLanguage": "zh",
+ "cleanTextSha256": "1ace7af1b4aecfe4232cd8d298c10a8f30e571f7186dbad8d96b0a0065cf944e",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00001.s1",
+   "original": "詞曰：\n　　　　試看書林隱處，幾多俊逸儒流，虛名薄利不關愁。",
+   "translation": "Un air dit :\nRegardez ceux qui se cachent dans le monde des livres, tant de lettrés éminents ; vaine gloire et mince profit ne leur causent aucun souci."
+  },
+  {
+   "id": "p00002.s1",
+   "original": "裁冰及翦雪，談笑看吳鉤。",
+   "translation": "Trancher la glace, couper la neige, rire et causer en regardant les sabres de Wu."
+  },
+  {
+   "id": "p00002.s2",
+   "original": "評議前王并後帝，分真偽占據中州，七雄擾擾亂春秋。",
+   "translation": "Ils jugent les rois d'autrefois et les empereurs d'après, distinguent le vrai du faux, ceux qui tiennent le Milieu, et les sept puissances en tumulte troublent le Printemps et l'Automne."
+  },
+  {
+   "id": "p00002.s3",
+   "original": "興亡如脆柳，身世類虛舟。",
+   "translation": "Grandeurs et ruines sont frêles comme un saule, la vie d'un homme est semblable à une barque vide."
+  },
+  {
+   "id": "p00002.s4",
+   "original": "見成名無數，圖形無數，更有那逃名無數。",
+   "translation": "On voit des noms illustres sans nombre, des portraits peints sans nombre, et d'autres encore, sans nombre, qui fuient la renommée."
+  },
+  {
+   "id": "p00002.s5",
+   "original": "霎時新月下長川，江湖變桑田古路。",
+   "translation": "En un instant la lune nouvelle descend sur le long fleuve, et les rivières et les lacs se changent en mûriers, en chemins d'autrefois."
+  },
+  {
+   "id": "p00002.s6",
+   "original": "訝求魚緣木，擬窮猿擇木，恐傷弓遠之曲木。",
+   "translation": "On s'étonne de chercher des poissons sur un arbre, on voudrait, tel le singe aux abois, choisir un arbre, mais on craint l'arbre tordu qui blesse l'oiseau déjà effrayé par l'arc."
+  },
+  {
+   "id": "p00002.s7",
+   "original": "不如且覆掌中杯，再聽取新聲曲度。",
+   "translation": "Mieux vaut vider d'abord la coupe qu'on tient en main, puis écouter les accents d'une chanson nouvelle."
+  },
+  {
+   "id": "p00003.s1",
+   "original": "詩曰：\n　　　　紛紛五代亂離間，一旦雲開復見天。",
+   "translation": "Un poème dit :\nDans le désordre et les troubles des Cinq Dynasties, les nuées soudain s'ouvrirent et l'on revit le ciel."
+  },
+  {
+   "id": "p00004.s1",
+   "original": "草木百年新雨露，車書萬里舊江山。",
+   "translation": "Les herbes et les arbres reçurent cent ans de rosée nouvelle, et les chars et les écritures reprirent, sur dix mille lieues, les anciens fleuves et montagnes."
+  },
+  {
+   "id": "p00004.s2",
+   "original": "尋常巷陌成羅綺，幾處樓臺奏管絃。",
+   "translation": "Les ruelles ordinaires se couvrirent de soie, et en bien des lieux les pavillons firent entendre flûtes et cordes."
+  },
+  {
+   "id": "p00004.s3",
+   "original": "人樂太平無事日，鶯花無限日高眠。",
+   "translation": "Les hommes se réjouissent en ces jours de paix sans événement, et sous les fleurs et les loriots ils dorment sans fin jusqu'à ce que le soleil soit haut."
+  },
+  {
+   "id": "p00005.s1",
+   "original": "話說這八句詩，乃是故宋神宗天子朝中一個名儒，姓邵，諱堯夫，道號康節先生所作。",
+   "translation": "On raconte que ces huit vers sont d'un lettré célèbre de la cour de l'empereur Shenzong des Song d'autrefois, nommé Shao, de son nom personnel Yaofu, et connu sous le surnom de maître Kangjie."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00090.s4",
+   "original": "彼處人民，重建大殿，添設兩廊，奏請賜額。",
+   "translation": "Les gens de ce pays reconstruisirent la grande salle, ajoutèrent deux galeries, et demandèrent par une requête qu'on leur accordât une plaque."
+  },
+  {
+   "id": "p00090.s5",
+   "original": "妝塑神像三十六員於正殿，兩廊仍塑七十二將，侍從人眾。",
+   "translation": "Dans la salle principale ils firent modeler trente-six statues, et dans les deux galeries soixante-douze généraux, avec la foule des serviteurs."
+  },
+  {
+   "id": "p00090.s6",
+   "original": "楚人行此誠心，遠近祈禱，無有不應。",
+   "translation": "Les gens de Chu, par la sincérité de leur cœur, prièrent de près et de loin : il n'est point de prière qui ne fût exaucée."
+  },
+  {
+   "id": "p00090.s7",
+   "original": "護國保民，受萬萬年香火。",
+   "translation": "Il protège l'État et garde le peuple, recevant l'encens pendant dix mille fois dix mille années."
+  },
+  {
+   "id": "p00090.s8",
+   "original": "年年享祭，歲歲朝參。",
+   "translation": "Chaque année on y offre un sacrifice, chaque saison on y vient en pèlerinage."
+  },
+  {
+   "id": "p00090.s9",
+   "original": "萬民頂禮保安寧，士庶恭祈而賜福。",
+   "translation": "Le peuple entier s'y prosterne pour la paix, et les lettrés et le commun y demandent respectueusement des bienfaits."
+  },
+  {
+   "id": "p00090.s10",
+   "original": "至今古蹟尚存。",
+   "translation": "Jusqu'à ce jour ces vestiges subsistent."
+  },
+  {
+   "id": "p00090.s11",
+   "original": "太史有唐律二首哀輓，詩曰：\n莫把行藏怨老天，韓彭當日亦堪憐。",
+   "translation": "Le grand historiographe a fait en deux poèmes réguliers des Tang une complainte funèbre, disant :\nNe reprochez pas au ciel vos actes et vos retraites : Han Xin et Peng Yue méritaient aussi la pitié, en leur temps."
+  },
+  {
+   "id": "p00091.s1",
+   "original": "一心征臘摧鋒日，百戰擒遼破敵年。",
+   "translation": "Le jour où, d'un seul cœur, il brisa Fang La, la bataille de cent combats où il prit les Liao, la défaite de l'ennemi, tout cela est passé."
+  },
+  {
+   "id": "p00091.s2",
+   "original": "煞曜罡星今已矣，讒臣賊相尚依然。",
+   "translation": "Les étoiles funestes et les astres de la Grande Ourse ne sont plus, mais les ministres calomniateurs et les rebelles sont encore là."
+  },
+  {
+   "id": "p00091.s3",
+   "original": "早知鴆毒埋黃垠，學取鴟夷泛釣船。",
+   "translation": "Si l'on avait su plus tôt qu'on enterrerait le poison de plume sous la terre jaune, on aurait suivi Fan Li, et flotté sur une barque de pêcheur."
+  },
+  {
+   "id": "p00092.s1",
+   "original": "生當鼎食死封侯，男子平生志已酬。",
+   "translation": "Vivant, manger dans des marmites de bronze ; mort, être fait marquis : l'ambition d'une vie d'homme est comblée."
+  },
+  {
+   "id": "p00092.s2",
+   "original": "鐵馬夜嘶山月暗，玄猿秋嘯暮雲稠。",
+   "translation": "Les chevaux de fer hennissent la nuit, la lune des monts est sombre ; les singes noirs hurlent à l'automne, les nuages du soir sont épais."
+  },
+  {
+   "id": "p00092.s3",
+   "original": "不須出處求真跡，卻喜忠良作話頭。",
+   "translation": "Inutile de chercher la trace véritable de leur passage : on se réjouit que ces loyaux serviteurs soient devenus matière à récits."
+  },
+  {
+   "id": "p00092.s4",
+   "original": "千古蓼窪埋玉地，落花啼鳥總關愁。",
+   "translation": "Sur la terre de Liaowa où repose le jade depuis mille ans, les fleurs qui tombent et les oiseaux qui pleurent ne parlent plus que de tristesse."
+  }
+ ]
+}

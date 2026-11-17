@@ -3,197 +3,63 @@
   "bookId": "les-aventures-de-tom-sawyer",
   "title": "Les Aventures de Tom Sawyer",
   "textOrigin": {
-    "kind": "publicDomainTranslation",
+    "kind": "foreignOriginal",
     "originalLanguage": "en",
-    "translator": "William Little Hughes",
-    "translationYear": 1884,
-    "translatorDeathYear": 1887,
-    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:William_Little_Hughes&oldid=13188871",
-    "publicDomainBasis": "translatorDeathYear",
-    "label": "Traduction libre de droits (William Little Hughes, 1884)"
+    "label": "Traduction par nos soins à partir de l'original (en)"
   },
-  "translatedBy": null,
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
   "source": {
-    "host": "fr.wikisource.org",
-    "edition": "Les Aventures de Tom Sawyer, traduction Hughes, 1884 (fr.wikisource.org)",
+    "host": "en.wikisource.org",
+    "edition": "The Adventures of Tom Sawyer, en.wikisource.org (premier chapitre et conclusion seulement)",
     "pages": [
       {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Dédicace",
-        "revisionId": 6499359
+        "title": "The Adventures of Tom Sawyer/Chapter I",
+        "revisionId": 13795269
       },
       {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Préface",
-        "revisionId": 6499362
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/1",
-        "revisionId": 6499386
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/2",
-        "revisionId": 6499402
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/3",
-        "revisionId": 6499418
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/4",
-        "revisionId": 6499428
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/5",
-        "revisionId": 6499433
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/6",
-        "revisionId": 6499442
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/7",
-        "revisionId": 6499450
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/8",
-        "revisionId": 6499635
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/9",
-        "revisionId": 6499650
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/10",
-        "revisionId": 6499661
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/11",
-        "revisionId": 6499674
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/12",
-        "revisionId": 6499685
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/13",
-        "revisionId": 6499696
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/14",
-        "revisionId": 6499703
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/15",
-        "revisionId": 6499716
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/16",
-        "revisionId": 6499723
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/17",
-        "revisionId": 6499742
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/18",
-        "revisionId": 6499748
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/19",
-        "revisionId": 6499759
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/20",
-        "revisionId": 6499768
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/21",
-        "revisionId": 6499779
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/22",
-        "revisionId": 6499789
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/23",
-        "revisionId": 6499796
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/24",
-        "revisionId": 6499810
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/25",
-        "revisionId": 13847406
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/26",
-        "revisionId": 13643371
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/27",
-        "revisionId": 13643372
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/28",
-        "revisionId": 13643373
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/29",
-        "revisionId": 13643374
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/30",
-        "revisionId": 13643375
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/31",
-        "revisionId": 13643376
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/32",
-        "revisionId": 13643377
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/33",
-        "revisionId": 13643378
-      },
-      {
-        "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Conclusion",
-        "revisionId": 5112473
+        "title": "The Adventures of Tom Sawyer/Conclusion",
+        "revisionId": 11841849
       }
     ],
     "cleanerVersion": 1,
-    "cleanTextSha256": "cb5c5f67f52305b88cd5c8200d18637647cff8767d387ac95e9929b5be7e8814"
+    "cleanTextSha256": "4ff158a3e9171a992f81bc41d0d73880591a30b49097ab1a712c64af60737d51"
   },
-  "titleMasks": [
-    "Tom Sawyer"
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "OM!\"",
+      "replace": "\"TOM!\"",
+      "reason": "Lettrine « \"T » en image dans l'édition de Wikisource"
+    }
   ],
   "createdOn": "2026-11-16",
   "opening": {
     "sentenceIds": [
-      "p00015.s1",
-      "p00016.s1",
-      "p00017.s1",
-      "p00018.s1",
-      "p00019.s1",
-      "p00019.s2",
-      "p00020.s1",
-      "p00020.s2"
+      "p00001.s1",
+      "p00002.s1",
+      "p00003.s1",
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2",
+      "p00006.s1",
+      "p00007.s1",
+      "p00007.s2"
     ],
-    "french": "Tante Polly — Tom !\nPas de réponse.\n— [TITRE] !\nPas de réponse.\n— Où donc a-t-il pu se cacher ? Ah ça, te montreras-tu, mauvais garnement ?\nLa vieille dame qui s’exprimait ainsi abaissa ses lunettes et regarda par dessus ; puis elle les releva et regarda par dessous. Il ne lui arrivait jamais de s’en servir autrement pour découvrir un objet aussi peu volumineux que maître Tom.",
-    "original": "Tante Polly — Tom !\nPas de réponse.\n— Tom Sawyer !\nPas de réponse.\n— Où donc a-t-il pu se cacher ? Ah ça, te montreras-tu, mauvais garnement ?\nLa vieille dame qui s’exprimait ainsi abaissa ses lunettes et regarda par dessus ; puis elle les releva et regarda par dessous. Il ne lui arrivait jamais de s’en servir autrement pour découvrir un objet aussi peu volumineux que maître Tom.",
-    "length": 382,
+    "french": "« TOM ! »\nPas de réponse.\n« TOM ! »\nPas de réponse.\n« Qu'est-ce qu'il est devenu, ce garçon, je me demande ? Eh, TOM ! »\nPas de réponse.\nLa vieille dame abaissa ses lunettes et regarda par-dessus à travers la pièce ; puis elle les releva et regarda par-dessous. Elle ne regardait presque jamais à travers pour une chose aussi petite qu'un garçon ; c'étaient ses lunettes de cérémonie, l'orgueil de son cœur, faites pour le « chic » et non pour l'usage — elle aurait vu tout aussi bien à travers une paire de rondelles de poêle.",
+    "original": "\"TOM!\"\nNo answer.\n\"TOM!\"\nNo answer.\n\"What's gone with that boy, I wonder? You TOM!\"\nNo answer.\nThe old lady pulled her spectacles down and looked over them about the room; then she put them up and looked out under them. She seldom or never looked through them for so small a thing as a boy; they were her state pair, the pride of her heart, and were built for \"style,\" not service—she could have seen through a pair of stove lids just as well.",
+    "length": 527,
     "truncated": false
   },
   "closing": {
     "sentenceIds": [
-      "p01479.s1",
-      "p01479.s2",
-      "p01479.s3"
+      "p00115.s1",
+      "p00115.s2"
     ],
-    "french": "La plupart des personnages qui figurent dans ce récit vivent encore. Il se peut que je sois tenté un jour ou l’autre de reprendre l’histoire des plus jeunes d’entre eux et de montrer ce qu’ils sont devenus en vieillissant. Le plus sage est de m’abstenir, pour le moment, de fournir aucun renseignement sur cette partie de leur existence.",
-    "original": "La plupart des personnages qui figurent dans ce récit vivent encore. Il se peut que je sois tenté un jour ou l’autre de reprendre l’histoire des plus jeunes d’entre eux et de montrer ce qu’ils sont devenus en vieillissant. Le plus sage est de m’abstenir, pour le moment, de fournir aucun renseignement sur cette partie de leur existence.",
-    "length": 337,
+    "french": "La plupart des personnages qui jouent dans ce livre vivent encore, et sont prospères et heureux. Un jour, il pourra sembler utile de reprendre l'histoire des plus jeunes pour voir quelle sorte d'hommes et de femmes ils sont devenus ; il sera donc plus sage de ne rien révéler pour le moment de cette partie de leur vie.",
+    "original": "Most of the characters that perform in this book still live, and are prosperous and happy. Some day it may seem worth while to take up the story of the younger ones again and see what sort of men and women they turned out to be; therefore it will be wisest not to reveal any of that part of their lives at present.",
+    "length": 319,
     "truncated": false
   }
 }

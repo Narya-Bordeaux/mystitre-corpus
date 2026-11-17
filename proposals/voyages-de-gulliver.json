@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "voyages-de-gulliver",
+  "title": "Les Voyages de Gulliver",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Gulliver's Travels, dans The Works of the Rev. Jonathan Swift, volume 6 (en.wikisource) ; seuls le chapitre 1 et 2 du voyage à Lilliput et le chapitre 12 du voyage chez les Houyhnhnms sont téléchargés",
+    "pages": [
+      {
+        "title": "The Works of the Rev. Jonathan Swift/Volume 6/A Voyage to Lilliput/Chapter 1",
+        "revisionId": 10240278
+      },
+      {
+        "title": "The Works of the Rev. Jonathan Swift/Volume 6/A Voyage to Lilliput/Chapter 2",
+        "revisionId": 10240279
+      },
+      {
+        "title": "The Works of the Rev. Jonathan Swift/Volume 6/A Voyage to the Country of the Houyhnhnms/Chapter 12",
+        "revisionId": 10240336
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a6d7079421e28651388e6794b7bfc0269e26857f6e52c8ddc5dee597396f4536"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00007.s1",
+      "p00007.s2"
+    ],
+    "french": "Mon père possédait un petit domaine dans le Nottinghamshire ; j’étais le troisième de cinq fils. Il m’envoya au collège d’Emmanuel, à Cambridge, à quatorze ans, où je résidai trois ans et m’appliquai de près à mes études ; mais la charge de mon entretien, bien que je n’eusse qu’une très maigre pension, étant trop lourde pour une modeste fortune, je fus placé en apprentissage chez M. James Bates, chirurgien éminent de Londres, auprès de qui je demeurai quatre ans ; et mon père m’envoyant de temps à autre de petites sommes d’argent, je les employai à apprendre la navigation et d’autres parties…",
+    "original": "MY father had a small estate in Nottinghamshire; I was the third of five sons. He sent me to Emanuel college in Cambridge, at fourteen years old, where I resided three years, and applied myself close to my studies; but the charge of maintaining me, although I had a very scanty allowance, being too great for a narrow fortune, I was bound apprentice to Mr. James Bates, an eminent surgeon in London, with whom I continued four years; and my father now and then sending me small sums of money, I laid them out in learning navigation, and other parts of the mathematicks, useful to those who intend to travel, as I always believed it would be, some time or other, my fortune to do.",
+    "length": 598,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00047.s1",
+      "p00047.s2"
+    ],
+    "french": "Mais les Houyhnhnms, qui vivent sous le gouvernement de la raison, ne sont pas plus fiers des bonnes qualités qu’ils possèdent que je ne le serais de ne manquer ni d’une jambe ni d’un bras ; ce dont nul homme sensé ne se vanterait, bien qu’il serait misérable sans eux. Je m’étends d’autant plus longuement sur ce sujet que je désire rendre la société d’un yahou anglais tant soit peu supportable ; et c’est pourquoi je prie ici ceux qui ont quelque teinte de ce vice absurde de ne pas avoir la présomption de paraître devant mes yeux.",
+    "original": "But the Houyhnhnms, who live under the government of reason, are no more proud of the good qualities they possess, than I should be for not wanting a leg or an arm; which no man in his wits would boast of, although he must be miserable without them. I dwell the longer upon this subject, from the desire I have to make the society of an English yahoo, by any means not insupportable; and therefore I here entreat those, who have any tincture of this absurd vice, that they will not presume to come in my sight.",
+    "length": 535,
+    "truncated": false
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-carnets-du-sous-sol",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "d8942ad30639eedd6a62aa512a5ecaa5440ad5adc832772a899c9d8b1c5bde94",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "Я человек больной…",
+      "translation": "Je suis un homme malade…"
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Я злой человек.",
+      "translation": "Je suis un homme méchant."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "Непривлекательный я человек.",
+      "translation": "Un homme peu attrayant."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "Я думаю, что у меня болит печень.",
+      "translation": "Je crois que j’ai mal au foie."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "Впрочем, я ни шиша не смыслю в моей болезни и не знаю наверно, что у меня болит.",
+      "translation": "Au reste, je ne comprends absolument rien à ma maladie et je ne sais pas au juste ce qui me fait mal."
+    },
+    {
+      "id": "p00003.s6",
+      "original": "Я не лечусь и никогда не лечился, хотя медицину и докторов уважаю.",
+      "translation": "Je ne me soigne pas et ne me suis jamais soigné, bien que je respecte la médecine et les docteurs."
+    },
+    {
+      "id": "p00003.s7",
+      "original": "К тому же я еще и суеверен до крайности; ну, хоть настолько, чтоб уважать медицину.",
+      "translation": "En outre, je suis extrêmement superstitieux ; assez, du moins, pour respecter la médecine."
+    },
+    {
+      "id": "p00003.s8",
+      "original": "(Я достаточно образован, чтоб не быть суеверным, но я суеверен).",
+      "translation": "(Je suis assez instruit pour ne pas être superstitieux, mais je le suis.)"
+    },
+    {
+      "id": "p00003.s9",
+      "original": "Нет-с, я не хочу лечиться со злости.",
+      "translation": "Non, monsieur, je refuse de me soigner par méchanceté."
+    },
+    {
+      "id": "p00003.s10",
+      "original": "Вот этого, наверно, не изволите понимать.",
+      "translation": "Voilà ce que, sans doute, vous n’avez pas la bonté de comprendre."
+    },
+    {
+      "id": "p00003.s11",
+      "original": "Ну-с, а я понимаю.",
+      "translation": "Eh bien, moi, je le comprends."
+    },
+    {
+      "id": "p00003.s12",
+      "original": "Я, разумеется, не сумею вам объяснить, кому именно я насолю в этом случае моей злостью; я отлично хорошо знаю, что и докторам я никак не смогу «нагадить» тем, что у них не лечусь; я лучше всякого знаю, что всем этим я единственно только себе поврежу и никому больше.",
+      "translation": "Je ne saurais évidemment pas vous expliquer à qui, au juste, je fais du tort en cette occasion par ma méchanceté ; je sais parfaitement que je ne puis nullement « jouer un mauvais tour » aux médecins en ne me faisant pas soigner par eux ; je sais mieux que personne qu’avec tout cela je ne nuis qu’à moi seul, et à nul autre."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00031.s18",
+      "original": "Оставьте нас одних, без книжки, и мы тотчас запутаемся, потеряемся, — не будем знать, куда примкнуть, чего придержаться; что любить и что ненавидеть, что уважать и что презирать?",
+      "translation": "Laissez-nous seuls, sans livre, et nous nous embrouillerons aussitôt, nous nous perdrons ; nous ne saurons plus à quoi nous rattacher, à quoi nous tenir, qui aimer et qui haïr, qui respecter et qui mépriser."
+    },
+    {
+      "id": "p00031.s19",
+      "original": "Мы даже и человеками-то быть тяготимся, — человеками с настоящим, собственным телом и кровью; стыдимся этого, за позор считаем и норовим быть какими-то небывалыми общечеловеками.",
+      "translation": "Nous trouvons même pesant d’être des hommes — des hommes avec un vrai corps à nous, avec du sang ; nous en avons honte, nous le tenons pour une infamie, et nous nous efforçons d’être je ne sais quels « hommes universels » qui n’ont jamais existé."
+    },
+    {
+      "id": "p00031.s20",
+      "original": "Мы мертворожденные, да и рождаемся-то давно уж не от живых отцов, и это нам все более и более нравится.",
+      "translation": "Nous sommes des mort-nés, et depuis longtemps nous ne naissons plus de pères vivants, ce qui nous plaît de plus en plus."
+    },
+    {
+      "id": "p00031.s21",
+      "original": "Во вкус входим.",
+      "translation": "Nous y prenons goût."
+    },
+    {
+      "id": "p00031.s22",
+      "original": "Скоро выдумаем рождаться как-нибудь от идеи.",
+      "translation": "Bientôt nous inventerons de naître d’une idée."
+    },
+    {
+      "id": "p00031.s23",
+      "original": "Но довольно; не хочу я больше писать «из Подполья»…",
+      "translation": "Mais assez ; je ne veux plus écrire « du Souterrain »…"
+    },
+    {
+      "id": "p00032.s1",
+      "original": "Впрочем, здесь еще не кончаются «записки» этого парадоксалиста.",
+      "translation": "Cependant, les « notes » de ce paradoxaliste ne s’arrêtent pas là."
+    },
+    {
+      "id": "p00032.s2",
+      "original": "Он не выдержал и продолжал далее.",
+      "translation": "Il n’a pas tenu et a continué plus loin."
+    },
+    {
+      "id": "p00032.s3",
+      "original": "Но нам тоже кажется, что здесь можно и остановиться.",
+      "translation": "Mais il nous semble à nous aussi qu’on peut s’arrêter ici."
+    }
+  ]
+}

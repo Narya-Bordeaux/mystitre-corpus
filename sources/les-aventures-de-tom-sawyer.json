@@ -2,180 +2,46 @@
   "formatVersion": 1,
   "bookId": "les-aventures-de-tom-sawyer",
   "title": "Les Aventures de Tom Sawyer",
-  "host": "fr.wikisource.org",
-  "sourceLanguage": "fr",
-  "edition": "Les Aventures de Tom Sawyer, traduction Hughes, 1884 (fr.wikisource.org)",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Adventures of Tom Sawyer, en.wikisource.org (premier chapitre et conclusion seulement)",
   "pages": [
     {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Dédicace",
-      "revisionId": 6499359
+      "title": "The Adventures of Tom Sawyer/Chapter I",
+      "revisionId": 13795269
     },
     {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Préface",
-      "revisionId": 6499362
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/1",
-      "revisionId": 6499386
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/2",
-      "revisionId": 6499402
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/3",
-      "revisionId": 6499418
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/4",
-      "revisionId": 6499428
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/5",
-      "revisionId": 6499433
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/6",
-      "revisionId": 6499442
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/7",
-      "revisionId": 6499450
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/8",
-      "revisionId": 6499635
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/9",
-      "revisionId": 6499650
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/10",
-      "revisionId": 6499661
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/11",
-      "revisionId": 6499674
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/12",
-      "revisionId": 6499685
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/13",
-      "revisionId": 6499696
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/14",
-      "revisionId": 6499703
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/15",
-      "revisionId": 6499716
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/16",
-      "revisionId": 6499723
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/17",
-      "revisionId": 6499742
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/18",
-      "revisionId": 6499748
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/19",
-      "revisionId": 6499759
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/20",
-      "revisionId": 6499768
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/21",
-      "revisionId": 6499779
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/22",
-      "revisionId": 6499789
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/23",
-      "revisionId": 6499796
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/24",
-      "revisionId": 6499810
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/25",
-      "revisionId": 13847406
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/26",
-      "revisionId": 13643371
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/27",
-      "revisionId": 13643372
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/28",
-      "revisionId": 13643373
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/29",
-      "revisionId": 13643374
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/30",
-      "revisionId": 13643375
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/31",
-      "revisionId": 13643376
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/32",
-      "revisionId": 13643377
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/33",
-      "revisionId": 13643378
-    },
-    {
-      "title": "Les Aventures de Tom Sawyer/Traduction Hughes, 1884/Conclusion",
-      "revisionId": 5112473
+      "title": "The Adventures of Tom Sawyer/Conclusion",
+      "revisionId": 11841849
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "cb5c5f67f52305b88cd5c8200d18637647cff8767d387ac95e9929b5be7e8814",
+  "cleanTextSha256": "4ff158a3e9171a992f81bc41d0d73880591a30b49097ab1a712c64af60737d51",
   "bodyStart": {
-    "id": "p00015",
-    "textPrefix": "Tante Polly — Tom !"
+    "id": "p00001",
+    "textPrefix": "   OM!\""
   },
   "bodyEnd": {
-    "id": "p01479",
-    "textPrefix": "La plupart des personnages qui figurent dans ce récit vivent"
+    "id": "p00115",
+    "textPrefix": "Most of the characters that perform in this book still live,"
   },
   "textOrigin": {
-    "kind": "publicDomainTranslation",
-    "originalLanguage": "en",
-    "translator": "William Little Hughes",
-    "translationYear": 1884,
-    "translatorDeathYear": 1887,
-    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:William_Little_Hughes&oldid=13188871",
-    "publicDomainBasis": "translatorDeathYear"
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
   },
   "registeredOn": "2026-11-16",
   "notes": [
-    "Exclus : dédicace à A. Hennuyer et préface de Mark Twain, titre d'édition, titres de chapitres et Conclusion (intitulé). Le début p00015 porte l'étiquette d'édition « Tante Polly — » devant la première réplique."
+    "Exclus : intitulé « CONCLUSION. » (p00113) et mention « THE END. » (p00116). Le corpus ne contient que le premier chapitre et la conclusion."
   ],
-  "titleMasks": [
-    "Tom Sawyer"
-  ],
-  "readingOptions": []
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "OM!\"",
+      "replace": "\"TOM!\"",
+      "reason": "Lettrine « \"T » en image dans l'édition de Wikisource"
+    }
+  ]
 }

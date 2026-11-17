@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "aladin",
+  "title": "Aladin ou la lampe merveilleuse",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Mille et Une Nuits, tome V, Le Normant, 1806 (tomes I à VII traduits par Antoine Galland), d'après Wikisource",
+  "pages": [
+    {
+      "title": "Les Mille et Une Nuits/Histoire d’Aladdin",
+      "revisionId": 12769373
+    },
+    {
+      "title": "Les Mille et Une Nuits/Suite de l’histoire d’Aladdin",
+      "revisionId": 12733055
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "94008b2786505beecb83f73dcfdb7de7a6f29447662b1fb0c6f346d4d6e28e7a",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Sire, dans la capitale d’un royaume de la Chine, très-riche "
+  },
+  "bodyEnd": {
+    "id": "p00347",
+    "textPrefix": "C’est ainsi qu’Aladdin fut délivré de la persécution des deu"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre centré (HISTOIRE D'ALADDIN, OU LA LAMPE MERVEILLEUSE), fin de tome et notes, et le paragraphe de commentaire de Schéhérazade et la reprise du cadre (p00348 et suivants) : le conte proprement dit s'achève sur « laissèrent une illustre postérité »."
+  ],
+  "titleMasks": [
+    "Aladdin"
+  ],
+  "readingOptions": []
+}

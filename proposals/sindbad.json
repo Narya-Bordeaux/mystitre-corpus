@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "bookId": "sindbad",
+  "title": "Sindbad le marin",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Antoine Galland, 1806)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Mille et Une Nuits, tome II, Le Normant, 1806 (tomes I à VII traduits par Antoine Galland), d'après Wikisource",
+    "pages": [
+      {
+        "title": "Les Mille et Une Nuits/Histoire de Sindbad le marin",
+        "revisionId": 11814005
+      },
+      {
+        "title": "Les Mille et Une Nuits/Septième et dernier voyage de Sindbad le marin",
+        "revisionId": 11816763
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "66e2ad3f4896e890a6d90188e666b3b53759141f77c62e7d9702be8294b807dc"
+  },
+  "titleMasks": [
+    "Sindbad le Marin",
+    "Sindbad"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3"
+    ],
+    "french": "Sire, sous le règne de ce même calife Haroun Alraschid, dont je viens de parler, il y avoit à Bagdad un pauvre porteur qui se nommoit Hindbad. Un jour qu’il faisoit une chaleur excessive, il portoit une charge très-pesante d’une extrémité de la ville à une autre. Comme il étoit fort fatigué du chemin qu’il avoit déjà fait, et qu’il lui en restoit encore beaucoup à faire, il arriva dans une rue où régnoit un doux zéphir, et dont le pavé étoit arrosé d’eau de rose.",
+    "original": "Sire, sous le règne de ce même calife Haroun Alraschid, dont je viens de parler, il y avoit à Bagdad un pauvre porteur qui se nommoit Hindbad. Un jour qu’il faisoit une chaleur excessive, il portoit une charge très-pesante d’une extrémité de la ville à une autre. Comme il étoit fort fatigué du chemin qu’il avoit déjà fait, et qu’il lui en restoit encore beaucoup à faire, il arriva dans une rue où régnoit un doux zéphir, et dont le pavé étoit arrosé d’eau de rose.",
+    "length": 467,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00047.s5",
+      "p00047.s6",
+      "p00048.s1"
+    ],
+    "french": "Vous méritez non-seulement une vie tranquille, vous êtes digne encore de tous les biens que vous possédez, puisque vous en faites un si bon usage, et que vous êtes si généreux. Continuez donc de vivre dans la joie jusqu’à l’heure de votre mort. »\n[TITRE] lui fit donner encore cent sequins, le reçut au nombre de ses amis, lui dit de quitter sa profession de porteur, et de continuer à venir manger chez lui ; qu’il auroit lieu de se souvenir toute sa vie de [TITRE].",
+    "original": "Vous méritez non-seulement une vie tranquille, vous êtes digne encore de tous les biens que vous possédez, puisque vous en faites un si bon usage, et que vous êtes si généreux. Continuez donc de vivre dans la joie jusqu’à l’heure de votre mort. »\nSindbad lui fit donner encore cent sequins, le reçut au nombre de ses amis, lui dit de quitter sa profession de porteur, et de continuer à venir manger chez lui ; qu’il auroit lieu de se souvenir toute sa vie de Sindbad le Marin.",
+    "length": 476,
+    "truncated": false
+  }
+}

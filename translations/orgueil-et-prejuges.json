@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "bookId": "orgueil-et-prejuges",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "db789ab2716e18712486f57b3ef24f5097dd6c8b50c57c94a76612fd79f1f34f",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "translation": "C'est une vérité universellement reconnue qu'un célibataire pourvu d'une belle fortune doit avoir envie de se marier."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered as the rightful property of some one or other of their daughters.",
+      "translation": "Si peu que l'on sache des sentiments ou des vues d'un tel homme lorsqu'il vient s'installer dans un voisinage, cette vérité est si bien ancrée dans l'esprit des familles environnantes qu'on le considère aussitôt comme la propriété légitime de l'une ou l'autre de leurs filles."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "\"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\"",
+      "translation": "« Mon cher monsieur Bennet, lui dit un jour sa dame, avez-vous appris que Netherfield Park est enfin loué ? »"
+    },
+    {
+      "id": "p00006.s1",
+      "original": "Mr. Bennet replied that he had not.",
+      "translation": "M. Bennet répondit que non."
+    },
+    {
+      "id": "p00007.s1",
+      "original": "\"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\"",
+      "translation": "« Mais si, reprit-elle ; car Mme Long vient de passer ici, et elle m'a tout raconté. »"
+    },
+    {
+      "id": "p00008.s1",
+      "original": "Mr. Bennet made no answer.",
+      "translation": "M. Bennet ne répondit rien."
+    },
+    {
+      "id": "p00009.s1",
+      "original": "\"Do not you want to know who has taken it?\" cried his wife impatiently.",
+      "translation": "« Ne voulez-vous pas savoir qui l'a pris ? s'écria sa femme avec impatience. »"
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00051.s2",
+      "original": "But at length, by Elizabeth's persuasion, he was prevailed on to overlook the offence, and seek a reconciliation; and, after a little farther resistance on the part of his aunt, her resentment gave way, either to her affection for him, or her curiosity to see how his wife conducted herself; and she condescended to wait on them at Pemberley, in spite of that pollution which its woods had received, not merely from the presence of such a mistress, but the visits of her uncle and aunt from the city.",
+      "translation": "Mais à la longue, sur la persuasion d'Elizabeth, il se laissa convaincre de passer sur l'offense et de chercher la réconciliation ; et, après un peu plus de résistance de la part de sa tante, le ressentiment de celle-ci céda, soit à l'affection qu'elle lui portait, soit à la curiosité de voir comment sa femme se conduisait ; et elle daigna leur rendre visite à Pemberley, malgré la souillure que ses bois avaient reçue, non seulement de la présence d'une telle maîtresse, mais aussi des visites de son oncle et de sa tante de la ville."
+    },
+    {
+      "id": "p00052.s1",
+      "original": "With the Gardiners, they were always on the most intimate terms.",
+      "translation": "Avec les Gardiner, ils furent toujours dans l'intimité la plus étroite."
+    },
+    {
+      "id": "p00052.s2",
+      "original": "Darcy, as well as Elizabeth, really loved them; and they were both ever sensible of the warmest gratitude towards the persons who, by bringing her into Derbyshire, had been the means of uniting them.",
+      "translation": "Darcy, aussi bien qu'Elizabeth, les aimait sincèrement ; et tous deux restaient pénétrés de la plus vive gratitude envers ceux qui, en l'amenant dans le Derbyshire, avaient été les artisans de leur union."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "anna-karenine",
+  "title": "Anna Karénine",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Original russe, page Wikisource « Анна Каренина (Толстой) », chapitres Часть I/Глава I et Часть VIII/Глава XIX (édition non indiquée)",
+  "pages": [
+    {
+      "title": "Анна Каренина (Толстой)/Часть I/Глава I",
+      "revisionId": 4929732
+    },
+    {
+      "title": "Анна Каренина (Толстой)/Часть VIII/Глава XIX",
+      "revisionId": 5764448
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "18f21cc186ff15ae7d91af506b964e44fb29dd86897f1a4674f3fba076373c6d",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Все счастливые семьи похожи друг на друга, каждая несчастлив"
+  },
+  "bodyEnd": {
+    "id": "p00032",
+    "textPrefix": "Так же буду сердиться на Ивана-кучера, так же буду спорить, "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre de chapitre et mention « Конец ». L'épigraphe (« Мне отмщение, и аз воздам ») n'est pas dans les pages enregistrées."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

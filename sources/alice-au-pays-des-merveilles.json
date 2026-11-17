@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "alice-au-pays-des-merveilles",
+  "title": "Alice au pays des merveilles",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Alice au pays des merveilles, traduction d'Henri Bué (1869), Wikisource français, chapitres 1 et 12",
+  "pages": [
+    {
+      "title": "Alice au pays des merveilles/1",
+      "revisionId": 12284581
+    },
+    {
+      "title": "Alice au pays des merveilles/12",
+      "revisionId": 11010247
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c1f66532976fdbe2bdc5e7c03f8b46b86ea480034b3f9bdfb74381204244960c",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Alice, assise auprès de sa sœur sur le gazon, commençait à s"
+  },
+  "bodyEnd": {
+    "id": "p00090",
+    "textPrefix": "Enfin elle se représenta cette même petite sœur, dans l’aven"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Henri Bué",
+    "translationYear": 1869,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : intitulé de chapitre, « FIN. » et la mention d'imprimeur anglaise résiduelle. Texte : traduction d'Henri Bué (1869), fidèle sur les extraits comparés."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

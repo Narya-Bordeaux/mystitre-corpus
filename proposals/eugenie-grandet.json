@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "eugenie-grandet",
+  "title": "Eugénie Grandet",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Eugénie Grandet, page unique de Wikisource (édition non indiquée)",
+    "pages": [
+      {
+        "title": "Eugénie Grandet",
+        "revisionId": 11990888
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c2d7d0bfd3f26595a42cde1190bffb0ce2b5c23d26503da073da021a936998dc"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "Il se trouve dans certaines provinces des maisons dont la vue inspire une mélancolie égale à celle que provoquent les cloîtres les plus sombres, les landes les plus ternes ou les ruines les plus tristes. Peut-être y a-t-il à la fois dans ces maisons et le silence du cloître et l’aridité des landes, et les ossements des ruines.",
+    "original": "Il se trouve dans certaines provinces des maisons dont la vue inspire une mélancolie égale à celle que provoquent les cloîtres les plus sombres, les landes les plus ternes ou les ruines les plus tristes. Peut-être y a-t-il à la fois dans ces maisons et le silence du cloître et l’aridité des landes, et les ossements des ruines.",
+    "length": 328,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01168.s6",
+      "p01168.s7",
+      "p01168.s8"
+    ],
+    "french": "Les gens de Saumur s’occupent d’elle et de monsieur le marquis de Froidfond dont la famille commence à cerner la riche veuve comme jadis avaient fait les Cruchot. Nanon et Cornoiller sont, dit-on, dans les intérêts du marquis, mais rien n’est plus faux. Ni la grande Nanon, ni Cornoiller n’ont assez d’esprit pour comprendre les corruptions du monde.",
+    "original": "Les gens de Saumur s’occupent d’elle et de monsieur le marquis de Froidfond dont la famille commence à cerner la riche veuve comme jadis avaient fait les Cruchot. Nanon et Cornoiller sont, dit-on, dans les intérêts du marquis, mais rien n’est plus faux. Ni la grande Nanon, ni Cornoiller n’ont assez d’esprit pour comprendre les corruptions du monde.",
+    "length": 350,
+    "truncated": false
+  }
+}

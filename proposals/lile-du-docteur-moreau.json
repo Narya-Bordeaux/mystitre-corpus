@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "lile-du-docteur-moreau",
+  "title": "L’Île du docteur Moreau",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Island of Doctor Moreau (1896), chapitre I et chapitre XXII, d'après Wikisource (imprimé chez John Wilson and Son, University Press, Cambridge, pour Stone and Kimball, mai 1896, d'après la note finale de la page)",
+    "pages": [
+      {
+        "title": "The Island of Doctor Moreau (1896)/Chapter 1",
+        "revisionId": 12150370
+      },
+      {
+        "title": "The Island of Doctor Moreau (1896)/Chapter 22",
+        "revisionId": 12150384
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c2b16087ebf22437857130073bc8c81b7a6a0e07ba506ecfe7e6862bec5a4d8e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3"
+    ],
+    "french": "Je ne me propose pas d’ajouter quoi que ce soit à ce qui a déjà été écrit sur la perte du « Lady Vain ». Comme chacun sait, il heurta une épave dix jours après avoir quitté Callao. La grande chaloupe, avec sept hommes d’équipage, fut recueillie dix-huit jours plus tard par la canonnière de Sa Majesté « Myrtle », et l’histoire de leurs terribles privations est devenue presque aussi célèbre que le cas bien plus horrible de la « Méduse ».",
+    "original": "I DO not propose to add anything to what has already been written concerning the loss of the “Lady Vain.” As every one knows, she collided with a derelict when ten days out from Callao. The long-boat, with seven of the crew, was picked up eighteen days after by H. M. gunboat “Myrtle,” and the story of their terrible privations has become quite as well known as the far more horrible “Medusa” case.",
+    "length": 439,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00020.s6",
+      "p00020.s7",
+      "p00021.s1",
+      "p00022.s1"
+    ],
+    "french": "C’est là, je le pense, dans les lois vastes et éternelles de la matière, et non dans les soucis, les péchés et les tourments quotidiens des hommes, que ce qu’il y a en nous de plus qu’animal doit trouver sa consolation et son espoir. J’espère, ou je ne pourrais pas vivre.\nEt ainsi, dans l’espoir et la solitude, mon histoire s’achève.\nEdward Prendick.",
+    "original": "There it must be, I think, in the vast and eternal laws of matter, and not in the daily cares and sins and troubles of men, that whatever is more than animal within us must find its solace and its hope. I hope, or I could not live.\nAnd so, in hope and solitude, my story ends.\nEdward Prendick.",
+    "length": 352,
+    "truncated": false
+  }
+}

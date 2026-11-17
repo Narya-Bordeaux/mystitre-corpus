@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-guerre-des-mondes",
+  "title": "La Guerre des mondes",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Éd. Vandamme & Co, Jette-Bruxelles, MCMVI, traduit de l'anglais par Henry D. Davray, illustrations d'Alvim-Corrêa (d'après Wikisource)",
+  "pages": [
+    {
+      "title": "La Guerre des mondes (Éd. Vandamme)/01",
+      "revisionId": 15967029
+    },
+    {
+      "title": "La Guerre des mondes (Éd. Vandamme)/27",
+      "revisionId": 16004014
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "957a807383bb2770f09c286dd7a306a57c6b1af323f1d2343374f3deeb6b5f59",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Personne n’aurait cru dans les dernières années du dix-neuvi"
+  },
+  "bodyEnd": {
+    "id": "p00038",
+    "textPrefix": "Et le plus étrange de tout, encore, est de penser, tandis qu"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Henry D. Davray",
+    "translationYear": 1906,
+    "translatorDeathYear": 1944,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Henry-David_Davray&oldid=13194742",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de chapitre, tables des illustrations. Corps : du premier paragraphe du chapitre I à la dernière phrase du récit."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "join",
+      "paragraphId": "p00036",
+      "reason": "Paragraphe coupé en deux par un saut de page de l'édition (« …de voir » / « les gens se promener… »)"
+    }
+  ]
+}

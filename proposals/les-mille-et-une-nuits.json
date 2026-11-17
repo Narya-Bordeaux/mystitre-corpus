@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-mille-et-une-nuits",
+  "title": "Les Mille et Une Nuits",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland et Caussin de Perceval",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Antoine Galland et Caussin de Perceval, 1806)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Mille et Une Nuits (neuf tomes), Le Normant, 1806 — tomes I à VII traduits par Antoine Galland, tomes VIII et IX par Caussin de Perceval, d'après la page d'accueil de fr.wikisource ; ouverture : tome I (Contes arabes), clôture : dernier conte du tome IX (« FIN DU TOME DERNIER »)",
+    "pages": [
+      {
+        "title": "Les Mille et Une Nuits/Contes arabes",
+        "revisionId": 11813879
+      },
+      {
+        "title": "Les Mille et Une Nuits/Histoire d’Aly Mohammed",
+        "revisionId": 11817257
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b5a31aa7d66441c88a5fd66981d080e594b4fe8d85efcc5f3e07e77d486fc725"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1"
+    ],
+    "french": "Les chroniques des Sassaniens, anciens rois de Perse, qui avoient étendu leur empire dans les Indes, dans les grandes et petites isles qui en dépendent, et bien loin au-delà du Gange, jusqu’à la Chine, rapportent qu’il y avoit autrefois un roi de cette puissante maison, qui étoit le plus excellent prince de son temps.",
+    "original": "Les chroniques des Sassaniens, anciens rois de Perse, qui avoient étendu leur empire dans les Indes, dans les grandes et petites isles qui en dépendent, et bien loin au-delà du Gange, jusqu’à la Chine, rapportent qu’il y avoit autrefois un roi de cette puissante maison, qui étoit le plus excellent prince de son temps.",
+    "length": 319,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00164.s1",
+      "p00165.s1",
+      "p00165.s2"
+    ],
+    "french": "La princesse se jeta à ses pieds, les embrassa tendrement, en lui donnant toutes les marques de la reconnoissance la plus vive et la plus parfaite.\nLe grand visir apprit le premier cette agréable nouvelle de la bouche même du sultan. Elle se répandit bientôt dans la ville et dans les provinces : ce qui attira au sultan et à l’aimable Scheherazade son épouse, mille louanges et mille bénédictions de tous les peuples de l’empire des Indes.",
+    "original": "La princesse se jeta à ses pieds, les embrassa tendrement, en lui donnant toutes les marques de la reconnoissance la plus vive et la plus parfaite.\nLe grand visir apprit le premier cette agréable nouvelle de la bouche même du sultan. Elle se répandit bientôt dans la ville et dans les provinces : ce qui attira au sultan et à l’aimable Scheherazade son épouse, mille louanges et mille bénédictions de tous les peuples de l’empire des Indes.",
+    "length": 440,
+    "truncated": false
+  }
+}

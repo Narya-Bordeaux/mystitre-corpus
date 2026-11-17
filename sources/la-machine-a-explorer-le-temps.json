@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-machine-a-explorer-le-temps",
+  "title": "La Machine à explorer le temps",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Mercure de France, tome 28, 1898 ; tome 29, 1899, traduction d'Henry-D. Davray (d'après Wikisource)",
+  "pages": [
+    {
+      "title": "La Machine à explorer le temps/1",
+      "revisionId": 12157735
+    },
+    {
+      "title": "La Machine à explorer le temps/17",
+      "revisionId": 12158188
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6a8519df49cc21027658efc44c8556dbfe7090788f6f2414d984085b6b1e74ac",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "L’Explorateur du Temps (car c’est ainsi que pour plus de com"
+  },
+  "bodyEnd": {
+    "id": "p00058",
+    "textPrefix": "On ne peut s’empêcher de faire des conjectures. Reviendra-t-"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Henry-D. Davray",
+    "translationYear": 1899,
+    "translatorDeathYear": 1944,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Henry-David_Davray&oldid=13194742",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de section (Introduction, Épilogue), signature réelle « H.-G. Wells. » et mention du traducteur. Corps : du premier paragraphe du récit au dernier de l'épilogue."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

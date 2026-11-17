@@ -1,0 +1,85 @@
+{
+  "formatVersion": 1,
+  "bookId": "macbeth",
+  "title": "Macbeth",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Macbeth, tragédie, traduction Guizot, 1864 (Œuvres complètes de Shakespeare, Guizot, 1862-1864), d'après le titre de la page Wikisource",
+  "pages": [
+    {
+      "title": "Macbeth/Traduction Guizot, 1864/Acte I",
+      "revisionId": 3165305
+    },
+    {
+      "title": "Macbeth/Traduction Guizot, 1864/Acte II",
+      "revisionId": 3165308
+    },
+    {
+      "title": "Macbeth/Traduction Guizot, 1864/Acte III",
+      "revisionId": 3165313
+    },
+    {
+      "title": "Macbeth/Traduction Guizot, 1864/Acte IV",
+      "revisionId": 3165317
+    },
+    {
+      "title": "Macbeth/Traduction Guizot, 1864/Acte V",
+      "revisionId": 3165322
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a66e9f67cf6d8a746b0166d925868cfc2bffab563cafc1b1cf8bc1733b732bae",
+  "bodyStart": {
+    "id": "p00011",
+    "textPrefix": ". — Quand nous réunirons-nous maintenant toutes trois ? Sera"
+  },
+  "bodyEnd": {
+    "id": "p00848",
+    "textPrefix": ". — Nous ne laisserons pas écouler beaucoup de temps avant d"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Guizot",
+    "translationYear": 1864,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, liste des personnages, indication de scène d'ouverture, didascalie finale et « FIN DU CINQUIÈME ET DERNIER ACTE ». Le corps commence à la première réplique des sorcières et finit sur la dernière réplique de Malcolm."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00011",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00012",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00013",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00014",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    }
+  ]
+}

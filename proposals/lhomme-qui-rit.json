@@ -1,0 +1,56 @@
+{
+  "formatVersion": 1,
+  "bookId": "lhomme-qui-rit",
+  "title": "L'Homme qui rit",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Homme qui rit, fr.wikisource.org, « éd. 1869 » ; pages « Deux chapitres préliminaires » et « Conclusion » (œuvre longue : seuls les deux bouts enregistrés)",
+    "pages": [
+      {
+        "title": "L’Homme qui rit/éd. 1869/Deux chapitres préliminaires",
+        "revisionId": 15934235
+      },
+      {
+        "title": "L’Homme qui rit/éd. 1869/Conclusion",
+        "revisionId": 9746374
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "8b1d987b056baf66580005d20abdc542452f2688f5c1cc9f3c59e9f4c759379a"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3",
+      "p00005.s4",
+      "p00005.s5",
+      "p00005.s6"
+    ],
+    "french": "Ursus et Homo étaient liés d’une amitié étroite. Ursus était un homme, Homo était un loup. Leurs humeurs s’étaient convenues. C’était l’homme qui avait baptisé le loup. Probablement il s’était aussi choisi lui-même son nom ; ayant trouvé Ursus bon pour lui, il avait trouvé Homo bon pour la bête. L’association de cet homme et de ce loup profitait aux foires, aux fêtes de paroisse, aux coins de rues où les passants s’attroupent, et au besoin qu’éprouve partout le peuple d’écouter des sornettes et d’acheter de l’orviétan.",
+    "original": "Ursus et Homo étaient liés d’une amitié étroite. Ursus était un homme, Homo était un loup. Leurs humeurs s’étaient convenues. C’était l’homme qui avait baptisé le loup. Probablement il s’était aussi choisi lui-même son nom ; ayant trouvé Ursus bon pour lui, il avait trouvé Homo bon pour la bête. L’association de cet homme et de ce loup profitait aux foires, aux fêtes de paroisse, aux coins de rues où les passants s’attroupent, et au besoin qu’éprouve partout le peuple d’écouter des sornettes et d’acheter de l’orviétan.",
+    "length": 524,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00426.s3",
+      "p00426.s4",
+      "p00426.s5",
+      "p00427.s1",
+      "p00428.s1"
+    ],
+    "french": "Ce fut une disparition calme et sombre. Personne ne vit ni n’entendit rien. Le navire continua de voguer et le fleuve de couler.\nPeu après, le navire entra dans l’Océan.\nQuand Ursus revint à lui, il ne vit plus Gwynplaine, et il aperçut près du bord Homo qui hurlait dans l’ombre en regardant la mer.",
+    "original": "Ce fut une disparition calme et sombre. Personne ne vit ni n’entendit rien. Le navire continua de voguer et le fleuve de couler.\nPeu après, le navire entra dans l’Océan.\nQuand Ursus revint à lui, il ne vit plus Gwynplaine, et il aperçut près du bord Homo qui hurlait dans l’ombre en regardant la mer.",
+    "length": 300,
+    "truncated": false
+  }
+}

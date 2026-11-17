@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "poil-de-carotte",
+  "title": "Poil de Carotte",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (texte de la page Wikisource « Poil de Carotte »)",
+  "pages": [
+    {
+      "title": "Poil de Carotte/01",
+      "revisionId": 14865048
+    },
+    {
+      "title": "Poil de Carotte/49",
+      "revisionId": 5672415
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "52ded9f093522625f9a098dace69a668e6ebe7cc9c4b31c756900c553e263840",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "— Je parie, dit madame Lepic, qu’Honorine a encore oublié de"
+  },
+  "bodyEnd": {
+    "id": "p00163",
+    "textPrefix": "— Excepté maman."
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : intertitres de chapitre (XXX…) et mention « FIN ». Début sur la première réplique, fin sur « Excepté maman. »"
+  ],
+  "titleMasks": [
+    "Poil de Carotte"
+  ],
+  "readingOptions": []
+}

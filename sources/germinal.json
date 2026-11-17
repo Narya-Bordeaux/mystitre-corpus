@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "germinal",
+  "title": "Germinal",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (texte de la page Wikisource « Germinal »)",
+  "pages": [
+    {
+      "title": "Germinal/Partie I/Chapitre 1",
+      "revisionId": 12123441
+    },
+    {
+      "title": "Germinal/Partie VII/Chapitre 6",
+      "revisionId": 6925090
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "376417479df4f456127ab1ac51e5b7023c839d370c5ee324f56666070b623e27",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Dans la plaine rase, sous la nuit sans étoiles, d’une obscur"
+  },
+  "bodyEnd": {
+    "id": "p00151",
+    "textPrefix": "Et, sous ses pieds, les coups profonds, les coups obstinés d"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : intertitres de partie et de chapitre, mention « FIN. ». Aucun paratexte."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

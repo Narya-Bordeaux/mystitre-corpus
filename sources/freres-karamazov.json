@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "freres-karamazov",
+  "title": "Les Frères Karamazov",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Братья Карамазовы (Достоевский), texte russe de Wikisource (pages « Книга первая/I » et « Эпилог/III »)",
+  "pages": [
+    {
+      "title": "Братья Карамазовы (Достоевский)/Книга первая/I",
+      "revisionId": 1224742
+    },
+    {
+      "title": "Братья Карамазовы (Достоевский)/Эпилог/III",
+      "revisionId": 4022021
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a581b6c9e95b8cbcbc21987e444d53b0478b3bfd250e3e8e3593f52868f5ef69",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Алексей Федорович Карамазов был третьим сыном помещика нашег"
+  },
+  "bodyEnd": {
+    "id": "p00074",
+    "textPrefix": "— И вечно так, всю жизнь рука в руку! Ура Карамазову! — еще "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Début au premier paragraphe du chapitre I du livre premier ; exclut l'avant-propos « От автора » (non enregistré) et les titres de livre et de chapitre. Fin au dernier paragraphe de l'épilogue."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

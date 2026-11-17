@@ -1,0 +1,72 @@
+{
+ "formatVersion": 1,
+ "bookId": "lhomme-invisible",
+ "sourceLanguage": "en",
+ "cleanTextSha256": "a73c4f44ce2692c02f925034ee62b0e8c9cdf75c5a5a15571872811f206b4aec",
+ "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00004.s1",
+   "original": "The stranger came early in February, one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking as it seemed from Bramblehurst railway station, and carrying a little black portmanteau in his thickly gloved hand.",
+   "translation": "L’étranger arriva au début de février, par une journée d’hiver, dans un vent mordant et une neige tourbillonnante, la dernière chute de neige de l’année, à travers la lande, venant, semblait-il, de la gare de Bramblehurst et portant une petite valise noire dans sa main fortement gantée."
+  },
+  {
+   "id": "p00004.s2",
+   "original": "He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried.",
+   "translation": "Il était emmitouflé des pieds à la tête, et le bord de son chapeau de feutre mou cachait tout son visage, sauf le bout luisant de son nez ; la neige s’était amassée contre ses épaules et sa poitrine et ajoutait une crête blanche à la charge qu’il portait."
+  },
+  {
+   "id": "p00004.s3",
+   "original": "He staggered into the Coach and Horses, more dead than alive as it seemed, and flung his portmanteau down. \"A fire,\" he cried, \"in the name of human charity!",
+   "translation": "Il entra en chancelant à l’auberge du Coach and Horses, plus mort que vif, semblait-il, et jeta sa valise à terre. « Du feu, s’écria-t-il, au nom de la charité humaine !"
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00046.s1",
+   "original": "His brows are knit and his lips move painfully. \"Hex, little two up in the air, cross and a fiddle-de-dee.",
+   "translation": "Il fronce les sourcils et ses lèvres remuent péniblement. « Hex, petit deux en l’air, croix et fiddle-de-dee."
+  },
+  {
+   "id": "p00046.s2",
+   "original": "Lord! what a one he was for intellect!\"",
+   "translation": "Seigneur ! quel esprit c’était ! »"
+  },
+  {
+   "id": "p00047.s1",
+   "original": "Presently he relaxes and leans back, and blinks through his smoke across the room at things invisible to other eyes. \"Full of secrets,\" he says. \"Wonderful secrets!",
+   "translation": "Bientôt il se détend et se laisse aller en arrière, et, à travers sa fumée, il cligne des yeux vers des choses invisibles pour les autres. « Plein de secrets, dit-il. De merveilleux secrets !"
+  },
+  {
+   "id": "p00048.s1",
+   "original": "\"Once I get the haul of them— Lord!",
+   "translation": "« Une fois que je les aurai tous en main… Seigneur !"
+  },
+  {
+   "id": "p00049.s1",
+   "original": "\"I wouldn't do what he did; I'd just—well!\"",
+   "translation": "« Je ne ferais pas ce qu’il a fait ; je voudrais seulement… enfin ! »"
+  },
+  {
+   "id": "p00049.s2",
+   "original": "He pulls at his pipe.",
+   "translation": "Il tire sur sa pipe."
+  },
+  {
+   "id": "p00050.s1",
+   "original": "So he lapses into a dream, the undying wonderful dream of his life.",
+   "translation": "Alors il glisse dans un rêve, le rêve merveilleux et éternel de sa vie."
+  },
+  {
+   "id": "p00050.s2",
+   "original": "And though Kemp has fished unceasingly, and Adye has questioned closely, no human being save the landlord knows those books are there, with the subtle secret of invisibility and a dozen other strange secrets written therein.",
+   "translation": "Et quoique Kemp ait pêché sans relâche, et qu’Adye ait interrogé de près, nul être humain, hormis l’aubergiste, ne sait que ces livres sont là, avec le subtil secret de l’invisibilité et une douzaine d’autres secrets non moins étranges qui y sont consignés."
+  },
+  {
+   "id": "p00050.s3",
+   "original": "And none other will know of them until he dies.",
+   "translation": "Et nul autre n’en saura rien jusqu’à sa mort."
+  }
+ ]
+}

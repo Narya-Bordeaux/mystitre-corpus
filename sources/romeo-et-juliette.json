@@ -1,0 +1,119 @@
+{
+  "formatVersion": 1,
+  "bookId": "romeo-et-juliette",
+  "title": "Roméo et Juliette",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Romeo and Juliet, The Yale Shakespeare (1917), page « Romeo and Juliet (1917) Yale » d'en.wikisource ; seuls le prologue, l'acte I et l'acte V sont téléchargés (extraits d'ouverture et de clôture)",
+  "pages": [
+    {
+      "title": "Romeo and Juliet (1917) Yale/Text/Prologue",
+      "revisionId": 12101969
+    },
+    {
+      "title": "Romeo and Juliet (1917) Yale/Text/Act I",
+      "revisionId": 12109019
+    },
+    {
+      "title": "Romeo and Juliet (1917) Yale/Text/Act V",
+      "revisionId": 12120327
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "da8a3f92a866f74ec1d44f0045055b77bf7816114a0b4a62fb27dc1650fb710c",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Chor. Two households, both alike in dignity,\nIn fair Verona,"
+  },
+  "bodyEnd": {
+    "id": "p00418",
+    "textPrefix": "Prince. A glooming peace this morning with it brings;\nThe su"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre « PROLOGUE », indications scéniques, notes de bas de page, « FINIS ». Gardé : le prologue du Chœur.",
+    "Exclus : titre PROLOGUE, indications scéniques, notes de bas de page, FINIS. Gardé : le prologue du Chœur. Texte original (Yale 1917) car la traduction Hugo suit un autre texte (fin différente)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "Chor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "foes 5",
+      "replace": "foes",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "stage; 12",
+      "replace": "stage;",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00417",
+      "find": "Cap. ",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00417",
+      "find": "enmity! 304",
+      "replace": "enmity!",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00418",
+      "find": "Prince. ",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00418",
+      "find": "woe 309",
+      "replace": "woe",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00418",
+      "find": " Exeunt omnes.",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00003",
+      "name": "CHORUS",
+      "reason": "Édition Yale sans balisage des locuteurs : personnage rétabli d'après le nom abrégé retiré (« Chor. »)"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00417",
+      "name": "CAPULET",
+      "reason": "Édition Yale sans balisage des locuteurs : personnage rétabli d'après le nom abrégé retiré (« Cap. »)"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00418",
+      "name": "PRINCE",
+      "reason": "Édition Yale sans balisage des locuteurs : personnage rétabli d'après le nom abrégé retiré (« Prince. »)"
+    }
+  ]
+}

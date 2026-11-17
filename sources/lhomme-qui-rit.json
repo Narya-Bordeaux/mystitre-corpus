@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lhomme-qui-rit",
+  "title": "L'Homme qui rit",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "L’Homme qui rit, fr.wikisource.org, « éd. 1869 » ; pages « Deux chapitres préliminaires » et « Conclusion » (œuvre longue : seuls les deux bouts enregistrés)",
+  "pages": [
+    {
+      "title": "L’Homme qui rit/éd. 1869/Deux chapitres préliminaires",
+      "revisionId": 15934235
+    },
+    {
+      "title": "L’Homme qui rit/éd. 1869/Conclusion",
+      "revisionId": 9746374
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8b1d987b056baf66580005d20abdc542452f2688f5c1cc9f3c59e9f4c759379a",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Ursus et Homo étaient liés d’une amitié étroite. Ursus était"
+  },
+  "bodyEnd": {
+    "id": "p00428",
+    "textPrefix": "Quand Ursus revint à lui, il ne vit plus Gwynplaine, et il a"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut titres de partie/chapitre et « FIN ». Début : premier paragraphe du chapitre Ursus (chapitres préliminaires, qui font partie du roman) ; préface exclue (non enregistrée)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

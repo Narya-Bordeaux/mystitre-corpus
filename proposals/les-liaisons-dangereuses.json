@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-liaisons-dangereuses",
+  "title": "Les Liaisons dangereuses",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, sommaire « Les Liaisons dangereuses » (lettres 1 à 175) ; édition non indiquée",
+    "pages": [
+      {
+        "title": "Les Liaisons dangereuses/Lettre 1",
+        "revisionId": 12193118
+      },
+      {
+        "title": "Les Liaisons dangereuses/Lettre 175",
+        "revisionId": 4181408
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "cc41b756c96e345f92b9ddc7717e3a006f48119e01c430997590b872eb8f7a31"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Tu vois, ma bonne amie, que je te tiens parole, & que les bonnets & les pompons ne prennent pas tout mon temps ; il m’en restera toujours pour toi. J’ai pourtant vu plus de parures dans cette seule journée que dans les quatre ans que nous avons passés ensemble, & je crois que la superbe Tanville aura plus de chagrin à ma première visite, où je compte bien la demander, qu’elle n’a cru nous en faire toutes les fois qu’elle est venue nous voir in fiocchi.",
+    "original": "Tu vois, ma bonne amie, que je te tiens parole, & que les bonnets & les pompons ne prennent pas tout mon temps ; il m’en restera toujours pour toi. J’ai pourtant vu plus de parures dans cette seule journée que dans les quatre ans que nous avons passés ensemble, & je crois que la superbe Tanville aura plus de chagrin à ma première visite, où je compte bien la demander, qu’elle n’a cru nous en faire toutes les fois qu’elle est venue nous voir in fiocchi.",
+    "length": 456,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00020.s5",
+      "p00021.s1"
+    ],
+    "french": "Mais ces réflexions tardives n’arrivent jamais qu’après l’événement, & l’une des plus importantes vérités, comme aussi peut-être des plus généralement reconnues, reste étouffée & sans usage dans le tourbillon de nos mœurs inconséquentes.\nAdieu, ma chère & digne amie ; j’éprouve en ce moment que notre raison, déjà si insuffisante pour prévenir nos malheurs, l’est encore davantage pour nous en consoler.",
+    "original": "Mais ces réflexions tardives n’arrivent jamais qu’après l’événement, & l’une des plus importantes vérités, comme aussi peut-être des plus généralement reconnues, reste étouffée & sans usage dans le tourbillon de nos mœurs inconséquentes.\nAdieu, ma chère & digne amie ; j’éprouve en ce moment que notre raison, déjà si insuffisante pour prévenir nos malheurs, l’est encore davantage pour nous en consoler.",
+    "length": 404,
+    "truncated": false
+  }
+}

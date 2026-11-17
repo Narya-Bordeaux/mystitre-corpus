@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-miserables",
+  "title": "Les Misérables",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Misérables, fr.wikisource.org (pages Tome 1/Livre 1/01 et Tome 5/Livre 9/06) ; édition numérisée non précisée",
+    "pages": [
+      {
+        "title": "Les Misérables/Tome 1/Livre 1/01",
+        "revisionId": 7060042
+      },
+      {
+        "title": "Les Misérables/Tome 5/Livre 9/06",
+        "revisionId": 7219177
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "30a6e6df7a94966c5775cb37ecb2765b3c9fc4978d135ab36dbe96aaa37e4f3e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00003.s1"
+    ],
+    "french": "En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne. C’était un vieillard d’environ soixante-quinze ans ; il occupait le siége de Digne depuis 1806.\nQuoique ce détail ne touche en aucune manière au fond même de ce que nous avons à raconter, il n’est peut-être pas inutile, ne fût-ce que pour être exact en tout, d’indiquer ici les bruits et les propos qui avaient couru sur son compte au moment où il était arrivé dans le diocèse.",
+    "original": "En 1815, M. Charles-François-Bienvenu Myriel était évêque de Digne. C’était un vieillard d’environ soixante-quinze ans ; il occupait le siége de Digne depuis 1806.\nQuoique ce détail ne touche en aucune manière au fond même de ce que nous avons à raconter, il n’est peut-être pas inutile, ne fût-ce que pour être exact en tout, d’indiquer ici les bruits et les propos qui avaient couru sur son compte au moment où il était arrivé dans le diocèse.",
+    "length": 445,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00023.s1",
+      "p00024.s1",
+      "p00024.s2"
+    ],
+    "french": "Seulement, voilà de cela bien des années déjà, une main y a écrit au crayon ces quatre vers qui sont devenus peu à peu illisibles sous la pluie et la poussière, et qui probablement sont aujourd’hui effacés :\nIl dort. Quoique le sort fût pour lui bien étrange,\nIl vivait. Il mourut quand il n’eut plus son ange,\nLa chose simplement d’elle-même arriva,\nComme la nuit se fait lorsque le jour s’en va.",
+    "original": "Seulement, voilà de cela bien des années déjà, une main y a écrit au crayon ces quatre vers qui sont devenus peu à peu illisibles sous la pluie et la poussière, et qui probablement sont aujourd’hui effacés :\nIl dort. Quoique le sort fût pour lui bien étrange,\nIl vivait. Il mourut quand il n’eut plus son ange,\nLa chose simplement d’elle-même arriva,\nComme la nuit se fait lorsque le jour s’en va.",
+    "length": 397,
+    "truncated": false
+  }
+}

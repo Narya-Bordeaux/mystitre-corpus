@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-travailleurs-de-la-mer",
+  "title": "Les Travailleurs de la mer",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Travailleurs de la mer, fr.wikisource.org (page principale, sans édition précisée) ; Partie 1/Livre 1/1 et Partie 3/Livre 3/5 (œuvre longue : deux bouts enregistrés)",
+    "pages": [
+      {
+        "title": "Les Travailleurs de la mer/Partie 1/Livre 1/1",
+        "revisionId": 5539757
+      },
+      {
+        "title": "Les Travailleurs de la mer/Partie 3/Livre 3/5",
+        "revisionId": 5544226
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "4999fdabd97b91b212021f3edd18d0bdde9133171977ea2c644e3d23d2f97a15"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3",
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "La Christmas de 182. fut remarquable à Guernesey. Il neigea ce jour-là. Dans les îles de la Manche, un hiver où il gèle à glace est mémorable, et la neige fait événement.\nLe matin de cette Christmas, la route qui longe la mer de Saint-Pierre-Port au Valle était toute blanche. Il avait neigé depuis minuit jusqu’à l’aube.",
+    "original": "La Christmas de 182. fut remarquable à Guernesey. Il neigea ce jour-là. Dans les îles de la Manche, un hiver où il gèle à glace est mémorable, et la neige fait événement.\nLe matin de cette Christmas, la route qui longe la mer de Saint-Pierre-Port au Valle était toute blanche. Il avait neigé depuis minuit jusqu’à l’aube.",
+    "length": 321,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00079.s1",
+      "p00079.s2",
+      "p00080.s1",
+      "p00081.s1",
+      "p00082.s1",
+      "p00083.s1",
+      "p00083.s2"
+    ],
+    "french": "Le Cashmere, devenu imperceptible, était maintenant une tache mêlée à la brume. Il fallait pour le distinguer savoir où il était.\nPeu à peu, cette tache, qui n’était plus une forme, pâlit.\nPuis elle s’amoindrit.\nPuis elle se dissipa.\nÀ l’instant où le navire s’effaça à l’horizon, la tête disparut sous l’eau. Il n’y eut plus rien que la mer.",
+    "original": "Le Cashmere, devenu imperceptible, était maintenant une tache mêlée à la brume. Il fallait pour le distinguer savoir où il était.\nPeu à peu, cette tache, qui n’était plus une forme, pâlit.\nPuis elle s’amoindrit.\nPuis elle se dissipa.\nÀ l’instant où le navire s’effaça à l’horizon, la tête disparut sous l’eau. Il n’y eut plus rien que la mer.",
+    "length": 342,
+    "truncated": false
+  }
+}

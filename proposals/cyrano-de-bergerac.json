@@ -1,0 +1,89 @@
+{
+  "formatVersion": 1,
+  "bookId": "cyrano-de-bergerac",
+  "title": "Cyrano de Bergerac",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (page Wikisource « Cyrano de Bergerac (Rostand)/Texte entier »)",
+    "pages": [
+      {
+        "title": "Cyrano de Bergerac (Rostand)/Texte entier",
+        "revisionId": 16244371
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6cf0de9ce947c62921f6a4235041bb66a87be33aa112644da312c2c54a672ce4"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00039",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p03973",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p03974",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p03976",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00044",
+      "reason": "Didascalie orpheline (nom du personnage perdu à la numérisation : « , au deuxième. »), pas du texte dit."
+    }
+  ],
+  "reviewFlags": [
+    "p00039 exclu, SANS doublon ailleurs dans l'œuvre : « , à un autre cavalier qui vient d’entrer. »",
+    "p03973 exclu, SANS doublon ailleurs dans l'œuvre : « (L’épée s’échappe de ses mains, il chancelle, tombe dans les bras de Le Bret et de Ragueneau.) »",
+    "p03974 exclu, SANS doublon ailleurs dans l'œuvre : « , se penchant sur lui et lui baisant le front. »",
+    "p03976 exclu, SANS doublon ailleurs dans l'œuvre : « , rouvre les yeux, la reconnaît et dit en souriant. »",
+    "p00044 exclu, SANS doublon ailleurs dans l'œuvre : « , au deuxième. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00035.s1",
+      "p00036.s1",
+      "p00037.s1",
+      "p00038.s1",
+      "p00040.s1",
+      "p00041.s1",
+      "p00042.s1",
+      "p00043.s1",
+      "p00045.s1"
+    ],
+    "french": "LE PORTIER. — Holà ! vos quinze sols !\nLE CAVALIER. — J’entre gratis !\nLE PORTIER. — Pourquoi ?\nLE CAVALIER. — Je suis chevau-léger de la maison du Roi !\nLE PORTIER. — Vous ?\nDEUXIÈME CAVALIER. — Je ne paye pas !\nLE PORTIER. — Mais…\nDEUXIÈME CAVALIER. — Je suis mousquetaire.\nPREMIER CAVALIER. — On ne commence qu’à deux heures.",
+    "original": "LE PORTIER. — Holà ! vos quinze sols !\nLE CAVALIER. — J’entre gratis !\nLE PORTIER. — Pourquoi ?\nLE CAVALIER. — Je suis chevau-léger de la maison du Roi !\nLE PORTIER. — Vous ?\nDEUXIÈME CAVALIER. — Je ne paye pas !\nLE PORTIER. — Mais…\nDEUXIÈME CAVALIER. — Je suis mousquetaire.\nPREMIER CAVALIER. — On ne commence qu’à deux heures.",
+    "length": 328,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p03970.s1",
+      "p03970.s2",
+      "p03970.s3",
+      "p03975.s1",
+      "p03977.s1"
+    ],
+    "french": "CYRANO. — Oui, vous m’arrachez tout, le laurier et la rose !\nArrachez ! Il y a malgré vous quelque chose\nQue j’emporte, et ce soir, quand j’entrerai chez Dieu,\nMon salut balaiera largement le seuil bleu,\nQuelque chose que sans un pli, sans une tache,\nJ’emporte malgré vous,\net c’est…\nROXANE. — C’est ?…\nCYRANO. — Mon panache.",
+    "original": "CYRANO. — Oui, vous m’arrachez tout, le laurier et la rose !\nArrachez ! Il y a malgré vous quelque chose\nQue j’emporte, et ce soir, quand j’entrerai chez Dieu,\nMon salut balaiera largement le seuil bleu,\nQuelque chose que sans un pli, sans une tache,\nJ’emporte malgré vous,\net c’est…\nROXANE. — C’est ?…\nCYRANO. — Mon panache.",
+    "length": 325,
+    "truncated": false
+  }
+}

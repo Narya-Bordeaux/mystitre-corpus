@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "bel-ami",
+  "title": "Bel-Ami",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Bel-Ami, édition Ollendorff, 1901 (Wikisource) ; deux chapitres seulement : Première partie I et Deuxième partie X",
+    "pages": [
+      {
+        "title": "Bel-Ami/Édition Ollendorff, 1901/Première Partie/I",
+        "revisionId": 5631989
+      },
+      {
+        "title": "Bel-Ami/Édition Ollendorff, 1901/Deuxième Partie/X",
+        "revisionId": 5642918
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "cd918b56e4bef5479350f8cd73cef7c526b3e0066083ce9dfa168a090bf2c188"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.\nComme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire, un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.",
+    "original": "Quand la caissière lui eut rendu la monnaie de sa pièce de cent sous, Georges Duroy sortit du restaurant.\nComme il portait beau, par nature et par pose d’ancien sous-officier, il cambra sa taille, frisa sa moustache d’un geste militaire et familier, et jeta sur les dîneurs attardés un regard rapide et circulaire, un de ces regards de joli garçon, qui s’étendent comme des coups d’épervier.",
+    "length": 391,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00268.s1",
+      "p00268.s2"
+    ],
+    "french": "Il descendit avec lenteur les marches du haut perron entre deux haies de spectateurs. Mais il ne les voyait point ; sa pensée maintenant revenait en arrière, et devant ses yeux éblouis par l’éclatant soleil flottait l’image de Mme de Marelle rajustant en face de la glace les petits cheveux frisés de ses tempes, toujours défaits au sortir du lit.",
+    "original": "Il descendit avec lenteur les marches du haut perron entre deux haies de spectateurs. Mais il ne les voyait point ; sa pensée maintenant revenait en arrière, et devant ses yeux éblouis par l’éclatant soleil flottait l’image de Mme de Marelle rajustant en face de la glace les petits cheveux frisés de ses tempes, toujours défaits au sortir du lit.",
+    "length": 347,
+    "truncated": false
+  }
+}

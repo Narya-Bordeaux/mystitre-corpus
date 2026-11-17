@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "boule-de-suif",
+  "title": "Boule de Suif",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Boule de Suif, édition Ollendorff (Wikisource, sous-page 01, nouvelle complète)",
+  "pages": [
+    {
+      "title": "Boule de Suif, Ollendorff/01",
+      "revisionId": 13909858
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "96ebad29555a7bffaf177978fb9fafdda6740b700f1fbecafc9ba278714a6ce7",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Pendant plusieurs jours de suite des lambeaux d’armée en dér"
+  },
+  "bodyEnd": {
+    "id": "p00284",
+    "textPrefix": "Et Boule de suif pleurait toujours ; et parfois un sanglot, "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : titre « BOULE DE SUIF ». Aucune dédicace ni note en fin ; le dernier paragraphe clôt la nouvelle. Le couplet de la Marseillaise (verse p00282) reste dans le corps."
+  ],
+  "titleMasks": [
+    "Boule de suif"
+  ],
+  "readingOptions": []
+}

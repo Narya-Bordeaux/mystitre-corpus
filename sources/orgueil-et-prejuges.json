@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "orgueil-et-prejuges",
+  "title": "Orgueil et Préjugés",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Pride and Prejudice (1813), Wikisource anglais, chapitres 1 du volume 1 et 19 du volume 3",
+  "pages": [
+    {
+      "title": "Pride and Prejudice (1813)/Volume 1/Chapter 1",
+      "revisionId": 13055721
+    },
+    {
+      "title": "Pride and Prejudice (1813)/Volume 3/Chapter 19",
+      "revisionId": 13113924
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "db789ab2716e18712486f57b3ef24f5097dd6c8b50c57c94a76612fd79f1f34f",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "It is a truth universally acknowledged, that a single man in"
+  },
+  "bodyEnd": {
+    "id": "p00052",
+    "textPrefix": "With the Gardiners, they were always on the most intimate te"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre d'édition, numéro de chapitre, « Finis. » final. Le dernier paragraphe est conservé tel quel (fin du roman)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

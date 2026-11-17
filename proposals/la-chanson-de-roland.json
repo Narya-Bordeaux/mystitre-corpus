@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-chanson-de-roland",
+  "title": "La Chanson de Roland",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "fro",
+    "translator": "Joseph Bédier",
+    "translationYear": 1922,
+    "translatorDeathYear": 1938,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Joseph_Bédier&oldid=15838606",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Joseph Bédier, 1922)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Traduction de Joseph Bédier (fr.wikisource, La Chanson de Roland/Joseph Bédier, catégorie 1922), prose rendant le texte d'Oxford",
+    "pages": [
+      {
+        "title": "La Chanson de Roland/Joseph Bédier/La Chanson de Roland/Traduction",
+        "revisionId": 5423040
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "60b1941a0ac853b81b2cac36d580cbb66062120934da1d0772908ff48a85796e"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "LE roi Charles",
+      "replace": "Le roi Charles",
+      "reason": "Mots d'attaque de laisse composés en capitales dans l'édition (initiale ornée) ; casse normale rétablie"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Le roi Charles, notre empereur, le Grand, sept ans tout pleins est resté dans l’Espagne : jusqu’à la mer il a conquis la terre hautaine. Plus un château qui devant lui résiste, plus une muraille à forcer, plus une cité, hormis Saragosse, qui est dans une montagne. Le roi Marsile la tient, qui n’aime pas Dieu.",
+    "original": "Le roi Charles, notre empereur, le Grand, sept ans tout pleins est resté dans l’Espagne : jusqu’à la mer il a conquis la terre hautaine. Plus un château qui devant lui résiste, plus une muraille à forcer, plus une cité, hormis Saragosse, qui est dans une montagne. Le roi Marsile la tient, qui n’aime pas Dieu.",
+    "length": 310,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00582.s4",
+      "p00582.s5",
+      "p00582.s6",
+      "p00582.s7"
+    ],
+    "french": "Par vive force tu iras en la terre de Bire, tu secourras le roi Vivien dans sa cité d’Imphe, où les païens ont mis le siège. Là les chrétiens t’appellent et te réclament. » L’empereur voudrait ne pas y aller : « Dieu ! » dit-il, « que de peines en ma vie ! » Ses yeux versent des larmes, il tire sa barbe blanche.",
+    "original": "Par vive force tu iras en la terre de Bire, tu secourras le roi Vivien dans sa cité d’Imphe, où les païens ont mis le siège. Là les chrétiens t’appellent et te réclament. » L’empereur voudrait ne pas y aller : « Dieu ! » dit-il, « que de peines en ma vie ! » Ses yeux versent des larmes, il tire sa barbe blanche.",
+    "length": 313,
+    "truncated": false
+  }
+}

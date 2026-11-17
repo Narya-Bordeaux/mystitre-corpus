@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "lassommoir",
+  "title": "L'Assommoir",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (texte de la page Wikisource « L’Assommoir »)",
+    "pages": [
+      {
+        "title": "L’Assommoir/Chapitre I",
+        "revisionId": 4624542
+      },
+      {
+        "title": "L’Assommoir/Chapitre XIII",
+        "revisionId": 9675822
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2bd9a737d611f6f3c17331e4bdc6a53427526f67f039a0e5d5a5eb1a496d380e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Gervaise avait attendu Lantier jusqu’à deux heures du matin. Puis, toute frissonnante d’être restée en camisole à l’air vif de la fenêtre, elle s’était assoupie, jetée en travers du lit, fiévreuse, les joues trempées de larmes. Depuis huit jours, au sortir du Veau à deux têtes, où ils mangeaient, il l’envoyait se coucher avec les enfants et ne reparaissait que tard dans la nuit, en racontant qu’il cherchait du travail.",
+    "original": "Gervaise avait attendu Lantier jusqu’à deux heures du matin. Puis, toute frissonnante d’être restée en camisole à l’air vif de la fenêtre, elle s’était assoupie, jetée en travers du lit, fiévreuse, les joues trempées de larmes. Depuis huit jours, au sortir du Veau à deux têtes, où ils mangeaient, il l’envoyait se coucher avec les enfants et ne reparaissait que tard dans la nuit, en racontant qu’il cherchait du travail.",
+    "length": 422,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00337.s1",
+      "p00337.s2",
+      "p00338.s1",
+      "p00338.s2"
+    ],
+    "french": "Et, lorsqu’il empoigna Gervaise dans ses grosses mains noires, il fut pris d’une tendresse, il souleva doucement cette femme qui avait eu un si long béguin pour lui. Puis, en l’allongeant au fond de la bière avec un soin paternel, il bégaya, entre deux hoquets :\n— Tu sais… écoute bien… c’est moi, Bibi-la-Gaieté, dit le consolateur des dames… Va, t’es heureuse. Fais dodo, ma belle !",
+    "original": "Et, lorsqu’il empoigna Gervaise dans ses grosses mains noires, il fut pris d’une tendresse, il souleva doucement cette femme qui avait eu un si long béguin pour lui. Puis, en l’allongeant au fond de la bière avec un soin paternel, il bégaya, entre deux hoquets :\n— Tu sais… écoute bien… c’est moi, Bibi-la-Gaieté, dit le consolateur des dames… Va, t’es heureuse. Fais dodo, ma belle !",
+    "length": 384,
+    "truncated": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "moby-dick",
+  "title": "Moby Dick",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Moby-Dick (1851) US edition, d'après le titre de la page Wikisource (seuls le chapitre 1 et l'épilogue sont retenus)",
+  "pages": [
+    {
+      "title": "Moby-Dick (1851) US edition/Chapter 1",
+      "revisionId": 10617656
+    },
+    {
+      "title": "Moby-Dick (1851) US edition/Epilogue",
+      "revisionId": 11896684
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "59f90457d131f7a4b2a11fb1ac5ad3d9b624823d01828197798d96a72e2a2f23",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Call me Ishmael. Some years ago—never mind how long precisel"
+  },
+  "bodyEnd": {
+    "id": "p00024",
+    "textPrefix": "It so chanced, that after the Parsee's disappearance, I was "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titres de chapitre (« CHAPTER I. LOOMINGS. », « EPILOGUE. ») et « finis. ». Le texte est tronqué volontairement au chapitre 1 et à l'épilogue ; l'épigraphe de l'épilogue (Job) est dans l'intervalle mais n'intervient dans aucun extrait."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

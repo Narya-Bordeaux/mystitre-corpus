@@ -1,0 +1,99 @@
+{
+  "formatVersion": 1,
+  "bookId": "macbeth",
+  "title": "Macbeth",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Guizot",
+    "translationYear": 1864,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Guizot, 1864)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Macbeth, tragédie, traduction Guizot, 1864 (Œuvres complètes de Shakespeare, Guizot, 1862-1864), d'après le titre de la page Wikisource",
+    "pages": [
+      {
+        "title": "Macbeth/Traduction Guizot, 1864/Acte I",
+        "revisionId": 3165305
+      },
+      {
+        "title": "Macbeth/Traduction Guizot, 1864/Acte II",
+        "revisionId": 3165308
+      },
+      {
+        "title": "Macbeth/Traduction Guizot, 1864/Acte III",
+        "revisionId": 3165313
+      },
+      {
+        "title": "Macbeth/Traduction Guizot, 1864/Acte IV",
+        "revisionId": 3165317
+      },
+      {
+        "title": "Macbeth/Traduction Guizot, 1864/Acte V",
+        "revisionId": 3165322
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a66e9f67cf6d8a746b0166d925868cfc2bffab563cafc1b1cf8bc1733b732bae"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00011",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00012",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00013",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00014",
+      "find": ". — ",
+      "replace": "",
+      "reason": "Reste de la mise en forme de la réplique (« . — » après le nom du personnage, balisé à part), qui doublerait le tiret de l'extrait"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00011.s1",
+      "p00011.s2",
+      "p00012.s1",
+      "p00013.s1",
+      "p00014.s1"
+    ],
+    "french": "PREMIÈRE SORCIÈRE. — Quand nous réunirons-nous maintenant toutes trois ? Sera-ce par le tonnerre, les éclairs ou la pluie ?\nDEUXIÈME SORCIÈRE. — Quand le bacchanal aura cessé, quand la bataille sera gagnée et perdue.\nTROISIÈME SORCIÈRE. — Ce sera avant le coucher du soleil.\nPREMIÈRE SORCIÈRE. — En quel lieu ?",
+    "original": "PREMIÈRE SORCIÈRE. — Quand nous réunirons-nous maintenant toutes trois ? Sera-ce par le tonnerre, les éclairs ou la pluie ?\nDEUXIÈME SORCIÈRE. — Quand le bacchanal aura cessé, quand la bataille sera gagnée et perdue.\nTROISIÈME SORCIÈRE. — Ce sera avant le coucher du soleil.\nPREMIÈRE SORCIÈRE. — En quel lieu ?",
+    "length": 310,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00848.s3",
+      "p00848.s4"
+    ],
+    "french": "MALCOLM. — Ce qui nous reste à faire, tous les actes nouveaux nécessités par la circonstance, comme le rappel de ceux de nos amis qui se sont exilés pour fuir les pièges de l’inquiète tyrannie ; la recherche des cruels ministres de ce boucher défunt et de son infernale compagne qui, à ce qu’on croit, s’est détruite de ses propres mains ; ces devoirs, et tous les autres qui nous regardent, avec le secours de la grâce, nous les exécuterons à mesure en temps et lieu. Je vous rends grâces à tous ensemble et à chacun en particulier, et je vous invite tous à venir nous voir couronner à Scone.",
+    "original": "MALCOLM. — Ce qui nous reste à faire, tous les actes nouveaux nécessités par la circonstance, comme le rappel de ceux de nos amis qui se sont exilés pour fuir les pièges de l’inquiète tyrannie ; la recherche des cruels ministres de ce boucher défunt et de son infernale compagne qui, à ce qu’on croit, s’est détruite de ses propres mains ; ces devoirs, et tous les autres qui nous regardent, avec le secours de la grâce, nous les exécuterons à mesure en temps et lieu. Je vous rends grâces à tous ensemble et à chacun en particulier, et je vous invite tous à venir nous voir couronner à Scone.",
+    "length": 593,
+    "truncated": false
+  }
+}

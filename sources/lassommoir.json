@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lassommoir",
+  "title": "L'Assommoir",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (texte de la page Wikisource « L’Assommoir »)",
+  "pages": [
+    {
+      "title": "L’Assommoir/Chapitre I",
+      "revisionId": 4624542
+    },
+    {
+      "title": "L’Assommoir/Chapitre XIII",
+      "revisionId": 9675822
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2bd9a737d611f6f3c17331e4bdc6a53427526f67f039a0e5d5a5eb1a496d380e",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Gervaise avait attendu Lantier jusqu’à deux heures du matin."
+  },
+  "bodyEnd": {
+    "id": "p00338",
+    "textPrefix": "— Tu sais… écoute bien… c’est moi, Bibi-la-Gaieté, dit le co"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : intertitres de chapitre (I, XIII). Aucun paratexte dans les deux pages ; fin sur « Fais dodo, ma belle ! »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

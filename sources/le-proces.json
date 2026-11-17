@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-proces",
+  "title": "Le Procès",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "Der Prozess, Wikisource (de), chapitres 1 et 10 ; édition non indiquée",
+  "pages": [
+    {
+      "title": "Der Prozess/1. Kapitel",
+      "revisionId": 3107875
+    },
+    {
+      "title": "Der Prozess/10. Kapitel",
+      "revisionId": 3107884
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6ec6e2062abeff5df9663c7abe2687a281a5c2c58c7fe57d6dbb744d84e16e68",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Jemand mußte Josef K. verleumdet haben, denn ohne daß er etw"
+  },
+  "bodyEnd": {
+    "id": "p00034",
+    "textPrefix": "Aber an K.s Gurgel legten sich die Hände des einen Herrn, wä"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de chapitre centrés (ERSTES KAPITEL, ZEHNTES KAPITEL, ENDE) et sous-titres. Corps = premier paragraphe du chapitre 1 et dernier du chapitre 10."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

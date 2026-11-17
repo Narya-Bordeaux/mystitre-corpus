@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "voyage-en-occident",
+  "title": "Voyage en Occident",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Wikisource chinois, page « 西遊記 », chapitres 1 et 100 ; édition non indiquée au-delà du titre",
+    "pages": [
+      {
+        "title": "西遊記/第001回",
+        "revisionId": 2562136
+      },
+      {
+        "title": "西遊記/第100回",
+        "revisionId": 1500545
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b0e161e9ab64baf9e32ab695cf29d8a0ac6007b503804fbfc781d445ad078282"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "Un poème dit :\nQuand le chaos n'était pas encore divisé, le ciel et la terre n'étaient que confusion ; tout n'était que brume immense, et nul homme ne voyait rien.\nDepuis que Pangu eut fendu la grande nébuleuse, la séparation du pur et du trouble fut établie.\nLe ciel qui couvre et la terre qui porte nourrissent tous les êtres, que révère la souveraine bonté ; toutes choses qui s'y révèlent deviennent bonnes.",
+    "original": "詩曰：\n混沌未分天地亂，茫茫渺渺無人見。\n自從盤古破鴻濛，開闢從茲清濁辨。\n覆載群生仰至仁，發明萬物皆成善。",
+    "length": 411,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00122.s1",
+      "p00123.s1",
+      "p00124.s1"
+    ],
+    "french": "Que tous ceux qui en auront vu ou entendu parler éveillent en eux le cœur d'éveil.\nQu'ils renaissent ensemble au pays de la Félicité suprême, et rendent grâces de ce seul corps.\nTous les bouddhas des dix directions et des trois temps, tous les vénérables bodhisattvas, grands êtres, et la grande sagesse de la Prajna-paramita.",
+    "original": "若有見聞者，悉發菩提心。\n同生極樂國，盡報此一身。\n十方三世一切佛，諸尊菩薩摩訶薩，摩訶般若波羅密。」",
+    "length": 326,
+    "truncated": false
+  }
+}

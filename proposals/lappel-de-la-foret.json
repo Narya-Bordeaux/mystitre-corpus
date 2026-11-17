@@ -1,0 +1,63 @@
+{
+  "formatVersion": 1,
+  "bookId": "lappel-de-la-foret",
+  "title": "L'Appel de la forêt",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Call of the Wild (London), édition anglaise de Wikisource (chapitres 1 et 7), édition non indiquée en détail",
+    "pages": [
+      {
+        "title": "The Call of the Wild (London)/Chapter 1",
+        "revisionId": 6165049
+      },
+      {
+        "title": "The Call of the Wild (London)/Chapter 7",
+        "revisionId": 12614872
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b6e62031215538ec1c80a7390a46e851e9dd72c7a6d5ff688ab05026245a0f93"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00109",
+      "reason": "Citation en exergue de la mise en page d'origine (reprise du paragraphe p00107), intercalée au milieu de la dernière phrase"
+    },
+    {
+      "kind": "join",
+      "paragraphId": "p00108",
+      "reason": "Dernière phrase coupée en deux par l'encart exclu p00109"
+    }
+  ],
+  "reviewFlags": [
+    "p00109 exclu, doublon d'un autre paragraphe : « \"In the summers there is one visitor... to that valley,... a great, gloriously coated wolf.\" »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Buck ne lisait pas les journaux, sinon il aurait su que des ennuis se préparaient, non seulement pour lui, mais pour tous les chiens de la côte, aux muscles puissants et au poil long et chaud, de Puget Sound à San Diego. Parce que des hommes, tâtonnant dans les ténèbres arctiques, avaient trouvé un métal jaune, et parce que les compagnies de navigation et de transport faisaient grand bruit de la découverte, des milliers d'hommes se ruaient vers le Grand Nord.",
+    "original": "BUCK did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego. Because men, groping in the Arctic darkness, had found a yellow metal, and because steamship and transportation companies were booming the find, thousands of men were rushing into the Northland.",
+    "length": 463,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00108.s2"
+    ],
+    "french": "Quand viennent les longues nuits d'hiver et que les loups suivent leur gibier dans les vallées basses, on peut le voir courir en tête de la meute sous le pâle clair de lune ou les lueurs de l'aurore boréale, bondissant, gigantesque, au-dessus de ses compagnons, sa large gorge grondante tandis qu'il chante un chant du monde jeune, qui est le chant de la meute.",
+    "original": "When the long winter nights come on and the wolves follow their meat into the lower valleys, he may be seen running at the head of the pack through the pale moonlight or glimmering borealis, leaping gigantic above his fellows, his great throat a-bellow as he sings a song of the younger world, which is the song of the pack.",
+    "length": 361,
+    "truncated": false
+  }
+}

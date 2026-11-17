@@ -1,0 +1,60 @@
+{
+  "formatVersion": 1,
+  "bookId": "lile-mysterieuse",
+  "title": "L'Île mystérieuse",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource fr, « L’Île mystérieuse » (partie 1 chapitre 1 et partie 3 chapitre 20) ; édition source non indiquée ici",
+    "pages": [
+      {
+        "title": "L’Île mystérieuse/Partie 1/Chapitre 1",
+        "revisionId": 11450936
+      },
+      {
+        "title": "L’Île mystérieuse/Partie 3/Chapitre 20",
+        "revisionId": 11451043
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d501d0352fbb4090b9760cbd24443f3a9244b2efc632d697cb317bd5102aeee0"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3",
+      "p00006.s1",
+      "p00006.s2",
+      "p00007.s1",
+      "p00007.s2",
+      "p00008.s1",
+      "p00009.s1",
+      "p00010.s1",
+      "p00011.s1",
+      "p00012.s1",
+      "p00013.s1"
+    ],
+    "french": "« Remontons-nous ?\n— Non ! Au contraire ! Nous descendons !\n— Pis que cela, monsieur Cyrus ! Nous tombons !\n— Pour Dieu ! Jetez du lest !\n— Voilà le dernier sac vidé !\n— Le ballon se relève-t-il ?\n— Non !\n— J’entends comme un clapotement de vagues !\n— La mer est sous la nacelle !\n— Elle ne doit pas être à cinq cents pieds de nous ! »",
+    "original": "« Remontons-nous ?\n— Non ! Au contraire ! Nous descendons !\n— Pis que cela, monsieur Cyrus ! Nous tombons !\n— Pour Dieu ! Jetez du lest !\n— Voilà le dernier sac vidé !\n— Le ballon se relève-t-il ?\n— Non !\n— J’entends comme un clapotement de vagues !\n— La mer est sous la nacelle !\n— Elle ne doit pas être à cinq cents pieds de nous ! »",
+    "length": 335,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00128.s1"
+    ],
+    "french": "Là, enfin, tous furent heureux, unis dans le présent comme ils l’avaient été dans le passé ; mais jamais ils ne devaient oublier cette île, sur laquelle ils étaient arrivés, pauvres et nus, cette île qui, pendant quatre ans, avait suffi à leurs besoins, et dont il ne restait plus qu’un morceau de granit battu par les lames du Pacifique, tombe de celui qui fut le capitaine Nemo !",
+    "original": "Là, enfin, tous furent heureux, unis dans le présent comme ils l’avaient été dans le passé ; mais jamais ils ne devaient oublier cette île, sur laquelle ils étaient arrivés, pauvres et nus, cette île qui, pendant quatre ans, avait suffi à leurs besoins, et dont il ne restait plus qu’un morceau de granit battu par les lames du Pacifique, tombe de celui qui fut le capitaine Nemo !",
+    "length": 381,
+    "truncated": false
+  }
+}

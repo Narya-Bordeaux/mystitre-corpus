@@ -1,0 +1,82 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-cauchemar-dinnsmouth",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "e4ae3397bd297e835a88a4fa6da2fd1ad218a9ad5a21ae8f333a24daa630f913",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "DURING the winter of 1927–28 officials of the Federal government made a strange and secret investigation of certain conditions in the ancient Massachusetts seaport of Innsmouth.",
+      "translation": "Pendant l'hiver 1927-28, des fonctionnaires du gouvernement fédéral menèrent une étrange et secrète enquête sur certaines conditions régnant dans l'antique port du Massachusetts qu'est Innsmouth."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "The public first learned of it in February, when a vast series of raids and arrests occurred, followed by the deliberate burning and dynamiting—under suitable precautions—of an enormous number of crumbling, worm-eaten, and supposedly empty houses along the abandoned waterfront.",
+      "translation": "Le public ne l'apprit qu'en février, lorsque eut lieu une vaste série de descentes et d'arrestations, suivie de l'incendie et du dynamitage délibérés — avec les précautions voulues — d'un nombre énorme de maisons délabrées, rongées par les vers et réputées vides, le long du front de mer abandonné."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "Uninquiring souls let this occurrence pass as one of the major clashes in a spasmodic war on liquor.",
+      "translation": "Les esprits peu curieux y virent l'un des grands affrontements d'une guerre spasmodique contre l'alcool."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "Keener news-followers, however, wondered at the prodigious number of arrests, the abnormally large force of men used in making them, and the secrecy surrounding the disposal of the prisoners.",
+      "translation": "Les observateurs plus avisés de l'actualité s'étonnèrent cependant du nombre prodigieux d'arrestations, de l'effectif anormalement élevé des hommes employés pour les opérer, et du secret entourant le sort des prisonniers."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00257.s5",
+      "original": "I do not believe I need to wait for the full change as most have waited.",
+      "translation": "Je ne crois pas avoir besoin d'attendre la transformation complète comme l'ont fait la plupart."
+    },
+    {
+      "id": "p00257.s6",
+      "original": "If I did, my father would probably shut me up in a sanitarium as my poor little cousin is shut up.",
+      "translation": "Si je le faisais, mon père m'enfermerait probablement dans un sanatorium, comme on y enferme mon pauvre petit cousin."
+    },
+    {
+      "id": "p00257.s7",
+      "original": "Stupendous and unheard-of splendors await me below, and I shall seek them soon.",
+      "translation": "D'insoupçonnables splendeurs, jamais vues, m'attendent en bas, et je les chercherai bientôt."
+    },
+    {
+      "id": "p00257.s8",
+      "original": "Iä-R'lyeh!",
+      "translation": "Iä-R'lyeh !"
+    },
+    {
+      "id": "p00257.s9",
+      "original": "Cthulhu fhtagn!",
+      "translation": "Cthulhu fhtagn !"
+    },
+    {
+      "id": "p00257.s10",
+      "original": "Iä!",
+      "translation": "Iä !"
+    },
+    {
+      "id": "p00257.s11",
+      "original": "Iä!",
+      "translation": "Iä !"
+    },
+    {
+      "id": "p00257.s12",
+      "original": "No, I shall not shoot myself—I cannot be made to shoot myself!",
+      "translation": "Non, je ne me tirerai pas de balle — on ne peut me forcer à le faire !"
+    },
+    {
+      "id": "p00258.s1",
+      "original": "I shall plan my cousin's escape from that Canton mad-house, and together we shall go to marvel-shadowed Innsmouth.",
+      "translation": "Je préparerai l'évasion de mon cousin de cet asile de fous de Canton, et ensemble nous irons à Innsmouth, ombragée de merveilles."
+    },
+    {
+      "id": "p00258.s2",
+      "original": "We shall swim out to that brooding reef in the sea and dive down through black abysses to Cyclopean and many-columned Y'ha-nthlei, and in that lair of the Deep Ones we shall dwell amidst wonder and glory for ever.",
+      "translation": "Nous nagerons jusqu'à ce récif menaçant, au large, et plongerons à travers de noirs abîmes jusqu'à Y'ha-nthlei la cyclopéenne aux mille colonnes, et dans ce repaire des Profonds nous demeurerons à jamais au sein de la merveille et de la gloire."
+    }
+  ]
+}

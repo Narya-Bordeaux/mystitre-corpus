@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "lidiot",
+  "title": "L'Idiot",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "L’Idiot, traduction de Victor Derély, Plon, Paris, 1887 (pages Wikisource « L’Idiot/I/Chapitre 1 » et « L’Idiot/IV/Chapitre 12 »)",
+  "pages": [
+    {
+      "title": "L’Idiot/I/Chapitre 1",
+      "revisionId": 5672024
+    },
+    {
+      "title": "L’Idiot/IV/Chapitre 12",
+      "revisionId": 3078317
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "5da57110fb422b9905e80af4233b01031465324262c2e7751ff5269b02ff3ac8",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "C’était à la fin de novembre ; par un temps de dégel, humide"
+  },
+  "bodyEnd": {
+    "id": "p00096",
+    "textPrefix": "Lébédeff, Keller, Gania, Ptitzine et plusieurs autres person"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1887,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Début au premier paragraphe du chapitre I ; exclut les titres de partie et de chapitre et la mention « FIN. » (p00097). Pas de date de rédaction dans cette traduction."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

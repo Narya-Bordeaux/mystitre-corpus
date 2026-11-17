@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "eugenie-grandet",
+  "title": "Eugénie Grandet",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Eugénie Grandet, page unique de Wikisource (édition non indiquée)",
+  "pages": [
+    {
+      "title": "Eugénie Grandet",
+      "revisionId": 11990888
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c2d7d0bfd3f26595a42cde1190bffb0ce2b5c23d26503da073da021a936998dc",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "Il se trouve dans certaines provinces des maisons dont la vu"
+  },
+  "bodyEnd": {
+    "id": "p01168",
+    "textPrefix": "La main de cette femme panse les plaies secrètes de toutes l"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : titre, dédicace « À Maria » et signature (p1-p4), lieu et date « Paris, septembre 1833 » (p1169)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

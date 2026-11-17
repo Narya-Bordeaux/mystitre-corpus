@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "au-bord-de-leau",
+  "title": "Au bord de l'eau",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Wikisource chinois, page « 水滸傳 (100回本) », introduction (引首) et chapitres 1 et 100 ; édition non indiquée au-delà du titre",
+    "pages": [
+      {
+        "title": "水滸傳 (100回本)/引首",
+        "revisionId": 11181745
+      },
+      {
+        "title": "水滸傳 (100回本)/第001回",
+        "revisionId": 11184025
+      },
+      {
+        "title": "水滸傳 (100回本)/第100回",
+        "revisionId": 11152051
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "1ace7af1b4aecfe4232cd8d298c10a8f30e571f7186dbad8d96b0a0065cf944e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "Un air dit :\nRegardez ceux qui se cachent dans le monde des livres, tant de lettrés éminents ; vaine gloire et mince profit ne leur causent aucun souci.\nTrancher la glace, couper la neige, rire et causer en regardant les sabres de Wu.\nIls jugent les rois d'autrefois et les empereurs d'après, distinguent le vrai du faux, ceux qui tiennent le Milieu, et les sept puissances en tumulte troublent le Printemps et l'Automne.",
+    "original": "詞曰：\n　　　　試看書林隱處，幾多俊逸儒流，虛名薄利不關愁。\n　　　　裁冰及翦雪，談笑看吳鉤。\n　　　　評議前王并後帝，分真偽占據中州，七雄擾擾亂春秋。",
+    "length": 421,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00092.s2",
+      "p00092.s3",
+      "p00092.s4"
+    ],
+    "french": "Les chevaux de fer hennissent la nuit, la lune des monts est sombre ; les singes noirs hurlent à l'automne, les nuages du soir sont épais.\nInutile de chercher la trace véritable de leur passage : on se réjouit que ces loyaux serviteurs soient devenus matière à récits.\nSur la terre de Liaowa où repose le jade depuis mille ans, les fleurs qui tombent et les oiseaux qui pleurent ne parlent plus que de tristesse.",
+    "original": "鐵馬夜嘶山月暗，玄猿秋嘯暮雲稠。\n不須出處求真跡，卻喜忠良作話頭。\n千古蓼窪埋玉地，落花啼鳥總關愁。",
+    "length": 412,
+    "truncated": false
+  }
+}

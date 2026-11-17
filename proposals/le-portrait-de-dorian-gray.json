@@ -1,0 +1,56 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-portrait-de-dorian-gray",
+  "title": "Le Portrait de Dorian Gray",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Edmond Jaloux",
+    "translationYear": 1928,
+    "translatorDeathYear": 1949,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Edmond_Jaloux&oldid=15711878",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Edmond Jaloux, 1928)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le portrait de Dorian Gray, trad. Edmond Jaloux, Paris, 1928 (Wikisource, index « Wilde - Le portrait de Dorian Gray (trad. Jaloux), 1928.djvu »), chapitres I et XX",
+    "pages": [
+      {
+        "title": "Le Portrait de Dorian Gray (trad. Jaloux)/01",
+        "revisionId": 15182800
+      },
+      {
+        "title": "Le Portrait de Dorian Gray (trad. Jaloux)/20",
+        "revisionId": 15183418
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "043c2a6afd392f76de3df61ac10862087017043688b857b7a14a1c894502a283"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "Le riche parfum des roses embaumait l’atelier et quand la légère brise d’été remuait les arbres du jardin, il venait, par la porte ouverte, une lourde odeur de lilas ou l’arome plus délicat des aubépines rougissantes.\nDu coin de sofa où il était allongé sur des coussins de cuir persan, et tout en fumant, selon son habitude, d’innombrables cigarettes, lord Henry Wotton apercevait la rayonnante floraison d’un cytise, dont les grappes de miel et les flexibles rameaux semblaient écrasés sous le poids flamboyant de leur propre beauté.",
+    "original": "Le riche parfum des roses embaumait l’atelier et quand la légère brise d’été remuait les arbres du jardin, il venait, par la porte ouverte, une lourde odeur de lilas ou l’arome plus délicat des aubépines rougissantes.\nDu coin de sofa où il était allongé sur des coussins de cuir persan, et tout en fumant, selon son habitude, d’innombrables cigarettes, lord Henry Wotton apercevait la rayonnante floraison d’un cytise, dont les grappes de miel et les flexibles rameaux semblaient écrasés sous le poids flamboyant de leur propre beauté.",
+    "length": 535,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00128.s1",
+      "p00128.s2",
+      "p00128.s3",
+      "p00128.s4"
+    ],
+    "french": "En entrant, ils virent contre le mur un splendide portrait de leur maître, tel que, la veille encore, ils l’avaient vu lui-même, dans tout l’éclat de sa jeunesse exquise et de sa merveilleuse beauté. Sur le parquet, un homme en habit de soirée gisait, un couteau dans le cœur. Son visage était flétri, ridé, repoussant. Ce ne fut qu’à l’examen de ses bagues qu’ils reconnurent ce mort.",
+    "original": "En entrant, ils virent contre le mur un splendide portrait de leur maître, tel que, la veille encore, ils l’avaient vu lui-même, dans tout l’éclat de sa jeunesse exquise et de sa merveilleuse beauté. Sur le parquet, un homme en habit de soirée gisait, un couteau dans le cœur. Son visage était flétri, ridé, repoussant. Ce ne fut qu’à l’examen de ses bagues qu’ils reconnurent ce mort.",
+    "length": 385,
+    "truncated": false
+  }
+}

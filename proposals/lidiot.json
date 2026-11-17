@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "lidiot",
+  "title": "L'Idiot",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1887,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Victor Derély, 1887)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Idiot, traduction de Victor Derély, Plon, Paris, 1887 (pages Wikisource « L’Idiot/I/Chapitre 1 » et « L’Idiot/IV/Chapitre 12 »)",
+    "pages": [
+      {
+        "title": "L’Idiot/I/Chapitre 1",
+        "revisionId": 5672024
+      },
+      {
+        "title": "L’Idiot/IV/Chapitre 12",
+        "revisionId": 3078317
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "5da57110fb422b9905e80af4233b01031465324262c2e7751ff5269b02ff3ac8"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "C’était à la fin de novembre ; par un temps de dégel, humide et brumeux, le train de Varsovie arrivait à toute vapeur à Pétersbourg. Le brouillard était tel qu’à neuf heures du matin on voyait à peine clair ; à droite et à gauche de la voie ferrée il était difficile d’apercevoir quelque chose par les fenêtres du wagon.",
+    "original": "C’était à la fin de novembre ; par un temps de dégel, humide et brumeux, le train de Varsovie arrivait à toute vapeur à Pétersbourg. Le brouillard était tel qu’à neuf heures du matin on voyait à peine clair ; à droite et à gauche de la voie ferrée il était difficile d’apercevoir quelque chose par les fenêtres du wagon.",
+    "length": 320,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00096.s34",
+      "p00096.s35"
+    ],
+    "french": "« Assez d’entrainements, il est temps d’écouter la raison. Et tout cela, tout cet Occident, toute votre Europe, ce n’est que de la fantaisie, et nous tous, à l’étranger, nous ne sommes que fantaisie… souvenez-vous de ce que je vous dis, vous le verrez vous-même ! » acheva-t-elle d’un ton presque irrité en prenant congé d’Eugène Pavlovitch.",
+    "original": "« Assez d’entrainements, il est temps d’écouter la raison. Et tout cela, tout cet Occident, toute votre Europe, ce n’est que de la fantaisie, et nous tous, à l’étranger, nous ne sommes que fantaisie… souvenez-vous de ce que je vous dis, vous le verrez vous-même ! » acheva-t-elle d’un ton presque irrité en prenant congé d’Eugène Pavlovitch.",
+    "length": 341,
+    "truncated": false
+  }
+}

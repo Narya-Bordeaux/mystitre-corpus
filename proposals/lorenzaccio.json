@@ -1,0 +1,63 @@
+{
+  "formatVersion": 1,
+  "bookId": "lorenzaccio",
+  "title": "Lorenzaccio",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (pages Wikisource « Lorenzaccio/Acte I » à « Acte V », révision 5825647 du sommaire)",
+    "pages": [
+      {
+        "title": "Lorenzaccio/Acte I",
+        "revisionId": 5025835
+      },
+      {
+        "title": "Lorenzaccio/Acte II",
+        "revisionId": 5027584
+      },
+      {
+        "title": "Lorenzaccio/Acte III",
+        "revisionId": 5028256
+      },
+      {
+        "title": "Lorenzaccio/Acte IV",
+        "revisionId": 5028465
+      },
+      {
+        "title": "Lorenzaccio/Acte V",
+        "revisionId": 5033339
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "f6df372d8fe6499369b7c02830e1357b56dc37a81414cb27f757a9dc30ffa3fa"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00006.s1",
+      "p00007.s1",
+      "p00008.s1"
+    ],
+    "french": "LE DUC. — Qu’elle se fasse attendre encore un quart d’heure, et je m’en vais. Il fait un froid de tous les diables.\nLORENZO. — Patience, Altesse, patience.\nLE DUC. — Elle devait sortir de chez sa mère à minuit ; il est minuit, et elle ne vient pourtant pas.\nLORENZO. — Si elle ne vient pas, dites que je suis un sot, et que la vieille mère est une honnête femme.",
+    "original": "LE DUC. — Qu’elle se fasse attendre encore un quart d’heure, et je m’en vais. Il fait un froid de tous les diables.\nLORENZO. — Patience, Altesse, patience.\nLE DUC. — Elle devait sortir de chez sa mère à minuit ; il est minuit, et elle ne vient pourtant pas.\nLORENZO. — Si elle ne vient pas, dites que je suis un sot, et que la vieille mère est une honnête femme.",
+    "length": 362,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01657.s1"
+    ],
+    "french": "CÔME. — …« Le remercîment que je veux faire à Vos très illustres et très gracieuses Seigneuries, pour le bienfait si haut que je leur dois, n’est pas autre que l’engagement qui m’est bien doux, à moi si jeune comme je suis, d’avoir toujours devant les yeux, en même temps que la crainte de Dieu, l’honnêteté et la justice, et le dessein de n’offenser personne, ni dans les biens ni dans l’honneur, et, quant au gouvernement des affaires, de ne jamais m’écarter du conseil et du jugement des très prudentes et très judicieuses Seigneuries auxquelles je m’offre en tout, et recommande bien dévotement. »",
+    "original": "CÔME. — « Très nobles et très puissants seigneurs,\n« Le remercîment que je veux faire à Vos très illustres et très gracieuses Seigneuries, pour le bienfait si haut que je leur dois, n’est pas autre que l’engagement qui m’est bien doux, à moi si jeune comme je suis, d’avoir toujours devant les yeux, en même temps que la crainte de Dieu, l’honnêteté et la justice, et le dessein de n’offenser personne, ni dans les biens ni dans l’honneur, et, quant au gouvernement des affaires, de ne jamais m’écarter du conseil et du jugement des très prudentes et très judicieuses Seigneuries auxquelles je m’offre en tout, et recommande bien dévotement. »",
+    "length": 600,
+    "truncated": true
+  }
+}

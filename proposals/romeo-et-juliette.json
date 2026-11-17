@@ -1,0 +1,132 @@
+{
+  "formatVersion": 1,
+  "bookId": "romeo-et-juliette",
+  "title": "Roméo et Juliette",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Romeo and Juliet, The Yale Shakespeare (1917), page « Romeo and Juliet (1917) Yale » d'en.wikisource ; seuls le prologue, l'acte I et l'acte V sont téléchargés (extraits d'ouverture et de clôture)",
+    "pages": [
+      {
+        "title": "Romeo and Juliet (1917) Yale/Text/Prologue",
+        "revisionId": 12101969
+      },
+      {
+        "title": "Romeo and Juliet (1917) Yale/Text/Act I",
+        "revisionId": 12109019
+      },
+      {
+        "title": "Romeo and Juliet (1917) Yale/Text/Act V",
+        "revisionId": 12120327
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "da8a3f92a866f74ec1d44f0045055b77bf7816114a0b4a62fb27dc1650fb710c"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "Chor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "foes 5",
+      "replace": "foes",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "stage; 12",
+      "replace": "stage;",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00417",
+      "find": "Cap. ",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00417",
+      "find": "enmity! 304",
+      "replace": "enmity!",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00418",
+      "find": "Prince. ",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00418",
+      "find": "woe 309",
+      "replace": "woe",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00418",
+      "find": " Exeunt omnes.",
+      "replace": "",
+      "reason": "Édition sans balisage des locuteurs : nom abrégé, numéros de vers et didascalie laissés dans le texte ; nettoyage déclaré, locuteur noté à la traduction"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00003",
+      "name": "CHORUS",
+      "reason": "Édition Yale sans balisage des locuteurs : personnage rétabli d'après le nom abrégé retiré (« Chor. »)"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00417",
+      "name": "CAPULET",
+      "reason": "Édition Yale sans balisage des locuteurs : personnage rétabli d'après le nom abrégé retiré (« Cap. »)"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00418",
+      "name": "PRINCE",
+      "reason": "Édition Yale sans balisage des locuteurs : personnage rétabli d'après le nom abrégé retiré (« Prince. »)"
+    }
+  ],
+  "reviewFlags": [
+    "p00418 : remplacement ample (14 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "LE CHŒUR. — Deux maisons, de même rang et de même dignité,\nDans la belle Vérone, où se place notre scène,\nD’une antique rancune passent à de nouvelles violences,\nOù le sang des citoyens souille les mains des citoyens.\nDes flancs fatals de ces deux ennemies\nUn couple d’amants nés sous une mauvaise étoile prend la vie ;\nLeurs malheurs pitoyables, issus de l’infortune,\nEnterrent par leur mort la querelle de leurs parents.",
+    "original": "CHORUS. — Two households, both alike in dignity,\nIn fair Verona, where we lay our scene,\nFrom ancient grudge break to new mutiny,\nWhere civil blood makes civil hands unclean.\nFrom forth the fatal loins of these two foes\nA pair of star-cross'd lovers take their life;\nWhose misadventur'd piteous overthrows\nDo with their death bury their parents' strife.",
+    "length": 422,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00417.s1",
+      "p00418.s1"
+    ],
+    "french": "CAPULET. — Aussi riche sera Roméo couché près de sa dame ;\nPauvres victimes de notre inimitié !\nLE PRINCE. — Une paix sombre nous apporte ce matin ;\nLe soleil, de chagrin, ne veut pas montrer sa face :\nSortons, pour parler davantage de ces tristes choses :\nCertains seront graciés, certains seront punis ;\nCar jamais histoire ne fut plus douloureuse\nQue celle de Juliette et de son Roméo.",
+    "original": "CAPULET. — As rich shall Romeo by his lady lie;\nPoor sacrifices of our enmity!\nPRINCE. — A glooming peace this morning with it brings;\nThe sun, for sorrow, will not show his head:\nGo hence, to have more talk of these sad things:\nSome shall be pardon'd, and some punished:\nFor never was a story of more woe\nThan this of Juliet and her Romeo.",
+    "length": 388,
+    "truncated": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-horla",
+  "title": "Le Horla",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Horla (version de 1887), dans le recueil Le Horla, éd. Ollendorff, 1895 (Wikisource)",
+    "pages": [
+      {
+        "title": "Le Horla (recueil, Ollendorff 1895)/Le Horla",
+        "revisionId": 7351458
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a84db1d038a332aae4bf9238ae3ab1ff0dc6745d3b335e1e256c06c30d13708a"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3",
+      "p00003.s4"
+    ],
+    "french": "8 mai. — Quelle journée admirable ! J’ai passé toute la matinée étendu sur l’herbe, devant ma maison, sous l’énorme platane qui la couvre, l’abrite et l’ombrage tout entière. J’aime ce pays, et j’aime y vivre parce que j’y ai mes racines, ces profondes et délicates racines, qui attachent un homme à la terre où sont nés et morts ses aïeux, qui l’attachent à ce qu’on pense et à ce qu’on mange, aux usages comme aux nourritures, aux locutions locales, aux intonations des paysans, aux odeurs du sol, des villages et de l’air lui-même.",
+    "original": "8 mai. — Quelle journée admirable ! J’ai passé toute la matinée étendu sur l’herbe, devant ma maison, sous l’énorme platane qui la couvre, l’abrite et l’ombrage tout entière. J’aime ce pays, et j’aime y vivre parce que j’y ai mes racines, ces profondes et délicates racines, qui attachent un homme à la terre où sont nés et morts ses aïeux, qui l’attachent à ce qu’on pense et à ce qu’on mange, aux usages comme aux nourritures, aux locutions locales, aux intonations des paysans, aux odeurs du sol, des villages et de l’air lui-même.",
+    "length": 534,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00231.s3",
+      "p00232.s1",
+      "p00232.s2"
+    ],
+    "french": "— Après celui qui peut mourir tous les jours, à toutes les heures, à toutes les minutes, par tous les accidents, est venu celui qui ne doit mourir qu’à son jour, à son heure, à sa minute, parce qu’il a touché la limite de son existence !\nNon… non… sans aucun doute, sans aucun doute… il n’est pas mort… Alors… alors… il va donc falloir que je me tue, moi !…",
+    "original": "— Après celui qui peut mourir tous les jours, à toutes les heures, à toutes les minutes, par tous les accidents, est venu celui qui ne doit mourir qu’à son jour, à son heure, à sa minute, parce qu’il a touché la limite de son existence !\nNon… non… sans aucun doute, sans aucun doute… il n’est pas mort… Alors… alors… il va donc falloir que je me tue, moi !…",
+    "length": 357,
+    "truncated": false
+  }
+}

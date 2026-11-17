@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "ali-baba",
+  "title": "Ali Baba et les quarante voleurs",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Antoine Galland, 1806)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Mille et Une Nuits, tome VI, Le Normant, 1806 (tomes I à VII traduits par Antoine Galland), d'après Wikisource",
+    "pages": [
+      {
+        "title": "Les Mille et Une Nuits/Histoire d’Ali Baba",
+        "revisionId": 13692295
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "0f1f901bdfc98dc144be4c048345c8cc51730ea0db4bc27f7b319a5aa2f53d21"
+  },
+  "titleMasks": [
+    "Ali Baba"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Puissant sultan, dit-elle, dans une ville de Perse, aux confins des états de votre Majesté, il y avoit deux frères, dont l’un se nommoit Cassim, et l’autre [TITRE]. Comme leur père ne leur avoit laissé que peu de biens, et qu’ils les avoient partagés également, il semble que leur fortune devoit être égale : le hasard néanmoins en disposa autrement.",
+    "original": "Puissant sultan, dit-elle, dans une ville de Perse, aux confins des états de votre Majesté, il y avoit deux frères, dont l’un se nommoit Cassim, et l’autre Ali Baba. Comme leur père ne leur avoit laissé que peu de biens, et qu’ils les avoient partagés également, il semble que leur fortune devoit être égale : le hasard néanmoins en disposa autrement.",
+    "length": 351,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00213.s1"
+    ],
+    "french": "Depuis ce temps-là, [TITRE], son fils qu’il mena à la grotte, et à qui il enseigna le secret pour y entrer, et après eux leur postérité à laquelle ils firent passer le même secret, en profitant de leur fortune avec modération, vécurent dans une grande splendeur, et honorés des premières dignités de la ville.",
+    "original": "Depuis ce temps-là, Ali Baba, son fils qu’il mena à la grotte, et à qui il enseigna le secret pour y entrer, et après eux leur postérité à laquelle ils firent passer le même secret, en profitant de leur fortune avec modération, vécurent dans une grande splendeur, et honorés des premières dignités de la ville.",
+    "length": 310,
+    "truncated": false
+  }
+}

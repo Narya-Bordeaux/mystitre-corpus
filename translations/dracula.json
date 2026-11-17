@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "dracula",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "c2c854c02c3804638fd824c91c70be2d0a94218da001a4a12a5a7c547706bdfc",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00005.s1",
+      "original": "3 May.",
+      "translation": "3 mai."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "Bistritz.—Left Munich at 8:35 p. m., on 1st May, arriving at Vienna early next morning; should have arrived at 6:46, but train was an hour late.",
+      "translation": "Bistritz. — Quitté Munich à 20 h 35, le 1er mai, arrivé à Vienne tôt le lendemain matin ; j'aurais dû arriver à 6 h 46, mais le train avait une heure de retard."
+    },
+    {
+      "id": "p00005.s3",
+      "original": "Buda-Pesth seems a wonderful place, from the glimpse which I got of it from the train and the little I could walk through the streets.",
+      "translation": "Budapest semble une ville merveilleuse, d'après le coup d'œil que j'en ai eu depuis le train et le peu que j'ai pu parcourir de ses rues."
+    },
+    {
+      "id": "p00005.s4",
+      "original": "I feared to go very far from the station, as we arrived late and would start as near the correct time as possible.",
+      "translation": "Je craignais de trop m'éloigner de la gare, car nous étions arrivés en retard et devions repartir le plus près possible de l'heure prévue."
+    },
+    {
+      "id": "p00005.s5",
+      "original": "The impression I had was that we were leaving the West and entering the East; the most western of splendid bridges over the Danube, which is here of noble width and depth, took us among the traditions of Turkish rule.",
+      "translation": "L'impression que j'eus fut que nous quittions l'Occident pour entrer en Orient ; le plus occidental des splendides ponts sur le Danube, qui est ici d'une largeur et d'une profondeur nobles, nous fit entrer parmi les traditions de la domination turque."
+    },
+    {
+      "id": "p00006.s1",
+      "original": "We left in pretty good time, and came after nightfall to Klausenburgh.",
+      "translation": "Nous partîmes d'assez bonne heure et arrivâmes à Klausenbourg après la tombée de la nuit."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00114.s3",
+      "original": "We were struck with the fact, that in all the mass of material of which the record is composed, there is hardly one authentic document; nothing but a mass of typewriting, except the later note-books of Mina and Seward and myself, and Van Helsing's memorandum.",
+      "translation": "Nous fûmes frappés par le fait que, dans toute cette masse de matériaux dont le récit est composé, il n'y a presque pas un seul document authentique ; rien qu'un amas de textes dactylographiés, hormis les derniers carnets de Mina, de Seward et de moi-même, et le mémorandum de Van Helsing."
+    },
+    {
+      "id": "p00114.s4",
+      "original": "We could hardly ask any one, even did we wish to, to accept these as proofs of so wild a story.",
+      "translation": "Nous pouvions difficilement demander à qui que ce soit, même l'eussions-nous voulu, de les accepter comme preuves d'une histoire si extravagante."
+    },
+    {
+      "id": "p00114.s5",
+      "original": "Van Helsing summed it all up as he said, with our boy on his knee:—\n\"We want no proofs; we ask none to believe us!",
+      "translation": "Van Helsing résuma tout cela en disant, notre garçon sur les genoux :\n« Nous ne voulons pas de preuves ; nous ne demandons à personne de nous croire !"
+    },
+    {
+      "id": "p00115.s1",
+      "original": "This boy will some day know what a brave and gallant woman his mother is.",
+      "translation": "Ce garçon saura un jour quelle femme brave et vaillante est sa mère."
+    },
+    {
+      "id": "p00115.s2",
+      "original": "Already he knows her sweetness and loving care; later on he will understand how some men so loved her, that they did dare much for her sake.\"",
+      "translation": "Dès à présent il connaît sa douceur et ses soins affectueux ; plus tard il comprendra comment certains hommes l'ont tant aimée qu'ils ont beaucoup osé pour elle. »"
+    },
+    {
+      "id": "p00116.s1",
+      "original": "Jonathan Harker.",
+      "translation": "Jonathan Harker."
+    }
+  ]
+}

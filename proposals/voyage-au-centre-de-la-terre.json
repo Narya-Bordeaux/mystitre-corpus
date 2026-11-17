@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "voyage-au-centre-de-la-terre",
+  "title": "Voyage au centre de la Terre",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource fr, « Voyage au centre de la Terre » (chapitre 1 et chapitre 45) ; édition source non indiquée ici",
+    "pages": [
+      {
+        "title": "Voyage au centre de la Terre/Chapitre 1",
+        "revisionId": 3573351
+      },
+      {
+        "title": "Voyage au centre de la Terre/Chapitre 45",
+        "revisionId": 3282876
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "05ad5164eb3ea354882dfd5104beb87154c88bd36c8003585b2e2eb128d9c4a6"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "Le 24 mai 1863, un dimanche, mon oncle, le professeur Lidenbrock, revint précipitamment vers sa petite maison située au numéro 19 de Königstrasse, l’une des plus anciennes rues du vieux quartier de Hambourg.\nLa bonne Marthe dut se croire fort en retard, car le dîner commençait à peine à chanter sur le fourneau de la cuisine.",
+    "original": "Le 24 mai 1863, un dimanche, mon oncle, le professeur Lidenbrock, revint précipitamment vers sa petite maison située au numéro 19 de Königstrasse, l’une des plus anciennes rues du vieux quartier de Hambourg.\nLa bonne Marthe dut se croire fort en retard, car le dîner commençait à peine à chanter sur le fourneau de la cuisine.",
+    "length": 326,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00072.s1",
+      "p00072.s2"
+    ],
+    "french": "À partir de ce jour, mon oncle fut le plus heureux des savants, et moi le plus heureux des hommes, car ma jolie Virlandaise, abdiquant sa position de pupille, prit rang dans la maison de König-strasse en la double qualité de nièce et d’épouse. Inutile d’ajouter que son oncle fut l’illustre professeur Otto Lidenbrock, membre correspondant de toutes les sociétés scientifiques, géographiques et minéralogiques des cinq parties du monde.",
+    "original": "À partir de ce jour, mon oncle fut le plus heureux des savants, et moi le plus heureux des hommes, car ma jolie Virlandaise, abdiquant sa position de pupille, prit rang dans la maison de König-strasse en la double qualité de nièce et d’épouse. Inutile d’ajouter que son oncle fut l’illustre professeur Otto Lidenbrock, membre correspondant de toutes les sociétés scientifiques, géographiques et minéralogiques des cinq parties du monde.",
+    "length": 436,
+    "truncated": false
+  }
+}

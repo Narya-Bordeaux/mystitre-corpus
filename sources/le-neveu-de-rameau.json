@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-neveu-de-rameau",
+  "title": "Le Neveu de Rameau",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, « Le Neveu de Rameau (édition Assézat) », page Texte",
+  "pages": [
+    {
+      "title": "Le Neveu de Rameau (édition Assézat)/Texte",
+      "revisionId": 4641819
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "9380f95c8026e1365a262e5a6cdd7677b11e37ba6cce328a45d487bb2f801bc9",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Qu’il fasse beau, qu’il fasse laid, c’est mon habitude d’all"
+  },
+  "bodyEnd": {
+    "id": "p01129",
+    "textPrefix": "Que j’aie ce malheur-là encore seulement une quarantaine d’a"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre (p00001). Le texte de la page commence directement sur le récit, sans épigraphe ni notice. Les noms d'interlocuteurs « moi. » / « lui. » sont des blocs centrés de dialogue (lecture centeredSpeakers). Aucun paratexte final."
+  ],
+  "titleMasks": [],
+  "readingOptions": [
+    "centeredSpeakers"
+  ]
+}

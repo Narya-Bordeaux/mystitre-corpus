@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-horla",
+  "title": "Le Horla",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Horla (version de 1887), dans le recueil Le Horla, éd. Ollendorff, 1895 (Wikisource)",
+  "pages": [
+    {
+      "title": "Le Horla (recueil, Ollendorff 1895)/Le Horla",
+      "revisionId": 7351458
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a84db1d038a332aae4bf9238ae3ab1ff0dc6745d3b335e1e256c06c30d13708a",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "8 mai. — Quelle journée admirable ! J’ai passé toute la mati"
+  },
+  "bodyEnd": {
+    "id": "p00232",
+    "textPrefix": "Non… non… sans aucun doute, sans aucun doute… il n’est pas m"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre « LE HORLA » et lignes de points d'ornement (p00002 et p00233). Le journal commence à « 8 mai. — » (date gardée, elle fait partie du texte) et finit sur « …que je me tue, moi !… »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

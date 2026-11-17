@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "crime-et-chatiment",
+  "title": "Crime et châtiment",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1884,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Victor Derély, 1884)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Crime et Châtiment, traduction de Victor Derély, Plon, Paris, 1884 (pages Wikisource « Crime et Châtiment/I/1 » et « Crime et Châtiment/Épilogue/2 »)",
+    "pages": [
+      {
+        "title": "Crime et Châtiment/I/1",
+        "revisionId": 4082048
+      },
+      {
+        "title": "Crime et Châtiment/Épilogue/2",
+        "revisionId": 5669087
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d2901848b18e44bd1fcd10bf094631fe366a72fb07983064dbcaf959aeb982de"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1"
+    ],
+    "french": "Au commencement de juillet, par une soirée excessivement chaude, un jeune homme sortit de la petite chambre meublée qu’il occupait sous le toit d’une grande maison de cinq étages, dans le péréoulok S…, et, lentement, d’un air irrésolu, il se dirigea vers le pont de K…\nDans l’escalier, il eut la chance de ne pas rencontrer sa logeuse.",
+    "original": "Au commencement de juillet, par une soirée excessivement chaude, un jeune homme sortit de la petite chambre meublée qu’il occupait sous le toit d’une grande maison de cinq étages, dans le péréoulok S…, et, lentement, d’un air irrésolu, il se dirigea vers le pont de K…\nDans l’escalier, il eut la chance de ne pas rencontrer sa logeuse.",
+    "length": 335,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00097.s5",
+      "p00098.s1",
+      "p00098.s2"
+    ],
+    "french": "Raskolnikoff ignorait que la nouvelle vie ne lui serait pas donnée pour rien, et qu’il aurait à l’acquérir au prix de longs et pénibles efforts.\nMais ici commence une seconde histoire, l’histoire de la lente rénovation d’un homme, de sa régénération progressive, de son passage graduel d’un monde à un autre. Ce pourrait être la matière d’un nouveau récit, — celui que nous avons voulu offrir au lecteur est terminé.",
+    "original": "Raskolnikoff ignorait que la nouvelle vie ne lui serait pas donnée pour rien, et qu’il aurait à l’acquérir au prix de longs et pénibles efforts.\nMais ici commence une seconde histoire, l’histoire de la lente rénovation d’un homme, de sa régénération progressive, de son passage graduel d’un monde à un autre. Ce pourrait être la matière d’un nouveau récit, — celui que nous avons voulu offrir au lecteur est terminé.",
+    "length": 416,
+    "truncated": false
+  }
+}

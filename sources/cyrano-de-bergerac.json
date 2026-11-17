@@ -1,0 +1,61 @@
+{
+  "formatVersion": 1,
+  "bookId": "cyrano-de-bergerac",
+  "title": "Cyrano de Bergerac",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (page Wikisource « Cyrano de Bergerac (Rostand)/Texte entier »)",
+  "pages": [
+    {
+      "title": "Cyrano de Bergerac (Rostand)/Texte entier",
+      "revisionId": 16244371
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6cf0de9ce947c62921f6a4235041bb66a87be33aa112644da312c2c54a672ce4",
+  "bodyStart": {
+    "id": "p00035",
+    "textPrefix": "Holà ! vos quinze sols !"
+  },
+  "bodyEnd": {
+    "id": "p03977",
+    "textPrefix": "Mon panache."
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre, dédicace à Coquelin, liste des personnages, indications de lieu et titres d'acte, « RIDEAU ». Le texte commence à la première réplique (le Portier) et finit sur « Mon panache. »"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00039",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p03973",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p03974",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p03976",
+      "reason": "Didascalie de mise en scène (le nom du personnage a été perdu à la numérisation, il ne reste que « , à un autre cavalier… »), pas du texte dit ; exclue pour garder des répliques lisibles."
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00044",
+      "reason": "Didascalie orpheline (nom du personnage perdu à la numérisation : « , au deuxième. »), pas du texte dit."
+    }
+  ]
+}

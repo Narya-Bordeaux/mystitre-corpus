@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "lile-au-tresor",
+  "title": "L'Île au trésor",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "L’Île au trésor, trad. Théo Varlet (Deodat Serval), Paris, Nelson, 1926 (Wikisource, textes validés), chapitres I et XXXIV",
+  "pages": [
+    {
+      "title": "L’Île au trésor (trad. Varlet)/Chapitre 1",
+      "revisionId": 14806090
+    },
+    {
+      "title": "L’Île au trésor (trad. Varlet)/Chapitre 34",
+      "revisionId": 14806156
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a97be5bc46123f954e4e715819edb56c704e44a8e6681382eaff3d658234ec65",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "C’est sur les instances de M. le chevalier Trelawney, du doc"
+  },
+  "bodyEnd": {
+    "id": "p00060",
+    "textPrefix": "– Pièces de huit ! pièces de huit !"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Théo Varlet",
+    "translationYear": 1926,
+    "translatorDeathYear": 1938,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Théo_Varlet&oldid=12731556",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de partie et de chapitre. Deux bouts seulement (chapitres I et XXXIV). La clôture se termine sur le cri du perroquet, au dernier paragraphe."
+  ],
+  "titleMasks": [
+    "île au trésor"
+  ],
+  "readingOptions": []
+}

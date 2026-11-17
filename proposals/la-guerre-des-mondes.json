@@ -1,0 +1,60 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-guerre-des-mondes",
+  "title": "La Guerre des mondes",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Henry D. Davray",
+    "translationYear": 1906,
+    "translatorDeathYear": 1944,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Henry-David_Davray&oldid=13194742",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Henry D. Davray, 1906)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Éd. Vandamme & Co, Jette-Bruxelles, MCMVI, traduit de l'anglais par Henry D. Davray, illustrations d'Alvim-Corrêa (d'après Wikisource)",
+    "pages": [
+      {
+        "title": "La Guerre des mondes (Éd. Vandamme)/01",
+        "revisionId": 15967029
+      },
+      {
+        "title": "La Guerre des mondes (Éd. Vandamme)/27",
+        "revisionId": 16004014
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "957a807383bb2770f09c286dd7a306a57c6b1af323f1d2343374f3deeb6b5f59"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "join",
+      "paragraphId": "p00036",
+      "reason": "Paragraphe coupé en deux par un saut de page de l'édition (« …de voir » / « les gens se promener… »)"
+    }
+  ],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1"
+    ],
+    "french": "Personne n’aurait cru dans les dernières années du dix-neuvième siècle, que les choses humaines fussent observées, de la façon la plus pénétrante et la plus attentive, par des intelligences supérieures aux intelligences humaines et cependant mortelles comme elles ; que tandis que les hommes s’absorbaient dans leurs occupations, ils étaient examinés et étudiés d’aussi près peut-être qu’un savant peut étudier avec un microscope les créatures transitoires qui pullulent et se multiplient dans une goutte d’eau.",
+    "original": "Personne n’aurait cru dans les dernières années du dix-neuvième siècle, que les choses humaines fussent observées, de la façon la plus pénétrante et la plus attentive, par des intelligences supérieures aux intelligences humaines et cependant mortelles comme elles ; que tandis que les hommes s’absorbaient dans leurs occupations, ils étaient examinés et étudiés d’aussi près peut-être qu’un savant peut étudier avec un microscope les créatures transitoires qui pullulent et se multiplient dans une goutte d’eau.",
+    "length": 511,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00036.s2",
+      "p00038.s1"
+    ],
+    "french": "…travers un voile de fumée et de brume, disparaissant au loin dans Le ciel bas et sombre, de voir les gens se promener dans les allées bordées de fleurs, au flanc de la colline, d’observer les curieux venant voir la machine marsienne, qu’on a laissée là encore, d’entendre le tapage des enfants qui jouent, et de me rappeler que je vis tout cela ensoleillé et clair, triste et silencieux, à l’aube de ce dernier grand jour…\nEt le plus étrange de tout, encore, est de penser, tandis que j’ai dans la mienne sa main mignonne, que ma femme m’a compté, et que je l’ai comptée, elle aussi, parmi les morts.",
+    "original": "Il me semble étrange, aussi, de grimper, ce que je fis la veille du jour où j’écrivis ce dernier chapitre, au sommet de Primrose Hill, pour voir l’immense province de maisons, vagues et bleuâtres, à travers un voile de fumée et de brume, disparaissant au loin dans Le ciel bas et sombre, de voir les gens se promener dans les allées bordées de fleurs, au flanc de la colline, d’observer les curieux venant voir la machine marsienne, qu’on a laissée là encore, d’entendre le tapage des enfants qui jouent, et de me rappeler que je vis tout cela ensoleillé et clair, triste et silencieux, à l’aube de ce dernier grand jour…\nEt le plus étrange de tout, encore, est de penser, tandis que j’ai dans la mienne sa main mignonne, que ma femme m’a compté, et que je l’ai comptée, elle aussi, parmi les morts.",
+    "length": 600,
+    "truncated": true
+  }
+}

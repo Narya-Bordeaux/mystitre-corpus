@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lile-mysterieuse",
+  "title": "L'Île mystérieuse",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource fr, « L’Île mystérieuse » (partie 1 chapitre 1 et partie 3 chapitre 20) ; édition source non indiquée ici",
+  "pages": [
+    {
+      "title": "L’Île mystérieuse/Partie 1/Chapitre 1",
+      "revisionId": 11450936
+    },
+    {
+      "title": "L’Île mystérieuse/Partie 3/Chapitre 20",
+      "revisionId": 11451043
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d501d0352fbb4090b9760cbd24443f3a9244b2efc632d697cb317bd5102aeee0",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "« Remontons-nous ?"
+  },
+  "bodyEnd": {
+    "id": "p00128",
+    "textPrefix": "Là, enfin, tous furent heureux, unis dans le présent comme i"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de partie, titres de chapitre, sommaire du chapitre I en italique (p00003, paratexte), mention « fin de la troisième et dernière partie » (p00129)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

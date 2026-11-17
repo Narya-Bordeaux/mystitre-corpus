@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "jekyll-et-hyde",
+  "title": "L’Étrange Cas du docteur Jekyll et de M. Hyde",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Cas étrange du docteur Jekyll, trad. Mme B. J. Lowe, Paris, Plon, 1890 (Wikisource, textes validés), première et dernière parties",
+  "pages": [
+    {
+      "title": "Le Cas étrange du docteur Jekyll/01",
+      "revisionId": 16073057
+    },
+    {
+      "title": "Le Cas étrange du docteur Jekyll/10",
+      "revisionId": 4961203
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "32a4abacb7b92012e610493a223c0992efdeba9ece1004d050180b5ef0dbee1c",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "M. Utterson, l’avocat, était un homme de rude apparence ; so"
+  },
+  "bodyEnd": {
+    "id": "p00066",
+    "textPrefix": "Voilà huit jours de passés et je finis ce compte-rendu sous "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Madame B. J. Lowe",
+    "translationYear": 1890,
+    "translatorDeathYear": 1909,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Berthe_Julienne_Low&oldid=11895220",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de chapitre. Deux bouts seulement : chapitre I (Histoire de la porte) et dernier chapitre (Exposé complet de Henry Jekyll)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

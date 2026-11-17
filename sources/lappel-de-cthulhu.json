@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "lappel-de-cthulhu",
+  "title": "L'Appel de Cthulhu",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Weird Tales, vol. 11, n° 2 (page de Wikisource « Weird Tales/Volume 11/Issue 2/The Call of Cthulhu »), édition non indiquée en détail",
+  "pages": [
+    {
+      "title": "Weird Tales/Volume 11/Issue 2/The Call of Cthulhu",
+      "revisionId": 15451085
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8c4a2882031ba104d1c83dadfa32a42fb1cb87a96b00aaa6d106a1c9b61d0a06",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "The most merciful thing in the world, I think, is the inabil"
+  },
+  "bodyEnd": {
+    "id": "p00111",
+    "textPrefix": "Cthulhu still lives, too, I suppose, again in that chasm of "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Exclus : épigraphe de Blackwood, sous-titre « Found among the papers… » (donné comme un intertitre, à discuter), intertitre de section, mentions de licence Wikisource. Fin : dernier paragraphe du récit."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

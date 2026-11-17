@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "illusions-perdues",
+  "title": "Illusions perdues",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Illusions perdues, Wikisource (parties « Les Deux Poètes » et « Ève et David », les deux bouts ; édition non indiquée)",
+    "pages": [
+      {
+        "title": "Illusions perdues/Les Deux Poètes",
+        "revisionId": 13446160
+      },
+      {
+        "title": "Illusions perdues/Ève et David",
+        "revisionId": 12198315
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "760b4f24dfad2e9cab39a4ff92d57914b9b371311c91a49b8a476e07298d8a1a"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-16",
+  "opening": {
+    "sentenceIds": [
+      "p00008.s1",
+      "p00008.s2"
+    ],
+    "french": "À l’époque où commence cette histoire, la presse de Stanhope et les rouleaux à distribuer l’encre ne fonctionnaient pas encore dans les petites imprimeries de province. Malgré la spécialité qui la met en rapport avec la typographie parisienne, Angoulême se servait toujours des presses en bois, auxquelles la langue est redevable du mot faire gémir la presse, maintenant sans application.",
+    "original": "À l’époque où commence cette histoire, la presse de Stanhope et les rouleaux à distribuer l’encre ne fonctionnaient pas encore dans les petites imprimeries de province. Malgré la spécialité qui la met en rapport avec la typographie parisienne, Angoulême se servait toujours des presses en bois, auxquelles la langue est redevable du mot faire gémir la presse, maintenant sans application.",
+    "length": 388,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01699.s5",
+      "p01699.s6",
+      "p01699.s7"
+    ],
+    "french": "Ses besoins renaissants l’ont conduit à devenir prête-nom dans une affaire de mines en commandite, dont les faits et gestes, le prospectus et les dividendes anticipés lui ont mérité une condamnation à deux ans de prison en police correctionnelle. Il a fait paraître une justification dans laquelle il attribue ce résultat à des animosités politiques. Il se dit persécuté par les républicains.",
+    "original": "Ses besoins renaissants l’ont conduit à devenir prête-nom dans une affaire de mines en commandite, dont les faits et gestes, le prospectus et les dividendes anticipés lui ont mérité une condamnation à deux ans de prison en police correctionnelle. Il a fait paraître une justification dans laquelle il attribue ce résultat à des animosités politiques. Il se dit persécuté par les républicains.",
+    "length": 392,
+    "truncated": false
+  }
+}

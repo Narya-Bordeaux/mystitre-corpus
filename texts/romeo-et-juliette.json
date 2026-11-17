@@ -1,0 +1,4519 @@
+{
+  "formatVersion": 1,
+  "bookId": "romeo-et-juliette",
+  "sha256": "da8a3f92a866f74ec1d44f0045055b77bf7816114a0b4a62fb27dc1650fb710c",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "PROLOGUE"
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "[Enter Chorus.]"
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Chor. Two households, both alike in dignity,",
+        "In fair Verona, where we lay our scene,",
+        "From ancient grudge break to new mutiny,",
+        "Where civil blood makes civil hands unclean.",
+        "From forth the fatal loins of these two foes 5",
+        "A pair of star-cross'd lovers take their life;",
+        "Whose misadventur'd piteous overthrows",
+        "Do with their death bury their parents' strife.",
+        "The fearful passage of their death-mark'd love,",
+        "And the continuance of their parents' rage,",
+        "Which, but their children's end, nought could remove,",
+        "Is now the two hours' traffic of our stage; 12",
+        "The which if you with patient ears attend,",
+        "What here shall miss, our toil shall strive to mend."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "[Exit.]"
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Footnotes to the Prologue"
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "1 Chorus; cf. n.",
+        "3 mutiny: contention",
+        "4 civil: of citizens",
+        "6 star-cross'd: thwarted by destiny; cf. n.",
+        "9 passage: course",
+        "12 traffic: business",
+        "14 miss: be wanting"
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "ACT FIRST"
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene One"
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[Verona. A Public Place]"
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Sampson and Gregory, with swords and bucklers, of the House of Capulet."
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Gregory, o' my word, we'll not carry",
+        "coals."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. No, for then we should be colliers."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. I mean, an we be in choler, we'll draw."
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. Ay, while you live, draw your neck out",
+        "o' the collar. 6"
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. I strike quickly, being moved."
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. But thou art not quickly moved to strike."
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. A dog of the house of Montague moves",
+        "me. 10"
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. To move is to stir, and to be valiant is",
+        "to stand; therefore, if thou art moved, thou",
+        "runnest away."
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. A dog of that house shall move me to",
+        "stand: I will take the wall of any man or maid",
+        "of Montague's. 16"
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. That shows thee a weak slave; for the",
+        "weakest goes to the wall."
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. 'Tis true; and therefore women, being",
+        "the weaker vessels, are ever thrust to the wall:",
+        "therefore I will push Montague's men from the",
+        "wall, and thrust his maids to the wall."
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. The quarrel is between our masters and",
+        "us their men. 24"
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. 'Tis all one, I will show myself a tyrant:",
+        "when I have fought with the men, I will be cruel",
+        "with the maids; I will cut off their heads."
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. The heads of the maids? 28"
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Ay, the heads of the maids, or their",
+        "maidenheads; take in what sense thou wilt."
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. They must take it in sense that feel it."
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Me they shall feel while I am able to",
+        "stand; and 'tis known I am a pretty piece of",
+        "flesh. 34"
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. 'Tis well thou art not fish; if thou hadst,",
+        "thou hadst been poor John. Draw thy tool; here",
+        "comes two of the house of the Montagues. 37"
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter two other serving-men [Abraham and Balthasar]."
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. My naked weapon is out; quarrel, I",
+        "will back thee."
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. How! turn thy back and run? 40"
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Fear me not."
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. No, marry; I fear thee!"
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Let us take the law of our sides; let",
+        "them begin. 44"
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. I will frown as I pass by, and let them",
+        "take it as they list."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Nay, as they dare. I will bite my",
+        "thumb at them; which is a disgrace to them, if",
+        "they bear it. 49"
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Abr. Do you bite your thumb at us, sir?"
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. I do bite my thumb, sir."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Abr. Do you bite your thumb at us, sir? 52"
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. [Aside to Gregory.] Is the law of our",
+        "side if I say ay?"
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. [Aside to Sampson.] No."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. No, sir, I do not bite my thumb at you,",
+        "sir; but I bite my thumb, sir. 57"
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. Do you quarrel, sir?"
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Abr. Quarrel, sir! no, sir."
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. If you do, sir, I am for you: I serve as",
+        "good a man as you. 61"
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Abr. No better."
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Well, sir."
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Benvolio."
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gre. [Aside to Sampson.] Say, 'better'; here",
+        "comes one of my master's kinsmen. 65"
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Yes, better, sir."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Abr. You lie."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sam. Draw, if you be men. Gregory, re-",
+        "member thy swashing blow. [Fight.]"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Part, fools!",
+        "Put up your swords; you know not what you do."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[Beats down their swords.]"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Tybalt."
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. What! art thou drawn among these heartless hinds? 72",
+        "Turn thee, Benvolio, look upon thy death."
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. I do but keep the peace: put up thy sword,",
+        "Or manage it to part these men with me."
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. What! drawn, and talk of peace? I hate the word, 76",
+        "As I hate hell, all Montagues, and thee.",
+        "Have at thee, coward! Fight."
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter [several persons of both houses, who join the fray; then enter] three or four citizens, with clubs or partisans."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Citizens. Clubs, bills, and partisans! strike! beat them down!",
+        "Down with the Capulets! down with the Montagues! 80"
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter old Capulet in his gown, and his wife."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. What noise is this? Give me my long sword, ho!"
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. A crutch, a crutch! Why call you for a sword?"
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. My sword, I say! Old Montague is come,",
+        "And flourishes his blade in spite of me. 84"
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter old Montague, and his wife."
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mon. Thou villain Capulet! Hold me not; let me go."
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Mon. Thou shalt not stir one foot to seek a foe."
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Prince Escalus, with his train."
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Prin. Rebellious subjects, enemies to peace,",
+        "Profaners of this neighbour-stained steel,— 88",
+        "Will they not hear? What ho! you men, you beasts,",
+        "That quench the fire of your pernicious rage",
+        "With purple fountains issuing from your veins,",
+        "On pain of torture, from those bloody hands 92",
+        "Throw your mis-temper'd weapons to the ground,",
+        "And hear the sentence of your moved prince.",
+        "Three civil brawls, bred of an airy word,",
+        "By thee, old Capulet, and Montague, 96",
+        "Have thrice disturb'd the quiet of our streets,",
+        "And made Verona's ancient citizens",
+        "Cast by their grave beseeming ornaments,",
+        "To wield old partisans, in hands as old, 100",
+        "Canker'd with peace, to part your canker'd hate.",
+        "If ever you disturb our streets again",
+        "Your lives shall pay the forfeit of the peace.",
+        "For this time, all the rest depart away: 104",
+        "You, Capulet, shall go along with me;",
+        "And, Montague, come you this afternoon",
+        "To know our further pleasure in this case,",
+        "To old Free-town, our common judgment-place.",
+        "Once more, on pain of death, all men depart. 109"
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt [all but Montague, Lady Montague, and Benvolio]."
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mon. Who set this ancient quarrel new abroach?",
+        "Speak, nephew, were you by when it began?"
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Here were the servants of your adversary",
+        "And yours close fighting ere I did approach: 113",
+        "I drew to part them; in the instant came",
+        "The fiery Tybalt, with his sword prepar'd,",
+        "Which, as he breath'd defiance to my ears, 116",
+        "He swung about his head, and cut the winds,",
+        "Who, nothing hurt withal, hiss'd him in scorn.",
+        "While we were interchanging thrusts and blows,",
+        "Came more and more, and fought on part and part, 120",
+        "Till the prince came, who parted either part."
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Mon. O! where is Romeo? saw you him to-day?",
+        "Right glad I am he was not at this fray."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Madam, an hour before the worshipp'd sun 124",
+        "Peer'd forth the golden window of the east,",
+        "A troubled mind drave me to walk abroad;",
+        "Where, underneath the grove of sycamore",
+        "That westward rooteth from the city's side, 128",
+        "So early walking did I see your son:",
+        "Towards him I made; but he was ware of me,",
+        "And stole into the covert of the wood:",
+        "I, measuring his affections by my own, 132",
+        "Which then most sought where most might not be found,",
+        "Being one too many by my weary self,",
+        "Pursu'd my humour not pursuing his,",
+        "And gladly shunn'd who gladly fled from me."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mon. Many a morning hath he there been seen, 136",
+        "With tears augmenting the fresh morning's dew,",
+        "Adding to clouds more clouds with his deep sighs:",
+        "But all so soon as the all-cheering sun",
+        "Should in the furthest east begin to draw 140",
+        "The shady curtains from Aurora's bed,",
+        "Away from light steals home my heavy son,",
+        "And private in his chamber pens himself,",
+        "Shuts up his windows, locks fair daylight out,",
+        "And makes himself an artificial night. 145",
+        "Black and portentous must this humour prove",
+        "Unless good counsel may the cause remove."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. My noble uncle, do you know the cause?"
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mon. I neither know it nor can learn of him."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Have you importun'd him by any means?"
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mon. Both by myself and many other friends:",
+        "But he, his own affections' counsellor, 152",
+        "Is to himself, I will not say how true,",
+        "But to himself so secret and so close,",
+        "So far from sounding and discovery,",
+        "As is the bud bit with an envious worm, 156",
+        "Ere he can spread his sweet leaves to the air,",
+        "Or dedicate his beauty to the sun.",
+        "Could we but learn from whence his sorrows grow,",
+        "We would as willingly give cure as know. 160"
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Romeo."
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. See where he comes: so please you, step aside;",
+        "I'll know his grievance, or be much denied."
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mon. I would thou wert so happy by thy stay,",
+        "To hear true shrift. Come, madam, let's away."
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt [Montague and Lady]."
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Good morrow, cousin."
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Is the day so young? 165"
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. But new struck nine."
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Ay me! sad hours seem long.",
+        "Was that my father that went hence so fast?"
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. It was. What sadness lengthens Romeo's hours? 168"
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Not having that, which having, makes them short."
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. In love?"
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Out—"
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Of love? 172"
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Out of her favour, where I am in love."
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Alas! that love, so gentle in his view,",
+        "Should be so tyrannous and rough in proof."
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Alas! that love, whose view is muffled still, 176",
+        "Should, without eyes, see pathways to his will.",
+        "Where shall we dine? O me! What fray was here?",
+        "Yet tell me not, for I have heard it all.",
+        "Here's much to do with hate, but more with love: 180",
+        "Why then, O brawling love! O loving hate!",
+        "O any thing! of nothing first create.",
+        "O heavy lightness! serious vanity!",
+        "Mis-shapen chaos of well-seeming forms! 184",
+        "Feather of lead, bright smoke, cold fire, sick health!",
+        "Still-waking sleep, that is not what it is!",
+        "This love feel I, that feel no love in this.",
+        "Dost thou not laugh?"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. No, coz, I rather weep. 188"
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Good heart, at what?"
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. At thy good heart's oppression."
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Why, such is love's transgression.",
+        "Griefs of mine own lie heavy in my breast, 192",
+        "Which thou wilt propagate to have it press'd",
+        "With more of thine: this love that thou hast shown",
+        "Doth add more grief to too much of mine own.",
+        "Love is a smoke made with the fume of sighs;",
+        "Being purg'd, a fire sparkling in lovers' eyes; 197",
+        "Being vex'd, a sea nourish'd with loving tears:",
+        "What is it else? a madness most discreet,",
+        "A choking gall, and a preserving sweet. 200",
+        "Farewell, my coz. [Going.]"
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Soft, I will go along;",
+        "An if you leave me so, you do me wrong."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Tut! I have lost myself; I am not here;",
+        "This is not Romeo, he's some other where. 204"
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Tell me in sadness, who is that you love."
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. What! shall I groan and tell thee?"
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Groan! why, no;",
+        "But sadly tell me who."
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Bid a sick man in sadness make his will; 208",
+        "Ah! word ill urg'd to one that is so ill.",
+        "In sadness, cousin, I do love a woman."
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. I aim'd so near when I suppos'd you lov'd."
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. A right good mark-man! And she's fair I love. 212"
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. A right fair mark, fair coz, is soonest hit."
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Well, in that hit you miss: she'll not be hit",
+        "With Cupid's arrow; she hath Dian's wit;",
+        "And, in strong proof of chastity well arm'd, 216",
+        "From love's weak childish bow she lives unharm'd.",
+        "She will not stay the siege of loving terms,",
+        "Nor bide the encounter of assailing eyes,",
+        "Nor ope her lap to saint-seducing gold: 220",
+        "O! she is rich in beauty; only poor",
+        "That, when she dies, with beauty dies her store."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Then she hath sworn that she will still live chaste?"
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. She hath, and in that sparing makes huge waste; 224",
+        "For beauty, starv'd with her severity,",
+        "Cuts beauty off from all posterity.",
+        "She is too fair, too wise, wisely too fair,",
+        "To merit bliss by making me despair: 228",
+        "She hath forsworn to love, and in that vow",
+        "Do I live dead that live to tell it now."
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Be rul'd by me; forget to think of her."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. O! teach me how I should forget to think. 232"
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. By giving liberty unto thine eyes:",
+        "Examine other beauties."
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. 'Tis the way",
+        "To call hers, exquisite, in question more.",
+        "These happy masks that kiss fair ladies' brows,",
+        "Being black, put us in mind they hide the fair; 237",
+        "He that is strucken blind cannot forget",
+        "The precious treasure of his eyesight lost:",
+        "Show me a mistress that is passing fair, 240",
+        "What doth her beauty serve but as a note",
+        "Where I may read who pass'd that passing fair?",
+        "Farewell: thou canst not teach me to forget."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. I'll pay that doctrine, or else die in debt."
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt."
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Two"
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[A Street]"
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Capulet, County Paris, and the Clown."
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. But Montague is bound as well as I,",
+        "In penalty alike; and 'tis not hard, I think,",
+        "For men so old as we to keep the peace."
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Par. Of honourable reckoning are you both;",
+        "And pity 'tis you liv'd at odds so long. 5",
+        "But now, my lord, what say you to my suit?"
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. But saying o'er what I have said before:",
+        "My child is yet a stranger in the world, 8",
+        "She hath not seen the change of fourteen years;",
+        "Let two more summers wither in their pride",
+        "Ere we may think her ripe to be a bride."
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Par. Younger than she are happy mothers made. 12"
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. And too soon marr'd are those so early made.",
+        "Earth hath swallow'd all my hopes but she,",
+        "She is the hopeful lady of my earth:",
+        "But woo her, gentle Paris, get her heart, 16",
+        "My will to her consent is but a part;",
+        "An she agree, within her scope of choice",
+        "Lies my consent and fair according voice.",
+        "This night I hold an old accustom'd feast, 20",
+        "Whereto I have invited many a guest",
+        "Such as I love; and you, among the store,",
+        "One more, most welcome, makes my number more.",
+        "At my poor house look to behold this night 24",
+        "Earth-treading stars that make dark heaven light:",
+        "Such comfort as do lusty young men feel",
+        "When well-apparel'd April on the heel",
+        "Of limping winter treads, even such delight 28",
+        "Among fresh fennel buds shall you this night",
+        "Inherit at my house; hear all, all see,",
+        "And like her most whose merit most shall be:",
+        "Which on more view, of many mine being one 32",
+        "May stand in number, though in reckoning none.",
+        "Come, go with me. [To Servant, giving him a paper.] Go, sirrah, trudge about",
+        "Through fair Verona; find those persons out",
+        "Whose names are written there, and to them say, 36",
+        "My house and welcome on their pleasure stay."
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt [Capulet and Paris]."
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. Find them out whose names are written",
+        "here! It is written that the shoemaker should",
+        "meddle with his yard, and the tailor with his",
+        "last, the fisher with his pencil, and the painter",
+        "with his nets; but I am sent to find those",
+        "persons, whose names are here writ, and can",
+        "never find what names the writing person hath",
+        "here writ. I must to the learned. In good",
+        "time."
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Benvolio and Romeo."
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Tut! man, one fire burns out another's burning,",
+        "One pain is lessen'd by another's anguish; 48",
+        "Turn giddy, and be holp by backward turning;",
+        "One desperate grief cures with another's languish:",
+        "Take thou some new infection to thy eye,",
+        "And the rank poison of the old will die. 52"
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Your plantain leaf is excellent for that."
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. For what, I pray thee?"
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. For your broken shin."
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Why, Romeo, art thou mad?"
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Not mad, but bound more than a madman is; 56",
+        "Shut up in prison, kept without my food,",
+        "Whipp'd and tormented, and—Good den, good fellow."
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. God gi' good den. I pray, sir, can you read?"
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Ay, mine own fortune in my misery. 60"
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. Perhaps you have learn'd it without book:",
+        "but, I pray, can you read any thing you see?"
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Ay, if I know the letters and the language. 64"
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. Ye say honestly; rest you merry!"
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[Offering to go.]"
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Stay, fellow; I can read."
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "He reads the letter."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "'Signior Martino and his wife and daugh-",
+        "ters; County Anselme and his beauteous sis-",
+        "ters; the lady widow of Vitruvio; Signior",
+        "Placentio, and his lovely nieces; Mercutio and",
+        "his brother Valentine; mine uncle Capulet, his",
+        "wife and daughters; my fair niece Rosaline;",
+        "Livia; Signior Valentio and his cousin Tybalt;",
+        "Lucio and the lively Helena.'",
+        "A fair assembly: whither should they come?"
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. Up. 76"
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Whither?"
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. To supper; to our house."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Whose house?"
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. My master's. 80"
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Indeed, I should have asked you that",
+        "before."
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. Now I'll tell you without asking. My",
+        "master is the great rich Capulet; and if you be",
+        "not of the house of Montagues, I pray, come",
+        "and crush a cup of wine. Rest you merry! Exit."
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. At this same ancient feast of Capulet's,",
+        "Sups the fair Rosaline, whom thou so lov'st, 88",
+        "With all the admired beauties of Verona:",
+        "Go thither; and, with unattainted eye",
+        "Compare her face with some that I shall show,",
+        "And I will make thee think thy swan a crow. 92"
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. When the devout religion of mine eye",
+        "Maintains such falsehood, then turn tears to fires!",
+        "And these, who often drown'd could never die,",
+        "Transparent heretics, be burnt for liars! 96",
+        "One fairer than my love! the all-seeing sun",
+        "Ne'er saw her match since first the world begun."
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Tut! you saw her fair, none else being by,",
+        "Herself pois'd with herself in either eye; 100",
+        "But in that crystal scales let there be weigh'd",
+        "Your lady's love against some other maid",
+        "That I will show you shining at this feast,",
+        "And she shall scant show well that now shows best. 104"
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. I'll go along, no such sight to be shown,",
+        "But to rejoice in splendour of mine own."
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[Exeunt.]"
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Three"
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[A Room in Capulet's House]"
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Capulet's Wife, and Nurse."
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. Nurse, where's my daughter? call her forth to me."
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Now, by my maidenhead, at twelve year old,—",
+        "I bade her come. What, lamb! what, ladybird!",
+        "God forbid! where's this girl? what, Juliet! 4"
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Juliet."
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. How now! who calls?"
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Your mother."
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Madam, I am here.",
+        "What is your will?"
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. This is the matter. Nurse, give leave awhile.",
+        "We must talk in secret: nurse, come back again; 8",
+        "I have remember'd me, thou's hear our counsel.",
+        "Thou know'st my daughter's of a pretty age."
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Faith, I can tell her age unto an hour."
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. She's not fourteen."
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. I'll lay fourteen of my teeth— 12",
+        "And yet to my teen be it spoken I have but four—",
+        "She is not fourteen. How long is it now",
+        "To Lammas-tide?"
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. A fortnight and odd days."
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Even or odd, of all days in the year,",
+        "Come Lammas-eve at night shall she be fourteen. 17",
+        "Susan and she—God rest all Christian souls!—",
+        "Were of an age. Well, Susan is with God;",
+        "She was too good for me. But, as I said, 20",
+        "On Lammas-eve at night shall she be fourteen;",
+        "That shall she, marry; I remember it well.",
+        "'Tis since the earthquake now eleven years;",
+        "And she was wean'd, I never shall forget it, 24",
+        "Of all the days of the year, upon that day;",
+        "For I had then laid wormwood to my dug,",
+        "Sitting in the sun under the dove-house wall;",
+        "My lord and you were then at Mantua. 28",
+        "Nay, I do bear a brain:—but, as I said,",
+        "When it did taste the wormwood on the nipple",
+        "Of my dug and felt it bitter, pretty fool!",
+        "To see it tetchy and fall out with the dug. 32",
+        "'Shake,' quoth the dove-house: 'twas no need, I trow,",
+        "To bid me trudge:",
+        "And since that time it is eleven years;",
+        "For then she could stand high lone; nay, by the rood, 36",
+        "She could have run and waddled all about;",
+        "For even the day before she broke her brow:",
+        "And then my husband—God be with his soul!",
+        "A' was a merry man—took up the child: 40",
+        "'Yea,' quoth he, 'dost thou fall upon thy face?",
+        "Thou wilt fall backward when thou hast more wit;",
+        "Wilt thou not, Jule?' and, by my halidom,",
+        "The pretty wretch left crying, and said 'Ay.' 44",
+        "To see now how a jest shall come about!",
+        "I warrant, an I should live a thousand years,",
+        "I never should forget it: 'Wilt thou not, Jule?' quoth he;",
+        "And, pretty fool, it stinted and said 'Ay.' 48"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. Enough of this; I pray thee, hold thy peace."
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Yes, madam. Yet I cannot choose but laugh,",
+        "To think it should leave crying, and say 'Ay.'",
+        "And yet, I warrant, it had upon it brow 52",
+        "A bump as big as a young cockerel's stone;",
+        "A parlous knock; and it cried bitterly:",
+        "'Yea,' quoth my husband, 'fall'st upon thy face?",
+        "Thou wilt fall backward when thou com'st to age; 56",
+        "Wilt thou not, Jule?' it stinted and said 'Ay.'"
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. And stint thou too, I pray thee, nurse, say I."
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Peace, I have done. God mark thee to his grace!",
+        "Thou wast the prettiest babe that e'er I nursed:",
+        "An I might live to see thee married once, 61",
+        "I have my wish."
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. Marry, that 'marry' is the very theme",
+        "I came to talk of. Tell me, daughter Juliet, 64",
+        "How stands your disposition to be married?"
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. It is an honour that I dream not of."
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. An honour! were not I thine only nurse,",
+        "I would say thou hadst suck'd wisdom from thy teat. 68"
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. Well, think of marriage now; younger than you,",
+        "Here in Verona, ladies of esteem,",
+        "Are made already mothers: by my count,",
+        "I was your mother much upon these years 72",
+        "That you are now a maid. Thus then in brief,",
+        "The valiant Paris seeks you for his love."
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. A man, young lady! lady, such a man",
+        "As all the world—why, he's a man of wax. 76"
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. Verona's summer hath not such a flower."
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Nay, he's a flower; in faith, a very flower."
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. What say you? can you love the gentleman?",
+        "This night you shall behold him at our feast; 80",
+        "Read o'er the volume of young Paris' face",
+        "And find delight writ there with beauty's pen;",
+        "Examine every married lineament,",
+        "And see how one another lends content; 84",
+        "And what obscur'd in this fair volume lies",
+        "Find written in the margent of his eyes.",
+        "This precious book of love, this unbound lover,",
+        "To beautify him, only lacks a cover: 88",
+        "The fish lives in the sea, and 'tis much pride",
+        "For fair without the fair within to hide:",
+        "That book in many eyes doth share the glory,",
+        "That in gold clasps locks in the golden story: 92",
+        "So shall you share all that he doth possess,",
+        "By having him making yourself no less."
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. No less! nay, bigger; women grow by men."
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. Speak briefly, can you like of Paris' love? 96"
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. I'll look to like, if looking liking move;",
+        "But no more deep will I endart mine eye",
+        "Than your consent gives strength to make it fly."
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter a Serving-man."
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. Madam, the guests are come, supper",
+        "served up, you called, my young lady asked for,",
+        "the nurse cursed in the pantry, and everything",
+        "in extremity. I must hence to wait; I beseech",
+        "you, follow straight. 104"
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. We follow thee. Juliet, the county stays."
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Go, girl, seek happy nights to happy days."
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt."
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Four"
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[A Street]"
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter Romeo, Mercutio, Benvolio, with five or six other Maskers; Torch-Bearers."
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. What! shall this speech be spoke for our excuse,",
+        "Or shall we on without apology?"
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. The date is out of such prolixity:",
+        "We'll have no Cupid hood-wink'd with a scarf, 4",
+        "Bearing a Tartar's painted bow of lath,",
+        "Scaring the ladies like a crow-keeper;",
+        "Nor no without-book prologue, faintly spoke",
+        "After the prompter, for our entrance: 8",
+        "But, let them measure us by what they will,",
+        "We'll measure them a measure, and be gone."
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Give me a torch: I am not for this ambling;",
+        "Being but heavy, I will bear the light. 12"
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. Nay, gentle Romeo, we must have you dance."
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Not I, believe me: you have dancing shoes",
+        "With nimble soles; I have a soul of lead",
+        "So stakes me to the ground I cannot move. 16"
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. You are a lover; borrow Cupid's wings,",
+        "And soar with them above a common bound."
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. I am too sore enpierced with his shaft",
+        "To soar with his light feathers; and so bound 20",
+        "I cannot bound a pitch above dull woe:",
+        "Under love's heavy burden do I sink."
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. And, to sink in it, should you burden love;",
+        "Too great oppression for a tender thing. 24"
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Is love a tender thing? it is too rough,",
+        "Too rude, too boisterous; and it pricks like thorn."
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. If love be rough with you, be rough with love;",
+        "Prick love for pricking, and you beat love down. 28",
+        "Give me a case to put my visage in:",
+        "[Putting on a mask.]",
+        "A visor for a visor! what care I,",
+        "What curious eye doth quote deformities?",
+        "Here are the beetle brows shall blush for me. 32"
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Come, knock and enter; and no sooner in,",
+        "But every man betake him to his legs."
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. A torch for me; let wantons, light of heart,",
+        "Tickle the senseless rushes with their heels, 36",
+        "For I am proverb'd with a grandsire phrase;",
+        "I'll be a candle-holder, and look on.",
+        "The game was ne'er so fair, and I am done."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. Tut! dun's the mouse, the constable's own word: 40",
+        "If thou art Dun, we'll draw thee from the mire,",
+        "Of—save your reverence—love, wherein thou stick'st",
+        "Up to the ears. Come, we burn daylight, ho!"
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Nay, that's not so."
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. I mean, sir, in delay 44",
+        "We waste our lights in vain, light lights by day.",
+        "Take our good meaning, for our judgment sits",
+        "Five times in that ere once in our five wits."
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. And we mean well in going to this masque; 48",
+        "But 'tis no wit to go."
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. Why, may one ask?"
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. I dream'd a dream to-night."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. And so did I."
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Well, what was yours?"
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. That dreamers often lie."
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. In bed asleep, while they do dream things true. 52"
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. O! then, I see, Queen Mab hath been with you."
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Queen Mab! What's she?"
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. She is the fairies' midwife, and she comes",
+        "In shape no bigger than an agate-stone 56",
+        "On the fore-finger of an alderman,",
+        "Drawn with a team of little atomies",
+        "Over men's noses as they lie asleep:",
+        "Her waggon-spokes made of long spinners' legs;",
+        "The cover, of the wings of grasshoppers; 61",
+        "Her traces, of the smallest spider's web;",
+        "Her collars, of the moonshine's watery beams;",
+        "Her whip, of cricket's bone; the lash, of film; 64",
+        "Her waggoner, a small grey-coated gnat,",
+        "Not half so big as a round little worm",
+        "Prick'd from the lazy finger of a maid;",
+        "Her chariot is an empty hazel-nut, 68",
+        "Made by the joiner squirrel or old grub,",
+        "Time out o' mind the fairies' coach-makers.",
+        "And in this state she gallops night by night",
+        "Through lovers' brains, and then they dream of love 72",
+        "O'er courtiers' knees, that dream on curtsies straight;",
+        "O'er lawyers' fingers, who straight dream on fees;",
+        "O'er ladies' lips, who straight on kisses dream;",
+        "Which oft the angry Mab with blisters plagues,",
+        "Because their breaths with sweetmeats tainted are. 77",
+        "Sometimes she gallops o'er a courtier's nose,",
+        "And then dreams he of smelling out a suit;",
+        "And sometimes comes she with a tithe-pig's tail,",
+        "Tickling a parson's nose as a' lies asleep, 81",
+        "Then he dreams of another benefice;",
+        "Sometimes she driveth o'er a soldier's neck,",
+        "And then dreams he of cutting foreign throats,",
+        "Of breaches, ambuscadoes, Spanish blades, 85",
+        "Of healths five fathom deep; and then anon",
+        "Drums in his ear, at which he starts and wakes;",
+        "And, being thus frighted, swears a prayer or two, 88",
+        "And sleeps again. This is that very Mab",
+        "That plats the manes of horses in the night;",
+        "And bakes the elf-locks in foul sluttish hairs,",
+        "Which once untangled much misfortune bodes;",
+        "This is the hag, when maids lie on their backs,",
+        "That presses them and learns them first to bear,",
+        "Making them women of good carriage:",
+        "This is she—"
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Peace, peace! Mercutio, peace! 96",
+        "Thou talk'st of nothing."
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mer. True, I talk of dreams,",
+        "Which are the children of an idle brain,",
+        "Begot of nothing but vain fantasy;",
+        "Which is as thin of substance as the air, 100",
+        "And more inconstant than the wind, who woos",
+        "Even now the frozen bosom of the north,",
+        "And, being anger'd, puffs away from thence,",
+        "Turning his face to the dew-dropping south. 104"
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. This wind you talk of blows us from our selves;",
+        "Supper is done, and we shall come too late."
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. I fear too early; for my mind misgives",
+        "Some consequence yet hanging in the stars 108",
+        "Shall bitterly begin his fearful date",
+        "With this night's revels, and expire the term",
+        "Of a despised life clos'd in my breast",
+        "By some vile forfeit of untimely death. 112",
+        "But he, that hath the steerage of my course,",
+        "Direct my sail! On, lusty gentlemen."
+      ]
+    },
+    {
+      "id": "p00223",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Strike, drum. [Exeunt.]"
+      ]
+    },
+    {
+      "id": "p00224",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Five"
+      ]
+    },
+    {
+      "id": "p00225",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[A Hall in Capulet's House]"
+      ]
+    },
+    {
+      "id": "p00226",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[Musicians waiting.] Enter Servant[s]."
+      ]
+    },
+    {
+      "id": "p00227",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "First Serv. Where's Potpan, that he helps",
+        "not to take away? he shift a trencher! he scrape",
+        "a trencher!"
+      ]
+    },
+    {
+      "id": "p00228",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sec. Serv. When good manners shall lie all",
+        "in one or two men's hands, and they unwashed",
+        "too, 'tis a foul thing. 6"
+      ]
+    },
+    {
+      "id": "p00229",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "First Serv. Away with the joint-stools, re-",
+        "move the court-cupboard, look to the plate.",
+        "Good thou, save me a piece of marchpane; and,",
+        "as thou lovest me, let the porter let in Susan",
+        "Grindstone and Nell. Antony! and Potpan!"
+      ]
+    },
+    {
+      "id": "p00230",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sec. Serv. Ay, boy; ready. 12"
+      ]
+    },
+    {
+      "id": "p00231",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "First Serv. You are looked for and called",
+        "for, asked for and sought for in the great",
+        "chamber."
+      ]
+    },
+    {
+      "id": "p00232",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Third Serv. We cannot be here and there",
+        "too. 17"
+      ]
+    },
+    {
+      "id": "p00233",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sec. Serv. Cheerly, boys; be brisk awhile, and",
+        "the longer liver take all. Exeunt."
+      ]
+    },
+    {
+      "id": "p00234",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Enter [Capulet,] all the Guests and Gentlewomen to the Maskers."
+      ]
+    },
+    {
+      "id": "p00235",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Welcome, gentlemen! ladies that have their toes 20",
+        "Unplagu'd with corns will walk a bout with you.",
+        "Ah ha! my mistresses, which of you all",
+        "Will now deny to dance? she that makes dainty, she,",
+        "I'll swear, hath corns; am I come near ye now? 24",
+        "Welcome, gentlemen! I have seen the day",
+        "That I have worn a visor, and could tell",
+        "A whispering tale in a fair lady's ear",
+        "Such as would please; 'tis gone, ’tis gone, ’tis gone. 28",
+        "You are welcome, gentlemen! Come, musicians, play.",
+        "A hall! a hall! give room, and foot it, girls.",
+        "Music plays, and they dance.",
+        "More light, ye knaves! and turn the tables up,",
+        "And quench the fire, the room has grown too hot. 32",
+        "Ah! sirrah, this unlook'd-for sport comes well.",
+        "Nay, sit, nay, sit, good cousin Capulet,",
+        "For you and I are past our dancing days;",
+        "How long is 't now since last yourself and I 36",
+        "Were in a mask?"
+      ]
+    },
+    {
+      "id": "p00236",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sec. Cap. By 'r Lady, thirty years."
+      ]
+    },
+    {
+      "id": "p00237",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. What, man! 'tis not so much, 'tis not so much:",
+        "'Tis since the nuptial of Lucentio,",
+        "Come Pentecost as quickly as it will, 40",
+        "Some five and twenty years; and then we mask'd."
+      ]
+    },
+    {
+      "id": "p00238",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sec. Cap. 'Tis more, ’tis more; his son is elder, sir.",
+        "His son is thirty."
+      ]
+    },
+    {
+      "id": "p00239",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Will you tell me that?",
+        "His son was but a ward two years ago. 44"
+      ]
+    },
+    {
+      "id": "p00240",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. What lady is that which doth enrich the hand",
+        "Of yonder knight?"
+      ]
+    },
+    {
+      "id": "p00241",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Serv. I know not, sir."
+      ]
+    },
+    {
+      "id": "p00242",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. O! she doth teach the torches to burn bright. 48",
+        "It seems she hangs upon the cheek of night",
+        "Like a rich jewel in an Ethiop's ear;",
+        "Beauty too rich for use, for earth too dear!",
+        "So shows a snowy dove trooping with crows, 52",
+        "As yonder lady o'er her fellows shows.",
+        "The measure done, I'll watch her place of stand,",
+        "And, touching hers, make blessed my rude hand.",
+        "Did my heart love till now? forswear it, sight!",
+        "For I ne'er saw true beauty till this night. 57"
+      ]
+    },
+    {
+      "id": "p00243",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. This, by his voice, should be a Montague.",
+        "Fetch me my rapier, boy. What! dares the slave",
+        "Come hither, cover'd with an antic face, 60",
+        "To fleer and scorn at our solemnity?",
+        "Now, by the stock and honour of my kin,",
+        "To strike him dead I hold it not a sin."
+      ]
+    },
+    {
+      "id": "p00244",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Why, how now, kinsman! wherefore storm you so? 64"
+      ]
+    },
+    {
+      "id": "p00245",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. Uncle, this is a Montague, our foe;",
+        "A villain that is hither come in spite,",
+        "To scorn at our solemnity this night."
+      ]
+    },
+    {
+      "id": "p00246",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Young Romeo, is it?"
+      ]
+    },
+    {
+      "id": "p00247",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. 'Tis he, that villain Romeo. 68"
+      ]
+    },
+    {
+      "id": "p00248",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Content thee, gentle coz, let him alone:",
+        "He bears him like a portly gentleman;",
+        "And, to say truth, Verona brags of him",
+        "To be a virtuous and well-govern'd youth. 72",
+        "I would not for the wealth of all this town",
+        "Here in my house do him disparagement;",
+        "Therefore be patient, take no note of him:",
+        "It is my will; the which if thou respect, 76",
+        "Show a fair presence and put off these frowns,",
+        "An ill-beseeming semblance for a feast."
+      ]
+    },
+    {
+      "id": "p00249",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. It fits, when such a villain is a guest:",
+        "I'll not endure him."
+      ]
+    },
+    {
+      "id": "p00250",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. He shall be endur'd: 80",
+        "What! goodman boy; I say, he shall, go to;",
+        "Am I the master here, or you? go to.",
+        "You'll not endure him! God shall mend my soul!",
+        "You'll make a mutiny among my guests! 84",
+        "You will set cock-a-hoop! you'll be the man!"
+      ]
+    },
+    {
+      "id": "p00251",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. Why, uncle, 'tis a shame."
+      ]
+    },
+    {
+      "id": "p00252",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Go to, go to;",
+        "You are a saucy boy—is't so indeed?—",
+        "This trick may chance to scathe you.—I know what: 88",
+        "You must contrary me! marry, 'tis time.",
+        "Well said, my hearts! You are a princox; go:",
+        "Be quiet, or—More light, more light!—For shame!",
+        "I'll make you quiet. What! cheerly, my hearts!"
+      ]
+    },
+    {
+      "id": "p00253",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tyb. Patience perforce with wilful choler meeting 93",
+        "Makes my flesh tremble in their different greeting.",
+        "I will withdraw; but this intrusion shall",
+        "Now seeming sweet convert to bitter gall. Exit."
+      ]
+    },
+    {
+      "id": "p00254",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. [To Juliet.] If I profane with my unworthiest hand 97",
+        "This holy shrine, the gentle sin is this;",
+        "My lips, two blushing pilgrims, ready stand",
+        "To smooth that rough touch with a tender kiss."
+      ]
+    },
+    {
+      "id": "p00255",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Good pilgrim, you do wrong your hand too much, 101",
+        "Which mannerly devotion shows in this;",
+        "For saints have hands that pilgrims' hands do touch,",
+        "And palm to palm is holy palmers' kiss. 104"
+      ]
+    },
+    {
+      "id": "p00256",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Have not saints lips, and holy palmers too?"
+      ]
+    },
+    {
+      "id": "p00257",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Ay, pilgrim, lips that they must use in prayer."
+      ]
+    },
+    {
+      "id": "p00258",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. O! then, dear saint, let lips do what hands do;",
+        "They pray, grant thou, lest faith turn to despair. 108"
+      ]
+    },
+    {
+      "id": "p00259",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Saints do not move, though grant for prayers' sake."
+      ]
+    },
+    {
+      "id": "p00260",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Then move not, while my prayers' effect I take.",
+        "Thus from my lips, by thine, my sin is purg'd."
+      ]
+    },
+    {
+      "id": "p00261",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "[Kissing her.]"
+      ]
+    },
+    {
+      "id": "p00262",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Then have my lips the sin that they have took. 112"
+      ]
+    },
+    {
+      "id": "p00263",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Sin from my lips? O trespass sweetly urg'd!",
+        "Give me my sin again."
+      ]
+    },
+    {
+      "id": "p00264",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. You kiss by the book."
+      ]
+    },
+    {
+      "id": "p00265",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Madam, your mother craves a word with you."
+      ]
+    },
+    {
+      "id": "p00266",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. What is her mother?"
+      ]
+    },
+    {
+      "id": "p00267",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Marry, bachelor,",
+        "Her mother is the lady of the house, 117",
+        "And a good lady, and a wise, and virtuous:",
+        "I nurs'd her daughter, that you talk'd withal;",
+        "I tell you he that can lay hold of her 120",
+        "Shall have the chinks."
+      ]
+    },
+    {
+      "id": "p00268",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Is she a Capulet?",
+        "O dear account! my life is my foe's debt."
+      ]
+    },
+    {
+      "id": "p00269",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ben. Away, be gone; the sport is at the best."
+      ]
+    },
+    {
+      "id": "p00270",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Rom. Ay, so I fear; the more is my unrest."
+      ]
+    },
+    {
+      "id": "p00271",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Cap. Nay, gentlemen, prepare not to be gone; 125",
+        "We have a trifling foolish banquettowards.",
+        "Is it e'en so? Why then, I thank you all;",
+        "I thank you, honest gentlemen; good-night. 128",
+        "More torches here! Come on then, let's to bed.",
+        "Ah! sirrah, by my fay, it waxes late;",
+        "I'll to my rest."
+      ]
+    },
+    {
+      "id": "p00272",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt [all except Juliet and Nurse.]"
+      ]
+    },
+    {
+      "id": "p00273",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Come hither, nurse. What is yond gentleman? 132"
+      ]
+    },
+    {
+      "id": "p00274",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. The son and heir of old Tiberio."
+      ]
+    },
+    {
+      "id": "p00275",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. What's he that now is going out of door?"
+      ]
+    },
+    {
+      "id": "p00276",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Marry, that, I think, be young Petruchio."
+      ]
+    },
+    {
+      "id": "p00277",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. What's he, that follows here, that would not dance? 136"
+      ]
+    },
+    {
+      "id": "p00278",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. I know not."
+      ]
+    },
+    {
+      "id": "p00279",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. Go, ask his name.—If he be married,",
+        "My grave is like to be my wedding bed."
+      ]
+    },
+    {
+      "id": "p00280",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. His name is Romeo, and a Montague;",
+        "The only son of your great enemy. 141"
+      ]
+    },
+    {
+      "id": "p00281",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. My only love sprung from my only hate!",
+        "Too early seen unknown, and known too late!",
+        "Prodigious birth of love it is to me, 144",
+        "That I must love a loathed enemy."
+      ]
+    },
+    {
+      "id": "p00282",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. What's this, what's this?"
+      ]
+    },
+    {
+      "id": "p00283",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Jul. A rime I learn'd even now",
+        "Of one I danc'd withal."
+      ]
+    },
+    {
+      "id": "p00284",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "One calls within, 'Juliet!'"
+      ]
+    },
+    {
+      "id": "p00285",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Nurse. Anon, anon!—",
+        "Come, let's away; the strangers are all gone. 148"
+      ]
+    },
+    {
+      "id": "p00286",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Exeunt."
+      ]
+    },
+    {
+      "id": "p00287",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Footnotes to Act I"
+      ]
+    },
+    {
+      "id": "p00288",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene One"
+      ]
+    },
+    {
+      "id": "p00289",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Act First, Scene One; cf. n.",
+        "S. d. bucklers: shields",
+        "1 carry coals: endure affronts; cf. n.",
+        "4 an: if",
+        "choler: anger",
+        "7 moved: exasperated",
+        "15 take the wall; cf. n.",
+        "31 sense: here, 'physical perception'",
+        "36 poor John: an inferior dried fish, hake",
+        "tool: weapon",
+        "42 marry: an oath from the name of S. Mary",
+        "43 take the law of our sides: have the law on our side",
+        "list: please",
+        "47 bite my thumb; cf. n.",
+        "65 kinsmen; cf. n.",
+        "72 drawn: with drawn sword",
+        "heartless: cowardly",
+        "hinds: menials",
+        "79 Clubs, bills, and partisans; cf. n.",
+        "84 spite: contemptuous defiance",
+        "93 mis-temper'd: tempered for an evil purpose",
+        "101 Canker'd: corroded; secondly, 'malignant'",
+        "103 forfeit: breach",
+        "108 Free-town; cf. n.",
+        "110 set . . . abroach: re-opened",
+        "118 withal: there with",
+        "120 part: side",
+        "130 ware: aware",
+        "132 affections: inclinations",
+        "133 most sought: i.e., most sought to be",
+        "142 heavy: sad",
+        "156 envious: malignant",
+        "158 sun; cf. n.",
+        "164 shrift: confession",
+        "174 view: outward appearance",
+        "175 proof: experience",
+        "176 view: sight; cf. n.",
+        "still: always",
+        "180 more with love; cf. n.",
+        "183 vanity: triviality, futility",
+        "181–186 Cf. n.",
+        "187 in this: i.e., in this brawl",
+        "188 coz: cousin",
+        "193 propagate: increase",
+        "to have it: by having it",
+        "197 purg'd: cleared from smoke",
+        "198 vex'd: agitated",
+        "205 sadness: seriousness",
+        "207 sadly: seriously",
+        "215 Dian's wit: the turn of mind of the chaste goddess Diana",
+        "216 proof: impenetrable armor",
+        "218 stay: remain to resist",
+        "222 store: riches; cf. n.",
+        "224 sparing: refraining from use",
+        "225 starv'd: allowed to die out",
+        "235 call . . . in question: consider",
+        "240 passing: surpassingly",
+        "244 pay that doctrine: give that instruction"
+      ]
+    },
+    {
+      "id": "p00290",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Two"
+      ]
+    },
+    {
+      "id": "p00291",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Two S. d. County: count",
+        "Clown; cf. n.",
+        "4 reckoning: repute",
+        "15 hopeful; cf. n.",
+        "29 fennel; cf. n.",
+        "30 Inherit: receive",
+        "32–33 Cf. n.",
+        "45 In good time; cf. n.",
+        "58 Good den: good evening",
+        "86 crush a cup: crack a bottle",
+        "87 ancient: accustomed",
+        "90 unattainted: unbiased",
+        "95 these: i.e., my eyes",
+        "100 pois'd: weighed"
+      ]
+    },
+    {
+      "id": "p00292",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Three"
+      ]
+    },
+    {
+      "id": "p00293",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "7 give leave: leave us",
+        "9 thou's: thou shalt",
+        "12 lay: wager",
+        "13 teen: grief",
+        "15 Lammas-tide: August 1",
+        "29 bear a brain: have a memory",
+        "32 tetchy: peevish",
+        "33 trow: dare say; cf. n.",
+        "36 high lone: quite alone",
+        "rood: cross",
+        "40 A': He",
+        "43 halidom: a mild oath",
+        "48 stinted: ceased",
+        "52 it brow; cf. n.",
+        "54 parlous: perilous",
+        "59 mark: elect",
+        "76 man of wax: beautiful as a wax model",
+        "83 married: harmonious",
+        "86 margent: margin; cf. n.",
+        "89 fish; cf. n.",
+        "98 endart: shoot as a dart",
+        "103 extremity: a desperate pass",
+        "104 straight: immediately",
+        "105 stays: waits"
+      ]
+    },
+    {
+      "id": "p00294",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Four"
+      ]
+    },
+    {
+      "id": "p00295",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "1 this speech; cf. n.",
+        "3 Such prolixity is out of date",
+        "4 hood-wink'd: blindfolded",
+        "5 Tartar's . . . bow: a bow doubly curved like a brace",
+        "6 crow-keeper: human scarecrow",
+        "7 without-book: memorized",
+        "10 measure . . . measure: tread a dance",
+        "16 So stakes: which so fastens",
+        "21 pitch: a term in falconry denoting the height of a hawk's flight",
+        "30 visor for a visor: a mask for a mask-like face",
+        "31 quote: observe",
+        "35 wantons: triflers",
+        "36 rushes: the common Elizabethan floor covering",
+        "37 proverb'd: provided with a proverb; cf. n.",
+        "grandsire phrase: old saying",
+        "40 dun's the mouse; cf. n.",
+        "42 save your reverence; cf. n.",
+        "45 lights; cf. n.",
+        "49 wit: good sense",
+        "50 to-night: last night",
+        "55 fairies' midwife: the fairy who brings dreams to birth",
+        "56 agate-stone; cf. n.",
+        "58 atomies: tiny beings",
+        "60 spinners': spiders'",
+        "64 film: gossamer thread",
+        "65 waggoner: coachman",
+        "66 worm; cf. n.",
+        "79 suit: petition for royal favor",
+        "80 tithe-pig's: pig paid as tithe due the church",
+        "85 breaches: gaps made in fortifications",
+        "ambuscadoes: ambushes",
+        "86 healths: draughts of liquor",
+        "anon: presently",
+        "90 plats the manes; cf. n.",
+        "91 elf-locks: tangled masses of hair",
+        "99 vain: empty",
+        "104 dew-dropping: misty",
+        "109 date: duration",
+        "110 expire . . . of: bring to an end",
+        "115 Exeunt; cf. n."
+      ]
+    },
+    {
+      "id": "p00296",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Scene Five"
+      ]
+    },
+    {
+      "id": "p00297",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "2 trencher: wooden plate",
+        "7 joint-stools: stools made by a joiner as opposed to a rougher sort",
+        "8 court-cupboard: movable sideboard",
+        "9 marchpane: almond paste",
+        "21 bout: turn",
+        "23 makes dainty: holds aloof",
+        "24 am . . . ye: do my words have an effect",
+        "31 tables up; cf. n.",
+        "60 antic: fantastic",
+        "61 fleer: sneer",
+        "solemnity: festivity",
+        "70 portly: dignified",
+        "74 disparagement: indignity",
+        "81 goodman: prefixed to names of persons under the rank of gentlemen; often, as here, contemptuously",
+        "85 cock-a-hoop: all by the ears",
+        "90 Well said: well done",
+        "princox: pert boy",
+        "93 perforce: by compulsion",
+        "wilful: eager",
+        "96 convert: change",
+        "97–110 Cf. n.",
+        "98 gentle sin; cf. n.",
+        "104 palmer: pilgrim, properly one from Palestine bearing a palm leaf",
+        "109 move: propose, instigate",
+        "113 urg'd: argued to be such",
+        "114 by the book: according to authority",
+        "121 chinks: money",
+        "122 Cf. n.",
+        "126 foolish: trifling",
+        "banquet: an after-supper of sweets",
+        "towards: in preparation",
+        "130 fay: faith",
+        "144 Prodigious: monstrous"
+      ]
+    },
+    {
+      "id": "p00298",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "ACT FIFTH"
+      ]
+    },
+    {
+      "id": "p00299",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene One"
+      ]
+    },
+    {
+      "id": "p00300",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[Mantua. A Street]"
+      ]
+    },
+    {
+      "id": "p00301",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Romeo."
+      ]
+    },
+    {
+      "id": "p00302",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. If I may trust the flattering truth of sleep,",
+        "My dreams presage some joyful news at hand:",
+        "My bosom's lord sits lightly in his throne;",
+        "And all this day an unaccustom'd spirit 4",
+        "Lifts me above the ground with cheerful thoughts.",
+        "I dreamt my lady came and found me dead;—",
+        "Strange dream, that gives a dead man leave to think,—",
+        "And breath'd such life with kisses in my lips, 8",
+        "That I reviv'd, and was an emperor.",
+        "Ah me! how sweet is love itself possess'd,",
+        "When but love's shadows are so rich in joy!"
+      ]
+    },
+    {
+      "id": "p00303",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Romeo's man, Balthasar."
+      ]
+    },
+    {
+      "id": "p00304",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "News from Verona! How now, Balthasar? 12",
+        "Dost thou not bring me letters from the friar?",
+        "How doth my lady? Is my father well?",
+        "How fares my Juliet? That I ask again;",
+        "For nothing can be ill if she be well. 16"
+      ]
+    },
+    {
+      "id": "p00305",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. Then she is well, and nothing can be ill;",
+        "Her body sleeps in Capel's monument,",
+        "And her immortal part with angels lives.",
+        "I saw her laid low in her kindred's vault, 20",
+        "And presently took post to tell it you.",
+        "O! pardon me for bringing these ill news,",
+        "Since you did leave it for my office, sir."
+      ]
+    },
+    {
+      "id": "p00306",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Is it even so? then I defy you, stars!",
+        "Thou know'st my lodging: get me ink and paper, 25",
+        "And hire post-horses; I will hence to-night."
+      ]
+    },
+    {
+      "id": "p00307",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. I do beseech you, sir, have patience:",
+        "Your looks are pale and wild, and do import 28",
+        "Some misadventure."
+      ]
+    },
+    {
+      "id": "p00308",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Tush, thou art deceiv'd;",
+        "Leave me, and do the thing I bid thee do.",
+        "Hast thou no letters to me from the friar?"
+      ]
+    },
+    {
+      "id": "p00309",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. No, my good lord."
+      ]
+    },
+    {
+      "id": "p00310",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. No matter; get thee gone, 32",
+        "And hire those horses: I'll be with thee straight.",
+        "Exit Man.",
+        "Well, Juliet, I will lie with thee to-night.",
+        "Let's see for means: O mischief! thou art swift",
+        "To enter in the thoughts of desperate men. 36",
+        "I do remember an apothecary,",
+        "And hereabouts he dwells, which late I noted",
+        "In tatter'd weeds, with overwhelming brows,",
+        "Culling of simples; meagre were his looks, 40",
+        "Sharp misery had worn him to the bones:",
+        "And in his needy shop a tortoise hung,",
+        "An alligator stuff'd, and other skins",
+        "Of ill-shap'd fishes; and about his shelves 44",
+        "A beggarly account of empty boxes,",
+        "Green earthen pots, bladders, and musty seeds,",
+        "Remnants of packthread, and old cakes of roses,",
+        "Were thinly scatter'd, to make up a show. 48",
+        "Noting this penury, to myself I said:",
+        "An if a man did need a poison now,",
+        "Whose sale is present death in Mantua,",
+        "Here lives a caitiff wretch would sell it him. 52",
+        "O! this same thought did but fore-run my need,",
+        "And this same needy man must sell it me.",
+        "As I remember, this should be the house:",
+        "Being holiday, the beggar's shop is shut. 56",
+        "What, ho! apothecary!"
+      ]
+    },
+    {
+      "id": "p00311",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Apothecary."
+      ]
+    },
+    {
+      "id": "p00312",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Ap. Who calls so loud?"
+      ]
+    },
+    {
+      "id": "p00313",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Come hither, man. I see that thou art poor;",
+        "Hold, there is forty ducats; let me have",
+        "A dram of poison, such soon-speeding gear 60",
+        "As will disperse itself through all the veins",
+        "That the life-weary taker may fall dead,",
+        "And that the trunk may be discharg'd of breath",
+        "As violently as hasty powder fir'd 64",
+        "Doth hurry from the fatal cannon's womb."
+      ]
+    },
+    {
+      "id": "p00314",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Ap. Such mortal drugs I have; but Mantua's law",
+        "Is death to any he that utters them."
+      ]
+    },
+    {
+      "id": "p00315",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Art thou so bare, and full of wretchedness, 68",
+        "And fear'st to die? famine is in thy cheeks,",
+        "Need and oppression starveth in thine eyes,",
+        "Contempt and beggary hang upon thy back;",
+        "The world is not thy friend nor the world's law:",
+        "The world affords no law to make thee rich; 73",
+        "Then be not poor, but break it, and take this."
+      ]
+    },
+    {
+      "id": "p00316",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Ap. My poverty, but not my will, consents."
+      ]
+    },
+    {
+      "id": "p00317",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. I pay thy poverty, and not thy will. 76"
+      ]
+    },
+    {
+      "id": "p00318",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Ap. Put this in any liquid thing you will,",
+        "And drink it off; and, if you had the strength",
+        "Of twenty men, it would dispatch you straight."
+      ]
+    },
+    {
+      "id": "p00319",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. There is thy gold, worse poison to men's souls, 80",
+        "Doing more murders in this loathsome world",
+        "Than these poor compounds that thou mayst not sell:",
+        "I sell thee poison, thou hast sold me none.",
+        "Farewell; buy food, and get thyself in flesh. 84",
+        "Come, cordial and not poison, go with me",
+        "To Juliet's grave, for there must I use thee."
+      ]
+    },
+    {
+      "id": "p00320",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Exeunt."
+      ]
+    },
+    {
+      "id": "p00321",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene Two"
+      ]
+    },
+    {
+      "id": "p00322",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[Verona. Friar Laurence's Cell]"
+      ]
+    },
+    {
+      "id": "p00323",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Friar John."
+      ]
+    },
+    {
+      "id": "p00324",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. J. Holy Franciscan friar! brother, ho!"
+      ]
+    },
+    {
+      "id": "p00325",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Friar Laurence."
+      ]
+    },
+    {
+      "id": "p00326",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. This same should be the voice of Friar John.",
+        "Welcome from Mantua: what says Romeo?",
+        "Or, if his mind be writ, give me his letter. 4"
+      ]
+    },
+    {
+      "id": "p00327",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. J. Going to find a bare-foot brother out,",
+        "One of our order, to associate me,",
+        "Here in this city visiting the sick,",
+        "And finding him, the searchers of the town, 8",
+        "Suspecting that we both were in a house",
+        "Where the infectious pestilence did reign,",
+        "Seal'd up the doors, and would not let us forth;",
+        "So that my speed to Mantua there was stay'd. 12"
+      ]
+    },
+    {
+      "id": "p00328",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Who bare my letter then to Romeo?"
+      ]
+    },
+    {
+      "id": "p00329",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. J. I could not send it, here it is again,",
+        "Nor get a messenger to bring it thee,",
+        "So fearful were they of infection. 16"
+      ]
+    },
+    {
+      "id": "p00330",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Unhappy fortune! by my brotherhood,",
+        "The letter was not nice, but full of charge",
+        "Of dear import; and the neglecting it",
+        "May do much danger. Friar John, go hence;",
+        "Get me an iron crow, and bring it straight 21",
+        "Unto my cell."
+      ]
+    },
+    {
+      "id": "p00331",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. J. Brother, I'll go and bring it thee."
+      ]
+    },
+    {
+      "id": "p00332",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Exit."
+      ]
+    },
+    {
+      "id": "p00333",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Now must I to the monument alone;",
+        "Within these three hours will fair Juliet wake: 24",
+        "She will beshrew me much that Romeo",
+        "Hath had no notice of these accidents;",
+        "But I will write again to Mantua,",
+        "And keep her at my cell till Romeo come: 28",
+        "Poor living corse, clos'd in a dead man's tomb!"
+      ]
+    },
+    {
+      "id": "p00334",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Exit."
+      ]
+    },
+    {
+      "id": "p00335",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene Three"
+      ]
+    },
+    {
+      "id": "p00336",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[A Churchyard; in it a tomb belonging to the Capulets]"
+      ]
+    },
+    {
+      "id": "p00337",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Paris and his Page with flowers and sweet water."
+      ]
+    },
+    {
+      "id": "p00338",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Par. Give me thy torch, boy: hence, and stand aloof;",
+        "Yet put it out, for I would not be seen.",
+        "Under yond yew-trees lay thee all along,",
+        "Holding thine ear close to the hollow ground: 4",
+        "So shall no foot upon the churchyard tread,",
+        "Being loose, unfirm with digging up of graves,",
+        "But thou shalt hear it: whistle then to me,",
+        "As signal that thou hear'st something approach.",
+        "Give me those flowers. Do as I bid thee; go. 9"
+      ]
+    },
+    {
+      "id": "p00339",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Page. [Aside.] I am almost afraid to stand alone",
+        "Here in the churchyard; yet I will adventure."
+      ]
+    },
+    {
+      "id": "p00340",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Exit."
+      ]
+    },
+    {
+      "id": "p00341",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Par. Sweet flower, with flowers thy bridal bed I strew, 12",
+        "O woe! thy canopy is dust and stones;",
+        "Which with sweet water nightly I will dew,",
+        "Or, wanting that, with tears distill'd by moans:",
+        "The obsequies that I for thee will keep 16",
+        "Nightly shall be to strew thy grave and weep.",
+        "Whistle Boy.",
+        "The boy gives warning something doth approach.",
+        "What cursed foot wanders this way to-night,",
+        "To cross my obsequies and true love's rite? 20",
+        "What! with a torch?—muffle me, night, awhile."
+      ]
+    },
+    {
+      "id": "p00342",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[Retires.]"
+      ]
+    },
+    {
+      "id": "p00343",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Romeo and Balthasar his man, with a torch, a mattock, and a crow of iron."
+      ]
+    },
+    {
+      "id": "p00344",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Give me that mattock, and the wrenching iron.",
+        "Hold, take this letter; early in the morning",
+        "See thou deliver it to my lord and father. 24",
+        "Give me the light: upon thy life I charge thee,",
+        "Whate'er thou hear'st or seest, stand all aloof,",
+        "And do not interrupt me in my course.",
+        "Why I descend into this bed of death, 28",
+        "Is partly, to behold my lady's face;",
+        "But chiefly to take thence from her dead finger",
+        "A precious ring, a ring that I must use",
+        "In dear employment: therefore hence, be gone:",
+        "But, if thou, jealous, dost return to pry 33",
+        "In what I further shall intend to do,",
+        "By heaven, I will tear thee joint by joint,",
+        "And strew this hungry churchyard with thy limbs. 36",
+        "The time and my intents are savage-wild,",
+        "More fierce and more inexorable far",
+        "Than empty tigers or the roaring sea."
+      ]
+    },
+    {
+      "id": "p00345",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. I will be gone, sir, and not trouble you. 40"
+      ]
+    },
+    {
+      "id": "p00346",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. So shalt thou show me friendship. Take thou that:",
+        "Live, and be prosperous; and farewell, good fellow."
+      ]
+    },
+    {
+      "id": "p00347",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. [Aside.] For all this same, I'll hide me here about:",
+        "His looks I fear, and his intents I doubt. 44"
+      ]
+    },
+    {
+      "id": "p00348",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[Retires.]"
+      ]
+    },
+    {
+      "id": "p00349",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Thou detestable maw, thou womb of death,",
+        "Gorg'd with the dearest morsel of the earth,",
+        "Thus I enforce thy rotten jaws to open,",
+        "Opens the tomb.",
+        "And, in despite, I'll cram thee with more food!"
+      ]
+    },
+    {
+      "id": "p00350",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Par. This is that banish'd haughty Montague, 49",
+        "That murder'd my love's cousin, with which grief",
+        "It is supposed the fair creature died;",
+        "And here is come to do some villainous shame 52",
+        "To the dead bodies: I will apprehend him.—",
+        "[Comes forward.]",
+        "Stop thy unhallow'd toil, vile Montague,",
+        "Can vengeance be pursu'd further than death?",
+        "Condemned villain, I do apprehend thee: 56",
+        "Obey, and go with me; for thou must die."
+      ]
+    },
+    {
+      "id": "p00351",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. I must, indeed; and therefore came I hither.",
+        "Good gentle youth, tempt not a desperate man;",
+        "Fly hence and leave me: think upon these gone;",
+        "Let them affright thee. I beseech thee, youth,",
+        "Put not another sin upon my head",
+        "By urging me to fury: O! be gone:",
+        "By heaven, I love thee better than myself. 64",
+        "For I come hither arm'd against myself:",
+        "Stay not, be gone; live, and hereafter say",
+        "A madman's mercy bade thee run away."
+      ]
+    },
+    {
+      "id": "p00352",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Par. I do defy thy conjurations, 68",
+        "And apprehend thee for a felon here."
+      ]
+    },
+    {
+      "id": "p00353",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. Wilt thou provoke me? then have at thee, boy!"
+      ]
+    },
+    {
+      "id": "p00354",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "They fight."
+      ]
+    },
+    {
+      "id": "p00355",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Page. O Lord! they fight: I will go call the watch."
+      ]
+    },
+    {
+      "id": "p00356",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[Exit.]"
+      ]
+    },
+    {
+      "id": "p00357",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Par. [Falls.] O, I am slain!—If thou be merciful, 72",
+        "Open the tomb, lay me with Juliet. [Dies.]"
+      ]
+    },
+    {
+      "id": "p00358",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Rom. In faith, I will. Let me peruse this face:",
+        "Mercutio's kinsman, noble County Paris!",
+        "What said my man when my betossed soul 76",
+        "Did not attend him as we rode? I think",
+        "He told me Paris should have married Juliet:",
+        "Said he not so? or did I dream it so?",
+        "Or am I mad, hearing him talk of Juliet, 80",
+        "To think it was so? O! give me thy hand,",
+        "One writ with me in sour misfortune's book:",
+        "I'll bury thee in a triumphant grave;",
+        "A grave? O, no! a lantern, slaughter'd youth,",
+        "For here lies Juliet, and her beauty makes 85",
+        "This vault a feasting presence full of light.",
+        "Death, lie thou there, by a dead man interr'd,",
+        "[Laying Paris in the tomb.]",
+        "How oft when men are at the point of death 88",
+        "Have they been merry! which their keepers call",
+        "A lightning before death: O! how may I",
+        "Call this a lightning? O my love! my wife!",
+        "Death, that hath suck'd the honey of thy breath,",
+        "Hath had no power yet upon thy beauty: 93",
+        "Thou art not conquer'd; beauty's ensign yet",
+        "Is crimson in thy lips and in thy cheeks,",
+        "And death's pale flag is not advanced there. 96",
+        "Tybalt, liest thou there in thy bloody sheet?",
+        "O! what more favour can I do to thee,",
+        "Than with that hand that cut thy youth in twain",
+        "To sunder his that was thine enemy? 100",
+        "Forgive me, cousin! Ah! dear Juliet,",
+        "Why art thou yet so fair? Shall I believe",
+        "That unsubstantial Death is amorous,",
+        "And that the lean abhorred monster keeps 104",
+        "Thee here in dark to be his paramour?",
+        "For fear of that I still will stay with thee,",
+        "And never from this palace of dim night",
+        "Depart again: here, here will I remain 108",
+        "With worms that are thy chambermaids; O! here",
+        "Will I set up my everlasting rest,",
+        "And shake the yoke of inauspicious stars",
+        "From this world-wearied flesh. Eyes, look your last! 112",
+        "Arms, take your last embrace! and, lips, O you",
+        "The doors of breath, seal with a righteous kiss",
+        "A dateless bargain to engrossing death!",
+        "Come, bitter conduct, come, unsavoury guide!",
+        "Thou desperate pilot, now at once run on 117",
+        "The dashing rocks thy sea-sick weary bark!",
+        "Here's to my love! [Drinks.] O true apothecary!",
+        "Thy drugs are quick. Thus with a kiss I die. 120"
+      ]
+    },
+    {
+      "id": "p00359",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Falls."
+      ]
+    },
+    {
+      "id": "p00360",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter, [at the other end of the Churchyard,] Friar, with lantern, crow, and spade."
+      ]
+    },
+    {
+      "id": "p00361",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Saint Francis be my speed! how oft to-night",
+        "Have my old feet stumbled at graves! Who's there?"
+      ]
+    },
+    {
+      "id": "p00362",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. Here's one, a friend, and one that knows you well."
+      ]
+    },
+    {
+      "id": "p00363",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Bliss be upon you! Tell me, good my friend, 124",
+        "What torch is yond, that vainly lends his light",
+        "To grubs and eyeless skulls? as I discern,",
+        "It burneth in the Capel's monument."
+      ]
+    },
+    {
+      "id": "p00364",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. It doth so, holy sir; and there's my master, 128",
+        "One that you love."
+      ]
+    },
+    {
+      "id": "p00365",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Who is it?"
+      ]
+    },
+    {
+      "id": "p00366",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. Romeo."
+      ]
+    },
+    {
+      "id": "p00367",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. How long hath he been there?"
+      ]
+    },
+    {
+      "id": "p00368",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. Full half an hour."
+      ]
+    },
+    {
+      "id": "p00369",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Go with me to the vault."
+      ]
+    },
+    {
+      "id": "p00370",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. I dare not, sir.",
+        "My master knows not but I am gone hence; 132",
+        "And fearfully did menace me with death",
+        "If I did stay to look on his intents."
+      ]
+    },
+    {
+      "id": "p00371",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. Stay then, I'll go alone. Fear comes upon me;",
+        "O! much I fear some ill unlucky thing. 136"
+      ]
+    },
+    {
+      "id": "p00372",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. As I did sleep under this yew-tree here,",
+        "I dreamt my master and another fought,",
+        "And that my master slew him."
+      ]
+    },
+    {
+      "id": "p00373",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. [Advances.] Romeo!",
+        "Alack, alack, what blood is this which stains 140",
+        "The stony entrance of this sepulchre?",
+        "What mean these masterless and gory swords",
+        "To lie discolour'd by this place of peace?",
+        "[Enters the tomb.]",
+        "Romeo! O, pale! Who else? what! Paris too?",
+        "And steep'd in blood? Ah! what an unkind hour 145",
+        "Is guilty of this lamentable chance.",
+        "The lady stirs. Juliet rises."
+      ]
+    },
+    {
+      "id": "p00374",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Jul. O, comfortable friar! where is my lord?",
+        "I do remember well where I should be, 149",
+        "And there I am. Where is my Romeo?"
+      ]
+    },
+    {
+      "id": "p00375",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "[Noise within.]"
+      ]
+    },
+    {
+      "id": "p00376",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. I hear some noise. Lady, come from that nest",
+        "Of death, contagion, and unnatural sleep: 152",
+        "A greater power than we can contradict",
+        "Hath thwarted our intents: come, come away.",
+        "Thy husband in thy bosom there lies dead;",
+        "And Paris too: come, I'll dispose of thee 156",
+        "Among a sisterhood of holy nuns.",
+        "Stay not to question, for the watch is coming;",
+        "Come, go, good Juliet.—[Noise again.] I dare no longer stay."
+      ]
+    },
+    {
+      "id": "p00377",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Jul. Go, get thee hence, for I will not away.",
+        "Exit [Friar Laurence.]",
+        "What's here? a cup, clos'd in my true love's hand? 161",
+        "Poison, I see, hath been his timeless end.",
+        "O churl! drunk all, and left no friendly drop",
+        "To help me after! I will kiss thy lips; 164",
+        "Haply, some poison yet doth hang on them,",
+        "To make me die with a restorative. [Kisses him.]",
+        "Thy lips are warm!"
+      ]
+    },
+    {
+      "id": "p00378",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "First Watch. [Within.] Lead, boy: which way?"
+      ]
+    },
+    {
+      "id": "p00379",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Jul. Yea, noise? then I'll be brief. O happy dagger!",
+        "[Snatching Romeo's dagger.]",
+        "This is thy sheath; Stabs herself.",
+        "there rust and let me die. 170"
+      ]
+    },
+    {
+      "id": "p00380",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Falls [on Romeo's body and dies.]"
+      ]
+    },
+    {
+      "id": "p00381",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Boy and Watch."
+      ]
+    },
+    {
+      "id": "p00382",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Page. This is the place; there where the torch doth burn."
+      ]
+    },
+    {
+      "id": "p00383",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "First Watch. The ground is bloody; search about the churchyard. 172",
+        "Go, some of you; whoe'er you find, attach.",
+        "[Exeunt some of the Watch.]",
+        "Pitiful sight! here lies the county slain,",
+        "And Juliet bleeding, warm, and newly dead,",
+        "Who here hath lain these two days buried. 176",
+        "Go, tell the prince, run to the Capulets,",
+        "Raise up the Montagues, some others search:",
+        "[Exeunt others of the Watch.]",
+        "We see the ground whereon these woes do lie;",
+        "But the true ground of all these piteous woes",
+        "We cannot without circumstance descry. 181"
+      ]
+    },
+    {
+      "id": "p00384",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter one with Romeo's man."
+      ]
+    },
+    {
+      "id": "p00385",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Sec. Watch. Here's Romeo's man; we found him in the churchyard."
+      ]
+    },
+    {
+      "id": "p00386",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "First Watch. Hold him in safety, till the prince come hither."
+      ]
+    },
+    {
+      "id": "p00387",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Friar and another Watchman."
+      ]
+    },
+    {
+      "id": "p00388",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Third Watch. Here is a friar, that trembles, sighs, and weeps; 184",
+        "We took this mattock and this spade from him,",
+        "As he was coming from this churchyard side."
+      ]
+    },
+    {
+      "id": "p00389",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "First Watch. A great suspicion: stay the friar too. 187"
+      ]
+    },
+    {
+      "id": "p00390",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Prince with others."
+      ]
+    },
+    {
+      "id": "p00391",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. What misadventure is so early up,",
+        "That calls our person from our morning's rest?"
+      ]
+    },
+    {
+      "id": "p00392",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Capulet and his Wife."
+      ]
+    },
+    {
+      "id": "p00393",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Cap. What should it be, that they so shriek abroad?"
+      ]
+    },
+    {
+      "id": "p00394",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. The people in the street cry Romeo,",
+        "Some Juliet, and some Paris; and all run 192",
+        "With open outcry toward our monument."
+      ]
+    },
+    {
+      "id": "p00395",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. What fear is this which startles in your ears?"
+      ]
+    },
+    {
+      "id": "p00396",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "First Watch. Sovereign, here lies the County Paris slain;",
+        "And Romeo dead; and Juliet, dead before, 196",
+        "Warm and new kill'd."
+      ]
+    },
+    {
+      "id": "p00397",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. Search, seek, and know how this foul murder comes."
+      ]
+    },
+    {
+      "id": "p00398",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "First Watch. Here is a friar, and slaughter'd Romeo's man;",
+        "With instruments upon them, fit to open 200",
+        "These dead men's tombs."
+      ]
+    },
+    {
+      "id": "p00399",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Cap. O, heaven!—O wife! look how our daughter bleeds!",
+        "This dagger hath mista'en!—for, lo, his house",
+        "Is empty on the back of Montague— 204",
+        "And is mis-sheathed in my daughter's bosom."
+      ]
+    },
+    {
+      "id": "p00400",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Lady Cap. O me! this sight of death is as a bell,",
+        "That warns my old age to a sepulchre."
+      ]
+    },
+    {
+      "id": "p00401",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Enter Montague."
+      ]
+    },
+    {
+      "id": "p00402",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. Come, Montague: for thou art early up, 208",
+        "To see thy son and heir more early down."
+      ]
+    },
+    {
+      "id": "p00403",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Mon. Alas! my liege, my wife is dead to-night;",
+        "Grief of my son's exile hath stopp'd her breath.",
+        "What further woe conspires against mine age? 212"
+      ]
+    },
+    {
+      "id": "p00404",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. Look, and thou shalt see."
+      ]
+    },
+    {
+      "id": "p00405",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Mon. O thou untaught! what manners is in this,",
+        "To press before thy father to a grave?"
+      ]
+    },
+    {
+      "id": "p00406",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. Seal up the mouth of outrage for a while, 216",
+        "Till we can clear these ambiguities,",
+        "And know their spring, their head, their true descent;",
+        "And then will I be general of your woes,",
+        "And lead you even to death: meantime forbear, 220",
+        "And let mischance be slave to patience.",
+        "Bring forth the parties of suspicion."
+      ]
+    },
+    {
+      "id": "p00407",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. I am the greatest, able to do least,",
+        "Yet most suspected, as the time and place 224",
+        "Doth make against me, of this direful murder;",
+        "And here I stand, both to impeach and purge",
+        "Myself condemned and myself excus'd."
+      ]
+    },
+    {
+      "id": "p00408",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. Then say at once what thou dost know in this. 228"
+      ]
+    },
+    {
+      "id": "p00409",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Fri. L. I will be brief, for my short date of breath",
+        "Is not so long as is a tedious tale.",
+        "Romeo, there dead, was husband to that Juliet;",
+        "And she, there dead, that Romeo's faithful wife:",
+        "I married them; and their stolen marriage-day",
+        "Was Tybalt's doomsday, whose untimely death",
+        "Banish'd the new-made bridegroom from this city;",
+        "For whom, and not for Tybalt, Juliet pin'd. 236",
+        "You, to remove that siege of grief from her,",
+        "Betroth'd, and would have married her perforce,",
+        "To County Paris: then comes she to me,",
+        "And, with wild looks bid me devise some mean",
+        "To rid her from this second marriage, 241",
+        "Or in my cell there would she kill herself.",
+        "Then gave I her,—so tutor'd by my art,—",
+        "A sleeping potion; which so took effect 244",
+        "As I intended, for it wrought on her",
+        "The form of death: meantime I writ to Romeo",
+        "That he should hither come as this dire night,",
+        "To help to take her from her borrow'd grave, 248",
+        "Being the time the potion's force should cease.",
+        "But he which bore my letter, Friar John,",
+        "Was stay'd by accident, and yesternight",
+        "Return'd my letter back. Then, all alone, 252",
+        "At the prefixed hour of her waking,",
+        "Came I to take her from her kindred's vault,",
+        "Meaning to keep her closely at my cell,",
+        "Till I conveniently could send to Romeo: 256",
+        "But, when I came,—some minute ere the time",
+        "Of her awakening,—here untimely lay",
+        "The noble Paris and true Romeo dead.",
+        "She wakes; and I entreated her come forth, 260",
+        "And bear this work of heaven with patience;",
+        "But then a noise did scare me from the tomb,",
+        "And she, too desperate, would not go with me,",
+        "But, as it seems, did violence on herself. 264",
+        "All this I know; and to the marriage",
+        "Her nurse is privy: and, if aught in this",
+        "Miscarried by my fault, let my old life",
+        "Be sacrific'd, some hour before his time, 268",
+        "Unto the rigour of severest law."
+      ]
+    },
+    {
+      "id": "p00410",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. We still have known thee for a holy man.",
+        "Where's Romeo's man? what can he say to this?"
+      ]
+    },
+    {
+      "id": "p00411",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Bal. I brought my master news of Juliet's death; 272",
+        "And then in post he came from Mantua",
+        "To this same place, to this same monument.",
+        "This letter he early bid me give his father,",
+        "And threaten'd me with death, going in the vault, 276",
+        "If I departed not and left him there."
+      ]
+    },
+    {
+      "id": "p00412",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. Give me the letter; I will look on it.",
+        "Where is the county's page that rais'd the watch?",
+        "Sirrah, what made your master in this place?"
+      ]
+    },
+    {
+      "id": "p00413",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Page. He came with flowers to strew his lady's grave, 281",
+        "And bid me stand aloof, and so I did;",
+        "Anon, comes one with light to ope the tomb;",
+        "And by and by my master drew on him; 184",
+        "And then I ran away to call the watch."
+      ]
+    },
+    {
+      "id": "p00414",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. This letter doth make good the friar's words,",
+        "Their course of love, the tidings of her death:",
+        "And here he writes that he did buy a poison 288",
+        "Of a poor 'pothecary, and therewithal",
+        "Came to this vault to die, and lie with Juliet.",
+        "Where be these enemies?—Capulet! Montague!",
+        "See what a scourge is laid upon your hate, 292",
+        "That heaven finds means to kill your joys with love;",
+        "And I, for winking at your discords too,",
+        "Have lost a brace of kinsmen: all are punish'd."
+      ]
+    },
+    {
+      "id": "p00415",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Cap. O brother Montague! give me thy hand: 296",
+        "This is my daughter's jointure, for no more",
+        "Can I demand."
+      ]
+    },
+    {
+      "id": "p00416",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Mon. But I can give thee more;",
+        "For I will raise her statue in pure gold;",
+        "That while Verona by that name is known, 300",
+        "There shall no figure at such rate be set",
+        "As that of true and faithful Juliet."
+      ]
+    },
+    {
+      "id": "p00417",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Cap. As rich shall Romeo by his lady lie;",
+        "Poor sacrifices of our enmity! 304"
+      ]
+    },
+    {
+      "id": "p00418",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Prince. A glooming peace this morning with it brings;",
+        "The sun, for sorrow, will not show his head:",
+        "Go hence, to have more talk of these sad things:",
+        "Some shall be pardon'd, and some punished:",
+        "For never was a story of more woe 309",
+        "Than this of Juliet and her Romeo. Exeunt omnes."
+      ]
+    },
+    {
+      "id": "p00419",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "FINIS."
+      ]
+    },
+    {
+      "id": "p00420",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Footnotes to Act V"
+      ]
+    },
+    {
+      "id": "p00421",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene One"
+      ]
+    },
+    {
+      "id": "p00422",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "1 flattering truth; cf. n.",
+        "3 bosom's lord: heart",
+        "11 shadows: phantoms",
+        "21 took post: started on a post-horse",
+        "28 import: indicate",
+        "39 weeds: garments",
+        "overwhelming: overhanging",
+        "40 simples: medicinal herbs",
+        "45 beggarly account, etc.; cf. n.",
+        "47 cakes of roses: solid perfume from rose-petals",
+        "52 caitiff: miserable",
+        "59 ducats: coins each worth not quite a dollar",
+        "60 gear: stuff",
+        "63 trunk: body",
+        "67 utters: gives out"
+      ]
+    },
+    {
+      "id": "p00423",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene Two"
+      ]
+    },
+    {
+      "id": "p00424",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "6 associate: accompany",
+        "8 searchers: health officers",
+        "12 stay'd: stopped",
+        "18 charge: importance",
+        "21 crow: crowbar",
+        "25 beshrew: blame"
+      ]
+    },
+    {
+      "id": "p00425",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene Three"
+      ]
+    },
+    {
+      "id": "p00426",
+      "page": 2,
+      "kind": "prose",
+      "lines": [
+        "Scene Three S. d. sweet: perfumed",
+        "3 all along: at full length",
+        "20 cross: thwart",
+        "21 muffle: hide",
+        "33 jealous: mistrustful",
+        "44 doubt: suspect",
+        "48 despite: defiance",
+        "53 apprehend: arrest",
+        "68 conjurations: earnest entreaties",
+        "74 peruse: survey",
+        "76 betossed: troubled",
+        "84 lantern: a windowed turret, as often over the center of large churches",
+        "86 presence: presence-chamber, great room of state",
+        "89 keepers: sick-nurses",
+        "90 lightning: exhilaration",
+        "108 Depart again; cf. n.",
+        "110 rest; cf. n.",
+        "115 dateless: everlasting",
+        "engrossing: monopolizing",
+        "121 speed: protector",
+        "122 stumbled; cf. n.",
+        "148 comfortable: affording comfort",
+        "162 timeless: untimely",
+        "165 Haply: perhaps",
+        "173 attach: arrest",
+        "180 ground: reason",
+        "203 house: scabbard",
+        "207 warns: summons",
+        "216 outrage: violent language",
+        "221 Cf. n.",
+        "222 of: under",
+        "226 purge: free from suspicion",
+        "247 as this: this",
+        "253 prefixed: previously fixed",
+        "255 closely: secretly",
+        "273 post: haste",
+        "305 glooming: dark"
+      ]
+    }
+  ]
+}

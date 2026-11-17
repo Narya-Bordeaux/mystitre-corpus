@@ -1,0 +1,12 @@
+# Roméo et Juliette — compte rendu
+
+- **Œuvre** : *Roméo et Juliette*, William Shakespeare (original anglais, 1597/1599).
+- **Source** : en.wikisource, « Romeo and Juliet (1917) Yale » (The Yale Shakespeare, 1917) ; seuls le prologue, l'acte I et l'acte V sont téléchargés. Texte traduit par nos soins (« Claude (agent), traduction sur l'original, à relire »).
+- **Traduction libre écartée** : fr.wikisource « Roméo et Juliette (trad. Hugo) » (François-Victor Hugo, 1868, libre de droits), d'abord enregistrée puis remplacée. Comparaison : le prologue correspond (« Deux familles, égales en noblesse » ↔ « Two households, both alike in dignity »), mais la fin diverge : Hugo suit la version de 1599 et s'achève sur « Quelle qu'en soit la cause, l'effet inévitable est une calamité », alors que l'original standard s'achève sur « For never was a story of more woe / Than this of Juliet and her Romeo ». Les traductions de Guizot et de Laroche, citées sur la page de l'œuvre, n'existent pas sur Wikisource. Pas de traduction fidèle disponible → traduction de l'original.
+- **Corps du texte** : p00003 (prologue du Chœur) → p00418 (dernière réplique du Prince). Exclus : titre, indications scéniques, notes, « FINIS ».
+- **Corrections déclarées** (8) : l'édition Yale ne balise pas les locuteurs et laisse les numéros de vers dans le texte ; retrait de « Chor. », « Cap. », « Prince. », des numéros de vers 5, 12, 304, 309 et de « Exeunt omnes. » dans les paragraphes des extraits.
+- **Extraits** : ouverture 410 caractères (2 phrases, le prologue), clôture 364 caractères (2 phrases : fin de la réplique de Capulet, puis celle du Prince).
+- **Points douteux** : les noms de locuteurs n'apparaissent pas dans les extraits (édition non balisée), si bien que la clôture mêle sans étiquette Capulet et le Prince. Le découpage en phrases est correct pour les extraits (vers regroupés) mais isole les noms abrégés (« Mon. ») ailleurs. Traduction en vers libres non rimés, à relire.
+- **Écart avec l'ancienne citation** : ouverture « Deux maisons, de même rang… » au lieu de « Deux maisons, d'égale dignité… » ; clôture plus longue (commence par la réplique de Capulet) mais même finale.
+- **Hésitation** : choix entre Hugo (texte propre mais autre version de la pièce) et l'original (texte non balisé, nettoyé par corrections) ; fidélité préférée.
+- **Ajout à la fusion (17/11/2026)** : les noms de personnages sont rétablis par des corrections `speaker` (CHORUS → LE CHŒUR, CAPULET, PRINCE → LE PRINCE). L'ouverture compte désormais 422 caractères et la clôture 388.

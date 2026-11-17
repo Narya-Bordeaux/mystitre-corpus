@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-trois-royaumes",
+  "title": "Les Trois Royaumes",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Wikisource chinois, page « 三國演義 », chapitres 1 et 120 ; édition non indiquée au-delà du titre",
+    "pages": [
+      {
+        "title": "三國演義/第001回",
+        "revisionId": 2583915
+      },
+      {
+        "title": "三國演義/第120回",
+        "revisionId": 2568085
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "126ce7998e9dd3ba173fc7a28849ef6aed37e0a951d7aaa25b145fb3b28bbff4"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00006.s1",
+      "p00006.s2",
+      "p00006.s3"
+    ],
+    "french": "Voici ce qu'on raconte : la marche du monde veut que ce qui est longtemps divisé se réunisse, et que ce qui est longtemps uni se divise. À la fin des Zhou, sept royaumes se disputèrent l'empire, puis furent tous absorbés par les Qin. Quand les Qin furent détruits, les royaumes de Chu et de Han se disputèrent à leur tour l'empire, et tous deux furent absorbés par les Han.",
+    "original": "話說天下大勢，分久必合，合久必分。周末七國分爭，併入於秦。及秦滅之後，楚、漢分爭，又併入於漢。",
+    "length": 373,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00087.s1",
+      "p00088.s1",
+      "p00089.s1"
+    ],
+    "french": "Chenliu, Guiming, Anle : les rois, marquis et ducs descendent tous de la même souche.\nLes affaires du monde se pressent sans fin ; le décret du ciel est vaste et nul ne peut lui échapper.\nLe trépied aux trois pieds est devenu un songe ; ceux qui viennent après ne peuvent que méditer en vain sur ses ruines.",
+    "original": "陳留歸命與安樂，王侯公爵從根苗。\n紛紛世事無窮盡，天數茫茫不可逃。\n鼎足三分已成夢，後人憑弔空牢騷。",
+    "length": 307,
+    "truncated": false
+  }
+}

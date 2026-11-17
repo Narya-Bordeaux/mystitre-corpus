@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-souffrances-du-jeune-werther",
+  "title": "Les Souffrances du jeune Werther",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "Allemand",
+    "translator": "Jean-Jacques Porchat",
+    "translationYear": 1860,
+    "translatorDeathYear": 1864,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Jean-Jacques_Porchat-Bressenel&oldid=12380666",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Jean-Jacques Porchat, 1860)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Goethe, Œuvres, traduction de Jean-Jacques Porchat, tome V, 1860 (Wikisource, trad. Porchat)",
+    "pages": [
+      {
+        "title": "Les Souffrances du jeune Werther (trad. Porchat)",
+        "revisionId": 14082164
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "830aed38c87f2f299f4dffbc404f4d5706ad802caf55eb57af8c18e03b6583a2"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3",
+      "p00003.s4",
+      "p00003.s5"
+    ],
+    "french": "Comme je suis joyeux d’être parti ! Cher ami, qu’est-ce que le cœur de l’homme ? Te quitter, toi qui m’es si cher, toi dont j’étais inséparable, et sentir de la joie ! Je sais que tu me le pardonnes. Mes autres relations n’étaient-elles pas choisies par le sort tout exprès pour tourmenter un cœur comme le mien ?",
+    "original": "Comme je suis joyeux d’être parti ! Cher ami, qu’est-ce que le cœur de l’homme ? Te quitter, toi qui m’es si cher, toi dont j’étais inséparable, et sentir de la joie ! Je sais que tu me le pardonnes. Mes autres relations n’étaient-elles pas choisies par le sort tout exprès pour tourmenter un cœur comme le mien ?",
+    "length": 313,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00504.s4",
+      "p00504.s5",
+      "p00504.s6",
+      "p00504.s7",
+      "p00504.s8",
+      "p00504.s9"
+    ],
+    "french": "La présence du bailli et les mesures qu’il prit calmèrent l’effervescence. Vers onze heures de la nuit, il fit ensevelir son ami à la place qu’il avait choisie. Le père et les fils suivirent le convoi ; Albert en fut incapable. On craignit pour la vie de Charlotte. Des ouvriers portèrent le corps. Aucun ecclésiastique ne l’accompagna.",
+    "original": "La présence du bailli et les mesures qu’il prit calmèrent l’effervescence. Vers onze heures de la nuit, il fit ensevelir son ami à la place qu’il avait choisie. Le père et les fils suivirent le convoi ; Albert en fut incapable. On craignit pour la vie de Charlotte. Des ouvriers portèrent le corps. Aucun ecclésiastique ne l’accompagna.",
+    "length": 336,
+    "truncated": false
+  }
+}

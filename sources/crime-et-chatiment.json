@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "crime-et-chatiment",
+  "title": "Crime et châtiment",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Crime et Châtiment, traduction de Victor Derély, Plon, Paris, 1884 (pages Wikisource « Crime et Châtiment/I/1 » et « Crime et Châtiment/Épilogue/2 »)",
+  "pages": [
+    {
+      "title": "Crime et Châtiment/I/1",
+      "revisionId": 4082048
+    },
+    {
+      "title": "Crime et Châtiment/Épilogue/2",
+      "revisionId": 5669087
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d2901848b18e44bd1fcd10bf094631fe366a72fb07983064dbcaf959aeb982de",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Au commencement de juillet, par une soirée excessivement cha"
+  },
+  "bodyEnd": {
+    "id": "p00098",
+    "textPrefix": "Mais ici commence une seconde histoire, l’histoire de la len"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "russe",
+    "translator": "Victor Derély",
+    "translationYear": 1884,
+    "translatorDeathYear": 1904,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Victor_Derély&oldid=11885288",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-16",
+  "notes": [
+    "Début au premier paragraphe du chapitre I ; exclut les titres de partie et de chapitre et la mention « fin du tome second. » (p00099)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

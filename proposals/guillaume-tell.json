@@ -1,0 +1,84 @@
+{
+  "formatVersion": 1,
+  "bookId": "guillaume-tell",
+  "title": "Guillaume Tell",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "édition non indiquée (Wikisource allemande, « Wilhelm Tell », 5 actes)",
+    "pages": [
+      {
+        "title": "Wilhelm Tell/Erster Aufzug",
+        "revisionId": 2047699
+      },
+      {
+        "title": "Wilhelm Tell/Zweiter Aufzug",
+        "revisionId": 1193038
+      },
+      {
+        "title": "Wilhelm Tell/Dritter Aufzug",
+        "revisionId": 1197292
+      },
+      {
+        "title": "Wilhelm Tell/Vierter Aufzug",
+        "revisionId": 1757100
+      },
+      {
+        "title": "Wilhelm Tell/Fünfter Aufzug",
+        "revisionId": 1192897
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2db0b65f7f6bb37a02aaac28172dc853941059eb96fb3469ba2cbce176ed8841"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "Fischerknabe singt im Kahn\n",
+      "replace": "",
+      "reason": "Nom du chanteur et indication musicale : didascalies de mise en page incluses dans le paragraphe par l'édition ; seule la chanson est gardée."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "(Melodie des Kuhreihens)\n",
+      "replace": "",
+      "reason": "Indication musicale (didascalie), non lue."
+    }
+  ],
+  "reviewFlags": [
+    "p00004 : remplacement ample (27 caractères changés)",
+    "p00004 : remplacement ample (25 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1"
+    ],
+    "french": "Le lac sourit, il invite au bain,\nL’enfant s’est endormi sur la rive verte,\nEt il entend un son,\nDoux comme des flûtes,\nComme des voix d’anges\nAu paradis.\nEt quand il s’éveille dans une joie bienheureuse,\nLes eaux déjà lui baignent la poitrine,\nEt une voix monte des profondeurs :\nCher enfant, tu es à moi !",
+    "original": "Es lächelt der See, er ladet zum Bade,\nDer Knabe schlief ein am grünen Gestade,\n     Da hört er ein Klingen,\n     Wie Flöten so süß,\n     Wie Stimmen der Engel\n     Im Paradieß.\nUnd wie er erwachet in seliger Lust,\nDa spühlen die Wasser ihm um die Brust,\n     Und es ruft aus den Tiefen:\n     Lieb Knabe, bist mein!",
+    "length": 307,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00294.s3",
+      "p00294.s4",
+      "p00294.s5",
+      "p00294.s6",
+      "p00294.s7"
+    ],
+    "french": "Je remets mon droit entre vos mains vaillantes,\nVoulez-vous me protéger comme votre concitoyenne ?\nLes gens du pays\nNous le voulons, de notre bien et de notre sang.\nBertha\nEh bien !\nAlors je tends la main à ce jeune homme,\nLa Suissesse libre à l’homme libre !\nRudenz\nEt je déclare libres tous mes serfs.",
+    "original": "In eure tapfre Hand leg ich mein Recht,\nWollt ihr als eure Bürgerin mich schützen?\nLandleute\nDas wollen wir mit Gut und Blut.\nBertha\n Wohlan!\nSo reich ich diesem Jüngling meine Rechte,\nDie freie Schweizerin dem freien Mann!\nRudenz\nUnd frei erklär’ ich alle meine Knechte.",
+    "length": 303,
+    "truncated": false
+  }
+}

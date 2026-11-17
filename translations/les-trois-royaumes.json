@@ -1,0 +1,152 @@
+{
+ "formatVersion": 1,
+ "bookId": "les-trois-royaumes",
+ "sourceLanguage": "zh",
+ "cleanTextSha256": "126ce7998e9dd3ba173fc7a28849ef6aed37e0a951d7aaa25b145fb3b28bbff4",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00006.s1",
+   "original": "話說天下大勢，分久必合，合久必分。",
+   "translation": "Voici ce qu'on raconte : la marche du monde veut que ce qui est longtemps divisé se réunisse, et que ce qui est longtemps uni se divise."
+  },
+  {
+   "id": "p00006.s2",
+   "original": "周末七國分爭，併入於秦。",
+   "translation": "À la fin des Zhou, sept royaumes se disputèrent l'empire, puis furent tous absorbés par les Qin."
+  },
+  {
+   "id": "p00006.s3",
+   "original": "及秦滅之後，楚、漢分爭，又併入於漢。",
+   "translation": "Quand les Qin furent détruits, les royaumes de Chu et de Han se disputèrent à leur tour l'empire, et tous deux furent absorbés par les Han."
+  },
+  {
+   "id": "p00006.s4",
+   "original": "漢朝自高祖斬白蛇而起義，一統天下。",
+   "translation": "La dynastie des Han s'était levée quand Gaozu, ayant tranché le serpent blanc, prit les armes et unifia l'empire."
+  },
+  {
+   "id": "p00006.s5",
+   "original": "後來光武中興，傳至獻帝，遂分為三國。",
+   "translation": "Plus tard, Guangwu releva la dynastie, qui se transmit jusqu'à l'empereur Xian, puis l'empire se divisa en trois royaumes."
+  },
+  {
+   "id": "p00006.s6",
+   "original": "推其致亂之由，殆始於桓、靈二帝。",
+   "translation": "Si l'on cherche l'origine du désordre, elle remonte sans doute aux deux empereurs Huan et Ling."
+  },
+  {
+   "id": "p00006.s7",
+   "original": "桓帝禁錮善類，崇信宦官。",
+   "translation": "L'empereur Huan emprisonna les gens de bien et accorda toute sa confiance aux eunuques."
+  },
+  {
+   "id": "p00006.s8",
+   "original": "及桓帝崩，靈帝即位，大將軍竇武、太傅陳蕃，共相輔佐。",
+   "translation": "À la mort de Huan, Ling monta sur le trône, et le grand général Dou Wu et le grand précepteur Chen Fan l'assistèrent ensemble."
+  },
+  {
+   "id": "p00006.s9",
+   "original": "時有宦官曹節等弄權，竇武、陳蕃謀誅之，作事不密，反為所害，中涓自此愈橫。",
+   "translation": "Il y avait alors des eunuques, Cao Jie et d'autres, qui abusaient du pouvoir ; Dou Wu et Chen Fan résolurent de les faire périr, mais, ayant mal gardé le secret, ils furent au contraire perdus par eux, et les eunuques n'en devinrent que plus insolents."
+  },
+  {
+   "id": "p00007.s1",
+   "original": "建寧二年四月望日，帝御溫德殿。",
+   "translation": "La deuxième année de l'ère Jianning, au quinzième jour du quatrième mois, l'empereur se rendit au palais Wende."
+  },
+  {
+   "id": "p00007.s2",
+   "original": "方陞座，殿角狂風驟起，只見一條大青蛇，從梁上飛將下來，蟠於椅上。",
+   "translation": "Comme il allait prendre place sur son siège, une rafale de vent s'éleva soudain à l'angle du palais, et l'on vit un grand serpent vert descendre en volant de la poutre et s'enrouler sur le siège."
+  },
+  {
+   "id": "p00007.s3",
+   "original": "帝驚倒，左右急救入宮，百官俱奔避。",
+   "translation": "L'empereur tomba de frayeur ; ses gens l'emportèrent en hâte dans l'intérieur du palais, et tous les officiers s'enfuirent."
+  },
+  {
+   "id": "p00007.s4",
+   "original": "須臾，蛇不見了。",
+   "translation": "Un instant après, le serpent avait disparu."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00075.s1",
+   "original": "威震天子令諸侯，總領貔貅鎮中土。",
+   "translation": "Il fit trembler le Fils du Ciel et commanda aux seigneurs, à la tête de ses troupes de fauves, il tint le Milieu du monde."
+  },
+  {
+   "id": "p00076.s1",
+   "original": "樓桑玄德本皇孫，義結關張願扶主。",
+   "translation": "Xuande de Louesang, petit-fils d'empereur, se lia par serment à Guan et à Zhang, résolu à soutenir son prince."
+  },
+  {
+   "id": "p00077.s1",
+   "original": "東西奔走恨無家，將寡兵微作羈旅。",
+   "translation": "Courant de l'est à l'ouest, déplorant de n'avoir point de foyer, avec peu de généraux et de faibles troupes il vécut en exilé."
+  },
+  {
+   "id": "p00078.s1",
+   "original": "南陽三顧情何深，臥龍一見分寰宇。",
+   "translation": "Quelle profondeur dans l'affection des trois visites à Nanyang ! Au premier regard sur le Dragon couché, il partagea l'empire."
+  },
+  {
+   "id": "p00079.s1",
+   "original": "先取荊州後取川，霸業王圖在天府。",
+   "translation": "Il prit d'abord Jingzhou, puis le Sichuan, et fonda son œuvre royale dans la terre d'abondance."
+  },
+  {
+   "id": "p00080.s1",
+   "original": "嗚呼三載逝升遐，白帝託孤堪痛楚！",
+   "translation": "Hélas ! en trois ans il monta au ciel ; confier son fils à Baidi fut une douleur insupportable !"
+  },
+  {
+   "id": "p00081.s1",
+   "original": "孔明六出祁山前，願以隻手將天補。",
+   "translation": "Kongming sortit six fois devant Qishan, voulant de sa seule main réparer le ciel."
+  },
+  {
+   "id": "p00082.s1",
+   "original": "何期歷數到此終，長星半夜落山塢！",
+   "translation": "Qui eût cru que le cours du destin finirait là ? Une longue étoile tomba dans la nuit sur la colline."
+  },
+  {
+   "id": "p00083.s1",
+   "original": "姜維獨憑氣力高，九伐中原空劬勞。",
+   "translation": "Jiang Wei, ne comptant que sur sa force, fit neuf expéditions contre les plaines centrales, peine perdue."
+  },
+  {
+   "id": "p00084.s1",
+   "original": "鍾會鄧艾分兵進，漢室江山盡屬曹。",
+   "translation": "Zhong Hui et Deng Ai avancèrent en divisant leurs troupes, et les fleuves et les monts de la maison des Han revinrent tous aux Cao."
+  },
+  {
+   "id": "p00085.s1",
+   "original": "丕叡芳髦纔及奐，司馬又將天下交。",
+   "translation": "Pi, Rui, Fang, Mao, puis Huan, à peine passés, Sima à son tour prit l'empire en main."
+  },
+  {
+   "id": "p00086.s1",
+   "original": "受禪臺前雲霧起，石頭城下無波濤。",
+   "translation": "Devant la terrasse de l'abdication montèrent les nuages et les brumes ; au pied de la forteresse de Shitou, plus aucune vague."
+  },
+  {
+   "id": "p00087.s1",
+   "original": "陳留歸命與安樂，王侯公爵從根苗。",
+   "translation": "Chenliu, Guiming, Anle : les rois, marquis et ducs descendent tous de la même souche."
+  },
+  {
+   "id": "p00088.s1",
+   "original": "紛紛世事無窮盡，天數茫茫不可逃。",
+   "translation": "Les affaires du monde se pressent sans fin ; le décret du ciel est vaste et nul ne peut lui échapper."
+  },
+  {
+   "id": "p00089.s1",
+   "original": "鼎足三分已成夢，後人憑弔空牢騷。",
+   "translation": "Le trépied aux trois pieds est devenu un songe ; ceux qui viennent après ne peuvent que méditer en vain sur ses ruines."
+  }
+ ]
+}

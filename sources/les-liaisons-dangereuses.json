@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-liaisons-dangereuses",
+  "title": "Les Liaisons dangereuses",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, sommaire « Les Liaisons dangereuses » (lettres 1 à 175) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "Les Liaisons dangereuses/Lettre 1",
+      "revisionId": 12193118
+    },
+    {
+      "title": "Les Liaisons dangereuses/Lettre 175",
+      "revisionId": 4181408
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "cc41b756c96e345f92b9ddc7717e3a006f48119e01c430997590b872eb8f7a31",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Tu vois, ma bonne amie, que je te tiens parole, & que les bo"
+  },
+  "bodyEnd": {
+    "id": "p00021",
+    "textPrefix": "Adieu, ma chère & digne amie ; j’éprouve en ce moment que no"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de lettre (p00002, p00001), date et lieu (p00022), « FIN. » (p00023). L'avertissement de l'éditeur et la préface du rédacteur ne sont pas enregistrés (paratexte). Le texte s'ouvre sur la première phrase de la lettre 1 et se clôt sur la dernière phrase de la lettre 175."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

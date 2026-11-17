@@ -3,27 +3,22 @@
   "bookId": "le-vilain-petit-canard",
   "title": "Le Vilain Petit Canard",
   "textOrigin": {
-    "kind": "publicDomainTranslation",
+    "kind": "foreignOriginal",
     "originalLanguage": "da",
-    "translator": "David Soldi",
-    "translationYear": 1876,
-    "translatorDeathYear": 1884,
-    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:David_Soldi&oldid=11885352",
-    "publicDomainBasis": "translatorDeathYear",
-    "label": "Traduction libre de droits (David Soldi, 1876)"
+    "label": "Traduction par nos soins à partir de l'original (da)"
   },
-  "translatedBy": null,
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
   "source": {
-    "host": "fr.wikisource.org",
-    "edition": "Contes d’Andersen, traduction de David Soldi, illustrations de Bertall, Hachette, 1876, p. 284-301 (d’après fr.wikisource)",
+    "host": "da.wikisource.org",
+    "edition": "Édition non indiquée (d'après da.wikisource, « Den grimme Ælling »)",
     "pages": [
       {
-        "title": "Contes d’Andersen/Le Vilain Petit Canard",
-        "revisionId": 9185742
+        "title": "Den grimme Ælling",
+        "revisionId": 77388
       }
     ],
     "cleanerVersion": 1,
-    "cleanTextSha256": "15ba2b6183a236b2e2142c98969f80b2f4cdcd15951d7cd47c6f03c4430a24b5"
+    "cleanTextSha256": "44f2266ee7fe183dbef9a0e2df57cb87c5339b52588daf04392e1a3d3aff422b"
   },
   "titleMasks": [
     "vilain petit canard"
@@ -31,22 +26,21 @@
   "createdOn": "2026-11-16",
   "opening": {
     "sentenceIds": [
-      "p00003.s1",
-      "p00003.s2"
+      "p00001.s1",
+      "p00001.s2"
     ],
-    "french": "Que la campagne était belle ! On était au milieu de l’été ; les blés agitaient des épis d’un jaune magnifique, l’avoine était verte, et dans les prairies le foin s’élevait en monceaux odorants ; la cigogne se promenait sur ses longues jambes rouges, en bavardant de l’égyptien, langue qu’elle avait apprise de madame sa mère.",
-    "original": "Que la campagne était belle ! On était au milieu de l’été ; les blés agitaient des épis d’un jaune magnifique, l’avoine était verte, et dans les prairies le foin s’élevait en monceaux odorants ; la cigogne se promenait sur ses longues jambes rouges, en bavardant de l’égyptien, langue qu’elle avait apprise de madame sa mère.",
-    "length": 325,
+    "french": "Qu'il faisait beau à la campagne ! C'était l'été ; le blé était jaune, l'avoine verte, le foin était dressé en meules dans les prés verdoyants, et la cigogne y marchait sur ses longues jambes rouges et parlait égyptien, car elle avait appris cette langue de sa mère. Autour des champs et des prés s'étendaient de grandes forêts, et au milieu des forêts de profonds lacs ; oui, il faisait vraiment beau là-bas, à la campagne !",
+    "original": "Der var saa deiligt ude paa Landet; det var Sommer, Kornet stod guult, Havren grøn, Høet var reist i Stakke nede i de grønne Enge, og der gik Storken paa sine lange, røde Been og snakkede ægyptisk, for det Sprog havde han lært af sin Moder. Rundtom Ager og Eng var der store Skove, og midt i Skovene dybe Søer; jo, der var rigtignok deiligt derude paa Landet!",
+    "length": 425,
     "truncated": false
   },
   "closing": {
     "sentenceIds": [
-      "p00087.s5",
-      "p00087.s6"
+      "p00066.s1"
     ],
-    "french": "Et le sureau même inclinait ses branches vers lui, et le soleil répandait une lumière si chaude et si bienfaisante ! Alors ses plumes se gonflèrent, son cou élancé se dressa, et il s’écria de tout son cœur : « Comment aurais-je pu rêver tant de bonheur, pendant que je n’étais qu’un [TITRE]. »",
-    "original": "Et le sureau même inclinait ses branches vers lui, et le soleil répandait une lumière si chaude et si bienfaisante ! Alors ses plumes se gonflèrent, son cou élancé se dressa, et il s’écria de tout son cœur : « Comment aurais-je pu rêver tant de bonheur, pendant que je n’étais qu’un vilain petit canard. »",
-    "length": 305,
-    "truncated": false
+    "french": "…aile, il ne savait lui-même que faire ! il était bien trop heureux, mais pas du tout fier, car un bon cœur ne devient jamais fier ! il songeait à la façon dont il avait été persécuté et raillé, et il entendait maintenant tout le monde dire qu'il était le plus beau de tous les beaux oiseaux ; et les lilas penchaient leurs branches jusque dans l'eau devant lui, et le soleil brillait si chaud et si bon, alors ses plumes se gonflèrent, son cou élancé se dressa, et du fond du cœur il s'écria avec jubilation : « Je n'aurais jamais rêvé tant de bonheur quand je n'étais que le [TITRE] ! »",
+    "original": "Da følte den sig ganske undseelig og stak Hovedet om bag Vingerne, den vidste ikke selv hvad! den var altfor lykkelig, men slet ikke stolt, thi et godt Hjerte bliver aldrig stolt! den tænkte paa, hvor den havde været forfulgt og forhaanet, og hørte nu Alle sige, at den var den deiligste af alle deilige Fugle; og Sirenerne bøiede sig med Grenene lige ned i Vandet til den, og Solen skinnede saa varmt og saa godt, da bruste dens Fjedre, den slanke Hals hævede sig, og af Hjertet jublede den: “saa megen Lykke drømte jeg ikke om, da jeg var den grimme Ælling!”",
+    "length": 599,
+    "truncated": true
   }
 }

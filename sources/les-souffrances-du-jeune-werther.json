@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-souffrances-du-jeune-werther",
+  "title": "Les Souffrances du jeune Werther",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Goethe, Œuvres, traduction de Jean-Jacques Porchat, tome V, 1860 (Wikisource, trad. Porchat)",
+  "pages": [
+    {
+      "title": "Les Souffrances du jeune Werther (trad. Porchat)",
+      "revisionId": 14082164
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "830aed38c87f2f299f4dffbc404f4d5706ad802caf55eb57af8c18e03b6583a2",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Comme je suis joyeux d’être parti ! Cher ami, qu’est-ce que "
+  },
+  "bodyEnd": {
+    "id": "p00504",
+    "textPrefix": "Les aînés de ses fils arrivèrent à pied, bientôt après lui. "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "Allemand",
+    "translator": "Jean-Jacques Porchat",
+    "translationYear": 1860,
+    "translatorDeathYear": 1864,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Jean-Jacques_Porchat-Bressenel&oldid=12380666",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intertitre « LIVRE PREMIER. » et date de la première lettre (« 4 mai. »), note de bas de page finale (p00505). Corps : de la première phrase de la lettre du 4 mai à la fin du récit de l'éditeur."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

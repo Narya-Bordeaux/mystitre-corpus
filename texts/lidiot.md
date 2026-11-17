@@ -1,0 +1,202 @@
+# L'Idiot
+
+Source : L’Idiot, traduction de Victor Derély, Plon, Paris, 1887 (pages Wikisource « L’Idiot/I/Chapitre 1 » et « L’Idiot/IV/Chapitre 12 ») — fr.wikisource.org
+
+Origine : Traduction libre de droits (Victor Derély, 1887)
+
+- [L’Idiot/I/Chapitre 1](https://fr.wikisource.org/w/index.php?title=L’Idiot/I/Chapitre_1&oldid=5672024)
+- [L’Idiot/IV/Chapitre 12](https://fr.wikisource.org/w/index.php?title=L’Idiot/IV/Chapitre_12&oldid=3078317)
+
+`p00001` **PREMIÈRE PARTIE**
+
+`p00002` **I**
+
+`p00003` C’était à la fin de novembre ; par un temps de dégel, humide et brumeux, le train de Varsovie arrivait à toute vapeur à Pétersbourg. Le brouillard était tel qu’à neuf heures du matin on voyait à peine clair ; à droite et à gauche de la voie ferrée il était difficile d’apercevoir quelque chose par les fenêtres du wagon. Dans le nombre des voyageurs, il y en avait bien quelques-uns qui revenaient de l’étranger, mais les voitures les plus remplies étaient celles de troisième classe, et les gens de peu qui les occupaient ne venaient pas de fort loin. Tous étaient fatigués, transis ; tous avaient les yeux appesantis par une nuit d’insomnie ; le brouillard mettait une pâleur jaunâtre sur tous les visages.
+
+`p00004` Depuis l’aurore, dans un des compartiments de troisième classe, se trouvaient assis en face l’un de l’autre, près de la même fenêtre, deux voyageurs, — tous deux jeunes, tous deux vêtus sans élégance, tous deux porteurs de physionomies assez remarquables, tous deux, enfin, désireux d’entrer en conversation ensemble. Si chacun d’eux avait su ce que son vis-à-vis offrait de particulièrement curieux en ce moment, ils se seraient sans doute étonnés du hasard étrange qui les avait mis en face l’un de l’autre dans un wagon de troisième classe, sur la ligne de Varsovie à Pétersbourg. L’un d’eux, âgé de vingt-sept ans, était de petite taille ; il avait des cheveux crépus et presque noirs, des yeux gris, petits, mais pleins de feu. Son nez était épaté, ses pommettes saillantes ; ses lèvres minces esquissaient continuellement un sourire effronté, moqueur et même méchant ; mais le front, haut et bien modelé, corrigeait l’impression déplaisante que produisait le bas de la figure. Ce qui frappait surtout dans ce visage, c’était sa pâleur cadavérique. Quoique le jeune homme fût d’une constitution assez robuste, cette pâleur donnait à l’ensemble de sa physionomie un air d’épuisement, et, en même temps, quelque chose de douloureusement passionné qui ne s’harmonisait ni avec le sourire impudent des lèvres, ni avec l’expression hardie et présomptueuse du regard. Chaudement enveloppé dans une large pelisse d’agneau, il n’avait pas eu froid la nuit, tandis que la fraîcheur nocturne de l’automne russe avait glacé son voisin, qui, évidemment, n’était pas préparé à l’affronter. Ce dernier avait sur lui un gros manteau pourvu d’un immense capuchon et privé de manches, comme en portent les touristes qui, en hiver, visitent la haute Italie ou la Suisse. Mais ce qui était bon pour voyager dans ces contrées devenait tout à fait insuffisant en Russie. Le possesseur de ce manteau, jeune homme de vingt-six ou vingt-sept ans, était d’une taille un peu au-dessus de la moyenne ; il avait des cheveux blonds et épais, des joues creuses, une petite barbe pointue et presque complètement blanche. Ses yeux étaient grands, bleus et fixes ; leur regard doux mais pesant offrait cette expression étrange qui révèle à certains observateurs un individu sujet aux attaques d’épilepsie. Le jeune homme avait des traits agréables, fins et délicats, mais son visage était pâle et même, en ce moment, bleui par le froid. Ses mains tenaient un petit paquet, — probablement tout son bagage, — enveloppé dans un vieux foulard passé de couleur. Ses pieds étaient chaussés de souliers aux semelles épaisses, et, — autre particularité contraire aux usages russes, — il portait des guêtres. L’homme à la pelisse d’agneau examina, un peu par désœuvrement, tout l’extérieur de son voisin, et à la fin lui adressa la parole.
+
+`p00005` — Vous êtes frileux ? demanda-t-il avec un haussement d’épaules.
+
+`p00006` En même temps, il avait sur les lèvres ce sourire inconvenant par lequel les gens mal élevés expriment quelquefois leur satisfaction à la vue des misères du prochain.
+
+`p00007` — Très-frileux, répondit avec un empressement extraordinaire l’interpellé, — et, remarquez, ce n’est encore que le dégel. Que serait-ce s’il gelait ? Je ne pensais même pas qu’il faisait si froid chez nous. Je n’ai plus l’habitude de ce climat.
+
+`p00008` — Vous arrivez de l’étranger, sans doute ?
+
+`p00009` — Oui, de la Suisse.
+
+`p00010` — Fu — u !…
+
+`p00011` Le voyageur aux cheveux noirs siffla et se mit à rire.
+
+`p00012` La conversation s’engagea. Avec une complaisance étonnante, le jeune homme blond répondit à toutes les questions de son interlocuteur, sans remarquer aucunement combien certaines d’entre elles étaient déplacées. Interrogé, il fit connaître, notamment, qu’en effet, pendant longtemps, plus de quatre ans, il avait séjourné hors de la Russie : on l’avait envoyé à l’étranger parce qu’il était malade ; il souffrait d’une singulière affection nerveuse caractérisée par des tremblements et des convulsions ; c’était quelque chose dans le genre de l’épilepsie ou de la danse de Saint-Guy. En l’écoutant, l’homme aux cheveux noirs sourit plusieurs fois, surtout quand, à la question : « Eh bien, vous a-t-on guéri ? » son voisin eut répondu : « Non, on ne m’a pas guéri ».
+
+`p00013` — Hé ! sans doute ils vous ont fait débourser pour rien beaucoup d’argent, et ici nous avons foi en eux ! observa aigrement le voyageur à la pelisse d’agneau.
+
+`p00014` — C’est l’exacte vérité ! ajouta un monsieur mal mis qui se trouvait assis près d’eux ; — c’est parfaitement vrai, ils ne font qu’absorber en pure perte toutes les ressources de la Russie !
+
+`p00015` Celui qui venait de se mêler à la conversation avait la tournure d’un scribe de chancellerie ; c’était un robuste quadragénaire au nez rouge et au visage bourgeonné.
+
+`p00016` — Oh ! combien vous vous trompez en ce qui me concerne ? reprit d’un ton doux et conciliant le client de la médecine suisse : — assurément je ne puis contester vos dires, parce que je ne sais pas tout, mais mon docteur s’est saigné pour me fournir les moyens de revenir en Russie, et, pendant près de deux ans, il m’a gardé là-bas à ses frais.
+
+`p00017` — Comment ? il n’y avait personne pour le payer ? demanda le voyageur aux cheveux noirs.
+
+`p00018` — Non ; monsieur Pavlichtcheff, qui pourvoyait à mon entretien en Suisse, est mort il y a deux ans ; j’ai écrit ensuite ici à la générale Épantchine, ma parente éloignée, mais je n’ai pas reçu de réponse. Là-dessus, je suis parti.
+
+`p00019` — Où allez-vous donc ?
+
+`p00020` — Vous me demandez où je compte descendre ?… Ma foi, je n’en sais rien encore… c’est comme cela tombera…
+
+`p00021` — Vous n’êtes pas encore fixé ?
+
+`p00022` Et, de nouveau, le voyageur aux cheveux noirs se mit à rire, ainsi que le monsieur au nez rouge.
+
+`p00023` — J’ai peur que tout votre avoir ne soit contenu dans ce foulard ?… dit le premier.
+
+`p00024` — Je le parierais, ajouta le second d’un air extrêmement satisfait ; — je suis sûr qu’à cela se réduit tout votre bagage ; du reste, pauvreté n’est pas vice.
+
+`p00025` La supposition de ces deux messieurs se trouvait être conforme à la réalité, et le jeune homme blond n’hésita pas une minute à le reconnaître.
+
+`p00026` — Votre petit paquet ne laisse pas d’avoir une certaine importance, continua l’employé, après qu’ils eurent ri tout leur soûl (chose à noter, celui dont ils se moquaient avait fini lui-même, en les regardant, par s’associer à leur hilarité, ce qui les avait fait rire de plus belle), — et quoiqu’on puisse parier que les rouleaux de napoléons et de frédérics d’or y brillent par leur absence, cependant… si, en sus de ce modeste bagage, vous possédez une parente comme la générale Épantchine, cela ne sera pas sans modifier passablement la signification de votre petit paquet. Bien entendu, ce que j’en dis, c’est seulement pour le cas où la générale Épantchine serait effectivement votre parente, et où vous ne vous tromperiez point, par distraction… ce qui est on ne peut plus naturel à l’homme… s’il a beaucoup d’imagination.
+
+`p00027` — Oh ! vous avez encore deviné juste, répondit le voyageur blond ; — en effet, voyez-vous, je me trompe presque, je veux dire qu’elle est à peine ma parente. C’est au point que je ne me suis nullement étonné de son silence. Je m’y attendais.
+
+`p00028` — Vous avez fait inutilement la dépense d’un timbre-poste. Hum… au moins vous êtes franc et naïf, cela est louable ! Hum… nous connaissons le général Épantchine parce que tout le monde le connaît. Le défunt monsieur Pavlichtcheff qui pourvoyait à votre entretien en Suisse, nous l’avons aussi connu, si toutefois c’était Nicolas Andréiévitch Pavlichtcheff, car il y avait deux cousins germains qui portaient ce nom. L’autre habite encore en Crimée ; mais Nicolas Andréiévitch, celui qui est mort, était un homme considéré, il possédait de hautes relations et il a eu dans son temps quatre mille âmes…
+
+`p00029` — C’est bien lui, on l’appelait Nicolas Andréiévitch Pavlichtcheff, répondit le jeune homme, et il regarda attentivement ce monsieur qui savait tout.
+
+`p00030` Ces gens si bien informés se rencontrent parfois, et même assez fréquemment, dans une certaine couche sociale. Il n’est rien qu’ils ne sachent ; toute leur curiosité d’esprit, toutes leurs facultés d’investigation sont incessamment tournées du même côté, sans doute en l’absence d’intérêts vitaux plus importants, comme dirait un penseur moderne. Du reste, cette omniscience qu’ils possèdent est circonscrite à un domaine assez restreint : ils savent où sert un tel, qui connaît, combien il a de fortune, où il a été gouverneur, avec qui il s’est marié, ce que sa femme lui a apporté en dot, quels sont ses cousins germains et issus de germains, etc., etc. La plupart du temps, les messieurs qui sont ainsi au courant de toutes choses ont des habits troués au coude et touchent par mois dix-sept roubles d’honoraires, mais ils trouvent dans leur savoir une satisfaction d’amour-propre qui les console au milieu de l’adversité.
+
+`p00031` Pendant toute cette conversation, le jeune homme aux cheveux noirs regardait négligemment par la fenêtre, bâillait, et avait hâte d’être arrivé au terme de son voyage. Il semblait distrait, fort distrait, presque inquiet ; sa manière d’être devint même étrange : parfois il regardait sans voir, écoutait sans entendre, riait sans savoir lui-même pourquoi.
+
+`p00032` — Mais permettez, avec qui ai-je l’honneur ?….. demanda tout à coup le monsieur bourgeonné au propriétaire du petit paquet.
+
+`p00033` — Le prince Léon Nikolaïévitch Muichkine, lui fut-il immédiatement répondu.
+
+`p00034` — Le prince Muichkine ? Léon Nikolaïévitch ? Je ne connais pas. Je n’en ai même jamais entendu parler, dit en réfléchissant l’employé ; — je ne parle pas du nom, le nom est historique, on peut et on doit le trouver dans l’histoire de Karamzine ; je parle du personnage, il ne se rencontre plus nulle part de princes Muichkine et même la renommée a cessé de s’occuper d’eux.
+
+`p00035` — Oh ! je crois bien ! reprit aussitôt le jeune homme ; — à présent il n’existe plus d’autres princes Muichkine que moi ; je dois être le dernier. Quant à mes ancêtres, depuis plusieurs générations, c’étaient des gentilshommes paysans. Mon père, du reste, a été sous-lieutenant dans l’armée. Mais je ne sais pas comment la générale Épantchine se trouve être une princesse Muichkine ; c’est aussi la dernière dans son genre…
+
+`p00036` — Hé, hé, hé ! la dernière dans son genre ! Comme vous avez tourné cela ! fit en riant l’employé.
+
+`p00037` Le mot amena aussi un sourire sur les lèvres du monsieur aux cheveux noirs. Le prince fut un peu étonné d’avoir commis un calembour, d’ailleurs, assez mauvais.
+
+`p00038` — Figurez-vous que j’ai dit cela tout à fait sans y penser, expliqua-t-il enfin.
+
+`p00039` — Cela se comprend, cela se comprend, répondit gaiement l’employé.
+
+`p00040` — Mais là-bas, prince, vous étudiiez, vous aviez un professeur ? demanda soudain l’autre voyageur.
+
+`p00041` — Oui… j’étudiais…
+
+`p00042` — Eh bien, moi, je n’ai jamais rien appris.
+
+`p00043` — Je n’ai pas non plus acquis beaucoup d’instruction, observa le prince, comme s’il eût voulu s’excuser, — mon état de santé ne me permettait pas de faire des études suivies.
+
+`p00044` — Connaissez-vous les Rogojine ? reprit vivement le jeune homme aux cheveux noirs.
+
+`p00045` — Non, je ne les connais pas du tout. Je ne connais presque personne en Russie. Vous êtes un Rogojine ?
+
+`p00046` — Oui, je m’appelle Parfène Rogojine.
+
+`p00047` — Parfène ? Mais ne seriez-vous pas un de ces Rogojine… commença l’employé avec une gravité renforcée.
+
+`p00048` — Oui, un de ceux-là même, répondit impatiemment le jeune homme sans laisser au monsieur bourgeonné le temps d’achever sa phrase ; du reste, pendant toute cette conversation, il ne s’était pas une seule fois adressé à lui et n’avait jamais causé qu’avec le prince.
+
+`p00049` L’employé stupéfait ouvrit de grands yeux, et tout son visage prit à l’instant une expression de respect servile, craintif même.
+
+`p00050` — Mais… comment cela ? poursuivit-il ; — vous seriez le fils de ce même Sémen Parfénovitch Rogojine, bourgeois notable héréditaire, qui est mort il y a un mois, laissant un capital de deux millions et demi ?
+
+`p00051` — Et comment as-tu su qu’il avait laissé deux millions et demi de capital net ? répliqua le voyageur aux cheveux noirs sans daigner cette fois encore regarder le monsieur bourgeonné, et il ajouta en le montrant des yeux au prince : — Voyez donc, il n’a pas plutôt appris la chose qu’il fait déjà le chien couchant ! Mais c’est la vérité que mon père est mort et qu’après un mois passé à Pskoff je reviens chez moi dans l’accoutrement d’un va-nu-pieds. Ni mon coquin de frère ni ma mère ne m’ont rien envoyé ; je n’ai reçu ni argent ni avis ! On n’en aurait pas usé autrement à l’égard d’un chien ! La fièvre m’a tenu alité à Pskoff pendant tout un mois !
+
+`p00052` — Mais maintenant vous allez toucher d’un seul coup un joli petit million, si pas plus ; oh ! Seigneur ! dit le monsieur bourgeonné en frappant ses mains l’une contre l’autre.
+
+`p00053` — Eh bien, qu’est-ce que ça peut lui faire ? dites-le-moi, je vous prie, reprit Rogojine en désignant de nouveau le fonctionnaire par un geste irrité : — je ne te donnerai pas un kopek, lors même que tu marcherais devant moi les pieds en l’air.
+
+`p00054` — C’est ce que je ferai.
+
+`p00055` — A-t-on jamais vu cela ! Mais tu peux bien danser pendant toute une semaine, je ne te donnerai rien !
+
+`p00056` — Eh bien, ne me donne rien ! C’est ce que je veux ; ne me donne rien ! Mais je danserai. Je planterai là ma femme, mes petits enfants, et je danserai devant toi.
+
+`p00057` Pouah ! fit le jeune homme aux cheveux noirs en lançant un jet de salive, et il s’adressa ensuite au prince : — Tenez, il y a cinq semaines, je n’avais d’autre bagage qu’un petit paquet comme le vôtre quand je me suis enfui de la maison paternelle pour aller à Pskoff, chez ma tante. Là, je suis tombé malade, et, en mon absence, mon père est mort. Il a été emporté par une attaque d’apoplexie. Mémoire éternelle au défunt, mais peu s’en est fallu qu’il ne m’ait fait mourir sous les coups ! Le croirez-vous, prince ? si je ne m’étais pas sauvé de chez lui, il m’aurait certainement tué.
+
+`p00058` — Vous aviez d’une façon quelconque excité sa colère ? demanda le prince, qui considérait avec une vive curiosité ce millionnaire si pauvrement vêtu. Du reste, indépendamment de la grosse fortune dont il se trouvait hériter, le propriétaire de la pelisse d’agneau avait encore en lui quelque chose qui étonnait et intéressait Muichkine. Lui-même, de son côté, aimait à s’entretenir avec le prince. Toutefois, s’il causait volontiers, c’était moins par un besoin naïf d’épanchement que pour fournir un dérivatif à son agitation. On aurait dit qu’il avait encore la fièvre. Quant à l’employé, suspendu aux lèvres de Rogojine, il retenait son souffle et recueillait, comme un diamant, chaque parole qui sortait de la bouche du jeune homme.
+
+`p00059` — Sans doute il était furieux, et peut-être avait-il lieu de l’être, répondit Rogojine, — mais c’est surtout mon frère qui m’a nui dans son esprit. De ma mère il est inutile de parler ; elle est âgée, lit le ménologe, passe tout son temps avec de vieilles femmes et ne voit que par les yeux de mon frère Senka. Mais lui, pourquoi ne m’a-t-il pas prévenu en temps utile ? Nous comprenons cela ! À la vérité, j’étais alors sans connaissance. Il paraît, du reste, qu’on m’a expédié un télégramme. Malheureusement, il a été reçu par ma tante, qui est veuve depuis trente ans et ne voit, du matin au soir, que des iourodiviis. Ce n’est pas une nonne, c’est encore pis. Le télégramme lui a fait peur, et, sans le décacheter, elle est allée le porter au bureau de police où il est resté jusqu’à ce moment. Je n’ai appris les choses que par une lettre de Vasili Vasilitch Konieff, il m’a tout révélé. Un poêle de brocart rehaussé de houppes en or filé recouvrait le cercueil de mon père : la nuit, mon frère a coupé ces houppes, se disant que « cela avait de la valeur » Eh bien, rien que pour ce seul fait, il est dans le cas d’aller en Sibérie, si je le veux, parce que c’est un vol sacrilége. Hein, qu’en dis-tu, tête à effrayer les moineaux ? demanda-t-il au monsieur bourgeonné. — Comment la loi qualifie-t-elle cela : spoliation des choses saintes ?
+
+`p00060` — Oui, oui, spoliation des choses saintes ! confirma aussitôt l’employé.
+
+`p00061` — On va en Sibérie pour cela ?
+
+`p00062` — Oui, oui ! On l’y enverra tout de suite !
+
+`p00063` — Ils me croient toujours malade, continua Rogojine en s’adressant au prince, — mais moi, subrepticement, sans rien dire, j’ai pris le train, bien qu’encore malade, et je suis parti pour Pétersbourg. Ce que mon frère Sémen Séménitch va être surpris quand il me verra arriver ! Il me desservait auprès du défunt, je le sais. Mais il est vrai aussi que, cette fois-là, si mon père s’est fâché contre moi, c’est à propos de Nastasia Philippovna. La faute en a été à moi seul, et je n’ai eu que ce que je méritais.
+
+`p00064` — À propos de Nastasia Philippovna ?… répéta servilement l’employé, à qui ce nom semblait rappeler quelque chose.
+
+`p00065` — Mais tu ne la connais pas ! cria Rogojine impatienté.
+
+`p00066` — Si fait, je la connais ! répliqua avec un accent de triomphe le monsieur bourgeonné.
+
+`p00067` — Allons donc ! Il y a de par le monde bien des Nastasia Philippovna ! Quel toupet tu as, vraiment ! J’étais sûr qu’un être pareil allait tout de suite s’accrocher à moi ! ajouta-t-il en s’adressant au prince.
+
+`p00068` — Peut-être que je la connais ! reprit l’employé : — Lébédeff a beaucoup de connaissances ! Votre Altesse m’invective, mais si je prouve que j’ai dit la vérité ?… Cette Nastasia Philippovna, à cause de qui votre père vous a donné des coups de trique, s’appelle, de son nom de famille, Barachkoff : c’est, pour ainsi dire, une dame de qualité, et aussi, dans son genre, une princesse. Elle est liée avec un certain propriétaire nommé Afanase Ivanovitch Totzky et elle n’a pas d’autre amant que lui. Ce Totzky est un gros capitaliste, membre de plusieurs sociétés financières et, comme tel, en relations d’affaires et d’amitié avec le général Épantchine…
+
+`p00069` — Eh diable ! mais c’est qu’il la connaît réellement ! fit Rogojine surpris.
+
+`p00070` — Il sait tout ! Lébédeff n’ignore rien ! Pendant deux mois, Altesse, j’ai roulé partout avec Alexis Likhatcheff, qui venait aussi de perdre son père ; il ne pouvait pas faire un pas sans Lébédeff. À présent il est détenu dans une prison pour dettes, mais alors il a eu l’occasion de les connaître toutes : et Armance, et Coralie, et la princesse Patzky, et Nastasia Philippovna.
+
+`p00071` Les lèvres de Rogojine blêmirent et commencèrent à trembler.
+
+`p00072` — Nastasia Philippovna ? Mais est-ce qu’elle a été avec Likhatcheff ?… demanda-t-il en lançant un regard de colère à l’employé.
+
+`p00073` — Non, pas du tout ! se hâta de répondre celui-ci. — Likhatcheff lui a en vain offert des sommes folles, il n’a rien pu obtenir d’elle ! Non, ce n’est pas comme Armance. Son seul amant est Totzky. Mais le soir on la voit dans sa loge au Grand Théâtre, ou au Théâtre Français, et les officiers qui sont là bavardent entre eux. Toutefois ils ne peuvent rien prouver. On se la montre, on dit : « Tenez, voilà cette Nastasia Philippovna », mais c’est tout ; on n’en dit pas plus, parce qu’il n’y a rien de plus à dire.
+
+`p00074` — C’est ainsi, en effet, observa Rogojine d’un air sombre ; — cela s’accorde bien avec ce que m’a dit, dans le temps, Zaliojeff. Alors, prince, je traversais la perspective Nevsky, vêtu d’une vieille redingote appartenant à mon père. Elle sortit d’un magasin et monta en voiture. Incontinent je me sentis comme percé d’un trait de feu. Je rencontrai Zaliojeff ; sa tenue ne ressemblait pas à la mienne : il était mis avec élégance et avait un lorgnon sur l’œil, tandis que moi, chez mon père, je portais des bottes de roussi. « Elle n’est pas de ton bord, me dit-il ; c’est une princesse, on l’appelle Nastasia Philippovna Barachkoff et elle vit avec Totzky. Maintenant celui-ci voudrait à tout prix se débarrasser d’elle, parce que, malgré ses cinquante-cinq ans, il a en vue un mariage avec la première beauté de tout Pétersbourg. » Zaliojeff ajouta que si j’allais ce soir-là au Grand Théâtre pour la représentation du ballet, je pourrais apercevoir Nastasia Philippovna dans une baignoire. Chez nous, il ne faisait pas bon aller voir un ballet, c’était s’exposer à être roué de coups par le père. Néanmoins, m’esquivant à la dérobée, j’allai passer une heure au théâtre et je revis Nastasia Philippovna ; de toute la nuit je ne pus dormir. Le lendemain, le défunt me remit deux titres de cinq pour cent, représentant chacun une valeur de cinq mille roubles. « Vends-les, me dit-il ; ensuite tu iras régler un compte de sept mille cinq cents roubles que j’ai chez les Andréieff et tu me rapporteras immédiatement le reste de l’argent. Ne t’amuse pas en route, je t’attends. » Je négociai les titres, mais, au lieu d’aller chez les Andréieff, je me rendis droit au Magasin Anglais. Là, j’achetai des pendeloques de diamants ; chacune était à peu près de la grosseur d’une noisette ; leur prix dépassait de quatre cents roubles la somme que j’avais en poche ; je me nommai et le marchand me fit crédit. Après cela, j’allai trouver Zaliojeff : « Viens avec moi chez Nastasia Philippovna », lui dis-je. Nous partîmes. Ce que j’avais alors sous mes pieds, devant moi, à mes côtés, je ne saurais le dire, je ne me le rappelle pas. Nous entrâmes dans la salle, elle-même vint nous recevoir. Je ne me fis point connaître et ce fut Zaliojeff qui prit la parole : « De la part de Parfène Rogojine », dit-il, « en souvenir de la rencontre d’hier ; veuillez accepter. » Elle ouvrit l’écrin, regarda les pendeloques et sourit. « Remerciez votre ami monsieur Rogojine de son aimable attention », répondit-elle, et, nous ayant fait une révérence, elle se retira. Eh bien, pourquoi ne suis-je pas mort en ce moment même ? Si j’avais pris sur moi de faire cette visite, c’est que je m’étais dit : « Peu importe, je n’en reviendrai pas vivant ! » Et le plus vexant pour moi, c’était de me voir éclipsé par cet animal de Zaliojeff. Avec ma petite taille et ma mise de larbin, je gardais un silence embarrassé, je me bornais à la contempler en ouvrant de grands yeux ; lui, au contraire, vêtu comme un gandin, pommadé, frisé, avait dans ses façons toute la désinvolture d’un homme du monde, et elle l’a certainement pris pour moi. Quand nous fûmes sortis, je lui dis : « À l’avenir, ne t’avise plus de m’accompagner, tu comprends ! » « Eh bien, mais à présent comment vas-tu faire pour rendre tes comptes à Sémen Parfénitch ? » me répondit-il en riant. J’avoue qu’alors j’avais plutôt envie d’aller me jeter à l’eau que de retourner chez mon père, mais je me dis : « Tant pis, advienne que pourra ! » et je revins à la maison comme un damné.
+
+`p00075` — Eh ! ouf ! fit l’employé avec une mimique exprimant l’épouvante, — c’est que le défunt vous expédiait un homme dans l’autre monde, pas seulement pour dix mille roubles, mais même pour dix roubles, expliqua-t-il au prince. Celui-ci considérait d’un œil curieux Rogojine, dont le visage semblait plus pâle encore en ce moment.
+
+`p00076` — Il expédiait dans l’autre monde ! Qu’en sais-tu ? vociféra le narrateur en réponse à l’employé, puis, se tournant vers le prince, il poursuivit son récit : — L’histoire ne tarda pas à arriver aux oreilles de mon père ; d’ailleurs, Zaliojeff était allé la raconter partout. Le vieillard me fit monter à l’étage supérieur de la maison, et, après s’y être enfermé avec moi, me rossa pendant une heure entière. « Ce n’est là qu’un commencement : ce soir je viendrai encore te régaler », me dit-il. Que pensez-vous qu’il fit ensuite ? Cet homme à cheveux blancs alla chez Nastasia Philippovna, la salua jusqu’à terre et se mit à la supplier en pleurant. À la fin elle alla chercher l’écrin et le lui jeta. « Tiens, vieille barbe, dit-elle, voilà tes boucles d’oreilles, mais elles ont acquis dix fois plus de prix à mes yeux maintenant que je sais à quel traitement Parfène s’est exposé pour me les offrir. Salue et remercie Parfène Séménitch ». Moi, pendant ce temps-là, avec la permission de ma mère, j’empruntais vingt roubles à Serge Protouchine et je partais pour Pskoff. J’y arrivai tremblant la fièvre. Les vieilles femmes se mirent à me faire la lecture du calendrier ecclésiastique. Ennuyé, j’allai dépenser dans les débits de boisson le reste de mon argent. Au sortir d’un cabaret, je roulai ivre-mort sur le pavé et je passai là toute la nuit. Le lendemain j’eus le délire. Ce ne fut pas sans peine que je repris l’usage de mes sens.
+
+`p00077` — Allons, allons, maintenant nous ferons la fête avec Nastasia Philippovna ! dit gaiement l’employé en se frottant les mains ; — à présent, monsieur, qu’importent ces boucles d’oreilles ? À présent nous lui en donnerons d’autres !…
+
+`p00078` — Si tu dis encore un seul mot au sujet de Nastasia Philippovna, je te fouetterai, quoique tu aies été le compagnon de Likhatcheff, cria Rogojine, et il saisit violemment le bras de Lébédeff.
+
+`p00079` — Si tu me fouettes, ce sera la preuve que tu ne me repousses pas ! Fouette-moi, les coups sont une prise de possession ! Quand on a fouetté quelqu’un, on a par cela même scellé… Mais nous voici arrivés !
+
+`p00080` Effectivement, le train entrait en gare. Quoique Rogojine eût dit qu’il était parti secrètement, plusieurs individus l’attendaient. En l’apercevant, ils commencèrent à crier et à agiter leurs chapkas.
+
+`p00081` — Tiens, Zaliojeff est là aussi ! murmura Rogojine, qui les considérait avec un sourire mêlé d’orgueil et de malignité ; puis tout à coup il s’adressa à Muichkine : — Prince, je ne sais pas pourquoi je t’ai pris en affection. C’est peut-être parce que je t’ai rencontré dans un pareil moment ; pourtant je l’ai aussi rencontré, continua-t-il en montrant Lébédeff, — et il n’a éveillé aucune sympathie en moi. Viens me voir, prince. Nous t’ôterons ces guêtres, je te donnerai une pelisse de martre numéro un ; je te ferai faire tout ce qu’il y a de mieux comme frac, un gilet blanc, ou un autre, à ton choix ; je fourrerai de l’argent plein tes poches et… nous irons chez Nastasia Philippovna ! Viendras-tu, oui ou non ?
+
+`p00082` — Prêtez l’oreille à ses paroles, prince Léon Nikolaïévitch ! dit solennellement l’employé. — Oh ! ne laissez pas échapper une si bonne occasion  !
+
+`p00083` Le prince Muichkine se leva à demi, tendit poliment la main à Rogojine et lui répondit d’un ton aimable :
+
+`p00084` — J’irai vous voir avec le plus grand plaisir et je vous suis très-reconnaissant de l’amitié que vous me témoignez. Peut-être même passerai-je chez vous dès aujourd’hui, si j’ai le temps. Vous-même, je vous le dis franchement, vous m’avez beaucoup plu, surtout quand vous avez raconté cette histoire de pendeloques ; mais auparavant déjà vous me plaisiez, malgré votre air sombre. Je vous remercie aussi pour les vêtements et la pelisse que vous me promettez, car bientôt, en effet, j’aurai besoin de tout cela. En ce moment je possède à peine un kopek.
+
+`p00085` — Tu auras de l’argent, tu en auras dès ce soir, viens !
+
+`p00086` — Vous en aurez, répéta comme un écho l’employé, — pas plus tard que ce soir vous en aurez !
+
+`p00087` — Et êtes-vous grand amateur du sexe féminin, prince ? Dites-moi cela bien vite !
+
+`p00088` — N-n-non ! Voyez-vous, je… Vous ne le savez peut-être pas, mais, par suite de ma maladie congénitale, je n’ai même aucune connaissance de la femme.
+
+`p00089` — Eh bien, s’il en est ainsi, prince, s’écria Rogojine, — tu es un véritable iourodivii et Dieu aime les gens comme toi.
+
+`p00090` — Le Seigneur Dieu les aime, fit à son tour l’employé.
+
+`p00091` — Toi, suis-moi, taon, dit Rogojine à Lébédeff, et tous descendirent du train.
+
+`p00092` Lébédeff avait enfin atteint son but. Bientôt la bande bruyante partit dans la direction de la perspective Voznésensky. C’était du côté de la Litéinaïa que Muichkine devait aller. Le temps était humide. Le prince questionna les passants, et quand il sut qu’il avait trois verstes à faire pour arriver à destination, il se décida à prendre une voiture.
+
+`p00093` **XII — CONCLUSION.**
+
+`p00094` S’étant rendue précipitamment à Pavlovsk, l’outchitelcha courut droit chez Daria Alexievna. Celle-ci, déjà toute bouleversée depuis la veille, fut prise d’une véritable épouvante en entendant le récit de la visiteuse. Les deux dames résolurent aussitôt de se mettre en rapport avec Lébédeff, qui, en sa double qualité de propriétaire et d’ami du prince, était, lui aussi, fort agité. Viéra Loukianovna raconta tout ce qu’elle savait. Sur le conseil de Lébédeff, on décida qu’on irait tous trois à Pétersbourg pour prévenir au plus tôt « ce qui pouvait fort bien arriver ». La conséquence fut que le lendemain, vers onze heures du matin, la police se transporta à la demeure de Rogojine avec Lébédeff, les dames et le frère de Rogojine, Sémen Séménovitch, qui habitait dans le pavillon. Le dvornik fournit un renseignement précieux : il déclara que, dans la soirée de la veille, il avait vu Parfène Séménovitch entrer par le perron avec un visiteur, et qu’ils avaient l’air de se cacher. Après cette déposition, on n’hésita plus à enfoncer la porte qui, malgré les coups de sonnette répétés, restait fermée.
+
+`p00095` La fièvre cérébrale tint Rogojine alité pendant deux mois, et, quand il eut recouvré la santé, on instruisit son affaire. Il fit les aveux les plus sincères et les plus complets ; aussi, dès le commencement de l’enquête, le prince fut-il mis hors de cause. En cour d’assises, le coupable se montra taciturne. Son habile et éloquent avocat démontra avec beaucoup de clarté et de logique que le crime avait été commis sous l’influence d’une affection cérébrale dont l’accusé souffrait depuis longtemps déjà, et qu’avaient déterminée chez lui de cruelles souffrances morales. Sans contredire ce système de défense, Rogojine ne dit pas un mot pour l’appuyer ; à l’audience, comme devant le juge d’instruction, il se borna à raconter de la façon la plus exacte tous les détails de l’assassinat. Reconnu coupable avec admission de circonstances atténuantes, il fut condamné à quinze ans de travaux forcés en Sibérie, et il écouta son arrêt dans un morne silence. Son immense fortune, dont il n’avait dissipé qu’une partie relativement insignifiante à l’époque de ses folies, passa tout entière à son frère Sémen Séménovitch, qui fut enchanté de cette aubaine. La vieille madame Rogojine vit encore et semble parfois se rappeler son bien-aimé fils Parfène ; mais elle n’a conservé de lui qu’un souvenir bien vague : dans le naufrage de son intelligence, la pauvre femme ignore du moins l’affreux malheur qui a visité sa maison.
+
+`p00096` Lébédeff, Keller, Gania, Ptitzine et plusieurs autres personnages de notre récit mènent leur existence accoutumée ; ils n’ont guère changé et nous n’avons presque rien à en dire. Hippolyte est mort un peu plus tôt qu’il ne s’y attendait, quinze jours après Nastasia Philippovna ; son agonie a été effrayante. Kolia a reçu une forte secousse de tous ces événements ; il s’est définitivement rapproché de sa mère. Nina Alexandrovna trouve qu’il est trop mélancolique pour son âge, cela l’inquiète. Il sera peut-être homme d’affaires. C’est en partie grâce à ses démarches qu’ont été prises les mesures nécessitées par l’état du prince Léon Nikolaïévitch. Parmi toutes les personnes dont il avait fait la connaissance dans ces derniers temps, Kolia avait tout particulièrement distingué Eugène Pavlovitch Radomsky ; il n’hésita pas à l’aller voir, lui raconta tout ce qui s’était passé, et l’instruisit de la situation dans laquelle se trouvait maintenant le prince. Il ne s’était pas trompé : Eugène Pavlovitch prit le plus vif intérêt au sort du malheureux « idiot » ; grâce à son active intervention, le prince fut ramené en Suisse et replacé dans l’établissement de Schneider. Eugène Pavlovitch s’est lui-même rendu à l’étranger avec l’intention d’y faire un très-long séjour, car il avoue franchement qu’il est « tout à fait inutile en Russie ». Assez souvent, c’est-à-dire une fois tous les trois ou quatre mois, il va voir son pauvre ami chez Schneider, mais à chaque visite il trouve le docteur plus découragé. Schneider hoche la tête, fronce le sourcil, donne à entendre que les organes intellectuels sont complètement détériorés, et s’il ne va pas encore jusqu’à déclarer positivement que la maladie est incurable, du moins il en dit assez pour autoriser les conjectures les plus désolantes. Eugène Pavlovitch prend cela fort à cœur, car il a du cœur, il l’a prouvé par ce fait qu’il consent à recevoir les lettres de Kolia et que même il y répond quelquefois. D’ailleurs, une particularité étrange de son caractère s’est encore révélée dans ces derniers temps, et, comme elle lui fait honneur, nous nous empressons de la signaler : après chacune de ses visites à l’établissement de Schneider, Eugène Pavlovitch, outre qu’il écrit à Kolia, adresse aussi à une autre personne de Pétersbourg un bulletin très-détaillé de la santé du prince. Sans parler des assurances du plus respectueux dévouement, ces lettres expriment certaines vues, certaines idées, certains sentiments qui, vaguement indiqués au début, se manifestent sous une forme de plus en plus précise, à mesure que se multiplient les rapports épistolaires : en un mot, c’est quelque chose qui ressemble à une amitié intime. La personne qui se trouve en correspondance (assez peu suivie, il est vrai) avec Eugène Pavlovitch, et à qui il témoigne une estime si affectueuse, n’est autre que Viéra Loukianovna Lébédeff. Nous n’avons pas pu savoir au juste comment se sont nouées de semblables relations ; il est à croire qu’elles ont pris naissance à l’occasion de l’histoire survenue au prince, histoire dont Viéra a été affectée au point d’en faire une maladie. Si nous avons mentionné cette correspondance, c’est surtout parce qu’il y était quelquefois question de la famille Épantchine et, notamment, d’Aglaé Ivanovna. Par une lettre assez incohérente, écrite de Paris, Eugène Pavlovitch apprit à Viéra qu’Aglaé s’était éprise d’un comte polonais réfugié en France, et qu’elle n’avait pas tardé à l’épouser, contrairement au désir de ses parents : ceux-ci n’avaient finalement consenti à ce mariage que par crainte de quelque scandale extraordinaire. Six mois après, Viéra qui, pendant tout ce temps, était restée sans nouvelles d’Eugène Pavlovitch, reçut de lui une lettre fort longue et remplie de détails très-circonstanciés. Le jeune homme mandait à sa correspondante que, lors de sa dernière visite au professeur Schneider, il s’était rencontré là avec le prince Chtch… et toute la famille Épantchine (sauf, bien entendu, le général, retenu à Pétersbourg par ses affaires). L’entrevue avait été étrange ; tout le monde avait accueilli Eugène Pavlovitch avec transport ; Adélaïde et Alexandra avaient même cru devoir le remercier de son « angélique sollicitude pour le malheureux prince ». En voyant dans quel état d’abaissement et de maladie se trouvait l’infortuné Léon Nikolaïévitch, Élisabeth Prokofievna n’avait pas pu retenir ses larmes. Évidemment, elle lui avait tout pardonné déjà. À cette occasion, le prince Chtch… avait prononcé quelques paroles pleines de sens et d’à-propos. Eugène Pavlovitch croyait avoir remarqué qu’une harmonie parfaite n’existait pas encore entre Adélaïde et son fiancé, mais il était persuadé qu’avec le temps la raison et l’expérience du prince Chtch… s’imposeraient à l’ardente jeune fille. D’ailleurs, les récentes leçons qu’avaient reçues les siens donnaient à réfléchir à Adélaïde ; elle était surtout frappée du triste sort de sa sœur cadette. Dans l’espace de six mois, l’événement avait plus que justifié toutes les appréhensions dont la famille Épantchine n’avait pu se défendre en accordant la main d’Aglaé au comte émigré. Cet individu n’était en réalité ni un comte, ni même un émigré, au sens politique du mot : il avait dû quitter son pays à la suite d’une affaire fort louche, et c’était le noble regret de la patrie, étalé avec ostentation par l’aventurier, qui l’avait rendu si intéressant aux yeux d’Aglaé. La jeune fille s’était tellement amourachée de cet homme, qu’avant même de l’épouser elle était entrée dans un comité organisé à l’étranger pour travailler à la restauration de la nationalité polonaise ; en outre, elle s’était mise à fréquenter le confessionnal d’un célèbre père jésuite qui avait fait d’elle une véritable fanatique. À zéro se réduisait la fortune colossale que le comte prétendait posséder, et dont il avait fourni des preuves presque irréfutables à Élisabeth Prokofievna et au prince Chtch… Tout cela n’était rien encore : après le mariage, le comte et son ami, le fameux confesseur, avaient réussi à brouiller complètement Aglaé avec sa famille, en sorte que, depuis plusieurs mois, on ne se voyait plus. Bref, il y aurait eu bien des choses à raconter, mais tous ces malheurs avaient tellement impressionné Élisabeth Prokofievna, ses filles et même le prince Chtch…, qu’ils n’osaient mentionner certains faits en causant avec Eugène Pavlovitch, et pourtant ils savaient que celui-ci était déjà parfaitement instruit des erreurs d’Aglaé Ivanovna. La pauvre Élisabeth Prokofievna aurait voulu retourner en Russie et, toujours d’après la lettre d’Eugène Pavlovitch, elle critiquait avec amertume toutes les choses de l’étranger : « Nulle part ils ne savent cuire le pain comme il faut », disait-elle à son interlocuteur, — « en hiver, ils gèlent comme des souris dans une cave ; eh bien, ici, du moins, j’ai pleuré à la russe sur ce pauvre homme », et elle montrait avec émotion le prince, qui ne la reconnaissait pas du tout. « Assez d’entrainements, il est temps d’écouter la raison. Et tout cela, tout cet Occident, toute votre Europe, ce n’est que de la fantaisie, et nous tous, à l’étranger, nous ne sommes que fantaisie… souvenez-vous de ce que je vous dis, vous le verrez vous-même ! » acheva-t-elle d’un ton presque irrité en prenant congé d’Eugène Pavlovitch.
+
+`p00097` FIN.

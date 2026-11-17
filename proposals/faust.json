@@ -1,0 +1,77 @@
+{
+  "formatVersion": 1,
+  "bookId": "faust",
+  "title": "Faust",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "Allemand",
+    "translator": "Gérard de Nerval",
+    "translationYear": 1877,
+    "translatorDeathYear": 1855,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Gérard_de_Nerval&oldid=15968393",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Gérard de Nerval, 1877)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Faust, traduction de Gérard de Nerval, édition de 1877 (Wikisource) ; Faust I seul, en prose et en vers",
+    "pages": [
+      {
+        "title": "Faust (Goethe, trad. Nerval, 1877)/Faust/Prologue sur le théâtre",
+        "revisionId": 9957294
+      },
+      {
+        "title": "Faust (Goethe, trad. Nerval, 1877)/Faust/Première partie",
+        "revisionId": 9957299
+      },
+      {
+        "title": "Faust (Goethe, trad. Nerval, 1877)/Faust/Troisième partie",
+        "revisionId": 9957313
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "86365acf272a5c6b257cd421ae68e3d0134ac8d33ece2973f48c54bae92ff811"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p01067",
+      "reason": "Didascalie (« Il disparaît avec Faust. ») écrite en prose non centrée : ce n'est pas une réplique, et elle nomme le titre."
+    }
+  ],
+  "reviewFlags": [
+    "p01067 exclu, doublon d'un autre paragraphe : « Il disparaît avec Faust. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3",
+      "p00004.s4"
+    ],
+    "french": "LE DIRECTEUR. — Ô vous dont le secours me fut souvent utile,\nDonnez-moi vos conseils pour un cas difficile.\nDe ma vaste entreprise, ami, que pensez-vous ?\nJe veux qu’ici le peuple abonde autour de nous,\nEt de le satisfaire il faut que l’on se pique,\nCar de notre existence il est la source unique.\nMais, grâce à Dieu, ce jour a comblé notre espoir,\nEt le voici là-bas, rassemblé pour nous voir,\nQui prépare à nos vœux un triomphe facile,\nEt garnit tous les bancs de sa masse immobile.",
+    "original": "LE DIRECTEUR. — Ô vous dont le secours me fut souvent utile,\nDonnez-moi vos conseils pour un cas difficile.\nDe ma vaste entreprise, ami, que pensez-vous ?\nJe veux qu’ici le peuple abonde autour de nous,\nEt de le satisfaire il faut que l’on se pique,\nCar de notre existence il est la source unique.\nMais, grâce à Dieu, ce jour a comblé notre espoir,\nEt le voici là-bas, rassemblé pour nous voir,\nQui prépare à nos vœux un triomphe facile,\nEt garnit tous les bancs de sa masse immobile.",
+    "length": 484,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01058.s1",
+      "p01060.s1",
+      "p01060.s2",
+      "p01060.s3",
+      "p01062.s1",
+      "p01064.s1",
+      "p01066.s1",
+      "p01069.s1",
+      "p01069.s2"
+    ],
+    "french": "MÉPHISTOPHÉLÈS. — Viens ! viens ! ou je t’abandonne avec elle sous le couteau !\nMARGUERITE. — Je t’appartiens, Père ! sauve-moi ! Anges, entourez-moi, protégez-moi de vos saintes armées !… Henri, tu me fais horreur !\nMÉPHISTOPHÉLÈS. — Elle est jugée !\nVOIX. — Elle est sauvée !\nMÉPHISTOPHÉLÈS. — Ici, à moi !\nVOIX. — Henri ! Henri !",
+    "original": "MÉPHISTOPHÉLÈS. — Viens ! viens ! ou je t’abandonne avec elle sous le couteau !\nMARGUERITE. — Je t’appartiens, Père ! sauve-moi ! Anges, entourez-moi, protégez-moi de vos saintes armées !… Henri, tu me fais horreur !\nMÉPHISTOPHÉLÈS. — Elle est jugée !\nVOIX. — Elle est sauvée !\nMÉPHISTOPHÉLÈS. — Ici, à moi !\nVOIX. — Henri ! Henri !",
+    "length": 332,
+    "truncated": false
+  }
+}
