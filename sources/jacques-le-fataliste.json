@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "jacques-le-fataliste",
+  "title": "Jacques le Fataliste",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, « Jacques le Fataliste et son maître » (page unique) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "Jacques le Fataliste et son maître",
+      "revisionId": 13645151
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2c458c4a1caaaca4270fd45643a763bfc880c109f808e83db1de986029df6fd4",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Comment s’étaient-ils rencontrés ? Par hasard, comme tout le"
+  },
+  "bodyEnd": {
+    "id": "p02476",
+    "textPrefix": "On a voulu me persuader que son maître et Desglands étaient "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre (p00001). Aucun paratexte avant ni après dans la page ; le dernier paragraphe (p02476) est la clôture du récit. Les étiquettes de locuteur de la page (JACQUES, LE MAÎTRE) sont des attributions de l'édition numérisée, sans effet sur les extraits."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

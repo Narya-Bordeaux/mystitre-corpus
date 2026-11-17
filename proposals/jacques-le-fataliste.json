@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "jacques-le-fataliste",
+  "title": "Jacques le Fataliste",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, « Jacques le Fataliste et son maître » (page unique) ; édition non indiquée",
+    "pages": [
+      {
+        "title": "Jacques le Fataliste et son maître",
+        "revisionId": 13645151
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2c458c4a1caaaca4270fd45643a763bfc880c109f808e83db1de986029df6fd4"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3",
+      "p00002.s4",
+      "p00002.s5",
+      "p00002.s6",
+      "p00002.s7",
+      "p00002.s8",
+      "p00002.s9",
+      "p00002.s10"
+    ],
+    "french": "Comment s’étaient-ils rencontrés ? Par hasard, comme tout le monde. Comment s’appelaient-ils ? Que vous importe ? D’où venaient-ils ? Du lieu le plus prochain. Où allaient-ils ? Est-ce que l’on sait où l’on va ? Que disaient-ils ? Le maître ne disait rien ; et Jacques disait que son capitaine disait que tout ce qui nous arrive de bien et de mal ici-bas était écrit là-haut.",
+    "original": "Comment s’étaient-ils rencontrés ? Par hasard, comme tout le monde. Comment s’appelaient-ils ? Que vous importe ? D’où venaient-ils ? Du lieu le plus prochain. Où allaient-ils ? Est-ce que l’on sait où l’on va ? Que disaient-ils ? Le maître ne disait rien ; et Jacques disait que son capitaine disait que tout ce qui nous arrive de bien et de mal ici-bas était écrit là-haut.",
+    "length": 375,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p02476.s2"
+    ],
+    "french": "JACQUES. — Je ne sais ce qui en est, mais je suis sûr qu’il se disait le soir à lui-même : « S’il est écrit là-haut que tu seras cocu, Jacques, tu auras beau faire, tu le seras ; s’il est écrit au contraire que tu ne le seras pas, ils auront beau faire, tu ne le seras pas ; dors donc, mon ami… » et qu’il s’endormait.",
+    "original": "JACQUES. — Je ne sais ce qui en est, mais je suis sûr qu’il se disait le soir à lui-même : « S’il est écrit là-haut que tu seras cocu, Jacques, tu auras beau faire, tu le seras ; s’il est écrit au contraire que tu ne le seras pas, ils auront beau faire, tu ne le seras pas ; dors donc, mon ami… » et qu’il s’endormait.",
+    "length": 318,
+    "truncated": false
+  }
+}
