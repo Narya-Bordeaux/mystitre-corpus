@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-mere",
+  "title": "La Mère",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Serge Persky",
+    "translationYear": null,
+    "translatorDeathYear": 1938,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Serge_Persky&oldid=15450187",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Serge Persky)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Mère, traduction de Serge Persky, Paris, Éditions Hier et Aujourd’hui (année non indiquée sur Wikisource)",
+    "pages": [
+      {
+        "title": "La Mère (Gorki)/1/1",
+        "revisionId": 15240502
+      },
+      {
+        "title": "La Mère (Gorki)/2/29",
+        "revisionId": 15450178
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "e6ff763478db1fc40b46745b15ab9417c6e7c6e9609e83727f78302e00b41b69"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Tous les jours, dans l’atmosphère enfumée et grave du faubourg ouvrier, la sirène de la fabrique jetait son cri strident. Alors, des gens maussades, aux muscles encore las, sortaient rapidement des petites maisons grises et couraient comme des blattes effrayées. Dans le froid demi-jour, ils s’en allaient par la rue étroite vers les hautes murailles de la fabrique qui les attendait avec certitude et dont les innombrables yeux carrés, jaunes et visqueux, éclairaient la chaussée boueuse.",
+    "original": "Tous les jours, dans l’atmosphère enfumée et grave du faubourg ouvrier, la sirène de la fabrique jetait son cri strident. Alors, des gens maussades, aux muscles encore las, sortaient rapidement des petites maisons grises et couraient comme des blattes effrayées. Dans le froid demi-jour, ils s’en allaient par la rue étroite vers les hautes murailles de la fabrique qui les attendait avec certitude et dont les innombrables yeux carrés, jaunes et visqueux, éclairaient la chaussée boueuse.",
+    "length": 489,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00112.s1",
+      "p00113.s1",
+      "p00114.s1",
+      "p00115.s1",
+      "p00116.s1",
+      "p00118.s1"
+    ],
+    "french": "— … On n’éteindra pas la vérité même sous des mers de sang…\nOn la frappa à la main.\n— … Vous n’amasserez que de la rancune, fous que vous êtes ! et cette rancune, cette haine vous submergera !…\nLe gendarme la saisit à la gorge d’une étreinte toujours plus violente.\nElle râla :\n— Les malheureux…\nQuelqu’un lui répondit par un sanglot prolongé.",
+    "original": "— … On n’éteindra pas la vérité même sous des mers de sang…\nOn la frappa à la main.\n— … Vous n’amasserez que de la rancune, fous que vous êtes ! et cette rancune, cette haine vous submergera !…\nLe gendarme la saisit à la gorge d’une étreinte toujours plus violente.\nElle râla :\n— Les malheureux…\nQuelqu’un lui répondit par un sanglot prolongé.",
+    "length": 343,
+    "truncated": false
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-mere",
+  "title": "La Mère",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Mère, traduction de Serge Persky, Paris, Éditions Hier et Aujourd’hui (année non indiquée sur Wikisource)",
+  "pages": [
+    {
+      "title": "La Mère (Gorki)/1/1",
+      "revisionId": 15240502
+    },
+    {
+      "title": "La Mère (Gorki)/2/29",
+      "revisionId": 15450178
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "e6ff763478db1fc40b46745b15ab9417c6e7c6e9609e83727f78302e00b41b69",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Tous les jours, dans l’atmosphère enfumée et grave du faubou"
+  },
+  "bodyEnd": {
+    "id": "p00118",
+    "textPrefix": "Quelqu’un lui répondit par un sanglot prolongé."
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Serge Persky",
+    "translationYear": null,
+    "translatorDeathYear": 1938,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Serge_Persky&oldid=15450187",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intertitres de chapitre (I) et mention « FIN ». Le texte enregistré ne garde que le chapitre I de la première partie et le dernier de la seconde."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
