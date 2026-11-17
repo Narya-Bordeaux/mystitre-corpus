@@ -33,7 +33,10 @@
   "notes": [
     "Exclus : numéros de chapitres (I, XI) et « FIN ». Chapitre I de la première partie et chapitre XI de la troisième seuls enregistrés."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Madame Bovary",
+    "Bovary"
+  ],
   "readingOptions": [],
   "textCorrections": [
     {

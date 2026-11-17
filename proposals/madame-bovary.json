@@ -24,7 +24,10 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "51609f223f92c2dd6668165e1e5895ee02259fc069fec70d1dd3a90aca2cb20a"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Madame Bovary",
+    "Bovary"
+  ],
   "textCorrections": [
     {
       "kind": "replace",
@@ -60,7 +63,7 @@
       "p00122.s2",
       "p00123.s1"
     ],
-    "french": "Elle est pauvre et l’envoie, pour gagner sa vie, dans une filature de coton.\nDepuis la mort de Bovary, trois médecins se sont succédé à Yonville sans pouvoir y réussir, tant M. Homais les a tout de suite battus en brèche. Il fait une clientèle d’enfer ; l’autorité le ménage et l’opinion publique le protège.\nIl vient de recevoir la croix d’honneur.",
+    "french": "Elle est pauvre et l’envoie, pour gagner sa vie, dans une filature de coton.\nDepuis la mort de [TITRE], trois médecins se sont succédé à Yonville sans pouvoir y réussir, tant M. Homais les a tout de suite battus en brèche. Il fait une clientèle d’enfer ; l’autorité le ménage et l’opinion publique le protège.\nIl vient de recevoir la croix d’honneur.",
     "original": "Elle est pauvre et l’envoie, pour gagner sa vie, dans une filature de coton.\nDepuis la mort de Bovary, trois médecins se sont succédé à Yonville sans pouvoir y réussir, tant M. Homais les a tout de suite battus en brèche. Il fait une clientèle d’enfer ; l’autorité le ménage et l’opinion publique le protège.\nIl vient de recevoir la croix d’honneur.",
     "length": 349,
     "truncated": false
