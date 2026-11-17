@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "de-la-terre-a-la-lune",
+  "title": "De la Terre à la Lune",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, De la Terre à la Lune (édition non indiquée), chapitres 1 et 28",
+    "pages": [
+      {
+        "title": "De la Terre à la Lune/Chapitre 1",
+        "revisionId": 15598150
+      },
+      {
+        "title": "De la Terre à la Lune/Chapitre 28",
+        "revisionId": 3513060
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6764151c5b2739e469530973a81e3a88348d37bc9adbb8cd9de72baac1b2218e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Pendant la guerre fédérale des États-Unis, un nouveau club très-influent s’établit dans la ville de Baltimore, en plein Maryland. On sait avec quelle énergie l’instinct militaire se développa chez ce peuple d’armateurs, de marchands et de mécaniciens. De simples négociants enjambèrent leur comptoir pour s’improviser capitaines, colonels, généraux, sans avoir passé par les écoles d’application de West-Point ; ils égalèrent bientôt dans « L’art de la guerre » leurs collègues du vieux continent, et comme eux ils remportèrent des victoires à force de prodiguer les boulets, les millions et les…",
+    "original": "Pendant la guerre fédérale des États-Unis, un nouveau club très-influent s’établit dans la ville de Baltimore, en plein Maryland. On sait avec quelle énergie l’instinct militaire se développa chez ce peuple d’armateurs, de marchands et de mécaniciens. De simples négociants enjambèrent leur comptoir pour s’improviser capitaines, colonels, généraux, sans avoir passé par les écoles d’application de West-Point ; ils égalèrent bientôt dans « L’art de la guerre » leurs collègues du vieux continent, et comme eux ils remportèrent des victoires à force de prodiguer les boulets, les millions et les hommes.",
+    "length": 595,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00074.s2",
+      "p00074.s3",
+      "p00074.s4",
+      "p00074.s5"
+    ],
+    "french": "Nous aurons de leurs nouvelles et ils auront des nôtres ! D’ailleurs, je les connais, ce sont des hommes ingénieux. À eux trois ils emportent dans l’espace toutes les ressources de l’art, de la science et de l’industrie. Avec cela on fait ce qu’on veut, et vous verrez qu’ils se tireront d’affaire ! »",
+    "original": "Nous aurons de leurs nouvelles et ils auront des nôtres ! D’ailleurs, je les connais, ce sont des hommes ingénieux. À eux trois ils emportent dans l’espace toutes les ressources de l’art, de la science et de l’industrie. Avec cela on fait ce qu’on veut, et vous verrez qu’ils se tireront d’affaire ! »",
+    "length": 301,
+    "truncated": false
+  }
+}

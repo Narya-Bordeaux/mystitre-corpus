@@ -1,0 +1,75 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contes-de-canterbury",
+  "title": "Les Contes de Canterbury",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "The Canterbury Tales (unsourced), en.wikisource, pages « General Prologue » et « Chaucer's Retraction » (moyen anglais) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "The Canterbury Tales (unsourced)/General Prologue",
+      "revisionId": 12962446
+    },
+    {
+      "title": "The Canterbury Tales (unsourced)/Chaucer's Retraction",
+      "revisionId": 9753408
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d3e627702b5f5a563b1466d482046e2211f28f093d79d95eeba090b05a9fe7f7",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Whan that Aprill, with his shoures soote\nThe droghte of Marc"
+  },
+  "bodyEnd": {
+    "id": "p00004",
+    "textPrefix": "Now preye I to hem alle that herkne this litel tretys or red"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre « General Prologue » et rubrique « Here bygynneth the Book of the Tales of Caunterbury » (formule d'éditeur). Le Prologue général ouvre l'œuvre ; la Rétractation de Chaucer (fin du Conte du curé) la clôt."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "breeth5",
+      "replace": "breeth",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "yë10",
+      "replace": "yë",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "ende15",
+      "replace": "ende",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "lay20",
+      "replace": "lay",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "yfalle25",
+      "replace": "yfalle",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    }
+  ]
+}

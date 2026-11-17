@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "yvain-ou-le-chevalier-au-lion",
+  "sourceLanguage": "fr",
+  "cleanTextSha256": "86538b490b1f203dbc5e1c93c5bac25700f69c7498c9c54f6dbbeff7b160ee9f",
+  "translatedBy": "Claude (agent), traduction de l'ancien français, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Li boins roys Artus de Bretaigne,\nLa qui proeche nous ensengne\nQue nous soions preus et courtois,\nTint court si riche conme rois\nA chele feste qui tant couste,\nC’on doit nonmer le Penthecouste.",
+      "translation": "Le bon roi Arthur de Bretagne,\nDont la prouesse nous enseigne\nÀ être vaillants et courtois,\nTint une cour digne d’un roi\nÀ cette fête qui coûte tant\nQu’on doit nommer la Pentecôte."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Li rois fu a Cardœil en Gales ;\nAprés mengier, parmi les sales,\nLi chevalier s’atropelerent\nLa ou dames les apelerent\nOu damoiseles ou pucheles.",
+      "translation": "Le roi était à Carlisle, au pays de Galles ;\nAprès le repas, à travers les salles,\nLes chevaliers s’attroupèrent\nLà où les dames les appelèrent,\nOu les demoiselles ou les jeunes filles."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "Li un recontoient nouveles,\nLi autres parloient d’Amours,\nDes angousses et des dolours\nEt des grant biens qu’en ont souvant\nLi desiple de son couvant,\nQui lors estoient riche et gens ;\nMais il y a petit des siens,\nQui a bien pres l’ont tuit laissie,\nS’en est Amours mout abaissie ;\nCar chil qui soloient amer\nSe faisoient courtois clamer,\nQue preu et largue et honnorable ;\nMais or est tout tourné a fable,\nCar tiex y a qui riens n’en sentent,\nDïent qu’il ayment et si mentent,\nEt chil fable, menchongne en font\nQui s’en vantent et droit n’i ont.",
+      "translation": "Les uns racontaient des nouvelles,\nLes autres parlaient d’Amour,\nDes angoisses et des douleurs\nEt des grands biens qu’en reçoivent souvent\nLes disciples de son ordre,\nQui était alors riche et noble ;\nMais il en reste peu des siens,\nCar presque tous l’ont délaissé,\nSi bien qu’Amour en est fort abaissé ;\nCar ceux qui avaient coutume d’aimer\nSe faisaient appeler courtois,\nPreux, généreux et honorables ;\nMais à présent tout est tourné en fable,\nCar il en est qui n’en ressentent rien,\nQui disent qu’ils aiment, et ils mentent,\nEt ceux-là en font fable et mensonge\nQui s’en vantent sans en avoir le droit."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00113.s13",
+      "original": "Que, si m’aït Sains Esperis,\nN’a honme sous le chiel mortel\nPour fenme feïst plus grant duel ! »",
+      "translation": "Car, que le Saint-Esprit me vienne en aide,\nIl n’y a homme mortel sous le ciel\nQui eût fait plus grand deuil pour une femme ! »"
+    },
+    {
+      "id": "p00113.s14",
+      "original": "Or a mesire Yvains sa pais.",
+      "translation": "Voici messire Yvain en paix."
+    },
+    {
+      "id": "p00113.s15",
+      "original": "Saichiés de voir que onques mais\nNe fu de riens nule si liés,\nConment qu’il ait esté yriés.",
+      "translation": "Sachez en vérité que jamais\nIl ne fut si heureux de rien,\nQuelque affligé qu’il ait été."
+    },
+    {
+      "id": "p00113.s16",
+      "original": "Mout en est a boin chief venus,\nQu’il est amés et chiers tenus\nDe sa dame, et ele de luy.",
+      "translation": "Il en est venu à bonne fin,\nCar il est aimé et chéri\nDe sa dame, et elle de lui."
+    },
+    {
+      "id": "p00113.s17",
+      "original": "Ne li souvient de nul anuy,\nQue par la joie les oublie\nQu’il a de sa tres chiere amie.",
+      "translation": "Il ne se souvient d’aucun tourment,\nCar il les oublie tous dans la joie\nQu’il a de sa très chère amie."
+    },
+    {
+      "id": "p00113.s18",
+      "original": "Et Lunete tient il mout aise :\nNe li faut chose qu’il li plaise,\nQue ele l’a a gré servi.",
+      "translation": "Et Lunete, il la tient bien à son aise :\nRien ne lui manque de ce qui lui plaît,\nCar elle l’a servi de bon gré."
+    },
+    {
+      "id": "p00113.s19",
+      "original": "De mesire Yvain lairons chi\nEt de s’amie chiere et fine.",
+      "translation": "Ici nous laisserons messire Yvain\nEt son amie chère et fine."
+    },
+    {
+      "id": "p00113.s20",
+      "original": "De si vaillant ronmans ne fine,\nChertains soient ronmancheour,\nC’onques plus conter en nul jour\nN’en oÿrent ne ja n’orront\nSe menchonnes trouver n’i vont.",
+      "translation": "D’un si vaillant roman, voici la fin ;\nQue les conteurs en soient certains :\nJamais on n’en entendit conter davantage\nEt jamais on n’en entendra,\nÀ moins d’y aller chercher des mensonges."
+    }
+  ]
+}

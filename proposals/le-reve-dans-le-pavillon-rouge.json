@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-reve-dans-le-pavillon-rouge",
+  "title": "Le Rêve dans le pavillon rouge",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Texte de zh.wikisource « 紅樓夢 », 120 chapitres ; édition non indiquée",
+    "pages": [
+      {
+        "title": "紅樓夢/第001回",
+        "revisionId": 2703826
+      },
+      {
+        "title": "紅樓夢/第120回",
+        "revisionId": 2371692
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "722b7ab2710dab5565f0fa8e1b3610e1db047603096872572b80762f47ac3544"
+  },
+  "titleMasks": [
+    "Histoire de la pierre"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "L'auteur déclare qu'après avoir traversé une expérience semblable à un rêve, il en a caché les faits véritables pour composer, sous le couvert d'une pierre merveilleuse, ce livre qu'il intitule « [TITRE] ». Aussi dit-on : « Zhen Shiyin, dans un songe, reconnaît la pierre merveilleuse. »",
+    "original": "作者自云：因曾歷過一番夢幻之後，故將真事隱去，而借通靈之說，撰此《石頭記》一書也。故曰「甄士隱夢幻識通靈」。",
+    "length": 301,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00064.s10",
+      "p00064.s11",
+      "p00065.s1"
+    ],
+    "french": "Ce n'est qu'un jeu de pinceau, pour réjouir le cœur et suivre son penchant ! » Plus tard, ceux qui lurent ce récit étrange composèrent encore un quatrain, qui, comme un échelon de plus après l'exposé de l'auteur, dit :\nAu point où l'on atteint l'amertume, l'absurde n'en est que plus triste.\nDepuis toujours tout cela n'est qu'un seul rêve : ne riez pas de la folie des hommes !",
+    "original": "不過游戲筆墨，陶情适性而已！」後人見了這本奇傳，亦曾題過四句偈语，為作者緣起之言更轉一竿頭云：\n說到辛酸處，荒唐愈可悲。\n由來同一夢，休笑世人痴！",
+    "length": 378,
+    "truncated": false
+  }
+}

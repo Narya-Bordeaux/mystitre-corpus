@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-confusion-des-sentiments",
+  "title": "La Confusion des sentiments",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Alzir Hella et Olivier Bournac",
+    "translationYear": null,
+    "translatorDeathYear": 1953,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Alzir_Hella&oldid=16029324",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Alzir Hella et Olivier Bournac)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Confusion des sentiments (Notes intimes du Professeur R. de D.), traduit de l'allemand par Alzir Hella et Olivier Bournac, Bibliothèque cosmopolite (année non indiquée sur Wikisource)",
+    "pages": [
+      {
+        "title": "La Confusion des sentiments",
+        "revisionId": 14971194
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "145e5cde5934ddf15a3f887d787d7e316bebbde7ced4761f99a028712df708cc"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00008.s1",
+      "p00008.s2"
+    ],
+    "french": "Ils ont eu une exquise pensée, mes élèves et collègues de la Faculté : voici, précieusement relié et solennellement apporté, le premier exemplaire de ce livre d’hommage qu’à l’occasion de mon soixantième anniversaire et du trentième de mon professorat les philologues m’ont consacré. Il est devenu une véritable biographie : il n’y manque pas le moindre de mes article, pas la moindre de mes allocutions officielles ; il n’est pas d’insignifiants comptes rendus parus dans je ne sais quelles Annales de l’érudition que le labeur bibliographique n’ait arrachés au tombeau de la paperasse.",
+    "original": "Ils ont eu une exquise pensée, mes élèves et collègues de la Faculté : voici, précieusement relié et solennellement apporté, le premier exemplaire de ce livre d’hommage qu’à l’occasion de mon soixantième anniversaire et du trentième de mon professorat les philologues m’ont consacré. Il est devenu une véritable biographie : il n’y manque pas le moindre de mes article, pas la moindre de mes allocutions officielles ; il n’est pas d’insignifiants comptes rendus parus dans je ne sais quelles Annales de l’érudition que le labeur bibliographique n’ait arrachés au tombeau de la paperasse.",
+    "length": 587,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00345.s2",
+      "p00345.s3"
+    ],
+    "french": "Son livre n’a jamais paru, son nom est oublié ; nul ne se souvient de lui, en dehors de moi. Mais encore aujourd’hui, comme autrefois le garçon ignorant que j’étais, je sens que je ne dois davantage à personne qu’à cet homme, ni à mon père ni à ma mère, avant lui, ni à ma femme et à mes enfants, après lui, et que je n’ai aimé personne plus que lui.",
+    "original": "Son livre n’a jamais paru, son nom est oublié ; nul ne se souvient de lui, en dehors de moi. Mais encore aujourd’hui, comme autrefois le garçon ignorant que j’étais, je sens que je ne dois davantage à personne qu’à cet homme, ni à mon père ni à ma mère, avant lui, ni à ma femme et à mes enfants, après lui, et que je n’ai aimé personne plus que lui.",
+    "length": 350,
+    "truncated": false
+  }
+}

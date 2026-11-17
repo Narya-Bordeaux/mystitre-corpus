@@ -1,0 +1,142 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contes-dise",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "ef3d0153aa88cadab24c7d3720d9eee6467761d902ea4a9584ce978416e2c3fe",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00005.s1",
+      "original": "むかしおとこありけり。",
+      "translation": "Autrefois, il y avait un homme."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "うゐかぶりして。",
+      "translation": "Il venait de prendre le bonnet des adultes."
+    },
+    {
+      "id": "p00005.s3",
+      "original": "ならの京かすがの里にしるよしして。",
+      "translation": "Ayant quelque terre au village de Kasuga, près de l'ancienne capitale de Nara,"
+    },
+    {
+      "id": "p00005.s4",
+      "original": "かりにいきけり。",
+      "translation": "il s'y rendit un jour pour chasser."
+    },
+    {
+      "id": "p00005.s5",
+      "original": "其さとに。",
+      "translation": "Dans ce village"
+    },
+    {
+      "id": "p00005.s6",
+      "original": "いともなまめきたる女ばら（[女はらからイ]）すみけり。",
+      "translation": "vivaient deux jeunes sœurs d'une grande élégance."
+    },
+    {
+      "id": "p00005.s7",
+      "original": "かのおとこかいま見てけり。",
+      "translation": "L'homme les aperçut à la dérobée."
+    },
+    {
+      "id": "p00005.s8",
+      "original": "おもほえずふるさとに。",
+      "translation": "Contre toute attente, dans ce vieux village,"
+    },
+    {
+      "id": "p00005.s9",
+      "original": "いともはしたなくありければ。",
+      "translation": "leur beauté était si frappante, si déplacée en un tel lieu,"
+    },
+    {
+      "id": "p00005.s10",
+      "original": "心ちまどひにけり。",
+      "translation": "que son cœur se troubla."
+    },
+    {
+      "id": "p00005.s11",
+      "original": "男きたりけるかりぎぬのすそをきりて。",
+      "translation": "Il déchira le pan de la tunique de chasse qu'il portait,"
+    },
+    {
+      "id": "p00005.s12",
+      "original": "うたをかきてやる。",
+      "translation": "y écrivit un poème et le leur envoya."
+    },
+    {
+      "id": "p00005.s13",
+      "original": "そのおとこしのぶずりのかりぎぬをなんきたりける。",
+      "translation": "Cet homme portait une tunique de chasse imprimée de motifs de shinobu."
+    },
+    {
+      "id": "p00006.s1",
+      "original": "かすかのゝ若紫の摺ころもしのふのみたれかきりしられす\nとなん。",
+      "translation": "« Comme les jeunes pousses de murasaki des champs de Kasuga, ma robe aux motifs de shinobu est brouillée : mon cœur troublé n'a ni fin ni mesure »\nTel fut son poème."
+    },
+    {
+      "id": "p00007.s1",
+      "original": "をいつぎてやれりける。",
+      "translation": "Il le leur fit parvenir sans attendre."
+    },
+    {
+      "id": "p00007.s2",
+      "original": "となんいひつぎてやれりけるおもしろきことゝや。",
+      "translation": "Voilà ce qu'il leur envoya, d'un trait : n'est-ce pas charmant ?"
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00446.s1",
+      "original": "思ふこといはてそたゝにやみぬへき我と等しき人しなけれは\n昔男。",
+      "translation": "« Si je ne dis rien de ce que je pense, tout s'éteindra donc en silence, car nul n'est semblable à moi »\nUn homme d'autrefois."
+    },
+    {
+      "id": "p00447.s1",
+      "original": "みやこをいかゞ思ひけん。",
+      "translation": "Que pensait-il donc de la capitale ?"
+    },
+    {
+      "id": "p00447.s2",
+      "original": "ひんがし山にすまんとおもひ。",
+      "translation": "Il songea à s'établir dans les monts de l'Est,"
+    },
+    {
+      "id": "p00447.s3",
+      "original": "いきて。",
+      "translation": "et s'y rendit."
+    },
+    {
+      "id": "p00448.s1",
+      "original": "住わひぬ今はかきりの山里に身をかくすへき宿もとめてん\nなんどよみをりけるに。",
+      "translation": "« Las de vivre ici, voici ma dernière retraite : dans ce village de montagne, que je trouve un logis où cacher ma personne »\nTel fut le poème qu'il récita."
+    },
+    {
+      "id": "p00449.s1",
+      "original": "物いたうやみてしに入たりければ。",
+      "translation": "Comme il était tombé gravement malade et se mourait,"
+    },
+    {
+      "id": "p00449.s2",
+      "original": "おもてに水そゝぎなどし・（ければ一本）いきいでて。",
+      "translation": "on lui aspergea le visage d'eau, et il reprit vie,"
+    },
+    {
+      "id": "p00450.s1",
+      "original": "我うへに露そをくなる天の河とわたる舟のかひのしつくか　（よみ人しらす古今）\nといひてぞいき出たりける。",
+      "translation": "« Une rosée tombe sur moi : serait-ce l'eau qui goutte des rames du bateau qui traverse le fleuve du Ciel ? » (auteur inconnu, Kokinshû)\nDit-il en revenant à lui."
+    },
+    {
+      "id": "p00451.s1",
+      "original": "まことにかぎりになりける時。",
+      "translation": "Quand l'heure dernière fut vraiment venue,"
+    },
+    {
+      "id": "p00452.s1",
+      "original": "つゐに行道とかねはて聞しかと昨日けふとは思はさりしを\nとてなむたえいりにけり",
+      "translation": "« Que ce fût la route où l'on finit par aller, je l'avais appris depuis longtemps ; mais je ne pensais pas que ce serait hier ou aujourd'hui »\nDisant cela, il expira."
+    }
+  ]
+}

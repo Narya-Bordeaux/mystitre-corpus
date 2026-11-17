@@ -1,0 +1,87 @@
+{
+  "formatVersion": 1,
+  "bookId": "un-heros-de-notre-temps",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "0fd9ea5c12ccae470c4d074282082aa386d6cf8f82a2b4936c1520631b1a0ce1",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "Я ехал на перекладных из Тифлиса.",
+      "translation": "Je voyageais en poste, venant de Tiflis."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Вся поклажа моей тележки состояла из одного небольшого чемодана, который до половины был набит путевыми записками о Грузии.",
+      "translation": "Tout le bagage de ma petite voiture se réduisait à une seule valise, à moitié remplie de notes de voyage sur la Géorgie."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Большая часть из них, к счастию для вас, потеряна, а чемодан с остальными вещами, к счастью для меня, остался цел.",
+      "translation": "La plus grande partie en est perdue, heureusement pour vous, tandis que la valise, avec le reste de mes affaires, est heureusement restée intacte pour moi."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Уж солнце начинало прятаться за снеговой хребет, когда я въехал в Койшаурскую долину.",
+      "translation": "Le soleil commençait à se cacher derrière la crête enneigée quand j’entrai dans la vallée de Koïchaour."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Осетин-извозчик неутомимо погонял лошадей, чтоб успеть до ночи взобраться на Койшаурскую гору, и во все горло распевал песни.",
+      "translation": "Le cocher ossète pressait infatigablement les chevaux, afin d’avoir le temps de gravir avant la nuit la montagne de Koïchaour, et chantait à pleine gorge."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "Славное место эта долина!",
+      "translation": "Quel endroit magnifique que cette vallée !"
+    },
+    {
+      "id": "p00003.s4",
+      "original": "Со всех сторон горы неприступные, красноватые скалы, обвешанные зеленым плющом и увенчанные купами чинар, желтые обрывы, исчерченные промоинами, а там высоко-высоко золотая бахрома снегов, а внизу Арагва, обнявшись с другой безыменной речкой, шумно вырывающейся из черного, полного мглою ущелья, тянется серебряною нитью и сверкает, как змея своею чешуею.",
+      "translation": "De tous côtés des montagnes inaccessibles, des rochers rougeâtres couverts de lierre vert et couronnés de bouquets de platanes, des escarpements jaunes striés de ravinements, et là-haut, très haut, une frange d’or de neiges, tandis qu’en bas l’Aragva, enlacée à une autre rivière sans nom qui jaillit bruyamment d’un ravin noir, rempli de brume, s’étire comme un fil d’argent et scintille comme un serpent sous ses écailles."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00362.s2",
+      "original": "Он сначала не понимал этого слова, но я объяснил его как мог, и тогда он сказал, значительно покачав головою:\n— Да-с! конечно-с!",
+      "translation": "Il ne comprit d’abord pas ce mot, mais je le lui expliquai comme je pus, et alors il dit en hochant significativement la tête :\n— Oui, monsieur ! Bien sûr, monsieur !"
+    },
+    {
+      "id": "p00363.s1",
+      "original": "Это штука довольно мудреная!..",
+      "translation": "C’est une affaire assez compliquée !…"
+    },
+    {
+      "id": "p00363.s2",
+      "original": "Впрочем, эти азиатские курки часто осекаются, если дурно смазаны или не довольно крепко прижмешь пальцем; признаюсь, не люблю я также винтовок черкесских; они как-то нашему брату неприличны: приклад маленький, того и гляди, нос обожжет…",
+      "translation": "Du reste, ces platines asiatiques ratent souvent, quand elles sont mal graissées ou qu’on n’appuie pas assez fort du doigt ; j’avoue que je n’aime pas non plus les carabines circassiennes ; elles ne conviennent guère à des gens comme nous : la crosse est petite, et l’on risque à tout moment de se brûler le nez…"
+    },
+    {
+      "id": "p00363.s3",
+      "original": "Зато уж шашки у них — просто мое почтение!",
+      "translation": "En revanche, quant à leurs sabres, je leur tire mon chapeau !"
+    },
+    {
+      "id": "p00364.s1",
+      "original": "Потом он примолвил, несколько подумав:\n— Да, жаль беднягу…",
+      "translation": "Puis il ajouta, après avoir réfléchi un moment :\n— Oui, pauvre diable…"
+    },
+    {
+      "id": "p00365.s1",
+      "original": "Черт же его дернул ночью с пьяным разговаривать!..",
+      "translation": "Quel démon l’a poussé à causer la nuit avec un ivrogne !…"
+    },
+    {
+      "id": "p00365.s2",
+      "original": "Впрочем, видно, уж так у него на роду было написано…",
+      "translation": "Mais enfin, il était sans doute écrit que cela lui arriverait…"
+    },
+    {
+      "id": "p00366.s1",
+      "original": "Больше я от него ничего не мог добиться: он вообще не любит метафизических прений.",
+      "translation": "Je ne pus rien tirer de plus de lui : il n’aime pas du tout les discussions métaphysiques."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-enfants-du-capitaine-grant",
+  "title": "Les Enfants du capitaine Grant",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, Les Enfants du capitaine Grant (édition non indiquée), partie 1 chapitre I et partie 3 chapitre XXII",
+  "pages": [
+    {
+      "title": "Les Enfants du capitaine Grant/Partie 1/Chapitre I",
+      "revisionId": 5602549
+    },
+    {
+      "title": "Les Enfants du capitaine Grant/Partie 3/Chapitre XXII",
+      "revisionId": 2716961
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "3d9478c78f41ffba04e616d463e85adc2426cc6e44c85c007944d414bc67d448",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "Le 26 juillet 1864, par une forte brise du nord-est, un magn"
+  },
+  "bodyEnd": {
+    "id": "p00102",
+    "textPrefix": "Le retour du capitaine en Écosse fut salué comme un événemen"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre, titre de chapitre (p00001-p00005) et mention « FIN DE LA TROISIÈME ET DERNIÈRE PARTIE » (p00103)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

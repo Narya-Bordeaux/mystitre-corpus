@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "yvain-ou-le-chevalier-au-lion",
+  "title": "Yvain ou le Chevalier au lion",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Transcription du manuscrit « L'Atre périlleux et Yvain, le chevalier au lion » (index Wikisource « 1301-1350.djvu »), ancien français ; éditeur non indiqué",
+  "pages": [
+    {
+      "title": "Yvain ou le Chevalier au Lion",
+      "revisionId": 14468188
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "86538b490b1f203dbc5e1c93c5bac25700f69c7498c9c54f6dbbeff7b160ee9f",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Li boins roys Artus de Bretaigne,\nLa qui proeche nous enseng"
+  },
+  "bodyEnd": {
+    "id": "p00113",
+    "textPrefix": "Ch’est mesire Yvains, vostre espous. »\nA chest mot le dame t"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "fro"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Poème entier : aucun paratexte avant le vers d'ouverture ; seul l'explicit du copiste (« Explicit Yvag Explicit ») est exclu par correction déclarée.",
+    "Ancien français (manuscrit du XIVe siècle) traité comme un original étranger : traduit en français moderne, phrase par phrase (décision utilisateur, 17/11/2026)."
+  ],
+  "titleMasks": [
+    "Yvain"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00113",
+      "find": "Explicit Yvag Explicit",
+      "replace": "",
+      "reason": "Explicit du copiste, paratexte et non vers du poème"
+    }
+  ]
+}

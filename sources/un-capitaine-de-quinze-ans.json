@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "un-capitaine-de-quinze-ans",
+  "title": "Un capitaine de quinze ans",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Édition non indiquée (Wikisource, Un capitaine de quinze ans, chapitres I/1 et II/20)",
+  "pages": [
+    {
+      "title": "Un capitaine de quinze ans/I/1",
+      "revisionId": 14666733
+    },
+    {
+      "title": "Un capitaine de quinze ans/II/20",
+      "revisionId": 3302440
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "1ccf2a6f17a751b2309e7a792818b65e8af136c519a4616f0f3e87f36a96e178",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Le 2 février 1873, le brick-goélette Pilgrim se trouvait par"
+  },
+  "bodyEnd": {
+    "id": "p00085",
+    "textPrefix": "Ce jour-là, cela va sans dire, il y eut fête dans la maison "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, « PREMIÈRE PARTIE », titres de chapitres, mention « fin de la deuxième et dernière partie ». Le corps commence à la première phrase du chapitre I et s'arrête au toast final « au capitaine de quinze ans ! »."
+  ],
+  "titleMasks": [
+    "capitaine de quinze ans"
+  ],
+  "readingOptions": []
+}

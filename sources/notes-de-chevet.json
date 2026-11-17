@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "notes-de-chevet",
+  "title": "Notes de chevet",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "枕草紙 (國文大觀), 國文大觀 日記草子部, d'après Wikisource japonais",
+  "pages": [
+    {
+      "title": "枕草紙 (國文大觀)",
+      "revisionId": 240238
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "067e823bf8710d6a2279194622e2bba0de9be603a4da707fa11656c285811df6",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "春は曙、やうやう白くなりゆく山ぎはすこしあかりて紫だちたる雲の細くたなびきたる。夏はよる、月のころはさらなり、闇もなほ螢"
+  },
+  "bodyEnd": {
+    "id": "p00539",
+    "textPrefix": "ものくらうなりて文字もかゝれずなりたり。筆も使ひはてゝこれを書きはてばや。この草紙は目に見え心に思ふ事を人やは見むずると"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : bandeau Wikisource, titre d'édition, « 枕草紙終 » et mentions de licence. Le postscriptum de l'auteur (跋) est gardé."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

@@ -1,0 +1,287 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-bas-fonds",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "2bbab5e8bc71689ae47c6c9b0a59ba785dcccee8ad06e8402b4e97abd436e675",
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "speakers": {
+    "АЛЁШКА": "ALIOCHKA",
+    "БАРОН": "LE BARON",
+    "БУБНОВ": "BOUBNOV",
+    "КВАШНЯ": "KVACHNIA",
+    "КЛЕЩ": "KLETCH",
+    "КРИВОЙ ЗОБ": "ZOB",
+    "НАСТЯ": "NASTIA",
+    "САТИН": "SATINE",
+    "ТАТАРИН": "LE TATAR"
+  },
+  "opening": [
+    {
+      "id": "p00024.s1",
+      "original": "Дальше!",
+      "translation": "Continue !"
+    },
+    {
+      "id": "p00025.s1",
+      "original": "Не-ет, говорю, милый, с этим ты от меня поди прочь.",
+      "translation": "Non, mon petit, ai-je dit, ne compte pas sur moi pour ça."
+    },
+    {
+      "id": "p00025.s2",
+      "original": "Я, говорю, это испытала... и теперь уж — ни за сто печёных раков — под венец не пойду!",
+      "translation": "J’ai déjà essayé, ai-je dit… et maintenant, pas même pour cent écrevisses cuites, je n’irai sous le voile !"
+    },
+    {
+      "id": "p00026.s1",
+      "original": "Ты чего хрюкаешь?",
+      "translation": "Qu’as-tu à grogner ?"
+    },
+    {
+      "id": "p00028.s1",
+      "original": "Чтобы я, — говорю, — свободная женщина, сама себе хозяйка, да кому-нибудь в паспорт вписалась, чтобы я мужчине в крепость себя отдала — нет!",
+      "translation": "Moi, ai-je dit, une femme libre, maîtresse de moi-même, aller m’inscrire sur le passeport de quelqu’un, aller me livrer à un homme en servitude… non !"
+    },
+    {
+      "id": "p00028.s2",
+      "original": "Да будь он хоть принц американский — не подумаю замуж за него идти.",
+      "translation": "Quand ce serait un prince américain, je ne songerais pas à l’épouser."
+    },
+    {
+      "id": "p00029.s1",
+      "original": "Врёшь!",
+      "translation": "Tu mens !"
+    },
+    {
+      "id": "p00030.s1",
+      "original": "Чего-о?",
+      "translation": "Quoi-oi ?"
+    },
+    {
+      "id": "p00031.s1",
+      "original": "Врёшь.",
+      "translation": "Tu mens."
+    },
+    {
+      "id": "p00031.s2",
+      "original": "Обвенчаешься с Абрамкой...",
+      "translation": "Tu te marieras avec Abramka…"
+    },
+    {
+      "id": "p00032.s1",
+      "original": "(выхватив у Насти книжку, читает название).",
+      "translation": "(arrachant le livre des mains de Nastia, il lit le titre)."
+    },
+    {
+      "id": "p00032.s2",
+      "original": "«Роковая любовь»...",
+      "translation": "« L’Amour fatal »…"
+    },
+    {
+      "id": "p00032.s3",
+      "original": "(Хохочет.)",
+      "translation": "(Il éclate de rire.)"
+    },
+    {
+      "id": "p00033.s1",
+      "original": "(протягивая руку).",
+      "translation": "(tendant la main)."
+    },
+    {
+      "id": "p00033.s2",
+      "original": "Дай... отдай!",
+      "translation": "Donne… rends-le !"
+    },
+    {
+      "id": "p00033.s3",
+      "original": "Ну... не балуй!",
+      "translation": "Voyons… ne fais pas l’enfant !"
+    },
+    {
+      "id": "p00034.s1",
+      "original": "Барон смотрит на неё, помахивая книжкой в воздухе.",
+      "translation": "Le Baron la regarde en agitant le livre en l’air."
+    },
+    {
+      "id": "p00035.s1",
+      "original": "(Клещу).",
+      "translation": "(À Kletch.)"
+    },
+    {
+      "id": "p00035.s2",
+      "original": "Козёл ты рыжий!",
+      "translation": "Bouc roux que tu es !"
+    },
+    {
+      "id": "p00035.s3",
+      "original": "Туда же — врёшь!",
+      "translation": ""
+    },
+    {
+      "id": "p00035.s4",
+      "original": "Да как ты смеешь говорить мне такое дерзкое слово?",
+      "translation": ""
+    }
+  ],
+  "closing": [
+    {
+      "id": "p01333.s3",
+      "original": "И что ты за человек, Алёшка?",
+      "translation": ""
+    },
+    {
+      "id": "p01334.s1",
+      "original": "Алёшка.",
+      "translation": ""
+    },
+    {
+      "id": "p01334.s2",
+      "original": "Самый первый сорт человек!",
+      "translation": ""
+    },
+    {
+      "id": "p01334.s3",
+      "original": "На все руки!",
+      "translation": ""
+    },
+    {
+      "id": "p01334.s4",
+      "original": "Куда глаз мой глянет, туда меня и тянет!",
+      "translation": ""
+    },
+    {
+      "id": "p01335.s1",
+      "original": "Бубнов (около нар Татарина).",
+      "translation": ""
+    },
+    {
+      "id": "p01335.s2",
+      "original": "Идём!",
+      "translation": ""
+    },
+    {
+      "id": "p01335.s3",
+      "original": "Всё равно — спать не дадим!",
+      "translation": ""
+    },
+    {
+      "id": "p01335.s4",
+      "original": "Петь будем... всю ночь!",
+      "translation": ""
+    },
+    {
+      "id": "p01335.s5",
+      "original": "Зоб!",
+      "translation": ""
+    },
+    {
+      "id": "p01336.s1",
+      "original": "Петь?",
+      "translation": ""
+    },
+    {
+      "id": "p01336.s2",
+      "original": "Можно...",
+      "translation": "Possible…"
+    },
+    {
+      "id": "p01337.s1",
+      "original": "А я — подыграю!",
+      "translation": "Et moi, je jouerai l’accompagnement !"
+    },
+    {
+      "id": "p01338.s1",
+      "original": "Послушаем!",
+      "translation": "Écoutons !"
+    },
+    {
+      "id": "p01339.s1",
+      "original": "(улыбаясь).",
+      "translation": "(souriant.)"
+    },
+    {
+      "id": "p01339.s2",
+      "original": "Ну, шайтан Бубна... подноси вина!",
+      "translation": "Allons, diable de Boubnov… verse le vin !"
+    },
+    {
+      "id": "p01339.s3",
+      "original": "Пить будим, гулять будим, смерть пришол — помирать будим!",
+      "translation": "Nous boirons, nous ferons la fête, la mort viendra — nous mourrons !"
+    },
+    {
+      "id": "p01340.s1",
+      "original": "Наливай ему, Сатин!",
+      "translation": "Verse-lui, Satine !"
+    },
+    {
+      "id": "p01340.s2",
+      "original": "Зоб, садись!",
+      "translation": "Zob, assieds-toi !"
+    },
+    {
+      "id": "p01340.s3",
+      "original": "Эх, братцы!",
+      "translation": "Eh, mes frères !"
+    },
+    {
+      "id": "p01340.s4",
+      "original": "Много ли человеку надо?",
+      "translation": "Que faut-il à l’homme ?"
+    },
+    {
+      "id": "p01340.s5",
+      "original": "Вот я — выпил и — рад!",
+      "translation": "Moi, j’ai bu et je suis content !"
+    },
+    {
+      "id": "p01340.s6",
+      "original": "Зоб!..",
+      "translation": "Zob !…"
+    },
+    {
+      "id": "p01340.s7",
+      "original": "Затягивай... любимую!",
+      "translation": "Entonne… la chanson que tu aimes !"
+    },
+    {
+      "id": "p01340.s8",
+      "original": "Запою́... запла́чу!..",
+      "translation": "Je chanterai… je pleurerai !…"
+    },
+    {
+      "id": "p01341.s1",
+      "original": "Со-олнце всходит и захо-оди-ит...",
+      "translation": "Le so-oleil se lè-ève et se couche…"
+    },
+    {
+      "id": "p01342.s1",
+      "original": "А-а в тюрьме моей темно-о!",
+      "translation": "Et dans ma prison il fait noir !"
+    },
+    {
+      "id": "p01344.s1",
+      "original": "Эй... вы!",
+      "translation": "Eh… vous autres !"
+    },
+    {
+      "id": "p01344.s2",
+      "original": "Иди... идите сюда!",
+      "translation": "Venez… venez ici !"
+    },
+    {
+      "id": "p01344.s3",
+      "original": "На пустыре... там...",
+      "translation": "Sur le terrain vague… là-bas…"
+    },
+    {
+      "id": "p01344.s4",
+      "original": "Актёр... удавился!",
+      "translation": "L’Acteur… s’est pendu !"
+    },
+    {
+      "id": "p01346.s1",
+      "original": "Эх... испортил песню... дур-рак!",
+      "translation": "Ah !… Il a gâché la chanson… l’idiot !"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "lecole-des-femmes",
+  "title": "L’École des femmes",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "L’École des femmes, « Édition Louandre, 1910 » sur fr.wikisource (Œuvres complètes de Molière) ; seuls l'acte I et l'acte V sont enregistrés",
+  "pages": [
+    {
+      "title": "L’École des femmes/Édition Louandre, 1910/Acte I",
+      "revisionId": 13155660
+    },
+    {
+      "title": "L’École des femmes/Édition Louandre, 1910/Acte V",
+      "revisionId": 4956410
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ee2cc535acfcff0640b866c7a98bc4594be1254b54f8bbe306510a549220c965",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Vous venez, dites-vous, pour lui donner la main ?"
+  },
+  "bodyEnd": {
+    "id": "p00222",
+    "textPrefix": "J’en ferois de bon cœur, mon frère, autant que vous ;\nMais c"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres d'acte et de scène, liste des personnages. Début sur la première réplique de Chrysalde, fin sur la dernière réplique de la pièce."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

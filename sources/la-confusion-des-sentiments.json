@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-confusion-des-sentiments",
+  "title": "La Confusion des sentiments",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Confusion des sentiments (Notes intimes du Professeur R. de D.), traduit de l'allemand par Alzir Hella et Olivier Bournac, Bibliothèque cosmopolite (année non indiquée sur Wikisource)",
+  "pages": [
+    {
+      "title": "La Confusion des sentiments",
+      "revisionId": 14971194
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "145e5cde5934ddf15a3f887d787d7e316bebbde7ced4761f99a028712df708cc",
+  "bodyStart": {
+    "id": "p00008",
+    "textPrefix": "Ils ont eu une exquise pensée, mes élèves et collègues de la"
+  },
+  "bodyEnd": {
+    "id": "p00345",
+    "textPrefix": "Jamais je ne l’ai revu. Jamais je n’ai reçu de lui ni lettre"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Alzir Hella et Olivier Bournac",
+    "translationYear": null,
+    "translatorDeathYear": 1953,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Alzir_Hella&oldid=16029324",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : page de titre et mentions d'édition (p00001-p00007). Le prélude du narrateur (fiction) est gardé."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

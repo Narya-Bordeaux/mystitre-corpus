@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "bookId": "tao-te-king",
+  "title": "Tao Te King",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Tao Te King, traduction de Stanislas Julien, Paris, Benjamin Duprat, 1842 (page « Tao Te King (Stanislas Julien) » de la Wikisource en français)",
+  "pages": [
+    {
+      "title": "Tao Te King (Stanislas Julien)/Texte entier",
+      "revisionId": 14176418
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7a4d5aaf493b57aeaa4e0d8ebc61699b74281c275cba7205bc32a737758eb118",
+  "bodyStart": {
+    "id": "p00205",
+    "textPrefix": "La voie qui peut être exprimée par la parole (1) n’est pas l"
+  },
+  "bodyEnd": {
+    "id": "p02061",
+    "textPrefix": "Telle est la voie du Saint, qu’il agit et ne dispute point  "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "zh",
+    "translator": "Stanislas Julien",
+    "translationYear": 1842,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut le paratexte de l'éditeur (page de titre, dédicace, introduction, notice, légende, observations), les titres de livre et de chapitre, le texte chinois en tête de chaque chapitre, les notes (« NOTES. ») et la mention FIN. Corps = traduction de Julien, chapitre I (p00205) à la fin du chapitre LXXXI (p02061)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [
+    "inlineNoteCalls"
+  ],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p02057",
+      "find": "(les richesses.).",
+      "replace": "(les richesses).",
+      "reason": "Point en double dans l'édition numérisée : « richesses.). »"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p02061",
+      "find": "ne dispute point",
+      "replace": "ne dispute point.",
+      "reason": "Point final absent de l'édition numérisée (la phrase finit sur l'appel de note)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p02060",
+      "find": "êtres  et",
+      "replace": "êtres et",
+      "reason": "Espace en double laissée par l'appel de note retiré"
+    }
+  ]
+}

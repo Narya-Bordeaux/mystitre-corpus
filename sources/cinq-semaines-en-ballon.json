@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "cinq-semaines-en-ballon",
+  "title": "Cinq Semaines en ballon",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, Cinq Semaines en ballon (édition non indiquée), chapitres 1 et 44",
+  "pages": [
+    {
+      "title": "Cinq Semaines en ballon/Chapitre 1",
+      "revisionId": 3261890
+    },
+    {
+      "title": "Cinq Semaines en ballon/Chapitre 44",
+      "revisionId": 3263546
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "432fd1004f3bad3ad319c811a96f12eea797940d7475f0f726be16bb155eb70e",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Il y avait une grande affluence d’auditeurs, le 14 janvier 1"
+  },
+  "bodyEnd": {
+    "id": "p00066",
+    "textPrefix": "Le voyage du docteur Fergusson a eu tout d’abord pour résult"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de chapitre et sommaire de chapitre en tête (résumé centré) ; texte plein de l'œuvre aux deux bouts, du premier paragraphe du chapitre 1 au dernier du chapitre 44."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

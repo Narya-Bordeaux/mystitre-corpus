@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "lecole-des-femmes",
+  "title": "L’École des femmes",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’École des femmes, « Édition Louandre, 1910 » sur fr.wikisource (Œuvres complètes de Molière) ; seuls l'acte I et l'acte V sont enregistrés",
+    "pages": [
+      {
+        "title": "L’École des femmes/Édition Louandre, 1910/Acte I",
+        "revisionId": 13155660
+      },
+      {
+        "title": "L’École des femmes/Édition Louandre, 1910/Acte V",
+        "revisionId": 4956410
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ee2cc535acfcff0640b866c7a98bc4594be1254b54f8bbe306510a549220c965"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1",
+      "p00006.s1",
+      "p00007.s1",
+      "p00007.s2"
+    ],
+    "french": "CHRYSALDE. — Vous venez, dites-vous, pour lui donner la main ?\nARNOLPHE. — Oui, je veux terminer la chose dans demain.\nCHRYSALDE. — Nous sommes ici seuls, et l’on peut, ce me semble,\nSans craindre d’être ouïs, y discourir ensemble.\nVoulez-vous qu’en ami je vous ouvre mon cœur ?\nVotre dessein pour vous me fait trembler de peur ;\nEt de quelque façon que vous tourniez l’affaire,\nPrendre femme est à vous un coup bien téméraire.",
+    "original": "CHRYSALDE. — Vous venez, dites-vous, pour lui donner la main ?\nARNOLPHE. — Oui, je veux terminer la chose dans demain.\nCHRYSALDE. — Nous sommes ici seuls, et l’on peut, ce me semble,\nSans craindre d’être ouïs, y discourir ensemble.\nVoulez-vous qu’en ami je vous ouvre mon cœur ?\nVotre dessein pour vous me fait trembler de peur ;\nEt de quelque façon que vous tourniez l’affaire,\nPrendre femme est à vous un coup bien téméraire.",
+    "length": 427,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00221.s2",
+      "p00222.s1",
+      "p00222.s2"
+    ],
+    "french": "ENRIQUE. — Ah ! ma fille, je cède à des transports si doux.\nCHRYSALDE. — J’en ferois de bon cœur, mon frère, autant que vous ;\nMais ces lieux et cela ne s’accommodent guères.\nAllons dans la maison débrouiller ces mystères,\nPayer à notre ami ces soins officieux,\nEt rendre grâce au Ciel qui fait tout pour le mieux.",
+    "original": "ENRIQUE. — Ah ! ma fille, je cède à des transports si doux.\nCHRYSALDE. — J’en ferois de bon cœur, mon frère, autant que vous ;\nMais ces lieux et cela ne s’accommodent guères.\nAllons dans la maison débrouiller ces mystères,\nPayer à notre ami ces soins officieux,\nEt rendre grâce au Ciel qui fait tout pour le mieux.",
+    "length": 314,
+    "truncated": false
+  }
+}

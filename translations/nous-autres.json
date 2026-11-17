@@ -1,0 +1,87 @@
+{
+  "formatVersion": 1,
+  "bookId": "nous-autres",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "cd9d39826006bb4cd8603d7666e6a11bc63e1521cfc758dbdc34049f2e9437ee",
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "Я просто списываю — слово в слово — то, что сегодня напечатано в Государственной Газете:\n«Через 120 дней заканчивается постройка ИНТЕГРАЛА.",
+      "translation": "Je ne fais que recopier, mot pour mot, ce qui a été publié aujourd’hui dans la Gazette de l’État :\n« Dans 120 jours s’achève la construction de l’INTÉGRAL."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "Близок великий, исторический час, когда первый ИНТЕГРАЛ взовьется в мировое пространство.",
+      "translation": "L’heure grande et historique approche, où le premier INTÉGRAL s’élancera dans l’espace universel."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "Тысячу лет тому назад ваши героические предки покорили власти Единого Государства весь земной шар.",
+      "translation": "Il y a mille ans, vos ancêtres héroïques ont soumis le globe terrestre tout entier à la puissance de l’État Unique."
+    },
+    {
+      "id": "p00005.s3",
+      "original": "Вам предстоит еще более славный подвиг: стеклянным, электрическим, огнедышащим ИНТЕГРАЛОМ проинтегрировать бесконечное уравнение вселенной.",
+      "translation": "Un exploit plus glorieux encore vous attend : au moyen de l’INTÉGRAL de verre, électrique, crachant le feu, intégrer l’équation infinie de l’univers."
+    },
+    {
+      "id": "p00005.s4",
+      "original": "Вам предстоит благодетельному игу разума подчинить неведомые существа, обитающие на иных планетах, — быть может, еще в диком состоянии свободы.",
+      "translation": "Il vous appartient de soumettre au joug bienfaisant de la raison les êtres inconnus qui habitent d’autres planètes — peut-être encore à l’état sauvage de la liberté."
+    },
+    {
+      "id": "p00005.s5",
+      "original": "Если они не поймут, что мы несем им математически-безошибочное счастье, — наш долг заставить их быть счастливыми.",
+      "translation": "S’ils ne comprennent pas que nous leur apportons un bonheur mathématiquement infaillible, notre devoir est de les forcer à être heureux."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00022.s5",
+      "original": "Тогда ее вытащили, с помощью электродов быстро привели в себя и снова посадили под Колокол.",
+      "translation": "Alors on l’a retirée, ranimée vite à l’aide d’électrodes, et on l’a de nouveau assise sous la Cloche."
+    },
+    {
+      "id": "p00022.s6",
+      "original": "Так повторялось три раза — и она все-таки не сказала ни слова.",
+      "translation": "Cela s’est répété trois fois — et elle n’a pourtant pas dit un mot."
+    },
+    {
+      "id": "p00022.s7",
+      "original": "Другие, приведенные вместе с этой женщиной, оказались честнее: многие из них стали говорить с первого же раза.",
+      "translation": "Les autres, amenés avec cette femme, se sont montrés plus honnêtes : beaucoup se sont mis à parler dès la première fois."
+    },
+    {
+      "id": "p00022.s8",
+      "original": "Завтра они все взойдут по ступеням Машины Благодетеля.",
+      "translation": "Demain, ils graviront tous les marches de la Machine du Bienfaiteur."
+    },
+    {
+      "id": "p00023.s1",
+      "original": "Откладывать нельзя — потому что в западных кварталах — все еще хаос, рев, трупы, звери и — к сожалению — значительное количество нумеров, изменивших разуму.",
+      "translation": "On ne peut pas différer — car dans les quartiers de l’ouest, c’est encore le chaos, les hurlements, les cadavres, les bêtes et — hélas — un nombre considérable de numéros qui ont trahi la raison."
+    },
+    {
+      "id": "p00024.s1",
+      "original": "Но на поперечном, 40-м проспекте удалось сконструировать временную стену из высоковольтных волн.",
+      "translation": "Mais sur la 40e avenue transversale, on a réussi à édifier un mur provisoire d’ondes à haute tension."
+    },
+    {
+      "id": "p00024.s2",
+      "original": "И я надеюсь — мы победим.",
+      "translation": "Et j’espère que nous vaincrons."
+    },
+    {
+      "id": "p00024.s3",
+      "original": "Больше: я уверен — мы победим.",
+      "translation": "Plus : j’en suis sûr — nous vaincrons."
+    },
+    {
+      "id": "p00024.s4",
+      "original": "Потому что разум должен победить.",
+      "translation": "Car la raison doit triompher."
+    }
+  ]
+}

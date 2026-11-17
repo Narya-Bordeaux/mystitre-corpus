@@ -1,0 +1,290 @@
+# Le Journal d’un fou
+
+Source : Wikisource français, « Les Mémoires d’un Fou », trad. de Louis Viardot, dans Nouvelles choisies de Nicolas Gogol (Hachette, 1853) — fr.wikisource.org
+
+Origine : Traduction libre de droits (Louis Viardot, 1853)
+
+- [Nouvelles choisies de Nicolas Gogol/Les Mémoires d’un Fou](https://fr.wikisource.org/w/index.php?title=Nouvelles_choisies_de_Nicolas_Gogol/Les_Mémoires_d’un_Fou&oldid=10357078)
+
+`p00001` L’intelligence de cette nouvelle exige une explication préliminaire. Pierre le Grand a créé, sous le nom de tchin, une hiérarchie commune et générale qui renferme tous les employés de l’État (tchinovniks) à quelque branche de service et d’administration qu’ils appartiennent. Le tchin se compose de quatorze classes, dont voici les noms, auxquels il ne faut attacher d’autre sens que le rang même qu’ils indiquent dans cette hiérarchie générale des employés.
+
+`p00002` Le rang dans la hiérarchie est indépendant de la fonction qu’on occupe ; mais il y a certaines fonctions qui exigent un certain rang dans le tchin. Par exemple, on ne peut être ministre sans appartenir au moins à la classe des conseillers privés. Tout noble dont le père et le grand-père n’ont point servi l’État dans le tchin et qui n’est pas lui-même tchinovnik, est déchu de la noblesse.
+
+`p00003` **LES — MÉMOIRES D’UN FOU.**
+
+`p00004` 3 octobre.
+
+`p00005` Aujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :
+
+`p00006` — Quelle heure est-il ?  —
+
+`p00007` Elle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau. Il y a déjà longtemps qu’il me dit :
+
+`p00008` — Quel désordre as-tu donc dans la tête, mon frère ? Souvent tu te jettes à droite et à gauche comme un homme asphyxié par la chaleur du poêle, tu embrouilles les papiers de façon que le diable lui-même ne s’y retrouverait plus ; tu mets de petites lettres en tête des actes ; tu oublies d’indiquer la date et le numéro. —
+
+`p00009` Maudite grue ! Je suis sûr qu’il me porte envie de ce que je me tiens dans le cabinet du directeur, et de ce que je taille des plumes à Son Excellence. En un mot, je ne serais pas allé au département si je n’eusse eu l’espérance d’y voir le caissier, et d’arracher peut-être à ce juif quelque avance sur mes appointements. Voilà encore une créature ! N’ayez garde qu’il donne jamais à personne de l’argent un mois d’avance.... Ah ! mon Dieu ! plutôt arriverait le jour du jugement dernier. Priez-le, implorez-le, soyez dans la plus grande détresse du monde, il ne vous lâchera pas un kopek, le vieux diable. Et, dans son logis, sa propre cuisinière lui donne des soufflets. C’est connu de toute l’Europe. Je ne comprends pas quel profit on trouve à servir au département. Il n’y a pas là la moindre ressource. Ah ! par exemple, dans la direction du gouvernement, dans les chambres civiles, ou dans celles de la couronne, c’est toute autre chose. Là vous voyez, par exemple, quelqu’un qui se serre humblement dans un coin ; il griffonne sous son nez ; il porte un petit frac étriqué ; il a un visage à cracher contre ; et regardez pourtant de quelle maison de campagne il est locataire. Ne vous avisez pas de lui porter une tasse en porcelaine dorée, il vous dirait que c’est un cadeau bon pour un docteur. Mais donnez-lui une paire de chevaux alezans, ou un droschki, ou un collet en castor de trois cents roubles. Il a une apparence si modeste ! il vous dit si délicatement : — Auriez-vous la complaisance de me donner un petit canif pour me tailler une petite plume ? — Et en même temps il vous taillera de façon à ne vous laisser qu’une chemise sur le corps. À la vérité, notre service est très-noble. Tout est propre chez nous, plus que dans aucune direction du gouvernement. Nos tables sont de bois d’acajou, et tous nos chefs disent — Vous — à leurs employés. Oui, cela est vrai, et n’était la noblesse du service, il y a longtemps déjà que j’aurais quitté mon département.
+
+`p00010` Je mis un vieux manteau, et pris mon parapluie, car il tombait une pluie battante. Il n’y avait personne dans la rue. Cependant je rencontrai beaucoup de femmes qui se couvraient la tête avec le pan de leurs jupes, quelques marchands russes, sous des parapluies, et des cochers de place. Quant aux nobles, on ne rencontrait que des employés qui marchaient l’oreille basse. J’en vis un dans un carrefour. Dès que je l’aperçus, je me dis à moi-même : — Eh ! eh, mon petit pigeon, tu ne vas pas au département, mais tu cours après cette fille qui marche devant toi, et tu lui regardes la jambe sous ses jupes qu’elle relève. Quel gaillard qu’un employé ! parole d’honneur, il ne le cédera à aucun officier de l’armée. Qu’une femme passe devant lui en chapeau, il ne manquera pas de la pousser du coude. — Tandis que je pensais à tout cela, je vis une voiture s’approcher d’un magasin devant lequel je passais. Je la reconnus sur-le-champ ; c’était la voiture de notre directeur. — Mais il n’a rien à faire dans ce magasin, pensai-je aussitôt ; ce doit être sa fille. — Je me serrai contre la muraille. Le laquais ouvrit la portière, et elle s’élança de la voiture comme un oiseau de sa cage. Quand elle regarda de côté et d’autre, quand ses yeux rencontrèrent les miens.... Ah ! mon Dieu, mon Dieu, je suis perdu, tout à fait perdu.... Et pourquoi s’avisait-elle de sortir par un si mauvais temps ? Qu’on dise après cela que les femmes n’ont pas une grande passion pour tous ces chiffons de modistes. Elle ne me reconnut pas, et moi-même je tâchai de m’envelopper le plus possible, car mon manteau était fort sale et fait à la vieille mode. On porte aujourd’hui des manteaux avec un long collet, tandis que j’avais au mien une quantité de collets très-courts appliqués l’un sur l’autre. Et puis le drap de mon manteau n’était pas décati. Sa petite chienne, à qui l’on avait fermé la porte du magasin, resta dans la rue. Je connais cette petite chienne, on la nomme Medgi. À peine avais-je eu le temps de rester une minute devant la porte que j’entendis une voix très-fine dire :
+
+`p00011` — Bonjour, Medgi. —
+
+`p00012` Que diable ! qui est-ce qui parle ? je tournai la tête et vis deux dames sous un parapluie, l’une vieille, l’autre jeune. Mais elles passèrent, et de nouveau j’entendis près de moi ces paroles :
+
+`p00013` — Comment n’as-tu pas honte, Medgi ?
+
+`p00014` Que diable ! je vis que Medgi se flairait avec une autre petite chienne qui suivait ces deux dames.
+
+`p00015` — Eh, eh ! me dis-je à moi-même, mais ne suis-je pas ivre ? — Cela m’arrive rarement.
+
+`p00016` — Non, Fidèle, tu as tort de me faire des reproches. —
+
+`p00017` Pour le coup, je vis moi-même que c’était Medgi qui parlait.
+
+`p00018` — Haff, haff, j’ai été, haff, haff, haff, très-malade. —
+
+`p00019` Ah ! petite coquine de chienne ! Il faut convenir que je m’étonnai beaucoup en l’entendant parler comme une personne. Mais après y avoir réfléchi mûrement, je cessai de m’étonner. En effet, il y a déjà beaucoup d’exemples de pareils événements dans le monde. J’ai ouï dire qu’en Angleterre un poisson s’est approché du rivage, et a prononcé deux mots dans une langue tellement étrangère, que voilà déjà trois années que tous les savants tâchent de la désigner sans avoir pu rien découvrir jusqu’à présent. J’ai lu aussi dans les gazettes que deux vaches sont venues un jour dans un magasin demander une livre de thé. Mais il faut convenir que je m’étonnai bien davantage quand Medgi ajouta :
+
+`p00020` — Je t’ai écrit, Fidèle ; sans doute Polkan ne t’a pas porté ma lettre. —
+
+`p00021` Que je ne touche pas mes appointements, si j’ai jamais entendu dire qu’un chien pût écrire ! Ceci, par exemple, m’a fort étonné. Il faut dire que, depuis quelque temps, je commence à voir et à entendre des choses que je n’avais jamais vues ni entendues jusqu’alors.
+
+`p00022` — J’irai, me dis-je à moi-même, je suivrai cette chienne ; je saurai qui elle est, et ce qu’elle pense. —
+
+`p00023` J’ouvris mon parapluie, et me mis à suivre les deux dames. Elles entrèrent dans la rue Gorokhovaya, puis dans la rue Metschanskaya, puis dans la rue Stalarnaya, puis enfin elles gagneront le pont Kokouschkine, et s’arrêtèrent devant une grande maison.
+
+`p00024` — Je connais cette maison, me dis-je à moi-même ; c’est la maison Sverkoff. Quelle immense machine ! et quelle foule de monde l’habite ! combien de cuisinières, combien d’étrangers ! et les employés de ma sorte y sont comme des fourmis, l’un sur l’autre. Il y a un de mes amis qui joue fort bien de la trompette. —
+
+`p00025` Les dames montèrent au cinquième étage. —
+
+`p00026` — Bien, pensai-je, je n’irai pas maintenant, mais je marquerai l’endroit, et je profiterai de ma découverte à la première occasion. —
+
+`p00027` 4 octobre.
+
+`p00028` C’est aujourd’hui mercredi. Voilà pourquoi je me suis rendu dans le cabinet de mon chef. Je suis venu exprès un peu plus tôt que de coutume ; je lui ai taillé toutes ses plumes. Notre directeur doit être un homme de beaucoup d’esprit ; tout son cabinet est garni d’armoires pleines de livres. J’ai lu les titres de quelques-uns. Quelle science ! quelle science ! elle est telle qu’un homme comme moi ne peut pas même l’imaginer. Et puis, tout cela est en français ou en allemand. Et si vous le regardez en face ; oh ! quelle majesté brille dans ses regards ! je ne lui ai jamais entendu prononcer une parole de trop. Seulement, quand on lui présente ses papiers le matin, il vous demande :
+
+`p00029` — Quel temps fait-il ?
+
+`p00030` — Il fait humide, Votre Excellence. —
+
+`p00031` Oh oui ! ce n’est pas un de mes pareils ; c’est un véritable homme d’État. J’ai remarqué cependant qu’il m’aime beaucoup. Si sa fille… ah ! j’en perdrai la tête !… mais rien, rien, silence.
+
+`p00032` J’ai lu l’Abeille du Nord. Quel sot peuple que ces Français ! Ma parole d’honneur, je les ferais tous prendre et tous fouetter. J’ai lu aussi une très-agréable description d’un bal, écrite par un gentilhomme de Koursk. Les gentilshommes de Koursk écrivent bien. Ensuite je me suis aperçu qu’il était déjà midi et demi, et le Notre n’était pas encore sorti de sa chambre à coucher. Mais à une heure et demie, il est arrivé un événement qu’aucune plume n’est en état de décrire. La porte s’ouvrit ; je crus que c’était le directeur, et me levai de ma chaise avec mes papiers. Mais non, c’était elle, elle-même. Ô saints du paradis ! comme elle était habillée ! sa robe était blanche comme un cygne, et si bouffante !… Quand elle me regarda, c’était, j’en jure Dieu, c’était un soleil. Elle salua, et me dit :
+
+`p00033` — Papa n’est pas encore venu ? —
+
+`p00034` Aïe, aïe, aïe, quelle voix ! un canari, un vrai canari.
+
+`p00035` — Votre Excellence, avais-je l’intention de lui répondre ; ne me faites pas couper la tête, ou bien, si vous voulez me faire couper la tête, faites-le vous-même, avec votre main de fille de général. —
+
+`p00036` Mais, que diable ! ma langue tourna dans ma bouche, et je ne dis que ces mots :
+
+`p00037` — Non, mademoiselle. —
+
+`p00038` Elle me regarda, regarda les livres, et laissa tomber son mouchoir. Je m’élançai aussitôt pour le ramasser, mais je glissai sur ce maudit parquet, et manquai de me casser le nez. Je repris toutefois l’équilibre, et lui présentai son mouchoir. Ô saints du paradis ! quel mouchoir ! un mouchoir de batiste, et si fin ! de l’ambre, de l’ambre véritable. Il sent son général. Elle remercia, et sourit légèrement, en remuant à peine ses lèvres de sucre ; puis elle s’en alla. Moi, je restai encore assis pendant une heure, quand un laquais vint et me dit :
+
+`p00039` — Allez-vous-en, Axenti Ivanowitch, le maître est déjà parti. —
+
+`p00040` Je ne puis pas souffrir les laquais. Ils sont toujours là, étalés dans l’antichambre, et ne se donnent pas même la peine de saluer par un petit signe de tête. C’est peu encore. Une fois, l’un de ces coquins s’avisa de m’offrir du tabac sans se lever de sa place.
+
+`p00041` — Mais sais-tu bien, sot esclave, que je suis un employé, que je suis de noble extraction ? —
+
+`p00042` Cependant, je pris mon chapeau, je posai moi-même mon manteau sur mes épaules, car ces messieurs ne daigneront jamais vous rendre ce service, et m’en allai. À la maison, je restai la plus grande partie du temps couché sur mon lit ; puis je copiai de fort jolis petits vers :
+
+`p00043` N’ayant pas vu mon âme pendant une heure,  
+Je croyais déjà qu’il y avait une année :  
+Je me mis à détester mon existence,  
+Et je dis : m’est-il possible de vivre ?
+
+`p00044` Ce doit être de Pouschkine. Le soir, je m’enveloppai dans mon manteau, j’allai jusqu’au perron de l’hôtel de Son Excellence, et j’attendis long-temps.
+
+`p00045` Ne sortira-t-elle pas en voiture, pour que je la voie encore une pauvre petite fois ?
+
+`p00046` Mais non, elle ne sortit point.
+
+`p00047` 6 novembre.
+
+`p00048` Mon chef de bureau m’a mis hors de moi. Quand j’arrivai au département, il me fit appeler, et me parla de la sorte :
+
+`p00049` — Mais, dis-moi un peu, que fais-tu ?
+
+`p00050` — Comment ! ce que je fais ! je ne fais rien, répondis-je.
+
+`p00051` — Mais, penses-y, penses-y bien ; tu as déjà plus de quarante ans. Il est temps de devenir sage. Qu’est-ce que tu t’imagines ? crois-tu que je ne connaisse pas toutes tes folies ? tu fais la cour à la fille du directeur. Mais regarde-toi ; pense un peu qui tu es. Tu n’es qu’un zéro, tu n’es rien, tu n’as pas un sou vaillant. Et regarde ta figure dans un miroir. Comment peux-tu seulement penser à cela ? —
+
+`p00052` Que diable ! parce qu’il a, lui, une figure qui ressemble à un flacon d’apothicaire, et qu’il a sur sa tête un petit toupet frisé, et qu’il y met de la pommade, il croit que lui seul peut tout faire. Je comprends, je comprends pourquoi il se fâche. Il m’envie ; il a remarqué sans doute quelques signes de préférence qui s’adressaient à moi. Mais je lui crache dessus. Voyez un peu ; quelle grande chose c’est qu’un conseiller de cour ! Il s’est accroché une chaîne d’or à sa montre, il se fait faire des bottes à trente roubles ; mais, que le diable l’emporte ! Et moi, est-ce que je suis le fils d’un tailleur ou d’un bas officier ? Je suis gentilhomme, je puis parvenir aussi. D’ailleurs, je n’ai que quarante-deux ans. C’est le temps, à vrai dire, où le service ne fait que commencer. Attends, mon ami, je deviendrai colonel, et peut-être, si Dieu le permet, quelque chose de mieux. Nous nous ferons une réputation encore plus propre que la tienne. Tu t’es mis dans la tête qu’excepté toi, il n’y a pas un homme comme il faut. Eh bien ! donne-moi un frac de Routch et une cravate comme celles que tu portes ; tu ne seras pas bon à me servir de semelle. Mais je n’ai pas d’argent, voilà le malheur.
+
+`p00053` 8 novembre.
+
+`p00054` J’ai été au théâtre. On y donnait le Filatka. J’ai beaucoup ri. On jouait aussi un vaudeville avec des couplets très-drôles sur les procureurs, et principalement sur un régistrateur de collége, des couplets très-librement écrits, de sorte que je m’étonnais que la censure les eût laissés passer. Quant aux marchands, il est dit tout bonnement qu’ils trompent le public, et que leurs fils sont des débauchés qui veulent devenir gentilshommes. Il se trouve aussi un couplet très-drôle à propos des journalistes. On y dit qu’ils aiment à tout critiquer, et que l’auteur prie le public de le défendre contre eux. Les auteurs écrivent aujourd’hui des pièces bien drôles. J’aime à aller au théâtre ; dès que j’ai un kopek dans ma poche, je ne puis me retenir d’y aller. Mais, parmi mes confrères, par exemple, il y a de tels ladres ! Pour rien au monde ces paysans n’iraient au théâtre. Il faudrait qu’on leur donnât des billets gratis. Une actrice a fort bien chanté ; elle m’a rappelé celle qui.... Oh ! ma tête !… rien, rien, silence.
+
+`p00055` 9 novembre.
+
+`p00056` Je suis allé au département à huit heures. Le chef de bureau a fait la mine, comme s’il ne remarquait pas mon arrivée. Moi, de mon côté, j’ai fait comme si de rien n’était. J’ai compulsé quelques papiers. Je suis sorti à quatre heures. J’ai passé devant le logement du directeur, mais je n’ai vu personne. Après dîner, je suis resté la plupart du temps sur mon lit.
+
+`p00057` 11 novembre.
+
+`p00058` Aujourd’hui, je suis entré dans le cabinet de notre directeur. J’ai taillé vingt-trois plumes pour lui, et pour son.... aïe, aïe, aïe, pour Son Excellence mademoiselle sa fille, quatre plumes. Il aime qu’il y ait beaucoup de plumes sur la table. Oh ! quelle tête ce doit être. Il se tait toujours, mais, en même temps, je crois qu’il réfléchit, qu’il réfléchit.... profondément. Je voudrais bien savoir à quoi il pense le plus, et ce qui se passe dans cette tête. J’aurais bien voulu voir de près la vie de tous ces messieurs, et toutes ces histoires de cour ; comment ils sont, ce qu’ils font dans leur cercle, voilà ce que j’aurais voulu savoir. Plusieurs fois, j’ai eu l’intention d’en parler à Son Excellence, mais, que diable ! ma langue ne m’obéit jamais. Je ne saurai jamais dire autre chose que : — il fait froid, ou il fait chaud dehors, — et rien de plus. J’aurais bien voulu jeter un coup d’œil sur le salon de réception, que j’ai seulement entrevu par la porte à demi ouverte, et puis encore dans une autre chambre plus loin. Quel riche ameublement ! quelles glaces et quelles porcelaines ! J’aurais aussi voulu jeter un regard dans la chambre de Son Excellence mademoiselle. Voilà où j’aurais voulu.... dans le boudoir, là où se trouvent tous ses petits pots, tous ses petits flacons, des fleurs telles qu’on a peur de les flairer, et, sur un meuble, sa robe qui ressemble plus à l’air qu’à une robe. J’aurais encore voulu jeter un coup d’œil dans sa chambre à coucher. C’est là qu’il doit y avoir des merveilles, c’est là qu’est le paradis ! Que j’aurais voulu voir le petit banc sur lequel elle pose, en se levant, son petit pied, avant de mettre ce petit pied dans un bas de coton blanc comme la neige.... Aïe, aïe, aïe, rien, rien, silence.
+
+`p00059` Aujourd’hui, cependant, une espèce de lumière m’a frappé. Je me suis rappelé le dialogue des deux petits chiens que j’avais entendus parler.
+
+`p00060` — Bien, pensai-je, maintenant je saurai tout. Il faut s’emparer de la correspondance de ces maudits petits chiens. Je suis sûr que j’y trouverai beaucoup de choses. —
+
+`p00061` Je conviens qu’une fois j’ai même appelé Medgi, et je lui ai dit bien gentiment :
+
+`p00062` — Écoute, Medgi, voilà que nous sommes seuls. Si tu veux, je fermerai la porte ; personne ne nous verra. Raconte-moi tout ce que tu sais de ta maîtresse, ce qu’elle fait, ce qu’elle pense ; je te donne ma parole de n’en rien dire à personne. —
+
+`p00063` Mais la rusée petite chienne serra la queue entre les jambes, baissa la tête et sortit à pas lents de la chambre, comme si elle n’eût rien compris à ce que je venais de lui dire. Je soupçonnais depuis longtemps que le chien a bien plus d’esprit que l’homme. Je suis même sûr qu’il peut parler, mais il y a chez lui un certain entêtement.... C’est un très-grand politique ; il observe tout ce que fait l’homme. Oui, coûte que coûte, demain j’irai dans la maison Sverkoff, j’interrogerai Fidèle, et, s’il est possible, je m’emparerai de toutes les lettres que lui a écrites Medgi.
+
+`p00064` 12 novembre.
+
+`p00065` À deux heures, je suis sorti avec l’intention de voir Fidèle et de l’interroger. Je ne puis pas souffrir les choux, dont l’odeur s’échappe de toutes les petites boutiques de la Metschanskaya. Et puis, par-dessous la porte de chaque maison, il sort une odeur tellement infernale que je me suis mis à courir à toutes jambes en me bouchant le nez. Sans compter que ces infâmes artisans font tant de fumée dans leurs ateliers, qu’il est impossible de se promener dans cette rue. Quand j’arrivai au sixième étage de la maison, et que je tirai la sonnette, il sortit de la chambre une jeune fille qui n’était pas mal, mais qui avait des taches de rousseur. Je la reconnus ; c’était la même qui s’était promenée avec la vieille. Elle rougit légèrement, et je me dis à part moi :
+
+`p00066` — Tu veux un mari, ma petite colombe.
+
+`p00067` — Que désirez-vous ? me dit-elle.
+
+`p00068` — Je désire parler à votre petite chienne. —
+
+`p00069` Cette jeune fille est une sotte, je m’en aperçus à l’instant même. La petite chienne accourut alors en aboyant. Je voulus la saisir, mais la coquine manqua me mordre au nez. Cependant, j’aperçus sa petite corbeille dans un coin. — Mais voilà précisément ce qu’il me faut. — Je m’en approchai, je fouillai la paille, et, à mon plaisir inexprimable, j’y trouvai un paquet de petits morceaux de papier. Ce que voyant, la maudite petite bête commença par me mordre le gras de la jambe ; et puis, quand elle devina que j’avais pris ses papiers, elle se mit à gémir et à me faire des caresses. Mais je lui dis : — Non, mon petit pigeonneau, bonsoir, — et je m’enfuis. Je crois que la jeune fille me prit pour un fou, car elle avait l’air très-effrayée. En rentrant à la maison, j’avais l’intention de me mettre sur-le-champ à la besogne, attendu que je vois mal aux lumières. Mais Mavra s’était avisée de laver le plancher. Ces sottes Finnoises sont toujours propres juste quand il ne faudrait pas l’être. Je me mis donc à me promener en pensant à cet événement. Maintenant enfin je saurai toutes les affaires, toutes les pensées, tous les ressorts cachés, tout en un mot. Ces lettres vont tout me découvrir. Les chiens sont une gent spirituelle ; ils connaissent fort bien les rapports politiques, et je suis sûr qu’il y aura tout dans ces lettres, le portrait et les actions de cet homme. Il y aura bien aussi quelque chose de celle.... rien, rien, silence. Je retournai à la maison vers le soir, et la plus grande partie du temps je restai couché sur mon lit.
+
+`p00070` 13 novembre.
+
+`p00071` Allons, voyons.... l’écriture est assez lisible ; cependant on voit bien que c’est un chien qui écrit. Commençons :
+
+`p00072` Ma chère Fidèle, je ne puis encore m’habituer à ton nom bourgeois ; comme si l’on n’avait pu t’en donner un plus distingué. Fidèle, Rose, quels noms vulgaires ! Mais laissons cela de côté.... Je suis ravie que nous ayons eu l’idée de nous écrire....
+
+`p00073` La lettre est fort bien écrite. L’orthographe y est ; la ponctuation et même la lettre è sont à leur place. Notre chef de bureau lui-même ne saurait écrire ainsi, bien qu’il ne cesse de redire qu’il a étudié dans une université. Allons plus loin :
+
+`p00074` Il me semble que partager ses opinions, ses impressions, ses sentiments avec un autre, est un des plus grands bonheurs qu’on puisse goûter sur la terre.
+
+`p00075` Hum ! hum ! cette idée est extraite d’un livre traduit de l’allemand ; je ne m’en rappelle plus le titre.
+
+`p00076` … Je le dis d’après mon expérience, quoique je n’aie jamais été plus loin que notre porte cochère. Ma vie se passe dans les plaisirs. Ma maîtresse, que son père nomme Sophie, raffole de moi.
+
+`p00077` Aïe, aïe…, rien, rien, silence.
+
+`p00078` Le papa me caresse aussi très-souvent ; je prends du thé et du café à la crème. Ah ! ma chère, il faut que je te dise que je ne trouve aucun goût aux gros os à demi rongés que notre Polkan dévore à la cuisine. Il n’y a que les os de gibier qui soient supportables, encore quand personne n’en a sucé la moelle. Ce qui est encore bon, c’est de mêler ensemble plusieurs sauces, mais seulement quand elles sont sans câpres et sans légumes. Au reste, je ne connais pas de plus mauvaise habitude que celle de donner aux chiens des boulettes de mie de pain. Souvent un monsieur assis à table, qui a tenu Dieu sait quoi dans ses mains, se met à pétrir une de ces boulettes, vous appelle et vous la fourre entre les dents. Il serait impoli de refuser ; on mange avec dégoût, mais on mange.
+
+`p00079` Que diable est-ce ? quelle bêtise ! comme s’il n’y avait pas de sujets plus intéressants pour écrire. Voyons l’autre page ; ne s’y trouvera-t-il pas quelque chose de plus sérieux ?
+
+`p00080` Je suis prête à te faire part de tout ce qui se passe dans notre maison. Je t’ai déjà dit quelques mots du principal personnage, que Sophie appelle papa. C’est un homme très-étrange....
+
+`p00081` Ah ! enfin, je savais bien qu’ils avaient une manière toute politique de considérer les choses. Voyons, que dit-elle du papa ?
+
+`p00082` … Très-étrange. Il se tait presque toujours, et ne parle que très-rarement. Mais, il y a de cela une semaine, à chaque instant il se disait à lui-même : — La recevrai-je, ou ne la recevrai-je pas ? — Souvent il prenait un papier dans une main, fermait l’autre à vide, et répétait en s’interrogeant : — La recevrai-je ou ne la recevrai-je pas ? — Une fois même, il m’adressa la même question : — Qu’en penses-tu, Medgi ? la recevrai-je ou ne la recevrai-je pas ? — Ne comprenant rien à ce qu’il me demandait, je flairai sa botte et m’en allai. Voilà qu’une semaine après, ma chère, le papa revient à la maison triomphant et joyeux. Toute la matinée, des messieurs en uniforme vinrent le féliciter. À table, il se montre fort gai, comme je n’ai pas souvenir de l’avoir vu....
+
+`p00083` Ah ! ah ! c’est un ambitieux ; voilà qui est bon à savoir.
+
+`p00084` « Adieu, ma chère, je cours, etc., etc. Demain, je finirai ma lettre.
+
+`p00085` « Bonjour, de nouveau ; je reviens à toi. Aujourd’hui, ma maîtresse Sophie.... »
+
+`p00086` Ah ! voyons, voyons, que dit-elle de Sophie ?.... Oh ! oh !… rien, rien, silence. Continuons.
+
+`p00087` Ma maîtresse Sophie a été tout le jour dans une agitation extrême. Elle est allée au bal, et je suis enchantée de pouvoir t’écrire en son absence. Ma Sophie est toujours très-contente d’aller au bal, quoiqu’elle se fâche toujours en s’habillant. Moi, je ne comprends pas du tout, ma chère, le plaisir d’aller au bal. Sophie en revint à la maison vers les six heures du matin, et je devine aisément à sa mine pâle et fatiguée qu’on n’a rien donné à manger à la pauvrette. Je conviens que je ne pourrais vivre comme cela. Si l’on ne me donnait pas tous les soirs de la sauce de salmis de gélinottes ou du blanc de poulet, je ne sais pas ce que je deviendrais. Le gruau est aussi une fort bonne chose, mais jamais personne ne trouvera le moindre goût aux navets, aux betteraves, aux artichauts.
+
+`p00088` Quel style inégal ! on voit à l’instant même que ce n’est pas un homme qui écrit. Elle commence comme il faut ; puis elle finit en queue de chien. Voyons une autre lettre. Celle-ci est un peu longue. Hum ! il n’y a pas de date.
+
+`p00089` Ô ma chère, comme l’approche du printemps se fait sentir ! Mon cœur bat comme s’il s’attendait constamment à quelque chose. Les oreilles me tintent sans cesse, de façon que je me tiens souvent des minutes entières, la patte levée, devant la porte, à écouter. Il faut que je te dise que j’ai une foule d’adorateurs. Je me mets souvent à la fenêtre pour les examiner. Ah ! si tu savais quels monstres il y a parmi eux ! Souvent un chien de basse-cour, mal bâti et stupide (la bêtise se lit sur sa figure), passe très-gravement dans la rue, s’imaginant qu’il est un personnage d’importance, et que tout le monde l’admire. Pas le moins du monde ; je ne lui accorde pas la moindre attention ; c’est comme si je ne l’avais pas vu. Et quel effroyable dogue s’arrête quelquefois devant ma fenêtre ! S’il se levait sur ses pattes de derrière, ce que le butor ne sait pas faire certainement, il serait de toute la tête plus grand que le papa de ma Sophie, qui est aussi d’assez grande et d’assez grosse taille. Ce sot-là doit être horriblement impertinent. J’ai un peu grondé contre lui ; mais ça lui est parfaitement égal. Il laisse pendre sa langue et ses lourdes oreilles, se plante là, et ne cesse de regarder dans ma fenêtre. Quel paysan ! Mais, crois-tu, ma chère, que mon cœur soit indifférent à toutes les avances ? Oh ! non. Si tu avais vu un beau cavalier qui saute souvent par-dessus la haie de la maison voisine, et qui se nomme Trésor.... Ah ! ma chère, quel charmant petit museau il a !
+
+`p00090` Au diable tout ce bavardage. Comment peut-on remplir une lettre de pareilles sottises ? Donnez-moi un homme, je veux un homme. Je veux une nourriture qui puisse alimenter et délecter mon âme ; et, au lieu de cela, l’on me donne de pareilles sornettes. Tournons la page ; peut-être sera-ce mieux.
+
+`p00091` Sophie était assise à sa table, et brodait. Je regardais par la fenêtre, car j’aime à examiner les passants. Tout à coup, un laquais entre, et dit : — Téploff. — Faites entrer. faites entrer, s’écria Sophie ; et la voilà qui se met à m’embrasser. — Ah ! Medgi, Medgi, si tu savais qui c’est ! Un beau brun, un gentilhomme de la chambre, et quels yeux il a ! noirs et étincelants comme le feu. — Et Sophie se sauve en courant dans sa chambre. Une minute après, entra un jeune gentilhomme avec des favoris noirs ; il s’approcha de la glace, passa la main dans ses cheveux, et parcourut la chambre du regard. Je grondais un peu, et je gagnai lentement ma place. Sophie revint bientôt, et le salua en souriant. Moi, je continuai à regarder par la fenêtre, sans faire semblant de rien. Cependant je penchai la tête un peu de côté pour tâcher d’entendre leur conversation. Ah ! ma chère, quelles bêtises ils se racontaient !… Qu’une dame, en dansant, avait fait une figure au lieu d’une autre ; qu’un monsieur Boboff, avec son jabot, ressemblait à une grue, et avait manqué choir ; qu’une madame Lidine s’imagine avoir les yeux bleus tandis qu’ils sont verts, et ainsi du reste. Je ne sais, en vérité, ma chère, ce qui lui plaît dans ce Téploff. Qu’a-t-elle donc à s’extasier sur son compte ?
+
+`p00092` Il me semble à moi-même qu’il y a là-dessous quelque manigance. Impossible que ce Téploff lui ait tourné la tête à ce point. Continuons.
+
+`p00093` Ma foi, si ce gentilhomme plaît, je ne vois pas pourquoi cet employé, qui se tient d’ordinaire dans le cabinet du papa, ne plairait pas non plus. Ah ! ma chère, voilà par exemple une horreur. Il a l’air d’une tortue dans un sac.
+
+`p00094` Qui pourrait être cet employé ?
+
+`p00095` Son nom de famille est très-étrange. Il est toujours assis, et toujours à tailler des plumes. Ses cheveux ressemblent beaucoup à du foin. Le papa l’envoie toujours au lieu d’un domestique....
+
+`p00096` Ah çà ! il me semble que c’est de moi que veut parler ce misérable petit chien. Mais.... est-ce que mes cheveux ressemblent à du foin ?
+
+`p00097` Sophie ne peut jamais s’empêcher de rire quand elle le regarde.
+
+`p00098` Tu mens, maudite chienne. Quelle langue infâme ! comme si je ne savais pas que c’est de l’envie tout cela, comme si je ne savais pas qui me fait toutes ces avanies ! C’est mon chef de bureau. Voilà, par exemple, un homme qui m’a juré une haine éternelle.... et le voilà qui me fait du tort, qui me fait du tort à chaque pas. Voyons cependant une autre lettre. Peut-être que là l’affaire s’éclaircira d’elle-même.
+
+`p00099` Ma chère Fidèle, pardonne-moi d’avoir tardé si longtemps à t’écrire. Je nageais dans les délices. Un auteur a dit, avec beaucoup de raison, que l’amour est la seconde vie. Il se fait de grands changements dans notre maison. Le gentilhomme de la chambre nous vient voir maintenant tous les jours. Sophie est folle de lui ; papa très-content. J’ai déjà entendu dire à notre Grégoire, qui, en balayant les chambres, a l’habitude de parler avec lui-même, que la noce se fera bientôt, car le papa veut absolument marier sa fille à un général, ou bien à un gentilhomme de la chambre, ou bien à un colonel militaire.
+
+`p00100` Oh ! je n’ai pas la force d’en lire davantage. Toujours un gentilhomme de la chambre ou un général.... J’aurais bien voulu devenir général moi-même, non pour obtenir sa main et le reste ; non, j’aurais voulu le devenir seulement pour voir comment ils m’auraient fait tous deux la cour, et quels jolis compliments j’en aurais reçus ; et puis pour leur dire après : Je crache sur vous deux. Que le diable emporte tout ! J’ai mis en mille pièces les lettres de cette sotte petite chienne.
+
+`p00101` 3 décembre.
+
+`p00102` C’est impossible, ce sont des folies, la noce n’aura pas lieu. Qu’est-ce que cela fait qu’il soit gentilhomme de la chambre ? Ce n’est rien de plus qu’une dignité ; ce n’est pas une chose visible qu’on puisse tenir à la main. Parce qu’il est gentilhomme de la chambre, il n’a pas un troisième œil au front. Son nez n’est pas d’or, mais de chair, comme chez tout le monde. Je voudrais bien savoir d’où proviennent toutes ces différences. Pourquoi suis-je un conseiller titulaire, et par quelle raison ? Peut-être suis-je quelque comte ou quelque général, et je parais n’être qu’un conseiller titulaire. Peut-être ne sais-je pas moi-même qui je suis. Il y a tant d’exemples pareils dans l’histoire ! Voilà quelque homme tout simple, je ne dirai pas même un noble, mais tout bonnement un bourgeois, ou bien même un paysan.... et crac, l’on découvre que c’est un grand seigneur, un baron, je ne sais quoi. Si quelque chose de pareil peut sortir d’un paysan, que ne peut-il sortir d’un gentilhomme ? Voilà tout à coup que j’entre dans un uniforme de général ; j’ai une épaulette sur l’épaule droite, une autre sur l’épaule gauche, un cordon bleu sur la poitrine. Alors quoi ? quelle gamme chantera la belle ? que dira le papa directeur ? Oh ! c’est un grand ambitieux ; c’est un franc-maçon, je suis sûr que c’est un franc-maçon, quoiqu’il fasse semblant d’être ci et d’être ça. Mais j’ai reconnu à l’instant même que c’est un franc-maçon ; s’il donne la main à quelqu’un, il ne lui présente jamais que les deux doigts. Mais est-ce que je ne puis pas être fait d’emblée général-gouverneur, ou intendant, ou quelque chose de ce genre ? Vraiment j’aurais bien voulu savoir pourquoi je suis un conseiller titulaire ; pourquoi précisément un conseiller titulaire, et pas autre chose ?
+
+`p00103` 5 décembre.
+
+`p00104` Toute la matinée j’ai lu les gazettes. Il se passe des choses étranges en Espagne ; je ne puis même pas bien les comprendre. On écrit que le trône est vacant, et que les assemblées se trouvent dans une position fort difficile, à cause du choix d’un héritier ; c’est le motif d’une foule de troubles. Cela me semble étrange. Comment un trône peut-il être vacant ? On dit qu’une certaine doña doit monter sur le trône. Une doña ne peut pas monter sur le trône ; non, c’est impossible. Sur le trône doit s’asseoir un roi. On dit qu’il n’y a pas de roi. C’est impossible qu’il n’y ait pas de roi. Un royaume ne peut exister sans roi. Il y a un roi ; seulement il se trouve quelque part incognito. Peut-être même se trouve-t-il en Espagne. Mais quelques raisons de famille, ou la crainte des États voisins, comme la France et d’autres terres, le forcent de se cacher. Ou bien il y a d’autres raisons.
+
+`p00105` 8 décembre.
+
+`p00106` J’étais presque décidé ce matin à aller au département ; mais différents motifs et réflexions m’ont retenu. Les affaires de l’Espagne ne veulent pas me sortir de la tête. Comment est-il possible qu’une doña devienne reine ? On ne le permettra point. En premier lieu, l’Angleterre ne le permettra point. Et puis les affaires politiques de toute l’Europe, l’empereur d’Autriche.... J’avoue que tous ces événements m’ont si fort affligé et ébranlé qu’il ne m’a pas été possible de m’occuper de quoi que ce fût pendant toute la journée. Mavra m’a fait la remarque que j’étais fort distrait à table. En effet, dans ma distraction, je crois avoir jeté par terre deux assiettes qui se sont aussitôt brisées. Après dîner, je suis allé voir les montagnes ; je n’ai rien pu en tirer d’instructif. Le reste du temps, je me suis tenu couché sur mon lit, et j’ai réfléchi aux affaires d’Espagne.
+
+`p00107` L’an 2000, le 43 du mois d’avril.
+
+`p00108` Le jour d’aujourd’hui est le jour du plus grand triomphe. Il y a un roi en Espagne. Il s’est trouvé, ce roi. C’est moi. Aujourd’hui seulement j’en ai acquis la certitude. J’ai été éclairé, je l’avoue, comme par un éclair. Mais en vérité, je ne conçois pas comment j’avais pu m’imaginer que j’étais un conseiller titulaire ; comment une si folle idée avait-elle pu m’entrer dans la tête ? Il est fort heureux que personne ne se soit alors avisé de me mettre dans une maison de fous. Maintenant tout est éclairci ; je vois tout comme sur la paume de la main, tandis qu’auparavant tout me semblait caché dans une espèce de brouillard. Et je crois que tout cela provient de ce que les hommes s’imaginent que la cervelle humaine est logée dans la tête. Pas le moins du monde ; c’est le vent qui la porte du côté de la mer Caspienne. J’ai commencé par déclarer à Mavra qui j’étais. Quand elle a entendu qu’elle se trouvait devant le roi d’Espagne, elle a frappé dans ses mains et a manqué mourir de peur. La sotte qu’elle est, elle n’a jamais vu de roi d’Espagne. Je tâchai cependant de la rassurer en lui disant que je ne lui en voulais pas le moins du monde de ce qu’elle m’avait souvent mal ciré mes bottes. Elle appartient à la plèbe ; on ne peut lui parler de choses élevées. Elle s’est épouvantée de la sorte, parce qu’elle croyait que tous les rois d’Espagne ressemblent à Philippe II. Mais je lui ai bien expliqué qu’entre Philippe et moi il n’y a pas la moindre ressemblance. Je ne suis pas allé au département ; que le diable l’emporte ! Non, mes amis, maintenant vous ne m’y reprendrez plus ; je ne veux plus copier vos misérables paperasses.
+
+`p00109` Le 86 martobre, entre le jour et la nuit.
+
+`p00110` Aujourd’hui, notre exécuteur est venu me dire qu’il fallait que j’allasse au département, et qu’il y a plus de trois semaines que je n’ai fait de service. Je suis allé au département, par force. Le chef de bureau pensait peut-être que je le saluerais, que je lui ferais des excuses ; mais je le regardais avec calme, sans montrer ni trop de colère, ni trop de bienveillance, et je m’assis à ma table comme si de rien n’était. Je considérais toute cette canaille qui peuplait la chancellerie, et je pensais à part moi : — Si vous saviez qui se trouve parmi vous ! — Oh ! mon Dieu, quel tumulte aurait éclaté ! Le chef de bureau, lui-même, aurait commencé à me saluer de la tête jusqu’à la ceinture, comme il salue maintenant notre directeur. On mit devant moi quelques papiers pour que j’en fisse un extrait ; mais je n’y touchai pas même du bout du doigt. Quelques minutes après, tout le département se mit en émoi ; on disait que le directeur allait arriver. Beaucoup d’employés se mirent à courir à sa rencontre pour montrer leur zèle. Mais moi, je ne bougeai de ma place. Quand il traversa notre bureau, tous boutonnèrent leurs fracs ; mais moi, absolument rien. Un directeur ! que je me lève devant lui ! jamais. Et puis, quel directeur est-ce ? Ce n’est pas un directeur ; c’est un bouchon, un simple bouchon, rien de plus. Voilà un de ces bouchons avec lesquels on bouche les bouteilles. Ce qui me parut le plus ridicule, c’est qu’on me donna des papiers à signer. Ils s’imaginaient que j’écrirais, tout au bas de la page : le chef de table.... Ah ! vraiment ! Au beau milieu de la feuille, là où signe le directeur, j’écrivis : Ferdinand VIII. Il aurait fallu voir quel silence respectueux se fit autour de moi. Mais je fis un geste de la main en ajoutant : — Pas de témoignage de respect, — et je sortis.
+
+`p00111` J’allai de là droit au logis du directeur. Il n’était pas à la maison, et le laquais ne voulait pas me laisser entrer ; mais je lui dis quelque chose qui lui fit tomber les bras. Je pénétrai jusqu’à la chambre à coucher. Elle était assise devant son miroir ; mais elle se leva et recula à ma vue. Je ne lui dis pas cependant que j’étais le roi d’Espagne. Je lui dis seulement qu’un grand bonheur l’attendait, tel qu’elle ne pouvait pas même se l’imaginer, et que notre union se ferait malgré les embûches de nos ennemis. Je n’ajoutai rien de plus et m’en allai. Oh ! que la femme est un être perfide ! je n’ai compris qu’aujourd’hui ce que c’est que la femme. Jusqu’à présent personne n’avait pu découvrir de qui elle est éprise. C’est moi le premier qui l’ai découvert. La femme est amoureuse du diable. Oui, sans plaisanter. Les physiciens qui prétendent le contraire disent des bêtises. Tout cela, c’est de l’ambition, et cette ambition provient de ce qu’il se trouve sous la langue une petite vésicule qui renferme un petit vermisseau de la grosseur d’une tête d’épingle. Et tout cela est confectionné par un coiffeur qui habite maintenant la rue aux Pois. Je ne me rappelle plus son nom ; mais il est incontestablement prouvé qu’il s’est associé avec une sage-femme pour répandre le mahométisme sur toute la terre ; et voilà pour quelle raison la plus grande partie du peuple en France s’est convertie à la religion de Mahomet.
+
+`p00112` Pas de date ; c’était un jour sans date.
+
+`p00113` Je me suis promené incognito à la Perspective Newski. Cependant je n’ai pas fait voir que j’étais le roi d’Espagne ; j’ai pensé qu’il était inconvenant de se dévoiler ainsi devant tout le monde avant de s’être fait présenter à la cour. Une seule chose m’embarrasse : c’est que je n’ai pas de costume national. S’il était possible de trouver un manteau royal quelconque. Je voulais en commander un à un tailleur ; mais tous ces tailleurs sont de vrais ânes qui ne prennent pas le moindre souci de leur ouvrage. Ils sont devenus des gens d’affaires, et, pour la plupart, s’occupent de paver les rues. J’ai pris la résolution de faire un manteau royal d’un frac d’employé que je n’ai pas mis trois fois. Mais, pour ne pas donner à ces coquins l’occasion de le gâter, je vais le faire moi-même, en fermant la porte pour que personne ne me voie. Je l’ai déjà taillé en pièces avec des ciseaux, car il faut que la coupe en soit toute différente.
+
+`p00114` Je ne me rappelle pas la date ; il n’y avait  
+pas de mois ; le diable sait ce qu’il y avait.
+
+`p00115` Le manteau est prêt et cousu. Mavra a poussé un cri quand je l’ai mis pour la première fois. Cependant je ne puis encore me décider à me présenter à la cour. Jusqu’à présent il n’est pas venu de députation de l’Espagne. Se présenter à la cour sans députés, ce serait inconvenant. Ma dignité n’aurait pas le moindre poids. Je les attends d’heure en heure.
+
+`p00116` Date I.
+
+`p00117` La lenteur des députés m’étonne prodigieusement. Quelle raison peut les retenir ? Serait-ce la France ? Oui, c’est l’État le plus hostile. Je suis allé m’informer à la poste si les députés d’Espagne n’étaient pas arrivés. Mais le directeur de la poste, qui est extrêmement bête, n’a pas entendu parler d’eux.
+
+`p00118` — Non, m’a-t-il dit, il n’y a pas ici des députés d’Espagne ; mais si vous voulez écrire une lettre, nous la recevrons d’après le tarif. —
+
+`p00119` Que le diable t’emporte ! qu’est-ce qu’une lettre ? Toute lettre est une bêtise.... il n’y a que les apothicaires qui écrivent des lettres…
+
+`p00120` Madrid, le 30 februarius.
+
+`p00121` Me voilà en Espagne, et c’est arrivé si vite qu’à peine j’ai eu le temps de le remarquer. Ce matin les députés d’Espagne se sont présentés chez moi, et je me suis assis en voiture au milieu d’eux. La rapidité prodigieuse de notre voyage m’a fort surpris. Nous sommes allés si vite, qu’en une demi-heure nous étions aux frontières d’Espagne. Du reste, il y a maintenant partout en Europe des chemins de fer et des bateaux à vapeur. L’Espagne est un pays bien extraordinaire. En entrant dans la première chambre, j’aperçus une foule d’hommes avec la tête rasée. Je devinai cependant à l’instant même que ce devaient être des grands.... ou des soldats, car les soldats se rasent la tête. Les façons du chancelier d’État qui me conduisait par la main sont vraiment fort singulières. Il m’a poussé dans une petite chambre, en me disant :
+
+`p00122` — Reste là, et si tu t’avises encore de te nommer le roi Ferdinand, je te rosserai jusqu’à ce que l’envie t’en passe. —
+
+`p00123` Mais moi, qui savais bien que ce n’était qu’une épreuve, je répondis négativement, ce qui m’attira du chancelier deux coups de bâton sur le dos. Ils me firent si mal que je manquai crier : mais je me retins, en me rappelant que c’est un usage chevaleresque auquel doivent se soumettre tous ceux qui sont promus à de hautes dignités, car ces usages chevaleresques existent encore en Espagne. Resté seul, je m’occupai des affaires d’État. Je découvris alors que la Chine et l’Espagne sont le même État ; il n’y a que des ignorants qui les prennent pour deux États distincts. Je conseille à tout le monde d’écrire sur un morceau de papier le mot Espagne ; il deviendra Chine. Mais ce qui m’affligeait beaucoup, c’est un événement qui doit avoir lieu demain. Demain, à sept heures, il arrivera une chose étrange : la terre s’assiéra sur la lune. Le célèbre chimiste anglais Wellington a écrit là-dessus. J’avoue que je ressentis une angoisse au cœur quand je m’imaginai la mollesse extraordinaire et le peu de solidité de la lune. La lune se fait ordinairement à Hambourg, et elle s’y fait très-mal. Je m’étonne que l’Angleterre n’y ait pas fait attention jusqu’à présent. C’est un tonnelier boiteux qui la fabrique, et l’on voit que cet imbécile n’a pas la moindre idée de ce que c’est que la lune. Il y met des câbles goudronnés et un peu d’huile d’olive ; c’est pour cela qu’il règne une si grande puanteur sur toute la terre que tout le monde doit se boucher le nez. Et voilà pourquoi la lune est un globe tellement tendre et mou que les hommes ne peuvent pas y vivre, et qu’il n’y vit que des nez. Et voilà pourquoi nous ne pouvons pas voir nos nez ; ils se trouvent tous dans la lune. Et quand je me rappelai que la terre est une masse lourde, et qu’elle peut, en s’asseyant sur la lune, broyer tous nos nez, une si grande inquiétude me saisit que je me hâtai, après avoir mis mes bas et mes souliers, de me rendre dans la salle du conseil d’État pour donner l’ordre à la police d’empêcher la terre de s’asseoir sur la lune. Les grands rasés que je trouvai en grand nombre dans cette salle, étaient tous des hommes de beaucoup de sens. Et quand je leur dis :
+
+`p00124` — Messieurs, sauvons la lune, car la terre veut s’asseoir sur elle. —
+
+`p00125` Tout le monde, à l’instant même, se mit à l’œuvre pour satisfaire à mon désir royal. Plusieurs d’entre eux commencèrent à grimper aux murailles avec l’intention de monter à la lune. Mais en ce moment parut le grand chancelier. À sa vue, tous s’enfuirent. Moi, en qualité de roi, je tins ferme. Mais le chancelier, à ma grande surprise, me donna un coup de bâton, et me chassa dans ma chambre. Voyez quelle puissance ont encore en Espagne les vieilles coutumes nationales !
+
+`p00126` Le janvier de la même année  
+qui est venu après le février.
+
+`p00127` Je ne puis comprendre jusqu’à présent quel pays est l’Espagne. Les usages populaires et l’étiquette de la cour sont tout à fait bizarres. Je ne comprends rien, je ne comprends rien, je ne comprends absolument rien. Aujourd’hui on m’a rasé la tête, quoique j’aie crié de toutes mes forces que je ne voulais pas être moine. Mais je ne saurais exprimer ce que j’ai ressenti quand on s’est mis à me verser, goutte à goutte, de l’eau froide sur la tête. Je n’ai jamais éprouvé un pareil enfer. J’étais prêt à devenir furieux ; de façon qu’on ne m’a retenu qu’à grand’peine. Je ne comprends pas du tout la signification d’une pareille coutume. C’est une coutume sotte, stupide, insensée. Je ne comprends pas non plus la folie des rois qui ne l’ont pas abolie jusqu’à présent. Je commence à croire que je suis tombé dans les mains de l’inquisition, et que celui que je prenais pour le chancelier n’est autre chose que le grand inquisiteur lui-même. Mais je ne puis comprendre comment un roi peut être soumis à l’inquisition. Cependant il serait possible que la France en fût cause, et surtout Polignac. Oh ! ce coquin de Polignac ! il m’a juré une haine mortelle, et le voilà qui me poursuit, qui me poursuit.... Mais je sais ton affaire, camarade ; ce sont les Anglais qui te font aller. Les Anglais sont de grands politiques ; ils se fourrent partout. Le monde entier sait que quand l’Angleterre prend du tabac, c’est la France qui éternue.
+
+`p00128` Aujourd’hui, le grand inquisiteur est venu dans ma chambre. Dès que j’entendis le bruit de ses pas, je m’empressai de me cacher sous une chaise. Ne me voyant pas, il se mit à m’appeler. Il commença par dire :
+
+`p00129` — Popritchine ! —
+
+`p00130` Moi, motus. Puis :
+
+`p00131` — Axenti Ivanoff !… Conseiller titulaire ! Gentilhomme !… —
+
+`p00132` Je me tais toujours.
+
+`p00133` — Ferdinand VIII, roi d’Espagne !… —
+
+`p00134` J’eus un moment l’intention de sortir ma tête de dessous la chaise ; mais je dis en moi-même :
+
+`p00135` — Non, tu ne me tromperas pas, nous te connaissons ; tu me ferais encore verser de l’eau froide sur la tête. —
+
+`p00136` Cependant il m’aperçut, et me chassa de ma retraite à coups de bâton. Ce maudit bâton bat de manière à faire bien mal. Du reste, une nouvelle découverte que j’ai faite aujourd’hui m’a récompensé de toutes mes souffrances. Je me suis convaincu que chaque coq avait une Espagne, et qu’il la portait sous ses ailes. Le grand inquisiteur me quitta tout furieux, en me menaçant d’une punition ; mais je méprisai complétement sa colère impuissante, car je sais bien qu’il n’agit que comme un instrument des Anglais.
+
+`p00137` Da 34 te, ms, néena, février, 349
+
+`p00138` Non, je n’ai plus la force de souffrir. Mon Dieu, que font-ils de moi ? Ils me versent de l’eau froide sur la tête. Ils ne veulent pas m’écouter, ni voir mes souffrances. Que leur ai-je fait ? Pourquoi me tourmentent-ils ? Que veulent-ils de moi, pauvre infortuné que je suis ? Que puis-je leur donner ? Je n’ai rien.... Je ne puis, non je ne puis plus supporter mes tourments. Ma tête brûle, tout tourne devant mes yeux. Ah ! sauvez-moi, prenez-moi, donnez-moi un troïka de chevaux rapides comme le vent. Assieds-toi, mon postillon ; tinte, ma clochette ; élancez-vous, mes chevaux, et emportez-moi loin de cette terre.... Plus loin, plus loin, pour qu’on ne voie plus rien, plus rien.... Un ciel agité se déroule devant moi ; une petite étoile brille au firmament. Une forêt d’arbres sombres, et la lune au-dessus, passent rapidement devant mes yeux ; une vapeur bleue s’étend sous mes pieds ; une corde vibre au fond de cette vapeur.... D’un côté c’est la mer, de l’autre l’Italie.... Voilà qu’on aperçoit aussi de petites chaumières russes. Oh ! est-ce ma maison qui bleuit dans le lointain ? est-ce ma mère qui est assise sous la fenêtre ?… Ô ma mère, sauve ton pauvre enfant ! laisse tomber une larme sur ma tête malade ! vois comme on le tourmente ! oh ! serre sur ton cœur ton pauvre orphelin délaissé ! il n’a pas de place dans ce monde. On le persécute.... Ma mère, ma mère, prends pitié de moi .... À propos, savez-vous que le dey d’Alger a une verrue sur le nez ?
+
+`p00139` FIN DES MÉMOIRES D’UN FOU.

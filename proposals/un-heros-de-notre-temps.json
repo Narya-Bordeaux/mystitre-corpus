@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "un-heros-de-notre-temps",
+  "title": "Un héros de notre temps",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ru.wikisource.org",
+    "edition": "Герой нашего времени, Лермонтов, ru.wikisource, version en orthographe moderne (СО), chapitres « Бэла » et « Фаталист » ; édition source non précisée",
+    "pages": [
+      {
+        "title": "Герой нашего времени (Лермонтов)/СО/Бэла",
+        "revisionId": 5115407
+      },
+      {
+        "title": "Герой нашего времени (Лермонтов)/СО/Фаталист",
+        "revisionId": 5619997
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "0fd9ea5c12ccae470c4d074282082aa386d6cf8f82a2b4936c1520631b1a0ce1"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Je voyageais en poste, venant de Tiflis. Tout le bagage de ma petite voiture se réduisait à une seule valise, à moitié remplie de notes de voyage sur la Géorgie. La plus grande partie en est perdue, heureusement pour vous, tandis que la valise, avec le reste de mes affaires, est heureusement restée intacte pour moi.",
+    "original": "Я ехал на перекладных из Тифлиса. Вся поклажа моей тележки состояла из одного небольшого чемодана, который до половины был набит путевыми записками о Грузии. Большая часть из них, к счастию для вас, потеряна, а чемодан с остальными вещами, к счастью для меня, остался цел.",
+    "length": 317,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00363.s3",
+      "p00364.s1",
+      "p00365.s1",
+      "p00365.s2",
+      "p00366.s1"
+    ],
+    "french": "En revanche, quant à leurs sabres, je leur tire mon chapeau !\nPuis il ajouta, après avoir réfléchi un moment :\n— Oui, pauvre diable… Quel démon l’a poussé à causer la nuit avec un ivrogne !… Mais enfin, il était sans doute écrit que cela lui arriverait…\nJe ne pus rien tirer de plus de lui : il n’aime pas du tout les discussions métaphysiques.",
+    "original": "Зато уж шашки у них — просто мое почтение!\nПотом он примолвил, несколько подумав:\n— Да, жаль беднягу… Черт же его дернул ночью с пьяным разговаривать!.. Впрочем, видно, уж так у него на роду было написано…\nБольше я от него ничего не мог добиться: он вообще не любит метафизических прений.",
+    "length": 344,
+    "truncated": false
+  }
+}

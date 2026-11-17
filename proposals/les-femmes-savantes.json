@@ -1,0 +1,99 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-femmes-savantes",
+  "title": "Les Femmes savantes",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Œuvres complètes de Molière, édition Louandre, 1910 (Wikisource)",
+    "pages": [
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Personnages",
+        "revisionId": 15110935
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte I",
+        "revisionId": 15110925
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte II",
+        "revisionId": 15110927
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte III",
+        "revisionId": 15110929
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte IV",
+        "revisionId": 15110931
+      },
+      {
+        "title": "Les Femmes savantes/Édition Louandre, 1910/Acte V",
+        "revisionId": 15110933
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "e92ed2a719d129cdd94e2054cdddfd8e268c48a9b3f5ba3a2ace888ef2c206d3"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00847",
+      "find": ", à Clitandre.\n",
+      "replace": "",
+      "reason": "Indication de jeu restée après le nom du personnage, pas du texte dit"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00848",
+      "find": ", à Philaminte.\n",
+      "replace": "",
+      "reason": "Indication de jeu restée après le nom du personnage, pas du texte dit"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00851",
+      "find": ", au notaire.\n",
+      "replace": "",
+      "reason": "Indication de jeu restée après le nom du personnage, pas du texte dit"
+    }
+  ],
+  "reviewFlags": [
+    "p00847 : remplacement ample (15 caractères changés)",
+    "p00848 : remplacement ample (16 caractères changés)",
+    "p00851 : remplacement ample (14 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00017.s1",
+      "p00017.s2",
+      "p00017.s3",
+      "p00018.s1",
+      "p00019.s1",
+      "p00019.s2"
+    ],
+    "french": "ARMANDE. — Quoi ! le beau nom de fille est un titre, ma sœur,\nDont vous voulez quitter la charmante douceur ?\nEt de vous marier vous osez faire fête ?\nCe vulgaire dessein vous peut monter en tête ?\nHENRIETTE. — Oui, ma sœur.\nARMANDE. — Ah ! ce oui se peut-il supporter ?\nEt sans un mal de cœur sauroit-on l’écouter ?",
+    "original": "ARMANDE. — Quoi ! le beau nom de fille est un titre, ma sœur,\nDont vous voulez quitter la charmante douceur ?\nEt de vous marier vous osez faire fête ?\nCe vulgaire dessein vous peut monter en tête ?\nHENRIETTE. — Oui, ma sœur.\nARMANDE. — Ah ! ce oui se peut-il supporter ?\nEt sans un mal de cœur sauroit-on l’écouter ?",
+    "length": 316,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00849.s1",
+      "p00850.s1",
+      "p00850.s2",
+      "p00851.s1"
+    ],
+    "french": "PHILAMINTE. — Ce ne sera point vous que je leur sacrifie ;\nEt vous avez l’appui de la philosophie,\nPour voir d’un œil content couronner leur ardeur.\nBÉLISE. — Qu’il prenne garde au moins que je suis dans son cœur.\nPar un prompt désespoir souvent on se marie,\nQu’on s’en repent après tout le temps de sa vie.\nCHRYSALE. — Allons, monsieur, suivez l’ordre que j’ai prescrit,\nEt faites le contrat ainsi que je l’ai dit.",
+    "original": "PHILAMINTE. — Ce ne sera point vous que je leur sacrifie ;\nEt vous avez l’appui de la philosophie,\nPour voir d’un œil content couronner leur ardeur.\nBÉLISE. — Qu’il prenne garde au moins que je suis dans son cœur.\nPar un prompt désespoir souvent on se marie,\nQu’on s’en repent après tout le temps de sa vie.\nCHRYSALE. — Allons, monsieur, suivez l’ordre que j’ai prescrit,\nEt faites le contrat ainsi que je l’ai dit.",
+    "length": 415,
+    "truncated": false
+  }
+}

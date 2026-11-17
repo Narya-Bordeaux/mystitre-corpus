@@ -1,0 +1,49 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-enfants-du-capitaine-grant",
+  "title": "Les Enfants du capitaine Grant",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, Les Enfants du capitaine Grant (édition non indiquée), partie 1 chapitre I et partie 3 chapitre XXII",
+    "pages": [
+      {
+        "title": "Les Enfants du capitaine Grant/Partie 1/Chapitre I",
+        "revisionId": 5602549
+      },
+      {
+        "title": "Les Enfants du capitaine Grant/Partie 3/Chapitre XXII",
+        "revisionId": 2716961
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "3d9478c78f41ffba04e616d463e85adc2426cc6e44c85c007944d414bc67d448"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00006.s1",
+      "p00006.s2"
+    ],
+    "french": "Le 26 juillet 1864, par une forte brise du nord-est, un magnifique yacht évoluait à toute vapeur sur les flots du canal du Nord. Le pavillon d’Angleterre battait à sa corne d’artimon ; à l’extrémité du grand mât, un guidon bleu portait les initiales E. G., brodées en or et surmontées d’une couronne ducale.",
+    "original": "Le 26 juillet 1864, par une forte brise du nord-est, un magnifique yacht évoluait à toute vapeur sur les flots du canal du Nord. Le pavillon d’Angleterre battait à sa corne d’artimon ; à l’extrémité du grand mât, un guidon bleu portait les initiales E. G., brodées en or et surmontées d’une couronne ducale.",
+    "length": 307,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00102.s1",
+      "p00102.s2"
+    ],
+    "french": "Le retour du capitaine en Écosse fut salué comme un événement national, et Harry Grant devint l’homme le plus populaire de la vieille Calédonie. Son fils Robert s’est fait marin comme lui, marin comme le capitaine John, et c’est sous les auspices de lord Glenarvan qu’il a repris le projet de fonder une colonie écossaise dans les mers du Pacifique.",
+    "original": "Le retour du capitaine en Écosse fut salué comme un événement national, et Harry Grant devint l’homme le plus populaire de la vieille Calédonie. Son fils Robert s’est fait marin comme lui, marin comme le capitaine John, et c’est sous les auspices de lord Glenarvan qu’il a repris le projet de fonder une colonie écossaise dans les mers du Pacifique.",
+    "length": 349,
+    "truncated": false
+  }
+}

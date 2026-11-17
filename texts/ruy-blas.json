@@ -1,0 +1,6117 @@
+{
+  "formatVersion": 1,
+  "bookId": "ruy-blas",
+  "sha256": "4ed5aaa69909870f6265937f0c3a11be200b1c554f4bfb6bd7382fe995f45934",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "ACTE PREMIER.",
+        "DON SALLUSTE."
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "PERSONNAGES"
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "RUY BLAS."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "DON SALLUSTE DE BAZAN."
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "DON CÉSAR DE BAZAN."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "LE MARQUIS DEL BASTO."
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "LE MARQUIS DE SANTA-CRUZ."
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "LE COMTE D’ALBE"
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "GUDIEL."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "UN HUISSIER DE COUR."
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "LA REINE."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "SEIGNEURS, DAMES, DUÈGNES, PAGES."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Le salon de Danaé dans le palais du roi, à Madrid. Ameublement magnifique dans le goût demi-flamand du temps de Philippe IV. À gauche, une grande fenêtre à châssis dorés et à petits carreaux. Des deux côtés, sur un pan coupé, une porte basse donnant dans quelque appartement intérieur. Au fond, une grande cloison vitrée à châssis dorés s’ouvrant par une large porte également vitrée sur une longue galerie. Cette galerie qui traverse tout le théâtre, est masquée par d’immenses rideaux qui tombent du haut en bas de la cloison vitrée. Une table, un fauteuil, et ce qu’il faut pour écrire."
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Don Salluste entre par la petite porte de gauche, suivi de Ruy Blas et de Gudiel, qui porte une cassette et divers paquets qu’on dirait disposés pour un voyage. Don Salluste est vêtu de velours noir, costume de cour du temps de Charles II. La toison d’or au cou. Par-dessus l’habillement noir, un riche manteau de velours vert clair, brodé d’or et doublé de satin noir. Épée à grande coquille. Chapeau à plumes blanches. Gudiel est en noir, épée au côté. Ruy Blas est en livrée. Haut-de-chausses et justaucorps bruns. Surtout galonné, rouge et or. Tête nue. Sans épée."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène PREMIÈRE."
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DON SALLUSTE DE BAZAN, GUDIEL, par instants RUY BLAS."
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ruy Blas, fermez la porte, — ouvrez cette fenêtre."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ruy Blas obéit, puis, sur un signe de don Salluste, il sort par la porte du fond. Don Salluste va à la fenêtre."
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ils dorment encore tous ici, — le jour va naître."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il se tourne brusquement vers Gudiel."
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ah ! C’est un coup de foudre !… — oui, mon règne est passé,",
+        "Gudiel ! — renvoyé, disgracié, chassé ! —",
+        "Ah ! tout perdre en un jour ! — L’aventure est secrète",
+        "Encor, n’en parle pas. — Oui, pour une amourette,",
+        "— Chose, à mon âge, sotte et folle, j’en conviens ! —",
+        "Avec une suivante, une fille de rien !",
+        "Séduite, beau malheur ! parce que la donzelle",
+        "Est à la reine, et vient de Neubourg avec elle,",
+        "Que cette créature a pleuré contre moi,",
+        "Et traîné son enfant dans les chambres du roi ;",
+        "Ordre de l’épouser. Je refuse. On m’exile !",
+        "On m’exile ! Et vingt ans d’un labeur difficile,",
+        "Vingt ans d’ambition, de travaux nuit et jour ;",
+        "Le président haï des alcades de cour,",
+        "Dont nul ne prononçait le nom sans épouvante ;",
+        "Le chef de la maison de Bazan, qui s’en vante ;",
+        "Mon crédit, mon pouvoir, tout ce que je rêvais,",
+        "Tout ce que je faisais et tout ce que j’avais :",
+        "Charge, emplois, honneurs, tout en un instant s’écroule",
+        "Au milieu des éclats de rire de la foule !"
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GUDIEL",
+      "lines": [
+        "Nul ne le sait encor, monseigneur."
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Mais demain !",
+        "Demain, on le saura ! — Nous serons en chemin !",
+        "Je ne veux pas tomber, non, je veux disparaître !"
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il déboutonne violemment son pourpoint."
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "— Tu m’agrafes toujours comme on agrafe un prêtre,",
+        "Tu serres mon pourpoint, et j’étouffe, mon cher ! —"
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il s’assied."
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Oh ! Mais je vais construire, et sans en avoir l’air,",
+        "Une sape profonde, obscure et souterraine !",
+        "— Chassé ! —"
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il se lève."
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GUDIEL",
+      "lines": [
+        "D’où vient le coup, monseigneur ?"
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "De la reine.",
+        "Oh ! je me vengerai, Gudiel ! tu m’entends ?",
+        "Toi dont je suis l’élève, et qui depuis vingt ans",
+        "M’as aidé, m’as servi dans les choses passées,",
+        "Tu sais bien jusqu’où vont dans l’ombre mes pensées,",
+        "Comme un bon architecte au coup d’œil exercé",
+        "Connaît la profondeur du puits qu’il a creusé.",
+        "Je pars. Je vais aller à Finlas, en Castille,",
+        "Dans mes États, — et là, songer ! — Pour une fille !",
+        "— Toi, règle le départ, car nous sommes pressés.",
+        "Moi, je vais dire un mot au drôle que tu sais.",
+        "À tout hasard. Peut-il me servir ? Je l’ignore.",
+        "Ici jusqu’à ce soir je suis le maître encore."
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je me vengerai, va ! Comment ? Je ne sais pas ;",
+        "Mais je veux que ce soit effrayant ! — de ce pas",
+        "Va faire nos apprêts, et hâte-toi. — Silence !",
+        "Tu pars avec moi. Va."
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Gudiel salue et sort."
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", appellant."
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "— Ruy Blas !"
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se présentant à la porte du fond."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Votre Excellence ?"
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Comme je ne dois plus coucher dans le palais,",
+        "Il faut laisser les clefs et clore les volets."
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’inclinant."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Monseigneur, il suffit."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Écoutez, je vous prie.",
+        "La reine va passer, là, dans la galerie,",
+        "En allant de la messe à sa chambre d’honneur.",
+        "Dans deux heures, Ruy Blas, soyez là."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Monseigneur,",
+        "J’y serai."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à la fenêtre."
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Voyez-vous cet homme dans la place",
+        "Qui montre aux gens de garde un papier, et qui passe ?",
+        "Faites-lui, sans parler, signe qu’il peut monter,",
+        "Par l’escalier étroit."
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ruy Blas obéit. Don Salluste continue en lui montrant la petite porte à droite."
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "— Avant de nous quitter,",
+        "Dans cette chambre où sont les hommes de police,",
+        "Voyez donc si les trois alguazils de service",
+        "Sont éveillés."
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il va à la porte, l’entr’ouvre et revient."
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Seigneur, ils dorment."
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Parlez bas.",
+        "J’aurai besoin de vous, ne vous éloignez pas.",
+        "Faites le guet afin que les fâcheux nous laissent."
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Entre don César De Bazan. Chapeau défoncé. Grande cape déguenillée qui ne laisse voir de sa toilette que des bas mal tirés et des souliers crevés. Épée de spadassin."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Au moment où il entre, lui et Ruy Blas se regardent et font en même temps, chacun de son côté, un geste de surprise."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", les observant, à part."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ils se sont regardés ! Est-ce qu’ils se connaissent ?"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Ruy Blas sort."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène Deuxième."
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DON SALLUSTE, DON CÉSAR."
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ah ! vous voilà, bandit !"
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Oui, cousin, me voilà."
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "C’est grand plaisir de voir un gueux comme cela !"
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", saluant."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Je suis charmé…"
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Monsieur, on sait de vos histoires."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", gracieusement."
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Qui sont de votre goût ?"
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Oui, des plus méritoires."
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Don Charles de Mira l’autre nuit fut volé.",
+        "On lui prit son épée à fourreau ciselé",
+        "Et son buffle. C’était la surveille de Pâques.",
+        "Seulement, comme il est chevalier de Saint-Jacques,",
+        "La bande lui laissa son manteau."
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Doux Jésus !",
+        "Pourquoi ?"
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Parce que l’ordre était brodé dessus.",
+        "Eh bien ! que dites-vous de l’algarade ?"
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Ah ! diable !",
+        "Je dis que nous vivons dans un siècle effroyable !",
+        "Qu’allons-nous devenir, bon Dieu ! Si les voleurs",
+        "Vont courtiser saint Jacque et le mettre des leurs ?"
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous en étiez !"
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Eh bien — oui ! S’il faut que je parle,",
+        "J’étais là. Je n’ai pas touché votre don Charle.",
+        "J’ai donné seulement des conseils."
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Mieux encor.",
+        "La lune étant couchée, hier, Plaza-Mayor,",
+        "Toutes sortes de gens, sans coiffe et sans semelle,",
+        "Qui hors d’un bouge affreux se ruaient pêle-mêle,",
+        "Ont attaqué le guet. — Vous en étiez !"
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Cousin,",
+        "J’ai toujours dédaigné de battre un argousin.",
+        "J’étais là. Rien de plus. Pendant les estocades,",
+        "Je marchais en faisant des vers sous les arcades.",
+        "On s’est fort assommé."
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ce n’est pas tout."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Voyons."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "En France, on vous accuse, entr’autres actions,",
+        "Avec vos compagnons à toute loi rebelles,",
+        "D’avoir ouvert sans clef la caisse des gabelles."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Je ne dis pas. — La France est pays ennemi."
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "En Flandre, rencontrant dom Paul Barthélemy,",
+        "Lequel portait à Mons le produit d’un vignoble",
+        "Qu’il venait de toucher pour le chapitre noble,",
+        "Vous avez mis la main sur l’argent du clergé."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "En Flandre ? — il se peut bien. J’ai beaucoup voyagé.",
+        "— Est-ce tout ?"
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Don César, la sueur de la honte,",
+        "Lorsque je pense à vous, à la face me monte."
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Bon. Laissez-la monter."
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Notre famille…"
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Non.",
+        "Car vous seul à Madrid connaissez mon vrai nom.",
+        "Ainsi ne parlons pas famille !"
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Une marquise",
+        "Me disait l’autre jour en sortant de l’église :"
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "— Quel est donc ce brigand qui, là-bas, nez au vent,",
+        "Se carre, l’œil au guet et la hanche en avant,",
+        "Plus délabré que Job et plus fier que Bragance,",
+        "Drapant sa gueuserie avec son arrogance,",
+        "Et qui, froissant du poing sous sa manche en haillons,",
+        "L’épée à lourd pommeau qui lui bat les talons,",
+        "Promène, d’une mine altière et magistrale,",
+        "Sa cape en dents de scie et ses bas en spirale ?"
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", jetant un coup d’œil sur sa toilette."
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Vous avez répondu : C’est ce cher Zafari !"
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Non ; j’ai rougi, monsieur !"
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Eh bien ! La dame a ri.",
+        "Voilà. J’aime beaucoup faire rire les femmes."
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous n’allez fréquentant que spadassins infâmes !"
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Des clercs ! des écoliers doux comme des moutons !"
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Partout on vous rencontre avec des Jeannetons !"
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Ô Lucindes d’amour ! ô douces Isabelles !",
+        "Eh bien ! sur votre compte on en entend de belles !",
+        "Quoi ! l’on vous traite ainsi, beautés à l’œil mutin,",
+        "À qui je dis le soir mes sonnets du matin !"
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Enfin, Matalobos, ce voleur de Galice",
+        "Qui désole Madrid malgré notre police,",
+        "Il est de vos amis !"
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Raisonnons, s’il vous plaît.",
+        "Sans lui j’irais tout nu, ce qui serait fort laid.",
+        "Me voyant sans habit, dans la rue, en décembre,",
+        "La chose le toucha. — Ce fat parfumé d’ambre,",
+        "Le comte d’Albe, à qui l’autre mois fut volé",
+        "Son beau pourpoint de soie…"
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Eh bien ?"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "C’est moi qui l’ai.",
+        "Matalobos me l’a donné."
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "L’habit du comte !",
+        "Vous n’êtes pas honteux ?…"
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Je n’aurai jamais honte",
+        "De mettre un bon pourpoint, brodé, passementé,",
+        "Qui me tient chaud l’hiver et me fait beau l’été.",
+        "— Voyez, il est tout neuf. —"
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il entr’ouvre son manteau, qui laisse voir un superbe pourpoint de satin rose brodé d’or."
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Les poches en sont pleines",
+        "De billets doux au comte adressés par centaines.",
+        "Souvent, pauvre, amoureux, n’ayant rien sous la dent,",
+        "J’avise une cuisine au soupirail ardent",
+        "D’où la vapeur des mets aux narines me monte ;",
+        "Je m’assieds là, j’y lis les billets doux du comte,",
+        "Et, trompant l’estomac et le cœur tour à tour,",
+        "J’ai l’odeur du festin et l’ombre de l’amour !"
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Don César…"
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Mon cousin, tenez, trêve aux reproches.",
+        "Je suis un grand seigneur, c’est vrai, l’un de vos proches ;"
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Je m’appelle César, comte de Garofa ;",
+        "Mais le sort de folie en naissant me coiffa.",
+        "J’étais riche, j’avais des palais, des domaines,",
+        "Je pouvais largement renter les Célimènes.",
+        "Bah ! mes vingt ans n’étaient pas encore révolus",
+        "Que j’avais mangé tout ! il ne me restait plus",
+        "De mes prospérités, ou réelles, ou fausses,",
+        "Qu’un tas de créanciers hurlant après mes chausses.",
+        "Ma foi, j’ai pris la fuite et j’ai changé de nom.",
+        "À présent, je ne suis qu’un joyeux compagnon,",
+        "Zafari, que, hors vous, nul ne peut reconnaître.",
+        "Vous ne me donnez pas du tout d’argent, mon maître ;",
+        "Je m’en passe. Le soir, le front sur un pavé,",
+        "Devant l’ancien palais des comtes de Tevé,",
+        "— C’est là, depuis neuf ans, que la nuit je m’arrête, —",
+        "Je vais dormir avec le ciel bleu sur ma tête.",
+        "Je suis heureux ainsi. Pardieu, c’est un beau sort !",
+        "Tout le monde me croit dans l’Inde, au diable, — mort.",
+        "La fontaine voisine a de l’eau, j’y vais boire,",
+        "Et puis je me promène avec un air de gloire.",
+        "Mon palais, d’où jadis mon argent s’envola,",
+        "Appartient à cette heure au nonce Espinola,",
+        "C’est bien. Quand par hasard jusque-là je m’enfonce,",
+        "Je donne des avis aux ouvriers du nonce",
+        "Occupés à sculpter sur la porte un Bacchus. —",
+        "Maintenant, pouvez-vous me prêter dix écus ?"
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Écoutez-moi…"
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", croisant les bras."
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Voyons à présent votre style."
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je vous ai fait venir, c’est pour vous être utile",
+        "César, sans enfants, riche, et de plus votre aîné.",
+        "Je vous vois à regret vers l’abîme entraîné,",
+        "Je veux vous en tirer. Bravache que vous êtes,",
+        "Vous êtes malheureux. Je veux payer vos dettes,",
+        "Vous rendre vos palais, vous remettre à la cour,",
+        "Et refaire de vous un beau seigneur d’amour.",
+        "Que Zafari s’éteigne et que César renaisse.",
+        "Je veux qu’à votre gré vous puisiez dans ma caisse,",
+        "Sans crainte, à pleines mains, sans soin de l’avenir.",
+        "Quand on a des parents il faut les soutenir,",
+        "César, et pour les siens se montrer pitoyable…"
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Pendant que don Salluste parle, le visage de Don César prend une expression de plus en plus étonnée, joyeuse et confiante ; enfin il éclate."
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Vous avez toujours eu de l’esprit comme un diable,",
+        "Et c’est fort éloquent ce que vous dites là.",
+        "— Continuez !"
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "César, je ne mets à cela"
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Qu’une condition. — Dans l’instant je m’explique.",
+        "Prenez d’abord ma bourse."
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", empoignant la bourse, qui est pleine d’or."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Ah çà ! c’est magnifique !"
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Et je vous vais donner cinq cents ducats…"
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", ébloui."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Marquis !"
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", continuant."
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Dès aujourd’hui."
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Pardieu, je vous suis tout acquis.",
+        "Quant aux conditions, ordonnez. Foi de brave !",
+        "Mon épée est à vous. Je deviens votre esclave,",
+        "Et, si cela vous plaît, j’irai croiser le fer",
+        "Avec Don Spavento, capitan de l’enfer."
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Non, je n’accepte pas, don César, et pour cause,",
+        "Votre épée."
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Alors quoi ? Je n’ai guère autre chose."
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se rapprochant de lui et baissant la voix."
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous connaissez, — et c’est en ce cas un bonheur, —",
+        "Tous les gueux de Madrid ?"
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Vous me faites honneur."
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous en traînez toujours après vous une meute ;",
+        "Vous pourriez, au besoin, soulever une émeute,",
+        "Je le sais. Tout cela peut-être servira."
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", éclatant de rire."
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "D’honneur ! vous avez l’air de faire un opéra.",
+        "Quelle part donnez-vous dans l’œuvre à mon génie ?",
+        "Sera-ce le poème ou bien la symphonie ?",
+        "Commandez. Je suis fort pour le charivari."
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", gravement."
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je parle à don César et non à Zafari."
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Baissant la voix de plus en plus."
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Écoute. J’ai besoin, pour un résultat sombre,"
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "De quelqu’un qui travaille à mon côté dans l’ombre",
+        "Et qui m’aide à bâtir un grand événement.",
+        "Je ne suis pas méchant, mais il est tel moment",
+        "Où le plus délicat, quittant toute vergogne,",
+        "Doit retrousser sa manche et faire la besogne.",
+        "Tu seras riche, mais il faut m’aider sans bruit",
+        "À dresser, comme font les oiseleurs la nuit,",
+        "Un bon filet caché sous un miroir qui brille,",
+        "Un piége d’alouette ou bien de jeune fille.",
+        "Il faut, par quelque plan terrible et merveilleux,",
+        "— Tu n’es pas, que je pense, un homme scrupuleux, —",
+        "Me venger !"
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Vous venger ?"
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "De qui ?"
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "D’une femme."
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il se redresse et regarde fièrement don Salluste."
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Ne m’en dites pas plus. Halte-là ! — sur mon âme,"
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Mon cousin, en ceci voilà mon sentiment :",
+        "Celui qui, bassement et tortueusement,",
+        "Se venge, ayant le droit de porter une lame,",
+        "Noble, par une intrigue, homme, sur une femme,",
+        "Et qui, né gentilhomme, agit en alguazil,",
+        "Celui-là, — fût-il grand de Castille, fût-il",
+        "Suivi de cent clairons sonnant des tintamarres,",
+        "Fût-il tout harnaché d’ordres et de chamarres,",
+        "Et marquis, et vicomte, et fils des anciens preux,",
+        "N’est pour moi qu’un maraud sinistre et ténébreux",
+        "Que je voudrais, pour prix de sa lâcheté vile,",
+        "Voir pendre à quatre clous au gibet de la ville !"
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "César !…"
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "N’ajoutez pas un mot, c’est outrageant."
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il jette la bourse aux pieds de Don Salluste."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Gardez votre secret, et gardez votre argent.",
+        "Oh ! je comprends qu’on vole, et qu’on tue, et qu’on pille ;",
+        "Que par une nuit noire on force une bastille,",
+        "D’assaut, la hache au poing, avec cent flibustiers ;",
+        "Qu’on égorge estafiers, geôliers et guichetiers,",
+        "Tous, taillant et hurlants, en bandits que nous sommes,",
+        "Œil pour œil, dent pour dent, c’est bien ! hommes contre hommes !",
+        "Mais doucement détruire une femme ! et creuser",
+        "Sous ses pieds une trappe ! et contre elle abuser,"
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Qui sait ? de son humeur peut-être hasardeuse !",
+        "Prendre ce pauvre oiseau dans quelque glu hideuse !",
+        "Oh ! plutôt qu’arriver jusqu’à ce déshonneur,",
+        "Plutôt qu’être, à ce prix, un riche et haut seigneur,",
+        "— Et je le dis ici pour Dieu qui voit mon âme, —",
+        "J’aimerais mieux, plutôt qu’être à ce point infâme,",
+        "Vil, odieux, pervers, misérable et flétri,",
+        "Qu’un chien rongeât mon crâne au pied du pilori !"
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Cousin !…"
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "De vos bienfaits je n’aurai nulle envie,",
+        "Tant que je trouverai, vivant ma libre vie,",
+        "Aux fontaines de l’eau, dans les champs le grand air,",
+        "À la ville un voleur qui m’habille l’hiver,",
+        "Dans mon âme l’oubli des prospérités mortes,",
+        "Et devant vos palais, monsieur, de larges portes",
+        "Où je puis, à midi, sans souci du réveil,",
+        "Dormir, la tête à l’ombre et les pieds au soleil !",
+        "— Adieu donc. — De nous deux Dieu sait quel est le juste.",
+        "Avec les gens de cour, vos pareils, don Salluste,",
+        "Je vous laisse, et je reste avec mes chenapans.",
+        "Je vis avec les loups, non avec les serpents."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Un instant…"
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Tenez, maître, abrégeons la visite.",
+        "Si c’est pour m’envoyer en prison, faites vite."
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Allons, je vous croyais, César, plus endurci.",
+        "L’épreuve vous est bonne et vous a réussi ;",
+        "Je suis content de vous. Votre main, je vous prie."
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Comment !"
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je n’ai parlé que par plaisanterie.",
+        "Tout ce que j’ai dit là, c’est pour vous éprouver.",
+        "Rien de plus."
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Çà, debout vous me faites rêver.",
+        "La femme, le complot, cette vengeance…"
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Leurre !",
+        "Imagination ! chimère !"
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "À la bonne heure.",
+        "Et l’offre de payer mes dettes ! vision ?",
+        "Et les cinq cents ducats ! imagination ?"
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je vais vous les chercher."
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il se dirige vers la porte du fond, et fait signe à Ruy Blas de rentrer."
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part sur le devant, et regardant don Salluste de travers."
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Hum ! visage de traître !",
+        "Quand la bouche dit oui, le regard dit peut-être."
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ruy Blas, restez ici.",
+        "À don César.",
+        "Je reviens."
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il sort par la petite porte de gauche. Sitôt qu’il est sorti, Don César et Ruy Blas vont vivement l’un à l’autre."
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène TROISIÈME."
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DON CÉSAR, RUY BLAS."
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Sur ma foi,",
+        "Je ne me trompais pas. C’est toi, Ruy Blas ?"
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "C’est toi,",
+        "Zafari ! Que fais-tu dans ce palais ?"
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "J’y passe.",
+        "Mais je m’en vais. Je suis oiseau, j’aime l’espace.",
+        "Mais toi ? cette livrée ? est-ce un déguisement ?"
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", avec amertume."
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Non, je suis déguisé quand je suis autrement."
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Que dis-tu !"
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Donne-moi ta main, que je la serre",
+        "Comme en cet heureux temps de joie et de misère,"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Où je vivais sans gîte, où le jour j’avais faim,",
+        "Où j’avais froid la nuit, où j’étais libre enfin !",
+        "— Quand tu me connaissais, j’étais un homme encore.",
+        "Tous deux nés dans le peuple, — hélas ! c’était l’aurore !",
+        "Nous nous ressemblions au point qu’on nous prenait",
+        "Pour frères ; nous chantions dès l’heure où l’aube naît,",
+        "Et le soir, devant Dieu, notre père et notre hôte,",
+        "Sous le ciel étoilé nous dormions côte à côte !",
+        "Oui, nous partagions tout. Puis enfin arriva",
+        "L’heure triste où chacun de son côté s’en va.",
+        "Je te retrouve, après quatre ans, toujours le même,",
+        "Joyeux comme un enfant, libre comme un bohème,",
+        "Toujours ce Zafari, riche en sa pauvreté,",
+        "Qui n’a rien eu jamais et n’a rien souhaité !",
+        "Mais moi, quel changement ! Frère, que te dirai-je ?",
+        "Orphelin, par pitié nourri dans un collège",
+        "De science et d’orgueil, de moi, triste faveur !",
+        "Au lieu d’un ouvrier on a fait un rêveur.",
+        "Tu sais, tu m’as connu. Je jetais mes pensées",
+        "Et mes vœux vers le ciel en strophes insensées.",
+        "J’opposais cent raisons à ton rire moqueur.",
+        "J’avais je ne sais quelle ambition au cœur.",
+        "À quoi bon travailler ? Vers un but invisible",
+        "Je marchais, je croyais tout réel, tout possible,",
+        "J’espérais tout du sort ! — Et puis je suis de ceux",
+        "Qui passent tout un jour, pensifs et paresseux,",
+        "Devant quelque palais regorgeant de richesses,",
+        "À regarder entrer et sortir des duchesses. —",
+        "Si bien qu’un jour, mourant de faim sur le pavé,",
+        "J’ai ramassé du pain, frère, où j’en ai trouvé :"
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Dans la fainéantise et dans l’ignominie.",
+        "Oh ! quand j’avais vingt ans, crédule à mon génie,",
+        "Je me perdais, marchant pieds nus dans les chemins,",
+        "En méditations sur le sort des humains ;",
+        "J’avais bâti des plans sur tout, — une montagne",
+        "De projets ; — je plaignais le malheur de l’Espagne ;",
+        "Je croyais, pauvre esprit, qu’au monde je manquais… —",
+        "Ami, le résultat, tu le vois : — un laquais !"
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Oui, je le sais, la faim est une porte basse :",
+        "Et, par nécessité, lorsqu’il faut qu’il y passe,",
+        "Le plus grand est celui qui se courbe le plus.",
+        "Mais le sort a toujours son flux et son reflux.",
+        "Espère."
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", secouant la tête."
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Le marquis de Finlas est mon maître."
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Je le connais. — Tu vis dans ce palais, peut-être ?"
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Non, avant ce matin et jusqu’à ce moment",
+        "Je n’en avais jamais passé le seuil."
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Vraiment ?"
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Ton maître cependant pour sa charge y demeure ?"
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Oui, car la cour le fait demander à toute heure.",
+        "Mais il a quelque part un logis inconnu,",
+        "Où jamais en plein jour peut-être il n’est venu.",
+        "À cent pas du palais. Une maison discrète.",
+        "Frère, j’habite là. Par la porte secrète",
+        "Dont il a seul la clef, quelquefois, à la nuit,",
+        "Le marquis vient, suivi d’hommes qu’il introduit.",
+        "Ces hommes sont masqués et parlent à voix basse.",
+        "Ils s’enferment, et nul ne sait ce qui se passe.",
+        "Là, de deux noirs muets je suis le compagnon.",
+        "Je suis pour eux le maître. Ils ignorent mon nom."
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Oui, c’est là qu’il reçoit, comme chef des alcades,",
+        "Ses espions ; c’est là qu’il tend ses embuscades.",
+        "C’est un homme profond qui tient tout dans sa main."
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Hier, il m’a dit : — Il faut être au palais demain.",
+        "Avant l’aurore. Entrez par la grille dorée. —",
+        "En arrivant il m’a fait mettre la livrée,",
+        "Car l’habit odieux sous lequel tu me vois,",
+        "Je le porte aujourd’hui pour la première fois."
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui serrant la main."
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Espère !"
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Espérer ! mais tu ne sais rien encore.",
+        "Vivre sous cet habit qui souille et déshonore,",
+        "Avoir perdu la joie et l’orgueil, ce n’est rien.",
+        "Être esclave, être vil ; qu’importe ? — Écoute bien :",
+        "Frère ! je ne sens pas cette livrée infâme,",
+        "Car j’ai dans ma poitrine une hydre aux dents de flamme,",
+        "Qui me serre le cœur dans ses replis ardents.",
+        "Le dehors te fait peur ? si tu voyais dedans !"
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Que veux-tu dire ?"
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Invente, imagine, suppose.",
+        "Fouille dans ton esprit. Cherches-y quelque chose",
+        "D’étrange, d’insensé, d’horrible et d’inouï.",
+        "Une fatalité dont on soit ébloui !",
+        "Oui, compose un poison affreux, creuse un abîme",
+        "Plus sourd que la folie et plus noir que le crime,",
+        "Tu n’approcheras pas encore de mon secret.",
+        "— Tu ne devines pas ? — Hé ! qui devinerait ? —",
+        "Zafari ! dans le gouffre où mon destin m’entraîne,",
+        "Plonge les yeux ! — Je suis amoureux de la reine !"
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Ciel !"
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Sous un dais orné du globe impérial,"
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Il est, dans Aranjuez ou dans l’Escurial,",
+        "— Dans ce palais, parfois, — mon frère, il est un homme",
+        "Qu’à peine on voit d’en bas, qu’avec terreur on nomme ;",
+        "Pour qui, comme pour Dieu, nous sommes égaux tous ;",
+        "Qu’on regarde en tremblant et qu’on sert à genoux ;",
+        "Devant qui se couvrir est un honneur insigne ;",
+        "Qui peut faire tomber nos deux têtes d’un signe ;",
+        "Dont chaque fantaisie est un événement ;",
+        "Qui vit, seul et superbe, enfermé gravement",
+        "Dans une majesté redoutable et profonde ;",
+        "Et dont on sent le poids dans la moitié du monde.",
+        "Eh bien ! — moi, le laquais, — tu m’entends, — Eh bien ! oui,",
+        "Cet homme-là ! le roi ! je suis jaloux de lui !"
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Jaloux du roi !"
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Hé oui, jaloux du roi ! sans doute,",
+        "Puisque j’aime sa femme !"
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Oh ! malheureux !"
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Écoute.",
+        "Je l’attends tous les jours au passage. Je suis",
+        "Comme un fou. Ho ! sa vie est un tissu d’ennuis,",
+        "À cette pauvre femme ! — Oui, chaque nuit j’y songe ! —"
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Vivre dans cette cour de haine et de mensonge,",
+        "Mariée à ce roi qui passe tout son temps",
+        "À chasser ! Imbécile ! — un sot ! vieux à trente ans !",
+        "Moins qu’un homme ! à régner comme à vivre inhabile.",
+        "— Famille qui s’en va ! — Le père était débile",
+        "Au point qu’il ne pouvait tenir un parchemin.",
+        "— Oh ! si belle et si jeune, avoir donné sa main",
+        "À ce roi Charles deux ! Elle ! Quelle misère !",
+        "— Elle va tous les soirs chez les sœurs du Rosaire.",
+        "Tu sais ? en remontant la rue Ortaleza.",
+        "Comment cette démence en mon cœur s’amassa,",
+        "Je l’ignore. Mais juge ! elle aime une fleur bleue",
+        "— D’Allemagne… — Je fais chaque jour une lieue,",
+        "Jusqu’à Caramanchel, pour avoir de ces fleurs.",
+        "J’en ai cherché partout sans en trouver ailleurs.",
+        "J’en compose un bouquet ; je prends les plus jolies…",
+        "— Oh ! mais je te dis là des choses, des folies ! —",
+        "Puis à minuit, au parc royal, comme un voleur,",
+        "Je me glisse et je vais déposer cette fleur",
+        "Sur son banc favori. Même, hier, j’osai mettre",
+        "Dans le bouquet, — vraiment, plains-moi, frère ! — une lettre !",
+        "La nuit, pour parvenir jusqu’à ce banc, il faut",
+        "Franchir les murs du parc, et je rencontre en haut",
+        "Ces broussailles de fer qu’on met sur les murailles.",
+        "Un jour j’y laisserai ma chair et mes entrailles.",
+        "Trouve-t-elle mes fleurs, ma lettre ? Je ne sai.",
+        "Frère, tu le vois bien, je suis un insensé."
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Diable ! ton algarade a son danger. Prends garde."
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Le comte d’Onate, qui l’aime aussi, la garde",
+        "Et comme un majordome et comme un amoureux",
+        "Quel reître, une nuit, gardien peu langoureux,",
+        "Pourrait bien, frère, avant que ton bouquet se fane,",
+        "Te le clouer au cœur d’un coup de pertuisane. —",
+        "Mais quelle idée ! aimer la reine ! ah çà, pourquoi ?",
+        "Comment diable as-tu fait ?"
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", avec emportement."
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Est-ce que je sais, moi !",
+        "— Oh ! mon âme au démon ! je la vendrais pour être",
+        "Un des jeunes seigneurs que, de cette fenêtre,",
+        "Je vois en ce moment, comme un vivant affront,",
+        "Entrer, la plume au feutre et l’orgueil sur le front !",
+        "Oui, je me damnerais pour dépouiller ma chaîne,",
+        "Et pour pouvoir comme eux m’approcher de la reine",
+        "Avec un vêtement qui ne soit pas honteux !",
+        "Mais, ô rage ! être ainsi, près d’elle ! devant eux !",
+        "En livrée ! un laquais ! être un laquais pour elle !",
+        "Ayez pitié de moi, mon dieu !"
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Se rapprochant de don César."
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je me rappelle.",
+        "Ne demandais-tu pas pourquoi je l’aime ainsi,",
+        "Et depuis quand ?… — Un jour… — Mais à quoi bon ceci ?",
+        "C’est vrai, je t’ai toujours connu cette manie !",
+        "Par mille questions vous mettre à l’agonie !",
+        "Demander où ? comment ? quand ? pourquoi ? Mon sang bout !",
+        "Je l’aime follement ! Je l’aime, voilà tout !"
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Là ; ne te fâche pas."
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tombant épuisé et pâle sur le fauteuil."
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Non. Je souffre. — Pardonne.",
+        "Ou plutôt, va, fuis-moi. Va-t’en, frère. Abandonne",
+        "Ce misérable fou qui porte avec effroi",
+        "Sous l’habit d’un valet les passions d’un roi !"
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui posant la main sur l’épaule."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Te fuir ! — moi qui n’ai pas souffert, n’aimant personne,",
+        "Moi, pauvre grelot vide où manque ce qui sonne,",
+        "Gueux, qui vais mendiant l’amour je ne sais où,",
+        "À qui de temps en temps le destin jette un sou,",
+        "Moi, cœur éteint, dont l’âme, hélas ! s’est retirée,",
+        "Du spectacle d’hier affiche déchirée,",
+        "Vois-tu, pour cet amour dont tes regards sont pleins !",
+        "Mon frère, je t’envie autant que je te plains !",
+        "— Ruy Blas ! —"
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Moment de silence. Ils se tiennent les mains serrées en se regardant tous les deux avec une expression de tristesse et d’amitié confiante."
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Entre don Salluste. Il s’avance à pas lents, fixant un regard d’attention profonde sur don César et Ruy Blas, qui ne le voient pas. Il tient d’une main un chapeau et une épée qu’il dépose en entrant sur un fauteuil, et de l’autre une bourse qu’il apporte sur la table."
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don César."
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Voici l’argent :"
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "À la voix de don Salluste, Ruy Blas se lève comme réveillé en sursaut, et se tient debout, les yeux baissés, dans l’attitude du respect."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part, regardant don Salluste de travers."
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Hum ! Le diable m’emporte !",
+        "Cette sombre figure écoutait à la porte.",
+        "Bah ! qu’importe, après tout !"
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Haut à don Salluste."
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Don Salluste, merci."
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Il ouvre la bourse, la répand sur la table et remue avec joie les ducats qu’il range en piles sur le tapis de velours. Pendant qu’il les compte, don Salluste va au fond, en regardant derrière lui s’il n’éveille pas l’attention de don César. Il ouvre la petite porte de droite. À un signe qu’il fait, trois alguazils armés d’épées et vêtus de noir en sortent. Don Salluste leur montre mystérieusement don César. Ruy Blas se tient immobile et debout près de la table comme une statue, sans rien voir ni rien entendre."
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, aux alguazils."
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous allez suivre, alors qu’il sortira d’ici,",
+        "L’homme qui compte là de l’argent. — En silence,",
+        "Vous vous emparerez de lui. — Sans violence.",
+        "Vous l’irez embarquer, par le plus court chemin,",
+        "À Denia. —"
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il leur remet un parchemin scellé."
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Voici l’ordre écrit de ma main. —",
+        "Enfin, sans écouter sa plainte chimérique,"
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous le vendrez en mer aux corsaires d’Afrique.",
+        "Mille piastres pour vous. Faites vite à présent."
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Les trois alguazils s’inclinent et sortent."
+      ]
+    },
+    {
+      "id": "p00223",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", achevant de ranger ses ducats."
+      ]
+    },
+    {
+      "id": "p00224",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Rien n’est plus gracieux et plus divertissant",
+        "Que des écus à soi qu’on met en équilibre."
+      ]
+    },
+    {
+      "id": "p00225",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il fait deux parts égales et se tourne vers Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00226",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Frère, voici ta part."
+      ]
+    },
+    {
+      "id": "p00227",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Comment !"
+      ]
+    },
+    {
+      "id": "p00228",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui montrant une des deux piles d’or."
+      ]
+    },
+    {
+      "id": "p00229",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Prends ! viens ! sois libre !"
+      ]
+    },
+    {
+      "id": "p00230",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", qui les observe au fond du théâtre, à part."
+      ]
+    },
+    {
+      "id": "p00231",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Diable !"
+      ]
+    },
+    {
+      "id": "p00232",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", secouant la tête en signe de refus."
+      ]
+    },
+    {
+      "id": "p00233",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Non. C’est le cœur qu’il faudrait délivrer.",
+        "Non, mon sort est ici. Je dois y demeurer."
+      ]
+    },
+    {
+      "id": "p00234",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Bien. Suis ta fantaisie. Es-tu fou ? suis-je sage ?",
+        "Dieu le sait."
+      ]
+    },
+    {
+      "id": "p00235",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il ramasse l’argent et le jette dans le sac, qu’il empoche."
+      ]
+    },
+    {
+      "id": "p00236",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", au fond du théâtre, à part, et les observant toujours."
+      ]
+    },
+    {
+      "id": "p00237",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "À peu près même air, même visage."
+      ]
+    },
+    {
+      "id": "p00238",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00239",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON CÉSAR",
+      "lines": [
+        "Adieu."
+      ]
+    },
+    {
+      "id": "p00240",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ta main !"
+      ]
+    },
+    {
+      "id": "p00241",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ils se serrent la main. Don César sort sans voir don Salluste, qui se tient à l’écart."
+      ]
+    },
+    {
+      "id": "p00242",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène QUATRIÈME."
+      ]
+    },
+    {
+      "id": "p00243",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "RUY BLAS, DON SALLUSTE."
+      ]
+    },
+    {
+      "id": "p00244",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ruy Blas ?"
+      ]
+    },
+    {
+      "id": "p00245",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se retournant vivement."
+      ]
+    },
+    {
+      "id": "p00246",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Monseigneur ?"
+      ]
+    },
+    {
+      "id": "p00247",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ce matin,",
+        "Quand vous êtes venu, je ne suis pas certain",
+        "S’il faisait jour déjà ?"
+      ]
+    },
+    {
+      "id": "p00248",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Pas encore, Excellence.",
+        "J’ai remis au portier votre passe en silence,",
+        "Et puis je suis monté."
+      ]
+    },
+    {
+      "id": "p00249",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous étiez en manteau ?"
+      ]
+    },
+    {
+      "id": "p00250",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Oui, monseigneur."
+      ]
+    },
+    {
+      "id": "p00251",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Personne en ce cas au château",
+        "Ne vous a vu porter cette livrée encore ?"
+      ]
+    },
+    {
+      "id": "p00252",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ni personne à Madrid."
+      ]
+    },
+    {
+      "id": "p00253",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", désignant du doigt la porte par où est sorti don César."
+      ]
+    },
+    {
+      "id": "p00254",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "C’est fort bien. Allez clore",
+        "Cette porte. Quittez cet habit."
+      ]
+    },
+    {
+      "id": "p00255",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ruy Blas dépouille son surtout de livrée et le jette sur un fauteuil."
+      ]
+    },
+    {
+      "id": "p00256",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous avez",
+        "Une belle écriture, il me semble. — Écrivez :"
+      ]
+    },
+    {
+      "id": "p00257",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il fait signe à Ruy Blas de s’asseoir à la table où sont les plumes et les écritoires. Ruy Blas obéit."
+      ]
+    },
+    {
+      "id": "p00258",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous m’allez aujourd’hui servir de secrétaire.",
+        "D’abord, un billet doux, — je ne veux rien vous taire, —",
+        "Pour ma reine d’amour, pour dona Praxedis,",
+        "Ce démon que je crois venu du paradis.",
+        "— Là, je dicte. « Un danger terrible est sur ma tête.",
+        "« Ma reine seule — peut conjurer la tempête,",
+        "« En venant me trouver ce soir dans ma maison.",
+        "« Sinon, je suis perdu. Ma vie et ma raison",
+        "« Et mon cœur, je mets tout à ses pieds que je baise. »"
+      ]
+    },
+    {
+      "id": "p00259",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il rit et s’interrompt."
+      ]
+    },
+    {
+      "id": "p00260",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Un danger ! la tournure, au fait, n’est pas mauvaise",
+        "Pour l’attirer chez moi. C’est que j’y suis expert.",
+        "Les femmes aiment fort à sauver qui les perd.",
+        "— Ajoutez : — « Par la porte au bas de l’avenue,",
+        "« Vous entrerez la nuit sans être reconnue.",
+        "« Quelqu’un de dévoué vous ouvrira. » — D’honneur,",
+        "C’est parfait. — Ah ! signez."
+      ]
+    },
+    {
+      "id": "p00261",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Votre nom, monseigneur ?"
+      ]
+    },
+    {
+      "id": "p00262",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Non pas. Signez César. C’est mon nom d’aventure."
+      ]
+    },
+    {
+      "id": "p00263",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", après avoir obéi."
+      ]
+    },
+    {
+      "id": "p00264",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "La dame ne pourra connaître l’écriture ?"
+      ]
+    },
+    {
+      "id": "p00265",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Bah ! le cachet suffit. J’écris souvent ainsi.",
+        "Ruy Blas, je pars ce soir, et je vous laisse ici.",
+        "J’ai sur vous les projets d’un ami très sincère.",
+        "Votre état va changer, mais il est nécessaire",
+        "De m’obéir en tout. Comme en vous j’ai trouvé",
+        "Un serviteur discret, fidèle et réservé…"
+      ]
+    },
+    {
+      "id": "p00266",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’inclinant."
+      ]
+    },
+    {
+      "id": "p00267",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Monseigneur !"
+      ]
+    },
+    {
+      "id": "p00268",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", continuant."
+      ]
+    },
+    {
+      "id": "p00269",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je vous veux faire un destin plus large."
+      ]
+    },
+    {
+      "id": "p00270",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant le billet qu’il vient d’écrire."
+      ]
+    },
+    {
+      "id": "p00271",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Où faut-il adresser la lettre ?"
+      ]
+    },
+    {
+      "id": "p00272",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je m’en charge."
+      ]
+    },
+    {
+      "id": "p00273",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "S’approchant de Ruy Blas d’un air significatif."
+      ]
+    },
+    {
+      "id": "p00274",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je veux votre bonheur."
+      ]
+    },
+    {
+      "id": "p00275",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Un silence. Il fait signe à Ruy Blas de se rasseoir à table."
+      ]
+    },
+    {
+      "id": "p00276",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Écrivez : — « Moi, Ruy Blas,",
+        "« Laquais de monseigneur le marquis de Finlas,",
+        "« En toute occasion, ou secrète ou publique,",
+        "« M’engage à le servir comme un bon domestique. »"
+      ]
+    },
+    {
+      "id": "p00277",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ruy Blas obéit."
+      ]
+    },
+    {
+      "id": "p00278",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "— Signez. De votre nom. La date. Bien. Donnez."
+      ]
+    },
+    {
+      "id": "p00279",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il ploie et serre dans son portefeuille la lettre et le papier que Ruy Blas vient d’écrire."
+      ]
+    },
+    {
+      "id": "p00280",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "On vient de m’apporter une épée. Ah ! tenez,",
+        "Elle est sur ce fauteuil."
+      ]
+    },
+    {
+      "id": "p00281",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il désigne le fauteuil sur lequel il a posé l’épée et le chapeau.",
+        "Il y va et prend l’épée."
+      ]
+    },
+    {
+      "id": "p00282",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "L’écharpe est d’une soie",
+        "Peinte et brodée au goût le plus nouveau qu’on voie."
+      ]
+    },
+    {
+      "id": "p00283",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il lui fait admirer la souplesse du tissu."
+      ]
+    },
+    {
+      "id": "p00284",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Touchez. — Que dites-vous, Ruy Blas, de cette fleur ?",
+        "La poignée est de Gil, le fameux ciseleur,",
+        "Celui qui le mieux creuse, au gré des belles filles,",
+        "Dans un pommeau d’épée une boîte à pastilles."
+      ]
+    },
+    {
+      "id": "p00285",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il passe au cou de Ruy Blas l’écharpe à laquelle est attachée l’épée."
+      ]
+    },
+    {
+      "id": "p00286",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Mettez-la donc. — Je veux en voir sur vous l’effet.",
+        "— Mais vous avez ainsi l’air d’un seigneur parfait !"
+      ]
+    },
+    {
+      "id": "p00287",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Écoutant."
+      ]
+    },
+    {
+      "id": "p00288",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "On vient… oui. C’est bientôt l’heure où la reine passe. —",
+        "— Le marquis Del Basto ! —"
+      ]
+    },
+    {
+      "id": "p00289",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "La porte du fond sur la galerie s’ouvre. Don Salluste détache son manteau et le jette vivement sur les épaules de Ruy Blas, au moment où le marquis Del Basto paraît ; puis il va droit au marquis, en entraînant avec lui Ruy Blas stupéfait."
+      ]
+    },
+    {
+      "id": "p00290",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène CINQUIÈME."
+      ]
+    },
+    {
+      "id": "p00291",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "DON SALLUSTE, RUY BLAS, DON PAMFILO D’AVALOS, MARQUIS DEL BASTO. — Puis LE MARQUIS DE SANTA-CRUZ. — Puis LE COMTE D’ALBE. — Puis toute la cour."
+      ]
+    },
+    {
+      "id": "p00292",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", au marquis del Basto."
+      ]
+    },
+    {
+      "id": "p00293",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Souffrez qu’à votre grâce",
+        "Je présente, marquis, mon cousin don César,",
+        "Comte de Garofa près de Velalcazar."
+      ]
+    },
+    {
+      "id": "p00294",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00295",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ciel !"
+      ]
+    },
+    {
+      "id": "p00296",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00297",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Taisez-vous !"
+      ]
+    },
+    {
+      "id": "p00298",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", saluant Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00299",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DEL BASTO",
+      "lines": [
+        "Monsieur… charmé."
+      ]
+    },
+    {
+      "id": "p00300",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il lui prend la main, que Ruy Blas lui livre avec embarras."
+      ]
+    },
+    {
+      "id": "p00301",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00302",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Laissez-vous faire.",
+        "Saluez !"
+      ]
+    },
+    {
+      "id": "p00303",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ruy Blas salue le marquis."
+      ]
+    },
+    {
+      "id": "p00304",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DEL BASTO",
+      "lines": [
+        "J’aimais fort madame votre mère."
+      ]
+    },
+    {
+      "id": "p00305",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Bas, à don Salluste, en lui montrant Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00306",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DEL BASTO",
+      "lines": [
+        "Bien changé ! Je l’aurais à peine reconnu."
+      ]
+    },
+    {
+      "id": "p00307",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, au marquis."
+      ]
+    },
+    {
+      "id": "p00308",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Dix ans d’absence !"
+      ]
+    },
+    {
+      "id": "p00309",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", de même."
+      ]
+    },
+    {
+      "id": "p00310",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DEL BASTO",
+      "lines": [
+        "Au fait !"
+      ]
+    },
+    {
+      "id": "p00311",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Le voilà revenu !",
+        "Vous souvient-il, marquis ? oh ! quel enfant prodigue !",
+        "Comme il vous répandait les pistoles sans digue !",
+        "Tous les soirs danse et fête au vivier d’Apollo,",
+        "Et cent musiciens faisant rage sur l’eau !",
+        "À tous moments, galas, masques, concerts, fredaines,",
+        "Éblouissant Madrid de visions soudaines !",
+        "— En trois ans, ruiné ! — c’était un vrai lion.",
+        "— Il arrive de l’Inde avec le galion."
+      ]
+    },
+    {
+      "id": "p00312",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", avec embarras."
+      ]
+    },
+    {
+      "id": "p00313",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Seigneur…"
+      ]
+    },
+    {
+      "id": "p00314",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", gaiement."
+      ]
+    },
+    {
+      "id": "p00315",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Appelez-moi cousin, car nous le sommes.",
+        "Les Bazan sont, je crois, d’assez francs gentilshommes.",
+        "Nous avons pour ancêtre Iniguez d’Iviza.",
+        "Son petit-fils, Pedro De Bazan, épousa",
+        "Marianne De Gor. Il eut de Marianne",
+        "Jean, qui fut général de la mer Océane",
+        "Sous le roi don Philippe, et Jean eut deux garçons",
+        "Qui sur notre arbre antique ont greffé deux blasons.",
+        "Moi, je suis le marquis de Finlas ; vous, le comte",
+        "De Garofa. Tous deux se valent si l’on compte.",
+        "Par les femmes, César, notre rang est égal.",
+        "Vous êtes Aragon, moi je suis Portugal.",
+        "Votre branche n’est pas moins haute que la nôtre :",
+        "Je suis le fruit de l’une, et vous la fleur de l’autre."
+      ]
+    },
+    {
+      "id": "p00316",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00317",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Où donc m’entraîne-t-il ?"
+      ]
+    },
+    {
+      "id": "p00318",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Pendant que don Salluste a parlé, le marquis de Santa-Cruz, don Alvar De Bazan y Benavides, vieillard à moustache blanche et à grande perruque, s’est approché d’eux."
+      ]
+    },
+    {
+      "id": "p00319",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à don Salluste."
+      ]
+    },
+    {
+      "id": "p00320",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "Vous l’expliquez fort bien.",
+        "S’il est votre cousin, il est aussi le mien."
+      ]
+    },
+    {
+      "id": "p00321",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "C’est vrai, car nous avons une même origine,"
+      ]
+    },
+    {
+      "id": "p00322",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Monsieur De Santa-Cruz."
+      ]
+    },
+    {
+      "id": "p00323",
+      "page": 0,
+      "kind": "stage",
+      "lines": [
+        "Il lui présente Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00324",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Don César."
+      ]
+    },
+    {
+      "id": "p00325",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "J’imagine",
+        "Que ce n’est pas celui qu’on croyait mort."
+      ]
+    },
+    {
+      "id": "p00326",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Si fait."
+      ]
+    },
+    {
+      "id": "p00327",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "Il est donc revenu ?"
+      ]
+    },
+    {
+      "id": "p00328",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Des Indes."
+      ]
+    },
+    {
+      "id": "p00329",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", examinant Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00330",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "En effet !"
+      ]
+    },
+    {
+      "id": "p00331",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous le reconnaissez ?"
+      ]
+    },
+    {
+      "id": "p00332",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "Pardieu ! Je l’ai vu naître !"
+      ]
+    },
+    {
+      "id": "p00333",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00334",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Le bon homme est aveugle et se défend de l’être.",
+        "Il vous a reconnu pour prouver ses bons yeux."
+      ]
+    },
+    {
+      "id": "p00335",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tendant la main à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00336",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "Touchez là, mon cousin."
+      ]
+    },
+    {
+      "id": "p00337",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’inclinant."
+      ]
+    },
+    {
+      "id": "p00338",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Seigneur…"
+      ]
+    },
+    {
+      "id": "p00339",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à don Salluste et lui montrant Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00340",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "On n’est pas mieux !",
+        "À Ruy Blas.",
+        "Charmé de vous revoir !"
+      ]
+    },
+    {
+      "id": "p00341",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas au marquis et le prenant à part."
+      ]
+    },
+    {
+      "id": "p00342",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je vais payer ses dettes.",
+        "Vous le pouvez servir dans le poste où vous êtes.",
+        "Si quelque emploi de cour vaquait en ce moment,",
+        "Chez le roi, — chez la reine… —"
+      ]
+    },
+    {
+      "id": "p00343",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas."
+      ]
+    },
+    {
+      "id": "p00344",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE MARQUIS DE SANTA-CRUZ",
+      "lines": [
+        "Un jeune homme charmant !",
+        "J’y vais songer. — Et puis il est de la famille."
+      ]
+    },
+    {
+      "id": "p00345",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas."
+      ]
+    },
+    {
+      "id": "p00346",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous avez tout crédit au conseil de Castille,",
+        "Je vous le recommande."
+      ]
+    },
+    {
+      "id": "p00347",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Il quitte le marquis de Santa-Cruz, et va à d’autres seigneurs auxquels il présente Ruy Blas. Parmi eux le comte d’Albe, très superbement paré."
+      ]
+    },
+    {
+      "id": "p00348",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Don Salluste lui présente Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00349",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Un mien cousin, César,",
+        "Comte de Garofa, près de Velalcazar."
+      ]
+    },
+    {
+      "id": "p00350",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Les seigneurs échangent gravement des révérences avec Ruy Blas interdit."
+      ]
+    },
+    {
+      "id": "p00351",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", au comte de Ribagorza."
+      ]
+    },
+    {
+      "id": "p00352",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Vous n’étiez pas hier au ballet d’Atalante ?",
+        "Lindamire a dansé d’une façon galante."
+      ]
+    },
+    {
+      "id": "p00353",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il s’extasie sur le pourpoint du comte d’Albe."
+      ]
+    },
+    {
+      "id": "p00354",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "C’est très beau, comte d’Albe !"
+      ]
+    },
+    {
+      "id": "p00355",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "LE COMTE D’ALBE",
+      "lines": [
+        "Ah ! j’en avais encor",
+        "Un plus beau. Satin rose avec des rubans d’or.",
+        "Matalobos me l’a volé."
+      ]
+    },
+    {
+      "id": "p00356",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", au fond du théâtre."
+      ]
+    },
+    {
+      "id": "p00357",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "UN HUISSIER DE COUR",
+      "lines": [
+        "La reine approche !"
+      ]
+    },
+    {
+      "id": "p00358",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "UN HUISSIER DE COUR",
+      "lines": [
+        "Prenez vos rangs, messieurs."
+      ]
+    },
+    {
+      "id": "p00359",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "UN HUISSIER DE COUR",
+      "lines": [
+        "Les grands rideaux de la galerie vitrée s’ouvrent. Les seigneurs s’échelonnent près de la porte, des gardes font la haie. Ruy Blas, haletant, hors de lui, vient sur le devant comme pour s’y réfugier. Don Salluste l’y suit."
+      ]
+    },
+    {
+      "id": "p00360",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00361",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Est-ce que, sans reproche,",
+        "Quand votre sort grandit, votre esprit s’amoindrit ?",
+        "Réveillez-vous, Ruy Blas. Je vais quitter Madrid.",
+        "Ma petite maison, près du pont, où vous êtes,",
+        "— Je n’en veux rien garder, hormis les clefs secrètes, —",
+        "Ruy Blas, je vous la donne, et les muets aussi.",
+        "Vous recevrez bientôt d’autres ordres. Ainsi",
+        "Faites ma volonté, je fais votre fortune.",
+        "Montez, ne craignez rien, car l’heure est opportune.",
+        "La cour est un pays où l’on va sans voir clair.",
+        "Marchez les yeux bandés ; j’y vois pour vous, mon cher !"
+      ]
+    },
+    {
+      "id": "p00362",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "De nouveaux gardes paraissent au fond du théâtre."
+      ]
+    },
+    {
+      "id": "p00363",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à haute voix."
+      ]
+    },
+    {
+      "id": "p00364",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "L’HUISSIER",
+      "lines": [
+        "La reine !"
+      ]
+    },
+    {
+      "id": "p00365",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00366",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "La reine ! ah !"
+      ]
+    },
+    {
+      "id": "p00367",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "La reine, vêtue magnifiquement, paraît, entourée de dames et de pages, sous un dais de velours écarlate porté par quatre gentilshommes de chambre, tête nue. Ruy Blas, effaré, la regarde comme absorbé par cette resplendissante vision. Tous les grands d’Espagne se couvrent, le marquis Del Basto, le comte d’Albe, le marquis de Santa-Cruz, don Salluste. Don Salluste va rapidement au fauteuil, et y prend le chapeau, qu’il apporte à Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00368",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Ruy Blas en lui mettant le chapeau sur la tête."
+      ]
+    },
+    {
+      "id": "p00369",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Quel vertige vous gagne ?",
+        "Couvrez-vous donc, César. Vous êtes grand d’Espagne."
+      ]
+    },
+    {
+      "id": "p00370",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", éperdu, bas à don Salluste."
+      ]
+    },
+    {
+      "id": "p00371",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Et que m’ordonnez-vous, seigneur, présentement ?"
+      ]
+    },
+    {
+      "id": "p00372",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui montrant la reine qui traverse lentement la galerie."
+      ]
+    },
+    {
+      "id": "p00373",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "De plaire à cette femme et d’être son amant."
+      ]
+    },
+    {
+      "id": "p00374",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "fin du premier acte."
+      ]
+    },
+    {
+      "id": "p00375",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "ACTE CINQUIÈME.",
+        "LE TIGRE ET LE LION."
+      ]
+    },
+    {
+      "id": "p00376",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "PERSONNAGES"
+      ]
+    },
+    {
+      "id": "p00377",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "RUY BLAS."
+      ]
+    },
+    {
+      "id": "p00378",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "DON SALLUSTE DE BAZAN."
+      ]
+    },
+    {
+      "id": "p00379",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "LA REINE."
+      ]
+    },
+    {
+      "id": "p00380",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Même chambre. C’est la nuit. Une lampe est posée sur la table."
+      ]
+    },
+    {
+      "id": "p00381",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Au lever du rideau Ruy Blas est seul. Une sorte de longue robe noire cache ses vêtements."
+      ]
+    },
+    {
+      "id": "p00382",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène PREMIÈRE."
+      ]
+    },
+    {
+      "id": "p00383",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", seul."
+      ]
+    },
+    {
+      "id": "p00384",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "C’est fini. Rêve éteint ! Visions disparues !",
+        "Jusqu’au soir au hasard j’ai marché dans les rues.",
+        "J’espère en ce moment. Je suis calme. La nuit,",
+        "On pense mieux. La tête est moins pleine de bruit.",
+        "Rien de trop effrayant sur ces murailles noires ;",
+        "Les meubles sont rangés, les clefs sont aux armoires.",
+        "Les muets sont là-haut qui dorment. La maison",
+        "Est vraiment bien tranquille. Oh ! oui, pas de raison",
+        "D’alarme. Tout va bien. Mon page est très-fidèle.",
+        "Don Guritan est sûr alors qu’il s’agit d’elle.",
+        "Ô mon dieu ! n’est-ce pas que je puis vous bénir,",
+        "Que vous avez laissé l’avis lui parvenir,",
+        "Que vous m’avez aidé, vous Dieu bon, vous Dieu juste,",
+        "À protéger cet ange, à déjouer Salluste,",
+        "Qu’elle n’a rien à craindre, hélas ! rien à souffrir,",
+        "Et qu’elle est bien sauvée, — et que je puis mourir ?"
+      ]
+    },
+    {
+      "id": "p00385",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il tire de sa poitrine une petite fiole qu’il pose sur la table."
+      ]
+    },
+    {
+      "id": "p00386",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Oui, meurs maintenant, lâche ! et tombe dans l’abîme !",
+        "Meurs comme on doit mourir quand on expie un crime !",
+        "Meurs dans cette maison, vil, misérable et seul !"
+      ]
+    },
+    {
+      "id": "p00387",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il écarte sa robe noire, sous laquelle on entrevoit la livrée qu’il portait au premier acte."
+      ]
+    },
+    {
+      "id": "p00388",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "— Meurs avec ta livrée enfin sous ton linceul !",
+        "— Dieu ! Si ce démon vient voir sa victime morte !"
+      ]
+    },
+    {
+      "id": "p00389",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il pousse un meuble de façon à barricader la porte secrète."
+      ]
+    },
+    {
+      "id": "p00390",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Qu’il n’entre pas du moins par cette horrible porte !"
+      ]
+    },
+    {
+      "id": "p00391",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il revient vers la table."
+      ]
+    },
+    {
+      "id": "p00392",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "— Oh ! le page a trouvé Guritan, c’est certain,",
+        "Il n’était pas encor huit heures du matin."
+      ]
+    },
+    {
+      "id": "p00393",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il fixe son regard sur la fiole."
+      ]
+    },
+    {
+      "id": "p00394",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "— Pour moi, j’ai prononcé mon arrêt, et j’apprête",
+        "Mon supplice, et je vais moi-même sur ma tête",
+        "Faire choir du tombeau le couvercle pesant.",
+        "J’ai du moins le plaisir de penser qu’à présent",
+        "Personne n’y peut rien. Ma chute est sans remède !"
+      ]
+    },
+    {
+      "id": "p00395",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "S’asseyant sur le fauteuil."
+      ]
+    },
+    {
+      "id": "p00396",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Elle m’aimait pourtant ! — que Dieu me soit en aide !",
+        "Je n’ai pas de courage !"
+      ]
+    },
+    {
+      "id": "p00397",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il pleure."
+      ]
+    },
+    {
+      "id": "p00398",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Oh ! l’on aurait bien dû",
+        "Nous laisser en paix !"
+      ]
+    },
+    {
+      "id": "p00399",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il cache sa tête dans ses mains et pleure à sanglots."
+      ]
+    },
+    {
+      "id": "p00400",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Dieu !"
+      ]
+    },
+    {
+      "id": "p00401",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Relevant la tête et comme égaré, regardant la fiole."
+      ]
+    },
+    {
+      "id": "p00402",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "L’homme, qui m’a vendu",
+        "Ceci, me demandait quel jour du mois nous sommes.",
+        "Je ne sais pas. J’ai mal dans la tête. Les hommes",
+        "Sont méchants. Vous mourez, personne ne s’émeut.",
+        "Je souffre ! — Elle m’aimait ! — Et dire qu’on ne peut",
+        "Jamais rien ressaisir d’une chose passée !",
+        "Je ne la verrai plus ! — Sa main que j’ai pressée,",
+        "Sa bouche qui toucha mon front… — Ange adoré !",
+        "Pauvre ange ! — Il faut mourir, mourir désespéré !",
+        "Sa robe où tous les plis contenaient de la grâce,",
+        "Son pied qui fait trembler mon âme quand il passe,",
+        "Son œil où s’enivraient mes yeux irrésolus,",
+        "Son sourire, sa voix… — Je ne la verrai plus !",
+        "Je ne l’entendrai plus ! — Enfin c’est donc possible ?",
+        "Jamais !"
+      ]
+    },
+    {
+      "id": "p00403",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Il avance avec angoisse sa main vers la fiole ; au moment où il la saisit convulsivement, la porte du fond s’ouvre. La reine paraît, vêtue de blanc, avec une mante de couleur sombre, dont le capuchon, rejeté sur ses épaules, laisse voir sa tête pâle. Elle tient une lanterne sourde à la main, elle la pose à terre, et marche rapidement vers Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00404",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène DEUXIÈME."
+      ]
+    },
+    {
+      "id": "p00405",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "RUY BLAS, LA REINE."
+      ]
+    },
+    {
+      "id": "p00406",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", entrant."
+      ]
+    },
+    {
+      "id": "p00407",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Don César !"
+      ]
+    },
+    {
+      "id": "p00408",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se retournant avec un mouvement d’épouvante, et fermant précipitamment la robe qui cache sa livrée."
+      ]
+    },
+    {
+      "id": "p00409",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Dieu ! c’est elle ! — Au piége horrible",
+        "Elle est prise !"
+      ]
+    },
+    {
+      "id": "p00410",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Haut."
+      ]
+    },
+    {
+      "id": "p00411",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Madame !…"
+      ]
+    },
+    {
+      "id": "p00412",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Eh bien ! quel cri d’effroi !",
+        "César…"
+      ]
+    },
+    {
+      "id": "p00413",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Qui vous a dit de venir ici ?"
+      ]
+    },
+    {
+      "id": "p00414",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Toi."
+      ]
+    },
+    {
+      "id": "p00415",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Moi ? — Comment ?"
+      ]
+    },
+    {
+      "id": "p00416",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "J’ai reçu de vous…"
+      ]
+    },
+    {
+      "id": "p00417",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", haletant."
+      ]
+    },
+    {
+      "id": "p00418",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Parlez donc vite !"
+      ]
+    },
+    {
+      "id": "p00419",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Une lettre."
+      ]
+    },
+    {
+      "id": "p00420",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "De moi ?"
+      ]
+    },
+    {
+      "id": "p00421",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "De votre main écrite."
+      ]
+    },
+    {
+      "id": "p00422",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Mais c’est à se briser le front contre le mur !",
+        "Mais je n’ai pas écrit, pardieu ! j’en suis bien sûr !"
+      ]
+    },
+    {
+      "id": "p00423",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tirant de sa poitrine un billet qu’elle lui présente."
+      ]
+    },
+    {
+      "id": "p00424",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Lisez donc."
+      ]
+    },
+    {
+      "id": "p00425",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ruy Blas prend la lettre avec emportement, se penche vers la lampe et lit."
+      ]
+    },
+    {
+      "id": "p00426",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lisant."
+      ]
+    },
+    {
+      "id": "p00427",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "« Un danger terrible est sur ma tête.",
+        "« Ma reine seule peut conjurer la tempête…"
+      ]
+    },
+    {
+      "id": "p00428",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il regarde la lettre avec stupeur, comme ne pouvant aller plus loin."
+      ]
+    },
+    {
+      "id": "p00429",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", continuant, et lui montrant du doigt la ligne qu’elle lit."
+      ]
+    },
+    {
+      "id": "p00430",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "« En venant me trouver ce soir dans ma maison.",
+        "« Sinon, je suis perdu. »"
+      ]
+    },
+    {
+      "id": "p00431",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", d’une voix éteinte."
+      ]
+    },
+    {
+      "id": "p00432",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ho ! quelle trahison !",
+        "Ce billet !"
+      ]
+    },
+    {
+      "id": "p00433",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", continuant de lire."
+      ]
+    },
+    {
+      "id": "p00434",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "« Par la porte au bas de l’avenue,",
+        "« Vous entrerez la nuit sans être reconnue.",
+        "« Quelqu’un de dévoué vous ouvrira. »"
+      ]
+    },
+    {
+      "id": "p00435",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00436",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "J’avais",
+        "Oublié ce billet."
+      ]
+    },
+    {
+      "id": "p00437",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "À la reine, d’une voix terrible."
+      ]
+    },
+    {
+      "id": "p00438",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Allez-vous-en !"
+      ]
+    },
+    {
+      "id": "p00439",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Je vais",
+        "M’en aller, don César. Ô mon Dieu ! que vous êtes",
+        "Méchant ! qu’ai-je donc fait ?"
+      ]
+    },
+    {
+      "id": "p00440",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ô ciel ! Ce que vous faites ?",
+        "Vous vous perdez !"
+      ]
+    },
+    {
+      "id": "p00441",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Comment ?"
+      ]
+    },
+    {
+      "id": "p00442",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je ne puis l’expliquer.",
+        "Fuyez vite."
+      ]
+    },
+    {
+      "id": "p00443",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "J’ai même, et pour ne rien manquer,",
+        "Eu le soin d’envoyer ce matin une duègne…"
+      ]
+    },
+    {
+      "id": "p00444",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Dieu ! — mais, à chaque instant, comme d’un cœur qui saigne,",
+        "Je sens que votre vie à flots s’écoule et s’en va.",
+        "Partez !"
+      ]
+    },
+    {
+      "id": "p00445",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", comme frappée d’une idée subite."
+      ]
+    },
+    {
+      "id": "p00446",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Le dévoûment que mon amour rêva"
+      ]
+    },
+    {
+      "id": "p00447",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "M’inspire. Vous touchez à quelque instant funeste.",
+        "Vous voulez m’écarter de vos dangers ! — Je reste."
+      ]
+    },
+    {
+      "id": "p00448",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ah ! Voilà, par exemple, une idée ! ô mon Dieu !",
+        "Rester à pareille heure et dans un pareil lieu !"
+      ]
+    },
+    {
+      "id": "p00449",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "La lettre est bien de vous. Ainsi…"
+      ]
+    },
+    {
+      "id": "p00450",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", levant les bras au ciel avec émotion."
+      ]
+    },
+    {
+      "id": "p00451",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Bonté divine !"
+      ]
+    },
+    {
+      "id": "p00452",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Vous voulez m’éloigner ?"
+      ]
+    },
+    {
+      "id": "p00453",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui prenant les mains."
+      ]
+    },
+    {
+      "id": "p00454",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Comprenez !"
+      ]
+    },
+    {
+      "id": "p00455",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Je devine.",
+        "Dans le premier moment vous m’écrivez, et puis…"
+      ]
+    },
+    {
+      "id": "p00456",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je ne t’ai pas écrit. Je suis un démon. Fuis !",
+        "Mais c’est toi, pauvre enfant, qui te prends dans un piége !",
+        "Mais c’est vrai ! mais l’enfer de tous côtés t’assiége !",
+        "Pour te persuader je ne trouve donc rien ?",
+        "Écoute, comprends donc, je t’aime, tu sais bien.",
+        "Pour sauver ton esprit de ce qu’il imagine,",
+        "Je voudrais arracher mon cœur de ma poitrine !",
+        "Oh ! je t’aime. Va-t’en !"
+      ]
+    },
+    {
+      "id": "p00457",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Don César…"
+      ]
+    },
+    {
+      "id": "p00458",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Oh ! va-t’en !",
+        "— Mais j’y songe, on a dû t’ouvrir ?"
+      ]
+    },
+    {
+      "id": "p00459",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Mais oui."
+      ]
+    },
+    {
+      "id": "p00460",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Satan !",
+        "Qui ?"
+      ]
+    },
+    {
+      "id": "p00461",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Quelqu’un de masqué, caché par la muraille."
+      ]
+    },
+    {
+      "id": "p00462",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Masqué ! Qu’a dit cet homme ? est-il de haute taille ?",
+        "Cet homme, quel est-il ? Mais parle donc ! j’attends !"
+      ]
+    },
+    {
+      "id": "p00463",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Un homme en noir et masqué paraît à la porte du fond."
+      ]
+    },
+    {
+      "id": "p00464",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "L’HOMME MASQUÉ",
+      "lines": [
+        "C’est moi !"
+      ]
+    },
+    {
+      "id": "p00465",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il ôte son masque. C’est don Salluste. La reine et Ruy Blas le reconnaissent avec terreur."
+      ]
+    },
+    {
+      "id": "p00466",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène TROISIÈME."
+      ]
+    },
+    {
+      "id": "p00467",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "LES MÊMES, DON SALLUSTE."
+      ]
+    },
+    {
+      "id": "p00468",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Grand Dieu ! — Fuyez, madame !"
+      ]
+    },
+    {
+      "id": "p00469",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Il n’est plus temps !",
+        "Madame De Neubourg n’est plus reine d’Espagne."
+      ]
+    },
+    {
+      "id": "p00470",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", avec horreur."
+      ]
+    },
+    {
+      "id": "p00471",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Don Salluste !"
+      ]
+    },
+    {
+      "id": "p00472",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant."
+      ]
+    },
+    {
+      "id": "p00473",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "À jamais vous êtes la compagne",
+        "De cet homme."
+      ]
+    },
+    {
+      "id": "p00474",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Grand Dieu ! c’est un piége en effet !",
+        "Et don César…"
+      ]
+    },
+    {
+      "id": "p00475",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", désespéré."
+      ]
+    },
+    {
+      "id": "p00476",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Madame, hélas ! qu’avez-vous fait ?"
+      ]
+    },
+    {
+      "id": "p00477",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’avançant à pas lents vers la reine."
+      ]
+    },
+    {
+      "id": "p00478",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je vous tiens. — Mais je vais parler, sans lui déplaire,",
+        "À votre majesté, car je suis sans colère.",
+        "Je vous trouve, — écoutez, ne faisons pas de bruit, —",
+        "Seule avec don César, dans sa chambre, à minuit.",
+        "Ce fait, — pour une reine, — étant public, — en somme"
+      ]
+    },
+    {
+      "id": "p00479",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Suffit pour annuler le mariage à Rome.",
+        "Le saint-père en serait informé promptement.",
+        "Mais on supplée au fait par le consentement.",
+        "Tout peut rester secret."
+      ]
+    },
+    {
+      "id": "p00480",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il tire de sa poche un parchemin qu’il déroule et qu’il présente à la reine."
+      ]
+    },
+    {
+      "id": "p00481",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Signez-moi cette lettre",
+        "Au seigneur notre roi. Je la ferai remettre",
+        "Par le grand écuyer au notaire mayor.",
+        "Ensuite, — une voiture, où j’ai mis beaucoup d’or,"
+      ]
+    },
+    {
+      "id": "p00482",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Désignant le dehors."
+      ]
+    },
+    {
+      "id": "p00483",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Est là. — Partez tous deux sur-le-champ. Je vous aide.",
+        "Sans être inquiétés, vous pourrez par Tolède",
+        "Et par Alcantara gagner le Portugal.",
+        "Allez où vous voudrez, cela nous est égal.",
+        "Nous fermerons les yeux. — Obéissez. Je jure",
+        "Que seul en ce moment je connais l’aventure ;",
+        "Mais, si vous refusez, Madrid sait tout demain.",
+        "Ne nous emportons pas. Vous êtes dans ma main."
+      ]
+    },
+    {
+      "id": "p00484",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Montrant la table sur laquelle il y a une écritoire."
+      ]
+    },
+    {
+      "id": "p00485",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Voilà tout ce qu’il faut pour écrire, madame."
+      ]
+    },
+    {
+      "id": "p00486",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", atterrée, tombant sur le fauteuil."
+      ]
+    },
+    {
+      "id": "p00487",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Je suis en son pouvoir !"
+      ]
+    },
+    {
+      "id": "p00488",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "De vous je ne réclame",
+        "Que ce consentement pour le porter au roi."
+      ]
+    },
+    {
+      "id": "p00489",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Bas à Ruy Blas, qui écoute tout immobile et comme frappé de la foudre."
+      ]
+    },
+    {
+      "id": "p00490",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Laisse-moi faire, ami, je travaille pour toi !"
+      ]
+    },
+    {
+      "id": "p00491",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "À la reine."
+      ]
+    },
+    {
+      "id": "p00492",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Signez."
+      ]
+    },
+    {
+      "id": "p00493",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tremblante, à part."
+      ]
+    },
+    {
+      "id": "p00494",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Que faire ?"
+      ]
+    },
+    {
+      "id": "p00495",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se penchant à son oreille et lui présentant une plume."
+      ]
+    },
+    {
+      "id": "p00496",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Allons ! qu’est-ce qu’une couronne ?",
+        "Vous gagnez le bonheur si vous perdez le trône.",
+        "Tous mes gens sont restés dehors. On ne sait rien",
+        "De ceci. Tout se passe entre nous trois."
+      ]
+    },
+    {
+      "id": "p00497",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Essayant de lui mettre la plume entre les doigts sans qu’elle la repousse ni la prenne."
+      ]
+    },
+    {
+      "id": "p00498",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Eh bien ?"
+      ]
+    },
+    {
+      "id": "p00499",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "La reine indécise et égarée, le regarde avec angoisse."
+      ]
+    },
+    {
+      "id": "p00500",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Si vous ne signez point, vous vous frappez vous-même.",
+        "Le scandale et le cloître !"
+      ]
+    },
+    {
+      "id": "p00501",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", accablée."
+      ]
+    },
+    {
+      "id": "p00502",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Ô Dieu !"
+      ]
+    },
+    {
+      "id": "p00503",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00504",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "César vous aime.",
+        "Il est digne de vous. Il est, sur mon honneur,",
+        "De fort grande maison. Presqu’un prince. Un seigneur",
+        "Ayant donjon sur roche et fief dans la campagne.",
+        "Il est duc d’Olmedo, Bazan, et grand d’Espagne…"
+      ]
+    },
+    {
+      "id": "p00505",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il pousse sur le parchemin la main de la reine éperdue et tremblante, et qui semble prête à signer."
+      ]
+    },
+    {
+      "id": "p00506",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", comme se réveillant tout à coup."
+      ]
+    },
+    {
+      "id": "p00507",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je m’appelle Ruy Blas, et je suis un laquais !"
+      ]
+    },
+    {
+      "id": "p00508",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Arrachant des mains de la reine la plume et le parchemin qu’il déchire."
+      ]
+    },
+    {
+      "id": "p00509",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Ne signez pas, madame ! — Enfin ! — Je suffoquais !"
+      ]
+    },
+    {
+      "id": "p00510",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Que dit-il ? don César !"
+      ]
+    },
+    {
+      "id": "p00511",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", laissant tomber sa robe et se montrant vêtu de la livrée ; sans épée."
+      ]
+    },
+    {
+      "id": "p00512",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je dis que je me nomme",
+        "Ruy Blas, et que je suis le valet de cet homme !"
+      ]
+    },
+    {
+      "id": "p00513",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Se retournant vers don Salluste."
+      ]
+    },
+    {
+      "id": "p00514",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je dis que c’est assez de trahison ainsi,",
+        "Et que je ne veux pas de mon bonheur ! — Merci !",
+        "— Ah vous avez eu beau me parler à l’oreille ! —",
+        "Je dis qu’il est bien temps qu’enfin je me réveille,",
+        "Quoique tout garrotté dans vos complots hideux,",
+        "Et que je n’irai pas plus loin, et qu’à nous deux,",
+        "Monseigneur, nous faisons un assemblage infâme.",
+        "J’ai l’habit d’un laquais, et vous en avez l’âme !"
+      ]
+    },
+    {
+      "id": "p00515",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à la reine, froidement."
+      ]
+    },
+    {
+      "id": "p00516",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Cet homme est en effet mon valet."
+      ]
+    },
+    {
+      "id": "p00517",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "À Ruy Blas avec autorité."
+      ]
+    },
+    {
+      "id": "p00518",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Plus un mot."
+      ]
+    },
+    {
+      "id": "p00519",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", laissant enfin échapper un cri de désespoir et se tordant les mains."
+      ]
+    },
+    {
+      "id": "p00520",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Juste ciel !"
+      ]
+    },
+    {
+      "id": "p00521",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", poursuivant."
+      ]
+    },
+    {
+      "id": "p00522",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Seulement il a parlé trop tôt."
+      ]
+    },
+    {
+      "id": "p00523",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il croise les bras et se redresse, avec une voix tonnante."
+      ]
+    },
+    {
+      "id": "p00524",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Eh bien oui ! maintenant disons tout. Il n’importe !",
+        "Ma vengeance est assez complète de la sorte."
+      ]
+    },
+    {
+      "id": "p00525",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "À la reine."
+      ]
+    },
+    {
+      "id": "p00526",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Qu’en pensez-vous ? Madrid va rire, sur ma foi !",
+        "Ah ! vous m’avez cassé ! je vous détrône, moi.",
+        "Ah ! vous m’avez banni ! je vous chasse, et m’en vante !",
+        "Ah ! vous m’avez pour femme offert votre suivante !"
+      ]
+    },
+    {
+      "id": "p00527",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il éclate de rire."
+      ]
+    },
+    {
+      "id": "p00528",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Moi, je vous ai donné mon laquais pour amant.",
+        "Vous pourrez l’épouser aussi ! certainement.",
+        "Le roi s’en va ! — Son cœur sera votre richesse !"
+      ]
+    },
+    {
+      "id": "p00529",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Il rit."
+      ]
+    },
+    {
+      "id": "p00530",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Et vous l’aurez fait duc afin d’être duchesse !"
+      ]
+    },
+    {
+      "id": "p00531",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Grinçant des dents."
+      ]
+    },
+    {
+      "id": "p00532",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Ah ! Vous m’avez brisé, flétri, mis sous vos pieds,",
+        "Et vous dormiez en paix, folle que vous étiez !"
+      ]
+    },
+    {
+      "id": "p00533",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Pendant qu’il a parlé, Ruy Blas est allé à la porte du fond et en a poussé le verrou, puis il s’est approché de lui sans qu’il s’en soit aperçu, par derrière, à pas lents. Au moment où don Salluste achève, fixant des yeux pleins de haine et de triomphe sur la reine anéantie, Ruy Blas saisit l’épée du marquis par la poignée et la tire vivement."
+      ]
+    },
+    {
+      "id": "p00534",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", terrible, l’épée de don Salluste à la main."
+      ]
+    },
+    {
+      "id": "p00535",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je crois que vous venez d’insulter votre reine !"
+      ]
+    },
+    {
+      "id": "p00536",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Don Salluste se précipite vers la porte. Ruy Blas la lui barre."
+      ]
+    },
+    {
+      "id": "p00537",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "— Oh ! n’allez point par là, ce n’en est pas la peine,",
+        "J’ai poussé le verrou depuis longtemps déjà. —",
+        "Marquis, jusqu’à ce jour Satan te protégea,",
+        "Mais s’il veut t’arracher de mes mains, qu’il se montre !",
+        "— À mon tour ! — On écrase un serpent qu’on rencontre.",
+        "— Personne n’entrera, ni tes gens, ni l’enfer !",
+        "Je te tiens écumant sous mon talon de fer !",
+        "— Cet homme vous parlait insolemment, madame ?",
+        "Je vais vous expliquer. Cet homme n’a point d’âme,",
+        "C’est un monstre. En riant hier il m’étouffait.",
+        "Il m’a broyé le cœur à plaisir. Il m’a fait",
+        "Fermer une fenêtre, et j’étais au martyre !",
+        "Je priais ! je pleurais ! je ne peux pas vous dire."
+      ]
+    },
+    {
+      "id": "p00538",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Au marquis."
+      ]
+    },
+    {
+      "id": "p00539",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Vous contiez vos griefs dans ces derniers moments.",
+        "Je ne répondrai pas à vos raisonnements,",
+        "Et d’ailleurs — je n’ai pas compris. — Ah ! misérable !",
+        "Vous osez, — votre reine ! une femme adorable !",
+        "Vous osez l’outrager quand je suis là ! — Tenez,",
+        "Pour un homme d’esprit, vraiment, vous m’étonnez !",
+        "Et vous vous figurez que je vous verrai faire",
+        "Sans rien dire ! — Écoutez, quelle que soit sa sphère,",
+        "Monseigneur, lorsqu’un traître, un fourbe tortueux,",
+        "Commet de certains faits rares et monstrueux,",
+        "Noble ou manant, tout homme a droit, sur son passage,",
+        "De venir lui cracher sa sentence au visage,",
+        "Et de prendre une épée, une hache, un couteau !… —",
+        "Pardieu ! j’étais laquais ! quand je serais bourreau ?"
+      ]
+    },
+    {
+      "id": "p00540",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Vous n’allez pas frapper cet homme ?"
+      ]
+    },
+    {
+      "id": "p00541",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je me blâme",
+        "D’accomplir devant vous ma fonction, madame.",
+        "Mais il faut étouffer cette affaire en ce lieu."
+      ]
+    },
+    {
+      "id": "p00542",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il pousse don Salluste vers le cabinet."
+      ]
+    },
+    {
+      "id": "p00543",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "— C’est dit, monsieur ! allez là-dedans prier Dieu !"
+      ]
+    },
+    {
+      "id": "p00544",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "C’est un assassinat !"
+      ]
+    },
+    {
+      "id": "p00545",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Crois-tu ?"
+      ]
+    },
+    {
+      "id": "p00546",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", désarmé, et jetant un regard plein de rage autour de lui."
+      ]
+    },
+    {
+      "id": "p00547",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Sur ces murailles",
+        "Rien ! pas d’arme !"
+      ]
+    },
+    {
+      "id": "p00548",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "À Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00549",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Une épée au moins !"
+      ]
+    },
+    {
+      "id": "p00550",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Marquis ! tu railles !",
+        "Maître ! est-ce que je suis un gentilhomme, moi ?",
+        "Un duel ! fi donc ! je suis un de tes gens à toi,",
+        "Valetaille de rouge et de galons vêtue,",
+        "Un maraud qu’on châtie et qu’on fouette, — et qui tue.",
+        "Oui, je vais te tuer, monseigneur, vois-tu bien ?",
+        "Comme un infâme ! comme un lâche ! comme un chien !"
+      ]
+    },
+    {
+      "id": "p00551",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Grâce pour lui !"
+      ]
+    },
+    {
+      "id": "p00552",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à la reine, saisissant le marquis."
+      ]
+    },
+    {
+      "id": "p00553",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Madame, ici chacun se venge.",
+        "Le démon ne peut plus être sauvé par l’ange :"
+      ]
+    },
+    {
+      "id": "p00554",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à genoux."
+      ]
+    },
+    {
+      "id": "p00555",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Grâce !"
+      ]
+    },
+    {
+      "id": "p00556",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", appelant."
+      ]
+    },
+    {
+      "id": "p00557",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Au meurtre ! au secours !"
+      ]
+    },
+    {
+      "id": "p00558",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", levant l’épée."
+      ]
+    },
+    {
+      "id": "p00559",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "As-tu bientôt fini ?"
+      ]
+    },
+    {
+      "id": "p00560",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se jetant sur lui en criant."
+      ]
+    },
+    {
+      "id": "p00561",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "DON SALLUSTE",
+      "lines": [
+        "Je meurs assassiné ! Démon !"
+      ]
+    },
+    {
+      "id": "p00562",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", le poussant dans le cabinet."
+      ]
+    },
+    {
+      "id": "p00563",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Tu meurs puni !"
+      ]
+    },
+    {
+      "id": "p00564",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Ils disparaissent dans le cabinet, dont la porte se referme sur eux."
+      ]
+    },
+    {
+      "id": "p00565",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Ciel !"
+      ]
+    },
+    {
+      "id": "p00566",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Un moment de silence. Rentre Ruy Blas, pâle, sans épée."
+      ]
+    },
+    {
+      "id": "p00567",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène QUATRIÈME."
+      ]
+    },
+    {
+      "id": "p00568",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "LA REINE, RUY BLAS."
+      ]
+    },
+    {
+      "id": "p00569",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ruy Blas fait quelques pas en chancelant vers la reine immobile et glacée, puis il tombe à deux genoux, l’œil fixé à terre, comme s’il n’osait lever les yeux jusqu’à elle."
+      ]
+    },
+    {
+      "id": "p00570",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", d’une voix grave et basse."
+      ]
+    },
+    {
+      "id": "p00571",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Maintenant, madame, il faut que je vous dise.",
+        "— Je n’approcherai pas. — Je parle avec franchise.",
+        "Je ne suis point coupable autant que vous croyez.",
+        "Je sens, ma trahison, comme vous la voyez,",
+        "Doit vous paraître horrible… Oh ! ce n’est pas facile",
+        "À raconter. Pourtant je n’ai pas l’âme vile.",
+        "Je suis honnête au fond. — Cet amour m’a perdu. —",
+        "Je ne me défends pas, je sais bien, j’aurais dû",
+        "Trouver quelque moyen. La faute est consommée !",
+        "— C’est égal, voyez-vous, je vous ai bien aimée."
+      ]
+    },
+    {
+      "id": "p00572",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Monsieur…"
+      ]
+    },
+    {
+      "id": "p00573",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", toujours à genoux."
+      ]
+    },
+    {
+      "id": "p00574",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "N’ayez pas peur, je n’approcherai point.",
+        "À votre majesté je vais de point en point",
+        "Tout dire. Oh ! croyez-moi, je n’ai pas l’âme vile ! —",
+        "Aujourd’hui tout le jour j’ai couru par la ville",
+        "Comme un fou. Bien souvent même on m’a regardé.",
+        "Auprès de l’hôpital que vous avez fondé,",
+        "J’ai senti vaguement, à travers mon délire,",
+        "Une femme du peuple essuyer sans rien dire"
+      ]
+    },
+    {
+      "id": "p00575",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Les gouttes de sueur qui tombaient de mon front.",
+        "Ayez pitié de moi, mon Dieu ! mon cœur se rompt !"
+      ]
+    },
+    {
+      "id": "p00576",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Que voulez-vous ?"
+      ]
+    },
+    {
+      "id": "p00577",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", joignant les mains."
+      ]
+    },
+    {
+      "id": "p00578",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Que vous me pardonniez, madame !"
+      ]
+    },
+    {
+      "id": "p00579",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Jamais."
+      ]
+    },
+    {
+      "id": "p00580",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Jamais !"
+      ]
+    },
+    {
+      "id": "p00581",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il se lève et marche lentement vers la table."
+      ]
+    },
+    {
+      "id": "p00582",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Bien sûr ?"
+      ]
+    },
+    {
+      "id": "p00583",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Non, jamais !"
+      ]
+    },
+    {
+      "id": "p00584",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il prend la fiole posée sur la table, la porte à ses lèvres et la vide d’un trait."
+      ]
+    },
+    {
+      "id": "p00585",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Triste flamme,",
+        "Éteins-toi !"
+      ]
+    },
+    {
+      "id": "p00586",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se levant et courant à lui."
+      ]
+    },
+    {
+      "id": "p00587",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Que fait-il ?"
+      ]
+    },
+    {
+      "id": "p00588",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", posant la fiole."
+      ]
+    },
+    {
+      "id": "p00589",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Rien. Mes maux sont finis.",
+        "Rien. Vous me maudissez, et moi je vous bénis.",
+        "Voilà tout."
+      ]
+    },
+    {
+      "id": "p00590",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", éperdue."
+      ]
+    },
+    {
+      "id": "p00591",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Don César !"
+      ]
+    },
+    {
+      "id": "p00592",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Quand je pense, pauvre ange,",
+        "Que vous m’avez aimé !"
+      ]
+    },
+    {
+      "id": "p00593",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Quel est ce philtre étrange ?",
+        "Qu’avez-vous fait ? Dis-moi ! réponds-moi ! parle-moi !",
+        "César ! je te pardonne et t’aime et je te croi !"
+      ]
+    },
+    {
+      "id": "p00594",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je m’appelle Ruy Blas."
+      ]
+    },
+    {
+      "id": "p00595",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", l’entourant de ses bras."
+      ]
+    },
+    {
+      "id": "p00596",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Ruy Blas, je vous pardonne !",
+        "Mais qu’avez-vous fait là ? Parle, je te l’ordonne !",
+        "Ce n’est pas du poison, cette affreuse liqueur ?",
+        "Dis ?"
+      ]
+    },
+    {
+      "id": "p00597",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Si ! c’est du poison. Mais j’ai la joie au cœur."
+      ]
+    },
+    {
+      "id": "p00598",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Tenant la reine embrassée et levant les yeux au ciel."
+      ]
+    },
+    {
+      "id": "p00599",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Permettez, ô mon Dieu ! justice souveraine !",
+        "Que ce pauvre laquais bénisse cette reine,",
+        "Car elle a consolé mon cœur crucifié,",
+        "Vivant par son amour, mourant, par sa pitié !"
+      ]
+    },
+    {
+      "id": "p00600",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Du poison ! Dieu ! c’est moi qui l’ai tué ! Je t’aime !",
+        "Si j’avais pardonné ?…"
+      ]
+    },
+    {
+      "id": "p00601",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", défaillant."
+      ]
+    },
+    {
+      "id": "p00602",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "J’aurais agi de même."
+      ]
+    },
+    {
+      "id": "p00603",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Sa voix s’éteint. La reine le soutient dans ses bras."
+      ]
+    },
+    {
+      "id": "p00604",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Je ne pouvais plus vivre. Adieu !"
+      ]
+    },
+    {
+      "id": "p00605",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "Montrant la porte."
+      ]
+    },
+    {
+      "id": "p00606",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Fuyez d’ici !",
+        "— Tout restera secret. — Je meurs."
+      ]
+    },
+    {
+      "id": "p00607",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Il tombe."
+      ]
+    },
+    {
+      "id": "p00608",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se jetant sur son corps."
+      ]
+    },
+    {
+      "id": "p00609",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "LA REINE",
+      "lines": [
+        "Ruy Blas !"
+      ]
+    },
+    {
+      "id": "p00610",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", qui allait mourir, se réveille à son nom prononcé par la reine."
+      ]
+    },
+    {
+      "id": "p00611",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "RUY BLAS",
+      "lines": [
+        "Merci !"
+      ]
+    },
+    {
+      "id": "p00612",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "FIN."
+      ]
+    }
+  ]
+}

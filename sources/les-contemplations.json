@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contemplations",
+  "title": "Les Contemplations",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, « Les Contemplations », pages « À ma fille » (premier poème du livre I) et « À celle qui est restée en France » (dernier poème de l'index) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "Les Contemplations/À ma fille",
+      "revisionId": 12863374
+    },
+    {
+      "title": "Les Contemplations/À celle qui est restée en France",
+      "revisionId": 11998775
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0ba1a748944d8feca71d2a18bea15663b35142ab34651cabc9e681e7f5f0a8aa",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Ô mon enfant, tu vois, je me soumets.\nFais comme moi : vis d"
+  },
+  "bodyEnd": {
+    "id": "p00031",
+    "textPrefix": "Les globes, fruits vermeils des divines ramées,\nLes comètes "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : préface en prose, vers liminaires « Un jour je vis… » (épigraphe de 1839 non numérotée), numéros de poèmes, dates de composition. Départ au premier poème du livre I, fin au dernier poème de l'index Wikisource."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

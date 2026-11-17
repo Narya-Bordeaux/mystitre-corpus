@@ -1,0 +1,9 @@
+# Les Brigands — compte rendu
+
+- **Édition** : Die Räuber, Wikisource allemand (pages « 1. Akt » et « 5. Akt »), édition non indiquée par la page. Pas de traduction française libre trouvée sur fr.wikisource (seules des poésies de Schiller y sont) : traduction par nos soins sur l'original, à relire.
+- **Exclus** : titres d'acte et de scène, décor, liste des personnages de scène (p00001 → p00006), didascalie finale « Er geht ab. » (p00462) et « Anmerkungen von Wikisource » (p00463). Corps du texte p00007 → p00461. Pas de Vorrede (page non enregistrée).
+- **Corrections déclarées** : l'édition ne balise pas les personnages (« Franz. », « D. a. Moor. », « R. Moor. », « Räuber. » en tête de réplique) : nom retiré par `--replace` puis locuteur déclaré, sur p00007–p00014 et p00459–p00461. Didascalies internes retirées : « Begierig. » (p00010), « halb vor sich » (p00013), « Nach einigem Nachsinnen. » (p00461).
+- **Extraits** : ouverture 343 caractères (8 phrases, Franz annonce la lettre au vieux Moor), clôture 319 caractères (3 phrases, dernière réplique de Karl Moor).
+- **Points douteux** : le tiret de pensée initial est rendu par « … » ; l'orthographe ancienne de l'édition (« izt », « sezen ») est sans effet sur la traduction. Locuteur « LES BRIGANDS » dans la clôture : exception déclarée dans `accepted_name_leaks.dart` (`les-brigands · lastSentences`), le masque de titre n'agissant pas sur les noms de locuteurs ; pas de masque de titre.
+- **Hésitation** : la didascalie de sortie finale est exclue plutôt que collée à la réplique de Moor, pour ne pas la faire passer pour du texte dit. Le fichier `sources/les-brigands.json` a été édité à la main pour retirer une correction d'exclusion devenue hors bornes (aucune commande de retrait).
+- **Contrôles** : format, leurres, flutter test test/data, tests du moteur : code 0.

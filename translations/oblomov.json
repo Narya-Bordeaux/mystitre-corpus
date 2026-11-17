@@ -1,0 +1,122 @@
+{
+  "formatVersion": 1,
+  "bookId": "oblomov",
+  "sourceLanguage": "ru",
+  "cleanTextSha256": "c354dfe6d54dbe11d513d10622bede05b177e5c67c4e5b0dc896283e8d993f28",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "В Гороховой улице, в одном из больших домов, народонаселения которого стало бы на целый уездный город, лежал утром в постели, на своей квартире, Илья Ильич Обломов.",
+      "translation": "Rue des Pois, dans l’une de ces grandes maisons dont la population suffirait à peupler toute une ville de district, Ilia Ilitch Oblomov était couché, un matin, dans son lit, en son appartement."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "Это был человек лет тридцати двух-трех от роду, среднего роста, приятной наружности, с темно-серыми глазами, но с отсутствием всякой определенной идеи, всякой сосредоточенности в чертах лица.",
+      "translation": "C’était un homme d’une trentaine d’années, de taille moyenne, d’agréable apparence, aux yeux gris foncé, mais dont le visage n’exprimait aucune idée déterminée, aucune concentration."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Мысль гуляла вольной птицей по лицу, порхала в глазах, садилась на полуотворенные губы, пряталась в складках лба, потом совсем пропадала, и тогда во всем лице теплился ровный свет беспечности.",
+      "translation": "La pensée errait sur ce visage comme un oiseau libre, voletait dans les yeux, se posait sur les lèvres entrouvertes, se cachait dans les plis du front, puis disparaissait tout à fait, et alors une lumière égale d’insouciance brillait sur toute la face."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "С лица беспечность переходила в позы всего тела, даже в складки шлафрока.",
+      "translation": "De la face, l’insouciance passait dans les poses de tout le corps, jusque dans les plis de sa robe de chambre."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Иногда взгляд его помрачался выражением будто усталости или скуки; но ни усталость, ни скука не могли ни на минуту согнать с лица мягкость, которая была господствующим и основным выражением, не лица только, а всей души; а душа так открыто и ясно светилась в глазах, в улыбке, в каждом движении головы, руки.",
+      "translation": "Parfois son regard s’assombrissait d’une expression de lassitude ou d’ennui ; mais ni la lassitude ni l’ennui ne pouvaient chasser un instant du visage la douceur qui en était l’expression dominante et fondamentale, non seulement du visage, mais de l’âme entière ; et l’âme brillait si ouvertement et si clairement dans les yeux, dans le sourire, dans chaque mouvement de la tête et de la main."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00186.s1",
+      "original": "— Ну, ты слышал историю этого нищего? — сказал Штольц своему приятелю.",
+      "translation": "— Eh bien, tu as entendu l’histoire de ce mendiant ? dit Stolz à son ami."
+    },
+    {
+      "id": "p00187.s1",
+      "original": "— А что это за Илья Ильич, которого он поминал? — спросил литератор.",
+      "translation": "— Et qui est-ce, cet Ilia Ilitch dont il parlait ? demanda le littérateur."
+    },
+    {
+      "id": "p00188.s1",
+      "original": "— Обломов: я тебе много раз про него говорил.",
+      "translation": "— Oblomov : je t’ai souvent parlé de lui."
+    },
+    {
+      "id": "p00189.s1",
+      "original": "— Да, помню имя: это твой товарищ и друг.",
+      "translation": "— Oui, je me souviens du nom : c’est ton camarade et ton ami."
+    },
+    {
+      "id": "p00189.s2",
+      "original": "Что с ним сталось?",
+      "translation": "Qu’est-il devenu ?"
+    },
+    {
+      "id": "p00190.s1",
+      "original": "— Погиб, пропал ни за что.",
+      "translation": "— Perdu, disparu pour rien."
+    },
+    {
+      "id": "p00191.s1",
+      "original": "Штольц вздохнул и задумался.",
+      "translation": "Stolz soupira et devint pensif."
+    },
+    {
+      "id": "p00192.s1",
+      "original": "— А был не глупее других, душа чиста и ясна, как стекло; благороден, нежен, и — пропал!",
+      "translation": "— Et il n’était pas moins intelligent que les autres, son âme était pure et claire comme le verre ; noble, tendre, et il s’est perdu !"
+    },
+    {
+      "id": "p00193.s1",
+      "original": "— Отчего же?",
+      "translation": "— Pourquoi donc ?"
+    },
+    {
+      "id": "p00193.s2",
+      "original": "Какая причина?",
+      "translation": "Quelle en est la cause ?"
+    },
+    {
+      "id": "p00194.s1",
+      "original": "— Причина… какая причина!",
+      "translation": "— La cause… quelle cause !"
+    },
+    {
+      "id": "p00194.s2",
+      "original": "Обломовщина! — сказал Штольц.",
+      "translation": "L’oblomovisme ! dit Stolz."
+    },
+    {
+      "id": "p00195.s1",
+      "original": "— Обломовщина! — с недоумением повторил литератор.",
+      "translation": "— L’oblomovisme ! répéta le littérateur avec perplexité."
+    },
+    {
+      "id": "p00195.s2",
+      "original": "— Что это такое?",
+      "translation": "— Qu’est-ce que cela ?"
+    },
+    {
+      "id": "p00196.s1",
+      "original": "— Сейчас расскажу тебе, дай собраться с мыслями и памятью.",
+      "translation": "— Je vais te le raconter, laisse-moi rassembler mes pensées et mes souvenirs."
+    },
+    {
+      "id": "p00196.s2",
+      "original": "А ты запиши: может быть, кому-нибудь пригодится.",
+      "translation": "Mais toi, écris : cela servira peut-être à quelqu’un."
+    },
+    {
+      "id": "p00197.s1",
+      "original": "И он рассказал ему, что здесь написано.",
+      "translation": "Et il lui raconta ce qui est écrit ici."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "formatVersion": 1,
+  "bookId": "marie-stuart",
+  "title": "Marie Stuart",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Maria Stuart, Wikisource allemand (pages d'actes) ; édition non indiquée",
+    "pages": [
+      {
+        "title": "Maria Stuart/Erster Aufzug",
+        "revisionId": 895109
+      },
+      {
+        "title": "Maria Stuart/Fünfter Aufzug",
+        "revisionId": 1000728
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d6dafece5b688360ba8744f6d084a14dae35583a251dc6fd755c49f585e88aa8"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "Hanna Kennedy, Amme der Königin von Schottland in heftigem Streit mit Paulet, der im Begriff ist, einen Schrank zu öffnen.\nDrugeon Drury, sein Gehilfe, mit Brecheisen.\n",
+      "replace": "",
+      "reason": "Didascalie d'entrée de scène (personnages en présence) laissée en tête de paragraphe, pas du texte dit"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00145",
+      "find": "\n(Sie bezwingt sich und steht mit ruhiger Fassung da. Der Vorhang fällt.)",
+      "replace": "",
+      "reason": "Didascalie finale (chute du rideau), pas du texte dit"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00145",
+      "find": "\n(Geht ab.)",
+      "replace": "",
+      "reason": "Didascalie interne retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00145",
+      "find": "Elisabeth. (zum Grafen Kent, der hereintritt).",
+      "replace": "Elisabeth.",
+      "reason": "Didascalie interne retirée du texte lu"
+    },
+    {
+      "kind": "speakerLines",
+      "names": [
+        "Maria",
+        "Paulet",
+        "Burleigh",
+        "Kennedy",
+        "Melvil",
+        "Mortimer",
+        "Elisabeth",
+        "Kurl",
+        "Schrewsbury",
+        "Davison",
+        "Page",
+        "Burgoyn",
+        "Kent",
+        "Lester"
+      ],
+      "reason": "Édition qui réunit plusieurs répliques dans un bloc de vers, le nom du personnage sur une ligne isolée « Nom. »"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004-2",
+      "find": "(Sich über den Schrank machend.)",
+      "replace": "",
+      "reason": "Didascalie interne retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00005-2",
+      "find": "(Schriften hervorziehend.)",
+      "replace": "",
+      "reason": "Didascalie interne retirée du texte lu"
+    }
+  ],
+  "reviewFlags": [
+    "p00004 : remplacement ample (168 caractères changés)",
+    "p00145 : remplacement ample (73 caractères changés)",
+    "p00145 : remplacement ample (36 caractères changés)",
+    "p00004-2 : remplacement ample (32 caractères changés)",
+    "p00005-2 : remplacement ample (26 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004-1.s1",
+      "p00004-1.s2",
+      "p00004-1.s3",
+      "p00004-2.s1",
+      "p00004-2.s2",
+      "p00004-2.s3"
+    ],
+    "french": "KENNEDY. — Que faites-vous, sir ? Quelle nouvelle audace !\nÉloignez-vous de cette armoire !\nPAULET. — D’où venait ce bijou ?\nOn l’a jeté de l’étage supérieur,\nOn voulait corrompre le jardinier\nAvec ce bijou… maudites soient les ruses des femmes !\nMalgré ma surveillance, malgré mes fouilles minutieuses,\nEncore des objets précieux, encore des trésors cachés !",
+    "original": "Kennedy. — Was macht ihr, Sir? Welch neue Dreistigkeit!\nZurück von diesem Schrank!\nPaulet. — Wo kam der Schmuck her?\nVom obern Stock ward er herabgeworfen,\nDer Gärtner hat bestochen werden sollen\nMit diesem Schmuck – Fluch über Weiberlist!\nTrotz meiner Aufsicht, meinem scharfen Suchen,\nNoch Kostbarkeiten, noch geheime Schätze!",
+    "length": 359,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00145-2.s1",
+      "p00145-3.s1",
+      "p00145-3.s2",
+      "p00145-3.s3",
+      "p00145-3.s4",
+      "p00145-4.s1",
+      "p00145-5.s1"
+    ],
+    "french": "ÉLISABETH. — Il voulait m’abandonner, l’homme qui m’a\nSauvé la vie ?\nSHREWSBURY. — J’ai fait\nBien peu… Je n’ai pu sauver\nLa meilleure part de toi. Vis, règne heureuse !\nTon ennemie est morte. Tu n’as désormais\nPlus rien à craindre, plus rien à ménager.\nÉLISABETH. — Que le comte Leicester vienne ici !\nKENT. — Le lord s’excuse,\nIl s’est embarqué pour la France.",
+    "original": "Elisabeth. — Verlassen wollte mich der Mann, der mir\nDas Leben rettete?\nSchrewsbury. — Ich habe wenig\nGethan – Ich habe deinen edlern Theil\nNicht retten können. Lebe, herrsche glücklich!\nDie Gegnerin ist todt. Du hast von nun an\nNichts mehr zu fürchten, brauchst nichts mehr zu achten.\nElisabeth. — Graf Lester komme her!\nKent. — Der Lord läßt sich\nEntschuldigen, er ist zu Schiff nach Frankreich.",
+    "length": 361,
+    "truncated": false
+  }
+}

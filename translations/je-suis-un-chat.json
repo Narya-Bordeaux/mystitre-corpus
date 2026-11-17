@@ -1,0 +1,122 @@
+{
+  "formatVersion": 1,
+  "bookId": "je-suis-un-chat",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "ff005c47d04095e4586678bf78d04591b49d865598b96536549d0158eb9f6629",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00006.s1",
+      "original": "吾輩（わがはい）は猫である。",
+      "translation": "Je suis un chat."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "名前はまだ無い。",
+      "translation": "Je n'ai pas encore de nom."
+    },
+    {
+      "id": "p00007.s1",
+      "original": "どこで生れたかとんと見当（けんとう）がつかぬ。",
+      "translation": "Où suis-je né ? Je n'en ai pas la moindre idée."
+    },
+    {
+      "id": "p00007.s2",
+      "original": "何でも薄暗いじめじめした所でニャーニャー泣いていた事だけは記憶している。",
+      "translation": "Je me souviens seulement d'avoir miaulé, dans un endroit sombre et humide."
+    },
+    {
+      "id": "p00007.s3",
+      "original": "吾輩はここで始めて人間というものを見た。",
+      "translation": "C'est là que j'ai vu des humains pour la première fois."
+    },
+    {
+      "id": "p00007.s4",
+      "original": "しかもあとで聞くとそれは書生という人間中で一番獰悪（どうあく）な種族であったそうだ。",
+      "translation": "J'ai appris plus tard que c'était un étudiant-domestique, la race la plus féroce de tous les humains."
+    },
+    {
+      "id": "p00007.s5",
+      "original": "この書生というのは時々我々を捕（つかま）えて煮（に）て食うという話である。",
+      "translation": "Il paraît que ces étudiants-domestiques nous attrapent parfois pour nous faire bouillir et nous manger."
+    },
+    {
+      "id": "p00007.s6",
+      "original": "しかしその当時は何という考もなかったから別段恐しいとも思わなかった。",
+      "translation": "Mais, à l'époque, je ne me posais pas de questions, et je n'en éprouvais aucune frayeur."
+    },
+    {
+      "id": "p00007.s7",
+      "original": "ただ彼の掌（てのひら）に載せられてスーと持ち上げられた時何だかフワフワした感じがあったばかりである。",
+      "translation": "J'ai juste senti, quand il m'a posé sur sa paume et soulevé d'un coup, une sorte de flottement moelleux."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p02259.s3",
+      "original": "がりがりはこれぎりご免蒙（めんこうむ）るよ」と、前足も、後足も、頭も尾も自然の力に任せて抵抗しない事にした。",
+      "translation": "Je ne gratterai plus, merci bien ! » Et je laissai pattes avant, pattes arrière, tête et queue à la merci des forces de la nature, sans plus résister."
+    },
+    {
+      "id": "p02260.s1",
+      "original": "次第に楽になってくる。",
+      "translation": "Peu à peu, je me sens plus à l'aise."
+    },
+    {
+      "id": "p02260.s2",
+      "original": "苦しいのだかありがたいのだか見当がつかない。",
+      "translation": "Est-ce de la souffrance ou de la gratitude ? Je ne saurais le dire."
+    },
+    {
+      "id": "p02260.s3",
+      "original": "水の中にいるのだか、座敷の上にいるのだか、判然しない。",
+      "translation": "Suis-je dans l'eau ou sur les tatamis ? Impossible de le dire."
+    },
+    {
+      "id": "p02260.s4",
+      "original": "どこにどうしていても差支（さしつか）えはない。",
+      "translation": "Où que je sois, quoi que je fasse, peu importe."
+    },
+    {
+      "id": "p02260.s5",
+      "original": "ただ楽である。",
+      "translation": "Il n'y a que le bien-être."
+    },
+    {
+      "id": "p02260.s6",
+      "original": "否（いな）楽そのものすらも感じ得ない。",
+      "translation": "Non, je ne ressens même plus ce bien-être."
+    },
+    {
+      "id": "p02260.s7",
+      "original": "日月（じつげつ）を切り落し、天地を粉韲（ふんせい）して不可思議の太平に入る。",
+      "translation": "Je tranche le soleil et la lune, je broie le ciel et la terre, et j'entre dans une paix insondable."
+    },
+    {
+      "id": "p02260.s8",
+      "original": "吾輩は死ぬ。",
+      "translation": "Je meurs."
+    },
+    {
+      "id": "p02260.s9",
+      "original": "死んでこの太平を得る。",
+      "translation": "En mourant, j'obtiens cette paix."
+    },
+    {
+      "id": "p02260.s10",
+      "original": "太平は死ななければ得られぬ。",
+      "translation": "La paix ne s'obtient qu'en mourant."
+    },
+    {
+      "id": "p02260.s11",
+      "original": "南無阿弥陀仏（なむあみだぶつ）南無阿弥陀仏。",
+      "translation": "Namu Amida Butsu, Namu Amida Butsu."
+    },
+    {
+      "id": "p02260.s12",
+      "original": "ありがたいありがたい。",
+      "translation": "Merci, merci."
+    }
+  ]
+}

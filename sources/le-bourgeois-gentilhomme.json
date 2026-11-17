@@ -1,0 +1,83 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-bourgeois-gentilhomme",
+  "title": "Le Bourgeois gentilhomme",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Bourgeois gentilhomme, « Édition Louandre, 1910 » sur fr.wikisource (Œuvres complètes de Molière) ; seuls l'acte I et l'acte V sont enregistrés",
+  "pages": [
+    {
+      "title": "Le Bourgeois gentilhomme/Édition Louandre, 1910/Acte I",
+      "revisionId": 12341744
+    },
+    {
+      "title": "Le Bourgeois gentilhomme/Édition Louandre, 1910/Acte V",
+      "revisionId": 12341753
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a5a5b583c1619eb7b16960477e253d58e35d41dfa6417d2993457d2ba693e028",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "Venez, entrez dans cette salle, et vous reposez là, en atten"
+  },
+  "bodyEnd": {
+    "id": "p00360",
+    "textPrefix": "Quels spectacles charmants ! quels plaisirs goûtons-nous ;\nL"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre d'acte, didascalie d'ouverture (p00002), titres de scènes ; fin sur le dernier couplet du Ballet des nations (fin de l'acte V)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00007",
+      "reason": "Didascalie orpheline (le nom du personnage a disparu à la numérisation) : ne se lit pas comme texte"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00009",
+      "reason": "Didascalie orpheline (le nom du personnage a disparu à la numérisation) : ne se lit pas comme texte"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00357",
+      "reason": "Didascalie du Ballet des nations, étiquetée à tort comme réplique par l'édition : ce n'est pas du texte dit"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00358",
+      "reason": "Didascalie du Ballet des nations, étiquetée à tort comme réplique par l'édition : ce n'est pas du texte dit"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00359",
+      "reason": "Didascalie du Ballet des nations, étiquetée à tort comme réplique par l'édition : ce n'est pas du texte dit"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00355",
+      "name": "TOUS DEUX ENSEMBLE",
+      "reason": "Étiquette de l'édition fautive (« DEUXIEME MENUET ») : le chant est celui des deux musiciens"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00356",
+      "name": "TOUS DEUX ENSEMBLE",
+      "reason": "Même étiquette fautive que p00355"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00360",
+      "name": "TOUS",
+      "reason": "Étiquette de l'édition fautive : le couplet final est chanté par toute l'assistance (didascalie p00359)"
+    }
+  ]
+}

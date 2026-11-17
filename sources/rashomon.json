@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "rashomon",
+  "title": "Rashōmon",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "羅生門 (ja.wikisource), d'après le recueil『羅生門』(阿蘭陀書房), 1915 ; kana historiques avec furigana",
+  "pages": [
+    {
+      "title": "羅生門",
+      "revisionId": 146965
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "67f164f72ab5384ecc11589dd88c5166f5f8550268cdd728be62408dcc65cedf",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "　或日（あるひ）の暮方の事である。一人の下人が、羅生門（らしやうもん）の下で雨やみを待つてゐた。"
+  },
+  "bodyEnd": {
+    "id": "p00039",
+    "textPrefix": "　下人は、既に、雨（あめ）を冐（をか）して、京都の町へ强盜を働きに急いでゐた。"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : bandeau titre/auteur, liens projets sœurs, mention de source (p1-4), avis de domaine public (p40-41). Le texte commence à « 或日の暮方の事である » et finit à « 强盜を働きに急いでゐた »."
+  ],
+  "titleMasks": [
+    "Rashōmon"
+  ],
+  "readingOptions": []
+}

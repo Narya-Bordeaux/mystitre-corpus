@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-entretiens",
+  "title": "Les Entretiens",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Quatre Livres, traduction de Séraphin Couvreur, Ho Kien Fou, 1895 (livre « Entretiens de Confucius » de la Wikisource en français) ; seuls le premier et le dernier livre sont enregistrés",
+  "pages": [
+    {
+      "title": "Les Quatre livres/Entretiens de Confucius/01",
+      "revisionId": 4134756
+    },
+    {
+      "title": "Les Quatre livres/Entretiens de Confucius/20",
+      "revisionId": 4136053
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "dd91734875e5a294b38d780ed89bde8691f9fbce73c1680cefa6c946f8db10fc",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "1. Le Maître dit : « Celui qui cultive la sagesse et ne cess"
+  },
+  "bodyEnd": {
+    "id": "p00025",
+    "textPrefix": "3. Le Maître dit : « Celui qui ne connaît pas la volonté du "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "zh",
+    "translator": "Séraphin Couvreur",
+    "translationYear": 1895,
+    "translatorDeathYear": 1919,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Séraphin_Couvreur&oldid=12680598",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut les titres de chapitre (« CHAPITRE I. HIO EUL. », « CHAPITRE XX. IAO IUE. »). Corps = §1 du livre I au §3 du livre XX (derniers mots, comme dans le chinois)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "1. Le Maître dit",
+      "replace": "Le Maître dit",
+      "reason": "Numéro de paragraphe de l'édition (« 1. »), qui n'est pas du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00025",
+      "find": "3. Le Maître dit",
+      "replace": "Le Maître dit",
+      "reason": "Numéro de paragraphe de l'édition (« 3. »), qui n'est pas du texte lu"
+    }
+  ]
+}

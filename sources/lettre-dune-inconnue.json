@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "lettre-dune-inconnue",
+  "title": "Lettre d'une inconnue",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Amok, traduit de l'allemand par Alzir Hella et Olivier Bournac, Bibliothèque cosmopolite, Stock (année non indiquée sur Wikisource) — page « Amok (recueil)/Lettre d’une inconnue »",
+  "pages": [
+    {
+      "title": "Amok (recueil)/Lettre d’une inconnue",
+      "revisionId": 15668827
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "658fb7b29ee334ca886a202a855c35c290dff8b6fb9713ed1f668b67b23aaf6a",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "R…, le romancier à la mode, rentrait à Vienne de bon matin a"
+  },
+  "bodyEnd": {
+    "id": "p00091",
+    "textPrefix": "Les mains tremblantes de l’écrivain lâchèrent la lettre. Pui"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Alzir Hella et Olivier Bournac",
+    "translationYear": null,
+    "translatorDeathYear": 1953,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Alzir_Hella&oldid=16029324",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : titre de page (p00001). Le cadre du romancier R… et le manuscrit de la lettre appartiennent à l'œuvre et sont gardés."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

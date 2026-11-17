@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "rashomon",
+  "title": "Rashōmon",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ja.wikisource.org",
+    "edition": "羅生門 (ja.wikisource), d'après le recueil『羅生門』(阿蘭陀書房), 1915 ; kana historiques avec furigana",
+    "pages": [
+      {
+        "title": "羅生門",
+        "revisionId": 146965
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "67f164f72ab5384ecc11589dd88c5166f5f8550268cdd728be62408dcc65cedf"
+  },
+  "titleMasks": [
+    "Rashōmon"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00006.s1",
+      "p00006.s2",
+      "p00006.s3"
+    ],
+    "french": "C'était un soir, à la tombée du jour. Un valet attendait, sous la porte [TITRE], que la pluie cesse. Sous le vaste portail, il n'y avait personne d'autre que cet homme. Seul un grillon s'était posé sur un gros pilier rond dont la laque rouge s'écaillait çà et là. Puisque la porte [TITRE] se dressait sur la grande avenue Suzaku, on aurait pu s'attendre à y trouver, outre cet homme, deux ou trois autres personnes abritées de la pluie, avec leur chapeau de femme en jonc ou leur bonnet de cérémonie tout fripé.",
+    "original": "或日（あるひ）の暮方の事である。一人の下人が、羅生門（らしやうもん）の下で雨やみを待つてゐた。　廣い門の下には、この男の外（ほか）に誰もゐない。唯、所々丹塗（にぬり）の剝げた、大きな圓柱（まるばしら）に、蟋蟀（きり〴〵す）が一匹とまつてゐる。羅生門（らしやうもん）が、朱雀大路（すじやくおほぢ）にある以上（いじやう）は、この男の外にも、雨（あめ）やみをする市女笠（いちめがさ）や揉烏帽子が、もう二三人（にん）はありさうなものである。",
+    "length": 513,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00038.s2",
+      "p00038.s3",
+      "p00038.s4",
+      "p00039.s1"
+    ],
+    "french": "Elle gémissait d'une voix qui tenait du murmure et du grognement, et, à la lueur du feu encore allumé, rampa jusqu'à l'ouverture de l'échelle. Là, ses courts cheveux blancs pendant à l'envers, elle se pencha pour regarder en bas, sous la porte. Dehors, il n'y avait que la nuit, noire et sans fond. Le valet, lui, avait déjà bravé la pluie et courait dans la ville de Kyōto commettre des brigandages.",
+    "original": "老婆は、つぶやくやうな、うめくやうな聲を立てながら、まだ燃（も）えてゐる火の光をたよりに、梯子（はしご）の口まで、這つて行つた。さうして、そこから、短い白髮（しらが）を倒にして、門の下を覗（のぞ）きこんだ。外には、唯、黑洞々たる夜があるばかりである。　下人は、既に、雨（あめ）を冐（をか）して、京都の町へ强盜を働きに急いでゐた。",
+    "length": 400,
+    "truncated": false
+  }
+}

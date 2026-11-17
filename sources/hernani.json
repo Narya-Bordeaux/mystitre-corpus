@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "bookId": "hernani",
+  "title": "Hernani",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Hernani, Hetzel, 1889 (d'après le titre de la page Wikisource)",
+  "pages": [
+    {
+      "title": "Hernani (Hetzel, 1889)/Acte I",
+      "revisionId": 13642205
+    },
+    {
+      "title": "Hernani (Hetzel, 1889)/Acte V",
+      "revisionId": 13642285
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "70bf4c2491e3a9085fd8c0b5d1a0c5a535fa50db45442a340d954670c48c3c09",
+  "bodyStart": {
+    "id": "p00008",
+    "textPrefix": "Serait-ce déjà lui."
+  },
+  "bodyEnd": {
+    "id": "p00663",
+    "textPrefix": "Morte ! — Oh ! je suis damné !"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres d'acte et de scène, lieu, liste des personnages, première didascalie (p00007, étiquetée à tort au nom de doña Josépha). Le texte commence à la première réplique et finit sur « Morte ! — Oh ! je suis damné ! » ; la dernière didascalie « Il se tue. » est exclue."
+  ],
+  "titleMasks": [
+    "Hernani",
+    "HERNANI"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00015",
+      "reason": "didascalie étiquetée à tort au nom de doña Josépha par la mise en page de l'édition (elle décrit l'entrée de don Carlos)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00658",
+      "find": "D’une voix qui s’éteint.",
+      "replace": "",
+      "reason": "didascalie de l'édition restée dans la réplique, sans nom de personnage"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00017",
+      "find": ", lui saisissant",
+      "replace": "DON CARLOS, lui saisissant",
+      "reason": "nom de personnage perdu à la numérisation ; la réplique suivante est de don Carlos"
+    }
+  ]
+}

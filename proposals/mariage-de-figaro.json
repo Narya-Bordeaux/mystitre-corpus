@@ -1,0 +1,73 @@
+{
+  "formatVersion": 1,
+  "bookId": "mariage-de-figaro",
+  "title": "Le Mariage de Figaro",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Mariage de Figaro (page Wikisource « Texte entier »)",
+    "pages": [
+      {
+        "title": "Le Mariage de Figaro/Texte entier",
+        "revisionId": 7136652
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7eeaf7de9159fcdaf6ad6b296614a62b2277924b4c16a9bbfac5631e55114eea"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00200",
+      "reason": "Didascalie dont l'édition a perdu le sujet et les parenthèses (« lui prend les mains. ») : fragment illisible hors contexte, non lu comme texte"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00202",
+      "reason": "Didascalie dont l'édition a perdu le sujet et les parenthèses (« lui prend les mains. ») : fragment illisible hors contexte, non lu comme texte"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p02842",
+      "reason": "Rubrique de mise en page du vaudeville (« Dixième couplet. »), non lue comme texte"
+    }
+  ],
+  "reviewFlags": [
+    "p00200 exclu, SANS doublon ailleurs dans l'œuvre : « lui prend les mains. »",
+    "p00202 exclu, SANS doublon ailleurs dans l'œuvre : « se retire. »",
+    "p02842 exclu, SANS doublon ailleurs dans l'œuvre : « Dixième couplet. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00198.s1",
+      "p00199.s1",
+      "p00201.s1",
+      "p00201.s2",
+      "p00203.s1"
+    ],
+    "french": "FIGARO. — Dix-neuf pieds sur vingt-six.\nSUZANNE. — Tiens, Figaro, voilà mon petit chapeau : le trouves-tu mieux ainsi ?\nFIGARO. — Sans comparaison, ma charmante. Oh ! que ce joli bouquet virginal, élevé sur la tête d’une belle fille, est doux, le matin des noces, à l’œil amoureux d’un époux !…\nSUZANNE. — Que mesures-tu donc là, mon fils ?",
+    "original": "FIGARO. — Dix-neuf pieds sur vingt-six.\nSUZANNE. — Tiens, Figaro, voilà mon petit chapeau : le trouves-tu mieux ainsi ?\nFIGARO. — Sans comparaison, ma charmante. Oh ! que ce joli bouquet virginal, élevé sur la tête d’une belle fille, est doux, le matin des noces, à l’œil amoureux d’un époux !…\nSUZANNE. — Que mesures-tu donc là, mon fils ?",
+    "length": 340,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p02841.s2",
+      "p02841.s3",
+      "p02843.s1",
+      "p02843.s2",
+      "p02843.s3"
+    ],
+    "french": "SUZANNE. — Ainsi la nature sage\nNous conduit, dans nos désirs,\nÀ son but par les plaisirs. (Bis.)\nBRID’OISON. — Or, messieurs, la co-omédie,\nQue l’on juge en cè-et instant,\nSauf erreur, nous pein-eint la vie\nDu bon peuple qui l’entend.\nQu’on l’opprime, il peste, il crie,\nIl s’agite en cent fa-açons :\nTout fini-it par des chansons. (Bis.)",
+    "original": "SUZANNE. — Ainsi la nature sage\nNous conduit, dans nos désirs,\nÀ son but par les plaisirs. (Bis.)\nBRID’OISON. — Or, messieurs, la co-omédie,\nQue l’on juge en cè-et instant,\nSauf erreur, nous pein-eint la vie\nDu bon peuple qui l’entend.\nQu’on l’opprime, il peste, il crie,\nIl s’agite en cent fa-açons :\nTout fini-it par des chansons. (Bis.)",
+    "length": 339,
+    "truncated": false
+  }
+}

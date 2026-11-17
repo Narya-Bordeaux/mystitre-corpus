@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-journal-dun-fou",
+  "title": "Le Journal d’un fou",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Louis Viardot",
+    "translationYear": 1853,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Louis Viardot, 1853)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource français, « Les Mémoires d’un Fou », trad. de Louis Viardot, dans Nouvelles choisies de Nicolas Gogol (Hachette, 1853)",
+    "pages": [
+      {
+        "title": "Nouvelles choisies de Nicolas Gogol/Les Mémoires d’un Fou",
+        "revisionId": 10357078
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "80cab5c85de70b34e5496fe58310cad996c70aef4c806d1d5fcd49c9c9fe6808"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "est-il ?  —",
+      "replace": "est-il ?",
+      "reason": "tiret de fin de réplique redondant laissé par la numérisation (la réplique est suivie de « Elle m'a répondu »)"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2",
+      "p00007.s1",
+      "p00007.s2"
+    ],
+    "french": "3 octobre.\nAujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :\n— Quelle heure est-il ?\nElle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau.",
+    "original": "3 octobre.\nAujourd’hui, il est arrivé un événement extraordinaire. Je me suis levé ce matin assez tard, et quand Mavra m’apporta mes bottes propres, je lui ai demandé :\n— Quelle heure est-il ?\nElle m’a répondu qu’il était plus de dix heures, et je me suis mis à m’habiller. Il faut convenir que je n’avais pas la moindre envie d’aller au département, car je savais d’avance quelle désagréable figure me ferait mon chef de bureau.",
+    "length": 429,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00138.s19",
+      "p00138.s20",
+      "p00138.s21",
+      "p00138.s22"
+    ],
+    "french": "Ô ma mère, sauve ton pauvre enfant ! laisse tomber une larme sur ma tête malade ! vois comme on le tourmente ! oh ! serre sur ton cœur ton pauvre orphelin délaissé ! il n’a pas de place dans ce monde. On le persécute.... Ma mère, ma mère, prends pitié de moi .... À propos, savez-vous que le dey d’Alger a une verrue sur le nez ?",
+    "original": "Ô ma mère, sauve ton pauvre enfant ! laisse tomber une larme sur ma tête malade ! vois comme on le tourmente ! oh ! serre sur ton cœur ton pauvre orphelin délaissé ! il n’a pas de place dans ce monde. On le persécute.... Ma mère, ma mère, prends pitié de moi .... À propos, savez-vous que le dey d’Alger a une verrue sur le nez ?",
+    "length": 329,
+    "truncated": false
+  }
+}

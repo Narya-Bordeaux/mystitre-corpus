@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "bookId": "claude-gueux",
+  "title": "Claude Gueux",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Œuvres complètes de Victor Hugo, édition dite de l’Imprimerie nationale (d'après l'en-tête de la page Wikisource)",
+  "pages": [
+    {
+      "title": "Claude Gueux",
+      "revisionId": 13960535
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b18216d66514d28ac2c0292b30454ce6aa21300f736a1fbe4398982fa37ea99c",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Il y a sept ou huit ans, un homme nommé Claude Gueux, pauvre"
+  },
+  "bodyEnd": {
+    "id": "p00245",
+    "textPrefix": "La tête de l’homme du peuple, voilà la question. Cette tête "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : titre centré « CLAUDE GUEUX » (p00001). Le récit et la réflexion finale de l'auteur sont gardés."
+  ],
+  "titleMasks": [
+    "Claude Gueux"
+  ],
+  "readingOptions": []
+}

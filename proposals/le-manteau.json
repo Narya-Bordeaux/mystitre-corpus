@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-manteau",
+  "title": "Le Manteau",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Henri Mongault",
+    "translationYear": 1938,
+    "translatorDeathYear": 1941,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Henri_Mongault&oldid=15313150",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Henri Mongault, 1938)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource français, « Le Manteau (trad. Henri Mongault) », revue Le Monde slave, avril 1938",
+    "pages": [
+      {
+        "title": "Le Manteau (trad. Henri Mongault)",
+        "revisionId": 13176204
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "0b6e0100c258c3152376f2163649e7a8ae496baf4fd20b38d77fc0c939339c11"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00115",
+      "find": "veux-tu ? » demanda",
+      "replace": "veux-tu ? demanda",
+      "reason": "guillemet fermant orphelin : aucun guillemet ouvrant dans l'édition numérisée (p00114)"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3",
+      "p00005.s4",
+      "p00005.s5"
+    ],
+    "french": "Au ministère de… Non, mieux vaut ne pas le nommer. Personne n’est plus susceptible que les fonctionnaires, officiers, employés de bureau et autres gens en place. À l’heure actuelle, chaque particulier croit que si l’on touche à sa personne, toute la société en est offensée. Dernièrement, paraît-il, le capitaine-ispravnik de je ne sais plus quelle ville a exposé sans ambages dans une supplique que le respect des lois se perd et que son nom sacré est prononcé « en vain ».",
+    "original": "Au ministère de… Non, mieux vaut ne pas le nommer. Personne n’est plus susceptible que les fonctionnaires, officiers, employés de bureau et autres gens en place. À l’heure actuelle, chaque particulier croit que si l’on touche à sa personne, toute la société en est offensée. Dernièrement, paraît-il, le capitaine-ispravnik de je ne sais plus quelle ville a exposé sans ambages dans une supplique que le respect des lois se perd et que son nom sacré est prononcé « en vain ».",
+    "length": 474,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00115.s1",
+      "p00116.s1",
+      "p00117.s1",
+      "p00117.s2"
+    ],
+    "french": "— Que veux-tu ? demanda-t-il en lui montrant un poing dont on eût difficilement trouvé le pareil même chez les vivants.\n— Rien du tout ! répondit le garde, qui s’empressa de faire demi-tour.\nLe fantôme était cette fois de taille beaucoup plus haute et pourvu d’énormes moustaches. Il paraissait vouloir gagner le pont Oboukhov et disparut bientôt complètement dans les ténèbres nocturnes…",
+    "original": "— Que veux-tu ? demanda-t-il en lui montrant un poing dont on eût difficilement trouvé le pareil même chez les vivants.\n— Rien du tout ! répondit le garde, qui s’empressa de faire demi-tour.\nLe fantôme était cette fois de taille beaucoup plus haute et pourvu d’énormes moustaches. Il paraissait vouloir gagner le pont Oboukhov et disparut bientôt complètement dans les ténèbres nocturnes…",
+    "length": 388,
+    "truncated": false
+  }
+}

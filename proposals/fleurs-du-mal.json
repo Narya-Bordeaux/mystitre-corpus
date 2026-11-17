@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "fleurs-du-mal",
+  "title": "Les Fleurs du mal",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, « Les Fleurs du mal (1861) », page « Texte entier » (seconde édition, Paris, imprimerie Simon Raçon et Cie)",
+    "pages": [
+      {
+        "title": "Les Fleurs du mal (1861)/Texte entier",
+        "revisionId": 15069880
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "f0e7a1a4092b5b4ff67be0d672f642920d60354103b846f2d08c1062e7d2d404"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00006.s1",
+      "p00006.s2"
+    ],
+    "french": "La sottise, l’erreur, le péché, la lésine,\nOccupent nos esprits et travaillent nos corps,\nEt nous alimentons nos aimables remords,\nComme les mendiants nourrissent leur vermine.\nNos péchés sont têtus, nos repentirs sont lâches ;\nNous nous faisons payer grassement nos aveux,\nEt nous rentrons gaiement dans le chemin bourbeux,\nCroyant par de vils pleurs laver toutes nos taches.",
+    "original": "La sottise, l’erreur, le péché, la lésine,\nOccupent nos esprits et travaillent nos corps,\nEt nous alimentons nos aimables remords,\nComme les mendiants nourrissent leur vermine.\nNos péchés sont têtus, nos repentirs sont lâches ;\nNous nous faisons payer grassement nos aveux,\nEt nous rentrons gaiement dans le chemin bourbeux,\nCroyant par de vils pleurs laver toutes nos taches.",
+    "length": 376,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00492.s4",
+      "p00493.s1",
+      "p00493.s2",
+      "p00493.s3"
+    ],
+    "french": "Si le ciel et la mer sont noirs comme de l’encre,\nNos cœurs que tu connais sont remplis de rayons !\nVerse-nous ton poison pour qu’il nous réconforte !\nNous voulons, tant ce feu nous brûle le cerveau,\nPlonger au fond du gouffre, Enfer ou Ciel, qu’importe ?\nAu fond de l’Inconnu pour trouver du nouveau !",
+    "original": "Si le ciel et la mer sont noirs comme de l’encre,\nNos cœurs que tu connais sont remplis de rayons !\nVerse-nous ton poison pour qu’il nous réconforte !\nNous voulons, tant ce feu nous brûle le cerveau,\nPlonger au fond du gouffre, Enfer ou Ciel, qu’importe ?\nAu fond de l’Inconnu pour trouver du nouveau !",
+    "length": 302,
+    "truncated": false
+  }
+}

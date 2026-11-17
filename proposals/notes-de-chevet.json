@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "notes-de-chevet",
+  "title": "Notes de chevet",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ja.wikisource.org",
+    "edition": "枕草紙 (國文大觀), 國文大觀 日記草子部, d'après Wikisource japonais",
+    "pages": [
+      {
+        "title": "枕草紙 (國文大觀)",
+        "revisionId": 240238
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "067e823bf8710d6a2279194622e2bba0de9be603a4da707fa11656c285811df6"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "Au printemps, l'aube. Peu à peu le sommet des monts blanchit, et de minces nuages teintés de pourpre s'étirent un peu éclairés. En été, la nuit. Au clair de lune, bien sûr, mais même dans l'obscurité, quand les lucioles volent en tous sens, et même quand tombe la pluie, c'est charmant. En automne, le crépuscule. Quand le soleil couchant jette ses rayons et que sa lumière touche presque le bord des montagnes, les corbeaux qui regagnent leur nid, trois, quatre, deux, trois, filent à tire-d'aile, et cela même émeut.",
+    "original": "春は曙、やうやう白くなりゆく山ぎはすこしあかりて紫だちたる雲の細くたなびきたる。夏はよる、月のころはさらなり、闇もなほ螢飛びちがひたる、雨などの降るさへをかし。秋は夕暮、夕日はなやかにさして、山ぎはいと近くなりたるに、鳥のねどころへゆくとて三つ四つ二つなど飛びゆくさへあはれなり。",
+    "length": 518,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00539.s6",
+      "p00539.s7",
+      "p00539.s8"
+    ],
+    "french": "…ce que le monde trouve charmant, ce que les gens jugent beau, poèmes, herbes, arbres, oiseaux, insectes. Si l'on s'était mis à choisir, on m'aurait reproché de laisser voir mes pensées, et plus mal encore que je n'imaginais. Je n'avais jamais cru que cela dût être lu par des gens du monde, ni qu'on en dirait du bien ; pourtant ceux qui le lisent disent que ce livre est « admirable », ce qui me paraît bien étrange. Certes, c'est naturel : trouver bon ce que les autres détestent, mauvais ce qu'ils louent, voilà bien ce qui révèle le cœur. Que d'autres l'aient vu, voilà ce qui m'est pénible.",
+    "original": "大かたこれは世の中にをかしき事を、人のめでたしなど思ふべき事、猶えり出でゝ歌などをも木草鳥蟲をもいひ出したらばこそ、思ふほどよりはわろし心見えなりともそしられめ、唯心ひとつにおのづから思ふことをたはぶれに書きつけたれば、物に立ちまじり、人なみなみなるべき耳をも聞くべきものかはと思ひしに、「はづかしき」なども見る人はのたまふなれば、いとあやしくぞあるや。げにそれもことわり、人のにくむをも善しといひ、譽むるをも惡しといふは、心のほどこそおしはからるれ。唯人に見えけむぞねたきや。",
+    "length": 595,
+    "truncated": true
+  }
+}

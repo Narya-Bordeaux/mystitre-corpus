@@ -1,0 +1,142 @@
+{
+ "formatVersion": 1,
+ "bookId": "zhuangzi",
+ "sourceLanguage": "zh",
+ "cleanTextSha256": "ec835efb78c250387224f98c4142ea8891da537068237e809cee495595e19512",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00001.s1",
+   "original": "北冥有魚，其名爲鯤。",
+   "translation": "Dans la mer du Nord vit un poisson nommé Kun."
+  },
+  {
+   "id": "p00001.s2",
+   "original": "鯤之大，不知其幾千里也，化而爲鳥，其名爲鵬。",
+   "translation": "Kun est si grand qu'on ne sait combien de milliers de li il mesure ; il se change en oiseau, nommé Peng."
+  },
+  {
+   "id": "p00001.s3",
+   "original": "鵬之背，不知其幾千里也，怒而飛，其翼若垂天之雲。",
+   "translation": "Le dos de Peng est si large qu'on ne sait combien de milliers de li il couvre ; quand il s'élance dans son vol, ses ailes sont comme des nuages qui pendent du ciel."
+  },
+  {
+   "id": "p00001.s4",
+   "original": "是鳥也，海運，則將徙於南冥。",
+   "translation": "Quand la mer se soulève, cet oiseau s'apprête à partir pour la mer du Sud."
+  },
+  {
+   "id": "p00001.s5",
+   "original": "南冥者，天池也。",
+   "translation": "La mer du Sud est le Lac du Ciel."
+  },
+  {
+   "id": "p00001.s6",
+   "original": "齊諧者，志怪者也。",
+   "translation": "Qi Xie est un homme qui consigne les choses étranges."
+  },
+  {
+   "id": "p00001.s7",
+   "original": "諧之言曰：「鵬之徙於南冥也，水擊三千里，摶扶搖而上者九萬里，去以六月息者也。」",
+   "translation": "Voici ce que dit Xie : « Quand Peng part pour la mer du Sud, il frappe l'eau sur trois mille li, s'élève en tourbillon à quatre-vingt-dix mille li, et part avec le souffle de six mois. »"
+  },
+  {
+   "id": "p00001.s8",
+   "original": "野馬也，塵埃也，生物之以息相吹也。",
+   "translation": "Ce sont des buées errantes, des poussières, des êtres vivants que leurs souffles se renvoient."
+  },
+  {
+   "id": "p00001.s9",
+   "original": "天之蒼蒼，其正色邪？",
+   "translation": "Le bleu du ciel, est-ce sa vraie couleur ?"
+  },
+  {
+   "id": "p00001.s10",
+   "original": "其遠而无所至極邪？",
+   "translation": "Ou n'est-ce que son éloignement sans terme ?"
+  },
+  {
+   "id": "p00001.s11",
+   "original": "其視下也，亦若是則已矣。",
+   "translation": "Vu d'en haut, ce doit être exactement pareil."
+  },
+  {
+   "id": "p00001.s12",
+   "original": "且夫水之積也不厚，則負大舟也无力。",
+   "translation": "Si l'eau amassée n'est pas profonde, elle n'a pas la force de porter un grand bateau."
+  },
+  {
+   "id": "p00001.s13",
+   "original": "覆杯水於坳堂之上，則芥爲之舟，置杯焉則膠，水淺而舟大也。",
+   "translation": "Versez une coupe d'eau dans un creux de la cour : un brin d'herbe y fera bateau ; posez-y la coupe, elle restera collée au fond, parce que l'eau est peu profonde et le bateau trop grand."
+  },
+  {
+   "id": "p00001.s14",
+   "original": "風之積也不厚，則其負大翼也无力，故九萬里，則風斯在下矣，而後乃今培風，背負青天，而莫之夭閼者，而後乃今將圖南。",
+   "translation": "De même, si le vent amassé n'est pas épais, il n'a pas la force de porter de grandes ailes ; aussi, à quatre-vingt-dix mille li, le vent est-il sous l'oiseau, et c'est alors seulement qu'il le chevauche, le dos chargé du ciel bleu, sans que rien l'arrête : alors seulement il vise le sud."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00019.s3",
+   "original": "然惠施之口談，自以爲最賢，曰：「天地其壯乎施！",
+   "translation": "Pourtant, dans ses discours, Hui Shi se jugeait le plus sage, et disait : « Le Ciel et la Terre sont-ils plus puissants que moi, Shi !"
+  },
+  {
+   "id": "p00019.s4",
+   "original": "存雄而无術！」",
+   "translation": "Je garde toute ma vigueur sans recourir à aucune méthode ! »"
+  },
+  {
+   "id": "p00020.s1",
+   "original": "南方有畸人焉，曰黃繚，問天地所以不墜不陷、風雨雷霆之故，惠施不辭而應，不慮而對。",
+   "translation": "Au sud vivait un homme singulier nommé Huang Liao, qui demanda pourquoi le Ciel et la Terre ne s'effondrent ni ne s'affaissent, et d'où viennent le vent, la pluie et le tonnerre ; Hui Shi répondit sans se dérober, sans même réfléchir."
+  },
+  {
+   "id": "p00020.s2",
+   "original": "徧爲萬物說，說而不休，多而无已，猶以爲寡，益之以怪。",
+   "translation": "Il discourut de tous les êtres sans s'arrêter, abondamment, sans fin, tenant encore cela pour peu et y ajoutant des étrangetés."
+  },
+  {
+   "id": "p00020.s3",
+   "original": "以反人爲實，而欲以勝人爲名，是以與衆不適也。",
+   "translation": "Prendre le contre-pied des autres pour sa vérité, et vouloir se faire un nom en les surpassant : voilà pourquoi il n'était d'accord avec personne."
+  },
+  {
+   "id": "p00020.s4",
+   "original": "弱於德，强於物，其塗隩矣。",
+   "translation": "Faible en vertu, fort sur les choses extérieures, son chemin était tortueux."
+  },
+  {
+   "id": "p00020.s5",
+   "original": "由天地之道，觀惠施之能，其猶一蚊一虻之勞者也，其於物也何庸？",
+   "translation": "À la lumière de la Voie du Ciel et de la Terre, le talent de Hui Shi n'était que l'agitation d'un moustique ou d'un taon : quelle utilité avait-il pour les êtres ?"
+  },
+  {
+   "id": "p00020.s6",
+   "original": "夫充一尚可，曰「愈貴道」，幾矣。",
+   "translation": "S'en tenir à l'Un eût encore été acceptable, et il disait : « Honorons davantage la Voie » : il n'en était pas loin."
+  },
+  {
+   "id": "p00020.s7",
+   "original": "惠施不能以此自寧，散於萬物而不厭，卒以善辯爲名。",
+   "translation": "Mais Hui Shi ne sut pas s'en contenter pour trouver la paix ; il se dispersa parmi tous les êtres sans jamais se lasser, et ne dut sa renommée qu'à son habileté de dialecticien."
+  },
+  {
+   "id": "p00020.s8",
+   "original": "惜乎，惠施之才！",
+   "translation": "Hélas, quel talent que celui de Hui Shi !"
+  },
+  {
+   "id": "p00020.s9",
+   "original": "駘蕩而不得，逐萬物而不反，是窮響以聲，形與影競走也。",
+   "translation": "Il se dissipait sans rien atteindre, poursuivait les êtres sans jamais revenir : c'était vouloir épuiser l'écho par la voix, faire courir le corps contre son ombre."
+  },
+  {
+   "id": "p00020.s10",
+   "original": "悲夫！",
+   "translation": "Quelle tristesse !"
+  }
+ ]
+}

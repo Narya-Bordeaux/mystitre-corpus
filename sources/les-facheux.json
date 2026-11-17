@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-facheux",
+  "title": "Les Fâcheux",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Fâcheux, Wikisource (page unique ; édition non indiquée)",
+  "pages": [
+    {
+      "title": "Les Fâcheux",
+      "revisionId": 6891728
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2ab83989ede2a92eea7c3b7833b4416a10eb6ed8ccf29952cbd7596d6778312f",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Prologue\nPour voir en ces beaux lieux le plus grand Roi du m"
+  },
+  "bodyEnd": {
+    "id": "p00072",
+    "textPrefix": "C’est elle qui vous donne Éraste pour époux.\nSon bras a repo"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Prologue de la Naïade gardé (partie de la pièce) ; exclus : titres d'acte et de scène. Noms de personnages laissés dans le texte (l'édition ne balise pas les locuteurs)."
+  ],
+  "titleMasks": [
+    "fâcheux"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "Prologue\n",
+      "replace": "",
+      "reason": "Intitulé « Prologue » collé au premier vers par la mise en page de l'édition"
+    }
+  ]
+}

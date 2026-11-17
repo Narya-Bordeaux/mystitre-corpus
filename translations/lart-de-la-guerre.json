@@ -1,0 +1,147 @@
+{
+ "formatVersion": 1,
+ "bookId": "lart-de-la-guerre",
+ "sourceLanguage": "zh",
+ "cleanTextSha256": "527f4569e2a03355a32c881912865505517e9063c34d2c7907e175463d378139",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00002.s1",
+   "original": "孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。",
+   "translation": "Sun Zi dit : la guerre est la grande affaire de l'État, le terrain de la vie et de la mort, la voie de la survie ou de la perte : on ne peut se dispenser de l'examiner."
+  },
+  {
+   "id": "p00002.s2",
+   "original": "故經之以五事，校之以計，而索其情：一曰道，二曰天，三曰地，四曰將，五曰法。",
+   "translation": "Aussi la règle-t-on selon cinq facteurs, on la mesure par des évaluations, et l'on en cherche la réalité : le premier est la Voie, le deuxième le Ciel, le troisième la Terre, le quatrième le général, le cinquième la règle."
+  },
+  {
+   "id": "p00003.s1",
+   "original": "道者，令民與上同意，可與之死，可與之生，而不畏危也。",
+   "translation": "La Voie, c'est ce qui met le peuple en accord avec son souverain, au point qu'il puisse mourir ou vivre avec lui sans craindre le danger."
+  },
+  {
+   "id": "p00003.s2",
+   "original": "天者，陰陽、寒暑、時制也。",
+   "translation": "Le Ciel, c'est le yin et le yang, le froid et le chaud, la succession des saisons."
+  },
+  {
+   "id": "p00003.s3",
+   "original": "地者，高下、遠近、險易、廣狹、死生也。",
+   "translation": "La Terre, c'est le haut et le bas, le lointain et le proche, le difficile et l'aisé, le large et l'étroit, le mortel et le salutaire."
+  },
+  {
+   "id": "p00003.s4",
+   "original": "將者，智、信、仁、勇、嚴也。",
+   "translation": "Le général, c'est la sagesse, la bonne foi, l'humanité, le courage, la rigueur."
+  },
+  {
+   "id": "p00003.s5",
+   "original": "法者，曲制、官道、主用也。",
+   "translation": "La règle, c'est l'organisation des troupes, la hiérarchie des charges, la gestion des moyens."
+  },
+  {
+   "id": "p00003.s6",
+   "original": "凡此五者，將莫不聞，知之者勝，不知者不勝。",
+   "translation": "Ces cinq facteurs, nul général qui ne les ait entendus ; qui les maîtrise vainc, qui ne les maîtrise pas ne vainc pas."
+  },
+  {
+   "id": "p00003.s7",
+   "original": "故校之以七計而索其情，曰：主孰有道？",
+   "translation": "Aussi les compare-t-on par sept évaluations pour en saisir la réalité, en demandant : lequel des deux souverains possède la Voie ?"
+  },
+  {
+   "id": "p00003.s8",
+   "original": "將孰有能？",
+   "translation": "Lequel des généraux est le plus capable ?"
+  },
+  {
+   "id": "p00003.s9",
+   "original": "天地孰得？",
+   "translation": "Qui a pour lui le Ciel et la Terre ?"
+  },
+  {
+   "id": "p00003.s10",
+   "original": "法令孰行？",
+   "translation": "Où les ordres sont-ils le mieux appliqués ?"
+  },
+  {
+   "id": "p00003.s11",
+   "original": "兵眾孰強？",
+   "translation": "Quelle armée est la plus forte ?"
+  },
+  {
+   "id": "p00003.s12",
+   "original": "士卒孰練？",
+   "translation": "Quels soldats sont les mieux entraînés ?"
+  },
+  {
+   "id": "p00003.s13",
+   "original": "賞罰孰明？",
+   "translation": "Où les récompenses et les châtiments sont-ils le plus clairs ?"
+  },
+  {
+   "id": "p00003.s14",
+   "original": "吾以此知勝負矣。",
+   "translation": "Par là je sais qui vaincra et qui sera vaincu."
+  },
+  {
+   "id": "p00004.s1",
+   "original": "將聽吾計，用之必勝，留之；將不聽吾計，用之必敗，去之。",
+   "translation": "Le général qui suit mes plans, employé, vaincra : qu'on le garde ; le général qui ne les suit pas, employé, sera vaincu : qu'on le renvoie."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00085.s2",
+   "original": "微哉！",
+   "translation": "Subtil !"
+  },
+  {
+   "id": "p00085.s3",
+   "original": "微哉！",
+   "translation": "Subtil !"
+  },
+  {
+   "id": "p00085.s4",
+   "original": "無所不用間也。",
+   "translation": "Il n'est rien où l'on ne puisse employer des espions."
+  },
+  {
+   "id": "p00085.s5",
+   "original": "間事未發而先聞者，間與所告者皆死。",
+   "translation": "Si une affaire d'espionnage est connue avant d'être engagée, l'espion et celui à qui il l'avait confiée sont tous deux mis à mort."
+  },
+  {
+   "id": "p00086.s1",
+   "original": "凡軍之所欲擊，城之所欲攻，人之所欲殺，必先知其守將、左右、謁者、門者、舍人之姓名，令吾間必索知之。",
+   "translation": "Quelle que soit l'armée que l'on veut frapper, la ville que l'on veut attaquer, l'homme que l'on veut tuer, il faut d'abord connaître les noms du général qui la défend, de ses aides, de ses introducteurs, de ses portiers et de ses gardes, et ordonner à nos espions de s'en informer à fond."
+  },
+  {
+   "id": "p00086.s2",
+   "original": "必索敵人之間來間我者，因而利之，導而舍之，故反間可得而用也；因是而知之，故鄉間、內間可得而使也；因是而知之，故死間為誑事，可使告敵；因是而知之，故生間可使如期。",
+   "translation": "Il faut rechercher les espions ennemis venus nous espionner, les gagner par des avantages, les attirer et les loger : ainsi l'on peut obtenir et utiliser des espions retournés ; par eux, l'on sait tout, et l'on peut employer les espions locaux et les espions infiltrés ; par eux, l'on sait tout, et l'on peut faire colporter à l'ennemi de fausses nouvelles par l'espion sacrifié ; par eux, l'on sait tout, et l'on peut faire revenir l'espion survivant au moment voulu."
+  },
+  {
+   "id": "p00086.s3",
+   "original": "五間之事，主必知之，知之必在於反間，故反間不可不厚也。",
+   "translation": "Le souverain doit connaître ces cinq sortes d'espionnage, et cette connaissance dépend des espions retournés : aussi doit-on les traiter généreusement."
+  },
+  {
+   "id": "p00087.s1",
+   "original": "昔殷之興也，伊摯在夏；周之興也，呂牙在殷。",
+   "translation": "Jadis, Yin prospéra parce que Yi Zhi était chez les Xia ; Zhou prospéra parce que Lü Ya était chez les Yin."
+  },
+  {
+   "id": "p00087.s2",
+   "original": "故明君賢將，能以上智為間者，必成大功。",
+   "translation": "Seuls le souverain éclairé et le général sage, qui savent employer les plus intelligents comme espions, accomplissent de grandes choses."
+  },
+  {
+   "id": "p00087.s3",
+   "original": "此兵之要，三軍之所恃而動也。",
+   "translation": "C'est l'essentiel de l'art de la guerre, ce sur quoi les armées comptent pour se mettre en mouvement."
+  }
+ ]
+}

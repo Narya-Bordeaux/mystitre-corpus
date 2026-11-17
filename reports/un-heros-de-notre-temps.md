@@ -1,0 +1,8 @@
+# Un héros de notre temps — compte rendu
+
+- **Source** : ru.wikisource, « Герой нашего времени (Лермонтов)/СО » (orthographe moderne), pages « Бэла » et « Фаталист » seulement (œuvre longue : deux bouts). Édition source non précisée par la page. Texte traduit par nos soins.
+- **Traduction française libre écartée** : fr.wikisource propose la traduction d'Albert de Villamarie (Stock, 1904), fidèle à l'original d'après la comparaison (début de Béla et fin du Fataliste identiques de contenu, mêmes personnages), mais 1904 dépasse la règle d'ancienneté et la page « Auteur:Albert de Villamarie » ne donne aucune date de décès : renoncement, traduction de l'original.
+- **Exclu** : préface de l'auteur (paratexte), intertitres, « Примечания ». Début à « Я ехал на перекладных из Тифлиса », fin à « …он вообще не любит метафизических прений ». Bornes p00002 → p00366.
+- **Extraits** : ouverture 317 caractères (3 phrases), clôture 344 caractères (5 phrases). Traductions : 7 et 8 phrases, « Claude (agent), traduction sur l'original, à relire ».
+- **Points douteux** : la fin du Fataliste est le dernier récit du recueil mais pas la fin chronologique de la vie de Petchorine (« Maxime Maximitch » et le « Journal de Petchorine » viennent entre Béla et Taman) ; la clôture reprend une phrase hors dialogue (« Зато уж шашки… ») et un tiret de réplique à l'intérieur d'une phrase, rendu par le tiret français. « Это штука довольно мудреная » rendu par « C'est une affaire assez compliquée ». Aucun masque nécessaire (le titre n'apparaît pas dans les extraits).
+- **Hésitation** : la consigne ne dit pas si le recueil compte sa préface comme début ; exclue comme paratexte.

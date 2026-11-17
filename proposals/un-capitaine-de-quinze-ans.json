@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "un-capitaine-de-quinze-ans",
+  "title": "Un capitaine de quinze ans",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Édition non indiquée (Wikisource, Un capitaine de quinze ans, chapitres I/1 et II/20)",
+    "pages": [
+      {
+        "title": "Un capitaine de quinze ans/I/1",
+        "revisionId": 14666733
+      },
+      {
+        "title": "Un capitaine de quinze ans/II/20",
+        "revisionId": 3302440
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "1ccf2a6f17a751b2309e7a792818b65e8af136c519a4616f0f3e87f36a96e178"
+  },
+  "titleMasks": [
+    "capitaine de quinze ans"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "Le 2 février 1873, le brick-goélette Pilgrim se trouvait par 43° 57′ de latitude sud, et par 165° 19′ de longitude ouest du méridien de Greenwich.\nCe bâtiment, de quatre cents tonneaux, armé à San-Francisco pour la grande pêche des mers australes, appartenait à James-W. Weldon, riche armateur californien, qui en avait confié, depuis plusieurs années, le commandement au capitaine Hull.",
+    "original": "Le 2 février 1873, le brick-goélette Pilgrim se trouvait par 43° 57′ de latitude sud, et par 165° 19′ de longitude ouest du méridien de Greenwich.\nCe bâtiment, de quatre cents tonneaux, armé à San-Francisco pour la grande pêche des mers australes, appartenait à James-W. Weldon, riche armateur californien, qui en avait confié, depuis plusieurs années, le commandement au capitaine Hull.",
+    "length": 387,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00084.s3",
+      "p00085.s1"
+    ],
+    "french": "Et, certes, c’était miracle que ces deux êtres seulement eussent succombé en de telles aventures !\nCe jour-là, cela va sans dire, il y eut fête dans la maison du négociant californien, et le meilleur toast, que tous acclamèrent, ce fut celui que porta Mrs Weldon à Dick Sand, « au [TITRE] ! »",
+    "original": "Et, certes, c’était miracle que ces deux êtres seulement eussent succombé en de telles aventures !\nCe jour-là, cela va sans dire, il y eut fête dans la maison du négociant californien, et le meilleur toast, que tous acclamèrent, ce fut celui que porta Mrs Weldon à Dick Sand, « au capitaine de quinze ans ! »",
+    "length": 308,
+    "truncated": false
+  }
+}

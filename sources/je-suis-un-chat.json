@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "je-suis-un-chat",
+  "title": "Je suis un chat",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "吾輩は猫である (ja.wikisource), texte complet en une page, kana modernes avec furigana ; édition source non indiquée",
+  "pages": [
+    {
+      "title": "吾輩は猫である",
+      "revisionId": 194372
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ff005c47d04095e4586678bf78d04591b49d865598b96536549d0158eb9f6629",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "　吾輩（わがはい）は猫である。名前はまだ無い。"
+  },
+  "bodyEnd": {
+    "id": "p02260",
+    "textPrefix": "　次第に楽になってくる。苦しいのだかありがたいのだか見当がつかない。水の中にいるのだか、座敷の上にいるのだか、判然しない"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : bandeau titre/auteur, notice bibliographique, liens (p1-4), intertitre « 一 », avis de domaine public final (p2261). Le texte court de « 吾輩は猫である。名前はまだ無い。» à la dernière phrase du chapitre XI."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

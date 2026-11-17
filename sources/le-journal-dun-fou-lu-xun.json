@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-journal-dun-fou-lu-xun",
+  "title": "Le Journal d'un fou",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Édition non indiquée (texte de la page « 狂人日記 » de zh.wikisource, signé « 一九一八年四月 »)",
+  "pages": [
+    {
+      "title": "狂人日記",
+      "revisionId": 2605391
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "15b0dbe09dff5de9ef684ecb74af056aed09451deb93deb9ac04125d6cb84e72",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "某君昆仲。今隱其名，皆余昔日在中學校時良友；分隔多年，消息漸闕。日前偶聞其一大病；適歸故鄕，迂道往訪，則僅晤一人，言病者"
+  },
+  "bodyEnd": {
+    "id": "p00090",
+    "textPrefix": "救救孩子……"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Préface en langue classique du narrateur fictif gardée (cadre fictif de l'œuvre). Exclus : date « 一九一八年四月 » et bandeaux de licence Wikisource. Chiffres de section (headings) hors corps."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "quatrevingt-treize",
+  "title": "Quatrevingt-treize",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Quatrevingt-treize, édition non indiquée (texte de la page Wikisource, révision figée)",
+  "pages": [
+    {
+      "title": "Quatrevingt-treize/I, 1",
+      "revisionId": 12546417
+    },
+    {
+      "title": "Quatrevingt-treize/III, 7",
+      "revisionId": 12564086
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "58ca38e290572d5634a18394e328643ceab1f8e025a5c4225263abf6480c8e2f",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Dans les derniers jours de mai 1793, un des bataillons paris"
+  },
+  "bodyEnd": {
+    "id": "p00623",
+    "textPrefix": "Et ces deux âmes, sœurs tragiques, s’envolèrent ensemble, l’"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Début : premier paragraphe du récit après le titre de livre ; fin : dernière phrase du roman (mort de Gauvain et Cimourdain). Titres de livre exclus."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

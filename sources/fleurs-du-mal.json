@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "fleurs-du-mal",
+  "title": "Les Fleurs du mal",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, « Les Fleurs du mal (1861) », page « Texte entier » (seconde édition, Paris, imprimerie Simon Raçon et Cie)",
+  "pages": [
+    {
+      "title": "Les Fleurs du mal (1861)/Texte entier",
+      "revisionId": 15069880
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "f0e7a1a4092b5b4ff67be0d672f642920d60354103b846f2d08c1062e7d2d404",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "La sottise, l’erreur, le péché, la lésine,\nOccupent nos espr"
+  },
+  "bodyEnd": {
+    "id": "p00493",
+    "textPrefix": "Verse-nous ton poison pour qu’il nous réconforte !\nNous voul"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, adresse de l'imprimeur, dédicace à Théophile Gautier, « FIN. » et table. Le corps commence au poème « Au lecteur » (ouverture) et finit à la dernière strophe du « Voyage »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

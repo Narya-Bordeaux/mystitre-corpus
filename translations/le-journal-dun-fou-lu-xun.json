@@ -1,0 +1,107 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-journal-dun-fou-lu-xun",
+  "sourceLanguage": "zh",
+  "cleanTextSha256": "15b0dbe09dff5de9ef684ecb74af056aed09451deb93deb9ac04125d6cb84e72",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "某君昆仲。",
+      "translation": "Deux frères, que je ne nommerai pas ici."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "今隱其名，皆余昔日在中學校時良友；分隔多年，消息漸闕。",
+      "translation": "J'ai tu leurs noms : ils furent jadis, au collège, de bons amis à moi ; puis nous nous sommes perdus de vue pendant de longues années, et les nouvelles se sont peu à peu raréfiées."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "日前偶聞其一大病；適歸故鄕，迂道往訪，則僅晤一人，言病者其弟也。",
+      "translation": "Il y a quelques jours, j'ai appris par hasard que l'un d'eux avait été gravement malade ; comme je rentrais au pays, j'ai fait un détour pour leur rendre visite, mais je n'ai trouvé qu'un seul des deux : il m'a dit que le malade était son cadet."
+    },
+    {
+      "id": "p00001.s4",
+      "original": "勞君遠道來視，然已早愈，赴某地候補矣。",
+      "translation": "« Vous vous êtes dérangé de loin pour venir le voir, mais il est guéri depuis longtemps ; il est parti attendre un poste dans telle province. »"
+    },
+    {
+      "id": "p00001.s5",
+      "original": "因大笑，出示日記二册，謂可見當日病狀，不妨獻諸舊友。",
+      "translation": "Sur ce, il s'est mis à rire aux éclats, et m'a montré deux cahiers de journal en disant qu'on y verrait l'état dans lequel était alors son frère, et qu'il n'y avait pas de mal à les confier à un vieil ami."
+    },
+    {
+      "id": "p00001.s6",
+      "original": "持歸閱一過，知所患蓋『迫害狂』之類。",
+      "translation": "Je les ai emportés, les ai lus d'un bout à l'autre, et j'ai compris qu'il s'agissait de ce qu'on appelle « la manie de la persécution »."
+    },
+    {
+      "id": "p00001.s7",
+      "original": "語頗錯雜無倫次，又多荒唐之言；亦不著月日，惟墨色字體不一，知非一時所書。",
+      "translation": "Les propos en sont fort confus et sans ordre, et pleins d'extravagances ; aucune date n'y figure, et l'encre comme l'écriture varient, ce qui montre que ces pages n'ont pas été écrites en une seule fois."
+    },
+    {
+      "id": "p00001.s8",
+      "original": "間亦有略具聯絡者，今撮錄一篇，以供醫家硏究，記中語誤，一字不易；惟人名雖皆村人，不爲世間所知，無關大體，亦悉易去。",
+      "translation": "Il s'y trouve pourtant çà et là quelques passages assez suivis : j'en copie ici un, à l'usage des médecins qui voudraient l'étudier ; je n'ai pas changé un seul caractère aux propos fautifs, mais les noms de personnes, bien qu'ils soient tous de villageois inconnus du monde et sans importance, ont été entièrement remplacés."
+    },
+    {
+      "id": "p00001.s9",
+      "original": "至於書名，則本人愈後所題，不復改也。",
+      "translation": "Quant au titre, c'est celui que l'auteur lui-même a choisi après sa guérison, et je ne l'ai pas modifié."
+    },
+    {
+      "id": "p00001.s10",
+      "original": "七年四月二日識。",
+      "translation": "Écrit le deuxième jour du quatrième mois de la septième année."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00082.s2",
+      "original": "記得我四五歲時，坐在堂前乘涼，大哥說爺娘生病，做兒子的須割下一片肉來，煑熟了請他喫，纔算好人；母親也沒說不行。",
+      "translation": "Je me souviens que, lorsque j'avais quatre ou cinq ans, assis dans la cour devant la salle pour prendre le frais, mon grand frère dit que, quand les parents sont malades, un fils doit couper un morceau de sa propre chair, le faire bouillir et le leur donner à manger, pour être tenu pour un homme de bien ; et ma mère ne dit pas non."
+    },
+    {
+      "id": "p00082.s3",
+      "original": "一片喫得，整個的自然也喫得。",
+      "translation": "Si l'on peut manger un morceau, on peut naturellement manger le tout."
+    },
+    {
+      "id": "p00082.s4",
+      "original": "但是那天的哭法，現在想起來，實在還教人傷心，這眞是奇極的事！",
+      "translation": "Mais la façon dont elle pleura ce jour-là, quand j'y repense aujourd'hui, me serre encore le cœur : c'est vraiment chose bien étrange !"
+    },
+    {
+      "id": "p00084.s1",
+      "original": "不能想了。",
+      "translation": "Je ne peux plus y penser."
+    },
+    {
+      "id": "p00085.s1",
+      "original": "四千年來時時喫人的地方，今天纔明白，我也在其中混了多年；大哥正管着家務，妹子恰恰死了，他未必不和在飯菜裏，暗暗給我們喫。",
+      "translation": "Un lieu où, depuis quatre mille ans, on mange des hommes à tout moment — c'est seulement aujourd'hui que je comprends que j'y ai vécu moi aussi bien des années ; mon grand frère gérait alors la maison, et ma sœur venait de mourir : il n'aurait pas manqué de la mêler aux plats, en cachette, pour nous la faire manger."
+    },
+    {
+      "id": "p00086.s1",
+      "original": "我未必無意之中，不喫了我妹子的幾片肉，現在也輪到我自己，……",
+      "translation": "Peut-être, sans le savoir, ai-je mangé moi aussi quelques morceaux de la chair de ma sœur, et maintenant c'est mon tour…"
+    },
+    {
+      "id": "p00087.s1",
+      "original": "有了四千年喫人履歷的我，當初雖然不知道，現在明白，難見眞的人！",
+      "translation": "Moi qui ai quatre mille ans d'histoire de mangeur d'hommes, je ne le savais pas au début ; maintenant je comprends : il est difficile de rencontrer un vrai homme !"
+    },
+    {
+      "id": "p00089.s1",
+      "original": "沒有喫過人的孩子，或者還有？",
+      "translation": "Y a-t-il peut-être encore des enfants qui n'ont pas mangé d'homme ?"
+    },
+    {
+      "id": "p00090.s1",
+      "original": "救救孩子……",
+      "translation": "Sauvez les enfants…"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "formatVersion": 1,
+  "bookId": "confessions-rousseau",
+  "title": "Les Confessions",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Confessions (Wikisource, page « Les Confessions (Rousseau) », livres I et XII ; édition non indiquée)",
+    "pages": [
+      {
+        "title": "Les Confessions (Rousseau)/Livre I",
+        "revisionId": 12221798
+      },
+      {
+        "title": "Les Confessions (Rousseau)/Livre XII",
+        "revisionId": 12247454
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "64fa1a4f94b2f3f5011640a72eb59eec36e201ebf427a1965407283ab4f40a11"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "e forme une entreprise",
+      "replace": "Je forme une entreprise",
+      "reason": "Lettrine en image absente de la numérisation : le « J » initial manque (« e forme » pour « Je forme »)."
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2",
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "Je forme une entreprise qui n’eut jamais d’exemple, et dont l’exécution n’aura point d’imitateur. Je veux montrer à mes semblables un homme dans toute la vérité de la nature, et cet homme, ce sera moi.\nMoi seul. Je sens mon cœur, et je connais les hommes. Je ne suis fait comme aucun de ceux que j’ai vus ; j’ose croire n’être fait comme aucun de ceux qui existent.",
+    "original": "Je forme une entreprise qui n’eut jamais d’exemple, et dont l’exécution n’aura point d’imitateur. Je veux montrer à mes semblables un homme dans toute la vérité de la nature, et cet homme, ce sera moi.\nMoi seul. Je sens mon cœur, et je connais les hommes. Je ne suis fait comme aucun de ceux que j’ai vus ; j’ose croire n’être fait comme aucun de ceux qui existent.",
+    "length": 365,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00234.s2",
+      "p00235.s1",
+      "p00235.s2",
+      "p00235.s3"
+    ],
+    "french": "Pour moi, je le déclare hautement et sans crainte : quiconque, même sans avoir lu mes écrits, examinera par ses propres yeux mon naturel, mon caractère, mes mœurs, mes penchants, mes plaisirs, mes habitudes, et pourra me croire un malhonnête homme, est lui-même un homme à étouffer.\nJ’achevai ainsi ma lecture, et tout le monde se tut. Madame d’Egmont fut la seule qui me parut émue : elle tressaillit visiblement, mais elle se remit bien vite et garda le silence, ainsi que toute la compagnie. Tel fut le fruit que je tirai de cette lecture et de ma déclaration.",
+    "original": "Pour moi, je le déclare hautement et sans crainte : quiconque, même sans avoir lu mes écrits, examinera par ses propres yeux mon naturel, mon caractère, mes mœurs, mes penchants, mes plaisirs, mes habitudes, et pourra me croire un malhonnête homme, est lui-même un homme à étouffer.\nJ’achevai ainsi ma lecture, et tout le monde se tut. Madame d’Egmont fut la seule qui me parut émue : elle tressaillit visiblement, mais elle se remit bien vite et garda le silence, ainsi que toute la compagnie. Tel fut le fruit que je tirai de cette lecture et de ma déclaration.",
+    "length": 563,
+    "truncated": false
+  }
+}

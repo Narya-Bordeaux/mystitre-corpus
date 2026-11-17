@@ -1,0 +1,333 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-bas-fonds",
+  "title": "Les Bas-fonds",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "На дне, texte russe en orthographe moderne (М.: Художественная литература, 1986), tel que donné par ru.wikisource",
+  "pages": [
+    {
+      "title": "На дне (Горький)/ИС 1986",
+      "revisionId": 5351132
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2bbab5e8bc71689ae47c6c9b0a59ba785dcccee8ad06e8402b4e97abd436e675",
+  "bodyStart": {
+    "id": "p00024",
+    "textPrefix": "Барон. Дальше!"
+  },
+  "bodyEnd": {
+    "id": "p01346",
+    "textPrefix": "Сатин (негромко). Эх... испортил песню... дур-рак!"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, dédicace, liste des personnages, titre d'acte, didascalie d'ouverture du décor (p00022-p00023), « Занавес » et la date « 1902 ». Le corps commence sur la première réplique (Барон), la dernière est celle de Сатин."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00024",
+      "find": "Барон. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00024",
+      "name": "БАРОН",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00025",
+      "find": "Квашня. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00025",
+      "name": "КВАШНЯ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00026",
+      "find": "Бубнов (Сатину).",
+      "replace": "(Сатину).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00026",
+      "name": "БУБНОВ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00028",
+      "find": "Квашня. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00028",
+      "name": "КВАШНЯ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01338",
+      "find": "Сатин. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01338",
+      "name": "САТИН",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01339",
+      "find": "Татарин (улыбаясь).",
+      "replace": "(улыбаясь).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01339",
+      "name": "ТАТАРИН",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01340",
+      "find": "Бубнов. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01340",
+      "name": "БУБНОВ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01341",
+      "find": "Кривой Зоб (запевает).",
+      "replace": "(запевает).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01341",
+      "name": "КРИВОЙ ЗОБ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01342",
+      "find": "Бубнов (подхватывая).",
+      "replace": "(подхватывая).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01342",
+      "name": "БУБНОВ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01344",
+      "find": "Барон (стоя на пороге, кричит).",
+      "replace": "(стоя на пороге, кричит).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01344",
+      "name": "БАРОН",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01346",
+      "find": "Сатин (негромко).",
+      "replace": "(негромко).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01346",
+      "name": "САТИН",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00029",
+      "find": "Клещ. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00029",
+      "name": "КЛЕЩ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00030",
+      "find": "Квашня. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00030",
+      "name": "КВАШНЯ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00031",
+      "find": "Клещ. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00031",
+      "name": "КЛЕЩ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00032",
+      "find": "Барон (выхватив у Насти книжку, читает название).",
+      "replace": "(выхватив у Насти книжку, читает название).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00032",
+      "name": "БАРОН",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00033",
+      "find": "Настя (протягивая руку).",
+      "replace": "(протягивая руку).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00033",
+      "name": "НАСТЯ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01336",
+      "find": "Кривой Зоб. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01336",
+      "name": "КРИВОЙ ЗОБ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01337",
+      "find": "Алёшка. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p01337",
+      "name": "АЛЁШКА",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00035",
+      "find": "Квашня (Клещу).",
+      "replace": "(Клещу).",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00035",
+      "name": "КВАШНЯ",
+      "reason": "Édition sans balisage des personnages : le nom du locuteur est écrit en tête de réplique ; on le retire (la didascalie entre parenthèses est conservée) et on le déclare comme locuteur."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00026",
+      "find": "(Сатину). ",
+      "replace": "",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00027",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01344",
+      "find": "(стоя на пороге, кричит). ",
+      "replace": "",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p01345",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01346",
+      "find": "(негромко). ",
+      "replace": "",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01341",
+      "find": "(запевает). ",
+      "replace": "",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p01342",
+      "find": "(подхватывая). ",
+      "replace": "",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p01343",
+      "reason": "Didascalie (indication de jeu) retirée du texte lu"
+    }
+  ]
+}

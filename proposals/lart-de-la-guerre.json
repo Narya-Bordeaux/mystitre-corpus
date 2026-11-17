@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "lart-de-la-guerre",
+  "title": "L'Art de la guerre",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "édition non indiquée (page « 孫子兵法 » de la Wikisource en chinois)",
+    "pages": [
+      {
+        "title": "孫子兵法",
+        "revisionId": 12193261
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "527f4569e2a03355a32c881912865505517e9063c34d2c7907e175463d378139"
+  },
+  "titleMasks": [
+    "art de la guerre"
+  ],
+  "authorMasks": [
+    "Sun Zi",
+    "Sunzi"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "[AUTEUR] dit : la guerre est la grande affaire de l'État, le terrain de la vie et de la mort, la voie de la survie ou de la perte : on ne peut se dispenser de l'examiner. Aussi la règle-t-on selon cinq facteurs, on la mesure par des évaluations, et l'on en cherche la réalité : le premier est la Voie, le deuxième le Ciel, le troisième la Terre, le quatrième le général, le cinquième la règle.",
+    "original": "孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。故經之以五事，校之以計，而索其情：一曰道，二曰天，三曰地，四曰將，五曰法。",
+    "length": 391,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00087.s1",
+      "p00087.s2",
+      "p00087.s3"
+    ],
+    "french": "Jadis, Yin prospéra parce que Yi Zhi était chez les Xia ; Zhou prospéra parce que Lü Ya était chez les Yin. Seuls le souverain éclairé et le général sage, qui savent employer les plus intelligents comme espions, accomplissent de grandes choses. C'est l'essentiel de l'[TITRE], ce sur quoi les armées comptent pour se mettre en mouvement.",
+    "original": "昔殷之興也，伊摯在夏；周之興也，呂牙在殷。故明君賢將，能以上智為間者，必成大功。此兵之要，三軍之所恃而動也。",
+    "length": 346,
+    "truncated": false
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contes-de-canterbury",
+  "title": "Les Contes de Canterbury",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "The Canterbury Tales (unsourced), en.wikisource, pages « General Prologue » et « Chaucer's Retraction » (moyen anglais) ; édition non indiquée",
+    "pages": [
+      {
+        "title": "The Canterbury Tales (unsourced)/General Prologue",
+        "revisionId": 12962446
+      },
+      {
+        "title": "The Canterbury Tales (unsourced)/Chaucer's Retraction",
+        "revisionId": 9753408
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d3e627702b5f5a563b1466d482046e2211f28f093d79d95eeba090b05a9fe7f7"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "breeth5",
+      "replace": "breeth",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "yë10",
+      "replace": "yë",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "ende15",
+      "replace": "ende",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "lay20",
+      "replace": "lay",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "yfalle25",
+      "replace": "yfalle",
+      "reason": "Numéro de vers de l'édition collé au mot, non texte de l'œuvre"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1"
+    ],
+    "french": "Quand avril, avec ses douces ondées,\nA percé jusqu'à la racine la sécheresse de mars\nEt baigné chaque veine d'une telle liqueur\nDont la vertu engendre la fleur ;\nQuand Zéphyr aussi, de son souffle suave,\nA ranimé dans chaque bois et sur chaque lande\nLes tendres pousses, et que le jeune soleil\nDans le Bélier a couru la moitié de sa course,\nEt que les petits oiseaux font mélodie,\nEux qui dorment toute la nuit les yeux ouverts\n(Ainsi la Nature les excite en leur cœur),\nAlors les gens aspirent à partir en pèlerinage,\nEt les pèlerins à chercher des rivages étrangers,\nVers des sanctuaires lointains…",
+    "original": "Whan that Aprill, with his shoures soote\nThe droghte of March hath perced to the roote\nAnd bathed every veyne in swich licour,\nOf which vertu engendred is the flour;\nWhan Zephirus eek with his sweete breeth\nInspired hath in every holt and heeth\nThe tendre croppes, and the yonge sonne\nHath in the Ram his halfe cours yronne,\nAnd smale foweles maken melodye,\nThat slepen al the nyght with open yë\n(So priketh hem Nature in hir corages);\nThanne longen folk to goon on pilgrimages\nAnd palmeres for to seken straunge strondes\nTo ferne halwes, kowthe in sondry londes;\nAnd specially from every shires ende\nOf Engelond, to Caunterbury they wende,\nThe hooly blisful martir for to seke\nThat hem hath holpen, whan that they were seeke.",
+    "length": 599,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00004.s7",
+      "p00004.s8",
+      "p00004.s9"
+    ],
+    "french": "…et sa bienheureuse mère, et tous les saints du ciel, les suppliant de m'envoyer désormais, jusqu'à la fin de ma vie, la grâce de pleurer mes péchés et de travailler au salut de mon âme, et de m'accorder la grâce d'une vraie pénitence, de la confession et de la satisfaction à accomplir en cette vie présente, par la grâce bénigne de celui qui est roi des rois et prêtre au-dessus de tous les prêtres, qui nous a rachetés par le précieux sang de son cœur, afin que je sois l'un de ceux qui seront sauvés au jour du jugement. Qui cum patre et spiritu sancto vivit et regnat deus per omnia secula. Amen.",
+    "original": "That thanke I oure lord Jhesu Crist and his blisful mooder, and alle the seintes of hevene, bisekynge hem that they from hennes forth unto my lyves ende sende me grace to biwayle my giltes, and to studie to the salvacioun of my soule, and graunte me grace of verray penitence, confessioun and satisfaccioun to doon in this present lyf, thurgh the benigne grace of hym that is kyng of kynges and preest over alle preestes, that boghte us with the precious blood of his herte; so that is may been oon of hem at the day of doom that shulle be saved. Qui cum patre et spiritu sancto vivit et regnat deus per omnia secula. Amen.",
+    "length": 600,
+    "truncated": true
+  }
+}

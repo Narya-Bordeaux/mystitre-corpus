@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "splendeurs-et-miseres-des-courtisanes",
+  "title": "Splendeurs et misères des courtisanes",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, pages « Première partie » et « Quatrième partie » de Splendeurs et misères des courtisanes (édition non indiquée en en-tête)",
+  "pages": [
+    {
+      "title": "Splendeurs et misères des courtisanes/Première partie",
+      "revisionId": 4388849
+    },
+    {
+      "title": "Splendeurs et misères des courtisanes/Quatrième partie",
+      "revisionId": 4398267
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6532bff86c59d852745e148365c26ec3aa76d2de33b13df34274b23cc4d71e9e",
+  "bodyStart": {
+    "id": "p00008",
+    "textPrefix": "En 1824, au dernier bal de l’Opéra, plusieurs masques furent"
+  },
+  "bodyEnd": {
+    "id": "p02018",
+    "textPrefix": "Après avoir exercé ses fonctions pendant environ quinze ans,"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, dédicace au prince Porcia (datée août 1838) et date finale « Décembre 1847 »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

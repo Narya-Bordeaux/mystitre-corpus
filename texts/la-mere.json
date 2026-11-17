@@ -1,0 +1,960 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-mere",
+  "sha256": "e6ff763478db1fc40b46745b15ab9417c6e7c6e9609e83727f78302e00b41b69",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "I"
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Tous les jours, dans l’atmosphère enfumée et grave du faubourg ouvrier, la sirène de la fabrique jetait son cri strident. Alors, des gens maussades, aux muscles encore las, sortaient rapidement des petites maisons grises et couraient comme des blattes effrayées. Dans le froid demi-jour, ils s’en allaient par la rue étroite vers les hautes murailles de la fabrique qui les attendait avec certitude et dont les innombrables yeux carrés, jaunes et visqueux, éclairaient la chaussée boueuse. La fange claquait sous les pieds. Des voix endormies résonnaient en rauques exclamations, des injures déchiraient l’air ; et une onde de bruits sourds accueillait les ouvriers : le lourd tapage des machines, le grognement de la vapeur. Sombres et rébarbatives comme des sentinelles, les hautes cheminées noires se profilaient au-dessus du faubourg, pareilles à de grosses cannes."
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Le soir, quand le soleil se couchait, et que ses rayons rouges brillaient aux vitres des maisons, l’usine vomissait de ses entrailles de pierre toutes les scories humaines, et les ouvriers, noircis par la fumée, se répandaient de nouveau dans la rue, laissant derrière eux des exhalaisons moites de graisse de machines ; leurs dents affamées étincelaient. Maintenant, il y avait dans leur voix de l’animation et même de la joie : les travaux forcés étaient finis pour quelques heures ; à la maison les attendaient le souper et le repos."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "La fabrique engloutissait la journée, les machines suçaient dans les muscles des hommes toutes les forces dont elles avaient besoin. La journée était rayée de la vie sans laisser de traces ; sans s’en apercevoir, l’homme avait fait un pas de plus vers sa tombe ; mais il pouvait se livrer à la jouissance du repos, aux plaisirs du cabaret sordide, et il était satisfait."
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Les jours de fête, on dormait jusque vers dix heures du matin ; puis les gens sérieux et mariés revêtaient leurs meilleurs habits et s’en allaient à la messe, reprochant aux jeunes gens leur indifférence en matière religieuse. Au retour de l’église, on mangeait des pâtés, ensuite on se couchait de nouveau jusqu’au soir."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "La fatigue amassée pendant de longues années enlevait l’appétit ; afin de pouvoir manger, il fallait boire beaucoup, exciter l’estomac indolent par les brûlures aiguës de l’alcool."
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Le soir venu, on se promenait paresseusement dans les rues ; ceux qui possédaient des caoutchoucs les mettaient lors même qu’il faisait sec ; ceux qui avaient un parapluie le prenaient, même par un beau soleil. Il n’est pas donné à tout le monde d’avoir des caoutchoucs et un parapluie, mais chacun désire surpasser son voisin, d’une manière ou de l’autre."
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Quand on se rencontrait, on s’entretenait de la fabrique, des machines, on invectivait les contremaîtres. Les paroles et les pensées ne se rapportaient qu’à des choses liées au travail. L’intelligence malhabile et impuissante ne jetait que de solitaires étincelles, qu’une faible lueur dans la monotonie des jours. En rentrant, les maris cherchaient querelle aux femmes et les battaient souvent, sans épargner leurs forces. Les jeunes gens restaient au cabaret ou organisaient de petites soirées chez l’un ou chez l’autre, jouaient de l’accordéon, chantaient des chansons stupides et ignobles, dansaient, se racontaient des histoires obscènes et buvaient avec excès. Exténués par le travail, ces hommes s’enivraient facilement et dans chaque poitrine se développait une surexcitation maladive, incompréhensible, qui voulait une issue. Alors, pour n’importe quel prétexte, ils s’attaquaient mutuellement avec une irritation de fauves. Il se produisait des rixes sanglantes."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Dans les relations des ouvriers entre eux, ce même sentiment d’animosité aux aguets dominait ; il était aussi invétéré que la fatigue des muscles. Ces êtres naissaient avec cette maladie de l’âme, héritage de leurs pères ; et comme une ombre noire, elle les accompagnait jusqu’au tombeau, les poussant à accomplir des actes hideux par leur cruauté inutile."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Les jours de fête, les jeunes gens rentraient tard, les vêtements en lambeaux, couverts de boue et de poussière ; les visages meurtris, ils se vantaient des coups qu’ils avaient portés à leurs camarades ; les injures subies les courrouçaient ou les faisaient pleurer, ils étaient pitoyables et ivres, malheureux et répugnants. Parfois, c’étaient les parents qui ramenaient à la maison leurs fils qu’ils avaient trouvés ivres-morts dans la rue ou au cabaret ; les injures et les coups pleuvaient sur les enfants abrutis ou excités par l’eau-de-vie ; puis on les mettait au lit avec plus ou moins de précaution et, le matin, on les réveillait dès que le rugissement de la sirène fendait l’air."
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Bien qu’on injuriât les enfants et qu’on les frappât, leur ivrognerie et leurs rixes semblaient choses naturelles aux parents ; quand les pères étaient jeunes, ils avaient bu et s’étaient battus aussi ; et leurs pères et mères les avaient corrigés également. La vie avait toujours été pareille ; elle s’écoulait on ne sait où, régulière et lente comme un fleuve fangeux."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Parfois, apparaissaient dans le faubourg des étrangers qui, d’abord, attiraient l’attention, tout simplement parce qu’ils étaient inconnus ; mais bientôt on s’habituait à eux et ils passaient inaperçus. Il ressortait de leurs récits que partout la vie de l’ouvrier est la même. Et du moment qu’il en était ainsi, à quoi bon en parler ?"
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Il s’en trouvait cependant qui disaient des choses encore nouvelles pour le faubourg. On ne discutait pas avec eux ; on ne prêtait qu’une attention incrédule à leurs paroles bizarres, qui excitaient chez les uns une irritation aveugle, chez les autres une sorte d’inquiétude, tandis que d’autres encore se sentaient troublés par un vague espoir et se mettaient à boire encore plus que de coutume pour chasser cette émotion."
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Si l’étranger manifestait quelque trait extraordinaire, les habitants du faubourg lui en tenaient longtemps rigueur et le traitaient avec une répulsion instinctive, comme s’ils craignaient de le voir apporter dans leur existence quelque chose qui en troublerait le cours pénible, mais calme. Accoutumés à être opprimés par la vie, ces gens considéraient toutes les transformations possibles comme propres seulement à rendre leur joug encore plus lourd."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Résignés, ils faisaient le vide autour de ceux qui prononçaient des paroles étranges. Alors ceux-ci disparaissaient on ne sait où ; s’ils restaient à la fabrique, ils vivaient à l’écart, n’arrivant pas à se fondre dans la foule uniforme des ouvriers."
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Après avoir vécu ainsi une cinquantaine d’années, l’homme mourait."
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "XXIX"
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Dans la rue, l’air sec et glacial enveloppait le corps, prenait à la gorge, picotait les narines, et on suffoquait à le respirer. Tout à coup, la mère s’arrêta et regarda autour d’elle : tout près, au coin de la rue, il y avait un cocher coiffé d’une casquette poilue ; plus loin, un homme marchait le dos voûté, la tête dans les épaules ; un soldat courait et bondissait en se frottant les oreilles."
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "« On l’aura envoyé acheter quelque chose à la boutique ! » pensa-t-elle ; elle écouta avec satisfaction le bruit sonore et jeune de la neige qui grinçait sous ses pas ; elle fut bientôt à la gare ; le train n’était pas encore formé ; cependant, il y avait déjà beaucoup de monde dans la salle d’attente de troisième classe, enfumée et crasseuse. Le froid avait chassé là les ouvriers du chemin de fer ; des cochers et des individus mal vêtus, sans feu ni lieu y venaient aussi se chauffer. Il y avait également des voyageurs : quelques paysans, un gros marchand en pelisse de genette, un prêtre avec sa fille au visage pâle, cinq ou six soldats, des bourgeois affairés. On fumait, on parlait, on buvait de l’eau-de-vie ou du thé. Près du buffet, quelqu’un riait avec éclat ; des nuages de fumée planaient au-dessus des têtes. La porte grinçait en s’ouvrant et quand on la fermait avec fracas les vitres tremblaient et résonnaient. Une odeur de tabac et de poisson salé frappait violemment les narines."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "La mère s’assit près de la porte, bien en évidence, et attendit. Quand quelqu’un entrait, une bouffée d’air froid soufflait sur elle ; la sensation était agréable ; elle respirait alors à pleins poumons. Des gens lourdement vêtus, chargés de paquets, apparaissaient ; ils s’accrochaient à la porte avec maladresse, juraient, jetaient leur fardeau à terre ou sur un banc, puis enlevaient le givre du col de leur pardessus et de leurs manches, essuyaient leur barbe ou leur moustache en grommelant…"
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Un jeune homme, qui portait une valise jaune, entra et, promenant autour de lui un coup d’œil rapide, se dirigea droit vers la mère :"
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— À Moscou ? demanda-t-il à mi-voix."
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Oui ! chez Tania !"
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Voilà !"
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Il plaça la valise sur le banc à côté d’elle, tira une cigarette de sa poche, l’alluma rapidement et sortit par une autre porte après avoir légèrement soulevé sa casquette. La mère caressa de la main le cuir froid de la valise et s’y appuya ; satisfaite, elle se mit à examiner le public. Un instant après, elle se leva et s’assit sur un autre banc, plus près de la sortie. Elle portait la valise avec aisance ; la tête haute, elle regardait les visages qui passaient sous ses yeux."
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Un homme, vêtu d’un paletot court, la tête enfouie dans son col relevé, la heurta et s’écarta sans mot dire, portant la main à sa casquette. Il sembla à la mère qu’elle l’avait déjà vu, elle se retourna : il l’observait d’un œil. Cet œil clair transperça Pélaguée et fit trembler la main qui tenait la valise, comme si son fardeau se fût alourdi brusquement."
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Où l’ai-je vu ? se demanda-t-elle pour chasser la sensation désagréable qui montait dans sa poitrine puis à sa gorge, lui remplissant la bouche d’une amertume sèche. Une envie irrésistible de se retourner et de regarder encore une fois saisit la mère : l’homme était toujours à la même place ; il se tenait tantôt sur un pied, tantôt sur l’autre, et semblait indécis. Il avait passé la main droite entre les boutons de son pardessus ; l’autre était dans sa poche, ce qui faisait paraître son épaule droite plus haute que la gauche…"
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Sans se hâter, Pélaguée s’approcha d’un banc, s’assit lentement, avec précaution, comme si elle eût craint de déchirer quelque chose en elle. Mise en éveil par un pressentiment aigu de malheur, sa mémoire lui présenta deux clichés de cet homme : le premier datait du jour de l’évasion de Rybine, l’autre, de la veille. Au tribunal, elle avait vu à côté de cet individu l’agent de police auquel elle avait donné de fausses indications au sujet du chemin que Rybine avait pris. On la connaissait, on la surveillait, c’était certain !"
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Suis-je prise ? se demanda-t-elle. Et elle se répondit en tressaillant : — Peut-être y a-t-il encore… Non, je suis prise, il n’y a rien à faire…"
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Elle regarda autour d’elle et ne vit rien de suspect. L’une après l’autre, comme des étincelles, des idées s’enflammaient et s’éteignaient dans son cerveau."
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Laisser la valise ?… m’en aller ?"
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mais aussitôt une autre étincelle brilla, plus vive :"
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— La parole de mon fils… la jeter ! Dans des mains pareilles !"
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Elle serra la valise contre elle."
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Si je la prenais !… Si je courais !…"
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ses pensées lui paraissaient étrangères ; il lui semblait que quelqu’un les lui introduisait de force dans le cerveau. C’étaient comme des brûlures qui rongeaient douloureusement sa tête et son cœur, l’éloignant d’elle-même, de Pavel, de tout ce qui s’était déjà confondu avec son cœur. Elle sentait qu’une force hostile l’oppressait avec obstination, accablait ses épaules et sa poitrine, l’abaissait en la plongeant dans une terreur froide. Les veines de ses tempes se gonflèrent, une chaleur monta à la racine de ses cheveux."
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Alors, d’un seul effort vigoureux qui la souleva tout entière, elle éteignit en elle toutes ces lueurs faibles, lâches et rusées, en se disant avec autorité : — Ne fais pas honte à ton fils !"
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ses yeux rencontrèrent un regard timide et désolé. L’image de Rybine passa dans sa mémoire. Ces quelques instants d’hésitation semblaient avoir tout raffermi en elle. Son cœur battit plus régulièrement."
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Que va-t-il arriver ? se demanda-t-elle en regardant autour d’elle."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "L’espion avait appelé un garde ; il lui chuchotait quelque chose en la désignant d’un coup d’œil. Le garde examina la mère et recula. Un autre garde s’approcha, prêtant l’oreille à la conversation. C’était un vieillard robuste à cheveux gris ; il portait toute la barbe. Il fit un signe de tête à l’espion et s’avança vers le banc sur lequel la mère était assise ; l’espion disparut soudain."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Le vieillard marchait sans se hâter, en scrutant attentivement de ses yeux irrités le visage de Pélaguée. Elle recula tout au fond du banc."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Pourvu qu’on ne me batte pas !… pourvu qu’on ne me batte pas !…"
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Il s’arrêta près d’elle et, après un silence, demanda d’une voix sévère :"
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Que regardes-tu ?"
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Rien…"
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— C’est bon… voleuse ! Tu es déjà vieille et tu fais ce métier-là !…"
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Il sembla à la mère que ces paroles la souffletaient. Irritées et rauques, elles faisaient mal, comme si elles eussent déchiré les joues, arraché les yeux…"
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Moi ? Une voleuse ? Tu mens ! cria-t-elle de toute la force de ses poumons."
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tout ce qui l’entourait se mit à chanceler dans le tourbillon de son indignation ; son cœur était étourdi par l’amertume de l’injure. Elle saisit la valise qui s’ouvrit."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Regarde ! Regardez tous ! s’écria-t-elle en se levant et en agitant au-dessus de sa tête un paquet de proclamations. À travers le bourdonnement de ses oreilles, elle entendait les exclamations des gens qui accouraient de tous côtés."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Qu’y a-t-il ?"
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Voilà l’agent de la police secrète…"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Qu’est-ce que c’est ?"
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— On dit qu’elle a volé…"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Cette femme-là ?"
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Et elle crie…"
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Aïe ! aïe ! Elle a l’air si respectable !"
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Qui a-t-on arrêté ?"
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Je ne suis pas une voleuse ! répéta la mère à pleine voix et en se calmant peu à peu à la vue des curieux qui l’entouraient d’un cercle compact."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Hier, on a condamné des prisonniers politiques… mon fils était du nombre… C’est Vlassov. Il a prononcé un discours ; le voilà ! J’allais le porter aux gens pour qu’ils le lisent et réfléchissent à la vérité…"
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Quelqu’un ayant tiré avec précaution un des feuillets qu’elle tenait à la main, elle agita les autres et les lança dans la foule."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Il n’y a pas de risque qu’on te fasse des compliments pour les avoir distribués ! s’écria une voix craintive."
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Gare ! que va-t-il arriver ! reprit une autre voix."
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Pélaguée voyait qu’on s’emparait des papiers, qu’on les cachait dans les poches, dans les poitrines. Elle reprit de nouveau courage. Elle prenait des liasses de feuillets dans la valise et les lançait à droite et à gauche, dans les mains avides et prestes."
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Savez-vous pourquoi on a condamné mon fils et tous ceux qui étaient avec lui ? Je vous le dirai ! Croyez-en mon cœur de mère ! Hier on a condamné des gens parce qu’ils vous apportaient à tous la vérité sainte ! Hier j’ai appris que cette vérité avait triomphé… personne ne peut lutter avec elle, personne !"
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "La foule, qui gardait un silence étonné, devenait de plus en plus dense, entourant la mère d’un anneau de corps vivants."
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— La pauvreté, la faim et la maladie, voilà ce que le travail nous donne ! Tout est contre nous. De jour en jour nous crevons de travail, nous souffrons de la faim et du froid, toujours dans la boue et dans la tromperie ; et ce sont d’autres qui se gavent et se divertissent au prix de notre labeur !… Comme des chiens à l’attache, on nous retient dans l’ignorance ; nous ne savons rien, et dans notre poltronnerie, nous avons peur de tout ! Notre vie, c’est une nuit, une nuit sombre ! C’est un affreux cauchemar. N’est-ce pas vrai ?"
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Oui ! répondirent sourdement quelques voix."
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Ferme-lui la bouche !"
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "La mère aperçut derrière la foule l’espion accompagné de deux gendarmes ; elle se hâta de distribuer les derniers paquets ; mais quand sa main arriva à la valise elle sentit le contact d’une autre main."
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Prenez tout, prenez tout ! dit-elle en se penchant. Pour transformer cette vie, pour délivrer tous les hommes, pour les ressusciter d’entre les morts, comme moi, j’ai ressuscité, il est venu des gens, des enfants de Dieu qui sèment dans la vie la sainte vérité. Ils agissent en secret, car, vous le savez bien, personne ne peut dire la vérité sans être poursuivi, étranglé, jeté en prison, mutilé. La vérité de la vie et la liberté sont des ennemis à jamais irréconciliables de ceux qui nous gouvernent, de ceux qui nous oppriment. Ce sont des enfants, ce sont des êtres purs et lumineux qui vous apportent la vérité. Grâce à eux, elle viendra, dans notre pénible existence, elle nous réchauffera et nous animera ; elle nous délivrera de l’oppression des autorités et de tous ceux qui leur ont vendu leur âme ! Croyez-le !"
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Bravo, la vieille ! cria-t-on."
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Quelqu’un se mit à rire."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Dispersez-vous, hurlèrent les gendarmes, en écartant brutalement la foule. Les groupes reculaient en maugréant, emprisonnant les gendarmes de leur masse et les gênant, sans le vouloir, peut-être. Cette femme aux cheveux gris, au regard franc et à l’air de bonté, les attirait ; détachés les uns des autres, isolés par la vie, ils se confondaient maintenant en un tout, réchauffés par l’ardeur de cette parole que beaucoup attendaient sans doute depuis longtemps. Ceux qui étaient le plus près de la mère restaient silencieux. Pélaguée voyait leurs regards attentifs fixés sur elle et sentait leur souffle tiède sur sa figure."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Monte sur le banc ! lui cria-t-on."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Va-t’en, la vieille !"
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— On va te pendre !"
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Ah ! quelle insolente !"
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Parle vite ! ils viennent !"
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Faites place ! Circulez ! criaient les gendarmes, qui approchaient."
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Maintenant nombreux, ils écartaient la foule avec plus de violence encore ; les gens, bousculés, s’accrochaient les uns aux autres. Il semblait à la mère qu’il y avait un bouillonnement autour d’elle, que cette foule était prête à la comprendre et à la croire. Elle aurait voulu dire à la hâte tout ce qu’elle savait, toutes les pensées puissantes qui montaient harmonieusement, sans effort, du tréfonds de son cœur ; mais la voix lui manquait, il ne s’échappait de sa poitrine que des sons rauques, déchirés, tremblants."
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— La parole de mon fils, c’est la parole pure d’un fils du peuple, d’une âme intègre ! Vous reconnaîtrez les gens intègres à leur audace ; ils sont intrépides et se sacrifient à la vérité, quand elle l’exige !"
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Des yeux juvéniles la regardaient à la fois avec enthousiasme et terreur…"
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Elle reçut un coup dans la poitrine ; chancela et tomba sur le banc. Au-dessus des têtes s’agitaient les mains des gendarmes, qui empoignaient les assistants par la nuque ou les épaules, les jetaient de côté, arrachaient les casquettes et les lançaient au loin. Les choses noircirent et vacillèrent autour de Pélaguée, mais elle domina sa fatigue et se servit encore du peu de voix qui lui restait."
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Peuple, rassemble tes forces en une force une !"
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "La grande main rouge d’un gendarme s’abattit sur son cou et la secoua."
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Tais-toi !"
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "De la nuque, elle vint frapper le mur ; pendant un instant, son cœur fut enveloppé d’une buée de terreur brûlante, mais cette vapeur se dissipa aussitôt sous l’ardeur de la flamme intérieure."
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Marche ! dit le gendarme."
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— … N’ayez peur de rien ! Il n’y a pas de souffrance pire que celle que vous éprouvez toute votre vie…"
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Tais-toi ! te dis-je, cria le gendarme en la prenant par le bras et en la tirant en avant."
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Un second gendarme s’empara de son autre bras."
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— … Il n’y a pas de souffrance plus amère que celle qui, jour après jour, dévore le cœur et dessèche la poitrine…"
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "L’espion se précipita au-devant d’elle et brandissant son poing devant le visage de la mère, cria d’une voix aiguë :"
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Tais-toi, canaille !"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Les yeux de Pélaguée s’élargirent et étincelèrent ; sa mâchoire trembla. Collant ses pieds à la dalle glissante, elle cria :"
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— On ne tue pas une âme ressuscitée."
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Chienne !"
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "D’un court élan, l’espion la frappa au visage."
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— C’est bien fait pour cette vieille charogne ! cria une voix."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Quelque chose de noir et de rouge aveugla un instant la mère ; la saveur salée du sang lui remplit la bouche."
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Une explosion d’exclamations la ranima :"
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Vous n’avez pas le droit de frapper !"
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Camarades !"
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Qu’est-ce que cela ?"
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Ah ! coquin !"
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Donne-lui en !"
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— … Ce n’est pas avec du sang qu’on noie la raison !…"
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "On la poussait dans le dos, dans le cou, on la frappait à la tête, à la poitrine ; tout vacillait et s’évanouissait dans le sombre tourbillon des cris, des hurlements, des coups de sifflets. Quelque chose d’épais et d’assourdissant pénétrait dans ses oreilles, remplissait sa gorge et l’étouffait. Le sol s’effondrait sous ses jambes qui ployaient, son corps frémissait sous les brûlures de la douleur ; alourdie, affaiblie, la mère chancelait. Mais elle apercevait autour d’elle des yeux nombreux brillant du feu hardi qu’elle connaissait bien et qui était cher à son cœur."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "On la poussa vers la porte."
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Elle dégagea une de ses mains, et s’accrocha au montant."
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— … On n’éteindra pas la vérité même sous des mers de sang…"
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "On la frappa à la main."
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— … Vous n’amasserez que de la rancune, fous que vous êtes ! et cette rancune, cette haine vous submergera !…"
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Le gendarme la saisit à la gorge d’une étreinte toujours plus violente."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Elle râla :"
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "— Les malheureux…"
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Quelqu’un lui répondit par un sanglot prolongé."
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "FIN"
+      ]
+    }
+  ]
+}

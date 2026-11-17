@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-entretiens",
+  "title": "Les Entretiens",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "zh",
+    "translator": "Séraphin Couvreur",
+    "translationYear": 1895,
+    "translatorDeathYear": 1919,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Séraphin_Couvreur&oldid=12680598",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Séraphin Couvreur, 1895)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Quatre Livres, traduction de Séraphin Couvreur, Ho Kien Fou, 1895 (livre « Entretiens de Confucius » de la Wikisource en français) ; seuls le premier et le dernier livre sont enregistrés",
+    "pages": [
+      {
+        "title": "Les Quatre livres/Entretiens de Confucius/01",
+        "revisionId": 4134756
+      },
+      {
+        "title": "Les Quatre livres/Entretiens de Confucius/20",
+        "revisionId": 4136053
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "dd91734875e5a294b38d780ed89bde8691f9fbce73c1680cefa6c946f8db10fc"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "1. Le Maître dit",
+      "replace": "Le Maître dit",
+      "reason": "Numéro de paragraphe de l'édition (« 1. »), qui n'est pas du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00025",
+      "find": "3. Le Maître dit",
+      "replace": "Le Maître dit",
+      "reason": "Numéro de paragraphe de l'édition (« 3. »), qui n'est pas du texte lu"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Le Maître dit : « Celui qui cultive la sagesse et ne cesse de la cultiver n’y trouve-t-il pas de la satisfaction ? Si des amis de la sagesse viennent de loin recevoir ses leçons, n’éprouve-t-il pas une grande joie ? S’il reste inconnu des hommes et n’en ressent aucune peine, n’est il pas un vrai sage ? »",
+    "original": "Le Maître dit : « Celui qui cultive la sagesse et ne cesse de la cultiver n’y trouve-t-il pas de la satisfaction ? Si des amis de la sagesse viennent de loin recevoir ses leçons, n’éprouve-t-il pas une grande joie ? S’il reste inconnu des hommes et n’en ressent aucune peine, n’est il pas un vrai sage ? »",
+    "length": 305,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00025.s1",
+      "p00025.s2",
+      "p00025.s3"
+    ],
+    "french": "Le Maître dit : « Celui qui ne connaît pas la volonté du Ciel (la loi naturelle) ne sera jamais un sage. Celui qui ne connaît pas les règles et les usages ne sera pas constant dans sa conduite. Celui qui ne sait pas discerner le vrai du faux dans les discours des hommes ne peut connaître les hommes. »",
+    "original": "Le Maître dit : « Celui qui ne connaît pas la volonté du Ciel (la loi naturelle) ne sera jamais un sage. Celui qui ne connaît pas les règles et les usages ne sera pas constant dans sa conduite. Celui qui ne sait pas discerner le vrai du faux dans les discours des hommes ne peut connaître les hommes. »",
+    "length": 302,
+    "truncated": false
+  }
+}

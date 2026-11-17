@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "cromwell",
+  "title": "Cromwell",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "édition non indiquée (page Wikisource « Cromwell », préface comprise)",
+  "pages": [
+    {
+      "title": "Cromwell",
+      "revisionId": 13425968
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "3296709ef6eb01d3158a23215df7424432548ca85dec7a29e123f8fec2c0d22a",
+  "bodyStart": {
+    "id": "p00176",
+    "textPrefix": "lord broghill."
+  },
+  "bodyEnd": {
+    "id": "p09192",
+    "textPrefix": "Quand donc serai-je roi ?"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : préface de 1827 (même écrite par l'auteur), liste des personnages, titre d'acte, lieu, décor, didascalie d'entrée des premiers personnages. Le corps commence sur le nom du premier personnage (lord Broghill) et finit sur la dernière réplique de Cromwell."
+  ],
+  "titleMasks": [
+    "Cromwell",
+    "CROMWELL"
+  ],
+  "readingOptions": [
+    "centeredSpeakers"
+  ],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00177",
+      "reason": "didascalie d'entrée non balisée (italique perdu), qui ouvrirait l'extrait sans locuteur ; ce n'est pas du texte dit"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00179",
+      "reason": "didascalie non balisée (italique perdu) au milieu d'une réplique, sans locuteur"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00178",
+      "name": "LORD BROGHILL",
+      "reason": "le nom du locuteur précède une didascalie exclue et n'a pas été rattaché à la réplique"
+    }
+  ]
+}

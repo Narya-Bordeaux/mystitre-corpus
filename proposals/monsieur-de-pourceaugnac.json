@@ -1,0 +1,64 @@
+{
+  "formatVersion": 1,
+  "bookId": "monsieur-de-pourceaugnac",
+  "title": "Monsieur de Pourceaugnac",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Monsieur de Pourceaugnac, Œuvres complètes de Molière, édition Louandre, 1910 (fr.wikisource)",
+    "pages": [
+      {
+        "title": "Monsieur de Pourceaugnac/Édition Louandre, 1910",
+        "revisionId": 12958436
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "01ff5f1f65b9bc0f5f6cc69198b9f384ffdd66d9ada71147e0dee39be9fb3962"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00062",
+      "reason": "Didascalie en prose entre parenthèses (résumé de la sérénade), pas du texte dit"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00889",
+      "reason": "Fragment de didascalie (« , en pantalon. ») resté en prose, pas du texte dit"
+    }
+  ],
+  "reviewFlags": [
+    "p00062 exclu, SANS doublon ailleurs dans l'œuvre : « (Cette sérénade est composée de chant, d’instruments et de danse. Les paroles qui s’y chantent ont rapport à la situatio… »",
+    "p00889 exclu, SANS doublon ailleurs dans l'œuvre : « , en pantalon. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00059.s1",
+      "p00059.s2",
+      "p00063.s1"
+    ],
+    "french": "ÉRASTE. — Suivez les ordres que je vous ai donnés pour la sérénade. Pour moi, je me retire, et ne veux point paroître ici.\nUNE MUSICIENNE. — Répands, charmante nuit, répands sur tous les yeux\nDe tes pavots la douce violence ;\nEt ne laisse veiller en ces aimables lieux\nQue les cœurs que l’amour soumet à sa puissance.",
+    "original": "ÉRASTE. — Suivez les ordres que je vous ai donnés pour la sérénade. Pour moi, je me retire, et ne veux point paroître ici.\nUNE MUSICIENNE. — Répands, charmante nuit, répands sur tous les yeux\nDe tes pavots la douce violence ;\nEt ne laisse veiller en ces aimables lieux\nQue les cœurs que l’amour soumet à sa puissance.",
+    "length": 317,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00887.s1",
+      "p00888.s1",
+      "p00890.s1",
+      "p00891.s1"
+    ],
+    "french": "TOUS LES DEUX ENSEMBLES. — Soyons toujours amoureux,\nC’est le moyen d’être heureux.\nLE CHŒUR. — Sus, sus, chantons ensemble ;\nDansons, sautons, jouons-nous.\nUN MASQUE. — Lorsque pour rire on s’assemble,\nLes plus sages, ce me semble,\nSont ceux qui sont les plus fous.\nTOUS ENSEMBLE. — Ne songeons qu’à nous réjouir :\nLa grande affaire est le plaisir.",
+    "original": "TOUS LES DEUX ENSEMBLES. — Soyons toujours amoureux,\nC’est le moyen d’être heureux.\nLE CHŒUR. — Sus, sus, chantons ensemble ;\nDansons, sautons, jouons-nous.\nUN MASQUE. — Lorsque pour rire on s’assemble,\nLes plus sages, ce me semble,\nSont ceux qui sont les plus fous.\nTOUS ENSEMBLE. — Ne songeons qu’à nous réjouir :\nLa grande affaire est le plaisir.",
+    "length": 349,
+    "truncated": false
+  }
+}

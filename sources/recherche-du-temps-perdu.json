@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "recherche-du-temps-perdu",
+  "title": "À la recherche du temps perdu",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource : « Du côté de chez Swann/Partie 1 » (début) et « Le Temps retrouvé/III » (fin) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "Du côté de chez Swann/Partie 1",
+      "revisionId": 4966056
+    },
+    {
+      "title": "Le Temps retrouvé/III",
+      "revisionId": 4873511
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "35f822500e2b97cf789cff7d52ecad68407d510619fe24830ff52aaa03c08498",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Longtemps, je me suis couché de bonne heure. Parfois, à pein"
+  },
+  "bodyEnd": {
+    "id": "p00545",
+    "textPrefix": "Je venais de comprendre pourquoi le duc de Guermantes, dont "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intitulés de partie et de chapitre. Début : première phrase de Du côté de chez Swann ; fin : dernier paragraphe du Temps retrouvé (dernière phrase de l'œuvre)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

@@ -1,0 +1,6726 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-medecin-malgre-lui",
+  "sha256": "ba61526f819458744fcf381c10690d737b5e9e4ce709866a489d1933b9407b3d",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "ACTE I"
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Le théâtre représente une forêt"
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène I"
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Sganarelle, Martine, paraissent sur le théâtre en se querellant."
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Non, je te dis que je n’en veux rien faire, et que c’est à moi de parler et d’être le maître."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et je te dis, moi, que je veux que tu vives à ma fantaisie, et que je ne me suis point mariée avec toi pour souffrir tes fredaines !"
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oh ! la grande fatigue que d’avoir une femme ! et qu’Aristote a bien raison, quand il dit qu’une femme est pire qu’un démon !"
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Voyez un peu l’habile homme, avec son benêt d’Aristote."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui, habile homme. Trouve-moi un faiseur de fagots qui sache comme moi raisonner des choses, qui ait servi six ans un fameux médecin, et qui ait su dans son jeune âge son rudiment par cœur."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Peste du fou fieffé !"
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Peste de la carogne !"
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Que maudits soient l’heure et le jour où je m’avisai d’aller dire oui !"
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que maudit soit le bec cornu de notaire qui me fit signer ma ruine !"
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "C’est bien à toi, vraiment, à te plaindre de cette affaire ! Devrais-tu être un seul moment sans rendre grâces au ciel de m’avoir pour ta femme ? et méritais-tu d’épouser une femme comme moi ?"
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il est vrai que tu me fis trop d’honneur, et que j’eus lieu de me louer la première nuit de mes noces ! Hé ! morbleu ! ne me fais point parler là-dessus : je dirais de certaines choses…"
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Quoi ? que dirais-tu ?"
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Baste, laissons là ce chapitre. Il suffit que nous savons ce que nous savons, et que tu fus bien heureuse de me trouver."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Qu’appelles-tu bien heureuse de te trouver ? Un homme qui me réduit à l’hôpital, un débauché, un traître, qui me mange tout ce que j’ai !…"
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tu as menti : j’en bois une partie."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Qui me vend, pièce à pièce, tout ce qui est dans le logis !…"
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est vivre de ménage."
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Qui m’a ôté jusqu’au lit que j’avais !…"
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tu t’en lèveras plus matin."
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Enfin qui ne laisse aucun meuble dans toute la maison…"
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "On en déménage plus aisément."
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et qui, du matin jusqu’au soir, ne fait que jouer et que boire !"
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est pour ne me point ennuyer."
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et que veux-tu, pendant ce temps, que je fasse avec ma famille ?"
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tout ce qu’il te plaira."
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "J’ai quatre pauvres petits enfants sur les bras…"
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mets-les à terre."
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Qui me demandent à toute heure du pain."
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Donne-leur le fouet : quand j’ai bien bu et bien mangé, je veux que tout le monde soit soûl dans ma maison."
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et tu prétends, ivrogne, que les choses aillent toujours de même ?"
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma femme, allons tout doucement, s’il vous plaît."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Que j’endure éternellement tes insolences et tes débauches ?"
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ne nous emportons point, ma femme."
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et que je ne sache pas trouver le moyen de te ranger à ton devoir ?"
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma femme, vous savez que je n’ai pas l’ame endurante, et que j’ai le bras assez bon."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Je me moque de tes menaces."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma petite femme, ma mie, votre peau vous démange, à votre ordinaire."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Je te montrerai bien que je ne te crains nullement."
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma chère moitié, vous avez envie de me dérober quelque chose."
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Crois-tu que je m’épouvante de tes paroles ?"
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Doux objet de mes vœux, je vous frotterai les oreilles."
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Ivrogne que tu es !"
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous battrai."
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Sac à vin !"
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous rosserai."
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Infâme !"
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous étrillerai."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Traître ! insolent ! trompeur ! lâche ! coquin ! pendard ! gueux ! belître ! fripon ! maraud ! voleur ! …"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! vous en voulez donc !"
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Sganarelle prend un bâton et bat sa femme"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", criant"
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Ah ! ah ! ah ! ah !"
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voilà le vrai moyen de vous apaiser."
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène 2"
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "M. Robert, Sganarelle, Martine"
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Holà ! holà ! holà ! Fi ! Qu’est ceci ? Quelle infamie ! Peste soit le coquin, de battre ainsi sa femme !"
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", les mains sur les côtés, parle à M. Robert en le faisant reculer, et à la fin lui donne un soufflet."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et je veux qu’il me batte, moi."
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Ah ! j’y consens de tout mon cœur."
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "De quoi vous mêlez-vous ?"
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "J’ai tort."
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Est-ce là votre affaire ?"
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Vous avez raison."
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Voyez un peu cet impertinent, qui veut empêcher les maris de battre leurs femmes !"
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Je me rétracte."
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Qu’avez-vous à voir là-dessus ?"
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Rien."
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Est-ce à vous d’y mettre le nez ?"
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Mêlez-vous de vos affaires."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Je ne dis plus mot."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Il me plaît d’être battue."
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "D’accord."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Ce n’est pas à vos dépens"
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Il est vrai."
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Et vous êtes un sot de venir vous fourrer où vous n’avez que faire."
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "(Il passe ensuite vers Sganarelle, qui pareillement lui parle toujours en le faisant reculer, le frappe avec le même bâton et le met en fuite.)"
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Compère, je vous demande pardon de tout mon cœur. Faites, rossez, battez comme il faut votre femme ; je vous aiderai si vous le voulez."
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il ne me plaît pas, moi."
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Ah ! c’est une autre chose."
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je la veux battre, si je le veux ; et ne la veux pas battre, si je ne le veux pas."
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Fort bien."
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est ma femme et non pas la vôtre."
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Sans doute."
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous n’avez rien à me commander."
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "D’accord."
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je n’ai que faire de votre aide."
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MONSIEUR ROBERT",
+      "lines": [
+        "Très volontiers."
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Et vous êtes un impertinent de vous ingérer des affaires d’autrui. Apprenez que Cicéron dit qu’entre l’arbre et le doigt il ne faut point mettre l’écorce."
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Il le chasse ; ensuite il revient vers sa femme et lui dit en lui pressant la main.)"
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène 3"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Sganarelle, Martine."
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oh çà ! faisons la paix nous deux. Touche là."
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Oui, après m’avoir ainsi battue !"
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Cela n’est rien. Touche."
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Je ne veux pas."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Hé ?"
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma petite femme !"
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Point."
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Allons, te dis-je."
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Je n’en ferai rien."
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Viens, viens, viens."
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Non ; je veux être en colère."
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Fi ! c’est une bagatelle. Allons, allons."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Laisse-moi là."
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Touche, te dis-je."
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Tu m’as trop maltraitée."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Hé bien ! va, je te demande pardon ; mets là ta main."
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Je te pardonne ; (bas, à part.) mais tu le paieras."
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tu es une folle de prendre garde à cela : ce sont petites choses qui sont de temps en temps nécessaires dans l’amitié ; et cinq ou six coups de bâton, entre gens qui s’aiment, ne font que ragaillardir l’affection. Va, je m’en vais au bois, et je te promets aujourd’hui plus d’un cent de fagots."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène 4"
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Martine, seule."
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Va, quelque mine que je fasse, je n’oublierai pas mon ressentiment ; et je brûle en moi-même de trouver les moyens de te punir des coups que tu m’as donnés. Je sais bien qu’une femme a toujours dans les mains de quoi se venger d’un mari : mais c’est une punition trop délicate pour mon pendard : je veux une vengeance qui se fasse un peu mieux sentir ; et ce n’est pas contentement pour l’injure que j’ai reçue."
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène 5"
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Valère, Lucas, Martine"
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Valère, sans voir Martine."
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Parguienne ! j’avons pris là tous deux une guèble de commission ; et je ne sais pas, moi, ce que je pensons attraper."
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Lucas, sans voir Martine."
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Que veux-tu, mon pauvre nourricier ? il faut bien obéir à notre maître : et puis, nous avons intérêt, l’un et l’autre, à la santé de sa fille, notre maîtresse ; et sans doute son mariage, différé par sa maladie, nous vaudra quelque récompense. Horace, qui est libéral, a bonne part aux prétentions qu’on peut avoir sur sa personne ; et quoiqu’elle ait fait voir de l’amitié pour un certain Léandre, tu sais bien que son père n’a jamais voulu consentir à le recevoir pour son gendre."
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", rêvant à part, se croyant seule."
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Ne puis-je point trouver quelque invention pour me venger ?"
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Valère."
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Mais quelle fantaisie s’est-il boutée là dans la tête, puisque les médecins y avont tous pardu leur latin ?"
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Lucas."
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "On trouve quelquefois, à force de chercher, ce qu’on ne trouve pas d’abord ; et souvent en de simples lieux…"
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se croyant toujours seule."
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Oui, il faut que je me venge à quelque prix que ce soit. Ces coups de bâton me reviennent au cœur, je ne les saurois digérer ; et… (Elle dit tout ceci en rêvant, de sorte que, ne prenant pas garde à ces deux hommes, elle les heurte en se retournant, et leur dit :) Ah ! messieurs, je vous demande pardon ; je ne vous voyois pas, et cherchois dans ma tête quelque chose qui m’embarrasse,"
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Chacun a ses soins dans le monde, et nous cherchons aussi ce que nous voudrions bien trouver."
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Seroit-ce quelque chose où je vous puisse aider ?"
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Cela se pourroit faire ; et nous tâchons de rencontrer quelque habile homme, quelque médecin particulier qui pût donner quelque soulagement à la fille de notre maître, attaquée d’une maladie qui lui a ôté tout d’un coup l’usage de la langue. Plusieurs médecins ont déjà épuisé toute leur science après elle : mais on trouve parfois des gens avec des secrets admirables, de certains remèdes particuliers, qui font le plus souvent ce que les autres n’ont su faire ; et c’est là ce que nous cherchons."
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à part."
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Ah ! que le ciel m’inspire une admirable invention pour me venger de mon pendard ! (haut.) Vous ne pouviez jamais vous mieux adresser pour rencontrer ce que vous cherchez ; et nous avons un homme, le plus merveilleux homme du monde pour les maladies désespérées."
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Hé ! de grâce, où pouvons-nous le rencontrer ?"
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Vous le trouverez maintenant vers ce petit lieu que voilà, qui s’amuse à couper du bois."
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Un médecin qui coupe du bois !"
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Qui s’amuse à cueillir des simples, voulez-vous dire ?"
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Non ; c’est un homme extraordinaire qui se plaît à cela, fantasque, bizarre, quinteux, et que vous ne prendriez jamais pour ce qu’il est. Il va vêtu d’une façon extravagante, affecte quelquefois de paroître ignorant, tient sa science renfermée, et ne fuit rien tant tous les jours que d’exercer les merveilleux talents qu’il a eus du ciel pour la médecine."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "C’est une chose admirable que tous les grands hommes ont toujours du caprice, quelque petit grain de folie mêlé à leur science."
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "La folie de celui-ci est plus grande qu’on ne peut croire, car elle va parfois jusqu’à vouloir être battu pour demeurer d’accord de sa capacité ; et je vous donne avis que vous n’en viendrez pas à bout, qu’il n’avouera jamais qu’il est médecin, s’il se le met en fantaisie, que vous ne preniez chacun en bâton, et ne le réduisiez, à force de coups, à vous confesser à la fin ce qu’il vous cachera d’abord. C’est ainsi que nous en usons quand nous avons besoin de lui."
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Voilà une étrange folie !"
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Il est vrai ; mais, après cela, vous verrez qu’il fait des merveilles."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Comment s’appelle-t-il ?"
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Il s’appelle Sganarelle. Mais il est aisé à connoître : c’est un homme qui a une large barbe noire, et qui porte une fraise, avec un habit jaune et vert."
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Un habit jaune et vart ! C’est donc le médecin des parroquets ?"
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Mais est-il bien vrai qu’il soit si habile que vous le dites ?"
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Comment ! c’est un homme qui fait des miracles. Il y a six mois qu’une femme fut abandonnée de tous les autres médecins ; on la tenoit morte il y avoit déjà six heures, et l’on se disposoit à l’ensevelir, lorsqu’on y fit venir de force l’homme dont nous parlons. Il lui mit, l’ayant vue, une petite goutte de je ne sais quoi dans la bouche ; et, dans le même instant, elle se leva de son lit, et se mit aussitôt à promener dans sa chambre comme si de rien n’eût été."
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Ah !"
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Il falloit que ce fût quelque goutte d’or potable."
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Cela pourroit bien être. Il n’y a pas trois semaines encore qu’un jeune enfant de douze ans tomba du haut du clocher en bas, et se brisa sur le pavé la tête, les bras, et les jambes. On n’y eut pas plus tôt amené notre homme, qu’il le frotta par tout le corps d’un certain onguent qu’il sait faire ; et l’enfant aussitôt se leva sur ses pieds, et courut jouer à la fossette."
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Ah !"
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Il faut que cet homme-là ait la médecine universelle."
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Qui en doute ?"
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Téligué ! v’là justement l’homme qu’il nous faut. Allons vite le charcher."
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Nous vous remercions du plaisir que vous nous faites."
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Mais souvenez-vous bien au moins de l’avertissement que je vous ai donné."
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Hé ! morguenne ! laissez-nous faire : s’il ne tient qu’à battre, la vache est à nous."
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Lucas."
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Nous sommes bien heureux d’avoir fait cette rencontre ; et j’en conçois, pour moi, la meilleure espérance du monde."
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène 6"
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Sganarelle, Valère, Lucas"
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", chantant derrière le théâtre."
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "La, la, la …"
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "J’entends quelqu’un qui chante, et qui coupe du bois."
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", entrant sur le théâtre, avec une bouteille à la main, sans apercevoir Valère ni Lucas."
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "La, la, la … Ma foi, c’est assez travaille pour boire un coup. Prenons un peu d’haleine. (Après avoir bu.) Voilà du bois qui est salé comme tous les diables"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Il chante.)"
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Qu’ils sont doux,",
+        "Bouteille jolie,",
+        "Qu’ils sont doux",
+        "Vos petits glouglous !",
+        "Mais mon sort feroit bien des jaloux,",
+        "Si vous étiez toujours remplie.",
+        "Ah ! bouteille, ma mie,",
+        "Pourquoi vous videz-vous ?"
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Allons, morbleu ! il ne faut point engendrer de mélancolie."
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à Lucas."
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Le voilà lui-même."
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à Valère."
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Je pense que vous dites vrai, et que j’avons bouté le nez dessus."
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Voyons de près."
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", embrassant sa bouteille."
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! petite friponne ! que je t’aime, mon petit bouchon ! (Il chante. Apercevant Valère et Lucas qui l’examinent, il baisse la voix.)"
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mais mon sort… feroit… bien des… jaloux, Si… (Voyant qu’on l’examine de plus près.)"
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que diable ! à qui en veulent ces gens-là ?"
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Lucas."
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "C’est lui assurément."
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Valère."
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Le v’là tout craché comme on nous l’a défiguré."
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Ici il pose sa bouteille à terre, et, Valère se baissant pour le saluer comme il croit que c’est à dessein de la prendre, il la met de l’autre côté, ensuite de quoi, Lucas faisant la même chose, il la reprend et la tient contre son estomac, avec divers gestes qui font un grand jeu de théâtre.)"
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ils consultent en me regardant. Quel dessein auroient-ils ?"
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, n’est-ce pas vous qui vous appelez Sganarelle ?"
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Hé ! quoi ?"
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Je vous demande si ce n’est pas vous qui se nomme Sganarelle."
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se tournant vers Valère, puis vers Lucas."
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui et non, selon ce que vous lui voulez."
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Nous ne voulons que lui faire toutes les civilités que nous pourrons."
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "En ce cas, c’est moi qui se nomme Sganarelle."
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, nous sommes ravis de vous voir. On nous a adressés à vous pour ce que nous cherchons ; et nous venons implorer votre aide, dont nous avons besoin."
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Si c’est quelque chose, messieurs, qui dépende de mon petit négoce, je suis tout prêt à vous rendre service."
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, c’est trop de grâce que vous nous faites. Mais, monsieur, couvrez-vous, s’il vous plaît ; le soleil pourroit vous incommoder."
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Monsieu, boutez dessus."
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voici des gens bien pleins de cérémonie"
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Il se couvre.)"
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, il ne faut pas trouver étrange que nous venions à vous ; les habiles gens sont toujours recherchés, et nous sommes instruits de votre capacité."
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il est vrai, messieurs, que je suis le premier homme du monde pour faire des fagots."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Ah ! monsieur !…"
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je n’y épargne aucune chose, et les fais d’une façon qu’il n’y a rien à dire."
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, ce n’est pas cela dont il est question."
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mais aussi je les vends cent dix sous le cent."
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Ne parlons point de cela, s’il vous plaît."
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous promets que je ne saurois les donner à moins."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, nous savons les choses."
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANRELLE",
+      "lines": [
+        "Si vous savez les choses, vous savez que je les vends cela."
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, c’est se moquer que…"
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je ne me moque point, je n’en puis rien rabattre."
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Parlons d’autre façon, de grâce."
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous en pourrez trouver autre part à moins ; il y a fagots et fagots : mais pour ceux que je fais…"
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Hé ! monsieur, laissons là ce discours."
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous jure que vous ne les auriez pas, s’il s’en falloit un double."
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Hé ! fi !"
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Non, en conscience ; vous en paierez cela. Je vous parle sincèrement, et ne suis pas homme à surfaire."
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Faut-il, monsieur, qu’une personne comme vous s’amuse à ces grossières feintes, s’abaisse à parler de la sorte ! qu’un homme si savant, un fameux médecin, comme vous êtes veuille se déguiser aux yeux du monde, et tenir enterré des beaux talents qu’il a !"
+      ]
+    },
+    {
+      "id": "p00223",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00224",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il est fou."
+      ]
+    },
+    {
+      "id": "p00225",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "De grâce, monsieur, ne dissimulez point avec nous."
+      ]
+    },
+    {
+      "id": "p00226",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Comment ?"
+      ]
+    },
+    {
+      "id": "p00227",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Tout ce tripotage ne sart de rian ; je savons cen que je savons."
+      ]
+    },
+    {
+      "id": "p00228",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Quoi donc ! que me voulez-vous dire ? Pour qui me prenez-vous ?"
+      ]
+    },
+    {
+      "id": "p00229",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Pour ce que vous êtes, pour un grand médecin."
+      ]
+    },
+    {
+      "id": "p00230",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Médecin vous-même ; je ne le suis point, et je ne l’ai jamais été."
+      ]
+    },
+    {
+      "id": "p00231",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas."
+      ]
+    },
+    {
+      "id": "p00232",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Voilà sa folie qui le tient. (Haut.) Monsieur, ne veuillez point nier les choses davantage ; et n’en venons point, s’il vous plaît, à de fâcheuses extrémités."
+      ]
+    },
+    {
+      "id": "p00233",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "À quoi donc ?"
+      ]
+    },
+    {
+      "id": "p00234",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "À de certaines choses dont nous serions marris."
+      ]
+    },
+    {
+      "id": "p00235",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Parbleu ! venez-en à tout ce qu’il vous plaira ; je ne suis point médecin, et ne sais ce que vous me voulez dire."
+      ]
+    },
+    {
+      "id": "p00236",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas."
+      ]
+    },
+    {
+      "id": "p00237",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Je vois bien qu’il faut se servir du remède. (Haut.) Monsieur, encore un coup, je vous prie d’avouer ce que vous êtes."
+      ]
+    },
+    {
+      "id": "p00238",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Hé ! tétigué ! ne lantiponez point davantage, et confessez à la franquette que v’s êtes médecin."
+      ]
+    },
+    {
+      "id": "p00239",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00240",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "J’enrage."
+      ]
+    },
+    {
+      "id": "p00241",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "À quoi bon nier ce qu’on sait ?"
+      ]
+    },
+    {
+      "id": "p00242",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Pourquoi toutes ces fraimes-là ? À quoi est-ce que ça vous sert ?"
+      ]
+    },
+    {
+      "id": "p00243",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Messieurs, en un mot autant qu’en deux mille, je vous dis que je ne suis point médecin."
+      ]
+    },
+    {
+      "id": "p00244",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Vous n’êtes point médecin ?"
+      ]
+    },
+    {
+      "id": "p00245",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00246",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "V’s n’êtes pas médecin ?"
+      ]
+    },
+    {
+      "id": "p00247",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Non, vous dis-je."
+      ]
+    },
+    {
+      "id": "p00248",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Puisque vous le voulez, il faut donc s’y résoudre."
+      ]
+    },
+    {
+      "id": "p00249",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "(Ils prennent chacun un bâton, et le frappent.)"
+      ]
+    },
+    {
+      "id": "p00250",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! ah ! ah ! messieurs, je suis tout ce qu’il vous plaira."
+      ]
+    },
+    {
+      "id": "p00251",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Pourquoi, monsieur, nous obligez-vous à cette violence ?"
+      ]
+    },
+    {
+      "id": "p00252",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "À quoi bon nous bailler la peine de vous battre ?"
+      ]
+    },
+    {
+      "id": "p00253",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Je vous assure que j’en ai tous les regrets du monde."
+      ]
+    },
+    {
+      "id": "p00254",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Par ma figué ! j’en sis fâché, franchement."
+      ]
+    },
+    {
+      "id": "p00255",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que diable est ceci, messieurs ? De grâce, est-ce pour rire, ou si tous deux vous extravaguez, de vouloir que je sois médecin ?"
+      ]
+    },
+    {
+      "id": "p00256",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Quoi ! vous ne vous rendez pas encore, et vous vous défendez d’être médecin ?"
+      ]
+    },
+    {
+      "id": "p00257",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Diable emporte si je le suis !"
+      ]
+    },
+    {
+      "id": "p00258",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Il n’est pas vrai qu’ous sayez médecin ?"
+      ]
+    },
+    {
+      "id": "p00259",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Non, la peste m’étouffe ! (Ils recommencent à le battre.) Ah ! ah ! Hé bien ! messieurs, oui, puisque vous le voulez, je suis médecin, je suis médecin ; apothicaire encore, si vous le trouvez bon. J’aime mieux consentir à tout que de me faire assommer."
+      ]
+    },
+    {
+      "id": "p00260",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Ah ! voilà qui va bien, monsieur : je suis ravi de vous voir raisonnable."
+      ]
+    },
+    {
+      "id": "p00261",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Vous me boutez la joie au cœur, quand je vous vois parler comme ça."
+      ]
+    },
+    {
+      "id": "p00262",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Je vous demande pardon de toute mon ame."
+      ]
+    },
+    {
+      "id": "p00263",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Je vous demandons excuse de la libarté que j’avons prise."
+      ]
+    },
+    {
+      "id": "p00264",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00265",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ouais ! seroit-ce bien moi qui me tromperois, et serois-je devenu médecin sans m’en être aperçu ?"
+      ]
+    },
+    {
+      "id": "p00266",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, vous ne vous repentirez pas de nous montrer ce que vous êtes ; et vous verrez assurément que vous en serez satisfait."
+      ]
+    },
+    {
+      "id": "p00267",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mais, messieurs, dites-moi, ne vous trompez-vous point vous-mêmes ? Est-il bien assuré que je sois médecin ?"
+      ]
+    },
+    {
+      "id": "p00268",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Oui, par ma figué !"
+      ]
+    },
+    {
+      "id": "p00269",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tout de bon ?"
+      ]
+    },
+    {
+      "id": "p00270",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Sans doute."
+      ]
+    },
+    {
+      "id": "p00271",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Diable emporte si je le savois !"
+      ]
+    },
+    {
+      "id": "p00272",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Comment, vous êtes le plus habile médecin du monde."
+      ]
+    },
+    {
+      "id": "p00273",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! ah !"
+      ]
+    },
+    {
+      "id": "p00274",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Un médecin qui a gari je ne sais combien de maladies."
+      ]
+    },
+    {
+      "id": "p00275",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tudieu !"
+      ]
+    },
+    {
+      "id": "p00276",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Une femme étoit tenue pour morte il y avoit six heures ; elle étoit prête à ensevelir, lorsque, avec une goutte de quelque chose, vous la fîtes revenir et marcher d’abord par la chambre."
+      ]
+    },
+    {
+      "id": "p00277",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Peste !"
+      ]
+    },
+    {
+      "id": "p00278",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Un petit enfant de douze ans se laissit choir du haut d’un clocher, de quoi il eut la tête, les jambes et les bras cassés ; et vous, avec je ne sais quel onguent, vous fîtes qu’aussitôt il se relevit sur ses pieds, et s’en fut jouer à la fossette."
+      ]
+    },
+    {
+      "id": "p00279",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Diantre !"
+      ]
+    },
+    {
+      "id": "p00280",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Enfin, monsieur, vous aurez contentement avec nous, et vous gagnerez ce que vous voudrez en vous laissant conduire où nous prétendons vous mener."
+      ]
+    },
+    {
+      "id": "p00281",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je gagnerai ce que je voudrai ?"
+      ]
+    },
+    {
+      "id": "p00282",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00283",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! je suis médecin, sans contredit. Je l’avois oublié ; mais je m’en ressouviens. De quoi est-il question ? Où faut-il se transporter ?"
+      ]
+    },
+    {
+      "id": "p00284",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Nous vous conduirons. Il est question d’aller voir une fille qui a perdu la parole."
+      ]
+    },
+    {
+      "id": "p00285",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma foi, je ne l’ai pas trouvée."
+      ]
+    },
+    {
+      "id": "p00286",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", bas, à Lucas"
+      ]
+    },
+    {
+      "id": "p00287",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Il aime à rire. à Sganarelle. Allons, monsieur."
+      ]
+    },
+    {
+      "id": "p00288",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Sans une robe de médecin ?"
+      ]
+    },
+    {
+      "id": "p00289",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Nous en prendrons une."
+      ]
+    },
+    {
+      "id": "p00290",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", présentant sa bouteille à Valère"
+      ]
+    },
+    {
+      "id": "p00291",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tenez cela, vous : voilà où je mets mes juleps."
+      ]
+    },
+    {
+      "id": "p00292",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(puis se tournant vers Lucas en crachant.)"
+      ]
+    },
+    {
+      "id": "p00293",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous, marchez là-dessus, par ordonnance du médecin."
+      ]
+    },
+    {
+      "id": "p00294",
+      "page": 0,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Palsanguenne ! v’là un médecin qui me plaît ; je pense qu’il réussira, car il est bouffon."
+      ]
+    },
+    {
+      "id": "p00295",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Fin du premier acte"
+      ]
+    },
+    {
+      "id": "p00296",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "ACTE II"
+      ]
+    },
+    {
+      "id": "p00297",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Le théâtre représente une chambre de la maison de Géronte."
+      ]
+    },
+    {
+      "id": "p00298",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène I"
+      ]
+    },
+    {
+      "id": "p00299",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Valère, Lucas, Jacqueline."
+      ]
+    },
+    {
+      "id": "p00300",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Oui, monsieur, je crois que vous serez satisfait ; et nous vous avons amené le plus grand médecin du monde."
+      ]
+    },
+    {
+      "id": "p00301",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Oh ! morguenne ! il faut tirer l’échelle après ceti-là, et tous les autres ne sont pas daignes de li déchausser ses souliés."
+      ]
+    },
+    {
+      "id": "p00302",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "C’est un homme qui a fait des cures merveilleuses."
+      ]
+    },
+    {
+      "id": "p00303",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Qui a gari des gens qui étiant morts."
+      ]
+    },
+    {
+      "id": "p00304",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Il est un peu capricieux, comme je vous ai dit ; et, parfois, il a des moments où son esprit s’échappe, et ne paroît pas ce qu’il est."
+      ]
+    },
+    {
+      "id": "p00305",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Oui, il aime à bouffonner ; et l’an diroit parfois, ne v’s en déplaise, qu’il a quelque petit coup de hache à la tête."
+      ]
+    },
+    {
+      "id": "p00306",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Mais, dans le fond, il est toute science ; et bien souvent il dit des choses tout à fait relevées."
+      ]
+    },
+    {
+      "id": "p00307",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Quand il s’y boute, il parle tout fin drait comme s’il lisoit dans un livre."
+      ]
+    },
+    {
+      "id": "p00308",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Sa réputation s’est déjà répandue ici ; et tout le monde vient à lui."
+      ]
+    },
+    {
+      "id": "p00309",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je meurs d’envie de le voir ; faites-le-moi vite venir."
+      ]
+    },
+    {
+      "id": "p00310",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Je le vais quérir."
+      ]
+    },
+    {
+      "id": "p00311",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00312",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Jacqueline, Lucas"
+      ]
+    },
+    {
+      "id": "p00313",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Par ma fi, monsieu, ceti-ci fera justement ce qu’ant fait les autres. Je pense que ce sera quessi queumi ; et la meilleure médeçaine que l’an pourroit bailler à votre fille, ce seroit, selon moi, un biau et bon mari, pour qui alle eût de l’amiquié."
+      ]
+    },
+    {
+      "id": "p00314",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ouais ! nourrice, ma mie, vous vous mêlez de bien des choses !"
+      ]
+    },
+    {
+      "id": "p00315",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Taisez-vous, notre minagère Jacquelaine ; ce n’est pas à vous à bouter là votre nez."
+      ]
+    },
+    {
+      "id": "p00316",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Je vous dis et vous douze que tous ces médecins n’y feront rian que de l’iau claire ; que votre fille a besoin d’autre chose que de rhibarbe et de séné, et qu’un mari est un emplâtre qui garit tous les maux des filles."
+      ]
+    },
+    {
+      "id": "p00317",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Est-elle en état maintenant qu’on s’en voulût charger, avec l’infirmité qu’elle a ? Et lorsque j’ai été dans le dessein de la marier, ne s’est-elle pas opposée à mes volontés ?"
+      ]
+    },
+    {
+      "id": "p00318",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Je le crois bian ; vous l’y vouliez bailler eun homme qu’alle n’aime point. Que ne preniais-vous ce monsieur Liandre, qui li touchoit au cœur ? alle auroit été fort obéissante ; et je m’en vas gager qu’il la prendroit, li, comme alle est, si vous la li vouillais donner."
+      ]
+    },
+    {
+      "id": "p00319",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ce Léandre n’est pas ce qu’il faut ; il n’a pas du bien comme l’autre."
+      ]
+    },
+    {
+      "id": "p00320",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Il a eun oncle qui est si riche, dont il est hériquié."
+      ]
+    },
+    {
+      "id": "p00321",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Tous ces biens à venir me semblent autant de chansons. Il n’est rien tel que ce qu’on tient ; et l’on court grand risque de s’abuser, lorsque l’on compte sur le bien qu’un autre vous garde. La mort n’a pas toujours les oreilles ouvertes aux vœux et aux prières de messieurs les héritiers ; et l’on a le temps d’avoir les dents longues, lorsqu’on attend pour vivre le trépas de quelqu’un."
+      ]
+    },
+    {
+      "id": "p00322",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Enfin, j’ai toujours ouï dire qu’en mariage, comme ailleurs, contentement passe richesse. Les pères et les mères ant cette maudite couteume de demander toujours, Qu’a-t-il ? et Qu’a-t-elle ? et le compère Piarre a marié sa fille Simonette au gros Thomas pour un quarquié de vaigne qu’il avait davantage que le jeune Robin, où alle avoit bouté son amiquié ; et v’là que la pauvre criature en est devenue jaune comme un coing, et n’a pas profité tout depuis ce temps-là. C’est un bel exemple pour vous, monsieu. On n’a que son plaisir en ce monde ; et j’aimerois mieux bailler à ma fille eun bon mari qui li fût agriable, que toutes les rentes de la Biausse."
+      ]
+    },
+    {
+      "id": "p00323",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Peste ! madame la nourrice, comme vous dégoisez. Taisez-vous, je vous prie ; vous prenez trop de soin, et vous échauffez votre lait."
+      ]
+    },
+    {
+      "id": "p00324",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", frappant, à chaque phrase qu’il dit, sur l’épaule de Géronte."
+      ]
+    },
+    {
+      "id": "p00325",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Morgue ! tais-toi, t’es eune impartinente. Monsieu n’a que faire de tes discours, et il sait ce qu’il a à faire. Mèle-toi de donner à teter à ton enfant, sans tant faire la raisonneuse. Monsieu est le père de sa fille ; et il est bon et sage pour voir ce qu’il ly faut."
+      ]
+    },
+    {
+      "id": "p00326",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Tout doux ! Oh ! tout doux."
+      ]
+    },
+    {
+      "id": "p00327",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", frappant encore sur l’épaule de Geronte."
+      ]
+    },
+    {
+      "id": "p00328",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Monsieu, je veux un peu la mortifier, et ly apprendre le respect qu’alle vous doit."
+      ]
+    },
+    {
+      "id": "p00329",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui. Mais ces gestes ne sont pas nécessaires."
+      ]
+    },
+    {
+      "id": "p00330",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène III"
+      ]
+    },
+    {
+      "id": "p00331",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Valère, Sganarelle, Géronte, Lucas, Jacqueline"
+      ]
+    },
+    {
+      "id": "p00332",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Monsieur, préparez-vous. Voici notre médecin qui entre."
+      ]
+    },
+    {
+      "id": "p00333",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Sganarelle."
+      ]
+    },
+    {
+      "id": "p00334",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Monsieur, je suis ravi de vous voir chez moi, et nous avons grand besoin de vous."
+      ]
+    },
+    {
+      "id": "p00335",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en robe de médecin, avec un chapeau des plus pointus."
+      ]
+    },
+    {
+      "id": "p00336",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Hippocrate dit… que nous nous couvrions tous deux."
+      ]
+    },
+    {
+      "id": "p00337",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Hippocrate dit cela ?"
+      ]
+    },
+    {
+      "id": "p00338",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00339",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Dans quel chapitre, s’il vous plaît ?"
+      ]
+    },
+    {
+      "id": "p00340",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Dans son chapitre… des chapeaux."
+      ]
+    },
+    {
+      "id": "p00341",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Puisque Hippocrate le dit, il le faut faire."
+      ]
+    },
+    {
+      "id": "p00342",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Monsieur le médecin, ayant appris les merveilleuses choses…"
+      ]
+    },
+    {
+      "id": "p00343",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "À qui parlez-vous, de grâce ?"
+      ]
+    },
+    {
+      "id": "p00344",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "À vous."
+      ]
+    },
+    {
+      "id": "p00345",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je ne suis pas médecin"
+      ]
+    },
+    {
+      "id": "p00346",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous n’êtes pas médecin ?"
+      ]
+    },
+    {
+      "id": "p00347",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Non, vraiment"
+      ]
+    },
+    {
+      "id": "p00348",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tout de bon ?"
+      ]
+    },
+    {
+      "id": "p00349",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Tout de bon."
+      ]
+    },
+    {
+      "id": "p00350",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "(Sganarelle prend un bâton, et bat Géronte comme on l’a battu.)"
+      ]
+    },
+    {
+      "id": "p00351",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ah ! ah ! ah !"
+      ]
+    },
+    {
+      "id": "p00352",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous êtes médecin maintenant ; je n’ai jamais eu d’autres licences."
+      ]
+    },
+    {
+      "id": "p00353",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Valère"
+      ]
+    },
+    {
+      "id": "p00354",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Quel diable d’homme m’avez-vous là amené ?"
+      ]
+    },
+    {
+      "id": "p00355",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "VALÈRE",
+      "lines": [
+        "Je vous ai bien dit que c’étoit un médecin goguenard."
+      ]
+    },
+    {
+      "id": "p00356",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui : mais je l’enverrois promener avec ses goguenarderies."
+      ]
+    },
+    {
+      "id": "p00357",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Ne prenez pas garde à ça, monsieu ; ce n’est que pour rire."
+      ]
+    },
+    {
+      "id": "p00358",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Cette raillerie ne me plaît pas."
+      ]
+    },
+    {
+      "id": "p00359",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Monsieur, je vous demande pardon de la liberté que j’ai prise."
+      ]
+    },
+    {
+      "id": "p00360",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Monsieur, je suis votre serviteur."
+      ]
+    },
+    {
+      "id": "p00361",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je suis fâché…"
+      ]
+    },
+    {
+      "id": "p00362",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Cela n’est rien."
+      ]
+    },
+    {
+      "id": "p00363",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Des coups de bâton…"
+      ]
+    },
+    {
+      "id": "p00364",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Il n’y a pas de mal."
+      ]
+    },
+    {
+      "id": "p00365",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que j’ai eu l’honneur de vous donner."
+      ]
+    },
+    {
+      "id": "p00366",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ne parlons plus de cela. Monsieur, j’ai une fille qui est tombée dans une étrange maladie."
+      ]
+    },
+    {
+      "id": "p00367",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je suis ravi, monsieur, que votre fille ait besoin de moi ; et je souhaiterois de tout mon cœur que vous en eussiez besoin aussi, vous et toute votre famille, pour vous témoigner l’envie que j’ai de vous servir."
+      ]
+    },
+    {
+      "id": "p00368",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je vous suis obligé de ces sentiments."
+      ]
+    },
+    {
+      "id": "p00369",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous assure que c’est du meilleur de mon ame que je vous parle."
+      ]
+    },
+    {
+      "id": "p00370",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "C’est trop d’honneur que vous me faites."
+      ]
+    },
+    {
+      "id": "p00371",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Comment s’appelle votre fille ?"
+      ]
+    },
+    {
+      "id": "p00372",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Lucinde."
+      ]
+    },
+    {
+      "id": "p00373",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Lucinde ! Ah ! beau nom à médicamenter ! Lucinde !"
+      ]
+    },
+    {
+      "id": "p00374",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je m’en vais voir un peu ce qu’elle fait."
+      ]
+    },
+    {
+      "id": "p00375",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Qui est cette grande femme-là ?"
+      ]
+    },
+    {
+      "id": "p00376",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "C’est la nourrice d’un petit enfant que j’ai."
+      ]
+    },
+    {
+      "id": "p00377",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène IV"
+      ]
+    },
+    {
+      "id": "p00378",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Sganarelle, Jacqueline, Lucas."
+      ]
+    },
+    {
+      "id": "p00379",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00380",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Peste ! le joli meuble que voilà ! (Haut.) Ah ! nourrice, charmante nourrice, ma médecine est la très humble esclave de votre nourricerie, et je voudrois bien être le petit poupon fortuné qui tetât le lait de vos bonnes grâces. (Il lui porte la main sur le sein.) Tous mes remèdes, toute ma science, toute ma capacité est à votre service ; et…"
+      ]
+    },
+    {
+      "id": "p00381",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Avec votre parmission, monsieu le médecin, laissez là ma femme, je vous prie."
+      ]
+    },
+    {
+      "id": "p00382",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Quoi ! elle est votre femme ?"
+      ]
+    },
+    {
+      "id": "p00383",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00384",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! vraiment je ne savois pas cela, et je m’en réjouis pour l’amour de l’un et de l’autre."
+      ]
+    },
+    {
+      "id": "p00385",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Il fait semblant de vouloir embrasser Lucas et embrasse la nourrice.)"
+      ]
+    },
+    {
+      "id": "p00386",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tirant Sganarelle, et se remettant entre lui et sa femme."
+      ]
+    },
+    {
+      "id": "p00387",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Tout doucement, s’il vous plaît."
+      ]
+    },
+    {
+      "id": "p00388",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous assure que je suis ravi que vous soyez unis ensemble : je la félicite d’avoir un mari comme vous ; et je vous félicite, vous, d’avoir une femme si belle, si sage, et si bien faite comme elle est."
+      ]
+    },
+    {
+      "id": "p00389",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Faisant encore semblant d’embrasser Lucas, qui lui tend les bras, il passe dessous, et embrasse encore la nourrice.)"
+      ]
+    },
+    {
+      "id": "p00390",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", le tirant encore."
+      ]
+    },
+    {
+      "id": "p00391",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Hé ! tétigué ! point tant de compliments, je vous supplie."
+      ]
+    },
+    {
+      "id": "p00392",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ne voulez-vous pas que je me réjouisse avec vous d’un si bel assemblage ?"
+      ]
+    },
+    {
+      "id": "p00393",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Avec moi tant qu’il vous plaira, mais avec ma femme, trêve de sarimonie."
+      ]
+    },
+    {
+      "id": "p00394",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je prends part également au bonheur de tous deux : et si je vous embrasse pour vous témoigner ma joie, je l’embrasse de même pour lui en témoigner aussi."
+      ]
+    },
+    {
+      "id": "p00395",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Il continue le même jeu.)"
+      ]
+    },
+    {
+      "id": "p00396",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", le tirant pour la troisième fois."
+      ]
+    },
+    {
+      "id": "p00397",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Ah ! vartigué, monsieur le médecin, que de lantiponages !"
+      ]
+    },
+    {
+      "id": "p00398",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène V"
+      ]
+    },
+    {
+      "id": "p00399",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Sganarelle, Lucas, Jacqueline."
+      ]
+    },
+    {
+      "id": "p00400",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Monsieur, voici tout à l’heure ma fille qu’on va vous amener."
+      ]
+    },
+    {
+      "id": "p00401",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je l’attends, monsieur, avec toute la médecine."
+      ]
+    },
+    {
+      "id": "p00402",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Où est-elle ?"
+      ]
+    },
+    {
+      "id": "p00403",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se touchant le front."
+      ]
+    },
+    {
+      "id": "p00404",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Là-dedans."
+      ]
+    },
+    {
+      "id": "p00405",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Fort bien."
+      ]
+    },
+    {
+      "id": "p00406",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en voulant toucher les tetons de la nourrice."
+      ]
+    },
+    {
+      "id": "p00407",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mais, comme je m’intéresse à toute votre famille, il faut que j’essaie un peu le lait de votre nourrice, et que je visite son sein."
+      ]
+    },
+    {
+      "id": "p00408",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(Il s’approche de Jacqueline.)"
+      ]
+    },
+    {
+      "id": "p00409",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", le tirant, et lui faisant faire la pirouette."
+      ]
+    },
+    {
+      "id": "p00410",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Nannain, nannain ; je n’avons que faire de ça."
+      ]
+    },
+    {
+      "id": "p00411",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est l’office du médecin de voir les tétons des nourrices."
+      ]
+    },
+    {
+      "id": "p00412",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Il gnia office qui quienne, je sis votre sarviteur."
+      ]
+    },
+    {
+      "id": "p00413",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "As-tu bien la hardiesse de t’opposer au médecin ? Hors de là."
+      ]
+    },
+    {
+      "id": "p00414",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Je me moque de ça."
+      ]
+    },
+    {
+      "id": "p00415",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en le regardant de travers."
+      ]
+    },
+    {
+      "id": "p00416",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je te donnerai la fièvre."
+      ]
+    },
+    {
+      "id": "p00417",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", prenant Lucas par le bras, et lui faisant faire aussi la pirouette."
+      ]
+    },
+    {
+      "id": "p00418",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Ote-toi de là aussi ; est-ce que je ne sis pas assez grande pour me défendre moi-même, s’il me fait queuque chose qui ne soit pas à faire ?"
+      ]
+    },
+    {
+      "id": "p00419",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Je ne veux pas qu’il te tâte, moi."
+      ]
+    },
+    {
+      "id": "p00420",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Fi, le vilain, qui est jaloux de sa femme !"
+      ]
+    },
+    {
+      "id": "p00421",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Voici ma fille."
+      ]
+    },
+    {
+      "id": "p00422",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène VI"
+      ]
+    },
+    {
+      "id": "p00423",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Lucinde, Géronte, Sganarelle, Valère, Lucas, Jacqueline."
+      ]
+    },
+    {
+      "id": "p00424",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Est-ce là la malade ?"
+      ]
+    },
+    {
+      "id": "p00425",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui, Je n’ai qu’elle de fille ; et j’aurois tous les regrets du monde si elle venoit à mourir."
+      ]
+    },
+    {
+      "id": "p00426",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Qu’elle s’en garde bien ! Il ne faut pas qu’elle meure sans l’ordonnance du médecin."
+      ]
+    },
+    {
+      "id": "p00427",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Allons, un siège."
+      ]
+    },
+    {
+      "id": "p00428",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", assis entre Géronte et Lucinde."
+      ]
+    },
+    {
+      "id": "p00429",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voilà une malade qui n’est pas tant dégoûtante, et je tiens qu’un homme bien sain s’en accommoderoit assez."
+      ]
+    },
+    {
+      "id": "p00430",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Vous l’avez fait rire, monsieur."
+      ]
+    },
+    {
+      "id": "p00431",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tant mieux : lorsque le médecin fait rire le malade, c’est le meilleur signe du monde. (à Lucinde.) Hé bien ! de quoi est-il question ? Qu’avez-vous ? quel est le mal que vous sentez ?"
+      ]
+    },
+    {
+      "id": "p00432",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", répond par signes, en portant la main à sa bouche, à sa tête et son menton"
+      ]
+    },
+    {
+      "id": "p00433",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Han, hi, hou, han."
+      ]
+    },
+    {
+      "id": "p00434",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Hé ! que dites-vous ?"
+      ]
+    },
+    {
+      "id": "p00435",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", continue les mêmes gestes."
+      ]
+    },
+    {
+      "id": "p00436",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Han, hi, hon, han, han, hi, hon."
+      ]
+    },
+    {
+      "id": "p00437",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Quoi ?"
+      ]
+    },
+    {
+      "id": "p00438",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Han, hi, hon."
+      ]
+    },
+    {
+      "id": "p00439",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", la contrefaisant"
+      ]
+    },
+    {
+      "id": "p00440",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Han, hi, hon, han, ha. Je ne vous entends point. Quel diable de langage est-ce là ?"
+      ]
+    },
+    {
+      "id": "p00441",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Monsieur, c’est là sa maladie. Elle est devenue muette, sans que jusques ici on en ait pu savoir la cause ; et c’est un accident qui a fait reculer son mariage."
+      ]
+    },
+    {
+      "id": "p00442",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Et pourquoi ?"
+      ]
+    },
+    {
+      "id": "p00443",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Celui qu’elle doit épouser veut attendre sa guérison pour conclure les choses."
+      ]
+    },
+    {
+      "id": "p00444",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Et qui est ce sot-là, qui ne veut pas que sa femme soit muette ? Plût à Dieu que la mienne eût cette maladie ! je me garderois bien de la vouloir guérir."
+      ]
+    },
+    {
+      "id": "p00445",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Enfin, monsieur, nous vous prions d’employer tous vos soins pour la soulager de son mal."
+      ]
+    },
+    {
+      "id": "p00446",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! ne vous mettez pas en peine. Dites-moi un peu : ce mal l’oppresse-t-il beaucoup ?"
+      ]
+    },
+    {
+      "id": "p00447",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui, monsieur."
+      ]
+    },
+    {
+      "id": "p00448",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tant mieux. Sent-elle de grandes douleurs ?"
+      ]
+    },
+    {
+      "id": "p00449",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Fort grandes."
+      ]
+    },
+    {
+      "id": "p00450",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est fort bien fait Va-t-elle où vous savez ?"
+      ]
+    },
+    {
+      "id": "p00451",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00452",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Copieusement ?"
+      ]
+    },
+    {
+      "id": "p00453",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je n’entends rien à cela."
+      ]
+    },
+    {
+      "id": "p00454",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "La matière est-elle louable ?"
+      ]
+    },
+    {
+      "id": "p00455",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je ne me connois pas à ces choses."
+      ]
+    },
+    {
+      "id": "p00456",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se tournant vers la malade."
+      ]
+    },
+    {
+      "id": "p00457",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Donnez-moi votre bras. (à Géronte.) Voilà un pouls qui marque que votre fille est muette."
+      ]
+    },
+    {
+      "id": "p00458",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Hé ! oui, monsieur, c’est là son mal ; vous l’avez trouvé tout du premier coup."
+      ]
+    },
+    {
+      "id": "p00459",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ha ! ha !"
+      ]
+    },
+    {
+      "id": "p00460",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Voyez comme il a deviné sa maladie !"
+      ]
+    },
+    {
+      "id": "p00461",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Nous autres grands médecins, nous connoissons d’abord les choses. Un ignorant auroit été embarrassé, et vous eût été dire, C’est ceci, c’est cela ; mais moi, je touche au but du premier coup, et je vous apprends que votre fille est muette."
+      ]
+    },
+    {
+      "id": "p00462",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui : mais je voudrois bien que vous me pussiez dire d’où cela vient."
+      ]
+    },
+    {
+      "id": "p00463",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il n’est rien de plus aisé ; cela vient de ce qu’elle a perdu la parole."
+      ]
+    },
+    {
+      "id": "p00464",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Fort bien. Mais la cause, s’il vous plaît, qui fait qu’elle a perdu la parole ?"
+      ]
+    },
+    {
+      "id": "p00465",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tous nos meilleurs auteurs vous diront que c’est l’empêchement de l’action de sa langue."
+      ]
+    },
+    {
+      "id": "p00466",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Mais encore, vos sentiments sur cet empêchement de l’action de sa langue ?"
+      ]
+    },
+    {
+      "id": "p00467",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Aristote, là-dessus, dit… de fort belles choses."
+      ]
+    },
+    {
+      "id": "p00468",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je le crois."
+      ]
+    },
+    {
+      "id": "p00469",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! c’étoit un grand homme !"
+      ]
+    },
+    {
+      "id": "p00470",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Sans doute."
+      ]
+    },
+    {
+      "id": "p00471",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Grand homme tout à fait ; (levant le bras depuis le coude.) un homme qui étoit plus grand que moi de tout cela. Pour revenir donc à notre raisonnement, je tiens que cet empêchement de l’action de sa langue est causé par de certaines humeurs, qu’entre nous autres savants nous appelons humeurs peccantes ; peccantes, c’est-à-dire… humeurs peccantes ; d’autant que les vapeurs formées par les exhalaisons des influences qui s’élèvent dans la région des maladies, venant… pour ainsi dire… à… Entendez-vous le latin ?"
+      ]
+    },
+    {
+      "id": "p00472",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "En aucune façon."
+      ]
+    },
+    {
+      "id": "p00473",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se levant brusquement."
+      ]
+    },
+    {
+      "id": "p00474",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous n’entendez point le latin ?"
+      ]
+    },
+    {
+      "id": "p00475",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00476",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en faisant diverses plaisantes postures."
+      ]
+    },
+    {
+      "id": "p00477",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Cabricias, arci thuram, catalamus, singulariter, nominativo, hœc musa, la muse, bonus, bona, bonum. Deus sanctus, est-ne oratio latinas ? Etiam, oui. Quare ? pourquoi ? Quia substantivo, et adjectivum, concordat in generi, numerum, et casus."
+      ]
+    },
+    {
+      "id": "p00478",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ah ! que n’ai-je étudié !"
+      ]
+    },
+    {
+      "id": "p00479",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "L’habile homme que v’là !"
+      ]
+    },
+    {
+      "id": "p00480",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Oui, ça est si biau que je n’y entends goutte."
+      ]
+    },
+    {
+      "id": "p00481",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Or, ces vapeurs dont je vous parle venant à passer, du côté gauche où est le foie, au côté droit où est le cœur, il se trouve que le poumon, que nous appelons en latin armyan, ayant communication avec le cerveau, que nous nommons en grec nasmus, par le moyen de la veine cave, que nous appelons en hébreu cubile, rencontre en son chemin lesdites vapeurs qui remplissent les ventricules de l’omoplate ; et parceque lesdites vapeurs… comprenez bien ce raisonnement, je vous prie ; et parceque lesdites vapeurs ont certaine malignité… écoutez bien ceci, je vous conjure."
+      ]
+    },
+    {
+      "id": "p00482",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00483",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ont une certaine malignité qui est causée… soyez attentifs, s’il vous plaît."
+      ]
+    },
+    {
+      "id": "p00484",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je le suis."
+      ]
+    },
+    {
+      "id": "p00485",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Qui est causée par l’âcreté des humeurs engendrées dans la concavité du diaphragme, il arrive que ces vapeurs… Ossabandus, nequeis, nequer, polarinum, quipsa milus. Voilà justement ce qui fait que votre fille est muette."
+      ]
+    },
+    {
+      "id": "p00486",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Ah ! que ça est bian dit, notre homme !"
+      ]
+    },
+    {
+      "id": "p00487",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Que n’ai-je la langue aussi bian pendue !"
+      ]
+    },
+    {
+      "id": "p00488",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "On ne peut pas mieux raisonner, sans doute. Il n’y a qu’une seule chose qui m’a choquée : c’est l’endroit du foie et du cœur. Il me semble que vous les placez autrement qu’ils ne sont ; que le cœur est du côté gauche, et le foie du côté droit."
+      ]
+    },
+    {
+      "id": "p00489",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui ; cela étoit autrefois ainsi : mais nous avons changé tout cela, et nous faisons maintenant la médecine d’une méthode toute nouvelle."
+      ]
+    },
+    {
+      "id": "p00490",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "C’est ce que je ne savois pas, et je vous demande pardon de mon ignorance."
+      ]
+    },
+    {
+      "id": "p00491",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il n’y a point de mal ; et vous n’ètes pas obligé d’être aussi habile que nous."
+      ]
+    },
+    {
+      "id": "p00492",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Assurément. Mais, monsieur, que croyez-vous qu’il faille faire à cette maladie ?"
+      ]
+    },
+    {
+      "id": "p00493",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ce que je crois qu’il faille faire ?"
+      ]
+    },
+    {
+      "id": "p00494",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui."
+      ]
+    },
+    {
+      "id": "p00495",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mon avis est qu’on la remette sur son lit, et qu’on lui fasse prendre pour remède quantité de pain trempé dans du vin."
+      ]
+    },
+    {
+      "id": "p00496",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Pourquoi cela, monsieur ?"
+      ]
+    },
+    {
+      "id": "p00497",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Parcequ’il y a dans le vin et le pain, mêlés ensemble, une vertu sympathique qui fait parler. Ne voyez-vous pas bien qu’on ne donne autre chose aux perroquets, et qu’ils apprennent à parler en mangeant de cela ?"
+      ]
+    },
+    {
+      "id": "p00498",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Cela est vrai ! Ah ! le grand homme ! Vite, quantité de pain et de vin."
+      ]
+    },
+    {
+      "id": "p00499",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je reviendrai voir sur le soir en quel état elle sera."
+      ]
+    },
+    {
+      "id": "p00500",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène VII"
+      ]
+    },
+    {
+      "id": "p00501",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Sganarelle, Jacqueline"
+      ]
+    },
+    {
+      "id": "p00502",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Jacqueline"
+      ]
+    },
+    {
+      "id": "p00503",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Doucement, vous. (à Géronte) Monsieur, voilà une nourrice à laquelle il faut que je fasse quelques petits remèdes.."
+      ]
+    },
+    {
+      "id": "p00504",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Qui ? moi ? Je me porte le mieux du monde."
+      ]
+    },
+    {
+      "id": "p00505",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tant pis, nourrice ; tant pis. Cette grande santé est à craindre, et il ne sera pas mauvais de vous faire quelque petite saignée amiable, de vous donner quelque petit clystère dulcifiant."
+      ]
+    },
+    {
+      "id": "p00506",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Mais, monsieur, voilà une mode que je ne comprends point. Pourquoi s’aller faire saigner quand on n’a point de maladie ?"
+      ]
+    },
+    {
+      "id": "p00507",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il n’importe, la mode en est salutaire ; et, comme on boit pour la soif à venir, il faut se faire aussi saigner pour la maladie à venir."
+      ]
+    },
+    {
+      "id": "p00508",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en s’en allant."
+      ]
+    },
+    {
+      "id": "p00509",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Ma fi, je me moque de ça, et je ne veux point faire de mon corps une boutique d’apothicaire."
+      ]
+    },
+    {
+      "id": "p00510",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous êtes rétive aux remèdes, mais nous saurons vous soumettre à la raison."
+      ]
+    },
+    {
+      "id": "p00511",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène VIII"
+      ]
+    },
+    {
+      "id": "p00512",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00513",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous donne le bonjour."
+      ]
+    },
+    {
+      "id": "p00514",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Attendez un peu, s’il vous plaît."
+      ]
+    },
+    {
+      "id": "p00515",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que voulez-vous faire ?"
+      ]
+    },
+    {
+      "id": "p00516",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Vous donner de l’argent, monsieur."
+      ]
+    },
+    {
+      "id": "p00517",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tendant sa main derrière, par-dessous sa robe, tandis que Géronte ouvre sa bourse"
+      ]
+    },
+    {
+      "id": "p00518",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je n’en prendrai pas, monsieur."
+      ]
+    },
+    {
+      "id": "p00519",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Monsieur…"
+      ]
+    },
+    {
+      "id": "p00520",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Point du tout."
+      ]
+    },
+    {
+      "id": "p00521",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Un petit moment."
+      ]
+    },
+    {
+      "id": "p00522",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "En aucune façon."
+      ]
+    },
+    {
+      "id": "p00523",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "De grâce !"
+      ]
+    },
+    {
+      "id": "p00524",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous vous moquez."
+      ]
+    },
+    {
+      "id": "p00525",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Voilà qui est fait."
+      ]
+    },
+    {
+      "id": "p00526",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je n’en ferai rien."
+      ]
+    },
+    {
+      "id": "p00527",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Hé !"
+      ]
+    },
+    {
+      "id": "p00528",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ce n’est pas l’argent qui me fait agir."
+      ]
+    },
+    {
+      "id": "p00529",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je le crois."
+      ]
+    },
+    {
+      "id": "p00530",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", après avoir pris l’argent."
+      ]
+    },
+    {
+      "id": "p00531",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Cela est-il de poids ?"
+      ]
+    },
+    {
+      "id": "p00532",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui, monsieur."
+      ]
+    },
+    {
+      "id": "p00533",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je ne suis pas un médecin mercenaire."
+      ]
+    },
+    {
+      "id": "p00534",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je le sais bien."
+      ]
+    },
+    {
+      "id": "p00535",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "L’intérêt ne me gouverne point."
+      ]
+    },
+    {
+      "id": "p00536",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je n’ai pas cette pensée."
+      ]
+    },
+    {
+      "id": "p00537",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", seul, regardant l’argent qu’il a reçu."
+      ]
+    },
+    {
+      "id": "p00538",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma foi, cela ne va pas mal ; et pourvu que…"
+      ]
+    },
+    {
+      "id": "p00539",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène IX"
+      ]
+    },
+    {
+      "id": "p00540",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Léandre, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00541",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Monsieur, il y a longtemps que je vous attends ; et je viens implorer votre assistance."
+      ]
+    },
+    {
+      "id": "p00542",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", lui tâtant le pouls."
+      ]
+    },
+    {
+      "id": "p00543",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voilà un pouls qui est fort mauvais."
+      ]
+    },
+    {
+      "id": "p00544",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Je ne suis point malade, monsieur ; et ce n’est pas pour cela que je viens à vous."
+      ]
+    },
+    {
+      "id": "p00545",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Si vous n’êtes pas malade, que diable ne le dites-vous donc ?"
+      ]
+    },
+    {
+      "id": "p00546",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Non. Pour vous dire la chose en deux mots, je m’appelle Léandre, qui suis amoureux de Lucinde, que vous venez de visiter ; et comme, par la mauvaise humeur de son père, toute sorte d’accès m’est fermé auprès d’elle, je me hasarde à vous prier de vouloir servir mon amour, et de me donner lieu d’exécuter un stratagème que j’ai trouvé pour lui pouvoir dire deux mots d’où dépendent absolument mon bonheur et ma vie."
+      ]
+    },
+    {
+      "id": "p00547",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", paroissant en colère."
+      ]
+    },
+    {
+      "id": "p00548",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Pour qui me prenez-vous ? Comment ! oser vous adresser à moi pour vous servir dans votre amour, et vouloir ravaler la dignité de médecin à des emplois de cette nature !"
+      ]
+    },
+    {
+      "id": "p00549",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Monsieur, ne faites point de bruit."
+      ]
+    },
+    {
+      "id": "p00550",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en le faisant reculer."
+      ]
+    },
+    {
+      "id": "p00551",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "J’en veux faire, moi. Vous êtes un impertinent."
+      ]
+    },
+    {
+      "id": "p00552",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Hé ! monsieur, doucement."
+      ]
+    },
+    {
+      "id": "p00553",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Un malavisé."
+      ]
+    },
+    {
+      "id": "p00554",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "De grâce !"
+      ]
+    },
+    {
+      "id": "p00555",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je vous apprendrai que je ne suis point homme à cela, et que c’est une insolence extrême…"
+      ]
+    },
+    {
+      "id": "p00556",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tirant une bourse"
+      ]
+    },
+    {
+      "id": "p00557",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Monsieur…"
+      ]
+    },
+    {
+      "id": "p00558",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "De vouloir m’employer… (tenant la bourse.) Je ne parle pas pour vous, car vous êtes honnête homme ; et je serois ravi de vous rendre service : mais il y a de certains impertinents au monde qui viennent prendre les gens pour ce qu’ils ne sont pas ; et je vous avoue que cela me met en colère."
+      ]
+    },
+    {
+      "id": "p00559",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Je vous demande pardon, monsieur, de la liberté que…"
+      ]
+    },
+    {
+      "id": "p00560",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous vous moquez. De quoi est-il question ?"
+      ]
+    },
+    {
+      "id": "p00561",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Vous saurez donc, monsieur, que cette maladie que vous voulez guérir est une feinte maladie. Les médecins ont raisonné là-dessus comme il faut ; et ils n’ont pas manqué de dire que cela procédoit, qui du cerveau, qui des entrailles, qui de la rate, qui du foie : mais il est certain que l’amour en est la véritable cause, et que Lucinde n’a trouvé cette maladie que pour se délivrer d’un mariage dont elle étoit importunée. Mais, de crainte qu’on ne nous voie ensemble, retirons-nous d’ici, et je vous dirai en marchant ce que je souhaite de vous."
+      ]
+    },
+    {
+      "id": "p00562",
+      "page": 1,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Allons, monsieur : vous m’avez donné pour votre amour une tendresse qui n’est pas concevable ; et j’y perdrai toute ma médecine, ou la malade crèvera, ou bien elle sera à vous."
+      ]
+    },
+    {
+      "id": "p00563",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Fin du second acte"
+      ]
+    },
+    {
+      "id": "p00564",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "ACTE III"
+      ]
+    },
+    {
+      "id": "p00565",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Le théâtre représente un lieu voisin de la maison de Géronte."
+      ]
+    },
+    {
+      "id": "p00566",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Léandre, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00567",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Il me semble que je ne suis pas mal ainsi pour un apothicaire ; et, comme le père ne m’a guère vu, ce changement d’habit et de perruque est assez capable, je crois, de me déguiser à ses yeux."
+      ]
+    },
+    {
+      "id": "p00568",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Sans doute."
+      ]
+    },
+    {
+      "id": "p00569",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Tout ce que je souhaiterois seroit de savoir cinq ou six grands mots de médecine, pour parer mon discours et me donner l’air d’habile homme."
+      ]
+    },
+    {
+      "id": "p00570",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Allez, allez, tout cela n’est pas nécessaire, il suffit de l’habit : et je n’en sais pas plus que vous."
+      ]
+    },
+    {
+      "id": "p00571",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Comment !"
+      ]
+    },
+    {
+      "id": "p00572",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Diable emporte si j’entends rien en médecine ! Vous êtes honnête homme, et je veux bien me confier à vous comme vous vous confiez à moi."
+      ]
+    },
+    {
+      "id": "p00573",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Quoi ! vous n’êtes pas effectivement…"
+      ]
+    },
+    {
+      "id": "p00574",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Non, vous dis-je ; ils m’ont fait médecin malgré mes dents. Je ne m’étois jamais mêlé d’être si savant que cela ; et toutes mes études n’ont été que jusqu’en sixième. Je ne sais point sur quoi cette imagination leur est venue ; mais quand j’ai vu qu’à toute force ils vouloient que je fusse médecin, je me suis résolu de l’être aux dépens de qui il appartiendra. Cependant vous ne sauriez croire comment l’erreur s’est répandue, et de quelle façon chacun est endiablé à me croire habile homme. On me vient chercher de tous côtés ; et, si les choses vont toujours de même, je suis d’avis de m’en tenir toute la vie à la médecine. Je trouve que c’est le métier le meilleur de tous ; car, soit qu’on fasse bien, ou soit qu’on fasse mal, on est toujours payé de même sorte. La méchante besogne ne retombe jamais sur notre dos ; et nous taillons comme il nous plaît sur l’étoffe où nous travaillons. Un cordonnier, en faisant des souliers, ne sauroit gâter un morceau de cuir qu’il n’en paie les pots cassés ; mais ici l’on peut gâter un homme sans qu’il en coûte rien. Les bévues ne sont point pour nous, et c’est toujours la faute de celui qui meurt. Enfin le bon de cette profession est qu’il y a parmi les morts une honnêteté, une discrétion la plus grande du monde ; et jamais on n’en voit se plaindre du médecin qui l’a tué"
+      ]
+    },
+    {
+      "id": "p00575",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Il est vrai que les morts sont fort honnêtes gens sur cette matière."
+      ]
+    },
+    {
+      "id": "p00576",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", voyant des hommes qui viennent à lui."
+      ]
+    },
+    {
+      "id": "p00577",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voilà des gens qui ont la mine de me venir consulter, (à Léandre.) Allez toujours m’attendre auprès du logis de votre maîtresse."
+      ]
+    },
+    {
+      "id": "p00578",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00579",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Thibaut, Perrin, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00580",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "Monsieu, je venons vous charcher, mon fils Perrin et moi."
+      ]
+    },
+    {
+      "id": "p00581",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Qu’y a-t-il ?"
+      ]
+    },
+    {
+      "id": "p00582",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "Sa pauvre mère, qui a nom Parrette, est dans un lit malade il y a six mois."
+      ]
+    },
+    {
+      "id": "p00583",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tendant la main comme pour recevoir de l’argent."
+      ]
+    },
+    {
+      "id": "p00584",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que voulez-vous que j’y fasse ?"
+      ]
+    },
+    {
+      "id": "p00585",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "Je voudrions, monsieu, que vous nous baillissiez queuque petite drôlerie pour la garir."
+      ]
+    },
+    {
+      "id": "p00586",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il faut voir de quoi est-ce qu’elle est malade."
+      ]
+    },
+    {
+      "id": "p00587",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "Alle est malade d’hypocrisie, monsieu."
+      ]
+    },
+    {
+      "id": "p00588",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "D’hypocrisie ?"
+      ]
+    },
+    {
+      "id": "p00589",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "Oui, c’est-à-dire qu’aile est enflée partout ; et l’an dit que c’est quantité de sériosités qu’alle a dans le corps, et que son foie, son ventre, ou sa rate, comme vous voudrois l’appeler, au glieu de faire du sang, ne fait plus que de l’iau. Alle a, de deux jours l’un, la fièvre quotiguienne, avec des"
+      ]
+    },
+    {
+      "id": "p00590",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "lassitudes et des douleurs dans les mufles des jambes. On entend dans sa gorge des fleumes qui sont tout prêts à l’étouffer ; et parfois il li prend des syncoles et des conversions, que je crayons qu’alle est passée. J’avons dans notre village un apothicaire, révérence parler, qui li a donné je ne sais combien d’histoires ; et il m’en coûte plus d’eune douzaine de bons écus en lavements, ne v’s en déplaise, en aposthumes qu’on li a fait prendre, en infections de jacinthe, et en portions cordales. Mais tout ça, comme dit l’autre, n’a été que de l’onguent miton-mitaine. Il veloit li bailler d’eune certaine drogue que l’on appelle du vin amétile ; mais j’ai-z-eu peur franchement que ça l’envoyît a patres ; et l’an dit que ces gros médecins tuont je ne sais combien de monde avec cette invention-là."
+      ]
+    },
+    {
+      "id": "p00591",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", tendant toujours la main, et la branlant comme pour signe qu’il demande de l’argent."
+      ]
+    },
+    {
+      "id": "p00592",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Venons au fait, mon ami, venons au fait."
+      ]
+    },
+    {
+      "id": "p00593",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "THIBAUT",
+      "lines": [
+        "Le fait est, monsieu, que je venons vous prier de nous dire ce qu’il faut que je fassions."
+      ]
+    },
+    {
+      "id": "p00594",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je ne vous entends point du tout."
+      ]
+    },
+    {
+      "id": "p00595",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "PERRIN",
+      "lines": [
+        "Monsieu, ma mère est malade ; et v’là deux écus que je vous apportons pour nous bailler queuque remède."
+      ]
+    },
+    {
+      "id": "p00596",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! je vous entends, vous. Voilà un garçon qui parle clairement, et qui s’explique comme il faut. Vous dites que votre mère est malade d’hydropisie, qu’elle est enflée par tout le corps, qu’elle a la fièvre, avec des douleurs dans les jambes, et qu’il lui prend parfois des syncopes et des convulsions, c’est-à-dire des évanouissements ?"
+      ]
+    },
+    {
+      "id": "p00597",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "PERRIN",
+      "lines": [
+        "Hé ! oui, monsieu, c’est justement ça."
+      ]
+    },
+    {
+      "id": "p00598",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "J’ai compris d’abord vos paroles. Vous avez un père qui ne sait ce qu’il dit. Maintenant vous me demandez un remède ?"
+      ]
+    },
+    {
+      "id": "p00599",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "PERRIN",
+      "lines": [
+        "Oui, monsieu."
+      ]
+    },
+    {
+      "id": "p00600",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Un remède pour la guérir ?"
+      ]
+    },
+    {
+      "id": "p00601",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "PERRIN",
+      "lines": [
+        "C’est comme je l’entendons."
+      ]
+    },
+    {
+      "id": "p00602",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tenez, voilà un morceau de fromage qu’il faut que vous lui fassiez prendre."
+      ]
+    },
+    {
+      "id": "p00603",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "PERRIN",
+      "lines": [
+        "Du fromage, monsieu ?"
+      ]
+    },
+    {
+      "id": "p00604",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui, c’est un fromage préparé, où il entre de l’or, du corail et des perles, et quantité d’autres choses précieuses."
+      ]
+    },
+    {
+      "id": "p00605",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "PERRIN",
+      "lines": [
+        "Monsieu, je vous sommes bien obligés ; et j’allons li faire prendre ça tout à l’heure."
+      ]
+    },
+    {
+      "id": "p00606",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Allez. Si elle meurt, ne manquez pas de la faire enterrer du mieux que vous pourrez."
+      ]
+    },
+    {
+      "id": "p00607",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène III"
+      ]
+    },
+    {
+      "id": "p00608",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Le théâtre change, et représente, comme au seconde acte, une chambre de la maison de Géronte."
+      ]
+    },
+    {
+      "id": "p00609",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Jacqueline, Sganarelle, Lucas, dans le fond du théâtre"
+      ]
+    },
+    {
+      "id": "p00610",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voici la belle nourrice. Ah ! nourrice de mon cœur, je suis ravi de cette rencontre ; et votre vue est la rhubarbe, la casse, et le séné, qui purgent toute la mélancolie de mon ame."
+      ]
+    },
+    {
+      "id": "p00611",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Par ma figue, monsieu le médecin, ça est trop bian dit pour moi, et je n’entends rian à tout votre latin."
+      ]
+    },
+    {
+      "id": "p00612",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Devenez malade, nourrice, je vous prie ; devenez malade pour l’amour de moi. J’aurois toutes les joies du monde de vous guérir."
+      ]
+    },
+    {
+      "id": "p00613",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Je sis votre sarvante ; j’aime bian mieux qu’an ne me garisse pas."
+      ]
+    },
+    {
+      "id": "p00614",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que je vous plains, belle nourrice, d’avoir un mari jaloux et fâcheux comme celui que vous avez !"
+      ]
+    },
+    {
+      "id": "p00615",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Que velez-vous, monsieu ? C’est pour la pénitence de mes fautes ; et là où la chèvre est liée, il faut bian qu’aile y broute."
+      ]
+    },
+    {
+      "id": "p00616",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Comment ! un rustre comme cela ! un homme qui vous observe toujours, et ne veut pas que personne vous parle !"
+      ]
+    },
+    {
+      "id": "p00617",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Hélas ! vous n’avez rian vu encore ; et ce n’est qu’un petit échantillon de sa mauvaise humeur."
+      ]
+    },
+    {
+      "id": "p00618",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Est-il possible ? et qu’un homme ait l’ame assez basse pour maltraiter une personne comme vous ? Ah ! que j’en sais, belle nourrice, et qui ne sont pas loin d’ici, qui se tiendroient heureux de baiser seulement les petits bouts de vos petons ! Pourquoi faut-il qu’une personne si bien faite soit tombée en de telles mains ! et qu’un franc animal, un brutal, un stupide, un sot… pardonnez-moi, nourrice, si je parle ainsi de votre mari…"
+      ]
+    },
+    {
+      "id": "p00619",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Hé ! monsieu, je sais bian qu’il mérite tous ces noms-là."
+      ]
+    },
+    {
+      "id": "p00620",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui, sans doute, nourrice, il les mérite ; et il mériteroit encore que vous lui missiez quelque chose sur la tête, pour le punir des soupçons qu’il a."
+      ]
+    },
+    {
+      "id": "p00621",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Il est bian vrai que si je n’avois devant les yeux que son intérêt, il pourroit m’obliger à queuque étrange chose."
+      ]
+    },
+    {
+      "id": "p00622",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ma foi, vous ne feriez pas mal de vous venger de lui avec quelqu’un. C’est un homme, je vous le dis, qui mérite bien cela ; et, si j’étois assez heureux, belle nourrice, pour être choisi pour… (Dans le temps que Sganarelle tend les bras pour embrasser Jacqueline, Lucas passe sa tête par dessous, et se met entre eux deux. Sganarelle et Jacqueline regardent Lucas, et sortent chacun de leur côté, mais le médecin d’une manière fort plaisante.)"
+      ]
+    },
+    {
+      "id": "p00623",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène IV"
+      ]
+    },
+    {
+      "id": "p00624",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Lucas."
+      ]
+    },
+    {
+      "id": "p00625",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Holà ! Lucas, n’as-tu point vu ici notre médecin ?"
+      ]
+    },
+    {
+      "id": "p00626",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Et oui, de par tous les diantres, je l’ai vu, et ma femme aussi."
+      ]
+    },
+    {
+      "id": "p00627",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Où est-ce donc qu’il peut être ?"
+      ]
+    },
+    {
+      "id": "p00628",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Je ne sais ; mais je voudrois qu’il fût à tous les guèbles."
+      ]
+    },
+    {
+      "id": "p00629",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Va-t’en voir un peu ce que fait ma fille ?"
+      ]
+    },
+    {
+      "id": "p00630",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène V"
+      ]
+    },
+    {
+      "id": "p00631",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Sganarelle, Léandre, Géronte"
+      ]
+    },
+    {
+      "id": "p00632",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ah ! monsieur, je demandois où vous étiez."
+      ]
+    },
+    {
+      "id": "p00633",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Je m’étois amusé dans votre cour à expulser le superflu de la boisson. Comment se porte la malade ?"
+      ]
+    },
+    {
+      "id": "p00634",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Un peu plus mal depuis votre remède."
+      ]
+    },
+    {
+      "id": "p00635",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tant mieux ; c’est signe qu’il opère."
+      ]
+    },
+    {
+      "id": "p00636",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Oui ; mais en opérant, je crains qu’il ne l’étouffe"
+      ]
+    },
+    {
+      "id": "p00637",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ne vous mettez pas en peine ; j’ai des remèdes qui se moquent de tout, et je l’attends à l’agonie."
+      ]
+    },
+    {
+      "id": "p00638",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", montrant Léandre."
+      ]
+    },
+    {
+      "id": "p00639",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Qui est cet homme-là que vous amenez ?"
+      ]
+    },
+    {
+      "id": "p00640",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", faisant des signes avec la main pour montrer que c’est son apothicaire."
+      ]
+    },
+    {
+      "id": "p00641",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est…"
+      ]
+    },
+    {
+      "id": "p00642",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Quoi ?"
+      ]
+    },
+    {
+      "id": "p00643",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Celui…"
+      ]
+    },
+    {
+      "id": "p00644",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Hé !"
+      ]
+    },
+    {
+      "id": "p00645",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Qui…"
+      ]
+    },
+    {
+      "id": "p00646",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je vous entends."
+      ]
+    },
+    {
+      "id": "p00647",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Votre fille en aura besoin."
+      ]
+    },
+    {
+      "id": "p00648",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène VI"
+      ]
+    },
+    {
+      "id": "p00649",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Lucinde, Géronte, Léandre, Jacqueline, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00650",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "JACQUELINE",
+      "lines": [
+        "Monsieu, v’là votre fille qui veut un peu marcher."
+      ]
+    },
+    {
+      "id": "p00651",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Cela lui fera du bien. Allez-vous-en, monsieur l’apothicaire, tâter un peu son pouls, afin que je raisonne tantôt avec vous de sa maladie."
+      ]
+    },
+    {
+      "id": "p00652",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "(En cet endroit, il tire Géronte à un bout du théâtre, et, lui passant un bras sur les épaules, lui rabat la main sous le menton, avec laquelle il le fait retourner vers lui lorsqu’il veut regarder ce que sa fille et l’apothicaire font ensemble, lui tenant cependant le discours suivant pour l’amuser.)"
+      ]
+    },
+    {
+      "id": "p00653",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Monsieur, c’est une grande et subtile question entre les docteurs, de savoir si les femmes sont plus faciles à guérir que les hommes. Je vous prie d’écouter ceci, s’il vous plaît. Les uns disent que non, les autres disent que oui : et moi je dis que oui et non ; d’autant que l’incongruité des humeurs opaques, qui se rencontrent au tempérament naturel des femmes, étant cause que la partie brutale veut toujours prendre empire sur la sensitive, on voit que l’inégalité de leurs opinions dépend du mouvement oblique du cercle de la lune ; et comme le soleil, qui darde ses rayons sur la concavité de la terre, trouve…"
+      ]
+    },
+    {
+      "id": "p00654",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Léandre."
+      ]
+    },
+    {
+      "id": "p00655",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Non, je ne suis point du tout capable de changer de sentiment."
+      ]
+    },
+    {
+      "id": "p00656",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Voilà ma fille qui parle ! ô grande vertu du remède ! ô admirable médecin ! Que je vous suis obligé, monsieur, de cette guérison merveilleuse ! et que puis-je faire pour vous après un tel service ?"
+      ]
+    },
+    {
+      "id": "p00657",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se promenant sur le théâtre, et s’eventant avec son chapeau."
+      ]
+    },
+    {
+      "id": "p00658",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Voilà une maladie qui m’a bien donné de la peine !"
+      ]
+    },
+    {
+      "id": "p00659",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Oui, mon père, j’ai recouvré la parole ; mais je l’ai recouvrée pour vous dire que je n’aurai jamais d’autre époux que Léandre, et que c’est inutilement que vous voulez me donner Horace."
+      ]
+    },
+    {
+      "id": "p00660",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Mais…"
+      ]
+    },
+    {
+      "id": "p00661",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Rien n’est capable d’ébranler la résolution que j’ai prise."
+      ]
+    },
+    {
+      "id": "p00662",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Quoi !"
+      ]
+    },
+    {
+      "id": "p00663",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Vous m’opposerez en vain de belles raisons."
+      ]
+    },
+    {
+      "id": "p00664",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Si…"
+      ]
+    },
+    {
+      "id": "p00665",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Tous vos discours ne serviront de rien."
+      ]
+    },
+    {
+      "id": "p00666",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je…"
+      ]
+    },
+    {
+      "id": "p00667",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "C’est une chose où je suis déterminée."
+      ]
+    },
+    {
+      "id": "p00668",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Mais…"
+      ]
+    },
+    {
+      "id": "p00669",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Il n’est puissance paternelle qui me puisse obliger à me marier malgré moi."
+      ]
+    },
+    {
+      "id": "p00670",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "J’ai…"
+      ]
+    },
+    {
+      "id": "p00671",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Vous avez beau faire tous vos efforts."
+      ]
+    },
+    {
+      "id": "p00672",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Il…"
+      ]
+    },
+    {
+      "id": "p00673",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Mon cœur ne sauroit se soumettre à cette tyrannie."
+      ]
+    },
+    {
+      "id": "p00674",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "La…"
+      ]
+    },
+    {
+      "id": "p00675",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Et je me jetterai plutôt dans un couvent que d’épouser un homme que je n’aime point."
+      ]
+    },
+    {
+      "id": "p00676",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Mais…"
+      ]
+    },
+    {
+      "id": "p00677",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", parlant d’un ton de voix à étourdir."
+      ]
+    },
+    {
+      "id": "p00678",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Non. En aucune façon. Point d’affaires. Vous perdez le temps. Je n’en ferai rien. Cela est résolu."
+      ]
+    },
+    {
+      "id": "p00679",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Ah ! quelle impétuosité de paroles ! Il n’y a pas moyen d’y résister. (à Sganarelle.) Monsieur, je vous prie de la faire redevenir muette."
+      ]
+    },
+    {
+      "id": "p00680",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est une chose qui m’est impossible. Tout ce que je puis faire pour votre service est de vous rendre sourd, si vous voulez"
+      ]
+    },
+    {
+      "id": "p00681",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Je vous remercie. (à Lucinde.) Penses-tu donc…"
+      ]
+    },
+    {
+      "id": "p00682",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "Non, toutes vos raisons ne gagneront rien sur mon ame."
+      ]
+    },
+    {
+      "id": "p00683",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Tu épouseras Horace dès ce soir."
+      ]
+    },
+    {
+      "id": "p00684",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCINDE",
+      "lines": [
+        "J’épouserai plutôt la mort."
+      ]
+    },
+    {
+      "id": "p00685",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Géronte."
+      ]
+    },
+    {
+      "id": "p00686",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Mon Dieu ! arrêtez-vous, laissez-moi médicamenter cette affaire ; c’est une maladie qui la tient, et je sais le remède qu’il y faut apporter."
+      ]
+    },
+    {
+      "id": "p00687",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Seroit-il possible, monsieur, que vous pussiez aussi guérir cette maladie d’esprit ?"
+      ]
+    },
+    {
+      "id": "p00688",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui ; laissez-moi faire, j’ai des remèdes pour tout ; et notre apothicaire nous servira pour cette cure, (à Léandre.) Un mot. Vous voyez que l’ardeur qu’elle a pour ce Léandre est tout à fait contraire aux volontés du père ; qu’il n’y a point de temps à perdre ; que les humeurs sont fort aigries ; et qu’il est nécessaire de trouver promptement un remède à ce mal, qui pourroit empirer par le retardement. Pour moi, je n’y en vois qu’un seul, qui est une prise de fuite purgative, que vous mêlerez comme il faut avec deux dragmes de matrimonium en pilules. Peut-être fera-t-elle quelque difficulté à prendre ce remède : mais comme vous êtes habile homme dans votre métier, c’est à vous de l’y résoudre, et de lui faire avaler la chose du mieux que vous pourrez. Allez-vous-en lui faire faire un petit tour de jardin, afin de préparer les humeurs, tandis que j’entretiendrai ici son père ; mais surtout ne perdez point de temps. Au remède, vite ! au remède spécifique !"
+      ]
+    },
+    {
+      "id": "p00689",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène VII"
+      ]
+    },
+    {
+      "id": "p00690",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00691",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Quelles drogues, monsieur, sont celles que vous venez de dire ? il me semble que je ne les ai jamais ouï nommer."
+      ]
+    },
+    {
+      "id": "p00692",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ce sont drogues dont on se sert dans les nécessités urgentes."
+      ]
+    },
+    {
+      "id": "p00693",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Avez-vous jamais vu une insolence pareille à la sienne ?"
+      ]
+    },
+    {
+      "id": "p00694",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Les filles sont quelquefois un peu têtues."
+      ]
+    },
+    {
+      "id": "p00695",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Vous ne sauriez croire comme elle est affolée de ce Léandre."
+      ]
+    },
+    {
+      "id": "p00696",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "La chaleur du sang fait cela dans les jeunes esprits."
+      ]
+    },
+    {
+      "id": "p00697",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Pour moi, dès que j’ai eu découvert la violence de cet amour, j’ai su tenir toujours ma fille renfermée."
+      ]
+    },
+    {
+      "id": "p00698",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Vous avez fait sagement."
+      ]
+    },
+    {
+      "id": "p00699",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Et j’ai bien empêché qu’ils n’aient eu communication ensemble."
+      ]
+    },
+    {
+      "id": "p00700",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Fort bien."
+      ]
+    },
+    {
+      "id": "p00701",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Il seroit arrivé quelque folie, si j’avois souffert qu’ils se fussent vus."
+      ]
+    },
+    {
+      "id": "p00702",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Sans doute."
+      ]
+    },
+    {
+      "id": "p00703",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Et je crois qu’elle auroit été fille à s’en aller avec lui."
+      ]
+    },
+    {
+      "id": "p00704",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "C’est prudemment raisonné."
+      ]
+    },
+    {
+      "id": "p00705",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "On m’avertit qu’il fait tous ses efforts pour lui parler."
+      ]
+    },
+    {
+      "id": "p00706",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Quel drôle !"
+      ]
+    },
+    {
+      "id": "p00707",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Mais il perdra son temps."
+      ]
+    },
+    {
+      "id": "p00708",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah ! ah !"
+      ]
+    },
+    {
+      "id": "p00709",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Et j’empêcherai bien qu’il ne la voie."
+      ]
+    },
+    {
+      "id": "p00710",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Il n’a pas affaire à un sot, et vous savez des rubriques qu’il ne sait pas. Plus fin que vous n’est pas bête."
+      ]
+    },
+    {
+      "id": "p00711",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène VIII"
+      ]
+    },
+    {
+      "id": "p00712",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Lucas, Géronte, Sganarelle"
+      ]
+    },
+    {
+      "id": "p00713",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Ah ! palsanguenne, monsieu, vaici bian du tintamarre ; votre fille s’en est enfuie avec son Liandre. C’étoit lui qui étoit l’apothicaire ; et v’là monsieu le médecin qui a fait cette belle opération-là."
+      ]
+    },
+    {
+      "id": "p00714",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Comment ! m’assassiner de la façon ! Allons, un commissaire, et qu’on empêche qu’il ne sorte. Ah ! traître, je vous ferai punir par la justice."
+      ]
+    },
+    {
+      "id": "p00715",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Ah ! par ma fi, monsieu le médecin, vous serez pendu : bougez de là seulement."
+      ]
+    },
+    {
+      "id": "p00716",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène IX"
+      ]
+    },
+    {
+      "id": "p00717",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Martine, Sganarelle, Lucas"
+      ]
+    },
+    {
+      "id": "p00718",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Lucas."
+      ]
+    },
+    {
+      "id": "p00719",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Ah ! mon Dieu ! que j’ai eu de peine à trouver ce logis Dites-moi un peu des nouvelles du médecin que je vous ai donné."
+      ]
+    },
+    {
+      "id": "p00720",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Le v’là qui va être pendu."
+      ]
+    },
+    {
+      "id": "p00721",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MATINE",
+      "lines": [
+        "Quoi ! mon mari pendu ! Hélas ! et qu’a-t-il fait pour cela ?"
+      ]
+    },
+    {
+      "id": "p00722",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LUCAS",
+      "lines": [
+        "Il a fait enlever la fille de notre maître."
+      ]
+    },
+    {
+      "id": "p00723",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Hélas ! mon cher mari, est-il bien vrai qu’on te va pendre ?"
+      ]
+    },
+    {
+      "id": "p00724",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Tu vois. Ah !"
+      ]
+    },
+    {
+      "id": "p00725",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Faut-il que tu te laisses mourir en présence de tant de gens ?"
+      ]
+    },
+    {
+      "id": "p00726",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Que veux-tu que j’y fasse ?"
+      ]
+    },
+    {
+      "id": "p00727",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Encore, si tu avois achevé de couper notre bois, je prendrois quelque consolation."
+      ]
+    },
+    {
+      "id": "p00728",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Retire-toi de là, tu me fends le cœur."
+      ]
+    },
+    {
+      "id": "p00729",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Non, je veux demeurer pour t’encourager à la mort ; et je ne te quitterai point que je ne t’aie vu pendu."
+      ]
+    },
+    {
+      "id": "p00730",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Ah !"
+      ]
+    },
+    {
+      "id": "p00731",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène X"
+      ]
+    },
+    {
+      "id": "p00732",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Sganarelle, Martine"
+      ]
+    },
+    {
+      "id": "p00733",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Sganarelle."
+      ]
+    },
+    {
+      "id": "p00734",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Le commissaire viendra bientôt, et l’on s’en va vous mettre en lieu où l’on me répondra de vous."
+      ]
+    },
+    {
+      "id": "p00735",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à genoux, le chapeau à la main."
+      ]
+    },
+    {
+      "id": "p00736",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Hélas ! cela ne se peut-il point changer en quelques coups de bâton ?"
+      ]
+    },
+    {
+      "id": "p00737",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Non, non ; la justice en ordonnera. Mais que vois-je ?"
+      ]
+    },
+    {
+      "id": "p00738",
+      "page": 2,
+      "kind": "heading",
+      "lines": [
+        "Scène XI"
+      ]
+    },
+    {
+      "id": "p00739",
+      "page": 2,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Géronte, Léandre, Lucinde, Sganarelle, Lucas, Martine"
+      ]
+    },
+    {
+      "id": "p00740",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "Monsieur, je tiens faire paroître Léandre à vos yeux, et remettre Lucinde en votre pouvoir. Nous avons eu dessein de prendre la fuite nous deux, et de nous aller marier ensemble ; mais cette entreprise a fait place à un procédé plus honnête. Je ne prétends point vous voler votre fille, et ce n’est que de votre main que je veux la recevoir. Ce que je vous dirai, monsieur, c’est que je viens tout à l’heure de recevoir des lettres par où j’apprends que mon oncle est mort, et que je suis héritier de tous ses biens."
+      ]
+    },
+    {
+      "id": "p00741",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "GÉRONTE",
+      "lines": [
+        "Monsieur, votre vertu m’est tout à fait considérable, et je vous donne ma fille avec la plus grande joie du monde."
+      ]
+    },
+    {
+      "id": "p00742",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00743",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGAARELLE",
+      "lines": [
+        "La médecine l’a échappé belle !"
+      ]
+    },
+    {
+      "id": "p00744",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "MARTINE",
+      "lines": [
+        "Puisque tu ne seras point pendu, rends-moi grâce d’être médecin, car c’est moi qui t’ai procuré cet honneur."
+      ]
+    },
+    {
+      "id": "p00745",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Oui ! c’est toi qui m’as procuré je ne sais combien de coups de bâton."
+      ]
+    },
+    {
+      "id": "p00746",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Sganarelle."
+      ]
+    },
+    {
+      "id": "p00747",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "LÉANDRE",
+      "lines": [
+        "L’effet en est trop beau pour en garder du ressentiment."
+      ]
+    },
+    {
+      "id": "p00748",
+      "page": 2,
+      "kind": "prose",
+      "speaker": "SGANARELLE",
+      "lines": [
+        "Soit. (à Martine.) Je te pardonne ces coups de bâton en faveur de la dignité où tu m’as élevé : mais prépare-toi désormais à vivre dans un grand respect avec un homme de ma conséquence, et songe que la colère d’un médecin est plus à craindre qu’on ne peut croire."
+      ]
+    },
+    {
+      "id": "p00749",
+      "page": 2,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "Fin du Médecin malgré lui."
+      ]
+    }
+  ]
+}

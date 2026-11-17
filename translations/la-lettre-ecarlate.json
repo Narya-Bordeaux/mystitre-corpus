@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-lettre-ecarlate",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "9c0c9fdea77692fb654e77b9996fa52076389500f84437daa7c99a869b6b9e95",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "A throng of bearded men, in sad-colored garments, and gray, steeple-crowned hats, intermixed with women, some wearing hoods, and others bareheaded, was assembled in front of a wooden edifice, the door of which was heavily timbered with oak, and studded with iron spikes.",
+      "translation": "Une foule d'hommes barbus, vêtus de sombres habits et coiffés de chapeaux gris à haute calotte pointue, mêlés à des femmes, les unes en capuche, les autres tête nue, était rassemblée devant un édifice de bois, dont la porte, épaisse de chêne, était hérissée de clous de fer."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "The founders of a new colony, whatever Utopia of human virtue and happiness they might originally project, have invariably recognized it among their earliest practical necessities to allot a portion of the virgin soil as a cemetery, and another portion as the site of a prison.",
+      "translation": "Les fondateurs d'une colonie nouvelle, quelque utopie de vertu et de bonheur humains qu'ils aient d'abord projetée, ont invariablement jugé nécessaire, dès l'origine, de réserver une part du sol vierge pour en faire un cimetière, et une autre pour y bâtir une prison."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "In accordance with this rule, it may safely be assumed that the forefathers of Boston had built the first prison-house somewhere in the vicinity of Cornhill, almost as seasonably as they marked out the first burial-ground, on Isaac Johnson's lot, and round about his grave, which subsequently became the nucleus of all the congregated sepulchres in the old church-yard of King's Chapel.",
+      "translation": "Conformément à cette règle, on peut tenir pour assuré que les premiers habitants de Boston avaient élevé leur première prison quelque part près de Cornhill, presque aussi tôt qu'ils avaient délimité le premier cimetière, sur le terrain d'Isaac Johnson, autour de sa tombe, qui devint par la suite le noyau de toutes les sépultures rassemblées dans le vieux cimetière de King's Chapel."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00020.s3",
+      "original": "It was near that old and sunken grave, yet with a space between, as if the dust of the two sleepers had no right to mingle.",
+      "translation": "C'était près de cette vieille tombe affaissée, mais avec un espace entre elles, comme si la poussière des deux dormeurs n'avait pas le droit de se mêler."
+    },
+    {
+      "id": "p00020.s4",
+      "original": "Yet one tombstone served for both.",
+      "translation": "Une seule pierre pourtant servait pour les deux."
+    },
+    {
+      "id": "p00020.s5",
+      "original": "All around, there were monuments carved with armorial bearings; and on this simple slab of slate—as the curious investigator may still discern, and perplex himself with the purport—there appeared the semblance of an engraved escutcheon.",
+      "translation": "Tout autour, des monuments étaient sculptés d'armoiries ; et sur cette simple dalle d'ardoise — le curieux observateur peut encore le discerner, et s'en perdre en conjectures — apparaissait l'image d'un écusson gravé."
+    },
+    {
+      "id": "p00020.s6",
+      "original": "It bore a device, a herald's wording of which might serve for a motto and brief description of our now concluded legend; so sombre is it, and relieved only by one ever-glowing point of light gloomier than the shadow:—\n\"On a field, sable, the letter A, gules.\"",
+      "translation": "Il portait une devise, dont un héraut aurait pu donner la formule comme motto et brève description de notre légende maintenant achevée, tant elle est sombre, et relevée seulement par un point de lumière toujours ardent, plus lugubre que l'ombre :\n« Sur champ de sable, la lettre A de gueules. »"
+    }
+  ]
+}

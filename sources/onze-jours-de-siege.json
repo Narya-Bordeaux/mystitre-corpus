@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "onze-jours-de-siege",
+  "title": "Onze jours de siège",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Comédie en trois actes en prose, Paris, Michel Lévy frères, 1861 (d'après la page de titre reproduite sur Wikisource)",
+  "pages": [
+    {
+      "title": "Onze jours de siège",
+      "revisionId": 11522989
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d82fb4ec386b4c26f7552b3685507e56b60d8a8fb44fc54e98b764d5be8fe640",
+  "bodyStart": {
+    "id": "p00029",
+    "textPrefix": "On les entend d’ici ! (Descendant en scène). Ma foi ! m’est "
+  },
+  "bodyEnd": {
+    "id": "p01687",
+    "textPrefix": "Votre exemple me gagne… J’en ferais bien autant… si l’on pou"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre, distribution, indications de lieu, titres d'actes et de scènes, didascalie d'ouverture (p00028, ligne de décor lue par Baptiste, entièrement entre parenthèses) et « FIN. ». Le corps commence à la première réplique de Baptiste et s'achève sur la réplique de Roquefeuille."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p01682",
+      "reason": "Didascalie centrée amputée du nom du personnage (le nom, en lien dans l'édition, a été perdu à l'extraction) : « , prenant la main de … » n'est pas du texte lisible sans lui"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p01684",
+      "reason": "Didascalie centrée amputée du nom du personnage (le nom, en lien dans l'édition, a été perdu à l'extraction) : « , prenant la main de … » n'est pas du texte lisible sans lui"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "oblomov",
+  "title": "Oblomov",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ru.wikisource.org",
+    "edition": "Wikisource russe, « Обломов (Гончаров) », partie 1 ch. 1 et partie 4 ch. 11 ; édition source non indiquée",
+    "pages": [
+      {
+        "title": "Обломов (Гончаров)/Часть 1/Глава 1",
+        "revisionId": 5642424
+      },
+      {
+        "title": "Обломов (Гончаров)/Часть 4/Глава 11",
+        "revisionId": 5646288
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c354dfe6d54dbe11d513d10622bede05b177e5c67c4e5b0dc896283e8d993f28"
+  },
+  "titleMasks": [
+    "Oblomov",
+    "oblomovisme"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00002.s1"
+    ],
+    "french": "Rue des Pois, dans l’une de ces grandes maisons dont la population suffirait à peupler toute une ville de district, Ilia Ilitch [TITRE] était couché, un matin, dans son lit, en son appartement.\nC’était un homme d’une trentaine d’années, de taille moyenne, d’agréable apparence, aux yeux gris foncé, mais dont le visage n’exprimait aucune idée déterminée, aucune concentration.",
+    "original": "В Гороховой улице, в одном из больших домов, народонаселения которого стало бы на целый уездный город, лежал утром в постели, на своей квартире, Илья Ильич Обломов.\nЭто был человек лет тридцати двух-трех от роду, среднего роста, приятной наружности, с темно-серыми глазами, но с отсутствием всякой определенной идеи, всякой сосредоточенности в чертах лица.",
+    "length": 376,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00194.s1",
+      "p00194.s2",
+      "p00195.s1",
+      "p00195.s2",
+      "p00196.s1",
+      "p00196.s2",
+      "p00197.s1"
+    ],
+    "french": "— La cause… quelle cause ! L’[TITRE] ! dit Stolz.\n— L’[TITRE] ! répéta le littérateur avec perplexité. — Qu’est-ce que cela ?\n— Je vais te le raconter, laisse-moi rassembler mes pensées et mes souvenirs. Mais toi, écris : cela servira peut-être à quelqu’un.\nEt il lui raconta ce qui est écrit ici.",
+    "original": "— Причина… какая причина! Обломовщина! — сказал Штольц.\n— Обломовщина! — с недоумением повторил литератор. — Что это такое?\n— Сейчас расскажу тебе, дай собраться с мыслями и памятью. А ты запиши: может быть, кому-нибудь пригодится.\nИ он рассказал ему, что здесь написано.",
+    "length": 305,
+    "truncated": false
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-romance-de-la-chambre-de-louest",
+  "title": "La Romance de la chambre de l'Ouest",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Texte de zh.wikisource « 西廂記 », 5 livrets (本) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "西廂記/第1本",
+      "revisionId": 2117999
+    },
+    {
+      "title": "西廂記/第5本",
+      "revisionId": 1536877
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d784ea376ea1006d7a5cf335813863d03e0e56fa061e79cc2440fab0ad7e112b",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "　　【外扮老夫人上開】老身姓鄭，夫主姓崔，官拜前朝相國，不幸因病告殂。只生得個小女，小字鶯鶯，年一十九歲，針指女工，詩詞"
+  },
+  "bodyEnd": {
+    "id": "p00020",
+    "textPrefix": "　　【夫人上云】誰想張生負了俺家，去衛尚書家做女婿去。今日不負老相公遺言，還招鄭恆為婿。今日好個日子，過門者。準備下筵席"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intitulés (楔子, 第N折), ligne « 總目 » (titre-résumé, paratexte), navigation, mentions de domaine public. Début : prologue (楔子) du livret 1 ; fin : dernier paragraphe du livret 5 (quatrième acte)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00020",
+      "find": "【下】",
+      "replace": "",
+      "reason": "Didascalie de sortie en fin de pièce, qui n'est pas du texte lu."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00020",
+      "find": "題目　小琴童傳捷報　崔鶯鶯寄汗衫 正名　鄭伯常乾捨命　張君瑞慶團圞",
+      "replace": "",
+      "reason": "Couplet-titre (題目・正名) qui résume l'acte : paratexte de mise en forme, comme la ligne « 總目 » exclue."
+    }
+  ]
+}

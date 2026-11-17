@@ -1,0 +1,172 @@
+{
+  "formatVersion": 1,
+  "bookId": "lettres-persanes",
+  "sha256": "b17cb6adcec16bd0445befc866e57e4412fe6d2aee73a0d97e22e462e4c8ca98",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "LETTRE I."
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "USBEK À SON AMI RUSTAN."
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "À Ispahan."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Nous n’avons séjourné qu’un jour à Com. Lorsque nous eûmes fait nos dévotions sur le tombeau de la vierge qui a mis au monde douze prophètes, nous nous remîmes en chemin, et hier, vingt-cinquième jour de notre départ d’Ispahan, nous arrivâmes à Tauris."
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Rica et moi sommes peut-être les premiers parmi les Persans que l’envie de savoir ait fait sortir de leur pays, et qui aient renoncé aux douceurs d’une vie tranquille pour aller chercher laborieusement la sagesse."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Nous sommes nés dans un royaume florissant ; mais nous n’avons pas cru que ses bornes fussent celles de nos connoissances, et que la lumière orientale dût seule nous éclairer."
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Mande-moi ce que l’on dit de notre voyage ; ne me flatte point : je ne compte pas sur un grand nombre d’approbateurs. Adresse ta lettre à Erzeron, où je séjournerai quelque temps. Adieu, mon cher Rustan. Sois assuré qu’en quelque lieu du monde où je sois, tu as un ami fidèle."
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "De Tauris, le 15 de la lune de Saphar, 1711."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "LETTRE CLXI."
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "ROXANE À USBEK."
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "À Paris."
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Oui, je t’ai trompé ; j’ai séduit tes eunuques ; je me suis jouée de ta jalousie ; et j’ai su, de ton affreux sérail, faire un lieu de délices et de plaisirs."
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Je vais mourir ; le poison va couler dans mes veines : car que ferois-je ici, puisque le seul homme qui me retenoit à la vie n’est plus ? Je meurs ; mais mon ombre s’envole bien accompagnée : je viens d’envoyer devant moi ces gardiens sacrilèges, qui ont répandu le plus beau sang du monde."
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Comment as-tu pensé que je fusse assez crédule pour m’imaginer que je ne fusse dans le monde que pour adorer tes caprices ? que, pendant que tu te permets tout, tu eusses le droit d’affliger tous mes désirs ? Non : j’ai pu vivre dans la servitude, mais j’ai toujours été libre : j’ai réformé tes lois sur celles de la nature ; et mon esprit s’est toujours tenu dans l’indépendance."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tu devrois me rendre grâces encore du sacrifice que je t’ai fait ; de ce que je me suis abaissée jusqu’à te paraître fidèle ; de ce que j’ai lâchement gardé dans mon cœur ce que j’aurois dû faire paraître à toute la terre ; enfin de ce que j’ai profané la vertu en souffrant qu’on appelât de ce nom ma soumission à tes fantaisies."
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Tu étois étonné de ne point trouver en moi les transports de l’amour : si tu m’avois bien connue, tu y aurois trouvé toute la violence de la haine."
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Mais tu as eu longtemps l’avantage de croire qu’un cœur comme le mien t’étoit soumis. Nous étions tous deux heureux ; tu me croyois trompée, et je te trompais."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Ce langage, sans doute, te paroît nouveau. Seroit-il possible qu’après t’avoir accablé de douleurs, je te forçasse encore d’admirer mon courage ? Mais c’en est fait, le poison me consume, ma force m’abandonne ; la plume me tombe des mains ; je sens affaiblir jusqu’à ma haine ; je me meurs."
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Du sérail d’Ispahan, le 8 de la lune de Rébiab 1, 1720."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        "FIN DU TOME SECOND"
+      ]
+    }
+  ]
+}

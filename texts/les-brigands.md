@@ -1,0 +1,934 @@
+# Les Brigands
+
+Source : Die Räuber, Wikisource allemand (pages d'actes) ; édition non indiquée — de.wikisource.org
+
+Origine : Traduction par nos soins à partir de l'original (de)
+
+- [Die Räuber/1. Akt](https://de.wikisource.org/w/index.php?title=Die_Räuber/1._Akt&oldid=861908)
+- [Die Räuber/5. Akt](https://de.wikisource.org/w/index.php?title=Die_Räuber/5._Akt&oldid=883143)
+
+`p00001` Erster Akt.
+
+`p00002` Erste Scene.
+
+`p00003` ________
+
+`p00004` Franken.
+
+`p00005` Saal im Moorischen Schloß.
+
+`p00006` Franz. Der alte Moor.
+
+`p00007` Franz. Aber ist euch auch wohl, Vater? Ihr seht so blaß.
+
+`p00008` Der alte Moor. Ganz wol, mein Sohn, – was hattest du mir zu sagen?
+
+`p00009` Franz. Die Post ist angekommen – ein Brief von unserm Korrespondenten in Leipzig –
+
+`p00010` D. a. Moor. Begierig. Nachrichten von meinem Sohne Karl?
+
+`p00011` Franz. Hm! hm! – So ist es. Aber ich fürchte – ich weiß nicht – ob ich – eurer Gesundheit? – Ist euch wirklich ganz wol, mein Vater?
+
+`p00012` D. a. Moor. Wie dem Fisch im Wasser! Von meinem Sohne schreibt er? – Wie kommst du zu dieser Besorgniß? Du hast mich zweymal gefragt.
+
+`p00013` Franz. Wenn ihr krank seyd – nur die leiseste Ahndung habt es zu werden, so laßt mich – ich will zu gelegnerer Zeit zu euch reden, halb vor sich. Diese Zeitung ist nicht für einen zerbrechlichen Körper.
+
+`p00014` D. a. Moor. Gott! Gott! was werd ich hören?
+
+`p00015` Franz. Laßt mich vorerst auf die Seite gehn, und eine Träne des Mitleids vergießen um meinen verlornen Bruder – ich sollte schweigen auf ewig – denn er ist euer Sohn: Ich sollte seine Schande verhüllen auf ewig – denn er ist mein Bruder. – Aber euch gehorchen ist meine erste traurige Pflicht – darum vergebt mir.
+
+`p00016` D. a. Moor. O Karl! Karl! wüßtest du wie deine Aufführung das Vaterherz foltert! Wie eine einzige frohe Nachricht von dir meinem Leben zehen Jahre zusetzen würde – mich zum Jüngling machen würde – da mich nun jede, ach! – einen Schritt näher ans Grab rückt!
+
+`p00017` Franz. Ist es das, alter Mann so lebt wol – wir alle würden noch heute die Haare ausraufen über eurem Sarge.
+
+`p00018` D. a. Moor. Bleib! – Es ist noch um den kleinen kurzen Schritt zu thun – laß ihm seinen Willen, indem er sich niedersetzt. Die Sünden seiner Väter werden heimgesucht im Dritten und vierten Glied – laß ihns vollenden.
+
+`p00019` Franz nimmt den Brief aus der Tasche. Ihr kennt unsern Korrespondenten! Seht! Den Finger meiner rechten Hand wollt ich drum geben, dürft ich sagen, er ist ein Lügner, ein schwarzer giftiger Lügner – – Faßt euch! Ihr vergebt mir, wenn ich euch den Brief nicht selbst lesen lasse – Noch dörft ihr nicht alles hören.
+
+`p00020` D. a. Moor. Alles, Alles – mein Sohn, du ersparst mir die Krücke.
+
+`p00021` Franz liest. „Leipzig, vom 1. May. – Verbände mich nicht eine unverbrüchliche Zusage dir auch nicht das geringste zu verhelen, was ich von den Schicksalen deines Bruders auffangen kann, liebster Freund, nimmermehr würde meine unschuldige Feder an dir zur Tyranninn geworden seyn. Ich kann es aus hundert Briefen von dir abnehmen, wie Nachrichten dieser Art dein brüderliches Herz durchbohren müßen, mir ists als säh ich dich schon um den Nichtswürdigen, den Abscheulichen“ – – Der alte Moor verbirgt sein Gesicht. Seht, Vater! ich lese euch nur das glimpflichste – „den Abscheulichen in tausend Thränen ergossen,“ ach sie floßen – stürzten stromweis von dieser mitleidigen Wange – „mir ists, als säh ich schon deinen alten, frommen Vater Todtenbleich“ – Jesus Maria! ihr seyds, eh ihr noch das mindeste wisset?
+
+`p00022` D. a. Moor. Weiter! Weiter!
+
+`p00023` Franz. „Todtenbleich in seinen Stuhl zurücktaumeln, und dem Tage fluchen an dem ihm zum erstenmal Vater entgegengestammelt ward. Man hat mir nicht alles entdecken mögen, und von dem wenigen das ich weis erfährst du nur weniges. Dein Bruder scheint nun das Maas seiner Schande gefüllt zu haben; ich wenigstens kenne nichts über dem was er wirklich erreicht hat, wenn nicht sein Genie das meinige hierinn übersteigt. Gestern um Mitternacht hatte er den großen Entschluß, nach vierzig tausend Dukaten Schulden – ein hübsches Taschengeld Vater – nachdem er zuvor die Tochter eines reichen Banquiers allhier entjungfert, und ihren Galan einen braven Jungen von Stand im Duell auf den Tod verwundet mit sieben andern, die er mit in sein Luderleben gezogen dem Arm der Justiz zu entlauffen“ – Vater! Um Gotteswillen Vater! wie wird euch?
+
+`p00024` D. a. Moor. Es ist genug. Laß ab mein Sohn!
+
+`p00025` Franz. Ich schone eurer – „man hat ihm Steckbriefe nachgeschickt, die Beleidigte schreyen laut um Genugthuung, ein Preiß ist auf seinen Kopf gesetzt – der Name Moor“ – Nein! Meine armen Lippen sollen nimmermehr einen Vater ermorden! zerreißt den Brief. Glaubt es nicht, Vater! glaubt ihm keine Silbe!
+
+`p00026` D. a. Moor weint bitterlich. Mein Nahme! Mein ehrlicher Name!
+
+`p00027` Franz fällt ihm um den Hals. Schändlicher, dreimal schändlicher Karl! Ahndete mirs nicht, da er noch ein Knabe den Mädels so nachschlenderte mit Gaßenjungen und elendem Gesindel auf Wiesen und Bergen sich herumhezte, den Anblick der Kirche, wie ein Missethäter das Gefängniß, floh, und die Pfennige, die er euch abquälte dem ersten dem besten Bettler in den Hut warf, während daß wir daheim mit frommen Gebeten, und heiligen Predigtbüchern uns erbauten? – Ahndete mirs nicht da er die Abentheuer des Julius Cäsar und Alexander Magnus und anderer stockfinsterer Heyden lieber las als die Geschichte des bußfertigen Tobias? – Hundertmal hab ichs euch geweissagt, denn meine Liebe zu ihm war immer in den Schranken der kindlichen Pflicht, – der Junge wird uns alle noch in Elend und Schande stürzen! – O daß er Moors Nahmen nicht trüge! daß mein Herz nicht so warm für ihn schlüge! Die gottlose Liebe, die ich nicht vertilgen kann, wird mich noch einmal vor Gottes Richterstuhl anklagen.
+
+`p00028` D. a. Moor. Oh – meine Aussichten! Meine goldenen Träume!
+
+`p00029` Franz. Das weis ich wol. Das ist es ja was ich eben sagte. Der feurige Geist, der in dem Buben lodert, sagtet ihr immer, der ihn für jeden Reiz vom Größe und Schönheit so empfindlich macht; diese Offenheit die seine Seele auf dem Auge spiegelt, diese Weichheit des Gefühls, die ihn bey jedem Leiden in weinende Sympathie dahinschmelzt, dieser männliche Muth der ihn auf den Wipfel hundertjähriger Eichen treibet, und über Gräben und Pallisaden und reißende Flüße jagt, dieser kindische Ehrgeitz, dieser unüberwindliche Starrsinn, und alle diese schöne glänzende Tugenden, die am Vatersöhnchen keimten, werden ihn dereinst zu einem warmen Freund eines Freundes, zu einem treflichen Bürger, zu einem Helden, zu einem großen großen Manne machen – seht ihrs nun Vater! – der feurige Geist hat sich entwickelt, ausgebreitet, herrliche Früchte hat er getragen. Seht diese Offenheit, wie hübsch sie sich zur Frechheit herumgedreht hat, seht diese Weichheit, wie zärtlich sie für Koketten girret, wie so empfindsam für die Reitze eine Phryne! Seht dieses feurige Genie, wie es das Oel seines Lebens in sechs Jährgen so rein weggebrannt hat, daß er bei lebendigem Leibe umgeht, und da kommen die Leute, und sind so unverschämt zu sagen: c’est l’amour qui a fait ça! Ah! seht doch diesen kühnen unternehmenden Kopf, wie er Plane schmiedet und ausführt, vor denen die Heldenthaten eines Kartouches und Howards verschwinden! – Und wenn erst diese prächtigen Keime zur vollen Reife erwachsen, – was läßt sich auch von einem so zarten Alter Vollkommenes erwarten? – Vielleicht Vater erlebet ihr noch die Freude, ihn an der Fronte eines Heeres zu erblicken, das in der heiligen Stille der Wälder residiret, und dem müden Wanderer seine Reise um die Hälfte der Bürde erleichtert – vielleicht könnt ihr noch, eh ihr zu Grabe geht, eine Wallfarth nach seinem Monumente thun, das er sich zwischen Himmel und Erden errichtet – vielleicht, o Vater, Vater, Vater – seht euch nach einem andern Nahmen um, sonst deuten Krämer und Gaßenjungen mit Fingern auf euch, die euren Herrn Sohn auf dem Leipziger Marktplaz im Portrait gesehen haben.
+
+`p00030` D. a. Moor. Und auch du mein Franz auch du? O meine Kinder! Wie sie nach meinem Herzen zielen!
+
+`p00031` Franz. Ihr seht, ich kann auch witzig seyn, aber mein Witz ist Skorpionstich. – Und dann der trockne Altagsmensch, der kalte, hölzerne Franz, und wie die Titelgen alle heißen mögen, die euch der Contrast zwischen ihm und mir mocht eingegeben haben, wenn er euch auf dem Schooße saß oder in die Backen zwickte – der wird einmal zwischen seinen Gränzsteinen sterben, und modern und vergeßen werden, wenn der Ruhm dieses Universalkopfs von einem Pole zum andern fliegt – Ha! mit gefaltnen Händen dankt dir o Himmel! der kalte, trockne, hölzerne Franz – daß er nicht ist wie dieser!
+
+`p00032` D. a. Moor. Vergib mir mein Kind; zürne nicht auf einen Vater, der sich in seinen Planen betrogen findet. Der Gott der mir durch Karln Tränen zusendet, wird sie durch dich mein Franz aus meinen Augen wischen.
+
+`p00033` Franz. Ja Vater aus euren Augen soll er sie wischen. Euer Franz wird sein Leben dran sezen das eurige zu verlängern. Euer Leben ist das Orakel, das ich vor allem zu Rathe ziehe, über dem was ich thun will, der Spiegel durch den ich alles betrachte – keine Pflicht ist mir so heilig die ich nicht zu brechen bereit bin, wenn’s um euer kostbares Leben zu thun ist. – Ihr glaubt mir das?
+
+`p00034` D. a. Moor. Du hast noch große Pflichten auf dir mein Sohn – Gott segne dich für das was du mir warst und seyn wirst!
+
+`p00035` Franz. Nun sagt mir einmal – Wenn ihr diesen Sohn nicht den Euren nennen müßtet, ihr wärt ein glücklicher Mann?
+
+`p00036` D. a. Moor. Stille o stille! da ihn die Wehmutter mir brachte hub ich ihn gen Himmel und rief: Bin ich nicht ein glücklicher Mann?
+
+`p00037` Franz. Das sagtet ihr. Nun habt ihrs gefunden? Ihr beneidet den schlechtesten eurer Bauren, daß er nicht Vater ist zu diesem – Ihr habt Kummer so lang ihr diesen Sohn habt. Dieser Kummer wird wachsen mit Karln. Dieser Kummer wird euer Leben untergraben.
+
+`p00038` D. a. Moor. Oh! er hat mich zu einem achtzigjährigen Manne gemacht.
+
+`p00039` Franz. Nun also – wenn ihr dieses Sohnes euch entäussertet?
+
+`p00040` D. a. Moor auffahrend. Franz! Franz! was sagst du?
+
+`p00041` Franz. Ist es nicht diese Liebe zu ihm die euch all den Gram macht. Ohne diese Liebe ist er für euch nicht da. Ohne diese strafbare diese verdammliche Liebe ist er euch gestorben – ist er euch nie gebohren. Nicht Fleisch und Blut, das Herz macht uns zu Vätern und Söhnen. Liebt ihr ihn nicht mehr, so ist diese Abart auch euer Sohn nicht mehr, und wär er aus eurem Fleische geschnitten. Er ist euer Augapfel gewesen bisher, nun aber, ärgert dich dein Auge, sagt die Schrift, so reiß es aus. Es ist besser einäugig gen Himmel, als mit zwey Augen in die Hölle. Es ist besser Kinderlos gen Himmel, als wenn beyde Vater und Sohn in die Hölle fahren. So spricht die Gottheit!
+
+`p00042` D. a. Moor. Du willst ich soll meinen Sohn verfluchen?
+
+`p00043` Franz. Nicht doch! nicht doch! – Euren Sohn sollt ihr nicht verfluchen. Was heißt ihr euren Sohn? – dem ihr das Leben gegeben habt, wenn er sich auch alle ersinnliche Mühe gibt das eurige zu verkürzen?
+
+`p00044` D. a. Moor. Oh das ist allzuwahr! das ist ein Gericht über mich. Der Herr hats ihm geheißen!
+
+`p00045` Franz. Seht ihrs, wie kindlich euer Busenkind an euch handelt? Durch eure Väterliche Theilnehmung erwürgt er euch, mordet euch durch eure Liebe, hat euer Vaterherz selbst bestochen euch den Garaus zu machen. Seyd ihr einmal nicht mehr, so ist er Herr eurer Güter, König seiner Triebe. Der Damm ist weg, und der Strom seiner Lüste kann izt freyer dahinbrausen. Denkt euch einmal an seine Stelle! Wie oft muß er den Vater unter die Erde wünschen – wie oft den Bruder – die ihm im Lauf seiner Exceße so unbarmherzig im Weeg stehen. Ist das aber Liebe gegen Liebe? Ist das kindliche Dankbarkeit gegen väterliche Milde? Wenn er dem geilen Kitzel eines Augenblicks zehn Jahre eures Lebens aufopfert? wenn er den Ruhm seiner Väter der sich schon sieben Jahrhunderte unbefleckt erhalten hat, in Einer wollüstigen Minute aufs Spiel setzt? Heißt ihr das euren Sohn? Antwortet? heißt ihr das einen Sohn?
+
+`p00046` D. a. Moor. Ein unzärtliches Kind! ach! aber mein Kind doch! mein Kind doch!
+
+`p00047` Franz. Ein allerliebstes köstliches Kind, dessen ewiges Studium ist, keinen Vater zu haben – O daß ihrs begreiffen lerntet! daß euch die Schuppen fielen vom Auge! aber eure Nachsicht muß ihn in seinen Liederlichkeiten bevestigen; euer Vorschub ihnen Rechtmäßigkeit geben. Ihr werdet freilich den Fluch von seinem Haupte laden, auf euch, Vater, auf euch wird der Fluch der Verdammniß fallen.
+
+`p00048` D. a. Moor. Gerecht! sehr gerecht! – Mein mein ist alle Schuld!
+
+`p00049` Franz. Wie viele Tausende, die voll gesoffen haben vom Becher der Wollust, sind durch Leiden gebessert worden. Und ist nicht der körperliche Schmerz, den jedes Uebermaas begleitet, ein Fingerzeig des göttlichen Willens. Sollte ihn der Mensch durch seine grausame Zärtlichkeit verkehren? Soll der Vater das ihm anvertraute Pfand auf ewig zu Grunde richten? – Bedenkt Vater, wenn ihr ihn seinem Elend auf einige Zeit preiß geben werdet, wird er nicht entweder umkehren müssen und sich bessern? oder er wird auch in der großen Schule des Elends ein Schurke bleiben, und dann – wehe dem Vater der die Rathschlüsse einer höheren Weißheit durch Verzärtlung zernichtet! – Nun Vater?
+
+`p00050` D. a. Moor. Ich will ihm schreiben, daß ich meine Hand von ihm wende.
+
+`p00051` Franz. Da thut ihr recht und klug daran.
+
+`p00052` D. a. Moor. Daß er nimmer vor meine Augen komme.
+
+`p00053` Franz. Das wird eine heilsame Wirkung thun.
+
+`p00054` D. a. Moor. zärtlich. Biß er anders worden!
+
+`p00055` Franz. Schon recht, schon recht – Aber, wenn er nun kommt mit der Larve des Heuchlers, euer Mitleid erweint, eure Vergebung sich erschmeichelt, und morgen hingeht und eurer Schwachheit spottet im Arm seiner Huren? – Nein Vater! Er wird freywillig wiederkehren, wenn ihn sein Gewissen rein gesprochen hat.
+
+`p00056` D. a. Moor. So will ich ihm das auf der Stelle schreiben.
+
+`p00057` Franz. Halt! noch ein Wort Vater! Eure Entrüstung, fürchte ich, möchte euch zu harte Worte in die Feder werffen, die ihm das Herz zerspalten würden – und, dann – glaubt ihr nicht daß er das schon für Verzeihung nehmen werde, wenn ihr ihn noch eines eigenhändigen Schreibens werth haltet? Darum wirds besser seyn! ihr überlaßt das Schreiben mir.
+
+`p00058` D. a. Moor. Thu das mein Sohn. – Ach! es hätte mir doch das Herz gebrochen! Schreib ihm – –
+
+`p00059` Franz. schnell. Dabey bleibts also?
+
+`p00060` D. a. Moor. Schreib ihm daß ich tausend blutige Tränen, tausend schlaflose Nächte – Aber bring meinen Sohn nicht zur Verzweiflung!
+
+`p00061` Franz. Wollt ihr euch nicht zu Bette legen Vater? Es griff euch hart an.
+
+`p00062` D. a. Moor. Schreib ihm daß die Väterliche Brust – Ich sage dir bring meinen Sohn nicht zur Verzweiflung!
+
+`p00063` Geht traurig ab. 
+
+`p00064` Franz. mit Lachen ihm nachsehend. Tröste dich Alter, du wirst ihn nimmer an diese Brust drücken, der Weg dazu ist ihm verrammelt, wie der Himmel der Hölle – Er war aus deinen Armen gerissen, ehe du wußtest daß du es wollen könntest – da müßt ich ein erbärmlicher Stümper seyn, wenn ichs nicht einmal so weit gebracht hätte einen Sohn vom Herzen des Vaters los zu lösen, und wenn er mit ehernen Banden daran geklammert wäre – Ich hab einen magischen Kreis von Flüchen um dich gezogen, den er nicht überspringen soll – Glück zu Franz! Weg ist das Schooskind – Der Wald ist heller. Ich muß diese Papiere vollends aufheben, wie leicht könnte jemand meine Handschrifft kennen? er ließt die zerrissenen Briefstüke zusammen. – Und Gram wird auch den Alten bald fortschaffen, – und ihr muß ich diesen Karl, aus dem Herzen reissen, wenn auch ihr halbes Leben dran hängen bleiben sollte.
+
+`p00065` Ich habe grosse Rechte, über die Natur ungehalten zu seyn, und bey meiner Ehre! ich will sie geltend machen. – Warum bin ich nicht der erste aus Mutterleib gekrochen? Warum nicht der Einzige? Warum mußte sie mir diese Bürde von Häßlichkeit aufladen? gerade mir? Nicht anders als ob sie bey meiner Geburt einen Rest gesezt hätte? Wann gerade mir die Lappländers Nase? Gerade mir dieses Mohrenmaul? Diese Hottentotten Augen? Wirklich ich glaube sie hat von allen Menschensorten das Scheußliche auf einen Hauffen geworffen, und mich daraus gebacken. Mord und Tod! Wer hat ihr die Vollmacht gegeben jenem dieses zu verleyhen, und mir vorzuenthalten? Könnte ihr jemand darum hofiren, eh er entstund? Oder sie beleidigen, eh er selbst wurde? Warum geing sie so parteylich zu Werke?
+
+`p00066` Nein! Nein! Ich thu ihr Unrecht. Gab sie uns doch Erfindungs-Geist mit, setzte uns nackt und armselig ans Ufer dieses grossen Ozeans Welt – Schwimme, wer schwimmen kann, und wer zu plump ist geh unter! Sie gab mir nichts mit; wozu ich mich machen will, das ist nun meine Sache. Jeder hat gleiches Recht zum Grösten und Kleinsten, Anspruch wird an Anspruch, Trieb an Trieb, und Krafft an Krafft zernichtet. Das Recht wohnet beym Ueberwältiger, und die Schranken unserer Krafft sind unsere Geseze.
+
+`p00067` Wohl gibt es gewiße gemeinschafftliche Pakta, die man geschloßen hat, die Pulse des Weltzirkels zu treiben. Ehrlicher Nahme! – wahrhaftig eine reichhaltige Münze mit der sich meisterlich schachern läßt, wers versteht, sie gut auszugeben. Gewissen, – o ja freilich! ein tüchtiger Lumpenmann, Sperlinge von Kirschbäumen wegzuschröken! – auch das ein gut geschriebener Wechselbrief mit dem auch der Bankerotirer zur Noth noch hinauslangt.
+
+`p00068` In der That, sehr lobenswürdige Anstalten, die Narren im Respekt und den Pöbel unter dem Pantoffel zu halten, damit die Gescheiden es desto bequemer haben. Ohne Anstand, recht schnakische Anstalten! Kommen wir für, wie die Hecken die meine Bauren gar schlau um ihre Felder herumführen. daß ja kein Haase drüber sezt, ja beileibe kein Haase! – Aber der gnädige Herr gibt seinem Rappen den Sporn, und galoppirt weich über der Weyland Aerndte.
+
+`p00069` Armer Haase! Es ist doch eine jämmerliche Rolle, der Haase seyn müßen auf dieser Welt – Aber der gnädige Herr braucht Haasen!
+
+`p00070` Also frisch drüber hinweg! Wer nichts fürchtet, ist nicht weniger mächtig als der, den alles fürchtet. Es ist itzo die Mode, Schnallen an den Beinkleidern zu tragen, womit man sie nach Belieben weiter und enger schnürt. Wir wollen uns ein Gewissen nach der neuesten Facon anmessen lassen, um es hübsch weiter aufzuschnallen wie wir zulegen. Was können wir dafür? Geht zum Schneider! Ich habe Langes und Breites von einer sogenannten Blutliebe schwazen gehört, das einem ordentlichen Hausmann den Kopf heiß machen könnte – Das ist dein Bruder! – das ist verdollmetscht; Er ist aus eben dem Ofen geschossen worden, aus dem du geschossen bist – also sei er dir heilig! – Merkt doch einmal diese verzwickte Consequenz, diesen poßierlichen Schluß von der Nachbarschaft der Leiber auf die Harmonie der Geister; von eben derselben Heimat zu eben derselben Empfindung; von einerley Kost zu einerley Neigung. Aber weiter – es ist dein Vater! Er hat dir das Leben gegeben, du bist sein Fleisch, sein Blut – also sey er dir heilig! Wiederum eine schlaue Konsequenz! Ich möchte doch fragen, warum hat er mich gemacht? doch wol nicht gar aus Liebe zu mir, der erst ein Ich werden sollte? Hat er mich gekannt ehe er mich machte? Oder hat er an mich gedacht, wie er mich machte? Oder hat er mich gewünscht, da er mich machte? Wußte er was ich werden würde? das wollt ich ihm nicht rathen, sonst möcht ich ihn dafür strafen, daß er mich doch gemacht hat? Kann ichs ihm Dank wissen, daß ich ein Mann wurde? So wenig als ich ihn verklagen könnte, wenn er ein Weib aus mir gemacht hätte. Kann ich eine Liebe erkennen, die sich nicht auf Achtung gegen mein Selbst gründet? Konnte Achtung gegen mein Selbst vorhanden seyn, das erst dadurch entstehen sollte, davon es die Voraussetzung seyn muß? Wo stikt dann nun das Heilige? Etwa im Aktus selber durch den ich entstund? – Als wenn dieser etwas mehr wäre als viehischer Prozeß zur Stillung viehischer Begierden? Oder stikt es vielleicht im Resultat dieses Aktus, der doch nichts ist als eiserne Nothwendigkeit, die man so gern wegwünschte, wenns nicht auf Unkosten von Fleisch und Blut geschehn müßte? Soll ich ihm etwa darum gute Worte geben, daß er mich liebt? das ist eine Eitelkeit von ihm, die Schoossünde aller Künstler, die sich in ihrem Werk kokettieren, wär es auch noch so heßlich. – Sehet also das ist die ganze Hexerey, die ihr in einen heiligen Nebel verschleyert unsre Furchtsamkeit zu mißbrauchen. Soll auch ich mich dadurch gängeln lassen wie einen Knaben?
+
+`p00071` Frisch also! mutig ans Werk! – Ich will alles um mich her ausrotten, was mich einschränkt daß ich nicht Herr bin. Herr muß ich seyn, daß ich das mit Gewalt ertrotze, wozu mir die Liebenswürdigkeit gebricht ab.
+
+`p00072` Zweyte Scene.
+
+`p00073` Schenke an den Gränzen von Sachsen.
+
+`p00074` Karl v. Moor in ein Buch vertieft. Spiegelberg trinkend am Tisch.
+
+`p00075` Karl v. Moor legt das Buch weg. Mir ekelt vor diesem Tintenkleksenden Sekulum, wenn ich in meinem Plutarch lese von großen Menschen.
+
+`p00076` Spiegelberg stellt ihm ein Glas hin, und trinkt. Den Josephus mußt du lesen.
+
+`p00077` Moor. Der lohe Lichtfunke Prometheus ist ausgebrannt, dafür nimmt man izt die Flamme von Berlappenmehl – Theaterfeuer, das keine Pfeiffe Tabak anzündet. Da krabbeln sie nun, wie die Ratten auf der Keule des Herkules, und studieren sich das Mark aus dem Schädel was das für ein Ding sey, das er in seinem Hoden geführt hat? Ein französischer Abbe dozirt, Alexander sei ein Haasenfuß gewesen, ein schwindsüchtiger Professor hält sich bey jedem Wort ein Fläschchen Salmiakgeist vor die Nase, und ließt ein Kollegium über die Kraft. Kerls, die in Ohnmacht fallen wenn sie einen Buben gemacht haben, kritteln über die Taktik des Hannibals – feuchtohrige Buben fischen Phrases aus der Schlacht bei Kannä, und greinen über die Siege des Scipio, weil sie sie exponiren müßen.
+
+`p00078` Spiegelberg. Das ist ja recht Alexandrinisch geflännt.
+
+`p00079` Moor. Schöner Preiß für euren Schweiß in der Feldschlacht, daß ihr jetzt in Gymnasien lebet, und eure Unsterblichkeit in einem Bücherriemen mühsam fortgeschleppt wird. Kostbarer Ersaz eures verpraßten Blutes, von einem Nürnberger Krämer um Lebkuchen gewickelt – oder, wenns glüklich geht, von einem französischen Tragödienschreiber auf Stelzen geschraubt, und mit Drathfäden gezogen zu werden. Hahaha!
+
+`p00080` Spiegelberg trinkt, Lies den Josephus, ich bitte dich drum!
+
+`p00081` Moor. Pfui! Pfui über das schlappe Kastraten-Jahrhundert, zu nichts nüze, als die Thaten der Vorzeit wiederzukäuen, und die Helden des Alterthums mit Kommentationen zu schinden, und zu verhunzen mit Trauerspielen. Die Kraft seiner Lenden ist versiegen gegangen, und nun muß Bierhefe den Menschen fortpflanzen helfen.
+
+`p00082` Spiegelberg. Thee, Bruder, Thee!
+
+`p00083` Moor. Da verrammeln sie sich die gesunde Natur mit abgeschmackten Konvenzionen, haben das Herz nicht ein Glas zu leeren, weil sie Gesundheit dazu trinken müßen – beleken den Schuhpuzer, daß er sie vertrete bei Ihro Gnaden, und hudeln den armen Schelm, den sie nicht fürchten. Vergöttern sich um ein Mittagessen, und möchten einander vergiften um ein Unterbett, das ihnen beim Aufstreich überboten wird. – Verdammen den Sadduzäer, der nicht fleißig genug in die Kirche kommt, und berechnen ihren Judenzins am Altare – fallen auf die Knie, damit sie ja ihren Schlamp ausbreiten können – wenden kein Aug von dem Pfarrer, damit sie sehen, wie seine Perücke frisirt ist. – Fallen in Ohnmacht, wenn sie eine Gans bluten sehen, und klatschen in die Hände, wenn ihr Nebenbuhler bankerott von der Börse geht – – So warm ich ihnen die Hand drückte – „nur noch einen Tag“ – Umsonst! – Ins Loch mit dem Hund! – Bitten! Schwüre! Tränen auf den Boden stampfend, Hölle und Teufel!
+
+`p00084` Spiegelberg. Und um so ein paar tausend lausige Dukaten –
+
+`p00085` Moor. Nein ich mag nicht daran denken. Ich soll meinen Leib pressen in eine Schnürbrust, und meinen Willen schnüren in Gesetze. Das Gesez hat zum Schneckengang verdorben, was Adlerflug geworden wäre. Das Gesez hat noch keinen großen Mann gebildet, aber die Freyheit brütet Koloße und Extremitäten aus. Sie verpallisadiren sich ins Bauchfell eines Tyrannen, hofiren der Laune seines Magens, und lassen sich klemmen von seinen Winden. – Ah! daß der Geist Herrmanns noch in der Asche glimmte! – Stelle mich vor ein Heer Kerls wie ich, und aus Deutschland soll eine Republik werden, gegen die Rom und Sparta Nonnenklöster seyn sollen. Er wirft den Degen auf den Tisch und steht auf.
+
+`p00086` Spiegelberg aufspringend. Bravo! Bravissimo! du bringst mich eben recht auf das Chapitre. Ich will dir was ins Ohr sagen Moor, das schon lang mit mir umgeht, und du bist der Mann dazu – sauf Bruder sauf! – wie wärs wenn wir Juden würden, und das Königreich wieder aufs Tapet brächten?
+
+`p00087` Moor lacht aus vollem Halse. Ah! Nun merk ich – nun merk ich – du willst die Vorhaut aus der Mode bringen, weil der Barbier die deinige schon hat?
+
+`p00088` Spiegelberg. Daß dich Bärenhäuter! Ich bin freylich wunderbarerweiß schon voraus beschnitten. Aber sag, ist das nicht ein schlauer und herzhafter Plan? Wir lassen ein Manifest ausgehen in alle vier Enden der Welt und zitiren nach Palästina, was kein Schweinefleisch ißt. Da beweiß ich nun durch trifftige Dokumente, Herodes der Vierfürst sei mein Großahnherr gewesen, und so ferner. Das wird ein Viktoria abgeben, Kerl, wenn sie wieder ins Trockene kommen, und Jerusalem wieder aufbauen dörfen. Izt frisch mit den Türken aus Asien, weil’s Eisen noch warm ist, und Zedern gehauen aus dem Libanon, und Schiffe gebaut, und geschachert mit alten Borden und Schnallen das ganze Volk. Mittlerweile –
+
+`p00089` Moor nimmt ihn lächelnd bey der Hand. Kamerad! Mit den Narrenstreichen ists nun am Ende.
+
+`p00090` Spiegelberg stutzig. Pfui, du wirst doch nicht gar den verlorenen Sohn spielen wollen? Ein Kerl wie du der mit dem Degen mehr auf die Gesichter gekrizelt hat, als drey Substituten in einem Schaltjahr ins Befehlbuch schreiben! Soll ich dir von der großen Hundsleiche vorerzehlen? ha! ich muß nur dein eigenes Bild wieder vor dich rufen, das wird Feuer in deine Adern blasen, wenn dich sonst nichts mehr begeistert. Weißt du noch wie die Herren vom Kollegio deiner Dogge das Bein hatten abschießen lassen, und du zur Revange liesest ein Fasten ausschreiben in der ganzen Stadt. Man schmollte über dein Rescript. Aber du nicht faul, läßest alles Fleisch aufkauffen in ganz L. daß in acht Stund kein Knoch mehr zu nagen ist in der ganzen Rundung, und die Fische anfangen im Preiße zu steigen. Magistrat und Bürgerschaft düßelten Rache. Wir Pursche frisch heraus zu siebzehn hundert, und du an der Spize, und Mezger, und Schneider und Krämer hinterher, und Wirth und Barbierer und alle Zünfte, und fluchen, Sturm zu lauffen wider die Stadt wenn man den Purschen ein Haar krümmen wollte. Da giengs aus, wie’s Schießen zu Hornberg, und mußten abziehen mit langer Nase. Du läßest Doktores kommen ein ganzes Koncilium, und botst drey Dukaten wer dem Hund ein Recept schreiben würde. Wir sorgten die Herren werden zuviel Ehr im Leib haben und Nein sagen und hattens schon verabredt sie zu forciren. Aber das war unnötig, die Herren schlugen sich um die drey Dukaten, und kams im Abstreich herab auf drei Bazen, in einer Stund sind zwölf Recepte geschrieben, daß das Thier auch bald drauf verreckte.
+
+`p00091` Moor. Schändliche Kerls!
+
+`p00092` Spiegelberg. Der Leichenpomp wird veranstaltet in aller Pracht, Karmina gabs die schwere Meng um den Hund, und zogen wir aus des Nachts gegen tausend, eine Laterne in der einen Hand, unsre Raufdegen in der andern, und so fort durch die Stadt mit Glockenspiel und Geklimper, bis der Hund beigesezt war. Drauf gabs ein Fressen, das währt bis an den lichten Morgen, da bedanktest du dich bey den Herren für das herzliche Beileid, und ließest das Fleisch verkauffen ums halbe Geld. Mort de ma vie, da hatten wir dir Respekt, wie eine Garnison in einer eroberten Vestung –
+
+`p00093` Moor. Und du schämst dich nicht damit groß zu pralen? Hast nicht einmal so viel Schaam dich dieser Streiche zu schämen?
+
+`p00094` Spiegelberg. Geh, geh. Du bist nicht mehr Moor. Weißt du noch wie tausendmal du die Flasche in der Hand den alten Filzen hast aufgezogen, und gesagt: Er soll nur drauf los schaben und scharren, du wollest dir dafür die Gurgel absauffen. – Weißt du noch? he? weißt du noch? O du heilloser, erbärmlicher Prahlhanß! das war noch männlich gesprochen, und edelmännisch, aber –
+
+`p00095` Moor. Verflucht seyst du, daß du mich dran erinnerst! Verflucht ich, daß ich es sagte! Aber es war nur im Dampfe des Weins, und mein Herz hörte nicht was meine Zunge pralte.
+
+`p00096` Spiegelberg schüttelt den Kopf. Nein! nein! nein! das kann nicht seyn. Unmöglich Bruder, das kann dein Ernst nicht seyn. Sag, Brüderchen, ist es nicht die Noth die dich so stimmt? Kommt, laß dir ein Stükchen aus meinen Bubenjahren erzählen. Da hatt ich neben meinem Hauß einen Graben, der, wie wenig, seine acht Schuh breit war, wo wir Buben uns in die Wette bemühten hinüber zu springen. Aber das war umsonst. Pflumpf! lagst du, und ward ein Gezisch und Gelächter über dir, und wurdest mit Schneeballen geschmissen über und über. Neben meinem Hauß lag eines Jägers Hund an einer Kette, eine so bißige Bestie, die dir die Mädels wie der Blitz am Rockzipfel hatte, wenn sie sichs versahn, und zu nah dran vorbey strichen. Das war nun mein Seelengaudium, den Hund überall zu necken wo ich nur konnte, und wollt halb krepiren vor Lachen wenn mich dann das Luder so gifftig anstierte, und so gern auf mich losgerannt wär, wenns nur gekonnt hätte. – Was geschieht? Ein andermal mach ichs ihm auch wieder so, und werf ihn mit einem Stein so derb an die Ripp, daß er vor Wuth von der Kette reißt und auf mich dar, und ich wie alle Donnerwetter reißaus und davon – Tausend Schwerenoth! Da ist dir just der vermaledeyte Graben dazwischen. Was zu thun? Der Hund ist mir hart an den Fersen und wüthig, also kurz resolvirt – ein Anlauf genommen – drüben bin ich. Dem Sprung hatt ich Leib und Leben zu danken; die Bestie hätte mich zu Schanden gerissen.
+
+`p00097` Moor. Aber wozu izt das?
+
+`p00098` Spiegelberg. Dazu – daß du sehen sollst, wie die Kräffte wachsen in der Noth. Darum laß ich mirs auch nicht bange seyn, wenns aufs äusserste kommt. Der Muth wächst mit der Gefahr; Die Kraft erhebt sich im Drang. Das Schicksal muß einen großen Mann aus mir haben wollen, weil’s mir so queer durch den Weg streicht.
+
+`p00099` Moor ärgerlich. Ich wüßte nicht wozu wir den Muth noch haben sollten, und noch nicht gehabt hätten.
+
+`p00100` Spiegelberg. So? – Und du willst also deine Gaben in dir verwittern lassen? Dein Pfund vergraben? Meynst du, deine Stinkereyen in Leipzig machen die Gränzen des menschlichen Witzes aus? Da laß uns erst in die große Welt kommen. Paris und London! – wo man Ohrfeigen einhandelt, wenn man einen mit dem Nahmen eines ehrlichen Mannes grüßt. Da ist es auch ein Seelenjubilo, wenn man das Handwerk ins große praktizirt. – Du wirst gaffen! Du wirst Augen machen! Wart, und wie man Handschriften nachmacht, Würffel verdreht, Schlösser aufbricht, und den Koffern das Eingeweid ausschüttet – das sollst du noch von Spiegelberg lernen! Die Kanaille soll man an den nächsten besten Galgen knüpfen, die bei geraden Fingern verhungern will.
+
+`p00101` Moor zerstreut. Wie? Du hast es wol gar noch weiter gebracht?
+
+`p00102` Spiegelberg. Ich glaube gar, du setzest ein Mißtrauen in mich. Wart, laß mich erst warm werden; du sollst Wunder sehen, dein Gehirnchen soll sich im Schädel umdrehen, wenn mein kreisender Witz in die Wochen kommt. – Steht auf, hitzig. Wie es sich aufhellt in mir! Große Gedanken dämmern auf in meiner Seele! Riesenplane gähren in meinem schöpfrischen Schedel. Verfluchte Schlafsucht! Sich vor’n Kopf schlagend. Die bisher meine Kräffte in Ketten schlug, meine Aussichten sperrte und spannte; ich erwache, fühle wer ich bin – wer ich werden muß!
+
+`p00103` Moor. Du bist ein Narr. Der Wein bramarbasirt aus deinem Gehirne.
+
+`p00104` Spiegelberg hitziger. Spiegelberg, wird es heißen, kannst du hexen Spiegelberg? Es ist Schade daß du kein General worden bist, Spiegelberg, wird der König sagen, du hättest die Oestreicher durch ein Knopfloch gejagt. Ja, hör ich die Dokters jammern, es ist unverantwortlich daß der Mann nicht die Medizin studirt hat, er hätte ein neues Kropfpulver erfunden. Ach! und daß er das Kamerale nicht zum Fach genommen hat, werden die Sullys in ihren Kabinetten seufzen, er hätte aus Steinen Louisd’ore hervorgezaubert. Und Spiegelberg wird es heißen in Osten und Westen, und in den Koth mit euch ihr Memmen, ihr Kröten, indeß Spiegelberg mit ausgespreiteten Flügeln zum Tempel des Nachruhms empor fliegt.
+
+`p00105` Moor. Glück auf den Weeg! Steig du auf Schandsäulen zum Gipfel des Ruhms. Im Schatten meiner väterlichen Hayne, in den Armen meiner Amalia lockt mich ein edler Vergnügen. Schon die vorige Woche hab ich meinem Vater um Vergebung geschrieben, hab ihm nicht den kleinsten Umstand verschwiegen, und wo Aufrichtigkeit ist, ist auch Mitleid und Hilfe. Laß uns Abschied nehmen Moriz. Wir sehen uns heut, und nie mehr. Die Post ist angelangt. Die Verzeihung meines Vaters ist schon innerhalb dieser Stadtmauren.
+
+`p00106` Schweizer. Grimm. Roller. Schufterle. Razmann treten auf.
+
+`p00107` Roller. Wißt ihr auch, daß man uns auskundschaftet?
+
+`p00108` Grimm. Daß wir keinen Augenblick sicher sind aufgehoben zu werden?
+
+`p00109` Moor. Mich wunderts nicht. Es gehe wie es will! saht ihr den Schwarz nicht? sagt er euch von keinem Brief, den er an mich hätte?
+
+`p00110` Roller. Schon lang sucht er dich, ich vermuthe so etwas.
+
+`p00111` Moor. Wo ist er, wo, wo? will eilig fort.
+
+`p00112` Roller. Bleib! wir haben ihn hieher beschieden. Du zitterst? –
+
+`p00113` Moor. Ich zittre nicht. Warum sollt ich auch zittern? Kameraden! dieser Brief – freut euch mit mir! Ich bin der Glücklichste unter der Sonne, warum sollt ich zittern?
+
+`p00114` Schwarz tritt auf.
+
+`p00115` Moor fliegt ihm entgegen. Bruder, Bruder, den Brief! den Brief!
+
+`p00116` Schwarz giebt ihm den Brief, den er hastig aufbricht. Was ist dir? wirst du nicht wie die Wand?
+
+`p00117` Moor. Meines Bruders Hand!
+
+`p00118` Schwarz. Was treibt denn der Spiegelberg?
+
+`p00119` Grimm. Der Kerl ist unsinnig. Er macht Gestus wie beym sankt Veits Tanz.
+
+`p00120` Schufterle. Sein Verstand geht im Ring herum. Ich glaub er macht Verse.
+
+`p00121` Razmann. Spiegelberg! He Spiegelberg! – Die Bestie hört nicht.
+
+`p00122` Grimm schüttelt ihn. Kerl! träumst du, oder? –
+
+`p00123` Spiegelberg der sich die ganze Zeit über mit den Pantominen eines Projektmachers im Stubeneck abgearbeitet hat, springt wild auf. La Bourse ou la vie! und pakt Schweizern an der Gurgel, der ihn gelassen an die Wand wirft, – Moor läßt den Brief fallen, und rennt hinaus. Alle fahren auf.
+
+`p00124` Roller ihm nach. Moor! wonaus, Moor? was beginnst du?
+
+`p00125` Grimm. Was hat er, was that er? Er ist bleich wie die Leiche.
+
+`p00126` Schweizer. Das müssen schöne Neuigkeiten seyn! Laß doch sehen!
+
+`p00127` Roller nimmt den Brief von der Erde, und ließt.
+
+`p00128` „Unglücklicher Bruder!“ der Anfang klingt lustig. „Nur kürzlich muß ich dir melden, daß deine Hoffnung vereitelt ist – du sollst hingehen, läßt dir der Vater sagen, wohin dich deine Schandthaten führen. Auch, sagt er, werdest du dir keine Hoffnung machen, jemals Gnade zu seinen Füssen zu erwimmern, wenn du nicht gewärtig seyn wollest, im untersten Gewölbe seiner Thürme mit Wasser und Brod so lange traktirt zu werden, bis deine Haare wachsen wie Adlers-Federn, und deine Nägel wie Vogelsklauen werden. Das sind seine eigene Worte. Er befiehlt mir den Brief zu schliessen. Leb wohl auf ewig! Ich bedaure dich –
+
+`p00129` Franz von Moor.“ 
+
+`p00130` Schweizer. Ein zuckersüßes Brüdergen! In der That! – Franz heißt die Kanaille?
+
+`p00131` Spiegelberg sachte herbey schleichend. Von Wasser und Brod ist die Rede? Ein schönes Leben! Da hab ich anders für euch gesorgt! Sagt’ ichs nicht, ich müßt’ am Ende für euch alle denken?
+
+`p00132` Schweizer. Was sagt der Schafskopf? der Esel will für uns alle denken?
+
+`p00133` Spiegelberg. Haasen, Krüppel, lahme Hunde seyd ihr alle, wenn ihr das Herz nicht habt etwas Grosses zu wagen?
+
+`p00134` Roller. Nun, das wären wir freylich, du hast recht – aber wird es uns auch aus dieser vermaledeyten Lage reissen, was du wagen wirst? wird es? –
+
+`p00135` Spiegelberg mit einem stolzen Gelächter. Armer Tropf! aus dieser Lage reissen? hahaha! – aus dieser Lage reissen? – und auf mehr raffinirt dein Fingerhut voll Gehirn nicht? und damit trabt deine Mähre zum Stalle? Spiegelberg müßte ein Hundsvot seyn, wenn er mit dem nur anfangen wollte. Zu Helden, sag ich dir, zu Freyherrn, zu Fürsten, zu Göttern wirds euch machen!
+
+`p00136` Razmann. Das ist viel auf einen Hieb, wahrlich! Aber es wird wohl eine halsbrechende Arbeit seyn, den Kopf wirds wenigstens kosten.
+
+`p00137` Spiegelberg. Es will nichts als Muth, denn was den Wiz betrifft, den nehm ich ganz über mich. Muth, sag ich, Schweizer! Muth, Roller, Grimm, Razmann, Schufterle! Muth! –
+
+`p00138` Schweizer. Muth? Wenns nur das ist – Muth hab ich genug um baarfus mitten durch die Hölle zu gehn.
+
+`p00139` Schufterle. Muth genug, mich unterm lichten Galgen mit dem leibhaftigen Teufel um einen armen Sünder zu balgen.
+
+`p00140` Spiegelberg. So gefällt mirs! Wenn ihr Muth habt, tret einer auf, und sag: Er habe noch etwas zu verlieren, und nicht alles zu gewinnen! –
+
+`p00141` Schwarz. Wahrhaftig, da gäbs manches zu verlieren, wenn ich das verlieren wollte, was ich noch zu gewinnen habe!
+
+`p00142` Razmann. Ja, zum Teufel! und manches zu gewinnen, wenn ich das gewinnen wollte, was ich nicht verlieren kann.
+
+`p00143` Schufterle. Wenn ich das verlieren müßte, was ich auf Borgs auf dem Leibe trage, so hätt’ ich allenfalls morgen nichts mehr zu verlieren.
+
+`p00144` Spiegelberg. Also denn! Er stellt sich mitten unter sie mit beschwörendem Ton. Wenn noch ein Tropfen deutschen Heldenbluts in euren Adern rinnt – kommt! Wir wollen uns in den böhmischen Wäldern niederlassen, dort eine Räuberbande zusammen ziehen, und – Was gafft ihr mich an? – ist euer bisgen Muth schon verdampft?
+
+`p00145` Roller. Du bist wohl nicht der erste Gauner, der über den hohen Galgen weggesehen hat – und doch – Was hätten wir sonst noch für eine Wahl übrig?
+
+`p00146` Spiegelberg. Wahl? Was? nichts habt ihr zu wählen! Wollt ihr im Schuldthurm stecken, und zusammenschnurren bis man zum jüngsten Tag posaunt? Wollt ihr euch mit der Schaufel und Haue um einen Bissen trocken Brod abquälen? Wollt ihr an der Leute Fenster mit einem Bänkelsänger Lied ein mageres Allmosen erpressen? oder wollt ihr zum Kalbsfell schwören – und da ist erst noch die Frage, ob man euren Gesichtern traut – und dort unter der milzsüchtigen Laune eines gebieterischen Korporals das Fegfeuer zum voraus abverdienen? oder bey klingendem Spiel nach dem Takt der Trommel spazieren gehn, oder im Gallioten Paradis das ganze Eisen-Magazin Vulkans hinterschleifen? Seht, das habt ihr zu wählen, da ist es beysamen, was ihr wählen könnt!
+
+`p00147` Roller. So unrecht hat der Spiegelberg eben nicht. Ich hab auch meine Plane schon zusamengemacht, aber sie treffen endlich auf eins. Wie wärs, dacht ich, wenn ihr euch hinseztet, und ein Taschenbuch oder einen Almanach, oder so was ähnlichs zusamensudeltet, und um den lieben Groschen recensirtet, wie’s wirklich Mode ist?
+
+`p00148` Schufterle. Zum Henker! ihr rathet nach zu meinen Projekten. Ich dachte bey mir selbst, wie wenn du ein Pietist würdest, und wöchentlich deine Erbauungsstunden hieltest?
+
+`p00149` Grimm. Getroffen! und wenn das nicht geht, ein Atheist! Wir könnten die vier Evangelisten aufs Maul schlagen, liessen unser Buch durch den Schinder verbrennen, und so gieng’s reissend ab.
+
+`p00150` Razmann. Oder zögen wir wieder die Franzosen zu Felde – ich kenne einen Dokter, der sich ein Haus von purem Quecksilber gebaut hat, wie das Epigramm auf der Hausthüre lautet.
+
+`p00151` Schweizer. Steht auf und gibt Spiegelberg die Hand. Moriz, du bist ein grosser Mann! – oder es hat ein blindes Schwein eine Eichel gefunden.
+
+`p00152` Schwarz. Vortreffliche Plane! honete Gewerbe! Wie doch die grossen Geister sympathisiren! Izt fehlte nur noch, daß wir Weiber und Kupplerinnen würden, oder gar unsere Jungferschaft zu Markte trieben.
+
+`p00153` Spiegelberg. Possen, Possen! Und was hinderts, daß ihr nicht das meiste in einer Person seyn könnt? Mein Plan wird euch immer am höchsten poussiren, und da habt ihr noch Ruhm und Unsterblichkeit! Seht arme Schluker! Auch so weit mus man hinausdenken! Auch auf den Nachruhm, das süsse Gefühl von Unvergeßlichkeit –
+
+`p00154` Roller. Und oben an in der Liste der ehrlichen Leute! Du bist ein Meister-Redner, Spiegelberg, Wenns drauf ankommt, aus einem ehrlichen Mann einen Hollunken zu machen – Aber sag doch einer, wo der Moor bleibt? –
+
+`p00155` Spiegelberg. Ehrlich, sagst du? Meynst du, du seyst nachher weniger ehrlich, als du izt bist? Was heist du ehrlich? Reichen Filzen ein Drittheil ihrer Sorgen vom Hals schaffen, die ihnen nur den goldnen Schlaf verscheuchen, das stockende Geld in Umlauf bringen, das Gleichgewicht der Güter wieder herstellen, mit einem Wort, das goldne Alter wieder zurükrufen, dem lieben Gott von manchem lästigen Kostgänger helfen, ihm Krieg, Pestilenz, theure Zeit und Dokters ersparen – siehst du, das heis ich ehrlich seyn, das heis ich ein würdiges Werkzeug in der Hand der Vorsehung abgeben, – und so bey jedem Braten den man ißt, den schmeichelhaften Gedanken zu haben; den haben dir deine Finten, dein Löwenmuth, deine Nachtwachen erworben – von groß und klein respektirt zu werden –
+
+`p00156` Roller. Und endlich gar bey lebendigem Leibe gen Himmel fahren, und truz Sturm und Wind, truz dem gefrässigen Magen der alten Urahne Zeit unter Sonn und Mond und allen Fixsternen schweben, wo selbst die unvernünftigen Vögel des Himmels, von edler Begierde herbeygelockt, ihr himmlisches Koncert musiciren, und die Engel mit Schwänzen ihr hochheiliges Synedrium halten? Nicht wahr? – und wenn Monarchen und Potentaten von Motten und Würmern verzehrt werden, die Ehre haben zu dürfen, von Jupiters königlichem Vogel Visiten anzunehmen? – Moriz, Moriz, Moriz! nimm dich in Acht! nimm dich in Acht, vor dem dreybeinigten Thiere!
+
+`p00157` Spiegelberg. Und das schrökt dich, Hasenherz? ist doch schon manches Universal-Genie, das die Welt hätte reformiren können, auf dem Schind-Anger verfault, und spricht man nicht von so einem Jahrhunderte, Jahrtausende lang, da mancher König und Curfürst in der Geschichte überhüpft würde, wenn sein Geschichtschreiber die Lüke in der Successions-Leiter nicht scheute, und sein Buch dardurch nicht um ein paar Oktavseiten gewönne, die ihm der Verleger mit baarem Gelde bezahlt – Und wenn dich der Wanderer so hin und her fliegen sieht im Winde – der mus auch kein Wasser im Hirn gehabt haben, brummt er in den Bart, und seufzt über die elenden Zeiten.
+
+`p00158` Schweizer. klopft ihm auf die Achsel. Meisterlich, Spiegelberg! Meisterlich! Was, zum Teufel, steht ihr da, und zaudert?
+
+`p00159` Schwarz. Und laß es auch Prostitution heissen – Was folgt weiter? Kann man nicht auf den Fall immer ein Pülvergen mit sich führen, das einen so im stillen übern Acheron fördert, wo kein Hahn darnach kräht! Nein, Bruder Moriz! dein Vorschlag ist gut. So lautet auch mein Katechismus.
+
+`p00160` Schufterle. Bliz! Und der meine nicht minder. Spiegelberg, du hast mich geworben!
+
+`p00161` Razmann. Du hast, wie ein anderer Orpheus, die heulende Bestie, mein Gewissen in den Schlaf gesungen. Nimm mich ganz, wie ich da bin.
+
+`p00162` Grimm. Si omnes consentuint ego non dissentio. Wohlgemerkt ohne Komma. Es ist ein Aufstreich in meinem Kopf; Pietisten – Quaksalber – Rezensenten und Jauner. Wer am meisten bietet, der hat mich. Nimm diese Hand Moriz.
+
+`p00163` Roller. Und auch du Schweizer? giebt Spiegelberg die rechte Hand. Also verpfänd ich meine Seele dem Teufel.
+
+`p00164` Spiegelberg. Und deinen Nahmen den Sternen! was liegt daran, wohin auch die Seele fährt? Wenn Schaaren vorausgesprengter Kuriere unsere Niederfahrt melden, daß sich die Satane festtäglich herauspuzen, sich den tausendjährigen Ruß aus den Wimpern stäüben, und myriaden gehörnter Köpfe aus der rauchenden Mündung ihrer Schwefel Kamine hervorwachsen, unsern Einzug zu sehen? Kameraden! aufgesprungen frisch auf! Kameraden! was in der Welt wiegt diesen Rausch des Entzückens auf? Kommt Kameraden!
+
+`p00165` Roller. Sachte nur! Sachte! wohin? das Thier muß auch seinen Kopf haben, Kinder.
+
+`p00166` Spiegelberg. Giftig. Was predigt der Zauderer? Stand nicht der Kopf schon, eh noch ein Glied sich regte? folgt Kameraden!
+
+`p00167` Roller. Gemach sag ich. Auch die Freyheit muß ihren Herrn haben. Ohne Oberhaupt gieng Rom und Sparta zu Grunde.
+
+`p00168` Spiegelberg. Geschmeidig. Ja – haltet – Roller sagt recht. Und das muß ein erleuchteter Kopf seyn. Versteht ihr? Ein feiner politischer Kopf muß das seyn. Ja! wenn ich mirs denke, was ihr vor einer Stunde waret, was ihr izt seyd – durch Einen glüklichen Gedanken seyd – Ja freylich, freylich, müßt ihr einen Chef haben – Und wer diesen Gedanken entsponnen, sagt, muß das nicht ein erleuchteter politischer Kopf seyn?
+
+`p00169` Roller. Wenn sichs hoffen liesse – träumen ließe – Aber ich fürchte er wird es nicht thun.
+
+`p00170` Spiegelberg. Warum nicht? Sags kek heraus, Freund! – So schwer es ist das kämpffende Schiff gegen die Winde zu lenken, so schwer sie auch drükt die Last der Kronen – Sags unverzagt, Roller, – Vielleicht wird ers doch thun.
+
+`p00171` Roller. Und lek ist das Ganze, wenn ers nicht thut. Ohne den Moor sind wir Leib ohne Seele.
+
+`p00172` Spiegelberg. Unwillig von ihm weg. Stokfisch!
+
+`p00173` Moor tritt herein in wilder Bewegung, und läuft heftig im Zimmer auf und nieder, mit sich selber.
+
+`p00174` Moor. Menschen – Menschen! falsche, heuchlerische Krokodilbrut! Ihre Augen sind Wasser! Ihre Herzen sind Erzt! Küsse auf den Lippen! Schwerter im Busen! Löwen und Leoparde füttern ihre Jungen, Raben tischen ihren Kleinen auf dem Aas, und Er, Er – Bosheit hab ich dulden gelernt, kann dazu lächeln, wenn mein erboster Feind mir mein eigen Herzblut zutrinkt – aber wenn Blutliebe zur Verrätherinn, wenn Vaterliebe zur Megäre wird: o so fange Feuer männliche Gelassenheit, verwilde zum Tyger sanftmüthiges Lamm, und jede Faser recke sich auf zu Grimm und Verderben!
+
+`p00175` Roller. Höre Moor! Was denkst du davon? Ein Räuberleben ist doch auch besser, als bey Wasser und Brod im untersten Gewölbe der Thürme?
+
+`p00176` Moor. Warum ist dieser Geist nicht in einem Tyger gefahren, der sein wütendes Gebiß in Menschenfleisch haut? Ist das Vatertreue? Ist das Liebe für Liebe? Ich möchte ein Bär seyn, und die Bären des Nordlands wider dis mörderische Geschlecht anhezen – Reue, und keine Gnade! – Oh ich möchte den Ocean vergiften, daß sie den Tod aus allen Quellen saufen! vertrauen, unüberwindliche Zuversicht, und kein Erbarmen!
+
+`p00177` Roller. So höre doch, Moor, was ich dir sage!
+
+`p00178` Moor. Es ist unglaublich, es ist ein Traum eine Täuschung – So eine rührende Bitte, so eine lebendige Schilderung des Elends und der zerfliessenden Reue – die wilde Bestie wär in Mitleid zerschmolzen! Steine hätten Tränen vergossen, und doch – man würde es für ein boshaftes Pasquill aufs Menschengeschlecht halten, wenn ichs aussagen wollte – und doch, doch – oh daß ich durch die ganze Natur das Horn des Aufruhrs blasen könnte. Luft, Erde und Meer wider das Hyanen-Gezücht ins Treffen zu führen!
+
+`p00179` Grimm. Höre doch, höre! vor Rasen hörst du ja nicht.
+
+`p00180` Moor. Weg, weg von mir! Ist dein Name nicht Mensch? Hat dich das Weib nicht geboren? – Aus meinen Augen du mit dem Menschengesicht! – Ich hab ihn so unaussprechlich geliebt! so liebte kein Sohn, ich hätte tausend Leben für ihn – schäumend auf die Erde stampfend. ha! – wer mir izt ein Schwerd in die Hand gäb, dieser Otterbrut eine brennende Wunde zu versezen! wer mir sagte: wo ich das Herz ihres Lebens erzielen, zermalmen, zernichten – Er sey mein Freund, mein Engel, mein Gott – ich will ihn anbeten!
+
+`p00181` Roller. Eben diese Freunde wollen ja wir seyn, laß dich doch weisen!
+
+`p00182` Schwarz. Komm mit uns in die böhmischen Wälder! Wir wollen eine Räuberbande sammeln, und du – Moor stiert ihn an.
+
+`p00183` Schweizer. Du sollst unser Hauptmann seyn! du mußt unser Hauptmann seyn!
+
+`p00184` Spiegelberg wirft sich wild in einen Sessel. Sklaven und Memmen!
+
+`p00185` Moor. Wer blies dir das Wort ein? Höre, Kerl! indem er Rollern hart ergreift. Das hast du nicht aus deiner Menschenseele hervorgeholt! wer blies dir das Wort ein? Ja, bey dem tausendarmigen Tod! das wollen wir, das müssen wir! der Gedanke verdient Vergötterung – Räuber und Mörder! – So wahr meine Seele lebt, ich bin euer Hauptmann!
+
+`p00186` Alle mit lermendem Geschrey. Es lebe der Hauptmann!
+
+`p00187` Spiegelberg aufspringend, vor sich. Bis ich ihm hinhelfe!
+
+`p00188` Moor. Siehe, da fällts wie der Staar von meinen Augen! was für ein Thor ich war, daß ich ins Keficht zurückwollte! – Mein Geist dürstet nach Thaten, mein Athem nach Freiheit, – Mörder, Räuber! – mit diesem Wort war das Gesez unter meine Füsse gerollt – Menschen haben Menschheit vor mir verborgen, da ich an Menschheit appellirte, weg dann von mir Sympathie und menschliche Schonung! – Ich habe keinen Vater mehr, ich habe keine Liebe mehr, und Blut und Tod soll mich vergessen lehren, daß mir jemals etwas theuer war! Kommt, kommt! – Oh ich will mir eine fürchterliche Zerstreuung machen – es bleibt dabey, ich bin euer Hauptmann! und Glück zu dem Meister unter euch, der am wildesten sengt, am gräßlichsten mordet, denn ich sage euch, er soll königlich belohnt werden – tretet her um mich ein jeder, und schwöret mir Treu und Gehorsam zu bis in den Tod! – schwört mir das bey dieser männlichen Rechte.
+
+`p00189` Alle geben ihm die Hand. Wir schwören dir Treu und Gehorsam bis in den Tod!
+
+`p00190` Moor. Nun und bey dieser männlichen Rechte! schwör ich euch hier, treu und standhaft euer Hauptmann zu bleiben bis in den Tod! Den soll dieser Arm gleich zur Leiche machen, der jemals zagt oder zweifelt, oder zurücktritt! Ein gleiches wiederfahre mir von jedem unter euch, wenn ich meinen Schwur verletze! Seyd ihrs zufrieden? Spiegelberg läuft wüthend auf und nieder.
+
+`p00191` Alle mit aufgeworfenen Hüthen. Wir sinds zufrieden.
+
+`p00192` Moor. Nun dann, so laßt uns gehn! Fürchtet euch nicht vor Tod und Gefahr, denn über uns waltet ein unbeugsames Fatum! Jeden ereilet endlich sein Tag, es sey auf dem weichen Küssen von Pflaum, oder im rauhen Gewühl des Gefechts, oder auf offenem Galgen und Rad! Eins davon ist unser Schicksal!
+
+`p00193` Sie gehen ab. 
+
+`p00194` Spiegelberg ihnen nachsehend, nach einer Pause. Dein Register hat ein Loch. Du hast das Gift weggelassen.  Ab.
+
+`p00195` Dritte Scene.
+
+`p00196` Im Moorischen Schloß, Amaliens Zimmer.
+
+`p00197` Franz. Amalia.
+
+`p00198` Franz. Du siehst weg, Amalia? verdien ich weniger, als der, den der Vater verflucht hat?
+
+`p00199` Amalia. Weg! – ha des liebevollen barmherzigen Vaters, der seinen Sohn Wölffen und Ungeheuern Preis gibt! daheim labt er sich mit süssem köstlichem Wein, und pflegt seiner morschen Glieder in Kissen von Eider, während sein grosser herrlicher Sohn darbt – schämt euch, ihr Unmenschen! schämt euch, ihr Drachenseelen, ihr Schande der Menschheit! – seinen einzigen Sohn!
+
+`p00200` Franz. Ich dächte, er hätt ihrer zween.
+
+`p00201` Amalia. Ja, er verdient solche Söhne zu haben, wie du bist. Auf seinem Todbett wird er umsonst die welken Hände ausstrecken nach seinem Karl, und schaudernd zurückfahren, wenn er die eiskalte Hand seines Franzens faßt – oh es ist süß, es ist köstlich süß, von deinem Vater verflucht zu werden! Sprich Franz, liebe brüderliche Seele! was muß man thun, wenn man von ihm verflucht seyn will?
+
+`p00202` Franz. Du schwärmst, meine Liebe, du bist zu bedauren.
+
+`p00203` Amalia. O ich bitte dich – bedauerst du deinen Bruder? – Nein Unmensch, du hassest ihn! du hassest mich doch auch?
+
+`p00204` Franz. Ich liebe dich wie mich selbst, Amalia.
+
+`p00205` Amalia. Wenn du mich liebst, kannst du mir wol eine Bitte abschlagen?
+
+`p00206` Franz. Keine, keine! wenn sie nicht mehr ist als mein Leben.
+
+`p00207` Amalia. O, wenn das ist! Eine Bitte, die du so leicht, so gern erfüllen wirst, stolz. – Hasse mich! Ich müßte feuerroth werden vor Scham, wenn ich an Karln denke, und mir eben einfiel, daß du mich nicht hassest. Du versprichst mirs doch? – Izt geh, und laß mich, ich bin so gern allein!
+
+`p00208` Franz. Allerliebste Träumerinn! wie sehr bewundere ich dein sanftes, liebevolles Herz, ihr auf die Brust klopfend. Hier hier herrschte Karl wie ein Gott in seinem Tempel, Karl stand vor dir im Wachen, Karl regierte in deinen Träumen, die ganze Schöpfung schien dir nur in den einzigen zu zerfliessen, den einzigen wiederzustralen, den einzigen dir entgegen zu tönen.
+
+`p00209` Amalia bewegt. Ja wahrhaftig, ich gesteh es. Euch Barbaren zum Trutz will ichs vor aller Welt gestehen – ich lieb ihn!
+
+`p00210` Franz. Unmenschlich, grausam! Diese Liebe so zu belohnen! Die zu vergessen –
+
+`p00211` Amalia auffahrend. Was, mich vergessen?
+
+`p00212` Franz. Hattest du ihm nicht einen Ring an den Finger gesteckt? einen Diamantring zum Unterpfand deiner Treue! – Freylich nun, wie kann auch ein Jüngling den Reizen einer Meze Widerstand thun? Wer wirds ihm auch verdenken, da ihm sonst nichts mehr übrig war wegzugeben, – und bezahlte sie ihn nicht mit Wucher dafür mit ihren Liebkosungen, ihren Umarmungen?
+
+`p00213` Amalia aufgebrachs. Meinen Ring einer Meze?
+
+`p00214` Franz. Pfui, pfui! das ist schändlich. Wol aber, wenns nur das wäre! – Ein Ring, so kostbar er auch ist, ist im Grunde bey jedem Juden wieder zu haben – vielleicht mag ihm die Arbeit daran nicht gefallen haben, vielleicht hat er einen schönern dafür eingehandelt.
+
+`p00215` Amalia heftig. Aber meinen Ring – ich sage meinen Ring?
+
+`p00216` Franz. Keinen andern, Amalia – ha! solch ein Kleinod, und an meinem Finger – und von Amalia! – von hier sollt ihn der Tod nicht gerissen haben – nicht wahr, Amalia? nicht die Kostbarkeit des Diamants, nicht die Kunst des Gepräges – die Liebe macht seinen Werth aus – Liebstes Kind, du weinest? wehe über den, der diese köstliche Tropfen aus so himmlischen Augen preßt – ach, und wenn du erst alles wüßtest, ihn selbst sähest, ihn unter der Gestalt sähest? –
+
+`p00217` Amalia. Ungeheuer! wie, unter welcher Gestalt?
+
+`p00218` Franz. Stille, stille, gute Seele, frage mich nicht aus! Wie vor sich, aber laut. Wenn es doch wenigstens nur einen Schleyer hätte, das garstige Laster, sich dem Auge der Welt zu entstehlen! aber da blickts schrecklich durch den gelben bleyfarbenen Augenring; – da verräth sichs im todenblassen eingefallenen Gesicht, und dreht die Knochen heßlich hervor – da stammelts in der halben verstümmelten Stimme – da predigts fürchterlich laut vom zitternden hinschwankenden Gerippe – da durchwühlt es der Knochen innerstes Mark, und bricht die mannhafte Stärke der Jugend – da, da sprizt es den eitrichten fressenden Schaum aus Stirn und Wangen und Mund, und der ganzen Fläche des Leibes zum scheußlichen Aussaz hervor, und nistet abscheulich in den Gruben der viehischen Schande – pfui, pfui! mir eckelt. Nasen, Augen, Ohren schütteln sich – du hast jenen Elenden gesehen, Amalia, der in unserem Siechenhause seinen Geist auskeuchte, die Schaam schien ihr scheues Auge vor ihm zuzublinzen – du ruftest Wehe über ihn aus. Ruf dis Bild noch einmal ganz in deine Seele zurück, und Karl steht vor dir! – Seine Küsse sind Pest, seine Lippen vergiften die deinen!
+
+`p00219` Amalia schlägt ihn. Schaamloser Lästerer!
+
+`p00220` Franz. Graut dir vor diesem Karl? Eckelt dir schon vor dem matten Gemälde? Geh, gaff ihn selbst an, deinen schönen, englischen göttlichen Karl! Geh, sauge seinen balsamischen Athem ein, und laß dich von den Ambrosia-Düften begraben, die aus seinem Rachen dampfen! der blose Hauch seines Mundes wird dich in jenen schwarzen todähnlichen Schwindel hauchen, der den Geruch eines berstenden Aaases und den Anblick eines Leichenvollen Wahlplatzes begleitet.
+
+`p00221` Amalia wendet ihr Gesicht ab.
+
+`p00222` Franz. Welches Aufwallen der Liebe! Welche Wollust in der Umarmung – aber ist es nicht ungerecht einen Menschen um seiner siechen Aussenseite willen zu verdammen? Auch im elendesten Aesopischen Krüppel kann eine grose liebenswürdige Seele, wie ein Rubin aus dem Schlamme glänzen, boshaft lächelnd. Auch aus blattrichten Lippen kann ja die Liebe –
+
+`p00223` Freylich, wenn das Laster auch die Festen des Karakters erschüttert, wenn mit der Keuschheit auch die Tugend davon fliegt, wie der Duft aus der welken Rose verdampft – wenn mit dem Körper auch der Geist zum Krüppel verdirbt –
+
+`p00224` Amalia froh aufspringend. Ha! Karl! nun erkenn ich dich wieder! du bist noch ganz! ganz! alles war Lüge! – weist du nicht, Bösewicht, daß Karl unmöglich das werden kann? Franz steht einige Zeit tiefsinnig, dann dreht er sich plötzlich um zu gehn. Wohin so eilig, fliehst du vor deiner eigenen Schande?
+
+`p00225` Franz mit verhülltem Gesicht. Laß mich, laß mich! – meinen Tränen den Lauf lassen – tyrannischer Vater! den besten deiner Söhne so hinzugeben dem Elend – der ringsumgebenden Schande – laß mich, Amalia! ich will ihm zun Füssen fallen, auf den Knien will ich ihn beschwören, den ausgesprochenen Fluch auf mich, auf mich zu laden – mich zu enterben – mich – mein Blut – mein Leben – alles –
+
+`p00226` Amalia fällt ihm um den Hals. Bruder meines Karls, bester, liebster Franz!
+
+`p00227` Franz. O Amalia! wie lieb ich dich um dieser unerschütterten Treue gegen meinen Bruder – verzeih, daß ich es wagte, deine Liebe auf diese harte Probe zu setzen! – Wie schön hast du meine Wünsche gerechtfertigt! – Mit diesen Thränen, diesen Seufzern, diesem himmlischen Unwillen – auch für mich, für mich – unsere Seelen stimmten so zusammen.
+
+`p00228` leise mit Tränen: ich verlasse Amalia, ich weis nicht – mir ahndets, als hies es auf ewig – verlaß sie nicht, Bruder! – sey ihr Freund – ihr Karl – wenn Karl – nimmer – wiederkehrt – Er stürzt vor ihr nieder und küßt ihr die Hand mit Heftigkeit. Nimmer, nimmer, nimmer wird er wiederkehren, und ich habs ihm zugesagt mit einem heiligen Eide!
+
+`p00229` Amalia zurükspringend. Verräther, wie ich dich ertappe! In eben dieser Laube beschwur er mich, keiner andern Liebe – wenn er sterben sollte – siehst du, wie gottlos, wie abscheulich du – geh aus meinen Augen.
+
+`p00230` Franz. Du kennst mich nicht, Amalia, du kennst mich gar nicht!
+
+`p00231` Amalia. O ich kenne dich, von izt an kenn ich dich – und du wolltest ihm gleich seyn? Vor dir sollt er um mich geweint haben? Vor dir? Ehe hätt’ er meinen Namen auf den Pranger geschrieben! Geh den Augenblick!
+
+`p00232` Franz. Du beleidigst mich!
+
+`p00233` Amalia. Geh, sag ich. Du hast mir eine kostbare Stunde gestohlen, sie werde dir an deinem Leben abgezogen.
+
+`p00234` Franz. Du hassest mich.
+
+`p00235` Amalia. Ich verachte dich, geh!
+
+`p00236` Franz mit den Füssen stampfend. Wart! so sollst du vor mir zittern! mich einem Bettler aufopfern? Zornig ab.
+
+`p00237` Amalia.
+
+`p00238` Geh, Lotterbube – izt bin ich wieder bey Karln – Bettler, sagt er? so hat die Welt sich umgedreht, Bettler sind Könige, und Könige sind Bettler! – Ich möchte die Lumpen, die er anhat, nicht mit dem Purpur der Gesalbten vertauschen – der Blick mit dem er bettelt, das mus ein groser, ein königlicher Blick seyn – ein Blick, der die Herrlichkeit, den Pomp, die Triumpfe der Grossen und Reichen zernichtet! In den Staub mit dir, du prangendes Geschmeide! Sie reißt sich die Perlen vom Hals. Seyd verdammt, Gold und Silber und Juwelen zu tragen, ihr Grosen und Reichen! Seyd verdammt, an üppigen Maalen zu zechen! Verdammt euren Gliedern wol zu thun auf weichen Polstern der Wollust! Karl! Karl! so bin ich dein werth –
+
+`p00239` Ab. 
+
+`p00240` Anmerkungen von Wikisource:
+
+`p00241` Fünfter Akt.
+
+`p00242` ________
+
+`p00243` Erste Scene.
+
+`p00244` Aussicht von vielen Zimmern.
+
+`p00245` Finstre Nacht.
+
+`p00246` Daniel kommt mit einer Laterne und einem Reisebündel.
+
+`p00247` Lebewol, theures Mutterhauß – Hab so manch guts und liebs in dir genoßen, da der Herr seeliger noch lebete – Tränen auf deine Gebeine du lange verfaulter! das verlangt er von einem alten Knecht – es war das Obdach der Waysen, und der Port der Verlaßenen, und dieser Sohn hats gemacht zur Mördergrube – Lebe wol du guter Boden! wie oft hat der alte Daniel dich abgefegt – Lebe wol du lieber Ofen, der alte Daniel nimmt schweren Abschied von dir – es war dir alles so vertraut worden – wird dir weh thun, alter Elieser – Aber Gott bewahre mich in Gnaden vor dem Trug und List des Argen – Leer kam ich hieher – leer zieh ich wieder hin – aber meine Seele ist gerettet wie er gehen will kömmt
+
+`p00248` Franz im Schlafrock hereingestürzt.
+
+`p00249` Daniel. Gott steh mir bey! Mein Herr! Löscht die Laterne aus.
+
+`p00250` Franz. Verrathen! Verrathen! Geister ausgespien aus Gräbern – Losgerüttelt das Todenreich aus dem ewigen Schlaf brüllt wider mich Mörder! Mörder! – wer regt sich da?
+
+`p00251` Daniel ängstlich. Hilf heilige Mutter Gottes! seyd ihrs gestrenger Herre, der so gräßlich durch die Gewölbe schreit, daß alle Schläfer auffahren?
+
+`p00252` Franz. Schläfer? Wer heißt euch schlafen? Fort zünde Licht an Daniel ab, es kommt ein andrer Bedienter. Es soll niemand schlafen in dieser Stunde. Hörst du? Alles soll auf seyn – in Waffen – alle Gewehre geladen – Sahst du sie dort den Bogengang hinschweben?
+
+`p00253` Bedienter. Wen gnädiger Herr?
+
+`p00254` Franz. Wen, Dummkopf, wen? So kalt, so leer fragst du, wen? hat michs doch angepackt wie der Schwindel! wen, Eselskopf! wen? Geister und Teufel! wie weit ists in der Nacht?
+
+`p00255` Bedienter. Eben izt ruft der Nachtwächter zwey an.
+
+`p00256` Franz. Was? will diese Nacht währen bis an den jüngsten Tag? hörtest du keinen Tumult in der Nähe? Kein Siegsgeschrey? Kein Geräusch galoppirender Pferde? wo ist Kar – der Graf, will ich sagen?
+
+`p00257` Bedienter. Ich weis nicht, mein Gebieter.
+
+`p00258` Franz. Du weists nicht? Du bist auch unter der Rotte? Ich will dir das Herz aus den Rippen stampfen! mit deinem verfluchten: ich weis nicht! Fort, hole den Pastor!
+
+`p00259` Bedienter. Gnädiger Herr!
+
+`p00260` Franz. Murrst du? zögerst du? Erster Bedienter eilend ab. Was? auch Bettler wider mich verschworen? Himmel, Hölle! alles wider mich verschworen?
+
+`p00261` Daniel kommt mit dem Licht. Mein Gebieter –
+
+`p00262` Franz. Nein! ich zittere nicht! Es war ledig ein Traum. Die Toden stehen noch nicht auf – wer sagt, daß ich zittere und bleich bin? Es ist mir ja so leicht, so wol.
+
+`p00263` Daniel. Ihr seyd todenbleich, eure Stimme ist bang und lallet.
+
+`p00264` Franz. Ich habe das Fieber. Sage du nur, wenn der Pastor kommt, ich habe das Fieber. Ich will morgen zur Ader lassen, sage dem Pastor.
+
+`p00265` Daniel. Befehlt ihr, daß ich euch Lebensbalsam auf Zucker tröpfle?
+
+`p00266` Franz. Tröpfle mir auf Zucker! der Pastor wird nicht sogleich da seyn. Meine Stimme ist bang und lallet, gib Lebensbalsam auf Zucker!
+
+`p00267` Daniel. Gebt mir erst die Schlüssel, ich will drunten holen im Schrank –
+
+`p00268` Franz. Nein, nein, nein! Bleib! oder ich will mit dir gehn. Du siehst, ich kann nicht allein seyn! wie leicht könnt ich, du siehst ja – unmächtig – wenn ich allein bin. Laß nur, laß nur! Es wird vorübergehen, du bleibst.
+
+`p00269` Daniel. Oh ihr seyd ernstlich krank.
+
+`p00270` Franz. Ja freylich, freylich! das ists alles. – Und Krankheit verstöret das Gehirn, und brütet tolle und wunderliche Träume aus – Träume bedeuten nichts – nicht wahr Daniel? Träume kommen ja aus dem Bauch, und Träume bedeuten nichts – ich hatte so eben einen lustigen Traum er sinkt unmächtig nieder.
+
+`p00271` Daniel. Jesus Christus! was ist das? Georg! Conrad! Bastian! Martin! so gebt doch nur eine Urkund von euch! Rüttelt ihn. Maria, Magdalena und Joseph! so nimmt doch nur Vernunft an! So wirds heissen, ich hab ihn tod gemacht! Gott erbarme sich meiner!
+
+`p00272` Franz verwirrt. Weg – weg! was rüttelst du mich so, scheußliches Todengeripp? – die Toden stehen noch nicht auf –
+
+`p00273` Daniel. O du ewige Güte! Er hat den Verstand verloren.
+
+`p00274` Franz richtet sich matt auf. Wo bin ich? – du Daniel? was hab ich gesagt? merke nicht drauf! ich hab eine Lüge gesagt, es sey was es wolle – komm! hilf mir auf! – es ist nur ein Anstos von Schwindel – weil ich – weil ich – nicht ausgeschlafen habe.
+
+`p00275` Daniel. Wär nur der Johann da! ich will Hülfe rufen, ich will nach Aerzten rufen.
+
+`p00276` Franz. Bleib! sez dich neben mich auf diesen Sopha – so – du bist ein gescheuter Mann, ein guter Mann. Laß dir erzählen!
+
+`p00277` Daniel. Izt nicht, ein andermal! ich will euch zu Bette bringen, Ruhe ist euch besser.
+
+`p00278` Franz. Nein, ich bitte dich, laß dir erzählen, und lache mich derb aus! – Siehe mir dauchte, ich hätte ein königlich Mahl gehalten, und mein Herz wär guter Dinge, und ich läge berauscht im Rasen des Schloßgartens, und plözlich – es war zur Stunde des Mittags – plözlich, aber ich sage dir, lache mich derb aus! –
+
+`p00279` Daniel. Plözlich?
+
+`p00280` Franz. Plözlich traf ein ungeheurer Donner mein schlummerndes Ohr, ich taumelte bebend auf, und siehe da war mirs, als säh ich aufflammen den ganzen Horizont in feuriger Lohe, und Berge und Städte und Wälder, wie Wachs im Ofen zerschmolzen, und eine heulende Windsbraut fegte von hinnen Meer Himmel und Erde – da erscholls wie aus ehernen Posaunen: Erde gib deine Toden, gib deine Toden, Meer! und das nakte Gefild begonn zu kreisen, und aufzuwerfen Schedel und Rippen und Kinnbacken und Beine, die sich zusammenzogen in menschliche Leiber, und daher strömten unübersehlich, ein lebendiger Sturm: Damals sah ich aufwärts, und siehe, ich stand am Fus des donnernden Sina, und über mir Gewimmel und unter mir, und oben auf der Höhe des Bergs auf drey rauchenden Stühlen drey Männer, vor deren Blick flohe die Kreatur –
+
+`p00281` Daniel. Das ist ja das leibhafte Konterfey vom jüngsten Tage.
+
+`p00282` Franz. Nicht wahr? das ist tolles Gezeuge? Da trat hervor Einer, anzusehen wie die Sternennacht, der hatte in seiner Hand einen eisernen Siegelring, den hielt er zwischen Aufgang und Niedergang und sprach: Ewig, heilig, gerecht, unverfälschbar! Es ist nur Eine Wahrheit, es ist nur Eine Tugend! Wehe, wehe, wehe dem zweiffelnden Wurme! – da trat hervor ein Zweyter, der hatte in seiner Hand einen blizenden Spiegel, den hielt er zwischen Aufgang und Niedergang, und sprach: Dieser Spiegel ist Wahrheit; Heucheley und Larven bestehen nicht – da erschrack ich und alles Volk, denn wir sahen Schlangen und Tyger und Leoparden Gesichter zurückgeworfen aus dem entsetzlichen Spiegel. – Da trat hervor ein Dritter, der hatte in seiner Hand eine eherne Wage, die hielt er zwischen Aufgang und Niedergang, und sprach: tretet herzu, ihr Kinder von Adam – ich wäge die Gedanken in der Schaale meines Zornes! und die Werke mit dem Gewicht meines Grimms! –
+
+`p00283` Daniel. Gott erbarme sich meiner.
+
+`p00284` Franz. Schneebleich stunden alle, ängstlich klopfte die Erwartung in jeglicher Brust. Da war mirs, als hört ich meinen Namen zuerst genannt aus den Wettern des Berges, und mein innerstes Mark gefror in mir, und meine Zähne klapperten laut. Schnell begonn die Waage zu klingen, zu donnern der Fels, und die Stunden zogen vorüber, eine nach der andern an der links hangenden Schaale, und eine nach der andern warf eine Todsünde hinein –
+
+`p00285` Daniel. Oh Gott vergeb euch!
+
+`p00286` Franz. Das that er nicht! – die Schaale wuchs zu einem Gebirge, aber die andere voll vom Blut der Versöhnung hielt sie noch immer hoch in den Lüften – zulezt kam ein alter Mann, schwer gebeuget vom Gram, angebissen den Arm von wütendem Hunger, aller Augen wanden sich scheu vor dem Mann, ich kannte den Mann, er schnitt eine Locke von seinem silbernen Haupthaar, warf sie hinein in die Schaale der Sünden, und siehe, sie sank, sank plötzlich zum Abgrund, und die Schaale der Versöhnung flatterte hoch auf! – Da hört ich eine Stimme schallen aus dem Rauche des Felsen: Gnade, Gnade jedem Sünder der Erde und des Abgrunds! du allein bist verworfen! – Tiefe Pause. – Nun, warum lachst du nicht?
+
+`p00287` Daniel. Kann ich lachen, wenn mir die Haut schaudert? Träume kommen von Gott.
+
+`p00288` Franz. Pfui doch, pfui doch! sage das nicht! Heis mich einen Narren, einen aberwitzigen, abgeschmackten Narren! Thu das, lieber Daniel, ich bitte dich drum, spotte mich tüchtig aus!
+
+`p00289` Daniel. Träume kommen von Gott. Ich will für euch beten.
+
+`p00290` Franz. Du lügst, sag ich – geh den Augenblik, lauf, spring, sieh, wo der Pastor bleibt, heiß ihn eilen, eilen, aber ich sage dir, du lügst.
+
+`p00291` Daniel im Abgehn. Gott sey euch gnädig!
+
+`p00292` Franz.
+
+`p00293` Pöbel-Weisheit, Pöbelfurcht! – Es ist ja noch nicht ausgemacht, ob das Vergangene nicht vergangen ist, oder ein Auge findet über den Sternen – hum, hum! wer raunte mir das ein? Rächet denn droben über den Sternen einer? – Nein, nein! Ja, ja! Fürchterlich zischelts um mich: Richtet droben einer über den Sternen! Entgegen gehen dem Rächer über den Sternen diese Nacht noch! Nein! sag ich – Elender Schlupfwinkel, hinter den sich deine Feigheit verstecken will – öd, einsam, taub ists droben über den Sternen – wenns aber doch etwas mehr wäre? Nein, nein, es ist nicht! Ich befehle, es ist nicht! wenns aber doch wäre? Weh dir, wenns nachgezählt worden wäre! wenns dir vorgezählt würde diese Nacht noch! – warum schaudert mir so durch die Knochen? – Sterben! warum packt mich das Wort so? Rechenschaft geben dem Rächer droben über den Sternen – und wenn er gerecht ist, Waisen und Wittwen, Unterdrückte, Geplagte heulen zu ihm auf, und wenn er gerecht ist? – warum haben sie gelitten, warum hast du über sie triumphiret? –
+
+`p00294` Pastor Moser tritt auf.
+
+`p00295` Moser. Ihr ließt mich holen, gnädiger Herr. Ich erstaune. Das erstemal in meinem Leben! Habt ihr im Sinn über die Religion zu spotten, oder fangt ihr an vor ihr zu zittern?
+
+`p00296` Franz. Spotten oder zittern, je nachdem du mir antwortest. – Höre Moser, ich will dir zeigen, daß du ein Narr bist, oder die Welt fürn Narren halten willst, und du sollst mir antworten. Hörst du? Auf dein Leben sollst du mir antworten.
+
+`p00297` Moser. Ihr fordert einen höheren vor euren Richterstul. Der höhere wird euch dermaleins antworten.
+
+`p00298` Franz. Izt will ichs wissen, itzt, diesen Augenblick, damit ich nicht die schändliche Thorheit begehe, und im Drange der Noth den Götzen des Pöbels anrufe, ich habs dir oft mit Hohnlachen beym Burgunder zugesoffen: Es ist kein Gott! – Izt red ich im Ernste mit dir, ich sage dir: es ist keiner! du sollst mich mit allen Waffen widerlegen, die du in deiner Gewalt hast, aber ich blase sie weg mit dem Hauch meines Mundes.
+
+`p00299` Moser. Wenn du auch eben so leicht den Donner wegblasen könntest, der mit zehntausendfachem Centner-Gewicht auf deine stolze Seele fallen wird! dieser allwissende Gott, den du Thor und Bösewicht mitten aus seiner Schöpfung zernichtest braucht sich nicht durch den Mund des Staubes zu rechtfertigen. Er ist eben so gros in deinen Tyranneyen, als irgend in einem Lächeln der siegenden Tugend.
+
+`p00300` Franz. Ungemein gut Pfaffe! So gefällst du mir.
+
+`p00301` Moser. Ich stehe hier in den Angelegenheiten eines grössern Herrn, und rede mit einem, der Wurm ist wie ich, dem ich nicht gefallen will. Freylich müßt ich Wunder thun können, wenn ich deiner halsstarrigen Bosheit das Geständniß abzwingen könnte, – aber wenn deine Ueberzeugung so fest ist? warum liessest du mich rufen, sage mir doch, warum liessest du mich in der Mitternacht rufen?
+
+`p00302` Franz. Weil ich lange Weile hab, und eben am Schachbrett keinen Geschmack finde. Ich will mir einen Spaß machen, mich mit Pfaffen herumzubeissen. Mit dem leeren Schrecken wirst du meinen Muth nicht entmannen. Ich weis wol, daß derjenige auf Ewigkeit hofft, der hier zu kurz gekommen ist: aber er wird garstig betrogen. Ich habs immer gelesen, daß unser Wesen nichts ist als Sprung des Geblüts, und mit dem lezten Blutstropfen zerrinnt auch Geist und Gedanke. Er macht alle Schwachheiten des Körpers mit, wird er nicht auch aufhören bey seiner Zerstörung? nicht bey seiner Fäulung verdampfen? Laß einen Wassertropfen in deinem Gehirne verirren, und dein Leben macht eine plötzliche Pause, die zunächst an das Nichtseyn gränzt, und ihre Fortdauer ist der Tod. Empfindung ist Schwingung einiger Saiten, und das zerschlagene Klavier tönet nicht mehr. Wenn ich meine sieben Schlösser schleifen lasse, wenn ich diese Venus zerschlage, so ists Symmetrie und Schönheit gewesen. Siehe da! das ist eure unsterbliche Seele!
+
+`p00303` Moser. Das ist die Philosophie eurer Verzweiflung. Aber euer eigenes Herz, das bey diesen Beweisen ängstlich bebend wider eure Rippen schlägt, straft euch Lügen. Diese Spinnweben von Systemen zerreißt das einzige Wort: du must sterben! – ich fordere euch auf, das soll die Probe seyn, wenn ihr im Tode annoch feste steht, wenn euch eure Grundsätze auch da nicht im Stiche lassen, so sollt ihr gewonnen haben; wenn euch im Tode nur der mindeste Schauer anwandelt, weh euch dann! ihr habt euch betrogen.
+
+`p00304` Franz verwirrt. Wenn mich im Tode ein Schauer anwandelt?
+
+`p00305` Moser. Ich habe wol mehr solche Elende gesehen, die bis hieher der Wahrheit Riesentroz boten, aber im Tode selbst flattert die Täuschung dahin. Ich will an eurem Bette stehn, wenn ihr sterbet – ich möchte so gar gern einen Tyrannen sehen dahinfahren – ich will dabeystehn, und euch starr ins Auge fassen, wenn der Arzt eure kalte nasse Hand ergreift, und den verloren schleichenden Puls kaum mehr finden kann, und aufschaut, und mit jenem schröcklichen Achselzucken zu euch spricht: menschliche Hülfe ist umsonst! Hütet euch dann, o hütet euch ja, daß ihr da ausseht wie Richard und Nero!
+
+`p00306` Franz. Nein, nein!
+
+`p00307` Moser. Auch dieses Nein wird dann zu einem heulenden Ja – ein innerer Tribunal, den ihr nimmermehr durch skeptische Grübeleyen bestechen könnt, wird izo erwachen, und Gericht über euch halten. Aber es wird ein Erwachen seyn, wie des lebendig begrabenen im Bauche des Kirchhofs, es wird ein Unwille seyn wie des Selbstmörders, wenn er den tödtlichen Streich schon gethan hat und bereut, es wird ein Bliz seyn, der die Mitter-Nacht eures Lebens zumal überflammt, es wird Ein Blick seyn, und wenn ihr da noch feste steht, so sollt ihr gewonnen haben!
+
+`p00308` Franz unruhig im Zimmer auf und abgehend. Pfaffengewäsche, Pfaffengewäsche!
+
+`p00309` Moser. Izt zum erstenmal werden die Schwerder einer Ewigkeit durch eure Seele schneiden, und izt zum erstenmal zu spät. – Der Gedanke Gott wekt einen fürchterlichen Nachbar auf, sein Name heißt Richter. Sehet Moor, ihr habt das Leben von tausenden an der Spize eures Fingers, und von diesen tausenden habt ihr neunhundert neun und neunzig elend gemacht. Euch fehlt zu einem Nero nur das römische Reich, und nur Peru zu einem Pizarro. Nun glaubt ihr wol, Gott werde es zugeben, daß ein einziger Mensch in seiner Welt wie ein Wütrich hause, und das oberste zu unterst kehre? Glaubt ihr wol, diese neunhundert und neun und neunzig seyen nur zum Verderben, nur zu Puppen eures satanischen Spieles da? Oh glaubt das nicht! Er wird jede Minute, die ihr ihnen getödtet, jede Freude, die ihr ihnen vergiftet, jede Vollkommenheit, die ihr ihnen versperret habt, von euch fodern dereinst, und wenn ihr darauf antwortet, Moor, so sollt ihr gewonnen haben.
+
+`p00310` Franz. Nichts mehr, kein Wort mehr! willst du, daß ich deinen schwarzlebrigen Grillen zu Gebot steh?
+
+`p00311` Moser. Sehet zu, das Schicksaal der Menschen stehet unter sich in fürchterlich schönem Gleichgewicht. Die Waagschaale dieses Lebens sinkend wird hoch steigen in jenem, steigend in diesem wird in jenem zu Boden fallen. Aber was hier zeitliches Leiden war, wird dort ewiger Triumf, was hier endlicher Triumf war, wird dort ewige unendliche Verzweiflung.
+
+`p00312` Franz wild auf ihn losgehend. Daß dich der Donner stumm mache, Lügengeist du! Ich will dir die verfluchte Zunge aus dem Munde reissen!
+
+`p00313` Moser. Fühlt ihr die Last der Wahrheit so früh? Ich habe ja noch nichts von Beweisen gesagt. Laßt mich nur erst zu den Beweisen –
+
+`p00314` Franz. Schweig, geh in die Hölle mit deinen Beweisen! zernichtet wird die Seele, sag ich dir, und sollst mir nicht darauf antworten!
+
+`p00315` Moser. Darum winseln auch die Geister des Abgrunds, aber der im Himmel schüttelt das Haupt. Meynt ihr, dem Arm des Vergelters im öden Reich des Nichts zu entlaufen? und führet ihr gen Himmel, so ist er da! und bettetet ihr euch in der Hölle, so ist er wieder da! und sprächet ihr zu der Nacht: verhülle mich! und zu der Finsterniß: birg mich! so mus die Finsternis leuchten um euch, und um den Verdammten die Mitternacht ragen – aber euer unsterblicher Geist sträubt sich unter dem Wort, und siegt über den blinden Gedanken.
+
+`p00316` Franz. Ich will aber nicht unsterblich seyn – sey es, wer da will, ich wills nicht hindern. Ich will ihn zwingen, daß er mich zernichte, ich will ihn zur Wuth reizen, daß er mich in der Wuth zernichte. Sag mir, was ist die gröste Sünde, und die ihn am grimmigsten aufbringt?
+
+`p00317` Moser. Ich kenne nur zwo. Aber sie werden nicht von Menschen begangen, auch ahnden sie Menschen nicht.
+
+`p00318` Franz. Diese zwo! –
+
+`p00319` Moser sehr bedeutend. Vatermord heißt die eine, Brudermord die andere – Was macht euch auf einmal so bleich?
+
+`p00320` Franz. Was Alter? Stehst du mit dem Himmel oder mit der Hölle im Bündnis? Wer hat dir das gesagt?
+
+`p00321` Moser. Wehe dem, der sie beyde auf dem Herzen hat! Ihm wäre besser, daß er nie geboren wäre! Aber seyd ruhig, ihr habt weder Vater noch Bruder mehr!
+
+`p00322` Franz. Ha! – was, du kennst keine drüber? Besinne dich nochmals – Tod, Himmel, Ewigkeit, Verdammnis schwebt auf dem Laut deines Mundes – keine einzige drüber?
+
+`p00323` Moser. Keine einzige drüber.
+
+`p00324` Franz fällt in einen Stul. Zernichtung! Zernichtung!
+
+`p00325` Moser. Freut euch, freut euch doch! preißt euch doch glücklich! – Bey allen euern Greueln seyd ihr noch ein Heiliger gegen den Vatermörder. Der Fluch, der euch trift, ist gegen den, der auf diesen lauert, ein Gesang der Liebe – die Vergeltung –
+
+`p00326` Franz aufgesprungen. Geh in tausend Grüfte, du Eule! wer hies dich hieher kommen? geh, sag ich, oder ich stos dich durch und durch!
+
+`p00327` Moser. Kann das Pfaffengewäsche so einen Philosophen in Harnisch jagen? Blaßt es doch weg mit dem Hauch eures Mundes! geht ab.
+
+`p00328` Franz wirft sich in seinem Sessel herum in schröcklichen Bewegungen, tiefe Pause.
+
+`p00329` Ein Bedienter eilig.
+
+`p00330` Bedienter. Amalia ist entsprungen, der Graf ist plözlich verschwunden.
+
+`p00331` Daniel kommt ängstlich.
+
+`p00332` Daniel. Gnädiger Herr, jagt ein Trupp feuriger Reuter die Staig herab, schreyen Mordjo, Mordjo – das ganze Dorf in Allarm.
+
+`p00333` Franz. Geh laß alle Glocken zusammenläuten alles soll in die Kirche – auf die Knie fallen alles – beten für mich – alle Gefangnen sollen los seyn und ledig, ich will den Armen alles doppelt und dreyfach wiedergeben, ich will – so geh doch – so ruf doch den Beichtvater, daß er mir meine Sünden hinwegseegne – bist du noch nicht fort? Das Getümmel wird hörbarer.
+
+`p00334` Daniel. Gott verzeih mir meine schwere Sünde! Wie soll ich das wieder reimen? Ihr habt ja immer das liebe Gebet über alle Häusser hinausgeworffen, habt mir so manche Postill und Bibelbuch an den Kopf gejagt, wenn ihr mich ob dem Beten ertapptet –
+
+`p00335` Franz. Nichts mehr davon – Sterben! siehst du! Sterben! – Es wird zu spät man hört Schweizern toben. Bete doch! Bete!
+
+`p00336` Daniel. Ich sagt’s euch immer – ihr verachtet das liebe Gebet so – aber gebt acht, gebt acht! wenn die Noth an Mann geht, wenn euch das Wasser an die Seele geht, ihr werdet alle Schäze der Welt um ein christliches Seufzerlein geben – Seht ihrs? Ihr verschimpftet mich! Da habt ihrs nun! Seht ihrs?
+
+`p00337` Franz umarmt ihn ungestüm. Verzeih lieber, goldner Perlendaniel verzeih – ich will dich kleiden von Fuß auf – so bet doch – ich will dich zum Hochzeiter machen – ich will – so bet doch – ich beschwöre dich – auf den Knien beschwör ich dich – Ins T–ls Namen! so bet doch! Tumult auf den Strassen, Geschrey – Gepolter –
+
+`p00338` Schweizer auf der Gasse. Stürmt! Schlagt tod! Brecht ein! Ich sehe Licht! dort muß er seyn.
+
+`p00339` Franz auf den Knien. Höre mich beten Gott im Himmel! – Es ist das erstemal – soll auch gewiß nimmer geschehen – Erhöre mich Gott im Himmel.
+
+`p00340` Daniel. Mein doch! Was treibt ihr? Das ist ja gottloß gebetet.
+
+`p00341` Volksauflauf.
+
+`p00342` Volk. Diebe! Mörder! wer lärmt sogräßlich in dieser Mitternachtsstunde!
+
+`p00343` Schweizer immer auf der Gasse. Schlag sie zurük Kamerad – der Teufel ists und will euren Herrn holen – wo ist der Schwarz mit seinem Hauffen? – Postir dich ums Schloß Grimm – Lauf Sturm wider die Ringmauer!
+
+`p00344` Grimm. Holt ihr Feuerbrände – wir hinauf oder er herunter – Ich will Feuer in seine Sääle schmeißen.
+
+`p00345` Franz betet. Ich bin kein gemeiner Mörder gewesen mein Herrgott – hab mich nie mit Kleinigkeiten abgegeben mein Herrgott –
+
+`p00346` Daniel. Gott sey uns gnädig. Auch seine Gebete werden zu Sünden. Es fliegen Steine und Feuerbrände. Die Scheiben fallen. Das Schloß brennt.
+
+`p00347` Franz. Ich kann nicht beten – hier hier! Auf Brust und Stirn schlagend, Alles so öd – so verdorret steht auf. Nein ich will auch nicht beten – diesen Sieg soll der Himmel nicht haben, diesen Spott mir nicht anthun die Hölle –
+
+`p00348` Daniel. Jesus Maria! helft – rettet – das ganze Schloß steht in Flammen!
+
+`p00349` Franz. Hier nimm diesen Degen. Hurtig. Jag mir ihn hinterrücks in den Bauch, daß nicht diese Buben kommen und treiben ihren Spott aus mir. Das Feuer nimmt überhand.
+
+`p00350` Daniel. Bewahre! Bewahre! Ich mag niemand zu früh in den Himmel fördern, viel weniger zu früh er entrinnt.
+
+`p00351` Franz ihm graß nachstierend, nach einer Pause.
+
+`p00352` In die Hölle wolltest du sagen – Wirklich! ich wittere so etwas – wahnsinnig. Sind das ihre hellen Triller? hör ich euch zischen ihr Nattern des Abgrunds? – Sie dringen herauf – Belagern die Thüre – warum zag ich so vor dieser bohrenden Spize? – die Thüre kracht – stürzt – unentrinnbar – Ha! so erbarm du dich meiner! er reißt seine goldene Hutschnur ab, und erdrosselt sich.
+
+`p00353` Schweizer mit seinen Leuten.
+
+`p00354` Schweizer. Mordkanaille wo bist du? – Saht ihr wie sie flohen? – hat er so wenig Freunde? – Wohin hat sich die Bestie verkrochen?
+
+`p00355` Grimm stößt an die Leiche. Halt! was liegt hier im Weeg? Zündet hieher –
+
+`p00356` Schwarz. Er hat das Prevenire gespielt. Stekt eure Schwerder ein, hier liegt er wie eine Kaze verreckt.
+
+`p00357` Schweizer. Todt! was? todt? ohne mich todt – Erlogen sag ich – Gebt acht wie hurtig er auf die Beine springt? – rüttelt ihn. Heh du! es gibt einen Vater zu ermorden.
+
+`p00358` Grimm. Gib dir keine Müh. Er ist maustodt.
+
+`p00359` Schweizer tritt von ihm weg. Ja! Er freut sich nicht – Er ist maustodt – Gehet zurück und saget meinem Hauptmann: Er ist maustodt – mich sieht er nicht wieder. Schießt sich vor die Stirn.
+
+`p00360` Zweyte Scene.
+
+`p00361` Der Schauplatz, wie in der lezten Scene des vorigen Akts.
+
+`p00362` Der alte Moor auf einem Stein sitzend., Räuber Moor gegenuber. Räuber hin und her im Wald.
+
+`p00363` R. Moor. Er kommt noch nicht? schlägt mit dem Dolch auf einen Stein daß es Funken giebt.
+
+`p00364` D. a. Moor. Verzeihung sey seine Strafe – meine Rache verdoppelte Liebe.
+
+`p00365` R. Moor. Nein, bey meiner grimmigen Seele. Das soll nicht seyn. Ich wills nicht haben. Die große Schandthat soll er mit sich in die Ewigkeit hinüber schleppen! – Wofür hab ich ihn dann umgebracht?
+
+`p00366` D. a. Moor in Tränen ausbrechend. O mein Kind.
+
+`p00367` R. Moor. Was? – du weinst um ihn – an diesem Thurme?
+
+`p00368` D. a. Moor. Erbarmung! o Erbarmung! Heftig die Hände ringend. Izt – izt wird mein Kind gerichtet!
+
+`p00369` R. Moor erschrocken. Welches?
+
+`p00370` D. a. Moor. Ha! was ist das für eine Frage?
+
+`p00371` R. Moor. Nichts. Nichts.
+
+`p00372` D. a. Moor. Bist du kommen Hohngelächter anzustimmen über meinem Jammer?
+
+`p00373` R. Moor. Verräthrisches Gewissen! – Merket nicht auf meine Rede.
+
+`p00374` D. a. Moor. Ja ich hab einen Sohn gequält, und ein Sohn mußte mich wieder quälen, das ist Gottes Finger – o mein Karl! mein Karl! wenn du um mich schwebst im Gewand des Friedens. Vergib mir. Oh vergib mir!
+
+`p00375` R. Moor schnell. Er vergibt euch. Betroffen. Wenn ers werth ist euer Sohn zu heissen – Er muß euch vergeben.
+
+`p00376` D. a. Moor. Ha! Er war zu herrlich für mich – Aber ich will ihm entgegen mit meinen Tränen, meinen schlaflosen Nächten, meinen quälenden Träumen, seine Knie will ich umfassen – rufen – laut rufen: Ich habe gesündigt im Himmel, und vor dir. Ich bin nicht werth, daß du mich Vater nennst.
+
+`p00377` R. Moor sehr gerührt. Er war euch lieb euer andrer Sohn?
+
+`p00378` D. a. Moor. Du weist es o Himmel. Warum ließ ich mich doch durch die Ränke eines bösen Sohnes bethören? Ein gepriesener Vater gieng ich einher unter den Vätern der Menschen. Schön um mich blühten meine Kinder voll Hoffnung. Aber – o der unglückseligen Stunde! – der böse Geist fuhr in das Herz meines zweyten, ich traute der Schlange – verloren meine Kinder beyde. Verhüllt sich das Gesicht.
+
+`p00379` R. Moor geht weit von ihm weg. Ewig verloren.
+
+`p00380` D. a. Moor. Oh ich fühl es tief was mir Amalia sagte, der Geist der Rache sprach aus ihrem Munde. Vergebens ausstrecken deine sterbenden Hände wirst du nach einem Sohn, vergebens wähnen zu umfassen die warme Hand deines Karls, der nimmermehr an deinem Bette steht –
+
+`p00381` Räuber Moor reicht ihm die Hand mit abgewandtem Gesicht.
+
+`p00382` D. a. Moor. Wärst du meines Karls Hand! – Aber er liegt fern im engen Hause, schläft schon den eisernen Schlaf, höret nimmer die Stimme meines Jammers – weh mir! Sterben in den Armen eines Fremdlings – Kein Sohn mehr – kein Sohn mehr, der mir die Augen zudrücken könnte –
+
+`p00383` R. Räuber in der heftigsten Bewegung. Izt muß es seyn – izt – verlaßt mich zu den Räubern. Und doch – Kann ich ihm denn seinen Sohn wieder schenken? – Ich kann ihm seinen Sohn doch nicht mehr schenken – Nein! Ich wills nicht thun.
+
+`p00384` D. a. Moor. Wie Freund? Was hast du da gemurmelt?
+
+`p00385` R. Moor. Dein Sohn – Ja alter Mann – stammelnd. Dein Sohn – ist – ewig verloren.
+
+`p00386` D. a. Moor. Ewig?
+
+`p00387` R. Moor in der fürchterlichsten Beklemmung gen Himmel sehend. O nur dißmal – Laß meine Seele nicht matt werden – nur dißmal halte mich aufrecht!
+
+`p00388` D. a. Moor. Ewig sagst du?
+
+`p00389` R. Moor. Frage nichts weiter. Ewig, sagt ich.
+
+`p00390` D. a. Moor. Fremdling! Fremdling! Warum zogst du mich aus dem Thurme?
+
+`p00391` R. Moor. Und wie? – Wenn ich jezt seinen Seegen weghaschte – haschte wie ein Dieb, und mich davonschlich mit der göttlichen Beute – Vaterseegen sagt man, geht niemals verloren.
+
+`p00392` D. a. Moor. Auch mein Franz verloren? –
+
+`p00393` R. Moor stürzt vor ihm nieder. Ich zerbrach die Riegel deines Thurms – Gib mir deinen Seegen.
+
+`p00394` D. a. Moor mit Schmerz. Daß du den Sohn vertilgen mußtest, Retter des Vaters! – Siehe die Gottheit ermüdet nicht im Erbarmen, und wir armseligen Würmer gehen schlafen mit unserm Groll legt seine Hand auf des Räubers Haupt. Sei so glücklich, als du dich erbarmest.
+
+`p00395` R. Moor weichmüthig aufstehend. O – wo ist meine Mannheit? Meine Sehnen werden schlapp, der Dolch sinkt aus meinen Händen.
+
+`p00396` D. a. Moor. Wie köstlich ists wenn Brüder einträchtig beysammen wohnen, wie der Thau der vom Hermon fällt auf die Berge Zion – Lern diese Wollust verdienen junger Mann, und die Engel des Himmels werden sich sonnen in deiner Glorie. Deine Weißheit sei die Weisheit der grauen Haare, aber dein Herz – dein Herz sey das Herz der unschuldigen Kindheit.
+
+`p00397` R. Moor. O einen Vorschmack dieser Wollust. Küße mich göttlicher Greiß!
+
+`p00398` D. a. Moor küßt ihn. Denk es sei Vaterskuß, so will ich denken ich küße meinen Sohn – du kannst auch weinen?
+
+`p00399` R. Moor. Ich dacht, es sei Vaterskuß! – Weh mir, wenn sie ihn jetzt brächten!
+
+`p00400` Schweizers Gefährten treten auf im stummen Trauerzug, mit gesenkten Häuptern, und verhüllten Gesichtern.
+
+`p00401` R. Moor. Himmel! tritt scheu zurück, und sucht sich zu verbergen. Sie ziehen an ihm vorüber. Er sieht weg von ihnen. Tiefe Pause. Sie halten.
+
+`p00402` Grimm mit gesenktem Ton. Mein Hauptmann. R. Moor antwortet nicht und tritt weiter zurück.
+
+`p00403` Schwarz. Theurer Hauptmann. Räuber Moor weicht weiter zurück.
+
+`p00404` Grimm. Wir sind unschuldig mein Hauptmann.
+
+`p00405` R. Moor ohne nach ihnen hinzuschaun. Wer seid ihr?
+
+`p00406` Grimm. Du blikst uns nicht an. Deine Getreuen.
+
+`p00407` R. Moor. Weh euch wenn ihr mir getreu wart!
+
+`p00408` Grimm. Das lezte Lebewol von deinem Knecht Schweizer – er kehrt nie wieder dein Knecht Schweizer.
+
+`p00409` R. Moor aufspringend. So habt ihr ihn nicht gefunden?
+
+`p00410` Schwarz. Tod gefunden.
+
+`p00411` R. Moor froh empor hüpfend. Habe Dank Lenker der Dinge – Umarmet mich meine Kinder – Erbarmung sei von nun an die Loosung – Nun wär auch das überstanden – Alles überstanden.
+
+`p00412` Neue Räuber. Amalia.
+
+`p00413` Räuber. Heysa, heysa! Ein Fang, ein superber Fang!
+
+`p00414` Amalia mit fliegenden Haaren. Die Toden schreyen sie, seyen erstanden auf seine Stimme – mein Oheim lebendig – in diesem Wald – wo ist er? Karl! Oheim! – Ha! Stürzt auf den Alten zu.
+
+`p00415` D. a. Moor. Amalia! Meine Tochter! Amalia! Hält sie in seinen Armen gepreßt.
+
+`p00416` R. Moor zurückspringend. Wer bringt dis Bild vor meine Augen?
+
+`p00417` Amalia entspringt dem Alten und springt auf den Räuber zu, und umschlingt ihn entzückt. Ich hab ihn, o ihr Sterne! Ich hab ihn! –
+
+`p00418` Moor sich losreissend, zu den Räubern. Brecht auf ihr! Der Erzfeind hat mich verrathen!
+
+`p00419` Amalia. Bräutigam, Bräutigam, du rasest! Ha! Vor Entzückung! Warum bin ich auch so fühllos, mitten im Wonnewirbel so kalt?
+
+`p00420` D. a. Moor sich aufraffend. Bräutigam? Tochter! Tochter! Ein Bräutigam?
+
+`p00421` Amalia. Ewig sein! Ewig, ewig, ewig mein! – Oh ihr Mächte des Himmels! Entlastet mich dieser tödtlichen Wollust, daß ich nicht unter der Bürde vergehe!
+
+`p00422` R. Moor. Reißt sie von meinem Halse! Tödtet sie! Tödtet ihn! mich! euch! alles! Die ganze Welt geh zu Grunde! Er will davon.
+
+`p00423` Amalia. Wohin? was? Liebe Ewigkeit! Wonn Unendlichkeit, und du fliehst?
+
+`p00424` R. Moor. Weg, weg! – Unglückseeligste der Bräute! – Schau selbst, frage selbst, höre! – Unglückseeligster der Väter! Laß mich immer ewig davon rennen!
+
+`p00425` Amalia. Haltet mich! Um Gottes willen, haltet mich! – Es wird mir so Nacht vor den Augen – Er flieht!
+
+`p00426` R. Moor. Zu spät! Vergebens! Dein Fluch, Vater, – frage mich nichts mehr! – ich bin, ich habe – dein Fluch – dein vermeynter Fluch! – Wer hat mich hergelockt? Mit gezogenem Degen auf die Räuber losgehend. Wer von euch hat mich hieher gelockt, ihr Kreaturen des Abgrunds? So vergeh dann, Amalia! – Stirb, Vater! Stirb durch mich zum drittenmal! – Diese deine Retter sind Räuber und Mörder! Dein Karl ist ihr Hauptmann. Der alte Moor gibt seinen Geist auf.
+
+`p00427` Amalia steht stumm, und starr wie ein Bildsäule. Die ganze Bande in fürchterlicher Pause.
+
+`p00428` Räuber Moor wider eine Eiche rennend. Die Seelen derer, die ich erdrosselte im Taumel der Liebe – derer, die ich zerschmetterte im heiligen Schlaf, derer, – hahaha! Hört ihr den Pulverthurm knallen über der kreisenden Stülen! Seht ihr die Flammen schlagen an den Wiegen der Säuglinge? das ist Brautfackel, das ist Hochzeitmusik – oh er vergißt nicht, er weis zu knüpfen – darum von mir die Wonne der Liebe! darum mir zur Folter die Liebe! das ist Vergeltung!
+
+`p00429` Amalia. Es ist wahr! Herrscher im Himmel! Es ist wahr. – Was hab ich gethan, ich unschuldiges Lamm? Ich habe diesen geliebt!
+
+`p00430` R. Moor. Das ist mehr als ein Mann erduldet. Hab ich doch den Tod aus mehr denn tausend Röhren auf mich zupfeiffen gehört, und bin ihm keinen Fusbreit gewichen, soll ich izt erst lernen beben wie ein Weib? beben vor einem Weib? – Nein, ein Weib erschüttert meine Mannheit nicht – Blut, Blut! Es ist nur ein Anstos vom Weibe – Blut mus ich saufen, es wird vorübergehen. Er will davon fliehn.
+
+`p00431` Amalia fällt ihm in die Arme. Mörder! Teufel! Ich kann dich Engel nicht lassen.
+
+`p00432` Moor schleudert sie von sich. Fort falsche Schlange, du willst einen rasenden höhnen, aber ich poche dem Tyrannen-Verhängniß – was, du weinest? Oh ihr losen boshaften Gestirne! Sie thut als ob sie weine, als ob um mich eine Seele weine. Amalia fällt ihm um den Hals. Ha was ist das? Sie speyt mich nicht an, stößt mich nicht von sich – Amalia! Hast du vergessen? weist du auch, wen du umarmest, Amalia?
+
+`p00433` Amalia. Einziger, unzertrennlicher!
+
+`p00434` Moor aufblühend in ekstatischer Wonne. Sie vergibt mir, sie liebt mich! Rein bin ich wie der Aether des Himmels, sie liebt mich. – Weinenden Dank dir, Erbarmer im Himmel! Er fällt auf die Knie und weinet heftig. Der Friede meiner Seele ist wiedergekommen, die Qual hat ausgetobt, die Hölle ist nicht mehr – Sieh, o sieh, die Kinder des Lichts weinen am Hals der weinenden Teufel – aufstehend zu den Räubern. So weinet doch auch! weinet, weinet, ihr seyd ja so glücklich – O Amalia! Amalia! Amalia! Er hängt an ihrem Mund, sie bleiben in stummer Umarmung.
+
+`p00435` Ein Räuber grimmig hervortretend. Halt ein Verräther! – Gleich laß diesen Arm fahren – oder ich will dir ein Wort sagen, daß dir die Ohren gellen, und deine Zähne vor Entsetzen klappern! Strekt das Schwerd zwischen beyde.
+
+`p00436` Ein alter Räuber. Denk an die böhmischen Wälder! Hörst du, zagst du? – an die böhmischen Wälder sollst du denken! Treuloser, wo sind deine Schwüre? Vergißt man Wunden so bald? da wir Glück, Ehre und Leben in die Schanze schlugen für dich? Da wir dir standen wie Mauren, auffiengen wie Schilder die Hiebe, die deinem Leben galten, – hubst du da nicht deine Hand zum eisernen Eid auf, schwurest, uns nie zu verlassen, wie wir dich nicht verlassen haben? – Ehrloser! Treuvergessener! Und du willst abfallen, wenn eine Mäze greint?
+
+`p00437` Ein dritter Räuber. Pfui, über den Meineid! der Geist des geopferten Rollers, den du zum Zeugen aus dem Todenreich zwangest, wird erröthen über deine Feigheit, und gewafnet aus seinem Grabe steigen, dich zu züchtigen.
+
+`p00438` Die Räuber durcheinander, reissen ihre Kleider auf. Schau her, schau! Kennst du diese Narben? du bist unser! Mit unserem Herzblut haben wir dich zum Leibeigenen angekauft, unser bist du, und wenn der Erzengel Michael mit dem Moloch ins Handgemeng kommen sollte! – Marsch mit uns! Opfer um Opfer! Amalia für die Bande!
+
+`p00439` R. Moor läßt ihre Hand fahren. Es ist aus! – Ich wollte umkehren und zu meinem Vater gehn, aber der im Himmel sprach, es soll nicht seyn. Kalt. Blöder Thor ich, warum wollt ich es auch? Kann denn ein grosser Sünder noch umkehren? Ein grosser Sünder kann nimmermehr umkehren, das hätt’ ich längst wissen können – Sey ruhig, ich bitte dich, sey ruhig! so ists ja auch recht – Ich habe nicht gewollt, da er mich suchte, izt da ich ihn suche, will Er nicht, was ist billiger? – Rolle doch deine Augen nicht so – er bedarf ja meiner nicht. Hat er nicht Geschöpfe die Fülle, Einen kann er so leicht missen, und dieser Eine bin nun ich. – Kommt Kameraden!
+
+`p00440` Amalia reißt ihn zurück. Halt, halt! Einen Stoß! einen Todesstoß! Neu verlassen! Zeuch dein Schwerd, und erbarme dich!
+
+`p00441` R. Moor. Das Erbarmen ist zu Bären geflohen, – ich töde dich nicht!
+
+`p00442` Amalia seine Knie umfassend. Oh um Gotteswillen, um aller Erbarmungen willen! Ich will ja nicht Liebe mehr, weis ja wol, daß droben unsere Sterne feindlich von einander fliehen, – Tod ist meine Bitte nur. – Verlassen, verlassen! Nimm es ganz in seiner entsezlichen Fülle, verlassen! Ich kanns nicht überdulden. Du siehst ja, das kann kein Weib überdulden. Tod ist meine Bitte nur! Sieh, meine Hand zittert! Ich habe das Herz nicht zu stosen. Mir bangt vor der blizenden Schneide – dir ists ja so leicht, so leicht, bist ja Meister im Morden, zeuch dein Schwerd, und ich bin glücklich!
+
+`p00443` R. Moor. Willst du allein glücklich seyn? Fort, ich töde kein Weib!
+
+`p00444` Amalia. Ha Würger! du kannst nur die Glüklichen tödten, die Lebenssatten gehst du vorüber. Kriecht zu den Räubern. So erbarmet euch meiner, ihr Schüler des Henkers! – Es ist ein so blutdürstiges Mitleid in euren Blicken, das dem Elenden Trost ist – euer Meister ist ein eitler feigherziger Praler.
+
+`p00445` R. Moor. Weib, was sagst du? Die Räuber wenden sich ab.
+
+`p00446` Amalia. Kein Freund? auch unter diesen nicht ein Freund? Sie steht auf. Nun denn, so lehre mich Dido sterben! Sie will gehen, ein Räuber zielt.
+
+`p00447` R. Moor. Halt! Wag es – Moors Geliebte soll nur durch Moor sterben! Er ermordet sie.
+
+`p00448` Die Räuber. Hauptmann, Hauptmann! Was machst du, bist du wahnsinnig worden?
+
+`p00449` Moor auf den Leichnam mit starrem Blick. Sie ist getroffen! Dis Zucken noch, und dann wirds vorbey seyn – Nun, seht doch! habt ihr noch was zu fordern? Ihr opfertet mir ein Leben auf, ein Leben, das schon nicht mehr euer war, ein Leben voll Abscheulichkeit und Schande – ich hab euch einen Engel geschlachtet. Wie, seht doch recht her! Seyd ihr nunmehr zufrieden?
+
+`p00450` Grimm. Du hast deine Schuld mit Wucher bezahlt. Du hast gethan, was kein Mann würde für seine Ehre thun. Komm izt weiter!
+
+`p00451` Moor. Sagst du das? Nicht wahr, das Leben einer Heiligen um das Leben der Schelme, es ist ungleicher Tausch? – O ich sage euch, wenn jeder unter euch aufs Blutgerüste gieng, und sich ein Stück Fleisch nach dem andern mit glühender Zange abzwicken lies, daß die Marter eilf Sommertäge dauerte, es wiege diese Tränen nicht auf. Mit bitterem Gelächter. Die Narben, die böhmischen Wälder! Ja ja! Dis mußte freylich bezahlt werden.
+
+`p00452` Schwarz. Sey ruhig, Hauptmann! Komm mit uns, der Anblick ist nicht für dich. Führe uns weiter!
+
+`p00453` R. Moor. Halt – noch ein Wort eh wir weiter gehn – Merket auf ihr schadenfrohe Schergen meines barbarischen Winks – Ich höre von diesem Nun an auf euer Hauptmann zu seyn – Mit Schaam und Grauen leg ich hier diesen blutigen Stab nieder worunter zu freveln ihr euch berechtiget wähntet, und mit Werken der Finsterniß dieß himmlische Licht zu besudeln – Gehet hin zur Rechten und Linken – Wir wollen ewig niemals gemeine Sache machen.
+
+`p00454` Räuber. Ha Muthloser! Wo sind deine hochfliegende Plane? Sinds Saifenblasen gewesen, die beym Hauch eines Weibes zerplazen?
+
+`p00455` R. Moor. O über mich Narren, der ich wähnete die Welt durch Greuel zu verschönern, und die Geseze durch Gesezlosigkeit aufrecht zu halten. Ich nannte es Rache und Recht – Ich maßte mich an, o Vorsicht die Scharten deines Schwerds auszuwezen und deine Parteylichkeiten gut zu machen – aber – O eitle Kinderey – da steh ich am Rand eines entsezlichen Lebens, und erfahre nun mit Zähnklappern und Heulen, daß zwey Menschen wie ich den ganzen Bau der sittlichen Welt zu Grund richten würden. Gnade – Gnade dem Knaben, der Dir vorgreiffen wollte – Dein eigen allein ist die Rache. Du bedarfst nicht des Menschen Hand. Freylich stehts nun in meiner Macht nicht mehr die Vergangenheit einzuholen – schon bleibt verdorben, was verdorben ist – was ich gestürzt habe steht ewig niemals mehr auf – Aber noch blieb mir etwas übrig, womit ich die beleidigte Geseze versönen, und die mißhandelte Ordnung wiederum heilen kann. Sie bedarf eines Opfers – Eines Opfers, das ihre unverletzbare Majestät vor der ganzen Menschheit entfaltet – dieses Opfer bin ich selbst. Ich selbst muß für sie des Todes sterben.
+
+`p00456` Räuber. Nimmt ihm den Degen weg – Er will sich umbringen.
+
+`p00457` R. Moor. Thoren ihr! Zu ewiger Blindheit verdammt! Meynet ihr wol gar eine Todsünde werde das Aequivalent gegen Todsünden seyn, meinet ihr die Harmonie der Welt werde durch diesen gottlosen Mißlaut gewinnen? Wirft ihnen seine Waffen verächtlich vor die Füße. Er soll mich lebendig haben. Ich geh, mich selbst in die Hände der Justiz zu überliefern.
+
+`p00458` Räuber. Legt ihn an Ketten! Er ist rasend worden.
+
+`p00459` R. Moor. Nicht, als ob ich zweifelte sie werde mich zeitig genug finden, wenn die obere Mächte es so wollen. Aber sie möchte mich im Schlaf überrumpeln, oder auf der Flucht ereilen, oder mit Zwang und Schwerd umarmen, und dann wäre mir auch das einige Verdienst entwischt, daß ich mit Willen für sie gestorben bin. Was soll ich gleich einem Diebe ein Leben länger verheimlichen, das mir schon lang im Rath der himmlischen Wächter genommen ist?
+
+`p00460` Räuber. Laßt ihn hinfahren. Es ist die Groß-Mann-Sucht. Er will sein Leben an eitle Bewunderung sezen.
+
+`p00461` R. Moor. Man könnte mich darum bewundern. Nach einigem Nachsinnen. Ich erinnere mich einen armen Schelm gesprochen zu haben als ich herüberkam, der im Taglohn arbeitet und eilf lebendige Kinder hat – Man hat tausend Louisdore geboten, wer den grossen Räuber lebendig liefert – dem Mann kann geholfen werden.
+
+`p00462` Er geht ab. 
+
+`p00463` Anmerkungen von Wikisource:

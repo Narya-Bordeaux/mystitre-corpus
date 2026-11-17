@@ -1,0 +1,2886 @@
+{
+  "formatVersion": 1,
+  "bookId": "lecole-des-femmes",
+  "sha256": "ee2cc535acfcff0640b866c7a98bc4594be1254b54f8bbe306510a549220c965",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "ACTE PREMIER."
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène I."
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "CHRYSALDE, ARNOLPHE."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Vous venez, dites-vous, pour lui donner la main ?"
+      ]
+    },
+    {
+      "id": "p00005",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Oui, je veux terminer la chose dans demain."
+      ]
+    },
+    {
+      "id": "p00006",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Nous sommes ici seuls, et l’on peut, ce me semble,"
+      ]
+    },
+    {
+      "id": "p00007",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Sans craindre d’être ouïs, y discourir ensemble.",
+        "Voulez-vous qu’en ami je vous ouvre mon cœur ?",
+        "Votre dessein pour vous me fait trembler de peur ;",
+        "Et de quelque façon que vous tourniez l’affaire,",
+        "Prendre femme est à vous un coup bien téméraire."
+      ]
+    },
+    {
+      "id": "p00008",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Il est vrai, notre ami. Peut-être que chez vous",
+        "Vous trouvez des sujets de craindre pour chez nous ;",
+        "Et votre front, je crois, veut que du mariage",
+        "Les cornes soient partout l’infaillible apanage."
+      ]
+    },
+    {
+      "id": "p00009",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Ce sont coups du hasard, dont on n’est point garant,",
+        "Et bien sot, ce me semble, est le soin qu’on en prend.",
+        "Mais quand je crains pour vous, c’est cette raillerie",
+        "Dont cent pauvres maris ont souffert la furie :",
+        "Car enfin vous savez qu’il n’est grands, ni petits,",
+        "Que de votre critique on ait vus garantis ;",
+        "Que vos plus grands plaisirs sont, partout où vous êtes,",
+        "De faire cent éclats des intrigues secrètes…"
+      ]
+    },
+    {
+      "id": "p00010",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Fort bien : est-il au monde une autre ville aussi",
+        "Où l’on ait des maris si patients qu’ici ?",
+        "Est-ce qu’on n’en voit pas, de toutes les espèces,",
+        "Qui sont accommodés chez eux de toutes pièces ?",
+        "L’un amasse du bien, dont sa femme fait part",
+        "À ceux qui prennent soin de le faire cornard ;",
+        "L’autre, un peu plus heureux, mais non pas moins infâme,",
+        "Voit faire tous les jours des présents à sa femme,",
+        "Et d’aucun soin jaloux n’a l’esprit combattu,",
+        "Parce qu’elle lui dit que c’est pour sa vertu.",
+        "L’un fait beaucoup de bruit qui ne lui sert de guères,",
+        "L’autre en toute douceur laisse aller les affaires,",
+        "Et, voyant arriver chez lui le damoiseau,",
+        "Prend fort honnêtement ses gants et son manteau.",
+        "L’une, de son galant, en adroite femelle,",
+        "Fait fausse confidence à son époux fidèle,",
+        "Qui dort en sûreté sur un pareil appas,",
+        "Et le plaint, ce galant, des soins qu’il ne perd pas ;",
+        "L’autre, pour se purger de sa magnificence,"
+      ]
+    },
+    {
+      "id": "p00011",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Dit qu’elle gagne au jeu l’argent qu’elle dépense ;",
+        "Et le mari benêt, sans songer à quel jeu,",
+        "Sur les gains qu’elle fait rend des grâces à Dieu.",
+        "Enfin, ce sont partout des sujets de satire ;",
+        "Et comme spectateur ne puis-je pas en rire ?",
+        "Puis-je pas de nos sots… ?"
+      ]
+    },
+    {
+      "id": "p00012",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Oui ; mais qui rit d’autrui",
+        "Doit craindre qu’en revanche on rie aussi de lui.",
+        "J’entends parler le monde, et des gens se délassent",
+        "À venir débiter les choses qui se passent ;",
+        "Mais, quoi que l’on divulgue aux endroits où je suis,",
+        "Jamais on ne m’a vu triompher de ces bruits.",
+        "J’y suis assez modeste ; et, bien qu’aux occurrences",
+        "Je puisse condamner certaines tolérances,",
+        "Que mon dessein ne soit de souffrir nullement",
+        "Ce que d’aucuns maris souffrent paisiblement,",
+        "Pourtant je n’ai jamais affecté de le dire ;",
+        "Car enfin il faut craindre un revers de satire,",
+        "Et l’on ne doit jamais jurer sur de tels cas",
+        "De ce qu’on pourra faire, ou bien ne faire pas.",
+        "Ainsi, quand à mon front, par un sort qui tout mène,",
+        "Il serait arrivé quelque disgrâce humaine,",
+        "Après mon procédé, je suis presque certain",
+        "Qu’on se contentera de s’en rire sous main ;",
+        "Et peut-être qu’encor j’aurai cet avantage,",
+        "Que quelques bonnes gens diront que c’est dommage.",
+        "Mais de vous, cher compère, il en est autrement ;",
+        "Je vous le dis encor, vous risquez diablement.",
+        "Comme sur les maris accusés de souffrance",
+        "De tout temps votre langue a daubé d’importance,",
+        "Qu’on vous a vu contre eux un diable déchaîné,",
+        "Vous devez marcher droit, pour n’être point berné ;"
+      ]
+    },
+    {
+      "id": "p00013",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Et s’il faut que sur vous on ait la moindre prise,",
+        "Gare qu’aux carrefours on ne vous tympanise,",
+        "Et…"
+      ]
+    },
+    {
+      "id": "p00014",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Mon Dieu ! notre ami, ne vous tourmentez point.",
+        "Bien huppé qui pourra m’attraper sur ce point.",
+        "Je sais les tours rusés et les subtiles trames",
+        "Dont pour nous en planter savent user les femmes,",
+        "Et comme on est dupé par leurs dextérités,",
+        "Contre cet accident j’ai pris mes sûretés ;",
+        "Et celle que j’épouse a toute l’innocence",
+        "Qui peut sauver mon front de maligne influence."
+      ]
+    },
+    {
+      "id": "p00015",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Et que prétendez-vous qu’une sotte, en un mot…"
+      ]
+    },
+    {
+      "id": "p00016",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Épouser une sotte est pour n’être point sot.",
+        "Je crois, en bon chrétien, votre moitié fort sage ;",
+        "Mais une femme habile est un mauvais présage ;",
+        "Et je sais ce qu’il coûte à de certaines gens",
+        "Pour avoir pris les leurs avec trop de talents.",
+        "Moi, j’irois me charger d’une spirituelle",
+        "Qui ne parleroit rien que cercle et que ruelle ;",
+        "Qui de prose et de vers feroit de doux écrits,",
+        "Et que visiteroient marquis et beaux esprits,",
+        "Tandis que, sous le nom du mari de Madame,",
+        "Je serois comme un saint que pas un ne réclame ?",
+        "Non, non, je ne veux point d’un esprit qui soit haut ;",
+        "Et femme qui compose en sait plus qu’il ne faut.",
+        "Je prétends que la mienne en clartés peu sublime,",
+        "Même ne sache pas ce que c’est qu’une rime ;",
+        "Et s’il faut qu’avec elle on joue au corbillon",
+        "Et qu’on vienne à lui dire à son tour : Qu’y met-on ?",
+        "Je veux qu’elle réponde, Une tarte à la crème ;",
+        "En un mot, qu’elle soit d’une ignorance extrême :",
+        "Et c’est assez pour elle, à vous en bien parler,"
+      ]
+    },
+    {
+      "id": "p00017",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "De savoir prier Dieu, m’aimer, coudre et filer."
+      ]
+    },
+    {
+      "id": "p00018",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Une femme stupide est donc votre marotte ?"
+      ]
+    },
+    {
+      "id": "p00019",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Tant que j’aimerois mieux une laide bien sotte",
+        "Qu’une femme fort belle avec beaucoup d’esprit."
+      ]
+    },
+    {
+      "id": "p00020",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "L’esprit et la beauté…"
+      ]
+    },
+    {
+      "id": "p00021",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "L’honnêteté suffit."
+      ]
+    },
+    {
+      "id": "p00022",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Mais comment voulez-vous, après tout, qu’une bête",
+        "Puisse jamais savoir ce que c’est qu’être honnête ?",
+        "Outre qu’il est assez ennuyeux, que je croi,",
+        "D’avoir toute sa vie une bête avec soi,",
+        "Pensez-vous le bien prendre, et que sur votre idée",
+        "La sûreté d’un front puisse être bien fondée ?",
+        "Une femme d’esprit peut trahir son devoir ;",
+        "Mais il faut, pour le moins, qu’elle ose le vouloir ;",
+        "Et la stupide au sien peut manquer d’ordinaire,",
+        "Sans en avoir l’envie et sans penser le faire."
+      ]
+    },
+    {
+      "id": "p00023",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "À ce bel argument, à ce discours profond,",
+        "Ce que Pantagruel à Panurge répond :",
+        "Pressez-moi de me joindre à femme autre que sotte,",
+        "Prêchez, patrocinez jusqu’à la Pentecôte ;",
+        "Vous serez ébahi, quand vous serez au bout,",
+        "Que vous ne m’aurez rien persuadé du tout."
+      ]
+    },
+    {
+      "id": "p00024",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Je ne vous dis plus mot."
+      ]
+    },
+    {
+      "id": "p00025",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Chacun a sa méthode.",
+        "En femme, comme en tout, je veux suivre ma mode :",
+        "Je me vois riche assez pour pouvoir, que je croi,",
+        "Choisir une moitié qui tienne tout de moi,",
+        "Et de qui la soumise et pleine dépendance",
+        "N’ait à me reprocher aucun bien ni naissance.",
+        "Un air doux et posé, parmi d’autres enfants,",
+        "M’inspira de l’amour pour elle dès quatre ans :",
+        "Sa mère se trouvant de pauvreté pressée,",
+        "De la lui demander il me vint en pensée ;",
+        "Et la bonne paysanne, apprenant mon désir,",
+        "À s’ôter cette charge eut beaucoup de plaisir.",
+        "Dans un petit couvent, loin de toute pratique,",
+        "Je la fis élever selon ma politique ;",
+        "C’est-à-dire ordonnant quels soins on emploieroit",
+        "Pour la rendre idiote autant qu’il se pourroit.",
+        "Dieu merci, le succès a suivi mon attente ;",
+        "Et grande, je l’ai vue à tel point innocente,",
+        "Que j’ai béni le Ciel d’avoir trouvé mon fait,",
+        "Pour me faire une femme au gré de mon souhait.",
+        "Je l’ai donc retirée ; et comme ma demeure",
+        "À cent sortes de monde est ouverte à toute heure,",
+        "Je l’ai mise à l’écart, comme il faut tout prévoir,",
+        "Dans cette autre maison où nul ne me vient voir ;",
+        "Et pour ne point gâter sa bonté naturelle,",
+        "Je n’y tiens que des gens tout aussi simples qu’elle.",
+        "Vous me direz, Pourquoi cette narration ?",
+        "C’est pour vous rendre instruit de ma précaution.",
+        "Le résultat de tout est qu’en ami fidèle",
+        "Ce soir je vous invite à souper avec elle ;",
+        "Je veux que vous puissiez un peu l’examiner,",
+        "Et voir si de mon choix on me doit condamner."
+      ]
+    },
+    {
+      "id": "p00026",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "J’y consens."
+      ]
+    },
+    {
+      "id": "p00027",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Vous pourrez, dans cette conférence,",
+        "Juger de sa personne et de son innocence."
+      ]
+    },
+    {
+      "id": "p00028",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Pour cet article-là, ce que vous m’avez dit",
+        "Ne peut…"
+      ]
+    },
+    {
+      "id": "p00029",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "La vérité passe encor mon récit.",
+        "Dans ses simplicités à tous coups je l’admire,",
+        "Et parfois elle en dit dont je pâme de rire.",
+        "L’autre jour (pourrait-on se le persuader ?),",
+        "Elle était fort en peine, et me vint demander,",
+        "Avec une innocence à nulle autre pareille,",
+        "Si les enfants qu’on fait se faisoient par l’oreille."
+      ]
+    },
+    {
+      "id": "p00030",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Je me réjouis fort, seigneur Arnolphe…"
+      ]
+    },
+    {
+      "id": "p00031",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Bon !",
+        "Me voulez-vous toujours appeler de ce nom ?"
+      ]
+    },
+    {
+      "id": "p00032",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Ah ! malgré que j’en aie, il me vient à la bouche,",
+        "Et jamais je ne songe à monsieur de la Souche.",
+        "Qui diable vous a fait aussi vous aviser,",
+        "À quarante et deux ans, de vous débaptiser,",
+        "Et d’un vieux tronc pourri de votre métairie",
+        "Vous faire dans le monde un nom de seigneurie ?"
+      ]
+    },
+    {
+      "id": "p00033",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Outre que la maison par ce nom se connoît,",
+        "La Souche plus qu’Arnolphe à mes oreilles plaît."
+      ]
+    },
+    {
+      "id": "p00034",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Quel abus de quitter le vrai nom de ses pères",
+        "Pour en vouloir prendre un bâti sur des chimeres !"
+      ]
+    },
+    {
+      "id": "p00035",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "De la plupart des gens c’est la démangeaison ;",
+        "Et, sans vous embrasser dans la comparaison,",
+        "Je sais un paysan qu’on appelait Gros-Pierre,",
+        "Qui n’ayant pour tout bien qu’un seul quartier de terre,",
+        "Y fit tout à l’entour faire un fossé bourbeux,",
+        "Et de monsieur de l’Isle en prit le nom pompeux."
+      ]
+    },
+    {
+      "id": "p00036",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Vous pourriez vous passer d’exemples de la sorte.",
+        "Mais enfin de la Souche est le nom que je porte :",
+        "J’y vois de la raison, j’y trouve des appas ;",
+        "Et m’appeler de l’autre est ne m’obliger pas."
+      ]
+    },
+    {
+      "id": "p00037",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Cependant la plupart ont peine à s’y soumettre,",
+        "Et je vois même encor des adresses de lettre…"
+      ]
+    },
+    {
+      "id": "p00038",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Je le souffre aisément de qui n’est pas instruit ;",
+        "Mais vous…"
+      ]
+    },
+    {
+      "id": "p00039",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Soit : là-dessus nous n’aurons point de bruit ;",
+        "Et je prendrai le soin d’accoutumer ma bouche",
+        "À ne plus vous nommer que monsieur de la Souche."
+      ]
+    },
+    {
+      "id": "p00040",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Adieu. Je frappe ici, pour donner le bonjour,",
+        "Et dire seulement que je suis de retour."
+      ]
+    },
+    {
+      "id": "p00041",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part, en s’en allant."
+      ]
+    },
+    {
+      "id": "p00042",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Ma foi, je le tiens fou de toutes les manières."
+      ]
+    },
+    {
+      "id": "p00043",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", seul."
+      ]
+    },
+    {
+      "id": "p00044",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Il est un peu blessé sur certaines matières.",
+        "Chose étrange de voir comme avec passion",
+        "Un chacun est chaussé de son opinion !"
+      ]
+    },
+    {
+      "id": "p00045",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "(Il frappe à sa porte.)"
+      ]
+    },
+    {
+      "id": "p00046",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Holà."
+      ]
+    },
+    {
+      "id": "p00047",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00048",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "ARNOLPHE, ALAIN ; GEORGETTE, dans la maison"
+      ]
+    },
+    {
+      "id": "p00049",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Qui heurte ?"
+      ]
+    },
+    {
+      "id": "p00050",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00051",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Ouvrez. On aura, que je pense,",
+        "Grande joie à me voir après dix jours d’absence."
+      ]
+    },
+    {
+      "id": "p00052",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Qui va là ?"
+      ]
+    },
+    {
+      "id": "p00053",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Moi."
+      ]
+    },
+    {
+      "id": "p00054",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Georgette !"
+      ]
+    },
+    {
+      "id": "p00055",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Hé bien ?"
+      ]
+    },
+    {
+      "id": "p00056",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Ouvre là-bas."
+      ]
+    },
+    {
+      "id": "p00057",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Vas-y, toi."
+      ]
+    },
+    {
+      "id": "p00058",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Vas-y, toi."
+      ]
+    },
+    {
+      "id": "p00059",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Ma foi, je n’irai pas."
+      ]
+    },
+    {
+      "id": "p00060",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Je n’irai pas aussi."
+      ]
+    },
+    {
+      "id": "p00061",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Belle cérémonie",
+        "Pour me laisser dehors ! Holà ! ho ! je vous prie."
+      ]
+    },
+    {
+      "id": "p00062",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Qui frappe ?"
+      ]
+    },
+    {
+      "id": "p00063",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Votre maître."
+      ]
+    },
+    {
+      "id": "p00064",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Alain !"
+      ]
+    },
+    {
+      "id": "p00065",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Quoi ?"
+      ]
+    },
+    {
+      "id": "p00066",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "C’est monsieu.",
+        "Ouvre vite."
+      ]
+    },
+    {
+      "id": "p00067",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Ouvre, toi."
+      ]
+    },
+    {
+      "id": "p00068",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Je souffle notre feu."
+      ]
+    },
+    {
+      "id": "p00069",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "J’empêche, peur du chat, que mon moineau ne sorte."
+      ]
+    },
+    {
+      "id": "p00070",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Quiconque de vous deux n’ouvrira pas la porte",
+        "N’aura point à manger de plus de quatre jours.",
+        "Ha !"
+      ]
+    },
+    {
+      "id": "p00071",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Par quelle raison y venir, quand j’y cours ?"
+      ]
+    },
+    {
+      "id": "p00072",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Pourquoi plutôt que moi ? Le plaisant stratagème !"
+      ]
+    },
+    {
+      "id": "p00073",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Ôte-toi donc de là."
+      ]
+    },
+    {
+      "id": "p00074",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Non, ôte-toi, toi-même."
+      ]
+    },
+    {
+      "id": "p00075",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Je veux ouvrir la porte."
+      ]
+    },
+    {
+      "id": "p00076",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Et je veux l’ouvrir, moi."
+      ]
+    },
+    {
+      "id": "p00077",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Tu ne l’ouvriras pas."
+      ]
+    },
+    {
+      "id": "p00078",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Ni toi non plus."
+      ]
+    },
+    {
+      "id": "p00079",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Ni toi."
+      ]
+    },
+    {
+      "id": "p00080",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Il faut que j’aie ici l’ame bien patiente !"
+      ]
+    },
+    {
+      "id": "p00081",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en entrant."
+      ]
+    },
+    {
+      "id": "p00082",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Au moins, c’est moi, monsieur."
+      ]
+    },
+    {
+      "id": "p00083",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", en entrant."
+      ]
+    },
+    {
+      "id": "p00084",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Je suis votre servante,",
+        "C’est moi."
+      ]
+    },
+    {
+      "id": "p00085",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Sans le respect de Monsieur que voilà,",
+        "Je te…"
+      ]
+    },
+    {
+      "id": "p00086",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", recevant un coup d’Alain."
+      ]
+    },
+    {
+      "id": "p00087",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Peste !"
+      ]
+    },
+    {
+      "id": "p00088",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Pardon."
+      ]
+    },
+    {
+      "id": "p00089",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Voyez ce lourdaud-là !"
+      ]
+    },
+    {
+      "id": "p00090",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "C’est elle aussi, monsieur…"
+      ]
+    },
+    {
+      "id": "p00091",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Que tous deux on se taise.",
+        "Songez à me répondre, et laissons la fadaise.",
+        "Hé bien, Alain, comment se porte-t-on ici ?"
+      ]
+    },
+    {
+      "id": "p00092",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Monsieur, nous nous…"
+      ]
+    },
+    {
+      "id": "p00093",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "(Arnolphe ôte le chapeau de dessus la tête d’Alain.)"
+      ]
+    },
+    {
+      "id": "p00094",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Monsieur, nous nous por…"
+      ]
+    },
+    {
+      "id": "p00095",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "(Arnolphe l’ôte encore.)"
+      ]
+    },
+    {
+      "id": "p00096",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Dieu merci,",
+        "Nous nous…"
+      ]
+    },
+    {
+      "id": "p00097",
+      "page": 0,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", Arnolphe ôtant le chapeau de d’Alain pour la troisième fois, et le jetant par terre."
+      ]
+    },
+    {
+      "id": "p00098",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Qui vous apprend, impertinente bête,",
+        "À parler devant moi le chapeau sur la tête ?"
+      ]
+    },
+    {
+      "id": "p00099",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Vous faites bien, j’ai tort."
+      ]
+    },
+    {
+      "id": "p00100",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Faites descendre Agnès."
+      ]
+    },
+    {
+      "id": "p00101",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène III."
+      ]
+    },
+    {
+      "id": "p00102",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "ARNOLPHE, GEORGETTE."
+      ]
+    },
+    {
+      "id": "p00103",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Lorsque je m’en allai, fut-elle triste après ?"
+      ]
+    },
+    {
+      "id": "p00104",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Triste ? Non."
+      ]
+    },
+    {
+      "id": "p00105",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Non ?"
+      ]
+    },
+    {
+      "id": "p00106",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Si fait."
+      ]
+    },
+    {
+      "id": "p00107",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Pourquoi donc… ?"
+      ]
+    },
+    {
+      "id": "p00108",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "GEORGETTE",
+      "lines": [
+        "Oui, je meure.",
+        "Elle vous croyoit voir de retour à toute heure ;",
+        "Et nous n’oyions jamais passer devant chez nous",
+        "Cheval, âne, ou mulet, qu’elle ne prît pour vous."
+      ]
+    },
+    {
+      "id": "p00109",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène IV."
+      ]
+    },
+    {
+      "id": "p00110",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "ARNOLPHE, AGNÈS, ALAIN, GEORGETTE."
+      ]
+    },
+    {
+      "id": "p00111",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "La besogne à la main ? c’est un bon témoignage.",
+        "Hé bien ! Agnès, je suis de retour du voyage :",
+        "En êtes-vous bien aise ?"
+      ]
+    },
+    {
+      "id": "p00112",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "AGNÈS",
+      "lines": [
+        "Oui, monsieur, Dieu merci."
+      ]
+    },
+    {
+      "id": "p00113",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Et moi, de vous revoir je suis bien aise aussi.",
+        "Vous vous êtes toujours, comme on voit, bien portée ?"
+      ]
+    },
+    {
+      "id": "p00114",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "AGNÈS",
+      "lines": [
+        "Hors les puces, qui m’ont la nuit inquiétée."
+      ]
+    },
+    {
+      "id": "p00115",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Ah ! vous aurez dans peu quelqu’un pour les chasser."
+      ]
+    },
+    {
+      "id": "p00116",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "AGNÈS",
+      "lines": [
+        "Vous me ferez plaisir."
+      ]
+    },
+    {
+      "id": "p00117",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Je le puis bien penser.",
+        "Que faites-vous donc là ?"
+      ]
+    },
+    {
+      "id": "p00118",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "AGNÈS",
+      "lines": [
+        "Je me fais des cornettes.",
+        "Vos chemises de nuit et vos coiffes sont faites."
+      ]
+    },
+    {
+      "id": "p00119",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Ha ! voilà qui va bien. Allez, montez là-haut :",
+        "Ne vous ennuyez point, je reviendrai tantôt,",
+        "Et je vous parlerai d’affaires importantes."
+      ]
+    },
+    {
+      "id": "p00120",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène V."
+      ]
+    },
+    {
+      "id": "p00121",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "ARNOLPHE, seul."
+      ]
+    },
+    {
+      "id": "p00122",
+      "page": 0,
+      "kind": "verse",
+      "lines": [
+        "Héroïnes du temps, Mesdames les savantes,",
+        "Pousseuses de tendresse et de beaux sentiments,",
+        "Je défie à la fois tous vos vers, vos romans,",
+        "Vos lettres, billets doux, toute votre science,",
+        "De valoir cette honnête et pudique ignorance.",
+        "Ce n’est point par le bien qu’il faut être ébloui ;",
+        "Et pourvu que l’honneur soit…"
+      ]
+    },
+    {
+      "id": "p00123",
+      "page": 0,
+      "kind": "heading",
+      "lines": [
+        "Scène V."
+      ]
+    },
+    {
+      "id": "p00124",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "HORACE, ARNOLPHE."
+      ]
+    },
+    {
+      "id": "p00125",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Que vois-je ? Est-ce ?… Oui."
+      ]
+    },
+    {
+      "id": "p00126",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Je me trompe… Nenni. Si fait. Non, c’est lui-même,",
+        "Hor…"
+      ]
+    },
+    {
+      "id": "p00127",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Seigneur Ar…"
+      ]
+    },
+    {
+      "id": "p00128",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Horace."
+      ]
+    },
+    {
+      "id": "p00129",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Arnolphe."
+      ]
+    },
+    {
+      "id": "p00130",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Ah ! joie extrême !",
+        "Et depuis quand ici ?"
+      ]
+    },
+    {
+      "id": "p00131",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Depuis neuf jours."
+      ]
+    },
+    {
+      "id": "p00132",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Vraiment ?"
+      ]
+    },
+    {
+      "id": "p00133",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Je fus d’abord chez vous, mais inutilement."
+      ]
+    },
+    {
+      "id": "p00134",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "J’étais à la campagne."
+      ]
+    },
+    {
+      "id": "p00135",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Oui, depuis deux journées."
+      ]
+    },
+    {
+      "id": "p00136",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Oh ! comme les enfants croissent en peu d’années !",
+        "J’admire de le voir au point où le voilà,",
+        "Après que je l’ai vu pas plus grand que cela."
+      ]
+    },
+    {
+      "id": "p00137",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Vous voyez."
+      ]
+    },
+    {
+      "id": "p00138",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Mais, de grâce, Oronte votre père,",
+        "Mon bon et cher ami, que j’estime et révère,",
+        "Que fait-il ? que dit-il ? est-il toujours gaillard ?",
+        "À tout ce qui le touche, il sait que je prends part :",
+        "Nous ne nous sommes vus depuis quatre ans ensemble.",
+        "Ni, qui plus est, écrit l’un à l’autre, me semble."
+      ]
+    },
+    {
+      "id": "p00139",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Il est, seigneur Arnolphe, encor plus gai que nous,",
+        "Et j’avois de sa part une lettre pour vous ;",
+        "Mais depuis, par une autre, il m’apprend sa venue,",
+        "Et la raison encor ne m’en est pas connue.",
+        "Savez-vous qui peut être un de vos citoyens",
+        "Qui retourne en ces lieux avec beaucoup de biens"
+      ]
+    },
+    {
+      "id": "p00140",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Qu’il s’est en quatorze ans acquis dans l’Amérique ?"
+      ]
+    },
+    {
+      "id": "p00141",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Non. Vous a-t-on point dit comme on le nomme ?"
+      ]
+    },
+    {
+      "id": "p00142",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Enrique."
+      ]
+    },
+    {
+      "id": "p00143",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Non."
+      ]
+    },
+    {
+      "id": "p00144",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Mon père m’en parle, et qu’il est revenu",
+        "Comme s’il devoit m’être entièrement connu,",
+        "Et m’écrit qu’en chemin ensemble ils se vont mettre,",
+        "Pour un fait important que ne dit point sa lettre."
+      ]
+    },
+    {
+      "id": "p00145",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "(Horace remet la lettre d’Oronte à Arnolphe.)"
+      ]
+    },
+    {
+      "id": "p00146",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "J’aurai certainement grande joie à le voir,",
+        "Et pour le régaler je ferai mon pouvoir."
+      ]
+    },
+    {
+      "id": "p00147",
+      "page": 0,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "(Après avoir lu la lettre.)"
+      ]
+    },
+    {
+      "id": "p00148",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Il faut pour des amis des lettres moins civiles,",
+        "Et tous ces compliments sont choses inutiles.",
+        "Sans qu’il prît le souci de m’en écrire rien,",
+        "Vous pouvez librement disposer de mon bien."
+      ]
+    },
+    {
+      "id": "p00149",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Je suis homme à saisir les gens par leurs paroles,",
+        "Et j’ai présentement besoin de cent pistoles."
+      ]
+    },
+    {
+      "id": "p00150",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Ma foi, c’est m’obliger que d’en user ainsi ;",
+        "Et je me réjouis de les avoir ici.",
+        "Gardez aussi la bourse."
+      ]
+    },
+    {
+      "id": "p00151",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Il faut…"
+      ]
+    },
+    {
+      "id": "p00152",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Laissons ce style.",
+        "Hé bien ! comment encor trouvez-vous cette ville ?"
+      ]
+    },
+    {
+      "id": "p00153",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Nombreuse en citoyens, superbe en bâtiments ;",
+        "Et j’en crois merveilleux les divertissements."
+      ]
+    },
+    {
+      "id": "p00154",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Chacun a ses plaisirs qu’il se fait à sa guise ;",
+        "Mais pour ceux que du nom de galants on baptise,",
+        "Ils ont en ce pays de quoi se contenter,",
+        "Car les femmes y sont faites à coqueter :"
+      ]
+    },
+    {
+      "id": "p00155",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACEARNOLPHEHORACEARNOLPHEHORACEARNOLPHEHORACE",
+      "lines": [
+        "On trouve d’humeur douce et la brune et la blonde,",
+        "Et les maris aussi les plus bénins du monde ;",
+        "C’est un plaisir de prince ; et des tours que je voi",
+        "Je me donne souvent la comédie à moi.",
+        "Peut-être en avez-vous déjà féru quelqu’une.",
+        "Vous est-il point encore arrivé de fortune ?",
+        "Les gens faits comme vous font plus que les écus,",
+        "Et vous êtes de taille à faire des cocus.",
+        ".",
+        "À ne vous rien cacher de la vérité pure,",
+        "J’ai d’amour en ces lieux eu certaine aventure,",
+        "Et l’amitié m’oblige à vous en faire part.",
+        ".",
+        "Bon ! voici de nouveau quelque conte gaillard ;",
+        "Et ce sera de quoi mettre sur mes tablettes.",
+        ".",
+        "Mais, de grâce, qu’au moins ces choses soient secrètes.",
+        ".",
+        "Oh !",
+        ".",
+        "Vous n’ignorez pas qu’en ces occasions",
+        "Un secret éventé rompt nos prétentions.",
+        "Je vous avoûrai donc avec pleine franchise",
+        "Qu’ici d’une beauté mon âme s’est éprise.",
+        "Mes petits soins d’abord ont eu tant de succès,",
+        "Que je me suis chez elle ouvert un doux accès ;",
+        "Et sans trop me vanter ni lui faire une injure,",
+        "Mes affaires y sont en fort bonne posture.",
+        ", riant.",
+        "Et c’est ?",
+        ", lui montrant le logis d’Agnès.",
+        "Un jeune objet qui loge en ce logis",
+        "Dont vous voyez d’ici que les murs sont rougis ;",
+        "Simple, à la vérité, par l’erreur sans seconde",
+        "D’un homme qui la cache au commerce du monde,",
+        "Mais qui, dans l’ignorance où l’on veut l’asservir,",
+        "Fait briller des attraits capables de ravir ;",
+        "Un air tout engageant, je ne sais quoi de tendre,"
+      ]
+    },
+    {
+      "id": "p00156",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "ARNOLPHEHORACEARNOLPHEHORACEARNOLPHEHORACEARNOLPHEHORACEARNOLPHE",
+      "lines": [
+        "Dont il n’est point de cœur qui se puisse défendre.",
+        "Mais peut-être il n’est pas que vous n’ayez bien vu",
+        "Ce jeune astre d’amour de tant d’attraits pourvu :",
+        "C’est Agnès qu’on l’appelle.",
+        ", à part.",
+        "Ah ! je crève !",
+        ".",
+        "Pour l’homme,",
+        "C’est, je crois, de la Zousse ou Souche qu’on le nomme :",
+        "Je ne me suis pas fort arrêté sur le nom ;",
+        "Riche, à ce qu’on m’a dit, mais des plus sensés, non ;",
+        "Et l’on m’en a parlé comme d’un ridicule.",
+        "Le connaissez-vous point ?",
+        ", à part.",
+        "La fâcheuse pilule !",
+        ".",
+        "Eh ! vous ne dites mot ?",
+        ".",
+        "Eh ! oui, je le connoi.",
+        ".",
+        "C’est un fou, n’est-ce pas ?",
+        ".",
+        "Eh...",
+        ".",
+        "Qu’en dites-vous ? quoi ?",
+        "Eh ? c’est-à-dire oui ? Jaloux à faire rire ?",
+        "Sot ? Je vois qu’il en est ce que l’on m’a pu dire.",
+        "Enfin l’aimable Agnès a su m’assujettir.",
+        "C’est un joli bijou, pour ne point vous mentir ;",
+        "Et ce serait péché qu’une beauté si rare",
+        "Fût laissée au pouvoir de cet homme bizarre.",
+        "Pour moi, tous mes efforts, tous mes vœux les plus doux",
+        "Vont à m’en rendre maître en dépit du jaloux ;",
+        "Et l’argent que de vous j’emprunte avec franchise",
+        "N’est que pour mettre à bout cette juste entreprise.",
+        "Vous savez mieux que moi, quels que soient nos efforts,",
+        "Que l’argent est la clef de tous les grands ressorts,",
+        "Et que ce doux métal qui frappe tant de têtes,",
+        "En amour, comme en guerre, avance les conquêtes.",
+        "Vous me semblez chagrin : serait-ce qu’en effet",
+        "Vous désapprouveriez le dessein que j’ai fait ?",
+        "."
+      ]
+    },
+    {
+      "id": "p00157",
+      "page": 0,
+      "kind": "verse",
+      "speaker": "HORACEARNOLPHEHORACEARNOLPHEHORACEARNOLPHE",
+      "lines": [
+        "Non, c’est que je songeais…",
+        ".",
+        "Cet entretien vous lasse :",
+        "Adieu. J’irai chez vous tantôt vous rendre grâce.",
+        ".",
+        "Ah ! faut-il… !",
+        ", revenant.",
+        "Derechef, veuillez être discret,",
+        "Et n’allez pas, de grâce, éventer mon secret.",
+        ".",
+        "Que je sens dans mon âme… !",
+        ", revenant.",
+        "Et surtout à mon père,",
+        "Qui s’en ferait peut-être un sujet de colère.",
+        ", croyant qu’il revient encore.",
+        "Oh !… Oh ! que j’ai souffert durant cet entretien !",
+        "Jamais trouble d’esprit ne fut égal au mien.",
+        "Avec quelle imprudence et quelle hâte extrême",
+        "Il m’est venu conter cette affaire à moi-même !",
+        "Bien que mon autre nom le tienne dans l’erreur,",
+        "Étourdi montra-t-il jamais tant de fureur ?",
+        "Mais ayant tant souffert, je devois me contraindre",
+        "Jusques à m’éclaircir de ce que je dois craindre,",
+        "À pousser jusqu’au bout son caquet indiscret,",
+        "Et savoir pleinement leur commerce secret.",
+        "Tâchons à le rejoindre : il n’est pas loin, je pense,",
+        "Tirons-en de ce fait l’entière confidence.",
+        "Je tremble du malheur qui m’en peut arriver,",
+        "Et l’on cherche souvent plus qu’on ne veut trouver."
+      ]
+    },
+    {
+      "id": "p00158",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "ACTE CINQUIÈME."
+      ]
+    },
+    {
+      "id": "p00159",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène I"
+      ]
+    },
+    {
+      "id": "p00160",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "ARNOLPHE, ALAIN, GEORGETTE."
+      ]
+    },
+    {
+      "id": "p00161",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Traîtres ! qu’avez-vous fait par cette violence ?"
+      ]
+    },
+    {
+      "id": "p00162",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        "Nous vous avons rendu, monsieur, obéissance."
+      ]
+    },
+    {
+      "id": "p00163",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "De cette excuse en vain vous voulez vous armer :",
+        "L’ordre était de le battre, et non de l’assommer ;",
+        "Et c’était sur le dos, et non pas sur la tête,",
+        "Que j’avais commandé qu’on fît choir la tempête.",
+        "Ciel ! dans quel accident me jette ici le sort !",
+        "Et que puis-je résoudre à voir cet homme mort ?",
+        "Rentrez dans la maison, et gardez de rien dire",
+        "De cet ordre innocent que j’ai pu vous prescrire.",
+        "Le jour s’en va paraître, et je vais consulter",
+        "Comment dans ce malheur je me dois comporter.",
+        "Hélas ! que deviendrai-je ? et que dira le père,",
+        "Lorsque inopinément il saura cette affaire ?"
+      ]
+    },
+    {
+      "id": "p00164",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène II"
+      ]
+    },
+    {
+      "id": "p00165",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "HORACE, ARNOLPHE."
+      ]
+    },
+    {
+      "id": "p00166",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à part."
+      ]
+    },
+    {
+      "id": "p00167",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Il faut que j’aille un peu reconnoître qui c’est."
+      ]
+    },
+    {
+      "id": "p00168",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", se croyant seul."
+      ]
+    },
+    {
+      "id": "p00169",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Eût-on jamais prévu…"
+      ]
+    },
+    {
+      "id": "p00170",
+      "page": 1,
+      "kind": "stage",
+      "lines": [
+        "(Heurté par Horace, qu’il ne reconnoît pas.)"
+      ]
+    },
+    {
+      "id": "p00171",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Qui va là, s’il vous plaît ?"
+      ]
+    },
+    {
+      "id": "p00172",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "C’est vous, Seigneur Arnolphe ?"
+      ]
+    },
+    {
+      "id": "p00173",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Oui. Mais vous ?…"
+      ]
+    },
+    {
+      "id": "p00174",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "C’est Horace.",
+        "Je m’en allais chez vous vous prier d’une grace."
+      ]
+    },
+    {
+      "id": "p00175",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEHORACE",
+      "lines": [
+        "Vous sortez bien matin !",
+        ", bas.",
+        "Quelle confusion !",
+        "Est-ce un enchantement ? est-ce une illusion ?",
+        ".",
+        "J’étais, à dire vrai, dans une grande peine,",
+        "Et je bénis du Ciel la bonté souveraine",
+        "Qui fait qu’à point nommé je vous rencontre ainsi.",
+        "Je viens vous avertir que tout a réussi,",
+        "Et même beaucoup plus que je n’eusse osé dire,",
+        "Et par un incident qui devait tout détruire.",
+        "Je ne sais point par où l’on a pu soupçonner",
+        "Cette assignation qu’on m’avait su donner ;",
+        "Mais, étant sur le point d’atteindre à la fenêtre,",
+        "J’ai, contre mon espoir, vu quelques gens paraître,",
+        "Qui, sur moi brusquement levant chacun le bras,",
+        "M’ont fait manquer le pied et tomber jusqu’en bas,",
+        "Et ma chute, aux dépens de quelque meurtrissure,",
+        "De vingt coups de bâton m’a sauvé l’aventure.",
+        "Ces gens-là, dont était, je pense, mon jaloux,",
+        "Ont imputé ma chute à l’effort de leurs coups ;",
+        "Et, comme la douleur, un assez long espace,",
+        "M’a fait sans remuer demeurer sur la place,",
+        "Ils ont cru tout de bon qu’ils m’avaient assommé,",
+        "Et chacun d’eux s’en est aussitôt alarmé.",
+        "J’entendois tout leur bruit dans le profond silence :",
+        "L’un l’autre ils s’accusaient de cette violence ;",
+        "Et sans lumière aucune, en querellant le sort,",
+        "Sont venus doucement tâter si j’étais mort :",
+        "Je vous laisse à penser si, dans la nuit obscure,",
+        "J’ai d’un vrai trépassé su tenir la figure.",
+        "Ils se sont retirés avec beaucoup d’effroi ;",
+        "Et comme je songeais à me retirer, moi,",
+        "De cette feinte mort la jeune Agnès émue",
+        "Avec empressement est devers moi venue ;",
+        "Car les discours qu’entre eux ces gens avaient tenus",
+        "Jusques à son oreille étaient d’abord venus,",
+        "Et pendant tout ce trouble étant moins observée,",
+        "Du logis aisément elle s’était sauvée ;",
+        "Mais me trouvant sans mal, elle a fait éclater",
+        "Un transport difficile à bien représenter."
+      ]
+    },
+    {
+      "id": "p00176",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEHORACEARNOLPHEHORACE",
+      "lines": [
+        "Que vous dirai-je ? Enfin cette aimable personne",
+        "A suivi les conseils que son amour lui donne,",
+        "N’a plus voulu songer à retourner chez soi,",
+        "Et de tout son destin s’est commise à ma foi.",
+        "Considérez un peu, par ce trait d’innocence,",
+        "Où l’expose d’un fou la haute impertinence,",
+        "Et quels fâcheux périls elle pourrait courir,",
+        "Si j’étais maintenant homme à la moins chérir.",
+        "Mais d’un trop pur amour mon âme est embrasée :",
+        "J’aimerais mieux mourir que l’avoir abusée ;",
+        "Je lui vois des appas dignes d’un autre sort,",
+        "Et rien ne m’en saurait séparer que la mort.",
+        "Je prévois là-dessus l’emportement d’un père ;",
+        "Mais nous prendrons le temps d’apaiser sa colère.",
+        "À des charmes si doux je me laisse emporter,",
+        "Et dans la vie enfin il se faut contenter.",
+        "Ce que je veux de vous, sous un secret fidèle,",
+        "C’est que je puisse mettre en vos mains cette belle,",
+        "Que dans votre maison, en faveur de mes feux,",
+        "Vous lui donniez retraite au moins un jour ou deux.",
+        "Outre qu’aux yeux du monde il faut cacher sa fuite,",
+        "Et qu’on en pourra faire une exacte poursuite,",
+        "Vous savez qu’une fille aussi de sa façon",
+        "Donne avec un jeune homme un étrange soupçon ;",
+        "Et comme c’est à vous, sûr de votre prudence,",
+        "Que j’ai fait de mes feux entière confidence,",
+        "C’est à vous seul aussi, comme ami généreux,",
+        "Que je puis confier ce dépôt amoureux.",
+        ".",
+        "Je suis, n’en doutez point, tout à votre service.",
+        ".",
+        "Vous voulez bien me rendre un si charmant office ?",
+        ".",
+        "Très volontiers, vous dis-je ; et je me sens ravir",
+        "De cette occasion que j’ai de vous servir,",
+        "Je rends grâces au Ciel de ce qu’il me l’envoie,",
+        "Et n’ai jamais rien fait avec si grande joie.",
+        ".",
+        "Que je suis redevable à toutes vos bontés !",
+        "J’avais de votre part craint des difficultés ;",
+        "Mais vous êtes du monde, et dans votre sagesse"
+      ]
+    },
+    {
+      "id": "p00177",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEHORACEARNOLPHE",
+      "lines": [
+        "Vous savez excuser le feu de la jeunesse.",
+        "Un de mes gens la garde au coin de ce détour.",
+        ".",
+        "Mais comment ferons-nous ? car il fait un peu jour :",
+        "Si je la prends ici, l’on me verra peut-être ;",
+        "Et s’il faut que chez moi vous veniez à paraître,",
+        "Des valets causeront. Pour jouer au plus sûr,",
+        "Il faut me l’amener dans un lieu plus obscur.",
+        "Mon allée est commode, et je l’y vais attendre.",
+        ".",
+        "Ce sont précautions qu’il est fort bon de prendre.",
+        "Pour moi, je ne ferai que vous la mettre en main,",
+        "Et chez moi, sans éclat, je retourne soudain.",
+        ", seul.",
+        "Ah ! fortune, ce trait d’aventure propice",
+        "Répare tous les maux que m’a faits ton caprice !",
+        "(Il s’enveloppe le nez de son manteau.)"
+      ]
+    },
+    {
+      "id": "p00178",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 3"
+      ]
+    },
+    {
+      "id": "p00179",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Agnès, Arnolphe, Horace"
+      ]
+    },
+    {
+      "id": "p00180",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACEAGNÈSHORACEAGNÈSHORACEAGNÈSHORACEAGNÈSHORACEAGNÈS",
+      "lines": [
+        ".",
+        "Ne soyez point en peine où je vais vous mener :",
+        "C’est un logement sûr que je vous fais donner.",
+        "Vous loger avec moi, ce serait tout détruire :",
+        "Entrez dans cette porte et laissez-vous conduire.",
+        "(Arnolphe lui prend la main sans qu’elle le reconnaisse.)",
+        ".",
+        "Pourquoi me quittez-vous ?",
+        ".",
+        "Chère Agnès, il le faut.",
+        ".",
+        "Songez donc, je vous prie, à revenir bientôt.",
+        ".",
+        "J’en suis assez pressé par ma flamme amoureuse.",
+        ".",
+        "Quand je ne vous vois point, je ne suis point joyeuse.",
+        ".",
+        "Hors de votre présence, on me voit triste aussi.",
+        ".",
+        "Hélas ! s’il était vrai, vous resteriez ici.",
+        ".",
+        "Quoi ? vous pourriez douter de mon amour extrême !",
+        "."
+      ]
+    },
+    {
+      "id": "p00181",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACEAGNÈSHORACEAGNÈSHORACEAGNÈSHORACEAGNÈSHORACEAGNÈSHORACE",
+      "lines": [
+        "Non, vous ne m’aimez pas autant que je vous aime.",
+        "(Arnolphe la tire.)",
+        "Ah ! l’on me tire trop.",
+        ".",
+        "C’est qu’il est dangereux,",
+        "Chère Agnès, qu’en ce lieu nous soyons vus tous deux ;",
+        "Et le parfait ami de qui la main vous presse",
+        "Suit le zèle prudent qui pour nous l’intéresse.",
+        ".",
+        "Mais suivre un inconnu que...",
+        ".",
+        "N’appréhendez rien :",
+        "Entre de telles mains vous ne serez que bien.",
+        ".",
+        "Je me trouverais mieux entre celles d’Horace.",
+        ".",
+        "Et j’aurais...",
+        "à celui qui la tient.",
+        "Attendez.",
+        ".",
+        "Adieu : le jour me chasse.",
+        ".",
+        "Quand vous verrai-je donc ?",
+        ".",
+        "Bientôt, assurément.",
+        ".",
+        "Que je vais m’ennuyer jusques à ce moment !",
+        ".",
+        "Grâce au Ciel, mon bonheur n’est plus en concurrence,",
+        "Et je puis maintenant dormir en assurance."
+      ]
+    },
+    {
+      "id": "p00182",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 4"
+      ]
+    },
+    {
+      "id": "p00183",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Arnolphe ,"
+      ]
+    },
+    {
+      "id": "p00184",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEAGNÈSARNOLPHE",
+      "lines": [
+        ", le nez dans son manteau.",
+        "Venez, ce n’est pas là que je vous logerai,",
+        "Et votre gîte ailleurs est par moi préparé :",
+        "Je prétends en lieu sûr mettre votre personne.",
+        "Me connaissez-vous ?",
+        ", le reconnaissant.",
+        "Hay !",
+        "."
+      ]
+    },
+    {
+      "id": "p00185",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈS",
+      "lines": [
+        "Mon visage, friponne,",
+        "Dans cette occasion rend vos sens effrayés,",
+        "Et c’est à contre-cœur qu’ici vous me voyez.",
+        "Je trouble en ses projets l’amour qui vous possède.",
+        "(Agnès regarde si elle ne verra point Horace.)",
+        "N’appelez point des yeux le galant à votre aide :",
+        "Il est trop éloigné pour vous donner secours.",
+        "Ah ! ah ! si jeune encor, vous jouez de ces tours !",
+        "Votre simplicité, qui semble sans pareille,",
+        "Demande si l’on fait les enfants par l’oreille ;",
+        "Et vous savez donner des rendez-vous la nuit,",
+        "Et pour suivre un galant vous évader sans bruit !",
+        "Tudieu ! comme avec lui votre langue cajole !",
+        "Il faut qu’on vous ait mise à quelque bonne école.",
+        "Qui diantre tout d’un coup vous en a tant appris ?",
+        "Vous ne craignez donc plus de trouver des esprits ?",
+        "Et ce galant, la nuit, vous a donc enhardie ?",
+        "Ah ! coquine, en venir à cette perfidie !",
+        "Malgré tous mes bienfaits former un tel dessein !",
+        "Petit serpent que j’ai réchauffé dans mon sein,",
+        "Et qui, dès qu’il se sent, par une humeur ingrate,",
+        "Cherche à faire du mal à celui qui le flatte !",
+        ".",
+        "Pourquoi me criez-vous ?",
+        ".",
+        "J’ai grand tort en effet !",
+        ".",
+        "Je n’entends point de mal dans tout ce que j’ai fait.",
+        ".",
+        "Suivre un galant n’est pas une action infâme ?",
+        ".",
+        "C’est un homme qui dit qu’il me veut pour sa femme :",
+        "J’ai suivi vos leçons, et vous m’avez prêché",
+        "Qu’il se faut marier pour ôter le péché.",
+        ".",
+        "Oui. Mais pour femme, moi je prétendais vous prendre ;",
+        "Et je vous l’avais fait, me semble, assez entendre.",
+        "."
+      ]
+    },
+    {
+      "id": "p00186",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHE",
+      "lines": [
+        "Oui. Mais, à vous parler franchement entre nous,",
+        "Il est plus pour cela selon mon goût que vous.",
+        "Chez vous le mariage est fâcheux et pénible,",
+        "Et vos discours en font une image terrible ;",
+        "Mais, las ! il le fait, lui, si rempli de plaisirs,",
+        "Que de se marier il donne des désirs.",
+        ".",
+        "Ah ! c’est que vous l’aimez, traîtresse !",
+        ".",
+        "Oui, je l’aime.",
+        ".",
+        "Et vous avez le front de le dire à moi-même !",
+        ".",
+        "Et pourquoi, s’il est vrai, ne le dirais-je pas ?",
+        ".",
+        "Le deviez-vous aimer, impertinente ?",
+        ".",
+        "Hélas !",
+        "Est-ce que j’en puis mais ? Lui seul en est la cause ;",
+        "Et je n’y songeais pas lorsque se fit la chose.",
+        ".",
+        "Mais il fallait chasser cet amoureux désir.",
+        ".",
+        "Le moyen de chasser ce qui fait du plaisir ?",
+        ".",
+        "Et ne saviez-vous pas que c’était me déplaire ?",
+        ".",
+        "Moi ? point du tout. Quel mal cela vous peut-il faire ?",
+        ".",
+        "Il est vrai, j’ai sujet d’en être réjoui.",
+        "Vous ne m’aimez donc pas, à ce compte ?",
+        ".",
+        "Vous ?",
+        ".",
+        "Oui.",
+        ".",
+        "Hélas ! non.",
+        ".",
+        "Comment, non !",
+        ".",
+        "Voulez-vous que je mente ?",
+        "."
+      ]
+    },
+    {
+      "id": "p00187",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "AGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈS",
+      "lines": [
+        "Pourquoi ne m’aimer pas, Madame l’impudente ?",
+        ".",
+        "Mon Dieu, ce n’est pas moi que vous devez blâmer :",
+        "Que ne vous êtes-vous, comme lui, fait aimer ?",
+        "Je ne vous en ai pas empêché, que je pense.",
+        ".",
+        "Je m’y suis efforcé de toute ma puissance ;",
+        "Mais les soins que j’ai pris, je les ai perdus tous.",
+        ".",
+        "Vraiment, il en sait donc là-dessus plus que vous ;",
+        "Car à se faire aimer il n’a point eu de peine.",
+        ".",
+        "Voyez comme raisonne et répond la vilaine !",
+        "Peste ! une précieuse en dirait-elle plus ?",
+        "Ah ! je l’ai mal connue ; ou, ma foi ! là-dessus",
+        "Une sotte en sait plus que le plus habile homme.",
+        "Puisque en raisonnement votre esprit se consomme,",
+        "La belle raisonneuse, est-ce qu’un si long temps",
+        "Je vous aurai pour lui nourrie à mes dépens ?",
+        ".",
+        "Non. Il vous rendra tout jusques au dernier double.",
+        ".",
+        "Elle a de certains mots où mon dépit redouble.",
+        "Me rendra-t-il, coquine, avec tout son pouvoir,",
+        "Les obligations que vous pouvez m’avoir ?",
+        ".",
+        "Je ne vous en ai pas d’aussi grandes qu’on pense.",
+        ".",
+        "N’est-ce rien que les soins d’élever votre enfance ?",
+        ".",
+        "Vous avez là dedans bien opéré vraiment,",
+        "Et m’avez fait en tout instruire joliment !",
+        "Croit-on que je me flatte, et qu’enfin, dans ma tête,",
+        "Je ne juge pas bien que je suis une bête ?"
+      ]
+    },
+    {
+      "id": "p00188",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEAGNÈSARNOLPHEAGNÈSARNOLPHEAGNÈS",
+      "lines": [
+        "Moi-même, j’en ai honte ; et, dans l’âge où je suis,",
+        "Je ne veux plus passer pour sotte, si je puis.",
+        ".",
+        "Vous fuyez l’ignorance, et voulez, quoi qu’il coûte,",
+        "Apprendre du blondin quelque chose ?",
+        ".",
+        "Sans doute.",
+        "C’est de lui que je sais ce que je puis savoir :",
+        "Et beaucoup plus qu’à vous je pense lui devoir.",
+        ".",
+        "Je ne sais qui me tient qu’avec une gourmade",
+        "Ma main de ce discours ne venge la bravade.",
+        "J’enrage quand je vois sa piquante froideur,",
+        "Et quelques coups de poing satisferaient mon cœur.",
+        ".",
+        "Hélas ! vous le pouvez, si cela peut vous plaire.",
+        ".",
+        "Ce mot et ce regard désarme ma colère,",
+        "Et produit un retour de tendresse et de cœur,",
+        "Qui de son action m’efface la noirceur.",
+        "Chose étrange d’aimer, et que pour ces traîtresses",
+        "Les hommes soient sujets à de telles faiblesses !",
+        "Tout le monde connaît leur imperfection :",
+        "Ce n’est qu’extravagance et qu’indiscrétion ;",
+        "Leur esprit est méchant, et leur âme fragile ;",
+        "Il n’est rien de plus faible et de plus imbécile,",
+        "Rien de plus infidèle : et malgré tout cela,",
+        "Dans le monde on fait tout pour ces animaux-là.",
+        "Hé bien ! faisons la paix. Va, petite traîtresse,",
+        "Je te pardonne tout et te rends ma tendresse.",
+        "Considère par là l’amour que j’ai pour toi,",
+        "Et me voyant si bon, en revanche aime-moi.",
+        ".",
+        "Du meilleur de mon cœur je voudrais vous complaire :",
+        "Que me coûterait-il, si je le pouvais"
+      ]
+    },
+    {
+      "id": "p00189",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEAGNÈSARNOLPHE",
+      "lines": [
+        "faire ?",
+        ".",
+        "Mon pauvre petit bec, tu le peux, si tu veux.",
+        "                                (Il fait un soupir.)",
+        "Écoute seulement ce soupir amoureux,",
+        "Vois ce regard mourant, contemple ma personne,",
+        "Et quitte ce morveux et l’amour qu’il te donne.",
+        "C’est quelque sort qu’il faut qu’il ait jeté sur toi,",
+        "Et tu seras cent fois plus heureuse avec moi.",
+        "Ta forte passion est d’être brave et leste :",
+        "Tu le seras toujours, va, je te le proteste ;",
+        "Sans cesse, nuit et jour, je te caresserai,",
+        "Je te bouchonnerai, baiserai, mangerai ;",
+        "Tout comme tu voudras, tu pourras te conduire :",
+        "Je ne m’explique point, et cela, c’est tout dire.",
+        "(À part.)",
+        "Jusqu’où la passion peut-elle faire aller !",
+        "Enfin à mon amour rien ne peut s’égaler :",
+        "Quelle preuve veux-tu que je t’en donne, ingrate ?",
+        "Me veux-tu voir pleurer ? Veux-tu que je me batte ?",
+        "Veux-tu que je m’arrache un côté de cheveux ?",
+        "Veux-tu que je me tue ? Oui, dis si tu le veux :",
+        "Je suis tout prêt, cruelle, à te prouver ma flamme.",
+        ".",
+        "Tenez, tous vos discours ne me touchent point l’âme :",
+        "Horace avec deux mots en ferait plus que vous.",
+        ".",
+        "Ah ! c’est trop me braver, trop pousser mon courroux.",
+        "Je suivrai mon dessein, bête trop indocile,",
+        "Et vous dénicherez à l’instant de la ville.",
+        "Vous rebutez mes vœux et me mettez à bout ;",
+        "Mais un cul de couvent me vengera de tout."
+      ]
+    },
+    {
+      "id": "p00190",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 5"
+      ]
+    },
+    {
+      "id": "p00191",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Alain, Arnolphe"
+      ]
+    },
+    {
+      "id": "p00192",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ALAIN",
+      "lines": [
+        ".",
+        "Je ne sais ce que c’est, Monsieur, mais il me semble"
+      ]
+    },
+    {
+      "id": "p00193",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Qu’Agnès et le corps mort s’en sont allés ensemble.",
+        ".",
+        "La voici. Dans ma chambre allez me la nicher :",
+        "Ce ne sera pas là qu’il la viendra chercher ;",
+        "Et puis c’est seulement pour une demie-heure :",
+        "Je vais, pour lui donner une sûre demeure,",
+        "Trouver une voiture. Enfermez-vous des mieux,",
+        "Et surtout gardez-vous de la quitter des yeux.",
+        "Peut-être que son âme, étant dépaysée,",
+        "Pourra de cet amour être désabusée."
+      ]
+    },
+    {
+      "id": "p00194",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 6"
+      ]
+    },
+    {
+      "id": "p00195",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Arnolphe, Horace"
+      ]
+    },
+    {
+      "id": "p00196",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        ".",
+        "Ah ! je viens vous trouver, accablé de douleur.",
+        "Le Ciel, Seigneur Arnolphe, a conclu mon malheur ;",
+        "Et par un trait fatal d’une injustice extrême,",
+        "On me veut arracher de la beauté que j’aime.",
+        "Pour arriver ici mon père a pris le frais ;",
+        "J’ai trouvé qu’il mettait pied à terre ici près ;",
+        "Et la cause, en un mot, d’une telle venue,",
+        "Qui, comme je disais, ne m’était pas connue,",
+        "C’est qu’il m’a marié sans m’en récrire rien,",
+        "Et qu’il vient en ces lieux célébrer ce lien.",
+        "Jugez, en prenant part à mon inquiétude,",
+        "S’il pouvoit m’arriver un contre-temps plus rude.",
+        "Cet Enrique, dont hier je m’informois à vous,",
+        "Cause tout le malheur dont je ressens les coups ;",
+        "Il vient avec mon père achever ma ruine,",
+        "Et c’est sa fille unique à qui l’on me destine.",
+        "J’ai, dès leurs premiers mots, pensé m’évanouir ;",
+        "Et d’abord, sans vouloir plus longtemps les ouïr,",
+        "Mon père ayant parlé de vous rendre visite,",
+        "L’esprit plein de frayeur je l’ai devancé vite.",
+        "De grâce, gardez-vous de lui rien découvrir",
+        "De mon engagement qui le pourrait aigrir ;",
+        "Et tâchez, comme en vous il prend grande créance,"
+      ]
+    },
+    {
+      "id": "p00197",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEHORACEARNOLPHEHORACEARNOLPHEHORACE",
+      "lines": [
+        "De le dissuader de cette autre alliance.",
+        ".",
+        "Oui-da.",
+        ".",
+        "Conseillez-lui de différer un peu,",
+        "Et rendez, en ami, ce service à mon feu.",
+        ".",
+        "Je n’y manquerai pas.",
+        ".",
+        "C’est en vous que j’espère.",
+        ".",
+        "Fort bien.",
+        ".",
+        "Et je vous tiens mon véritable père.",
+        "Dites-lui que mon âge... Ah ! je le vois venir :",
+        "Écoutez les raisons que je vous puis fournir.",
+        "(Ils demeurent en un coin du théâtre.)"
+      ]
+    },
+    {
+      "id": "p00198",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 7"
+      ]
+    },
+    {
+      "id": "p00199",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Enrique, Oronte, Chrysalde, Horace, Arnolphe"
+      ]
+    },
+    {
+      "id": "p00200",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ENRIQUECHRYSALDEARNOLPHE",
+      "lines": [
+        ", à Chrysalde.",
+        "Aussitôt qu’à mes yeux je vous ai vu paraître,",
+        "Quand on ne m’eût rien dit, j’aurais su vous connaître.",
+        "Je vous vois tous les traits de cette aimable sœur",
+        "Dont l’hymen autrefois m’avait fait possesseur ;",
+        "Et je serais heureux si la Parque cruelle",
+        "M’eût laissé ramener cette épouse fidèle,",
+        "Pour jouir avec moi des sensibles douceurs",
+        "De revoir tous les siens après nos longs malheurs.",
+        "Mais puisque du destin la fatale puissance",
+        "Nous prive pour jamais de sa chère présence,",
+        "Tâchons de nous résoudre, et de nous contenter",
+        "Du seul fruit amoureux qui m’en ait pu rester.",
+        "Il vous touche de près ; et, sans votre suffrage,",
+        "J’aurais tort de vouloir disposer de ce gage.",
+        "Le choix du fils d’Oronte est glorieux de soi ;",
+        "Mais il faut que ce choix vous plaise comme à moi.",
+        ".",
+        "C’est de mon jugement avoir mauvaise estime",
+        "Que douter si j’approuve un choix si légitime.",
+        ", à Horace."
+      ]
+    },
+    {
+      "id": "p00201",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACEARNOLPHEORONTEARNOLPHEORONTEARNOLPHEORONTEARNOLPHEORONTEARNOLPHEHORACECHRYSALDEARNOLPHE",
+      "lines": [
+        "Oui, je vais vous servir de la bonne façon.",
+        ".",
+        "Gardez, encore un coup...",
+        ".",
+        "N’ayez aucun soupçon.",
+        ", à Arnolphe.",
+        "Ah ! que cette embrassade est pleine de tendresse !",
+        ".",
+        "Que je sens à vous voir une grande allégresse !",
+        ".",
+        "Je suis ici venu...",
+        ".",
+        "Sans m’en faire récit,",
+        "Je sais ce qui vous mène.",
+        ".",
+        "On vous l’a déjà dit.",
+        ".",
+        "Oui.",
+        ".",
+        "Tant mieux.",
+        ".",
+        "Votre fils à cet hymen résiste,",
+        "Et son cœur prévenu n’y voit rien que de triste :",
+        "Il m’a même prié de vous en détourner ;",
+        "Et moi, tout le conseil que je vous puis donner,",
+        "C’est de ne pas souffrir que ce nœud se diffère,",
+        "Et de faire valoir l’autorité de père.",
+        "Il faut avec vigueur ranger les jeunes gens,",
+        "Et nous faisons contre eux à leur être indulgent.",
+        ".",
+        "Ah ! traître !",
+        ".",
+        "Si son cœur a quelque répugnance,",
+        "Je tiens qu’on ne doit pas lui faire violence.",
+        "Mon frère, que je crois, sera de mon avis.",
+        ".",
+        "Quoi ? se laissera-t-il gouverner par son fils ?"
+      ]
+    },
+    {
+      "id": "p00202",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ORONTECHRYSALDEARNOLPHEORONTECHRYSALDEARNOLPHEHORACEARNOLPHEHORACE",
+      "lines": [
+        "Est-ce que vous voulez qu’un père ait la mollesse",
+        "De ne savoir pas faire obéir la jeunesse ?",
+        "Il serait beau vraiment qu’on le vît aujourd’hui",
+        "Prendre loi de qui doit la recevoir de lui !",
+        "Non, non : c’est mon intime, et sa gloire est la mienne :",
+        "Sa parole est donnée, il faut qu’il la maintienne,",
+        "Qu’il fasse voir ici de fermes sentiments,",
+        "Et force de son fils tous les attachements.",
+        ".",
+        "C’est parler comme il faut, et, dans cette alliance,",
+        "C’est moi qui vous réponds de son obéissance.",
+        ", à Arnolphe.",
+        "Je suis surpris, pour moi, du grand empressement",
+        "Que vous nous faites voir pour cet engagement,",
+        "Et ne puis deviner quel motif vous inspire...",
+        ".",
+        "Je sais ce que je fais, et dis ce qu’il faut dire.",
+        ".",
+        "Oui, oui, Seigneur Arnolphe, il est...",
+        ".",
+        "Ce nom l’aigrit ;",
+        "C’est Monsieur de la Souche, on vous l’a déjà dit.",
+        ".",
+        "Il n’importe.",
+        ".",
+        "Qu’entends-je ?",
+        ", se retournant vers Horace.",
+        "Oui, c’est là le mystère,",
+        "Et vous pouvez juger ce que je devais faire.",
+        ".",
+        "En quel trouble..."
+      ]
+    },
+    {
+      "id": "p00203",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 8"
+      ]
+    },
+    {
+      "id": "p00204",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Georgette, Enrique, Oronte, Chrysalde, Horace, Arnolphe"
+      ]
+    },
+    {
+      "id": "p00205",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "GEORGETTEARNOLPHE",
+      "lines": [
+        ".",
+        "Monsieur, si vous n’êtes auprès,",
+        "Nous aurons de la peine à retenir Agnès ;",
+        "Elle veut à tous coups s’échapper, et peut-être",
+        "Qu’elle se pourrait bien jeter par la fenêtre.",
+        "."
+      ]
+    },
+    {
+      "id": "p00206",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACEARNOLPHEORONTE",
+      "lines": [
+        "Faites-la-moi venir ; aussi bien de ce pas",
+        "Prétends-je l’emmener ; ne vous en fâchez pas :",
+        "Un bonheur continu rendrait l’homme superbe ;",
+        "Et chacun a son tour, comme dit le proverbe.",
+        ".",
+        "Quels maux peuvent, ô Ciel ! égaler mes ennuis !",
+        "Et s’est-on jamais vu dans l’abîme où je suis !",
+        ", à Oronte.",
+        "Pressez vite le jour de la cérémonie :",
+        "J’y prends part, et déjà moi-même je m’en prie.",
+        ".",
+        "C’est bien notre dessein."
+      ]
+    },
+    {
+      "id": "p00207",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène 9"
+      ]
+    },
+    {
+      "id": "p00208",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "Agnès, Alain, Georgette, Oronte, Enrique, Arnolphe, Horace, Chrysalde"
+      ]
+    },
+    {
+      "id": "p00209",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEAGNÈSHORACEARNOLPHEAGNÈSORONTEARNOLPHEORONTE",
+      "lines": [
+        ", à Agnès.",
+        "Venez, belle, venez,",
+        "Qu’on ne saurait tenir, et qui vous mutinez.",
+        "Voici votre galant, à qui, pour récompense,",
+        "Vous pouvez faire une humble et douce révérence.",
+        "Adieu. L’événement trompe un peu vos souhaits ;",
+        "Mais tous les amoureux ne sont pas satisfaits.",
+        ".",
+        "Me laissez-vous, Horace, emmener de la sorte ?",
+        ".",
+        "Je ne sais où j’en suis, tant ma douleur est forte.",
+        ".",
+        "Allons, causeuse, allons.",
+        ".",
+        "Je veux rester ici.",
+        ".",
+        "Dites-nous ce que c’est que ce mystère-ci.",
+        "Nous nous regardons tous, sans le pouvoir comprendre.",
+        ".",
+        "Avec plus de loisir je pourrai vous l’apprendre.",
+        "Jusqu’au revoir.",
+        "."
+      ]
+    },
+    {
+      "id": "p00210",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEORONTECHRYSALDEARNOLPHECHRYSALDEORONTECHRYSALDEORONTECHRYSALDEORONTECHRYSALDEORONTECHRYSALDE",
+      "lines": [
+        "Où donc prétendez-vous aller ?",
+        "Vous ne nous parlez point comme il nous faut parler.",
+        ".",
+        "Je vous ai conseillé, malgré tout son murmure,",
+        "D’achever l’hyménée.",
+        ".",
+        "Oui. Mais pour le conclure,",
+        "Si l’on vous a dit tout, ne vous a-t-on pas dit",
+        "Que vous avez chez vous celle dont il s’agit,",
+        "La fille qu’autrefois de l’aimable Angélique,",
+        "Sous des liens secrets, eut le seigneur Enrique ?",
+        "Sur quoi votre discours était-il donc fondé ?",
+        ".",
+        "Je m’étonnais aussi de voir son procédé.",
+        ".",
+        "Quoi ?...",
+        ".",
+        "D’un hymen secret ma sœur eut une fille,",
+        "Dont on cacha le sort à toute la famille.",
+        ".",
+        "Et qui sous de feints noms, pour ne rien découvrir,",
+        "Par son époux aux champs fut donnée à nourrir.",
+        ".",
+        "Et dans ce temps, le sort, lui déclarant la guerre,",
+        "L’obligea de sortir de sa natale terre.",
+        ".",
+        "Et d’aller essuyer mille périls divers",
+        "Dans ces lieux séparés de nous par tant de mers.",
+        ".",
+        "Où ses soins ont gagné ce que dans sa patrie",
+        "Avaient pu lui ravir l’imposture et l’envie.",
+        ".",
+        "Et de retour en France, il a cherché d’abord",
+        "Celle à qui de sa fille il confia le sort.",
+        ".",
+        "Et cette paysanne a dit avec franchise",
+        "Qu’en vos mains à quatre ans elle l’avait remise.",
+        ".",
+        "Et qu’elle l’avait fait sur votre charité,",
+        "Par un accablement d’extrême pauvreté.",
+        "."
+      ]
+    },
+    {
+      "id": "p00211",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHEORONTECHRYSALDEARNOLPHECHRYSALDEORONTECHRYSALDEORONTECHRYSALDEORONTECHRYSALDEORONTECHRYSALDE",
+      "lines": [
+        "Et lui, plein de transport et l’allégresse en l’âme,",
+        "A fait jusqu’en ces lieux conduire cette femme."
+      ]
+    },
+    {
+      "id": "p00212",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ORONTE",
+      "lines": [
+        "Et vous allez enfin la voir venir ici,",
+        "Pour rendre aux yeux de tous ce mystère éclairci."
+      ]
+    },
+    {
+      "id": "p00213",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", à Arnolphe"
+      ]
+    },
+    {
+      "id": "p00214",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "Je devine à peu près quel est votre supplice ;",
+        "Mais le sort en cela ne vous est que propice.",
+        "Si n’être point cocu vous semble un si grand bien,",
+        "Ne vous point marier en est le vrai moyen."
+      ]
+    },
+    {
+      "id": "p00215",
+      "page": 1,
+      "kind": "prose",
+      "centered": true,
+      "lines": [
+        ", s’en allant tout transporté, et ne pouvant parler."
+      ]
+    },
+    {
+      "id": "p00216",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ARNOLPHE",
+      "lines": [
+        "Ouf !"
+      ]
+    },
+    {
+      "id": "p00217",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "Scène X"
+      ]
+    },
+    {
+      "id": "p00218",
+      "page": 1,
+      "kind": "stage",
+      "centered": true,
+      "lines": [
+        "ENRIQUE, ORONTE, CHRYSALDE, AGNÈS, HORACE."
+      ]
+    },
+    {
+      "id": "p00219",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ORONTE",
+      "lines": [
+        "D’où vient qu’il s’enfuit sans rien dire ?"
+      ]
+    },
+    {
+      "id": "p00220",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "HORACE",
+      "lines": [
+        "Ah ! mon père,",
+        "Vous saurez pleinement ce surprenant mystère.",
+        "Le hasard en ces lieux avait exécuté",
+        "Ce que votre sagesse avait prémédité.",
+        "J’étois, par les doux nœuds d’une amour mutuelle,",
+        "Engagé de parole avecque cette belle ;",
+        "Et c’est elle, en un mot, que vous venez chercher,",
+        "Et pour qui mon refus a pensé vous fâcher."
+      ]
+    },
+    {
+      "id": "p00221",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "ENRIQUE",
+      "lines": [
+        "Je n’en ai point douté d’abord que je l’ai vue,",
+        "Et mon âme depuis n’a cessé d’être émue.",
+        "Ah ! ma fille, je cède à des transports si doux."
+      ]
+    },
+    {
+      "id": "p00222",
+      "page": 1,
+      "kind": "verse",
+      "speaker": "CHRYSALDE",
+      "lines": [
+        "J’en ferois de bon cœur, mon frère, autant que vous ;",
+        "Mais ces lieux et cela ne s’accommodent guères.",
+        "Allons dans la maison débrouiller ces mystères,",
+        "Payer à notre ami ces soins officieux,",
+        "Et rendre grâce au Ciel qui fait tout pour le mieux."
+      ]
+    }
+  ]
+}

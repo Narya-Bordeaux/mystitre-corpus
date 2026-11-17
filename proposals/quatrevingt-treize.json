@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "quatrevingt-treize",
+  "title": "Quatrevingt-treize",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Quatrevingt-treize, édition non indiquée (texte de la page Wikisource, révision figée)",
+    "pages": [
+      {
+        "title": "Quatrevingt-treize/I, 1",
+        "revisionId": 12546417
+      },
+      {
+        "title": "Quatrevingt-treize/III, 7",
+        "revisionId": 12564086
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "58ca38e290572d5634a18394e328643ceab1f8e025a5c4225263abf6480c8e2f"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Dans les derniers jours de mai 1793, un des bataillons parisiens amenés en Bretagne par Santerre fouillait le redoutable bois de la Saudraie en Astillé. On n’était pas plus de trois cents, car le bataillon était décimé par cette rude guerre. C’était l’époque où, après l’Argonne, Jemmapes et Valmy, du premier bataillon de Paris, qui était de six cents volontaires, il restait vingt-sept hommes, du deuxième trente-trois, et du troisième cinquante-sept.",
+    "original": "Dans les derniers jours de mai 1793, un des bataillons parisiens amenés en Bretagne par Santerre fouillait le redoutable bois de la Saudraie en Astillé. On n’était pas plus de trois cents, car le bataillon était décimé par cette rude guerre. C’était l’époque où, après l’Argonne, Jemmapes et Valmy, du premier bataillon de Paris, qui était de six cents volontaires, il restait vingt-sept hommes, du deuxième trente-trois, et du troisième cinquante-sept.",
+    "length": 453,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00622.s3",
+      "p00622.s4",
+      "p00623.s1"
+    ],
+    "french": "Cimourdain venait de saisir un des pistolets qu’il avait à sa ceinture, et, au moment où la tête de Gauvain roulait dans le panier, Cimourdain se traversait le cœur d’une balle. Un flot de sang lui sortit de la bouche, il tomba mort.\nEt ces deux âmes, sœurs tragiques, s’envolèrent ensemble, l’ombre de l’une mêlée à la lumière de l’autre.",
+    "original": "Cimourdain venait de saisir un des pistolets qu’il avait à sa ceinture, et, au moment où la tête de Gauvain roulait dans le panier, Cimourdain se traversait le cœur d’une balle. Un flot de sang lui sortit de la bouche, il tomba mort.\nEt ces deux âmes, sœurs tragiques, s’envolèrent ensemble, l’ombre de l’une mêlée à la lumière de l’autre.",
+    "length": 339,
+    "truncated": false
+  }
+}

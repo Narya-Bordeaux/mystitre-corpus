@@ -1,0 +1,89 @@
+{
+  "formatVersion": 1,
+  "bookId": "essais",
+  "title": "Les Essais",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Essais, exemplaire de Bordeaux (1588-1592), fr.wikisource, pages « Livre I/Chapitre 1 » et « Livre III/Chapitre 13 » ; orthographe du XVIᵉ siècle",
+  "pages": [
+    {
+      "title": "Essais/Livre I/Chapitre 1",
+      "revisionId": 6044422
+    },
+    {
+      "title": "Essais/Livre III/Chapitre 13",
+      "revisionId": 14795729
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "665c098585cdac9e71656bcf139d9d9fcdb78c20537773f58cadf21cb300a7ce",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "LA plus commune façon d’amollir les cœurs de ceux qu’on a of"
+  },
+  "bodyEnd": {
+    "id": "p00063",
+    "textPrefix": "Frui paratis et valido mihi,\nLatoe, dones, et, precor, integ"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de chapitre et « FIN DU TROISIESME LIVRE. » (rubriques d'éditeur). L'« Au lecteur » n'est pas dans les pages enregistrées (paratexte écrit par l'auteur, exclu). Le texte ouvre sur le chapitre I du livre I et se clôt sur la prière latine citée par Montaigne à la fin du chapitre XIII du livre III, qui fait partie du texte."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "LA plus",
+      "replace": "La plus",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "offenſez",
+      "replace": "offensez",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "tiennẽt",
+      "replace": "tiennent",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "c’eſt de les eſmouuoir par ſummiſſion à commiſeratiõ &",
+      "replace": "c’est de les esmouvoir par summission à commiseration et",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "brauerie",
+      "replace": "braverie",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "conſtance",
+      "replace": "constance",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "ſerui à ce meſme",
+      "replace": "servi à ce mesme",
+      "reason": "Graphie typographique de l'édition numérisée (s long ſ, tilde d'abréviation, u/v, esperluette) ramenée à la graphie d'imprimerie courante, comme dans le reste de la page"
+    }
+  ]
+}

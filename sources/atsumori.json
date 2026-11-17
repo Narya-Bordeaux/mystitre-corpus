@@ -1,0 +1,138 @@
+{
+  "formatVersion": 1,
+  "bookId": "atsumori",
+  "title": "Atsumori",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Cinq nô, traduction de Noël Péri (Les Classiques de l'Orient, vol. V, 1921), page « Cinq nô/Texte entier » de fr.wikisource",
+  "pages": [
+    {
+      "title": "Cinq nô/Texte entier",
+      "revisionId": 14174937
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "6082216bcad29b5838ae68472390e4f28ee929e6e5f601e5b40b09c2d9053b04",
+  "bodyStart": {
+    "id": "p00282",
+    "textPrefix": "Puisque ce monde n’est qu’un songe, s’en réveiller (bis)\nEt "
+  },
+  "bodyEnd": {
+    "id": "p00310",
+    "textPrefix": "� 15a C 1 N Q N O snrrn. N’ayant plus d'autre ressource, il "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ja",
+    "translator": "Noël Péri",
+    "translationYear": 1921,
+    "translatorDeathYear": 1922,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Noël_Peri&oldid=11887737",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Corps : de la première réplique du moine (p00282) à la dernière strophe du chœur (p00310) ; exclus : titre, liste des personnages, indication de scène, notes de fin de pièce, notice et notes critiques de Péri. Le texte numérisé est bruité (colonnes mêlées en fin de pièce)."
+  ],
+  "titleMasks": [
+    "Atsumori"
+  ],
+  "readingOptions": [
+    "inlineNoteCalls"
+  ],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00310",
+      "find": "� 15a C 1 N Q N O snrrn. N’ayant plus d'autre ressource, il pousse son cheval dans Son aspect trahit un trouble extréme. [les flots. Mais a ce moment, cucsun. Derriére lui, ` Kumagai no ]ir6 Naozane, Ne voulant pas le laisser échapper, accourt in sa pour- Fait retourner son cheval; [suite. Atsumori alors Parmi",
+      "replace": "N'ayant plus d'autre ressource, il pousse son cheval dans les flots. Mais à ce moment, derrière lui, Kumagai no Jirô Naozane, ne voulant pas le laisser échapper, accourt à sa poursuite. Atsumori alors fait retourner son cheval ; parmi",
+      "reason": "Texte numérisé abîmé : colonnes du texte et étiquettes de rôles mêlées ; mots rétablis dans l'ordre de lecture sans rien ajouter ; l'indication de jeu « Son aspect trahit un trouble extrême » (colonne marginale) est écartée"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00310",
+      "find": " il tire son sabre (‘); On le voit frapper deux fois: trois fois : puis sur leurs [chevaux lls se saisissentabras le corps, et sur la lisiére ou viennent [battre les flots, ils tombent l’un sur l’autre. A la En, [Atsumori] est frappé et meurt.",
+      "replace": " il tire son sabre. On le voit frapper deux fois, trois fois ; puis, sur leurs chevaux, ils se saisissent à bras-le-corps, et sur la lisière où viennent battre les flots, ils tombent l'un sur l'autre. À la fin, Atsumori est frappé et meurt.",
+      "reason": "Texte numérisé abîmé : colonnes du texte et étiquettes de rôles mêlées ; mots rétablis dans l'ordre de lecture sans rien ajouter"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00310",
+      "find": "De la vie qu'il a perdue Le karma, d'un tour de sa roue, les remet en présence (’). on Mon ennemi, le voila! » crie-t-il, et il veut le frapper.",
+      "replace": "De la vie qu'il a perdue le karma, d'un tour de sa roue, les remet en présence. « Mon ennemi, le voilà ! » crie-t-il, et il veut le frapper.",
+      "reason": "Texte numérisé abîmé : colonnes du texte et étiquettes de rôles mêlées ; mots rétablis dans l'ordre de lecture sans rien ajouter"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00310",
+      "find": "[Mais Celui-ci, lui rendant le bien pour le mal, Récite les invocations rituelles, et grace a ses priéres ('), Finalement ensemble ils renaitront Sur le méme lotus.",
+      "replace": "Mais celui-ci, lui rendant le bien pour le mal, récite les invocations rituelles, et grâce à ses prières, finalement ensemble ils renaîtront sur le même lotus.",
+      "reason": "Texte numérisé abîmé : colonnes du texte et étiquettes de rôles mêlées ; mots rétablis dans l'ordre de lecture sans rien ajouter"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00310",
+      "find": "Non, le moine Rensei N’est pas son ennemi (‘). on Ah ! daignez encore prier pour ma délivrance! » (bis). g¤rJud!>l*.?U\"Z 1\".I).••;.1 W5\"'? •° •¢° \\ ·._ °/; rc _ _5`A.•-• . W I'? I { ° 5*",
+      "replace": "Non, le moine Rensei n'est pas son ennemi. « Ah ! daignez encore prier pour ma délivrance ! »",
+      "reason": "Texte numérisé abîmé : colonnes du texte et étiquettes de rôles mêlées ; mots rétablis dans l'ordre de lecture sans rien ajouter ; résidu de numérisation final supprimé"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00283",
+      "reason": "Indication de jeu (le chœur répète les vers), pas du texte lu"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00285",
+      "reason": "Indication de jeu (« Il fait le dappai »), pas du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00282",
+      "find": "s’en réveiller (bis)",
+      "replace": "s’en réveiller",
+      "reason": "Indication de reprise « (bis) », pas du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00284",
+      "find": "_lir6",
+      "replace": "Jirô",
+      "reason": "Nom mal numérisé ; la notice du même volume l'écrit « jiro »"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00284",
+      "find": "excés",
+      "replace": "excès",
+      "reason": "Numérisation : faute de lecture du texte"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00284",
+      "find": "malntenant",
+      "replace": "maintenant",
+      "reason": "Numérisation : faute de lecture du texte"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00284",
+      "find": "Atsumori. ·",
+      "replace": "Atsumori.",
+      "reason": "Point médian parasite de la numérisation"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00284",
+      "find": "je suis Kumagai",
+      "replace": "Je suis Kumagai",
+      "reason": "Majuscule initiale perdue à la numérisation"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00310",
+      "name": "LE CHŒUR",
+      "reason": "L'édition ne balise pas les rôles : cette strophe est chantée par le chœur (le texte la dit « Atsumori… », à la troisième personne)"
+    }
+  ]
+}

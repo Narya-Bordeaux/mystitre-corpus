@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "une-saison-en-enfer",
+  "title": "Une saison en enfer",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, « Une saison en enfer (1873) », pages « Jadis, si je me souviens bien… » (prologue) et « Adieu » ; édition originale de 1873 d'après le titre de la page",
+  "pages": [
+    {
+      "title": "Une saison en enfer (1873)/« Jadis, si je me souviens bien… »",
+      "revisionId": 13176433
+    },
+    {
+      "title": "Une saison en enfer (1873)/Adieu",
+      "revisionId": 13176440
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "88b9fa883ec5d1755a55c1afd4a1a4951428ba49d74d09c7ad903ab977b2a92c",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "« Jadis, si je me souviens bien, ma vie était un festin où s"
+  },
+  "bodyEnd": {
+    "id": "p00027",
+    "textPrefix": "Que parlais-je de main amie ! Un bel avantage, c’est que je "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : ornement « * * * * * » et date finale « avril-août, 1873 ». Le prologue (« Jadis… ») fait partie de l'œuvre."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

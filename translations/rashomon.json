@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "rashomon",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "67f164f72ab5384ecc11589dd88c5166f5f8550268cdd728be62408dcc65cedf",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00005.s1",
+      "original": "或日（あるひ）の暮方の事である。",
+      "translation": "C'était un soir, à la tombée du jour."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "一人の下人が、羅生門（らしやうもん）の下で雨やみを待つてゐた。",
+      "translation": "Un valet attendait, sous la porte Rashōmon, que la pluie cesse."
+    },
+    {
+      "id": "p00006.s1",
+      "original": "廣い門の下には、この男の外（ほか）に誰もゐない。",
+      "translation": "Sous le vaste portail, il n'y avait personne d'autre que cet homme."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "唯、所々丹塗（にぬり）の剝げた、大きな圓柱（まるばしら）に、蟋蟀（きり〴〵す）が一匹とまつてゐる。",
+      "translation": "Seul un grillon s'était posé sur un gros pilier rond dont la laque rouge s'écaillait çà et là."
+    },
+    {
+      "id": "p00006.s3",
+      "original": "羅生門（らしやうもん）が、朱雀大路（すじやくおほぢ）にある以上（いじやう）は、この男の外にも、雨（あめ）やみをする市女笠（いちめがさ）や揉烏帽子が、もう二三人（にん）はありさうなものである。",
+      "translation": "Puisque la porte Rashōmon se dressait sur la grande avenue Suzaku, on aurait pu s'attendre à y trouver, outre cet homme, deux ou trois autres personnes abritées de la pluie, avec leur chapeau de femme en jonc ou leur bonnet de cérémonie tout fripé."
+    },
+    {
+      "id": "p00006.s4",
+      "original": "それが、この男（をとこ）の外（ほか）には誰（たれ）もゐない。",
+      "translation": "Or il n'y avait que lui, et personne d'autre."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00037.s4",
+      "original": "下人は、剝（は）ぎとつた檜肌色の着物（きもの）をわきにかゝへて、またゝく間に急な梯子を夜の底へかけ下りた。",
+      "translation": "Le valet, serrant sous son bras le vêtement couleur d'écorce de cyprès qu'il venait d'arracher, dévala en un instant l'échelle abrupte et plongea dans le fond de la nuit."
+    },
+    {
+      "id": "p00038.s1",
+      "original": "暫（しばらく）、死んだやうに倒れてゐた老婆が、屍骸の中（なか）から、その裸（はだか）の體を起したのは、それから間（ま）もなくの事である。",
+      "translation": "Étendue un moment comme morte, la vieille se redressa bientôt, toute nue, parmi les cadavres."
+    },
+    {
+      "id": "p00038.s2",
+      "original": "老婆は、つぶやくやうな、うめくやうな聲を立てながら、まだ燃（も）えてゐる火の光をたよりに、梯子（はしご）の口まで、這つて行つた。",
+      "translation": "Elle gémissait d'une voix qui tenait du murmure et du grognement, et, à la lueur du feu encore allumé, rampa jusqu'à l'ouverture de l'échelle."
+    },
+    {
+      "id": "p00038.s3",
+      "original": "さうして、そこから、短い白髮（しらが）を倒にして、門の下を覗（のぞ）きこんだ。",
+      "translation": "Là, ses courts cheveux blancs pendant à l'envers, elle se pencha pour regarder en bas, sous la porte."
+    },
+    {
+      "id": "p00038.s4",
+      "original": "外には、唯、黑洞々たる夜があるばかりである。",
+      "translation": "Dehors, il n'y avait que la nuit, noire et sans fond."
+    },
+    {
+      "id": "p00039.s1",
+      "original": "下人は、既に、雨（あめ）を冐（をか）して、京都の町へ强盜を働きに急いでゐた。",
+      "translation": "Le valet, lui, avait déjà bravé la pluie et courait dans la ville de Kyōto commettre des brigandages."
+    }
+  ]
+}

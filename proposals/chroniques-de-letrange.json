@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "chroniques-de-letrange",
+  "title": "Chroniques de l'étrange",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Texte de zh.wikisource « 聊齋志異 », 12 volumes ; édition non indiquée",
+    "pages": [
+      {
+        "title": "聊齋志異/第01卷",
+        "revisionId": 7908703
+      },
+      {
+        "title": "聊齋志異/第12卷",
+        "revisionId": 1120733
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "0003495998019365d954535a44060f1d52975d773f0e870b0189c27bdc43ab88"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Le grand-père de mon beau-frère, le seigneur Song Tao, était lettré pensionné du district. Un jour qu'il gisait malade, il vit un huissier qui, un mandat à la main, amenait un cheval à la tête blanche : « On vous prie de vous rendre à l'examen », dit-il. « Le grand examinateur n'est pas encore arrivé, dit le seigneur ; comment passerait-on déjà l'épreuve ? »",
+    "original": "予姊夫之祖，宋公諱燾，邑廩生。一日，病臥，見吏持牒牽白顛馬來，云：「請赴試。」公言：「文宗未臨，何遽得考？」",
+    "length": 360,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00273.s2",
+      "p00273.s3"
+    ],
+    "french": "Le pilon du battoir d'automne peut se saisir, sans plus pilonner le givre des nuits de lune ; l'eau des fossés du palais peut se confier à qui veut, sans qu'il faille le chant de Yunying. » Le responsable, admirant ce talent, le fit passer de la carrière civile à la carrière militaire, et il s'éleva plus tard jusqu'au rang de commissaire de la transmission.",
+    "original": "寒砧之杵可掬，不擣夜月之霜；御溝之水可託，無勞雲英之詠。」當事者奇其才，遂以文階換武階，後至通政使。",
+    "length": 359,
+    "truncated": false
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "formatVersion": 1,
+  "bookId": "cromwell",
+  "title": "Cromwell",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "édition non indiquée (page Wikisource « Cromwell », préface comprise)",
+    "pages": [
+      {
+        "title": "Cromwell",
+        "revisionId": 13425968
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "3296709ef6eb01d3158a23215df7424432548ca85dec7a29e123f8fec2c0d22a"
+  },
+  "titleMasks": [
+    "Cromwell",
+    "CROMWELL"
+  ],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00177",
+      "reason": "didascalie d'entrée non balisée (italique perdu), qui ouvrirait l'extrait sans locuteur ; ce n'est pas du texte dit"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00179",
+      "reason": "didascalie non balisée (italique perdu) au milieu d'une réplique, sans locuteur"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00178",
+      "name": "LORD BROGHILL",
+      "reason": "le nom du locuteur précède une didascalie exclue et n'a pas été rattaché à la réplique"
+    }
+  ],
+  "reviewFlags": [
+    "p00177 exclu, SANS doublon ailleurs dans l'œuvre : « Il entre par la porte du fond qui reste entr’ouverte et qui laisse apercevoir la place et les vieilles maisons éclairées… »",
+    "p00179 exclu, SANS doublon ailleurs dans l'œuvre : « Il regarde autour de lui. »"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00178.s1",
+      "p00180.s1"
+    ],
+    "french": "LORD BROGHILL. — « Demain, vingt-cinq juin mil six cent cinquante-sept,\n« Quelqu’un, que lord Broghill autrefois chérissait,\n« Attend de grand matin ledit lord aux Trois-Grues,\n« Près de la halle au vin, à l’angle des deux rues. »\n— Voilà bien la taverne ; — et c’est le même lieu\nQue Charle, à Worcester abandonné de Dieu,\nSeul, disputant sa tête après son diadème.",
+    "original": "LORD BROGHILL. — « Demain, vingt-cinq juin mil six cent cinquante-sept,\n« Quelqu’un, que lord Broghill autrefois chérissait,\n« Attend de grand matin ledit lord aux Trois-Grues,\n« Près de la halle au vin, à l’angle des deux rues. »\n— Voilà bien la taverne ; — et c’est le même lieu\nQue Charle, à Worcester abandonné de Dieu,\nSeul, disputant sa tête après son diadème.",
+    "length": 366,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p09190.s1",
+      "p09190.s2",
+      "p09190.s3",
+      "p09190.s4",
+      "p09190.s5",
+      "p09192.s1"
+    ],
+    "french": "OVERTON. — Rien ne lui manque enfin ! il a ce qu’il lui faut.\nNos efforts n’ont servi qu’à le placer plus haut.\nOn l’ose en vain braver ; on l’ose en vain combattre.\nIl peut, l’un après l’autre, à présent nous abattre ;\nIl inspire l’amour, il inspire l’effroi.\nIl doit être content.\n[TITRE]. — Quand donc serai-je roi ?",
+    "original": "OVERTON. — Rien ne lui manque enfin ! il a ce qu’il lui faut.\nNos efforts n’ont servi qu’à le placer plus haut.\nOn l’ose en vain braver ; on l’ose en vain combattre.\nIl peut, l’un après l’autre, à présent nous abattre ;\nIl inspire l’amour, il inspire l’effroi.\nIl doit être content.\nCROMWELL. — Quand donc serai-je roi ?",
+    "length": 320,
+    "truncated": false
+  }
+}

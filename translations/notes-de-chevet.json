@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "notes-de-chevet",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "067e823bf8710d6a2279194622e2bba0de9be603a4da707fa11656c285811df6",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "春は曙、やうやう白くなりゆく山ぎはすこしあかりて紫だちたる雲の細くたなびきたる。",
+      "translation": "Au printemps, l'aube. Peu à peu le sommet des monts blanchit, et de minces nuages teintés de pourpre s'étirent un peu éclairés."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "夏はよる、月のころはさらなり、闇もなほ螢飛びちがひたる、雨などの降るさへをかし。",
+      "translation": "En été, la nuit. Au clair de lune, bien sûr, mais même dans l'obscurité, quand les lucioles volent en tous sens, et même quand tombe la pluie, c'est charmant."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "秋は夕暮、夕日はなやかにさして、山ぎはいと近くなりたるに、鳥のねどころへゆくとて三つ四つ二つなど飛びゆくさへあはれなり。",
+      "translation": "En automne, le crépuscule. Quand le soleil couchant jette ses rayons et que sa lumière touche presque le bord des montagnes, les corbeaux qui regagnent leur nid, trois, quatre, deux, trois, filent à tire-d'aile, et cela même émeut."
+    },
+    {
+      "id": "p00004.s4",
+      "original": "まいて雁などのつらねたるがいとちひさく見ゆるいとをかし。",
+      "translation": "Plus encore, quand les oies sauvages en file apparaissent toutes petites, c'est un vrai charme."
+    },
+    {
+      "id": "p00004.s5",
+      "original": "日入りはてゝ風のおと蟲のねなどいとあはれなり。",
+      "translation": "Une fois le soleil tout à fait couché, le bruit du vent, le chant des insectes, tout émeut profondément."
+    },
+    {
+      "id": "p00004.s6",
+      "original": "冬は雪の降りたるはいふべきにもあらず。",
+      "translation": "En hiver, quand il a neigé, il n'y a rien à dire."
+    },
+    {
+      "id": "p00004.s7",
+      "original": "霜などのいと白く、又さらでもいと寒き、火などいそぎおこして炭もてわたるもいとつきづきし。",
+      "translation": "Le givre très blanc aussi, et même sans cela, par grand froid, on attise vite le feu et on porte le charbon à travers les galeries : cela s'accorde très bien à la saison."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00539.s5",
+      "original": "うへの御前には史記といふ文を書かせ給へる」などのたまはせしを「枕にこそはし侍らめ」と申しゝかば「さば得よ」とて賜はせたりしを、あやしきをこよや何やとつきせずおほかる紙の數を書きつくさむとせしに、いと物おぼえぬことぞおほかるや。",
+      "translation": "Quant à l'Empereur, il fait copier le Shiki », me dit-elle ; et je répondis : « J'en ferais bien mon oreiller. » — « Alors prends-le », dit-elle, et elle me le donna. Je me suis donc mise à écrire ceci et cela sur cette masse de papier inépuisable, et combien de choses étranges s'y trouvent !"
+    },
+    {
+      "id": "p00539.s6",
+      "original": "大かたこれは世の中にをかしき事を、人のめでたしなど思ふべき事、猶えり出でゝ歌などをも木草鳥蟲をもいひ出したらばこそ、思ふほどよりはわろし心見えなりともそしられめ、唯心ひとつにおのづから思ふことをたはぶれに書きつけたれば、物に立ちまじり、人なみなみなるべき耳をも聞くべきものかはと思ひしに、「はづかしき」なども見る人はのたまふなれば、いとあやしくぞあるや。",
+      "translation": "En somme, dans ce livre j'ai écrit pour mon plaisir ce qui me venait de l'esprit, sans choisir : ce que le monde trouve charmant, ce que les gens jugent beau, poèmes, herbes, arbres, oiseaux, insectes. Si l'on s'était mis à choisir, on m'aurait reproché de laisser voir mes pensées, et plus mal encore que je n'imaginais. Je n'avais jamais cru que cela dût être lu par des gens du monde, ni qu'on en dirait du bien ; pourtant ceux qui le lisent disent que ce livre est « admirable », ce qui me paraît bien étrange."
+    },
+    {
+      "id": "p00539.s7",
+      "original": "げにそれもことわり、人のにくむをも善しといひ、譽むるをも惡しといふは、心のほどこそおしはからるれ。",
+      "translation": "Certes, c'est naturel : trouver bon ce que les autres détestent, mauvais ce qu'ils louent, voilà bien ce qui révèle le cœur."
+    },
+    {
+      "id": "p00539.s8",
+      "original": "唯人に見えけむぞねたきや。",
+      "translation": "Que d'autres l'aient vu, voilà ce qui m'est pénible."
+    }
+  ]
+}

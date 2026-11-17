@@ -1,0 +1,75 @@
+{
+  "formatVersion": 1,
+  "bookId": "zhuangzi",
+  "title": "Zhuangzi",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "édition non indiquée (pages « 莊子/逍遙遊 » et « 莊子/天下 » de la Wikisource en chinois ; seuls le premier et le dernier chapitre sont enregistrés)",
+    "pages": [
+      {
+        "title": "莊子/逍遙遊",
+        "revisionId": 12969977
+      },
+      {
+        "title": "莊子/天下",
+        "revisionId": 11117721
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ec835efb78c250387224f98c4142ea8891da537068237e809cee495595e19512"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "摶扶一作「抉」搖而上者九萬里，去以",
+      "replace": "摶扶搖而上者九萬里，去以",
+      "reason": "Variante d'éditeur « 一作「抉」 » insérée dans le texte par Wikisource, qui n'est pas du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00020",
+      "find": "一蚊一作「蚉」一虻一作「䖟」之勞者也",
+      "replace": "一蚊一虻之勞者也",
+      "reason": "Variantes d'éditeur « 一作「蚉」 » et « 一作「䖟」 » insérées dans le texte par Wikisource, qui ne sont pas du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00020",
+      "find": "有畸一作「倚」人焉",
+      "replace": "有畸人焉",
+      "reason": "Variante d'éditeur « 一作「倚」 » insérée dans le texte par Wikisource, qui n'est pas du texte lu"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00001.s3"
+    ],
+    "french": "Dans la mer du Nord vit un poisson nommé Kun. Kun est si grand qu'on ne sait combien de milliers de li il mesure ; il se change en oiseau, nommé Peng. Le dos de Peng est si large qu'on ne sait combien de milliers de li il couvre ; quand il s'élance dans son vol, ses ailes sont comme des nuages qui pendent du ciel.",
+    "original": "北冥有魚，其名爲鯤。鯤之大，不知其幾千里也，化而爲鳥，其名爲鵬。鵬之背，不知其幾千里也，怒而飛，其翼若垂天之雲。",
+    "length": 315,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00020.s7",
+      "p00020.s8",
+      "p00020.s9",
+      "p00020.s10"
+    ],
+    "french": "Mais Hui Shi ne sut pas s'en contenter pour trouver la paix ; il se dispersa parmi tous les êtres sans jamais se lasser, et ne dut sa renommée qu'à son habileté de dialecticien. Hélas, quel talent que celui de Hui Shi ! Il se dissipait sans rien atteindre, poursuivait les êtres sans jamais revenir : c'était vouloir épuiser l'écho par la voix, faire courir le corps contre son ombre. Quelle tristesse !",
+    "original": "惠施不能以此自寧，散於萬物而不厭，卒以善辯爲名。惜乎，惠施之才！駘蕩而不得，逐萬物而不反，是窮響以聲，形與影競走也。悲夫！",
+    "length": 403,
+    "truncated": false
+  }
+}

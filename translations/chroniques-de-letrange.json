@@ -1,0 +1,117 @@
+{
+  "formatVersion": 1,
+  "bookId": "chroniques-de-letrange",
+  "sourceLanguage": "zh",
+  "cleanTextSha256": "0003495998019365d954535a44060f1d52975d773f0e870b0189c27bdc43ab88",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "予姊夫之祖，宋公諱燾，邑廩生。",
+      "translation": "Le grand-père de mon beau-frère, le seigneur Song Tao, était lettré pensionné du district."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "一日，病臥，見吏持牒牽白顛馬來，云：「請赴試。」",
+      "translation": "Un jour qu'il gisait malade, il vit un huissier qui, un mandat à la main, amenait un cheval à la tête blanche : « On vous prie de vous rendre à l'examen », dit-il."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "公言：「文宗未臨，何遽得考？」",
+      "translation": "« Le grand examinateur n'est pas encore arrivé, dit le seigneur ; comment passerait-on déjà l'épreuve ? »"
+    },
+    {
+      "id": "p00002.s4",
+      "original": "吏不言，但敦促之。",
+      "translation": "L'huissier ne répondit pas et se contenta de le presser."
+    },
+    {
+      "id": "p00002.s5",
+      "original": "公力疾乘馬從去，路甚生疎，至一城郭，如王者都。",
+      "translation": "Le seigneur, faisant effort malgré son mal, monta en selle et suivit ; la route lui était tout à fait inconnue, et il parvint à une ville fortifiée semblable à la capitale d'un roi."
+    },
+    {
+      "id": "p00002.s6",
+      "original": "移時，入府廨，宮室壯麗，上坐十餘官，都不知何人，惟關壯繆可識。",
+      "translation": "Après un moment, il entra dans une salle d'audience aux bâtiments somptueux, où siégeaient plus de dix officiers dont il ne connaissait aucun, sauf Guan Zhuangmiu qu'il put reconnaître."
+    },
+    {
+      "id": "p00002.s7",
+      "original": "簷下設几墩各二，先有一秀才坐其末，公便與連肩。",
+      "translation": "Sous l'avant-toit étaient disposées deux tables et deux tabourets ; un lettré, déjà assis au bout, fit place au seigneur, qui s'assit à son côté."
+    },
+    {
+      "id": "p00002.s8",
+      "original": "几上各有筆札，俄題紙飛下，視之，八字云：「一人二人，有心無心。」",
+      "translation": "Sur chaque table se trouvaient un pinceau et du papier ; soudain un sujet d'épreuve vola jusqu'à eux, et il y lut ces huit caractères : « Un homme, deux hommes ; un cœur, pas de cœur. »"
+    },
+    {
+      "id": "p00002.s9",
+      "original": "二公文成，呈殿上，公文中有云：「有心為善，雖善不賞；無心為惡，雖惡不罰。」",
+      "translation": "Les deux concurrents achevèrent leur composition et la présentèrent au pied de la salle ; celle du seigneur disait entre autres : « Qui fait le bien avec intention, même bon, n'est pas récompensé ; qui fait le mal sans intention, même mauvais, n'est pas puni. »"
+    },
+    {
+      "id": "p00003.s1",
+      "original": "諸神傳讚不已，召公上，諭曰：「河南缺一城隍，君稱其職。」",
+      "translation": "Les divinités ne cessèrent de la louer, et, appelant le seigneur à monter, lui dirent : « Il manque un dieu tutélaire de la ville au Henan : vous convenez à cette charge. »"
+    },
+    {
+      "id": "p00003.s2",
+      "original": "公方悟，頓首泣曰：「辱膺寵命，何敢多辭！",
+      "translation": "Le seigneur comprit alors ; se prosternant, il dit en pleurant : « Cet honneur que vous me faites, comment oserais-je le décliner de nombreuses fois !"
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00269.s6",
+      "original": "寺眾大駭，優禮而散。",
+      "translation": "Les moines, frappés de stupeur, le comblèrent d'égards puis se dispersèrent."
+    },
+    {
+      "id": "p00271.s1",
+      "original": "博邑有鄉民王茂才，早赴田。",
+      "translation": "Dans le district de Boxing, un paysan nommé Wang, bachelier, se rendit un matin à ses champs."
+    },
+    {
+      "id": "p00271.s2",
+      "original": "田畔拾一小兒，四五歲，貌豐美而言笑巧妙。",
+      "translation": "Au bord d'un champ, il trouva un petit enfant de quatre ou cinq ans, au beau visage et au parler plein de grâce."
+    },
+    {
+      "id": "p00271.s3",
+      "original": "歸家子之，靈通非常。",
+      "translation": "Il le ramena chez lui et l'adopta ; l'enfant avait des dons extraordinaires."
+    },
+    {
+      "id": "p00271.s4",
+      "original": "至四五年後，有一僧至其家，兒見之，驚避無蹤。",
+      "translation": "Quatre ou cinq ans plus tard, un moine vint chez lui ; l'enfant, l'ayant vu, s'enfuit effrayé et disparut."
+    },
+    {
+      "id": "p00271.s5",
+      "original": "僧告鄉民曰：「此兒乃華山池中五百小龍之一，竊逃於此。」",
+      "translation": "Le moine dit au paysan : « Cet enfant est l'un des cinq cents petits dragons de l'étang du mont Hua ; il s'est échappé et s'est réfugié ici. »"
+    },
+    {
+      "id": "p00271.s6",
+      "original": "遂出一缽，注水其中，宛一小白蛇遊衍於內，袖缽而去。",
+      "translation": "Il sortit alors un bol, y versa de l'eau, où l'on vit s'ébattre un petit serpent blanc, puis, le bol dans sa manche, il s'en alla."
+    },
+    {
+      "id": "p00273.s1",
+      "original": "仕宦中有妹養宮中而字貴人者，有將官某代作啟，中警句云：「令弟從長，奕世近龍光，貂珥曾參于畫室；舍妹夫人，十年陪鳳輦，霓裳遂燦于朝霞。",
+      "translation": "Parmi les gens en place, il y en avait un dont la sœur, élevée au palais, avait reçu le rang de dame de cour ; un officier militaire rédigea pour lui un compliment dont un passage frappant disait : « Votre frère cadet, d'une longue lignée, a vu de génération en génération l'éclat des dragons, et ses ornements de loutre ont paré les chambres peintes ; votre sœur, épouse de dame, a dix ans durant accompagné le char du phénix, et ses robes d'arc-en-ciel ont resplendi dans les lueurs de l'aurore."
+    },
+    {
+      "id": "p00273.s2",
+      "original": "寒砧之杵可掬，不擣夜月之霜；御溝之水可託，無勞雲英之詠。」",
+      "translation": "Le pilon du battoir d'automne peut se saisir, sans plus pilonner le givre des nuits de lune ; l'eau des fossés du palais peut se confier à qui veut, sans qu'il faille le chant de Yunying. »"
+    },
+    {
+      "id": "p00273.s3",
+      "original": "當事者奇其才，遂以文階換武階，後至通政使。",
+      "translation": "Le responsable, admirant ce talent, le fit passer de la carrière civile à la carrière militaire, et il s'éleva plus tard jusqu'au rang de commissaire de la transmission."
+    }
+  ]
+}

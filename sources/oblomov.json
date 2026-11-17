@@ -1,0 +1,41 @@
+{
+  "formatVersion": 1,
+  "bookId": "oblomov",
+  "title": "Oblomov",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Wikisource russe, « Обломов (Гончаров) », partie 1 ch. 1 et partie 4 ch. 11 ; édition source non indiquée",
+  "pages": [
+    {
+      "title": "Обломов (Гончаров)/Часть 1/Глава 1",
+      "revisionId": 5642424
+    },
+    {
+      "title": "Обломов (Гончаров)/Часть 4/Глава 11",
+      "revisionId": 5646288
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c354dfe6d54dbe11d513d10622bede05b177e5c67c4e5b0dc896283e8d993f28",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "В Гороховой улице, в одном из больших домов, народонаселения"
+  },
+  "bodyEnd": {
+    "id": "p00197",
+    "textPrefix": "И он рассказал ему, что здесь написано."
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : dates « 1857 и 1858 гг. » et section « Примечания » ; ouverture au 1er paragraphe de la partie 1, fin à la dernière réplique du ch. 11 de la partie 4."
+  ],
+  "titleMasks": [
+    "Oblomov",
+    "oblomovisme"
+  ],
+  "readingOptions": []
+}

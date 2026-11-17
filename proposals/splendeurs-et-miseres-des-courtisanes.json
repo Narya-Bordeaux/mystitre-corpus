@@ -1,0 +1,50 @@
+{
+  "formatVersion": 1,
+  "bookId": "splendeurs-et-miseres-des-courtisanes",
+  "title": "Splendeurs et misères des courtisanes",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, pages « Première partie » et « Quatrième partie » de Splendeurs et misères des courtisanes (édition non indiquée en en-tête)",
+    "pages": [
+      {
+        "title": "Splendeurs et misères des courtisanes/Première partie",
+        "revisionId": 4388849
+      },
+      {
+        "title": "Splendeurs et misères des courtisanes/Quatrième partie",
+        "revisionId": 4398267
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "6532bff86c59d852745e148365c26ec3aa76d2de33b13df34274b23cc4d71e9e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00008.s1",
+      "p00008.s2"
+    ],
+    "french": "En 1824, au dernier bal de l’Opéra, plusieurs masques furent frappés de la beauté d’un jeune homme qui se promenait dans les corridors et dans le foyer, avec l’allure des gens en quête d’une femme retenue au logis par des circonstances imprévues. Le secret de cette démarche, tour à tour indolente et pressée, n’est connu que des vieilles femmes et de quelques flâneurs émérites.",
+    "original": "En 1824, au dernier bal de l’Opéra, plusieurs masques furent frappés de la beauté d’un jeune homme qui se promenait dans les corridors et dans le foyer, avec l’allure des gens en quête d’une femme retenue au logis par des circonstances imprévues. Le secret de cette démarche, tour à tour indolente et pressée, n’est connu que des vieilles femmes et de quelques flâneurs émérites.",
+    "length": 379,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p02016.s1",
+      "p02017.s1",
+      "p02018.s1"
+    ],
+    "french": "Le produit de l’inscription de rentes vendues par Esther Gobseck fut trouvé dans le lit de la courtisane, et monsieur de Sérisy fit attribuer à Jacques Collin les trois cent mille francs qui lui étaient légués par le testament de Lucien de Rubempré.\nLe monument ordonné par Lucien, pour Esther et pour lui, passe pour être un des plus beaux du Père-Lachaise, et le terrain au-dessous appartient à Jacques Collin.\nAprès avoir exercé ses fonctions pendant environ quinze ans, Jacques Collin s’est retiré vers 1845.",
+    "original": "Le produit de l’inscription de rentes vendues par Esther Gobseck fut trouvé dans le lit de la courtisane, et monsieur de Sérisy fit attribuer à Jacques Collin les trois cent mille francs qui lui étaient légués par le testament de Lucien de Rubempré.\nLe monument ordonné par Lucien, pour Esther et pour lui, passe pour être un des plus beaux du Père-Lachaise, et le terrain au-dessous appartient à Jacques Collin.\nAprès avoir exercé ses fonctions pendant environ quinze ans, Jacques Collin s’est retiré vers 1845.",
+    "length": 512,
+    "truncated": false
+  }
+}

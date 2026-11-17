@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-fourberies-de-scapin",
+  "title": "Les Fourberies de Scapin",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Fourberies de Scapin, « Édition Louandre, 1910 » sur fr.wikisource (Œuvres complètes de Molière) ; seuls l'acte I et l'acte III sont enregistrés",
+    "pages": [
+      {
+        "title": "Les Fourberies de Scapin/Édition Louandre, 1910/Acte I",
+        "revisionId": 13627199
+      },
+      {
+        "title": "Les Fourberies de Scapin/Édition Louandre, 1910/Acte III",
+        "revisionId": 13627203
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ce3adf0903467502c82aca241c6fbbb26c6948d8472e39e04adcf9ed6cd502bd"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3",
+      "p00005.s1",
+      "p00006.s1",
+      "p00007.s1",
+      "p00008.s1"
+    ],
+    "french": "OCTAVE. — Ah ! fâcheuses nouvelles pour un cœur amoureux ! Dures extrémités où je me vois réduit ! Tu viens, Sylvestre, d’apprendre au port, que mon père revient ?\nSYLVESTRE. — Oui.\nOCTAVE. — Qu’il arrive ce matin même ?\nSYLVESTRE. — Ce matin même.\nOCTAVE. — Et qu’il revient dans la résolution de me marier ?",
+    "original": "OCTAVE. — Ah ! fâcheuses nouvelles pour un cœur amoureux ! Dures extrémités où je me vois réduit ! Tu viens, Sylvestre, d’apprendre au port, que mon père revient ?\nSYLVESTRE. — Oui.\nOCTAVE. — Qu’il arrive ce matin même ?\nSYLVESTRE. — Ce matin même.\nOCTAVE. — Et qu’il revient dans la résolution de me marier ?",
+    "length": 309,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00509.s2",
+      "p00510.s1",
+      "p00511.s1",
+      "p00512.s1",
+      "p00513.s1"
+    ],
+    "french": "SCAPIN. — Voilà mes foiblesses qui me reprennent.\nARGANTE. — Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.\nGÉRONTE. — Soit.\nARGANTE. — Allons souper ensemble, pour mieux goûter notre plaisir.\nSCAPIN. — Et moi, qu’on me porte au bout de la table, en attendant que je meure.",
+    "original": "SCAPIN. — Voilà mes foiblesses qui me reprennent.\nARGANTE. — Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.\nGÉRONTE. — Soit.\nARGANTE. — Allons souper ensemble, pour mieux goûter notre plaisir.\nSCAPIN. — Et moi, qu’on me porte au bout de la table, en attendant que je meure.",
+    "length": 307,
+    "truncated": false
+  }
+}

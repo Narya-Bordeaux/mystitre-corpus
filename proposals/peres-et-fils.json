@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "peres-et-fils",
+  "title": "Pères et Fils",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "inconnu (non indiqué par Wikisource)",
+    "translationYear": 1863,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (inconnu (non indiqué par Wikisource), 1863)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Pères et Enfants, par Ivan Tourguenef, précédé d'une lettre à l'éditeur par Prosper Mérimée, Paris, Charpentier, 1863 (fr.wikisource)",
+    "pages": [
+      {
+        "title": "Pères et Enfants/01",
+        "revisionId": 5967234
+      },
+      {
+        "title": "Pères et Enfants/26",
+        "revisionId": 6016007
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "19551807b6cb3e158e0fccfdeeac0e378f03e7aebc400098735dc843fe154ea2"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3"
+    ],
+    "french": "« Eh bien ! Pierre, rien ne vient encore ? » demandait, le 20 mai 1859, un homme de quarante-cinq ans environ, vêtu d’un paletot et d’un pantalon à carreaux couvert de poussière, debout, nu tête, sur le seuil d’une auberge de la grand’route de X, en Russie. Le domestique auquel il adressait cette question était un jeune blondin aux joues pleines, aux petits yeux ternes, au menton rond, couvert d’un duvet incolore.",
+    "original": "« Eh bien ! Pierre, rien ne vient encore ? » demandait, le 20 mai 1859, un homme de quarante-cinq ans environ, vêtu d’un paletot et d’un pantalon à carreaux couvert de poussière, debout, nu tête, sur le seuil d’une auberge de la grand’route de X, en Russie. Le domestique auquel il adressait cette question était un jeune blondin aux joues pleines, aux petits yeux ternes, au menton rond, couvert d’un duvet incolore.",
+    "length": 417,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00030.s10"
+    ],
+    "french": "Quelque passionné, quelque révolté que soit le cœur qui repose dans une tombe, les fleurs qui ont poussé sur elle nous regardent paisiblement de leurs yeux innocents ; elles ne nous parlent pas seulement du repos éternel, de ce parfait repos de la nature « indifférente ; » elles nous parlent aussi de l’éternelle réconciliation et d’une vie qui ne doit pas finir.",
+    "original": "Quelque passionné, quelque révolté que soit le cœur qui repose dans une tombe, les fleurs qui ont poussé sur elle nous regardent paisiblement de leurs yeux innocents ; elles ne nous parlent pas seulement du repos éternel, de ce parfait repos de la nature « indifférente ; » elles nous parlent aussi de l’éternelle réconciliation et d’une vie qui ne doit pas finir.",
+    "length": 364,
+    "truncated": false
+  }
+}

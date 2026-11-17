@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "confessions-rousseau",
+  "title": "Les Confessions",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Confessions (Wikisource, page « Les Confessions (Rousseau) », livres I et XII ; édition non indiquée)",
+  "pages": [
+    {
+      "title": "Les Confessions (Rousseau)/Livre I",
+      "revisionId": 12221798
+    },
+    {
+      "title": "Les Confessions (Rousseau)/Livre XII",
+      "revisionId": 12247454
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "64fa1a4f94b2f3f5011640a72eb59eec36e201ebf427a1965407283ab4f40a11",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "e forme une entreprise qui n’eut jamais d’exemple, et dont l"
+  },
+  "bodyEnd": {
+    "id": "p00235",
+    "textPrefix": "J’achevai ainsi ma lecture, et tout le monde se tut. Madame "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Corps : de la première phrase du livre I (« Je forme une entreprise… ») à la dernière du livre XII. Exclus : intitulés de livres et dates, préface de Jules Claretie (paratexte d'éditeur, non enregistrée)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "e forme une entreprise",
+      "replace": "Je forme une entreprise",
+      "reason": "Lettrine en image absente de la numérisation : le « J » initial manque (« e forme » pour « Je forme »)."
+    }
+  ]
+}

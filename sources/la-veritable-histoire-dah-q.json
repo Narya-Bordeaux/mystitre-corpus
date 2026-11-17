@@ -1,0 +1,37 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-veritable-histoire-dah-q",
+  "title": "La Véritable Histoire d'Ah Q",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Édition non indiquée (texte de la page « 阿Q正傳 » de zh.wikisource ; parution en feuilleton 1921-1922 selon la page)",
+  "pages": [
+    {
+      "title": "阿Q正傳",
+      "revisionId": 2633268
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "39b8b6905e6f43e49d286bb90569431b321031b99d7f3f5223db8450e8cc7b99",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "我要給阿Q做正傳，已經不止一兩年了。但一面要做，一面又往回想，這足見我不是一個『立言』的人，因爲從來不朽之筆，須傳不朽之"
+  },
+  "bodyEnd": {
+    "id": "p00317",
+    "textPrefix": "至于輿論，在未莊是無異議，自然都說阿Q壞，被鎗斃便是他的壞的證據；不壞又何至于被鎗斃呢？而城裏的輿論卻不佳，他們多半不滿"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de chapitre (headings), date « 一九二一年十二月 » et bandeaux de licence/notes Wikisource. Le premier paragraphe du chapitre « 序 » est le début du récit."
+  ],
+  "titleMasks": [
+    "véritable histoire d'Ah Q",
+    "Ah Q"
+  ],
+  "readingOptions": []
+}

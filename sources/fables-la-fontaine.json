@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "fables-la-fontaine",
+  "title": "Les Fables",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Fables de La Fontaine (éd. 1874), Wikisource ; première fable (Livre I) et dernière (Livre XII)",
+  "pages": [
+    {
+      "title": "Fables de La Fontaine (éd. 1874)/La Cigale et la Fourmi",
+      "revisionId": 13176453
+    },
+    {
+      "title": "Fables de La Fontaine (éd. 1874)/Le Juge Arbitre, l’Hospitalier et le Solitaire",
+      "revisionId": 12789496
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c8c2ae78d9aeee9a1dd718a173f4a7847784bacf4764ea2635743c8db0b95526",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "La cigale, ayant chanté\nTout l’été,\nSe trouva fort dépourvue"
+  },
+  "bodyEnd": {
+    "id": "p00008",
+    "textPrefix": "Les honneurs et le gain, tout me le persuade.\nCependant on s"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intitulés de livre et de fable, mention « FIN DES FABLES ». Début : première fable (La Cigale et la Fourmi) ; fin : dernière fable du recueil (Le Juge arbitre, l'Hospitalier et le Solitaire). La dédicace « À Monseigneur le Dauphin » est du paratexte."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

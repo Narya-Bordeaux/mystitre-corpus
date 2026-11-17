@@ -1,0 +1,45 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-cousine-bette",
+  "title": "La Cousine Bette",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Cousine Bette, page « La Cousine Bette (ed. Houssiaux) » de Wikisource (Œuvres complètes de H. de Balzac, tome 17)",
+    "pages": [
+      {
+        "title": "La Cousine Bette (ed. Houssiaux)",
+        "revisionId": 12041633
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "5a9113de0cc32bc9b48788c3bf27f1853482be8806722e855a1d030cd836ac61"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00002.s1"
+    ],
+    "french": "Vers le milieu du mois de juillet de l’année 1838, une de ces voitures nouvellement mises en circulation sur les places de Paris et nommées des milords, cheminait, rue de l’Université, portant un gros homme de taille moyenne, en uniforme de capitaine de la garde nationale.\nDans le nombre de ces Parisiens accusés d’être si spirituels, il s’en trouve qui se croient infiniment mieux en uniforme que dans leurs habits ordinaires, et qui supposent chez les femmes des goûts assez dépravés pour imaginer qu’elles seront favorablement impressionnées à l’aspect d’un bonnet à poil et par le harnais…",
+    "original": "Vers le milieu du mois de juillet de l’année 1838, une de ces voitures nouvellement mises en circulation sur les places de Paris et nommées des milords, cheminait, rue de l’Université, portant un gros homme de taille moyenne, en uniforme de capitaine de la garde nationale.\nDans le nombre de ces Parisiens accusés d’être si spirituels, il s’en trouve qui se croient infiniment mieux en uniforme que dans leurs habits ordinaires, et qui supposent chez les femmes des goûts assez dépravés pour imaginer qu’elles seront favorablement impressionnées à l’aspect d’un bonnet à poil et par le harnais militaire.",
+    "length": 593,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p03091.s2",
+      "p03092.s1"
+    ],
+    "french": "Onze mois après, Victorin apprit indirectement le mariage de son père avec mademoiselle Agathe Piquetard, qui s’était célébré à Isigny, le premier février mil huit cent quarante-six.\n— Les ancêtres peuvent s’opposer au mariage de leurs enfants, mais les enfants ne peuvent pas empêcher les folies des ancêtres en enfance, dit maître Hulot à maître Popinot, le second fils de l’ancien ministre du commerce, qui lui parlait de ce mariage.",
+    "original": "Onze mois après, Victorin apprit indirectement le mariage de son père avec mademoiselle Agathe Piquetard, qui s’était célébré à Isigny, le premier février mil huit cent quarante-six.\n— Les ancêtres peuvent s’opposer au mariage de leurs enfants, mais les enfants ne peuvent pas empêcher les folies des ancêtres en enfance, dit maître Hulot à maître Popinot, le second fils de l’ancien ministre du commerce, qui lui parlait de ce mariage.",
+    "length": 436,
+    "truncated": false
+  }
+}

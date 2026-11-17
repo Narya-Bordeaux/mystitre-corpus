@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-pavillon-aux-pivoines",
+  "title": "Le Pavillon aux pivoines",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Texte de zh.wikisource « 牡丹亭 » (55 scènes) ; édition non indiquée",
+    "pages": [
+      {
+        "title": "牡丹亭/標目",
+        "revisionId": 7913591
+      },
+      {
+        "title": "牡丹亭/圓駕",
+        "revisionId": 8057249
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2c19e411920f91f213124dbce667fd97782199dfe3d991736bb4c4f0e4f6349d"
+  },
+  "titleMasks": [
+    "pavillon aux pivoines"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00001.s3"
+    ],
+    "french": "【Air « Diélianhua »】 (Le rôle « mo » entre en scène) Je quitte les lieux de l'agitation pour demeurer dans ceux du loisir. J'ai beau réfléchir de cent façons : nulle part je ne trouve la joie. Les jours s'écoulent à composer des vers à me briser le cœur ; en ce monde, seul le sentiment ne se laisse pas dire.",
+    "original": "【蝶戀花】(末上)忙處拋人閒處住。百計思量，沒箇為歡處。白日消磨腸斷句，世間只有情難訴。",
+    "length": 309,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00017.s3",
+      "p00018.s1",
+      "p00018.s2",
+      "p00018.s3"
+    ],
+    "french": "Ayant reçu les décrets du monde des vivants, ils vont rendre leur congé aux Enfers.\n【Air « Beiwei »】 (Le jeune premier) Désormais, du [TITRE] nous peindrons à deux l'ombre du rêve. (La jeune fille) Grâce à toi, la branche du sud se réchauffe, et celle du nord fleurit pour moi. Parmi tous les esprits du monde, qui donc aima autant que nous !",
+    "original": "領陽間誥敕，去陰司銷假。\n【北尾】(生)從今後把牡丹亭夢影雙描畫。(旦)虧殺你南枝挨暖俺北枝花。則普天下做鬼的有情誰似咱！",
+    "length": 356,
+    "truncated": false
+  }
+}

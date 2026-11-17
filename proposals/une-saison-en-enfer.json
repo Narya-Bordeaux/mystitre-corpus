@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "une-saison-en-enfer",
+  "title": "Une saison en enfer",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, « Une saison en enfer (1873) », pages « Jadis, si je me souviens bien… » (prologue) et « Adieu » ; édition originale de 1873 d'après le titre de la page",
+    "pages": [
+      {
+        "title": "Une saison en enfer (1873)/« Jadis, si je me souviens bien… »",
+        "revisionId": 13176433
+      },
+      {
+        "title": "Une saison en enfer (1873)/Adieu",
+        "revisionId": 13176440
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "88b9fa883ec5d1755a55c1afd4a1a4951428ba49d74d09c7ad903ab977b2a92c"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00003.s1",
+      "p00003.s2",
+      "p00003.s3",
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "« Jadis, si je me souviens bien, ma vie était un festin où s’ouvraient tous les cœurs, où tous les vins coulaient.\nUn soir, j’ai assis la Beauté sur mes genoux. — Et je l’ai trouvée amère. — Et je l’ai injuriée.\nJe me suis armé contre la justice.\nJe me suis enfui. Ô sorcières, ô misère, ô haine, c’est à vous que mon trésor a été confié !",
+    "original": "« Jadis, si je me souviens bien, ma vie était un festin où s’ouvraient tous les cœurs, où tous les vins coulaient.\nUn soir, j’ai assis la Beauté sur mes genoux. — Et je l’ai trouvée amère. — Et je l’ai injuriée.\nJe me suis armé contre la justice.\nJe me suis enfui. Ô sorcières, ô misère, ô haine, c’est à vous que mon trésor a été confié !",
+    "length": 339,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00026.s3",
+      "p00027.s1",
+      "p00027.s2"
+    ],
+    "french": "Et à l’aurore, armés d’une ardente patience, nous entrerons aux splendides villes.\nQue parlais-je de main amie ! Un bel avantage, c’est que je puis rire des vieilles amours mensongères, et frapper de honte ces couples menteurs, — j’ai vu l’enfer des femmes là-bas ; — et il me sera loisible de posséder la vérité dans une âme et un corps.",
+    "original": "Et à l’aurore, armés d’une ardente patience, nous entrerons aux splendides villes.\nQue parlais-je de main amie ! Un bel avantage, c’est que je puis rire des vieilles amours mensongères, et frapper de honte ces couples menteurs, — j’ai vu l’enfer des femmes là-bas ; — et il me sera loisible de posséder la vérité dans une âme et un corps.",
+    "length": 338,
+    "truncated": false
+  }
+}

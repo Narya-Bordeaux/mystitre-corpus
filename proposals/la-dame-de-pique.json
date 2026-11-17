@@ -1,0 +1,55 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-dame-de-pique",
+  "title": "La Dame de pique",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Prosper Mérimée",
+    "translationYear": 1849,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Prosper Mérimée, 1849)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Dame de Pique, de Pouchkine, traduite par Prosper Mérimée, Revue des Deux Mondes, 1849, tome 3 (fr.wikisource)",
+    "pages": [
+      {
+        "title": "La Dame de Pique, de Pouchkine",
+        "revisionId": 13858051
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "052b1a195cf7d80f4a5be1e7e9e56e8f7f146c13cef80a2d45e07fba614e98e5"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3",
+      "p00004.s4"
+    ],
+    "french": "On jouait chez Naroumof, lieutenant aux gardes à cheval. Une longue nuit d’hiver s’était écoulée sans que personne s’en aperçût, et il était cinq heures du matin quand on servit le souper. Les gagnans se mirent à table avec grand appétit ; pour les autres, ils regardaient leurs assiettes vides. Peu à peu néanmoins, le vin de Champagne aidant, la conversation s’anima et devint générale.",
+    "original": "On jouait chez Naroumof, lieutenant aux gardes à cheval. Une longue nuit d’hiver s’était écoulée sans que personne s’en aperçût, et il était cinq heures du matin quand on servit le souper. Les gagnans se mirent à table avec grand appétit ; pour les autres, ils regardaient leurs assiettes vides. Peu à peu néanmoins, le vin de Champagne aidant, la conversation s’anima et devint générale.",
+    "length": 388,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00199.s1",
+      "p00199.s2",
+      "p00199.s3",
+      "p00200.s1",
+      "p00200.s2"
+    ],
+    "french": "Lisabeta Ivanovna vient d’épouser un jeune homme très aimable, fils de l’intendant de la défunte comtesse. Il a une bonne place, et c’est un garçon fort rangé. Lisabeta a pris chez elle une pauvre parente dont elle fait l’éducation.\nTomski a passé chef d’escadron. Il a épousé la princesse Pauline ***.",
+    "original": "Lisabeta Ivanovna vient d’épouser un jeune homme très aimable, fils de l’intendant de la défunte comtesse. Il a une bonne place, et c’est un garçon fort rangé. Lisabeta a pris chez elle une pauvre parente dont elle fait l’éducation.\nTomski a passé chef d’escadron. Il a épousé la princesse Pauline ***.",
+    "length": 302,
+    "truncated": false
+  }
+}

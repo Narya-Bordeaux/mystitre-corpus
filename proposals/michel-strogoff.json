@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "bookId": "michel-strogoff",
+  "title": "Michel Strogoff",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, Michel Strogoff (édition non indiquée), partie 1 chapitre 1 et partie 2 chapitre 15",
+    "pages": [
+      {
+        "title": "Michel Strogoff/Partie 1/Chapitre 1",
+        "revisionId": 12398492
+      },
+      {
+        "title": "Michel Strogoff/Partie 2/Chapitre 15",
+        "revisionId": 12463982
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "2f8871ad7ce38244ae893240773f8f2e49242e569cad630f2f379da6483c27e5"
+  },
+  "titleMasks": [
+    "Michel Strogoff"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1",
+      "p00005.s1",
+      "p00006.s1",
+      "p00007.s1",
+      "p00008.s1",
+      "p00009.s1",
+      "p00010.s1"
+    ],
+    "french": "« Sire, une nouvelle dépêche.\n— D’où vient-elle ?\n— De Tomsk.\n— Le fil est coupé au delà de cette ville ?\n— Il est coupé depuis hier.\n— D’heure en heure, général, fais passer un télégramme à Tomsk, et que l’on me tienne au courant.\n— Oui, sire, » répondit le général Kissoff.\nCes paroles étaient échangées à deux heures du matin, au moment où la fête, donnée au Palais-Neuf, était dans toute sa magnificence.",
+    "original": "« Sire, une nouvelle dépêche.\n— D’où vient-elle ?\n— De Tomsk.\n— Le fil est coupé au delà de cette ville ?\n— Il est coupé depuis hier.\n— D’heure en heure, général, fais passer un télégramme à Tomsk, et que l’on me tienne au courant.\n— Oui, sire, » répondit le général Kissoff.\nCes paroles étaient échangées à deux heures du matin, au moment où la fête, donnée au Palais-Neuf, était dans toute sa magnificence.",
+    "length": 408,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00142.s1",
+      "p00143.s1",
+      "p00143.s2"
+    ],
+    "french": "Le jeune courrier avait été reçu par le czar, qui l’attacha spécialement à sa personne et lui remit la croix de Saint-Georges.\n[TITRE] arriva, par la suite, à une haute situation dans l’empire. Mais ce n’est pas l’histoire de ses succès, c’est l’histoire de ses épreuves qui méritait d’être racontée.",
+    "original": "Le jeune courrier avait été reçu par le czar, qui l’attacha spécialement à sa personne et lui remit la croix de Saint-Georges.\nMichel Strogoff arriva, par la suite, à une haute situation dans l’empire. Mais ce n’est pas l’histoire de ses succès, c’est l’histoire de ses épreuves qui méritait d’être racontée.",
+    "length": 308,
+    "truncated": false
+  }
+}

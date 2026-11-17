@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dit-du-genji",
+  "title": "Le Dit du Genji",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ja.wikisource.org",
+    "edition": "源氏物語 (國文大觀), 上・下, d'après Wikisource japonais",
+    "pages": [
+      {
+        "title": "源氏物語 (國文大觀)/上",
+        "revisionId": 195338
+      },
+      {
+        "title": "源氏物語 (國文大觀)/下",
+        "revisionId": 195339
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "1903d6dd2ed51fbb0d97faa1a59d9c6e5b7d5d61a39ef8049a3990de63781870"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "Sous le règne de quel empereur était-ce ? Parmi les épouses et les dames de la chambre, nombreuses à son service, il y en avait une, qui n'était pas de très haut rang, mais que Sa Majesté favorisait plus que toute autre. Celles qui, dès l'origine, avaient nourri l'orgueilleuse prétention d'être les préférées la regardaient d'un mauvais œil, la méprisant et l'enviant.",
+    "original": "いづれのおほん時にか、女御更衣あまたさぶらひたまひける中に、いとやんごとなききはにはあらぬが優れて時めきたまふ有りけり。始より我はと思ひあがりたまへるおほん方々、めざましきものにおとしめ猜みたまふ。",
+    "length": 369,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00975.s19"
+    ],
+    "french": "Celui-ci l'attendait avec impatience ; il vit revenir son messager avec un récit si confus qu'il en fut plus déçu que s'il n'avait rien tenté, et il se mit à penser mille choses, se demandant si quelqu'un ne la tenait pas cachée, lui qui avait jadis lui-même mis cette femme à l'écart sans oublier aucun recoin dans ses pensées.",
+    "original": "いつしかと待ちおはするにかくたどたどしくかへり來たれば、すさまじくなかなかなりと、おぼすことさまざまにて、人のかくしすゑたるにやあらむと、我が御心の思ひよらぬくまなくおとしおき給へりしならひにとぞ。",
+    "length": 328,
+    "truncated": false
+  }
+}

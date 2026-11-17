@@ -1,0 +1,137 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-brigands",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "d50fadceb74b7575992c1b84dab589985fa8966646ff7e63a050aad387d03a85",
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "speakers": {
+    "DER ALTE MOOR": "LE VIEUX MOOR",
+    "DIE RÄUBER": "LES BRIGANDS",
+    "FRANZ": "FRANZ",
+    "KARL MOOR": "KARL MOOR"
+  },
+  "opening": [
+    {
+      "id": "p00007.s1",
+      "original": "Aber ist euch auch wohl, Vater?",
+      "translation": "Mais vous sentez-vous bien, père ?"
+    },
+    {
+      "id": "p00007.s2",
+      "original": "Ihr seht so blaß.",
+      "translation": "Vous êtes si pâle."
+    },
+    {
+      "id": "p00008.s1",
+      "original": "Ganz wol, mein Sohn, – was hattest du mir zu sagen?",
+      "translation": "Très bien, mon fils… que voulais-tu me dire ?"
+    },
+    {
+      "id": "p00009.s1",
+      "original": "Die Post ist angekommen – ein Brief von unserm Korrespondenten in Leipzig –",
+      "translation": "Le courrier est arrivé… une lettre de notre correspondant de Leipzig…"
+    },
+    {
+      "id": "p00010.s1",
+      "original": "Nachrichten von meinem Sohne Karl?",
+      "translation": "Des nouvelles de mon fils Karl ?"
+    },
+    {
+      "id": "p00011.s1",
+      "original": "Hm! hm!",
+      "translation": "Hum ! hum !"
+    },
+    {
+      "id": "p00011.s2",
+      "original": "– So ist es.",
+      "translation": "… C’est bien cela."
+    },
+    {
+      "id": "p00011.s3",
+      "original": "Aber ich fürchte – ich weiß nicht – ob ich – eurer Gesundheit?",
+      "translation": "Mais je crains… je ne sais… si je… votre santé ?"
+    },
+    {
+      "id": "p00011.s4",
+      "original": "– Ist euch wirklich ganz wol, mein Vater?",
+      "translation": "… Vous sentez-vous vraiment tout à fait bien, mon père ?"
+    },
+    {
+      "id": "p00012.s1",
+      "original": "Wie dem Fisch im Wasser!",
+      "translation": "Comme un poisson dans l’eau !"
+    },
+    {
+      "id": "p00012.s2",
+      "original": "Von meinem Sohne schreibt er?",
+      "translation": "C’est de mon fils qu’il écrit ?"
+    },
+    {
+      "id": "p00012.s3",
+      "original": "– Wie kommst du zu dieser Besorgniß?",
+      "translation": "… D’où te vient cette inquiétude ?"
+    },
+    {
+      "id": "p00012.s4",
+      "original": "Du hast mich zweymal gefragt.",
+      "translation": "Tu m’as déjà interrogé deux fois."
+    },
+    {
+      "id": "p00013.s1",
+      "original": "Wenn ihr krank seyd – nur die leiseste Ahndung habt es zu werden, so laßt mich – ich will zu gelegnerer Zeit zu euch reden.",
+      "translation": "Si vous êtes malade… si vous pressentez seulement la moindre menace de l’être, laissez-moi… je vous parlerai à un moment plus propice."
+    },
+    {
+      "id": "p00013.s2",
+      "original": "Diese Zeitung ist nicht für einen zerbrechlichen Körper.",
+      "translation": "Cette nouvelle n’est pas faite pour un corps fragile."
+    },
+    {
+      "id": "p00014.s1",
+      "original": "Gott!",
+      "translation": "Dieu !"
+    },
+    {
+      "id": "p00014.s2",
+      "original": "Gott! was werd ich hören?",
+      "translation": "Dieu ! qu’est-ce que je vais entendre ?"
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00459.s2",
+      "original": "Aber sie möchte mich im Schlaf überrumpeln, oder auf der Flucht ereilen, oder mit Zwang und Schwerd umarmen, und dann wäre mir auch das einige Verdienst entwischt, daß ich mit Willen für sie gestorben bin.",
+      "translation": "Mais elle pourrait me surprendre dans mon sommeil, ou me rattraper dans ma fuite, ou m’étreindre par la force et le glaive, et alors m’échapperait aussi l’unique mérite d’être mort pour elle de mon plein gré."
+    },
+    {
+      "id": "p00459.s3",
+      "original": "Was soll ich gleich einem Diebe ein Leben länger verheimlichen, das mir schon lang im Rath der himmlischen Wächter genommen ist?",
+      "translation": "Pourquoi, comme un voleur, cacher plus longtemps une vie qui m’a été retirée depuis longtemps dans le conseil des gardiens célestes ?"
+    },
+    {
+      "id": "p00460.s1",
+      "original": "Laßt ihn hinfahren.",
+      "translation": "Laissez-le aller."
+    },
+    {
+      "id": "p00460.s2",
+      "original": "Es ist die Groß-Mann-Sucht.",
+      "translation": "C’est la manie de la grandeur."
+    },
+    {
+      "id": "p00460.s3",
+      "original": "Er will sein Leben an eitle Bewunderung sezen.",
+      "translation": "Il veut risquer sa vie pour une vaine admiration."
+    },
+    {
+      "id": "p00461.s1",
+      "original": "Man könnte mich darum bewundern.",
+      "translation": "On pourrait m’en admirer."
+    },
+    {
+      "id": "p00461.s2",
+      "original": "Ich erinnere mich einen armen Schelm gesprochen zu haben als ich herüberkam, der im Taglohn arbeitet und eilf lebendige Kinder hat – Man hat tausend Louisdore geboten, wer den grossen Räuber lebendig liefert – dem Mann kann geholfen werden.",
+      "translation": "Je me souviens d’avoir parlé, en venant ici, à un pauvre diable qui travaille à la journée et a onze enfants vivants… On a promis mille louis d’or à qui livrera vivant le grand brigand… cet homme peut être secouru."
+    }
+  ]
+}

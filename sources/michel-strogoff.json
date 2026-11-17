@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "michel-strogoff",
+  "title": "Michel Strogoff",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource, Michel Strogoff (édition non indiquée), partie 1 chapitre 1 et partie 2 chapitre 15",
+  "pages": [
+    {
+      "title": "Michel Strogoff/Partie 1/Chapitre 1",
+      "revisionId": 12398492
+    },
+    {
+      "title": "Michel Strogoff/Partie 2/Chapitre 15",
+      "revisionId": 12463982
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2f8871ad7ce38244ae893240773f8f2e49242e569cad630f2f379da6483c27e5",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "« Sire, une nouvelle dépêche."
+  },
+  "bodyEnd": {
+    "id": "p00143",
+    "textPrefix": "Michel Strogoff arriva, par la suite, à une haute situation "
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intertitre « PREMIÈRE PARTIE » et titre de chapitre (p00001-p00002). Le roman s'ouvre sur la dépêche et se clôt sur le dernier paragraphe du chapitre 15."
+  ],
+  "titleMasks": [
+    "Michel Strogoff"
+  ],
+  "readingOptions": []
+}

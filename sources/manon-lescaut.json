@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "manon-lescaut",
+  "title": "Manon Lescaut",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Manon Lescaut (Wikisource, pages « Première partie » et « Seconde partie » ; édition non indiquée)",
+  "pages": [
+    {
+      "title": "Manon Lescaut/Première partie",
+      "revisionId": 3295164
+    },
+    {
+      "title": "Manon Lescaut/Seconde partie",
+      "revisionId": 3295165
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ce7dee90a29fddc47cf0e0ad423dd92935bb2b4bc74dde631f4d5abb5e44ba49",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Je suis obligé de faire remonter mon lecteur au temps de ma "
+  },
+  "bodyEnd": {
+    "id": "p00485",
+    "textPrefix": "Nous avons passé deux mois ensemble à la Nouvelle-Orléans po"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Corps : du premier paragraphe du récit (« Je suis obligé de faire remonter mon lecteur… ») au dernier (« …mon arrivée »). Exclus : Avis de l'Auteur, notice et études non enregistrées, intertitres « PREMIÈRE PARTIE », « SECONDE PARTIE », « fin de la seconde et dernière partie »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

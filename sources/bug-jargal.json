@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "bug-jargal",
+  "title": "Bug-Jargal",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Bug-Jargal, éd. 1910 (pages Wikisource « I » et « Note », révision figée) ; autre indication d'édition non relevée",
+  "pages": [
+    {
+      "title": "Bug-Jargal/éd. 1910/I",
+      "revisionId": 3632836
+    },
+    {
+      "title": "Bug-Jargal/éd. 1910/Note",
+      "revisionId": 3632916
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "99f6c0d70ce2a47057114f12d53e02a1e935676c9ae0fd4576f66e488e00d2f9",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Quand vint le tour du capitaine Léopold d’Auverney, il ouvri"
+  },
+  "bodyEnd": {
+    "id": "p00061",
+    "textPrefix": "— Il vous reste encore une ressource, citoyen représentant d"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : numéro de chapitre (p00001) et lignes de points de suspension typographiques (p00002-p00003). Gardé : la « Note » finale (épilogue fictif de l'auteur sur le sort du capitaine), dont la dernière phrase clôt le texte."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

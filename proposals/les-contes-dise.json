@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contes-dise",
+  "title": "Les Contes d'Ise",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "ja.wikisource.org",
+    "edition": "Ise monogatari, texte « Suzakuin nurigome-bon » dans le Gunsho ruijû (éd. Hanawa Hokiichi), d'après ce que Wikisource indique",
+    "pages": [
+      {
+        "title": "伊勢物語",
+        "revisionId": 138441
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ef3d0153aa88cadab24c7d3720d9eee6467761d902ea4a9584ce978416e2c3fe"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00005.s1",
+      "p00005.s2",
+      "p00005.s3",
+      "p00005.s4",
+      "p00005.s5",
+      "p00005.s6",
+      "p00005.s7",
+      "p00005.s8"
+    ],
+    "french": "Autrefois, il y avait un homme. Il venait de prendre le bonnet des adultes. Ayant quelque terre au village de Kasuga, près de l'ancienne capitale de Nara, il s'y rendit un jour pour chasser. Dans ce village vivaient deux jeunes sœurs d'une grande élégance. L'homme les aperçut à la dérobée. Contre toute attente, dans ce vieux village,",
+    "original": "むかしおとこありけり。うゐかぶりして。ならの京かすがの里にしるよしして。かりにいきけり。其さとに。いともなまめきたる女ばら（[女はらからイ]）すみけり。かのおとこかいま見てけり。おもほえずふるさとに。",
+    "length": 335,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00450.s1",
+      "p00451.s1",
+      "p00452.s1"
+    ],
+    "french": "« Une rosée tombe sur moi : serait-ce l'eau qui goutte des rames du bateau qui traverse le fleuve du Ciel ? » (auteur inconnu, Kokinshû)\nDit-il en revenant à lui. Quand l'heure dernière fut vraiment venue, « Que ce fût la route où l'on finit par aller, je l'avais appris depuis longtemps ; mais je ne pensais pas que ce serait hier ou aujourd'hui »\nDisant cela, il expira.",
+    "original": "我うへに露そをくなる天の河とわたる舟のかひのしつくか　（よみ人しらす古今）\nといひてぞいき出たりける。まことにかぎりになりける時。　つゐに行道とかねはて聞しかと昨日けふとは思はさりしを\nとてなむたえいりにけり",
+    "length": 372,
+    "truncated": false
+  }
+}
