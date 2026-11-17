@@ -1,0 +1,102 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-romance-de-la-chambre-de-louest",
+  "sourceLanguage": "zh",
+  "cleanTextSha256": "d784ea376ea1006d7a5cf335813863d03e0e56fa061e79cc2440fab0ad7e112b",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "【外扮老夫人上開】老身姓鄭，夫主姓崔，官拜前朝相國，不幸因病告殂。",
+      "translation": "【La vieille dame entre en scène (rôle « wai ») et ouvre la pièce】 Mon nom de famille est Zheng ; mon défunt époux, qui portait le nom de Cui, fut premier ministre sous la dynastie précédente, et mourut hélas de maladie."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "只生得個小女，小字鶯鶯，年一十九歲，針指女工，詩詞書算，無不能者。",
+      "translation": "Il ne m'a laissé qu'une petite fille, prénommée Yingying, âgée de dix-neuf ans, experte à l'aiguille et aux travaux de femme, aux vers, aux livres et au calcul."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "老相公在日，曾許下老身之侄——乃鄭尚書之長子鄭恆——為妻。",
+      "translation": "Du vivant de mon seigneur, elle fut promise en mariage à mon neveu — Zheng Heng, fils aîné du ministre Zheng."
+    },
+    {
+      "id": "p00002.s4",
+      "original": "因俺孩兒父喪未滿，未得成合。",
+      "translation": "Mais comme le deuil de son père n'est pas achevé, les noces n'ont pu avoir lieu."
+    },
+    {
+      "id": "p00002.s5",
+      "original": "又有個小妮子，是自幼伏侍孩兒的，喚做紅娘。",
+      "translation": "J'ai aussi une petite servante qui, dès l'enfance, s'occupe de ma fille : on l'appelle Hongniang."
+    },
+    {
+      "id": "p00002.s6",
+      "original": "一個小廝兒，喚做歡郎。",
+      "translation": "Et un petit valet, qu'on appelle Huanlang."
+    },
+    {
+      "id": "p00002.s7",
+      "original": "先夫棄世之後，老身與女孩兒扶柩至博陵安葬；因路途有阻，不能得去。",
+      "translation": "Depuis que mon époux a quitté ce monde, j'ai accompagné ma fille avec le cercueil jusqu'à Boling pour l'y enterrer ; mais, les routes étant coupées, nous n'avons pu y aller."
+    },
+    {
+      "id": "p00002.s8",
+      "original": "來到河中府，將這靈柩寄在普救寺內。",
+      "translation": "Arrivées à Hezhong, nous avons déposé le cercueil dans le monastère de Puji."
+    },
+    {
+      "id": "p00002.s9",
+      "original": "這寺是先夫相國修造的，是則天娘娘香火院，況兼法本長老又是俺相公剃度的和尚；因此俺就這西廂下一座宅子安下。",
+      "translation": "Ce monastère a été bâti par mon défunt époux, le ministre ; c'est le temple des offrandes de l'impératrice Wu Zetian, et de plus le vénérable Faben est un moine que mon mari a lui-même tonsuré ; c'est pourquoi nous nous sommes installées dans une demeure de l'aile occidentale."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00020.s137",
+      "original": "【太平令】若不是大恩人撥刀相助，怎能夠好夫妻似水如魚。",
+      "translation": "【Air « Taiping ling »】 Sans le grand bienfaiteur qui a tiré l'épée à notre secours, comment un si beau couple aurait-il pu vivre uni comme l'eau et le poisson ?"
+    },
+    {
+      "id": "p00020.s138",
+      "original": "得意也當時題柱，正酬了今生夫婦。",
+      "translation": "Au temps de ma gloire, j'avais écrit mon nom sur le pilier ; me voilà payé de retour par ce mariage de toute une vie."
+    },
+    {
+      "id": "p00020.s139",
+      "original": "自古、相女、配夫，新狀元花生滿路。",
+      "translation": "Depuis toujours, qu'une fille trouve un époux, et que le nouveau lauréat voie les fleurs couvrir sa route !"
+    },
+    {
+      "id": "p00020.s140",
+      "original": "【使臣上科】【末唱】\n　　【錦上花】四海無虞，皆稱臣庶；諸國來朝，萬歲山呼；行邁羲軒，德過舜禹；聖策神機，仁文義武。",
+      "translation": "【Entre l'envoyé impérial ; le jeune premier chante】\n【Air « Jinshanghua »】 Les quatre mers sont en paix, tous se disent sujets ; les pays étrangers viennent à la cour, on crie dix mille ans ; l'empereur dépasse Xuanyuan et Fuxi, sa vertu surpasse Shun et Yu ; sa sagesse est divine, sa bonté, sa culture, sa justice et sa vaillance sont accomplies."
+    },
+    {
+      "id": "p00020.s141",
+      "original": "朝中宰相賢，天下庶民富；萬里河清，五穀成熟；戶戶安居，處處樂土；鳳凰來儀，麒麟屢出。",
+      "translation": "À la cour, les ministres sont sages, et dans l'empire, le peuple est riche ; les dix mille li du fleuve sont limpides, les cinq céréales sont mûres ; chaque foyer est paisible, partout règne le bonheur ; le phénix paraît et la licorne vient souvent."
+    },
+    {
+      "id": "p00020.s142",
+      "original": "【清江引】謝當今盛明唐聖主，敕賜為夫婦。",
+      "translation": "【Air « Qingjiangyin »】 Je remercie le sage souverain des Tang, qui, par décret, nous a accordés comme mari et femme."
+    },
+    {
+      "id": "p00020.s143",
+      "original": "永老無別離，萬古常完聚，願普天下有情的都成了眷屬。",
+      "translation": "Que nous ne soyons jamais séparés, qu'à jamais nous restions unis, et que tous les amants du monde deviennent des époux !"
+    },
+    {
+      "id": "p00020.s144",
+      "original": "【隨尾】則因月底聯詩句，成就了怨女曠夫。",
+      "translation": "【Air « Suiwei »】 Car ce sont des vers échangés sous la lune qui ont uni la jeune femme esseulée et l'homme sans épouse."
+    },
+    {
+      "id": "p00020.s145",
+      "original": "顯得有志的狀元能，無情的鄭恆苦。",
+      "translation": "Ainsi triompha le lauréat résolu, tandis que l'insensible Zheng Heng connut le malheur."
+    }
+  ]
+}
