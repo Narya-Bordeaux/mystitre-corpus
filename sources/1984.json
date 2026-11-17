@@ -1,0 +1,59 @@
+{
+  "formatVersion": 1,
+  "bookId": "1984",
+  "title": "1984",
+  "host": "declared",
+  "sourceLanguage": "en",
+  "edition": "Nineteen Eighty-Four, PDF d'Internet Archive ; début du chapitre 1 et fin de la troisième partie (avant l'appendice) copiés par l'utilisateur",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "f27b0079c432a4566c4b8efe243d31132c0baa6e71e0eb327285c9b31fc98bd8",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "It was a bright cold day in April, and the clocks were strik"
+  },
+  "bodyEnd": {
+    "id": "p00003",
+    "textPrefix": "He gazed up at the enormous face. Forty years it had taken h"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée ; l'appendice sur le novlangue n'est pas retenu"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "forty-fi ve",
+      "replace": "forty-five",
+      "reason": "Ligature « fi » coupée par l'extraction du PDF"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "fi nished",
+      "replace": "finished",
+      "reason": "Ligature « fi » coupée par l'extraction du PDF"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://dn790002.ca.archive.org/0/items/NineteenEightyFour-Novel-GeorgeOrwell/orwell1984.pdf",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "formatVersion": 1,
+  "bookId": "1984",
+  "title": "1984",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Nineteen Eighty-Four, PDF d'Internet Archive ; début du chapitre 1 et fin de la troisième partie (avant l'appendice) copiés par l'utilisateur",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "f27b0079c432a4566c4b8efe243d31132c0baa6e71e0eb327285c9b31fc98bd8",
+    "declaredSource": {
+      "url": "https://dn790002.ca.archive.org/0/items/NineteenEightyFour-Novel-GeorgeOrwell/orwell1984.pdf",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "forty-fi ve",
+      "replace": "forty-five",
+      "reason": "Ligature « fi » coupée par l'extraction du PDF"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "fi nished",
+      "replace": "finished",
+      "reason": "Ligature « fi » coupée par l'extraction du PDF"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2"
+    ],
+    "french": "C'était une journée d'avril froide et claire, et les horloges sonnaient treize heures. Winston Smith, le menton enfoui dans la poitrine pour échapper au vent mauvais, se glissa vivement entre les portes vitrées de la résidence de la Victoire, pas assez vite cependant pour empêcher un tourbillon de poussière granuleuse d'entrer avec lui.",
+    "original": "It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him.",
+    "length": 338,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00003.s2",
+      "p00003.s3",
+      "p00003.s4",
+      "p00003.s5",
+      "p00003.s6",
+      "p00003.s7",
+      "p00003.s8"
+    ],
+    "french": "Il lui avait fallu quarante ans pour apprendre quelle sorte de sourire se cachait sous la moustache noire. Ô cruel, inutile malentendu ! Ô exil obstiné, volontaire, loin du sein aimant ! Deux larmes parfumées au gin coulèrent le long de son nez. Mais tout allait bien, tout était bien, la lutte était terminée. Il avait remporté la victoire sur lui-même. Il aimait Big Brother.",
+    "original": "Forty years it had taken him to learn what kind of smile was hidden beneath the dark moustache. O cruel, needless misunderstanding! O stubborn, self-willed exile from the loving breast! Two gin-scented tears trickled down the sides of his nose. But it was all right, everything was all right, the struggle was finished. He had won the victory over himself. He loved Big Brother.",
+    "length": 377,
+    "truncated": false
+  }
+}
