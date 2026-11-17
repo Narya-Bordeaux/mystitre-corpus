@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-decameron",
+  "title": "Le Décaméron",
+  "host": "it.wikisource.org",
+  "sourceLanguage": "it",
+  "edition": "Decameron, it.wikisource (pages « Proemio » et « Conclusione dell'autore »), édition non indiquée",
+  "pages": [
+    {
+      "title": "Decameron/Proemio",
+      "revisionId": 3798744
+    },
+    {
+      "title": "Decameron/Conclusione dell'autore",
+      "revisionId": 3798718
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8c232f71233dcf081129ebefaf874c326faa093405a24c29fb60a33b70a639e4",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Umana cosa è l’avere compassione degli afflitti, e come che "
+  },
+  "bodyEnd": {
+    "id": "p00006",
+    "textPrefix": "Nobilissime giovani, a consolazion delle quali io a cosí lun"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "it"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : rubrique d'incipit « comincia il libro chiamato decameron… », titre « Conclusione dell'autore » et colophon « qui finisce la decima ed ultima giornata… » (formules d'éditeur, non texte de l'auteur). Le texte commence au proemio, qui fait partie de l'œuvre."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

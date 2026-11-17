@@ -1,0 +1,47 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-decameron",
+  "title": "Le Décaméron",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "it",
+    "label": "Traduction par nos soins à partir de l'original (it)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "it.wikisource.org",
+    "edition": "Decameron, it.wikisource (pages « Proemio » et « Conclusione dell'autore »), édition non indiquée",
+    "pages": [
+      {
+        "title": "Decameron/Proemio",
+        "revisionId": 3798744
+      },
+      {
+        "title": "Decameron/Conclusione dell'autore",
+        "revisionId": 3798718
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "8c232f71233dcf081129ebefaf874c326faa093405a24c29fb60a33b70a639e4"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1"
+    ],
+    "french": "C'est chose humaine que d'avoir compassion des affligés, et, bien que cela convienne à chacun, c'est tout particulièrement exigé de ceux qui ont déjà eu besoin de réconfort et l'ont trouvé chez quelques-uns ; parmi ceux-là, si jamais quelqu'un en eut besoin, le tint pour cher ou en ressentit déjà du plaisir, je suis l'un d'eux.",
+    "original": "Umana cosa è l’avere compassione degli afflitti, e come che a ciascuna persona stea bene, a coloro è massimamente richesto li quali giá hanno di conforto avuto mestiere ed hannol trovato in alcuni; tra li quali, se alcuno mai n’ebbe bisogno o gli fu caro o giá ne ricevette piacere, io sono un di quegli.",
+    "length": 329,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00006.s40"
+    ],
+    "french": "Et laissant désormais chacune dire et croire comme il lui plaît, il est temps de mettre fin aux paroles, en remerciant humblement Celui qui, après une si longue fatigue, m'a conduit par son aide à la fin désirée : et vous, aimables dames, demeurez en paix avec sa grâce, vous souvenant de moi, si par hasard quelque chose vous sert à quelqu'une d'avoir lu ces nouvelles.",
+    "original": "E lasciando omai a ciascuna e dire e credere come le pare, tempo è da por fine alle parole, Colui umilmente ringraziando che dopo sí lunga fatica col suo aiuto m’ha al disiderato fine condotto: e voi, piacevoli donne, con la sua grazia in pace vi rimanete, di me ricordandovi, se ad alcuna forse alcuna cosa giova l’averle lette.",
+    "length": 370,
+    "truncated": false
+  }
+}
