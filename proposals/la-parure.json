@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-parure",
+  "title": "La Parure",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Parure, dans Contes du jour et de la nuit, éd. Flammarion, 1885 (Wikisource)",
+    "pages": [
+      {
+        "title": "Contes du jour et de la nuit (éd. Flammarion, 1885)/La Parure",
+        "revisionId": 15482941
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "bea873f01f2b893472a3227f66732ea8295f94de3615e7a4e4daec8cb029dca0"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2"
+    ],
+    "french": "C’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique.",
+    "original": "C’était une de ces jolies et charmantes filles, nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique.",
+    "length": 329,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00132.s1",
+      "p00133.s1",
+      "p00133.s2",
+      "p00133.s3",
+      "p00134.s1",
+      "p00135.s1",
+      "p00136.s1",
+      "p00136.s2",
+      "p00136.s3"
+    ],
+    "french": "— Tu dis que tu as acheté une rivière de diamants pour remplacer la mienne ?\n— Oui. Tu ne t’en étais pas aperçue, hein ? Elles étaient bien pareilles.\nEt elle souriait d’une joie orgueilleuse et naïve.\nMme Forestier, fort émue, lui prit les deux mains.\n— Oh ! ma pauvre Mathilde ! Mais la mienne était fausse. Elle valait au plus cinq cents francs !…",
+    "original": "— Tu dis que tu as acheté une rivière de diamants pour remplacer la mienne ?\n— Oui. Tu ne t’en étais pas aperçue, hein ? Elles étaient bien pareilles.\nEt elle souriait d’une joie orgueilleuse et naïve.\nMme Forestier, fort émue, lui prit les deux mains.\n— Oh ! ma pauvre Mathilde ! Mais la mienne était fausse. Elle valait au plus cinq cents francs !…",
+    "length": 350,
+    "truncated": false
+  }
+}

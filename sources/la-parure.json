@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-parure",
+  "title": "La Parure",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Parure, dans Contes du jour et de la nuit, éd. Flammarion, 1885 (Wikisource)",
+  "pages": [
+    {
+      "title": "Contes du jour et de la nuit (éd. Flammarion, 1885)/La Parure",
+      "revisionId": 15482941
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "bea873f01f2b893472a3227f66732ea8295f94de3615e7a4e4daec8cb029dca0",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "C’était une de ces jolies et charmantes filles, nées, comme "
+  },
+  "bodyEnd": {
+    "id": "p00136",
+    "textPrefix": "— Oh ! ma pauvre Mathilde ! Mais la mienne était fausse. Ell"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : titre « LA PARURE ». Dernier paragraphe = chute du conte, rien à exclure en fin. Les ⁂ internes sont des séparations de sections."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
