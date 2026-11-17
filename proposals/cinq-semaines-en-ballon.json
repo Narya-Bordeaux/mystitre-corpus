@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "cinq-semaines-en-ballon",
+  "title": "Cinq Semaines en ballon",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, Cinq Semaines en ballon (édition non indiquée), chapitres 1 et 44",
+    "pages": [
+      {
+        "title": "Cinq Semaines en ballon/Chapitre 1",
+        "revisionId": 3261890
+      },
+      {
+        "title": "Cinq Semaines en ballon/Chapitre 44",
+        "revisionId": 3263546
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "432fd1004f3bad3ad319c811a96f12eea797940d7475f0f726be16bb155eb70e"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Il y avait une grande affluence d’auditeurs, le 14 janvier 1862, à la séance de la Société royale géographique de Londres, Waterloo place, 3. Le président, sir Francis M…, faisait à ses honorables collègues une importante communication dans un discours fréquemment interrompu par les applaudissements.",
+    "original": "Il y avait une grande affluence d’auditeurs, le 14 janvier 1862, à la séance de la Société royale géographique de Londres, Waterloo place, 3. Le président, sir Francis M…, faisait à ses honorables collègues une importante communication dans un discours fréquemment interrompu par les applaudissements.",
+    "length": 301,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00066.s2"
+    ],
+    "french": "Grâce aux expéditions actuelles de MM. Speke et Grant, de Heuglin et Munzinger, qui remontent aux sources du Nil ou se dirigent vers le centre de l’Afrique, nous pourrons avant peu contrôler les propres découvertes du docteur Fergusson dans cette immense contrée comprise entre les quatorzième et trente-troisième degrés de longitude.",
+    "original": "Grâce aux expéditions actuelles de MM. Speke et Grant, de Heuglin et Munzinger, qui remontent aux sources du Nil ou se dirigent vers le centre de l’Afrique, nous pourrons avant peu contrôler les propres découvertes du docteur Fergusson dans cette immense contrée comprise entre les quatorzième et trente-troisième degrés de longitude.",
+    "length": 334,
+    "truncated": false
+  }
+}
