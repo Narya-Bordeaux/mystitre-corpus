@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-tour-du-monde-en-quatre-vingts-jours",
+  "title": "Le Tour du monde en quatre-vingts jours",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource fr, « Le Tour du monde en quatre-vingts jours » (chapitre 1 et chapitre 37) ; édition source non indiquée ici",
+    "pages": [
+      {
+        "title": "Le Tour du monde en quatre-vingts jours/Chapitre 1",
+        "revisionId": 12868439
+      },
+      {
+        "title": "Le Tour du monde en quatre-vingts jours/Chapitre 37",
+        "revisionId": 10008355
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "9b4cd427a666cc62b4eaa02d549ebae188663225e92268828ddd008dec1e6e65"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1"
+    ],
+    "french": "En l’année 1872, la maison portant le numéro 7 de Saville-row, Burlington Gardens, — maison dans laquelle Shéridan mourut en 1814, — était habitée par Phileas Fogg, esq., l’un des membres les plus singuliers et les plus remarqués du Reform-Club de Londres, bien qu’il semblât prendre à tâche de ne rien faire qui pût attirer l’attention.",
+    "original": "En l’année 1872, la maison portant le numéro 7 de Saville-row, Burlington Gardens, — maison dans laquelle Shéridan mourut en 1814, — était habitée par Phileas Fogg, esq., l’un des membres les plus singuliers et les plus remarqués du Reform-Club de Londres, bien qu’il semblât prendre à tâche de ne rien faire qui pût attirer l’attention.",
+    "length": 337,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00077.s6",
+      "p00077.s7",
+      "p00078.s1",
+      "p00078.s2",
+      "p00079.s1"
+    ],
+    "french": "Qu’avait-il gagné à ce déplacement ? Qu’avait-il rapporté de ce voyage ?\nRien, dira-t-on ? Rien, soit, si ce n’est une charmante femme, qui — quelque invraisemblable que cela puisse paraître — le rendit le plus heureux des hommes !\nEn vérité, ne ferait-on pas, pour moins que cela, le Tour du Monde ?",
+    "original": "Qu’avait-il gagné à ce déplacement ? Qu’avait-il rapporté de ce voyage ?\nRien, dira-t-on ? Rien, soit, si ce n’est une charmante femme, qui — quelque invraisemblable que cela puisse paraître — le rendit le plus heureux des hommes !\nEn vérité, ne ferait-on pas, pour moins que cela, le Tour du Monde ?",
+    "length": 300,
+    "truncated": false
+  }
+}

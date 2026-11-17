@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-tour-du-monde-en-quatre-vingts-jours",
+  "title": "Le Tour du monde en quatre-vingts jours",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource fr, « Le Tour du monde en quatre-vingts jours » (chapitre 1 et chapitre 37) ; édition source non indiquée ici",
+  "pages": [
+    {
+      "title": "Le Tour du monde en quatre-vingts jours/Chapitre 1",
+      "revisionId": 12868439
+    },
+    {
+      "title": "Le Tour du monde en quatre-vingts jours/Chapitre 37",
+      "revisionId": 10008355
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "9b4cd427a666cc62b4eaa02d549ebae188663225e92268828ddd008dec1e6e65",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "En l’année 1872, la maison portant le numéro 7 de Saville-ro"
+  },
+  "bodyEnd": {
+    "id": "p00079",
+    "textPrefix": "En vérité, ne ferait-on pas, pour moins que cela, le Tour du"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : légende centrée « Phileas Fogg » (p00001), titres de chapitre, mot « fin » (p00080)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
