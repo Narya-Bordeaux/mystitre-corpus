@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "aladin",
+  "title": "Aladin ou la lampe merveilleuse",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Antoine Galland, 1806)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Les Mille et Une Nuits, tome V, Le Normant, 1806 (tomes I à VII traduits par Antoine Galland), d'après Wikisource",
+    "pages": [
+      {
+        "title": "Les Mille et Une Nuits/Histoire d’Aladdin",
+        "revisionId": 12769373
+      },
+      {
+        "title": "Les Mille et Une Nuits/Suite de l’histoire d’Aladdin",
+        "revisionId": 12733055
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "94008b2786505beecb83f73dcfdb7de7a6f29447662b1fb0c6f346d4d6e28e7a"
+  },
+  "titleMasks": [
+    "Aladdin"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "Sire, dans la capitale d’un royaume de la Chine, très-riche et d’une vaste étendue, dont le nom ne me vient pas présentement à la mémoire, il y avoit un tailleur nommé Mustafa, sans autre distinction que celle que sa profession lui donnoit. Mustafa le tailleur étoit fort pauvre, et son travail lui produisoit à peine de quoi le faire subsister lui et sa femme, et un fils que Dieu leur avoit donné.",
+    "original": "Sire, dans la capitale d’un royaume de la Chine, très-riche et d’une vaste étendue, dont le nom ne me vient pas présentement à la mémoire, il y avoit un tailleur nommé Mustafa, sans autre distinction que celle que sa profession lui donnoit. Mustafa le tailleur étoit fort pauvre, et son travail lui produisoit à peine de quoi le faire subsister lui et sa femme, et un fils que Dieu leur avoit donné.",
+    "length": 399,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00347.s2",
+      "p00347.s3",
+      "p00347.s4"
+    ],
+    "french": "Peu d’années après le sultan mourut dans une grande vieillesse. Comme il ne laissa pas d’enfans mâles, la princesse Badroulboudour en qualité de légitime héritière, lui succéda et communiqua la puissance suprême à [TITRE]. Ils régnèrent ensemble de longues années, et laissèrent une illustre postérité.",
+    "original": "Peu d’années après le sultan mourut dans une grande vieillesse. Comme il ne laissa pas d’enfans mâles, la princesse Badroulboudour en qualité de légitime héritière, lui succéda et communiqua la puissance suprême à Aladdin. Ils régnèrent ensemble de longues années, et laissèrent une illustre postérité.",
+    "length": 302,
+    "truncated": false
+  }
+}
