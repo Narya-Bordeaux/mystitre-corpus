@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-chanson-de-roland",
+  "title": "La Chanson de Roland",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Traduction de Joseph Bédier (fr.wikisource, La Chanson de Roland/Joseph Bédier, catégorie 1922), prose rendant le texte d'Oxford",
+  "pages": [
+    {
+      "title": "La Chanson de Roland/Joseph Bédier/La Chanson de Roland/Traduction",
+      "revisionId": 5423040
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "60b1941a0ac853b81b2cac36d580cbb66062120934da1d0772908ff48a85796e",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "LE roi Charles, notre empereur, le Grand, sept ans tout plei"
+  },
+  "bodyEnd": {
+    "id": "p00582",
+    "textPrefix": "QUAND l’empereur eut fait justice et apaisé son grand courro"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "fro",
+    "translator": "Joseph Bédier",
+    "translationYear": 1922,
+    "translatorDeathYear": 1938,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Joseph_Bédier&oldid=15838606",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : numéros de laisses (blocs centrés) et le colophon « Ci falt la geste que Turoldus declinet. » (p00583, en ancien français, formule d'explicit du copiste/auteur réel, non récit) ; le corps va de la laisse I à la laisse CCXCI."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00002",
+      "find": "LE roi Charles",
+      "replace": "Le roi Charles",
+      "reason": "Mots d'attaque de laisse composés en capitales dans l'édition (initiale ornée) ; casse normale rétablie"
+    }
+  ]
+}
