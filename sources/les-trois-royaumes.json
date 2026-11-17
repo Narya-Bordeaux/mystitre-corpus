@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-trois-royaumes",
+  "title": "Les Trois Royaumes",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Wikisource chinois, page « 三國演義 », chapitres 1 et 120 ; édition non indiquée au-delà du titre",
+  "pages": [
+    {
+      "title": "三國演義/第001回",
+      "revisionId": 2583915
+    },
+    {
+      "title": "三國演義/第120回",
+      "revisionId": 2568085
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "126ce7998e9dd3ba173fc7a28849ef6aed37e0a951d7aaa25b145fb3b28bbff4",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "　　話說天下大勢，分久必合，合久必分。周末七國分爭，併入於秦。及秦滅之後，楚、漢分爭，又併入於漢。漢朝自高祖斬白蛇而起義"
+  },
+  "bodyEnd": {
+    "id": "p00089",
+    "textPrefix": "鼎足三分已成夢，後人憑弔空牢騷。"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut le poème en exergue « 詞曰 » (p1-5, ajouté en tête par l'édition, d'un autre auteur que le romancier : épigraphe) et la notice de domaine public de Wikisource (p90-91). La formule « 話說天下大勢… » ouvre le récit ; le poème de clôture fait partie du texte."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
