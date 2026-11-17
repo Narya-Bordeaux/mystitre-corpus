@@ -1,0 +1,71 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-sente-etroite-du-bout-du-monde",
+  "title": "La Sente étroite du Bout-du-Monde",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "おくのほそ道, texte de ja.wikisource d'après 三宅邦吉『新釈奥の細道』(籾山書店, 1911), base indiquée sur la page",
+  "pages": [
+    {
+      "title": "おくのほそ道",
+      "revisionId": 247172
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "eff9442a01ef45b7bda05a65687759b3070151040f1f3373cc4f2aedbef10c3b",
+  "bodyStart": {
+    "id": "p00006",
+    "textPrefix": "月日は百代の過客にしてゆきかふ年も又旅人なり舟の上に生涯をうかべ馬の口とらへて老をむかふるものは日〳〵旅にして旅を栖（す"
+  },
+  "bodyEnd": {
+    "id": "p00172",
+    "textPrefix": "　　　蛤のふた見にわかれ行秋ぞ"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, notice bibliographique, base, bandeaux de droit d'auteur. L'œuvre commence à « 月日は百代の過客にして » et s'achève sur le haïku de départ de Ōgaki."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "栖（すみか）とす古人",
+      "replace": "栖（すみか）とす。古人",
+      "reason": "Le texte numérisé (édition de 1911) n'a aucun point de phrase : « 。 » rétabli là où la phrase s'achève, pour le découpage, sans changer un mot"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00006",
+      "find": "旅に死せるあり",
+      "replace": "旅に死せるあり。",
+      "reason": "Le texte numérisé (édition de 1911) n'a aucun point de phrase : « 。 » rétabli là où la phrase s'achève, pour le découpage, sans changer un mot"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00171",
+      "find": "且悅ひ且いたはる旅の",
+      "replace": "且悅ひ且いたはる。旅の",
+      "reason": "Le texte numérisé (édition de 1911) n'a aucun point de phrase : « 。 » rétabli là où la phrase s'achève, pour le découpage, sans changer un mot"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00172",
+      "find": "蛤のふた見にわかれ行秋ぞ",
+      "replace": "蛤のふた見にわかれ行秋ぞ。",
+      "reason": "Le texte numérisé (édition de 1911) n'a aucun point de phrase : « 。 » rétabli là où la phrase s'achève, pour le découpage, sans changer un mot"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00171",
+      "find": "入りあつまる前川子",
+      "replace": "入りあつまる。前川子",
+      "reason": "Le texte numérisé (édition de 1911) n'a aucun point de phrase : « 。 » rétabli là où la phrase s'achève, pour le découpage, sans changer un mot"
+    }
+  ]
+}
