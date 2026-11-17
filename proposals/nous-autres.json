@@ -1,0 +1,53 @@
+{
+  "formatVersion": 1,
+  "bookId": "nous-autres",
+  "title": "Nous autres",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru",
+    "label": "Traduction par nos soins à partir de l'original (ru)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "source": {
+    "host": "ru.wikisource.org",
+    "edition": "Мы, texte russe de ru.wikisource (édition non indiquée ; daté <1921> en fin de texte)",
+    "pages": [
+      {
+        "title": "Мы (Замятин)/Запись 1-ая",
+        "revisionId": 1314636
+      },
+      {
+        "title": "Мы (Замятин)/Запись 40-ая",
+        "revisionId": 1332027
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "cd9d39826006bb4cd8603d7666e6a11bc63e1521cfc758dbdc34049f2e9437ee"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00005.s1",
+      "p00005.s2"
+    ],
+    "french": "Je ne fais que recopier, mot pour mot, ce qui a été publié aujourd’hui dans la Gazette de l’État :\n« Dans 120 jours s’achève la construction de l’INTÉGRAL. L’heure grande et historique approche, où le premier INTÉGRAL s’élancera dans l’espace universel. Il y a mille ans, vos ancêtres héroïques ont soumis le globe terrestre tout entier à la puissance de l’État Unique.",
+    "original": "Я просто списываю — слово в слово — то, что сегодня напечатано в Государственной Газете:\n«Через 120 дней заканчивается постройка ИНТЕГРАЛА. Близок великий, исторический час, когда первый ИНТЕГРАЛ взовьется в мировое пространство. Тысячу лет тому назад ваши героические предки покорили власти Единого Государства весь земной шар.",
+    "length": 369,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00023.s1",
+      "p00024.s1",
+      "p00024.s2",
+      "p00024.s3",
+      "p00024.s4"
+    ],
+    "french": "On ne peut pas différer — car dans les quartiers de l’ouest, c’est encore le chaos, les hurlements, les cadavres, les bêtes et — hélas — un nombre considérable de numéros qui ont trahi la raison.\nMais sur la 40e avenue transversale, on a réussi à édifier un mur provisoire d’ondes à haute tension. Et j’espère que nous vaincrons. Plus : j’en suis sûr — nous vaincrons. Car la raison doit triompher.",
+    "original": "Откладывать нельзя — потому что в западных кварталах — все еще хаос, рев, трупы, звери и — к сожалению — значительное количество нумеров, изменивших разуму.\nНо на поперечном, 40-м проспекте удалось сконструировать временную стену из высоковольтных волн. И я надеюсь — мы победим. Больше: я уверен — мы победим. Потому что разум должен победить.",
+    "length": 398,
+    "truncated": false
+  }
+}

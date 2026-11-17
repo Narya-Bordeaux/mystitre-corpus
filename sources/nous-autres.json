@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "nous-autres",
+  "title": "Nous autres",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Мы, texte russe de ru.wikisource (édition non indiquée ; daté <1921> en fin de texte)",
+  "pages": [
+    {
+      "title": "Мы (Замятин)/Запись 1-ая",
+      "revisionId": 1314636
+    },
+    {
+      "title": "Мы (Замятин)/Запись 40-ая",
+      "revisionId": 1332027
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "cd9d39826006bb4cd8603d7666e6a11bc63e1521cfc758dbdc34049f2e9437ee",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Я просто списываю — слово в слово — то, что сегодня напечата"
+  },
+  "bodyEnd": {
+    "id": "p00024",
+    "textPrefix": "Но на поперечном, 40-м проспекте удалось сконструировать вре"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intitulés des notes (« Запись 1-ая », « Конспект », résumés) et la date <1921> finale. L'œuvre commence à la première phrase de la première note et s'achève sur la dernière phrase de la note 40."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
