@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-neveu-de-rameau",
+  "title": "Le Neveu de Rameau",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Wikisource, « Le Neveu de Rameau (édition Assézat) », page Texte",
+    "pages": [
+      {
+        "title": "Le Neveu de Rameau (édition Assézat)/Texte",
+        "revisionId": 4641819
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "9380f95c8026e1365a262e5a6cdd7677b11e37ba6cce328a45d487bb2f801bc9"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00002.s1",
+      "p00002.s2",
+      "p00002.s3"
+    ],
+    "french": "Qu’il fasse beau, qu’il fasse laid, c’est mon habitude d’aller sur les cinq heures du soir me promener au Palais-Royal. C’est moi qu’on voit toujours seul, rêvant sur le banc d’Argenson. Je m’entretiens avec moi-même de politique, d’amour, de goût ou de philosophie ; j’abandonne mon esprit à tout son libertinage ; je le laisse maître de suivre la première idée sage ou folle qui se présente, comme on voit, dans l’allée de Foi, nos jeunes dissolus marcher sur les pas d’une courtisane à l’air éventé, au visage riant, à l’œil vif, au nez retroussé, quitter celle-ci pour une autre, les attaquant…",
+    "original": "Qu’il fasse beau, qu’il fasse laid, c’est mon habitude d’aller sur les cinq heures du soir me promener au Palais-Royal. C’est moi qu’on voit toujours seul, rêvant sur le banc d’Argenson. Je m’entretiens avec moi-même de politique, d’amour, de goût ou de philosophie ; j’abandonne mon esprit à tout son libertinage ; je le laisse maître de suivre la première idée sage ou folle qui se présente, comme on voit, dans l’allée de Foi, nos jeunes dissolus marcher sur les pas d’une courtisane à l’air éventé, au visage riant, à l’œil vif, au nez retroussé, quitter celle-ci pour une autre, les attaquant toutes et ne s’attachant à aucune.",
+    "length": 597,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p01125.s6",
+      "p01125.s7",
+      "p01127.s1",
+      "p01129.s1"
+    ],
+    "french": "Mais il est cinq heures et demie, j’entends la cloche qui sonne les vêpres de l’abbé de Canaye et les miennes. Adieu, monsieur le philosophe, n’est-il pas vrai que je suis toujours le même ?\nHélas ! oui, malheureusement.\nQue j’aie ce malheur-là encore seulement une quarantaine d’années : rira bien qui rira le dernier.",
+    "original": "Mais il est cinq heures et demie, j’entends la cloche qui sonne les vêpres de l’abbé de Canaye et les miennes. Adieu, monsieur le philosophe, n’est-il pas vrai que je suis toujours le même ?\nHélas ! oui, malheureusement.\nQue j’aie ce malheur-là encore seulement une quarantaine d’années : rira bien qui rira le dernier.",
+    "length": 319,
+    "truncated": false
+  }
+}
