@@ -1,0 +1,72 @@
+{
+ "formatVersion": 1,
+ "bookId": "romeo-et-juliette",
+ "sourceLanguage": "en",
+ "cleanTextSha256": "da8a3f92a866f74ec1d44f0045055b77bf7816114a0b4a62fb27dc1650fb710c",
+ "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00003.s1",
+   "original": "Two households, both alike in dignity,\nIn fair Verona, where we lay our scene,\nFrom ancient grudge break to new mutiny,\nWhere civil blood makes civil hands unclean.",
+   "translation": "Deux maisons, de même rang et de même dignité,\nDans la belle Vérone, où se place notre scène,\nD’une antique rancune passent à de nouvelles violences,\nOù le sang des citoyens souille les mains des citoyens."
+  },
+  {
+   "id": "p00003.s2",
+   "original": "From forth the fatal loins of these two foes\nA pair of star-cross'd lovers take their life;\nWhose misadventur'd piteous overthrows\nDo with their death bury their parents' strife.",
+   "translation": "Des flancs fatals de ces deux ennemies\nUn couple d’amants nés sous une mauvaise étoile prend la vie ;\nLeurs malheurs pitoyables, issus de l’infortune,\nEnterrent par leur mort la querelle de leurs parents."
+  },
+  {
+   "id": "p00003.s3",
+   "original": "The fearful passage of their death-mark'd love,\nAnd the continuance of their parents' rage,\nWhich, but their children's end, nought could remove,\nIs now the two hours' traffic of our stage;\nThe which if you with patient ears attend,\nWhat here shall miss, our toil shall strive to mend.",
+   "translation": "Le cours funeste de leur amour marqué par la mort,\nEt la fureur persistante de leurs parents,\nQue rien ne pouvait apaiser que la fin de leurs enfants,\nSont maintenant l’affaire de deux heures sur notre scène ;\nSi vous nous prêtez une oreille patiente,\nCe qui manque ici, notre peine s’efforcera de le réparer."
+  },
+  {
+   "id": "p00004.s1",
+   "original": "[Exit.]",
+   "translation": "[Il sort.]"
+  },
+  {
+   "id": "p00005.s1",
+   "original": "Footnotes to the Prologue\n1 Chorus; cf. n.",
+   "translation": "Notes de bas de page du prologue\n1 Le Chœur ; voir la note."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00414.s5",
+   "original": "See what a scourge is laid upon your hate, 292\nThat heaven finds means to kill your joys with love;\nAnd I, for winking at your discords too,\nHave lost a brace of kinsmen: all are punish'd.",
+   "translation": "Voyez quel fléau s’est abattu sur votre haine,\nQue le ciel trouve moyen de tuer vos joies par l’amour ;\nEt moi, pour avoir fermé les yeux sur vos discordes,\nJ’ai perdu deux parents : tous sont punis."
+  },
+  {
+   "id": "p00415.s1",
+   "original": "Cap.",
+   "translation": "Capulet."
+  },
+  {
+   "id": "p00415.s2",
+   "original": "O brother Montague! give me thy hand: 296\nThis is my daughter's jointure, for no more\nCan I demand.",
+   "translation": "Ô frère Montague ! donne-moi la main :\nVoilà le douaire de ma fille, car je n’en puis\nDemander davantage."
+  },
+  {
+   "id": "p00416.s1",
+   "original": "Mon.",
+   "translation": "Montague."
+  },
+  {
+   "id": "p00416.s2",
+   "original": "But I can give thee more;\nFor I will raise her statue in pure gold;\nThat while Verona by that name is known, 300\nThere shall no figure at such rate be set\nAs that of true and faithful Juliet.",
+   "translation": "Mais je puis te donner davantage ;\nCar je ferai élever sa statue en or pur ;\nTant que Vérone sera connue sous ce nom,\nAucune figure ne sera dressée à pareil prix\nQue celle de la fidèle et sincère Juliette."
+  },
+  {
+   "id": "p00417.s1",
+   "original": "As rich shall Romeo by his lady lie;\nPoor sacrifices of our enmity!",
+   "translation": "Aussi riche sera Roméo couché près de sa dame ;\nPauvres victimes de notre inimitié !"
+  },
+  {
+   "id": "p00418.s1",
+   "original": "A glooming peace this morning with it brings;\nThe sun, for sorrow, will not show his head:\nGo hence, to have more talk of these sad things:\nSome shall be pardon'd, and some punished:\nFor never was a story of more woe\nThan this of Juliet and her Romeo.",
+   "translation": "Une paix sombre nous apporte ce matin ;\nLe soleil, de chagrin, ne veut pas montrer sa face :\nSortons, pour parler davantage de ces tristes choses :\nCertains seront graciés, certains seront punis ;\nCar jamais histoire ne fut plus douloureuse\nQue celle de Juliette et de son Roméo."
+  }
+ ]
+}
