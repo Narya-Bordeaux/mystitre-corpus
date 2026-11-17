@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-cousine-bette",
+  "title": "La Cousine Bette",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Cousine Bette, page « La Cousine Bette (ed. Houssiaux) » de Wikisource (Œuvres complètes de H. de Balzac, tome 17)",
+  "pages": [
+    {
+      "title": "La Cousine Bette (ed. Houssiaux)",
+      "revisionId": 12041633
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "5a9113de0cc32bc9b48788c3bf27f1853482be8806722e855a1d030cd836ac61",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Vers le milieu du mois de juillet de l’année 1838, une de ce"
+  },
+  "bodyEnd": {
+    "id": "p03092",
+    "textPrefix": "— Les ancêtres peuvent s’opposer au mariage de leurs enfants"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Aucun paratexte dans la page : elle commence au premier paragraphe du roman et finit sur sa dernière phrase (pas de dédicace, de date ni de FIN)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
