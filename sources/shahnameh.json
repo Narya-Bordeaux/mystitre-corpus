@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "shahnameh",
+  "title": "Le Shahnameh",
+  "host": "declared",
+  "sourceLanguage": "fr",
+  "edition": "Le Livre des rois, traduit par Jules Mohl, Imprimerie royale puis nationale (tome I, 1838 ; tome VII, 1878) ; début de l'exorde et fin du poème recopiés par l'agent depuis les captures de l'utilisateur ; titres, numéros de vers et mention finale de l'éditeur exclus",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "88081cdb73999f5f90123f2e0733be700131fb1f649ef097e81ec928fca17213",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Au nom du maître de l'âme et de l'intelligence, au delà duqu"
+  },
+  "bodyEnd": {
+    "id": "p00004",
+    "textPrefix": "Je répands mille louanges, mille bénédictions sur le Prophèt"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "fa",
+    "translator": "Jules Mohl",
+    "translationYear": 1838,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée : exorde de Ferdowsi (« Introduction » de Mohl) et fin du poème"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://dn760004.eu.archive.org/0/items/LeLivreDesRois1/Le_livre_des_rois1.pdf",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur",
+    "sectionUrls": {
+      "fin": "https://gallica.bnf.fr/ark:/12148/bpt6k5774334p/f10.item"
+    }
+  }
+}

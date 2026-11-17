@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "bookId": "shahnameh",
+  "title": "Le Shahnameh",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "fa",
+    "translator": "Jules Mohl",
+    "translationYear": 1838,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Jules Mohl, 1838)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "declared",
+    "edition": "Le Livre des rois, traduit par Jules Mohl, Imprimerie royale puis nationale (tome I, 1838 ; tome VII, 1878) ; début de l'exorde et fin du poème recopiés par l'agent depuis les captures de l'utilisateur ; titres, numéros de vers et mention finale de l'éditeur exclus",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "88081cdb73999f5f90123f2e0733be700131fb1f649ef097e81ec928fca17213",
+    "declaredSource": {
+      "url": "https://dn760004.eu.archive.org/0/items/LeLivreDesRois1/Le_livre_des_rois1.pdf",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur",
+      "sectionUrls": {
+        "fin": "https://gallica.bnf.fr/ark:/12148/bpt6k5774334p/f10.item"
+      }
+    }
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1"
+    ],
+    "french": "Au nom du maître de l'âme et de l'intelligence, au delà duquel la pensée ne peut aller, du maître de la gloire, du maître du monde, du maître de la fortune, de celui qui envoie les prophètes, du maître de Saturne et de la rotation des sphères, qui a allumé la lune et l'étoile du matin, et le soleil; qui est plus haut que tout nom, que tout signe, que toute idée, qui a peint les étoiles au firmament.",
+    "original": "Au nom du maître de l'âme et de l'intelligence, au delà duquel la pensée ne peut aller, du maître de la gloire, du maître du monde, du maître de la fortune, de celui qui envoie les prophètes, du maître de Saturne et de la rotation des sphères, qui a allumé la lune et l'étoile du matin, et le soleil; qui est plus haut que tout nom, que tout signe, que toute idée, qui a peint les étoiles au firmament.",
+    "length": 402,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00003.s5",
+      "p00003.s6",
+      "p00004.s1"
+    ],
+    "french": "Le voici terminé ce glorieux poëme, et l'éclat de ma gloire va remplir le monde; je ne mourrai pas et mon nom deviendra immortel, car j'ai répandu la semence du bien dire. Tout homme intelligent, sage et pieux bénira ma mémoire quand je ne serai plus.\nJe répands mille louanges, mille bénédictions sur le Prophète élu de Dieu et j'adresse autant de louanges aux membres de sa famille, par respect pour la religion.",
+    "original": "Le voici terminé ce glorieux poëme, et l'éclat de ma gloire va remplir le monde; je ne mourrai pas et mon nom deviendra immortel, car j'ai répandu la semence du bien dire. Tout homme intelligent, sage et pieux bénira ma mémoire quand je ne serai plus.\nJe répands mille louanges, mille bénédictions sur le Prophète élu de Dieu et j'adresse autant de louanges aux membres de sa famille, par respect pour la religion.",
+    "length": 414,
+    "truncated": false
+  }
+}
