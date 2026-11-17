@@ -5,3 +5,5 @@
 - **Extraits** : ouverture 369 caractères (3 phrases) ; clôture 398 caractères (5 phrases). Ouverture et clôture identiques à l’ancienne fiche dans leur première et dernière phrase (« Je ne fais que recopier… » / « Car la raison doit triompher. »).
 - **Points douteux** : la première phrase du moteur contient un saut de ligne suivi du début de la citation de la Gazette (« … Gazette de l’État :\n« Dans 120 jours… ») ; conservé tel quel. Les « нумера » sont rendus « numéros ».
 - **Hésitation** : aucune.
+
+- **Fuite** : le pronom « nous » de la clôture (« nous vaincrons ») fuit le titre ; exception déclarée dans accepted_name_leaks.dart (le masque abîmerait la citation).
