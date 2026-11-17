@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-mille-et-une-nuits",
+  "title": "Les Mille et Une Nuits",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Les Mille et Une Nuits (neuf tomes), Le Normant, 1806 — tomes I à VII traduits par Antoine Galland, tomes VIII et IX par Caussin de Perceval, d'après la page d'accueil de fr.wikisource ; ouverture : tome I (Contes arabes), clôture : dernier conte du tome IX (« FIN DU TOME DERNIER »)",
+  "pages": [
+    {
+      "title": "Les Mille et Une Nuits/Contes arabes",
+      "revisionId": 11813879
+    },
+    {
+      "title": "Les Mille et Une Nuits/Histoire d’Aly Mohammed",
+      "revisionId": 11817257
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b5a31aa7d66441c88a5fd66981d080e594b4fe8d85efcc5f3e07e77d486fc725",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Les chroniques des Sassaniens, anciens rois de Perse, qui av"
+  },
+  "bodyEnd": {
+    "id": "p00165",
+    "textPrefix": "Le grand visir apprit le premier cette agréable nouvelle de "
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ar",
+    "translator": "Antoine Galland et Caussin de Perceval",
+    "translationYear": 1806,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intitulé « PRÉAMBULE. » (p00001) et « FIN DU TOME DERNIER. » (p00166). Le corps va du premier paragraphe du préambule du cadre (Schahriar et Schahzenan) à la grâce accordée à Scheherazade, qui clôt l'œuvre entière (dernier conte du tome IX) ; la page d'ouverture compte les contes du tome I, pas ceux entre les deux, non enregistrés (deux bouts seulement)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
