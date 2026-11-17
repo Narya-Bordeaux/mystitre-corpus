@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-portrait-de-dorian-gray",
+  "title": "Le Portrait de Dorian Gray",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le portrait de Dorian Gray, trad. Edmond Jaloux, Paris, 1928 (Wikisource, index « Wilde - Le portrait de Dorian Gray (trad. Jaloux), 1928.djvu »), chapitres I et XX",
+  "pages": [
+    {
+      "title": "Le Portrait de Dorian Gray (trad. Jaloux)/01",
+      "revisionId": 15182800
+    },
+    {
+      "title": "Le Portrait de Dorian Gray (trad. Jaloux)/20",
+      "revisionId": 15183418
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "043c2a6afd392f76de3df61ac10862087017043688b857b7a14a1c894502a283",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Le riche parfum des roses embaumait l’atelier et quand la lé"
+  },
+  "bodyEnd": {
+    "id": "p00128",
+    "textPrefix": "En entrant, ils virent contre le mur un splendide portrait d"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "en",
+    "translator": "Edmond Jaloux",
+    "translationYear": 1928,
+    "translatorDeathYear": 1949,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Edmond_Jaloux&oldid=15711878",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : mention d'image de début de chapitre et titres de chapitre ; la préface de Wilde n'est pas enregistrée. Deux bouts seulement (chapitres I et XX)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
