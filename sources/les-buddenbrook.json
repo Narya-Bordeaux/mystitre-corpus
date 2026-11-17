@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-buddenbrook",
+  "title": "Les Buddenbrook",
+  "host": "declared",
+  "sourceLanguage": "de",
+  "edition": "Buddenbrooks (1901), PDF d'Internet Archive ; début (Erstes Kapitel) et fin recopiés depuis les captures d'écran fournies par l'utilisateur",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b1be015adbbd46aaf0c292359940904d77743c14a8749c1cdb9bb374915373eb",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "»Was ist das. — Was — ist das . . .«"
+  },
+  "bodyEnd": {
+    "id": "p00008",
+    "textPrefix": "Sie stand da, eine Siegerin in dem guten Streite, den sie wä"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée : début et fin seuls"
+  ],
+  "titleMasks": [
+    "Buddenbrook"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": ". . .«",
+      "replace": "…«",
+      "reason": "Points de suspension espacés de l'édition imprimée, ramenés au signe « … »"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://ia800103.us.archive.org/17/items/BuddenbrooksThomasMann/Buddenbrooks.pdf",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur"
+  }
+}

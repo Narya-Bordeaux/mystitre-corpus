@@ -1,0 +1,77 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-buddenbrook",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "b1be015adbbd46aaf0c292359940904d77743c14a8749c1cdb9bb374915373eb",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "»Was ist das.",
+      "translation": "« Qu'est-ce que c'est."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "— Was — ist das …«",
+      "translation": "— Qu'est-ce — que c'est… »"
+    },
+    {
+      "id": "p00002.s1",
+      "original": "»Je, den Düwel ook, c'est la question, ma très chère demoiselle!«",
+      "translation": "« Eh, diable, c'est la question, ma très chère demoiselle ! »"
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Die Konsulin Buddenbrook, neben ihrer Schwiegermutter auf dem geradlinigen, weißlackierten und mit einem goldenen Löwenkopf verzierten Sofa, dessen Polster hellgelb überzogen waren, warf einen Blick auf ihren Gatten, der in einem Armsessel bei ihr saß, und kam ihrer kleinen Tochter zu Hilfe, die der Großvater am Fenster auf den Knien hielt.",
+      "translation": "La consule Buddenbrook, assise près de sa belle-mère sur le canapé droit, laqué de blanc et orné d'une tête de lion dorée, dont les coussins étaient tendus de jaune clair, jeta un regard à son mari, assis dans un fauteuil à côté d'elle, et vint en aide à sa petite fille, que le grand-père tenait sur ses genoux près de la fenêtre."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "»Tony!« sagte sie, »ich glaube, daß mich Gott —«",
+      "translation": "« Tony ! dit-elle, je crois que Dieu m'a… »"
+    },
+    {
+      "id": "p00006.s1",
+      "original": "Da aber kam Sesemi Weichbrodt am Tische in die Höhe, so hoch sie nur irgend konnte.",
+      "translation": "Mais alors Sesemi Weichbrodt se dressa à table, aussi haut qu'elle le put."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "Sie stellte sich auf die Zehenspitzen, reckte den Hals, pochte auf die Platte, und die Haube zitterte auf ihrem Kopfe.",
+      "translation": "Elle se mit sur la pointe des pieds, tendit le cou, frappa sur la table, et le bonnet trembla sur sa tête."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s1",
+      "original": "Die Konsulin Buddenbrook, neben ihrer Schwiegermutter auf dem geradlinigen, weißlackierten und mit einem goldenen Löwenkopf verzierten Sofa, dessen Polster hellgelb überzogen waren, warf einen Blick auf ihren Gatten, der in einem Armsessel bei ihr saß, und kam ihrer kleinen Tochter zu Hilfe, die der Großvater am Fenster auf den Knien hielt.",
+      "translation": "La consule Buddenbrook, assise près de sa belle-mère sur le canapé droit, laqué de blanc et orné d'une tête de lion dorée, dont les coussins étaient tendus de jaune clair, jeta un regard à son mari, assis dans un fauteuil à côté d'elle, et vint en aide à sa petite fille, que le grand-père tenait sur ses genoux près de la fenêtre."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "»Tony!« sagte sie, »ich glaube, daß mich Gott —«",
+      "translation": "« Tony ! dit-elle, je crois que Dieu m'a… »"
+    },
+    {
+      "id": "p00006.s1",
+      "original": "Da aber kam Sesemi Weichbrodt am Tische in die Höhe, so hoch sie nur irgend konnte.",
+      "translation": "Mais alors Sesemi Weichbrodt se dressa à table, aussi haut qu'elle le put."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "Sie stellte sich auf die Zehenspitzen, reckte den Hals, pochte auf die Platte, und die Haube zitterte auf ihrem Kopfe.",
+      "translation": "Elle se mit sur la pointe des pieds, tendit le cou, frappa sur la table, et le bonnet trembla sur sa tête."
+    },
+    {
+      "id": "p00007.s1",
+      "original": "»Es ist so!« sagte sie mit ihrer ganzen Kraft und blickte alle herausfordernd an.",
+      "translation": "« C'est ainsi ! » dit-elle de toutes ses forces, en les regardant tous d'un air de défi."
+    },
+    {
+      "id": "p00008.s1",
+      "original": "Sie stand da, eine Siegerin in dem guten Streite, den sie während der Zeit ihres Lebens gegen die Anfechtungen von Seiten ihrer Lehrerinnenvernunft geführt hatte, bucklig, winzig und bebend vor Überzeugung, eine kleine, strafende, begeisterte Prophetin.",
+      "translation": "Elle se tenait là, victorieuse dans le bon combat qu'elle avait mené toute sa vie contre les tentations de sa raison d'institutrice, bossue, minuscule et tremblante de conviction, petite prophétesse punissante et inspirée."
+    }
+  ]
+}

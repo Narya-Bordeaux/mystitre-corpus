@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "bookId": "les-montagnes-hallucinees",
   "sourceLanguage": "en",
-  "cleanTextSha256": "681751d127c9eb04c386f3e66ed1bfe6f234301c3fde37c20873879e1607ae40",
+  "cleanTextSha256": "78db3e7c3d68c518634f015c710738f346b5d4271ccb00834fd464c4a05c4f3d",
   "translatedBy": "Claude (agent), traduction sur l'original, à relire",
   "speakers": {},
   "opening": [
@@ -34,27 +34,27 @@
   ],
   "closing": [
     {
-      "id": "p00002.s1",
+      "id": "p00003.s1",
       "original": "The higher sky, as we crossed the range, was surely vaporous and disturbed enough; and although I did not see the zenith I can well imagine that its swirls of ice-dust may have taken strange forms.",
       "translation": "Le ciel supérieur, tandis que nous franchissions la chaîne, était assurément assez brumeux et agité ; et bien que je n'aie pas vu le zénith, je peux fort bien imaginer que ses tourbillons de poussière de glace aient pris des formes étranges."
     },
     {
-      "id": "p00002.s2",
+      "id": "p00003.s2",
       "original": "Imagination, knowing how vividly distant scenes can sometimes be reflected, refracted, and magnified by such layers of restless cloud, might easily have supplied the rest—and of course Danforth did not hint any of those specific horrors till after his memory had had a chance to draw on his bygone reading.",
       "translation": "L'imagination, sachant avec quelle netteté des scènes lointaines peuvent parfois être reflétées, réfractées et grossies par de telles couches de nuages agités, a pu aisément fournir le reste — et bien entendu, Danforth n'a fait allusion à aucune de ces horreurs précises avant que sa mémoire ait eu l'occasion de puiser dans ses lectures passées."
     },
     {
-      "id": "p00002.s3",
+      "id": "p00003.s3",
       "original": "He could never have seen so much in one instantaneous glance.",
       "translation": "Il n'aurait jamais pu en voir autant d'un seul coup d'œil instantané."
     },
     {
-      "id": "p00003.s1",
+      "id": "p00004.s1",
       "original": "At the time his shrieks were confined to the repetition of a single mad word of all too obvious source:\n“Tekeli-li!",
       "translation": "Sur le moment, ses cris se bornaient à la répétition d'un seul mot dément, à la source par trop évidente :\n« Tekeli-li !"
     },
     {
-      "id": "p00004.s1",
+      "id": "p00005.s1",
       "original": "Tekeli-li!”",
       "translation": "Tekeli-li ! »"
     }

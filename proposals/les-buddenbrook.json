@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-buddenbrook",
+  "title": "Les Buddenbrook",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Buddenbrooks (1901), PDF d'Internet Archive ; début (Erstes Kapitel) et fin recopiés depuis les captures d'écran fournies par l'utilisateur",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b1be015adbbd46aaf0c292359940904d77743c14a8749c1cdb9bb374915373eb",
+    "declaredSource": {
+      "url": "https://ia800103.us.archive.org/17/items/BuddenbrooksThomasMann/Buddenbrooks.pdf",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [
+    "Buddenbrook"
+  ],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": ". . .«",
+      "replace": "…«",
+      "reason": "Points de suspension espacés de l'édition imprimée, ramenés au signe « … »"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00002.s1",
+      "p00003.s1"
+    ],
+    "french": "« Qu'est-ce que c'est. — Qu'est-ce — que c'est… »\n« Eh, diable, c'est la question, ma très chère demoiselle ! »\nLa consule [TITRE], assise près de sa belle-mère sur le canapé droit, laqué de blanc et orné d'une tête de lion dorée, dont les coussins étaient tendus de jaune clair, jeta un regard à son mari, assis dans un fauteuil à côté d'elle, et vint en aide à sa petite fille, que le grand-père tenait sur ses genoux près de la fenêtre.",
+    "original": "»Was ist das. — Was — ist das …«\n»Je, den Düwel ook, c'est la question, ma très chère demoiselle!«\nDie Konsulin Buddenbrook, neben ihrer Schwiegermutter auf dem geradlinigen, weißlackierten und mit einem goldenen Löwenkopf verzierten Sofa, dessen Polster hellgelb überzogen waren, warf einen Blick auf ihren Gatten, der in einem Armsessel bei ihr saß, und kam ihrer kleinen Tochter zu Hilfe, die der Großvater am Fenster auf den Knien hielt.",
+    "length": 443,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00007.s1",
+      "p00008.s1"
+    ],
+    "french": "« C'est ainsi ! » dit-elle de toutes ses forces, en les regardant tous d'un air de défi.\nElle se tenait là, victorieuse dans le bon combat qu'elle avait mené toute sa vie contre les tentations de sa raison d'institutrice, bossue, minuscule et tremblante de conviction, petite prophétesse punissante et inspirée.",
+    "original": "»Es ist so!« sagte sie mit ihrer ganzen Kraft und blickte alle herausfordernd an.\nSie stand da, eine Siegerin in dem guten Streite, den sie während der Zeit ihres Lebens gegen die Anfechtungen von Seiten ihrer Lehrerinnenvernunft geführt hatte, bucklig, winzig und bebend vor Überzeugung, eine kleine, strafende, begeisterte Prophetin.",
+    "length": 311,
+    "truncated": false
+  }
+}

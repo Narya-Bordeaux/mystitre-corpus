@@ -16,13 +16,13 @@
     }
   ],
   "cleanerVersion": 1,
-  "cleanTextSha256": "681751d127c9eb04c386f3e66ed1bfe6f234301c3fde37c20873879e1607ae40",
+  "cleanTextSha256": "78db3e7c3d68c518634f015c710738f346b5d4271ccb00834fd464c4a05c4f3d",
   "bodyStart": {
     "id": "p00001",
     "textPrefix": "I am forced into speech because men of science have refused "
   },
   "bodyEnd": {
-    "id": "p00004",
+    "id": "p00005",
     "textPrefix": "“Tekeli-li! Tekeli-li!”"
   },
   "textOrigin": {
