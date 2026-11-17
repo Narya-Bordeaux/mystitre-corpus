@@ -1,0 +1,34 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-contes-dise",
+  "title": "Les Contes d'Ise",
+  "host": "ja.wikisource.org",
+  "sourceLanguage": "ja",
+  "edition": "Ise monogatari, texte « Suzakuin nurigome-bon » dans le Gunsho ruijû (éd. Hanawa Hokiichi), d'après ce que Wikisource indique",
+  "pages": [
+    {
+      "title": "伊勢物語",
+      "revisionId": 138441
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ef3d0153aa88cadab24c7d3720d9eee6467761d902ea4a9584ce978416e2c3fe",
+  "bodyStart": {
+    "id": "p00005",
+    "textPrefix": "むかしおとこありけり。うゐかぶりして。ならの京かすがの里にしるよしして。かりにいきけり。其さとに。いともなまめきたる女ば"
+  },
+  "bodyEnd": {
+    "id": "p00453",
+    "textPrefix": "とてなむたえいりにけり"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclu : titre et notice Wikisource (p1-4), colophon et notes de copiste (p454-458), mention de licence (p459). Le texte commence au premier épisode (« むかしおとこありけり ») et finit au dernier épisode, qui se termine sur « とてなむたえいりにけり »."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
