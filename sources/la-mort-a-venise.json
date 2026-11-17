@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-mort-a-venise",
+  "title": "La Mort à Venise",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Mort à Venise, traduit de l'allemand par Félix Bertaux et Ch. Sigwalt, Éditions Kra, Paris, 1929 (d'après la page de titre sur Wikisource, Texte entier)",
+  "pages": [
+    {
+      "title": "La Mort à Venise/Texte entier",
+      "revisionId": 15514055
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b2d5a3a7ca57e8119a2836de02fc69cea8dc7b0a3de86e1fd1cc165e96a5fd70",
+  "bodyStart": {
+    "id": "p00021",
+    "textPrefix": "Par un après-midi de printemps de cette année 19.. qui des m"
+  },
+  "bodyEnd": {
+    "id": "p00189",
+    "textPrefix": "Et le jour même la nouvelle de sa mort se répandit par le mo"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Félix Bertaux et Charles Sigwalt",
+    "translationYear": 1929,
+    "translatorDeathYear": 1948,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Félix_Bertaux&oldid=15390426",
+    "publicDomainBasis": "translatorDeathYear"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre, introduction de Félix Bertaux (paratexte du traducteur) et signature, titres de chapitre."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

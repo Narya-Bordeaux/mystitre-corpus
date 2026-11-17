@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-mort-a-venise",
+  "title": "La Mort à Venise",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "de",
+    "translator": "Félix Bertaux et Charles Sigwalt",
+    "translationYear": 1929,
+    "translatorDeathYear": 1948,
+    "translatorDeathYearSource": "https://fr.wikisource.org/w/index.php?title=Auteur:Félix_Bertaux&oldid=15390426",
+    "publicDomainBasis": "translatorDeathYear",
+    "label": "Traduction libre de droits (Félix Bertaux et Charles Sigwalt, 1929)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "La Mort à Venise, traduit de l'allemand par Félix Bertaux et Ch. Sigwalt, Éditions Kra, Paris, 1929 (d'après la page de titre sur Wikisource, Texte entier)",
+    "pages": [
+      {
+        "title": "La Mort à Venise/Texte entier",
+        "revisionId": 15514055
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b2d5a3a7ca57e8119a2836de02fc69cea8dc7b0a3de86e1fd1cc165e96a5fd70"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00021.s1"
+    ],
+    "french": "Par un après-midi de printemps de cette année 19.. qui des mois durant sembla menacer si gravement la paix de l’Europe, Gustav Aschenbach, ou d’Aschenbach — depuis son cinquantième anniversaire il avait droit à la particule — était parti de son appartement de Prinzregentenstrasse à Munich, pour faire seul une assez longue promenade.",
+    "original": "Par un après-midi de printemps de cette année 19.. qui des mois durant sembla menacer si gravement la paix de l’Europe, Gustav Aschenbach, ou d’Aschenbach — depuis son cinquantième anniversaire il avait droit à la particule — était parti de son appartement de Prinzregentenstrasse à Munich, pour faire seul une assez longue promenade.",
+    "length": 334,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00187.s8",
+      "p00188.s1",
+      "p00188.s2",
+      "p00189.s1"
+    ],
+    "french": "Comme tant de fois déjà il voulut se lever pour le suivre.\nQuelques minutes s’écoulèrent avant que l’on accourût au secours du poète dont le corps s’était affaissé sur le bord de la chaise. On le monta dans sa chambre.\nEt le jour même la nouvelle de sa mort se répandit par le monde où elle fut accueillie avec une religieuse émotion.",
+    "original": "Comme tant de fois déjà il voulut se lever pour le suivre.\nQuelques minutes s’écoulèrent avant que l’on accourût au secours du poète dont le corps s’était affaissé sur le bord de la chaise. On le monta dans sa chambre.\nEt le jour même la nouvelle de sa mort se répandit par le monde où elle fut accueillie avec une religieuse émotion.",
+    "length": 334,
+    "truncated": false
+  }
+}
