@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "un-heros-de-notre-temps",
+  "title": "Un héros de notre temps",
+  "host": "ru.wikisource.org",
+  "sourceLanguage": "ru",
+  "edition": "Герой нашего времени, Лермонтов, ru.wikisource, version en orthographe moderne (СО), chapitres « Бэла » et « Фаталист » ; édition source non précisée",
+  "pages": [
+    {
+      "title": "Герой нашего времени (Лермонтов)/СО/Бэла",
+      "revisionId": 5115407
+    },
+    {
+      "title": "Герой нашего времени (Лермонтов)/СО/Фаталист",
+      "revisionId": 5619997
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0fd9ea5c12ccae470c4d074282082aa386d6cf8f82a2b4936c1520631b1a0ce1",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "Я ехал на перекладных из Тифлиса. Вся поклажа моей тележки с"
+  },
+  "bodyEnd": {
+    "id": "p00366",
+    "textPrefix": "Больше я от него ничего не мог добиться: он вообще не любит "
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ru"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : intertitres (« I БЭЛА », « Примечания »). Préface de l'auteur non enregistrée (paratexte). Début au récit de Béla, fin à la dernière ligne du Fataliste."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
