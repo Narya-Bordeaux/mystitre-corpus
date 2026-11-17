@@ -1,0 +1,221 @@
+{
+  "formatVersion": 1,
+  "bookId": "les-brigands",
+  "title": "Les Brigands",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de",
+    "label": "Traduction par nos soins à partir de l'original (de)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "source": {
+    "host": "de.wikisource.org",
+    "edition": "Die Räuber, Wikisource allemand (pages d'actes) ; édition non indiquée",
+    "pages": [
+      {
+        "title": "Die Räuber/1. Akt",
+        "revisionId": 861908
+      },
+      {
+        "title": "Die Räuber/5. Akt",
+        "revisionId": 883143
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "d50fadceb74b7575992c1b84dab589985fa8966646ff7e63a050aad387d03a85"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00007",
+      "find": "Franz. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00007",
+      "name": "FRANZ",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00008",
+      "find": "Der alte Moor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00008",
+      "name": "DER ALTE MOOR",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00009",
+      "find": "Franz. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00009",
+      "name": "FRANZ",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00010",
+      "find": "D. a. Moor. Begierig. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique ; didascalie interne « Begierig. » retirée"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00010",
+      "name": "DER ALTE MOOR",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00011",
+      "find": "Franz. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00011",
+      "name": "FRANZ",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00461",
+      "find": "R. Moor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00461",
+      "find": "Nach einigem Nachsinnen. ",
+      "replace": "",
+      "reason": "Didascalie interne retirée du texte lu"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00461",
+      "name": "KARL MOOR",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00460",
+      "find": "Räuber. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00460",
+      "name": "DIE RÄUBER",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00012",
+      "find": "D. a. Moor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00012",
+      "name": "DER ALTE MOOR",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00013",
+      "find": "Franz. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00013",
+      "name": "FRANZ",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00013",
+      "find": ", halb vor sich",
+      "replace": "",
+      "reason": "Didascalie interne (« halb vor sich ») retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00459",
+      "find": "R. Moor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00459",
+      "name": "KARL MOOR",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00014",
+      "find": "D. a. Moor. ",
+      "replace": "",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    },
+    {
+      "kind": "speaker",
+      "paragraphId": "p00014",
+      "name": "DER ALTE MOOR",
+      "reason": "Édition sans balisage des personnages : nom du locuteur laissé en tête de réplique"
+    }
+  ],
+  "reviewFlags": [
+    "p00008 : remplacement ample (15 caractères changés)",
+    "p00010 : remplacement ample (22 caractères changés)",
+    "p00461 : remplacement ample (25 caractères changés)",
+    "p00013 : remplacement ample (15 caractères changés)"
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00007.s1",
+      "p00007.s2",
+      "p00008.s1",
+      "p00009.s1",
+      "p00010.s1",
+      "p00011.s1",
+      "p00011.s2",
+      "p00011.s3"
+    ],
+    "french": "FRANZ. — Mais vous sentez-vous bien, père ? Vous êtes si pâle.\nLE VIEUX MOOR. — Très bien, mon fils… que voulais-tu me dire ?\nFRANZ. — Le courrier est arrivé… une lettre de notre correspondant de Leipzig…\nLE VIEUX MOOR. — Des nouvelles de mon fils Karl ?\nFRANZ. — Hum ! hum ! … C’est bien cela. Mais je crains… je ne sais… si je… votre santé ?",
+    "original": "FRANZ. — Aber ist euch auch wohl, Vater? Ihr seht so blaß.\nDER ALTE MOOR. — Ganz wol, mein Sohn, – was hattest du mir zu sagen?\nFRANZ. — Die Post ist angekommen – ein Brief von unserm Korrespondenten in Leipzig –\nDER ALTE MOOR. — Nachrichten von meinem Sohne Karl?\nFRANZ. — Hm! hm! – So ist es. Aber ich fürchte – ich weiß nicht – ob ich – eurer Gesundheit?",
+    "length": 343,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00460.s3",
+      "p00461.s1",
+      "p00461.s2"
+    ],
+    "french": "LES BRIGANDS. — Il veut risquer sa vie pour une vaine admiration.\nKARL MOOR. — On pourrait m’en admirer. Je me souviens d’avoir parlé, en venant ici, à un pauvre diable qui travaille à la journée et a onze enfants vivants… On a promis mille louis d’or à qui livrera vivant le grand brigand… cet homme peut être secouru.",
+    "original": "DIE RÄUBER. — Er will sein Leben an eitle Bewunderung sezen.\nKARL MOOR. — Man könnte mich darum bewundern. Ich erinnere mich einen armen Schelm gesprochen zu haben als ich herüberkam, der im Taglohn arbeitet und eilf lebendige Kinder hat – Man hat tausend Louisdore geboten, wer den grossen Räuber lebendig liefert – dem Mann kann geholfen werden.",
+    "length": 319,
+    "truncated": false
+  }
+}
