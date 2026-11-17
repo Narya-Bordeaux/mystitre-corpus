@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "bookId": "voyages-de-gulliver",
+  "title": "Les Voyages de Gulliver",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Gulliver's Travels, dans The Works of the Rev. Jonathan Swift, volume 6 (en.wikisource) ; seuls le chapitre 1 et 2 du voyage à Lilliput et le chapitre 12 du voyage chez les Houyhnhnms sont téléchargés",
+  "pages": [
+    {
+      "title": "The Works of the Rev. Jonathan Swift/Volume 6/A Voyage to Lilliput/Chapter 1",
+      "revisionId": 10240278
+    },
+    {
+      "title": "The Works of the Rev. Jonathan Swift/Volume 6/A Voyage to Lilliput/Chapter 2",
+      "revisionId": 10240279
+    },
+    {
+      "title": "The Works of the Rev. Jonathan Swift/Volume 6/A Voyage to the Country of the Houyhnhnms/Chapter 12",
+      "revisionId": 10240336
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a6d7079421e28651388e6794b7bfc0269e26857f6e52c8ddc5dee597396f4536",
+  "bodyStart": {
+    "id": "p00007",
+    "textPrefix": "MY father had a small estate in Nottinghamshire; I was the t"
+  },
+  "bodyEnd": {
+    "id": "p00047",
+    "textPrefix": "But the Houyhnhnms, who live under the government of reason,"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre « A Voyage to Lilliput », numéro de chapitre, sommaire du chapitre, note éditoriale « *** To mortify pride… » et « END OF THE SIXTH VOLUME ». Texte original anglais car la traduction française de Wikisource (Desfontaines, adaptation libre : début de la fin remplacé par un autre dénouement) n'est pas fidèle."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

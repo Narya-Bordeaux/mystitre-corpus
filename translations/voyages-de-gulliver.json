@@ -1,0 +1,42 @@
+{
+ "formatVersion": 1,
+ "bookId": "voyages-de-gulliver",
+ "sourceLanguage": "en",
+ "cleanTextSha256": "a6d7079421e28651388e6794b7bfc0269e26857f6e52c8ddc5dee597396f4536",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00007.s1",
+   "original": "MY father had a small estate in Nottinghamshire; I was the third of five sons.",
+   "translation": "Mon père possédait un petit domaine dans le Nottinghamshire ; j’étais le troisième de cinq fils."
+  },
+  {
+   "id": "p00007.s2",
+   "original": "He sent me to Emanuel college in Cambridge, at fourteen years old, where I resided three years, and applied myself close to my studies; but the charge of maintaining me, although I had a very scanty allowance, being too great for a narrow fortune, I was bound apprentice to Mr. James Bates, an eminent surgeon in London, with whom I continued four years; and my father now and then sending me small sums of money, I laid them out in learning navigation, and other parts of the mathematicks, useful to those who intend to travel, as I always believed it would be, some time or other, my fortune to do.",
+   "translation": "Il m’envoya au collège d’Emmanuel, à Cambridge, à quatorze ans, où je résidai trois ans et m’appliquai de près à mes études ; mais la charge de mon entretien, bien que je n’eusse qu’une très maigre pension, étant trop lourde pour une modeste fortune, je fus placé en apprentissage chez M. James Bates, chirurgien éminent de Londres, auprès de qui je demeurai quatre ans ; et mon père m’envoyant de temps à autre de petites sommes d’argent, je les employai à apprendre la navigation et d’autres parties des mathématiques utiles à ceux qui se destinent aux voyages, comme j’avais toujours cru qu’il me serait donné, tôt ou tard, d’en faire."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00046.s3",
+   "original": "The wise and virtuous Houyhnhnms, who abound in all excellencies that can adorn a rational creature, have no name for this vice in their language; which has no terms to express any thing that is evil, except those whereby they describe the detestable qualities of their yahoos; among which they were not able to distinguish this of pride, for want of thoroughly understanding human nature, as it shows itself in other countries, where that animal presides.",
+   "translation": "Les sages et vertueux Houyhnhnms, qui abondent en toutes les excellences dont peut se parer une créature raisonnable, n’ont aucun nom pour ce vice dans leur langue, qui n’a pas de termes pour exprimer quoi que ce soit de mauvais, sinon ceux par lesquels ils décrivent les détestables qualités de leurs yahous ; parmi lesquelles ils ne parvenaient pas à distinguer celle-ci, l’orgueil, faute de bien comprendre la nature humaine, telle qu’elle se montre dans les autres pays où règne cet animal."
+  },
+  {
+   "id": "p00046.s4",
+   "original": "But I, who had more experience, could plainly observe some rudiments of it among the wild yahoos.",
+   "translation": "Mais moi, qui avais plus d’expérience, je pouvais clairement observer chez les yahous sauvages quelques rudiments de ce vice."
+  },
+  {
+   "id": "p00047.s1",
+   "original": "But the Houyhnhnms, who live under the government of reason, are no more proud of the good qualities they possess, than I should be for not wanting a leg or an arm; which no man in his wits would boast of, although he must be miserable without them.",
+   "translation": "Mais les Houyhnhnms, qui vivent sous le gouvernement de la raison, ne sont pas plus fiers des bonnes qualités qu’ils possèdent que je ne le serais de ne manquer ni d’une jambe ni d’un bras ; ce dont nul homme sensé ne se vanterait, bien qu’il serait misérable sans eux."
+  },
+  {
+   "id": "p00047.s2",
+   "original": "I dwell the longer upon this subject, from the desire I have to make the society of an English yahoo, by any means not insupportable; and therefore I here entreat those, who have any tincture of this absurd vice, that they will not presume to come in my sight.",
+   "translation": "Je m’étends d’autant plus longuement sur ce sujet que je désire rendre la société d’un yahou anglais tant soit peu supportable ; et c’est pourquoi je prie ici ceux qui ont quelque teinte de ce vice absurde de ne pas avoir la présomption de paraître devant mes yeux."
+  }
+ ]
+}
