@@ -1,0 +1,77 @@
+{
+  "formatVersion": 1,
+  "bookId": "tao-te-king",
+  "title": "Tao Te King",
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "zh",
+    "translator": "Stanislas Julien",
+    "translationYear": 1842,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge",
+    "label": "Traduction libre de droits (Stanislas Julien, 1842)"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Tao Te King, traduction de Stanislas Julien, Paris, Benjamin Duprat, 1842 (page « Tao Te King (Stanislas Julien) » de la Wikisource en français)",
+    "pages": [
+      {
+        "title": "Tao Te King (Stanislas Julien)/Texte entier",
+        "revisionId": 14176418
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "7a4d5aaf493b57aeaa4e0d8ebc61699b74281c275cba7205bc32a737758eb118"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p02057",
+      "find": "(les richesses.).",
+      "replace": "(les richesses).",
+      "reason": "Point en double dans l'édition numérisée : « richesses.). »"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p02061",
+      "find": "ne dispute point",
+      "replace": "ne dispute point.",
+      "reason": "Point final absent de l'édition numérisée (la phrase finit sur l'appel de note)"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p02060",
+      "find": "êtres  et",
+      "replace": "êtres et",
+      "reason": "Espace en double laissée par l'appel de note retiré"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00205.s1",
+      "p00206.s1",
+      "p00207.s1"
+    ],
+    "french": "La voie qui peut être exprimée par la parole n’est pas la Voie éternelle ; le nom qui peut être nommé n’est pas le Nom éternel.\n(L’être) sans nom est l’origine du ciel et de la terre ; avec un nom, il est la mère de toutes choses.\nC’est pourquoi, lorsqu’on est constamment exempt de passions, on voit son essence spirituelle ; lorsqu’on a constamment des passions, on le voit sous une forme bornée.",
+    "original": "La voie qui peut être exprimée par la parole n’est pas la Voie éternelle ; le nom qui peut être nommé n’est pas le Nom éternel.\n(L’être) sans nom est l’origine du ciel et de la terre ; avec un nom, il est la mère de toutes choses.\nC’est pourquoi, lorsqu’on est constamment exempt de passions, on voit son essence spirituelle ; lorsqu’on a constamment des passions, on le voit sous une forme bornée.",
+    "length": 398,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p02057.s1",
+      "p02058.s1",
+      "p02059.s1",
+      "p02060.s1",
+      "p02061.s1"
+    ],
+    "french": "Le Saint n’accumule pas (les richesses).\nPlus il emploie (sa vertu) dans l’intérêt des hommes, et plus elle augmente.\nPlus il donne aux hommes et plus il s’enrichit.\nTelle est la voie du ciel, qu’il est utile aux êtres et ne leur nuit point.\nTelle est la voie du Saint, qu’il agit et ne dispute point.",
+    "original": "Le Saint n’accumule pas (les richesses).\nPlus il emploie (sa vertu) dans l’intérêt des hommes, et plus elle augmente.\nPlus il donne aux hommes et plus il s’enrichit.\nTelle est la voie du ciel, qu’il est utile aux êtres et ne leur nuit point.\nTelle est la voie du Saint, qu’il agit et ne dispute point.",
+    "length": 301,
+    "truncated": false
+  }
+}
