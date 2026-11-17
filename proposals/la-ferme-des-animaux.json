@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-ferme-des-animaux",
+  "title": "La Ferme des animaux",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Animal Farm, texte OCR d'Internet Archive ; début du chapitre 1 et fin du chapitre 10 copiés par l'utilisateur",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "8cbaf518d393bbcf0f153675956d6ee40a64bce6359c204f4753cefdfe696500",
+    "declaredSource": {
+      "url": "https://archive.org/stream/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell_djvu.txt",
+      "copiedOn": "2026-11-17",
+      "declaredBy": "utilisateur",
+      "wrappedProse": true
+    }
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "M r. Jones",
+      "replace": "Mr. Jones",
+      "reason": "Lettrine séparée par l'OCR"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "pop- holes",
+      "replace": "pop-holes",
+      "reason": "Coupure de fin de ligne de l'OCR"
+    }
+  ],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2"
+    ],
+    "french": "M. Jones, de la Ferme du Manoir, avait fermé les poulaillers pour la nuit, mais il était trop ivre pour penser à fermer les trappes. Le cercle de lumière de sa lanterne dansant de part et d'autre, il traversa la cour en titubant, se débarrassa de ses bottes à la porte de derrière, se tira un dernier verre de bière au tonneau de l'arrière-cuisine et monta se coucher, où Mme Jones ronflait déjà.",
+    "original": "Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes. With the ring of light from his lantern dancing from side to side, he lurched across the yard, kicked off his boots at the back door, drew himself a last glass of beer from the barrel in the scullery, and made his way up to bed, where Mrs. Jones was already snoring.",
+    "length": 396,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "Douze voix criaient de colère, et elles étaient toutes semblables. Plus de doute, à présent, sur ce qui était arrivé aux visages des cochons. Les créatures du dehors regardaient du cochon à l'homme, et de l'homme au cochon, et de nouveau du cochon à l'homme ; mais déjà il était impossible de dire qui était qui.",
+    "original": "Twelve voices were shouting in anger, and they were all alike. No question, now, what had happened to the faces of the pigs. The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+    "length": 312,
+    "truncated": false
+  }
+}

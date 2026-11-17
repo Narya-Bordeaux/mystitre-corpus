@@ -1,0 +1,92 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-ferme-des-animaux",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "8cbaf518d393bbcf0f153675956d6ee40a64bce6359c204f4753cefdfe696500",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Mr. Jones, of the Manor Farm, had locked the hen-houses for the night, but was too drunk to remember to shut the pop-holes.",
+      "translation": "M. Jones, de la Ferme du Manoir, avait fermé les poulaillers pour la nuit, mais il était trop ivre pour penser à fermer les trappes."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "With the ring of light from his lantern dancing from side to side, he lurched across the yard, kicked off his boots at the back door, drew himself a last glass of beer from the barrel in the scullery, and made his way up to bed, where Mrs. Jones was already snoring.",
+      "translation": "Le cercle de lumière de sa lanterne dansant de part et d'autre, il traversa la cour en titubant, se débarrassa de ses bottes à la porte de derrière, se tira un dernier verre de bière au tonneau de l'arrière-cuisine et monta se coucher, où Mme Jones ronflait déjà."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "But they had not gone twenty yards when they stopped short.",
+      "translation": "Mais ils n'avaient pas fait vingt mètres qu'ils s'arrêtèrent net."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "An uproar of voices was coming from the farmhouse.",
+      "translation": "Un tumulte de voix venait de la maison."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "They rushed back and looked through the window again.",
+      "translation": "Ils revinrent en courant et regardèrent de nouveau par la fenêtre."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "Yes, a violent quarrel was in progress.",
+      "translation": "Oui, une violente querelle avait éclaté."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "There were shoutings, bangings on the table, sharp suspicious glances, furious denials.",
+      "translation": "Ce n'étaient que cris, coups sur la table, regards soupçonneux et acérés, dénégations furieuses."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s1",
+      "original": "But they had not gone twenty yards when they stopped short.",
+      "translation": "Mais ils n'avaient pas fait vingt mètres qu'ils s'arrêtèrent net."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "An uproar of voices was coming from the farmhouse.",
+      "translation": "Un tumulte de voix venait de la maison."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "They rushed back and looked through the window again.",
+      "translation": "Ils revinrent en courant et regardèrent de nouveau par la fenêtre."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "Yes, a violent quarrel was in progress.",
+      "translation": "Oui, une violente querelle avait éclaté."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "There were shoutings, bangings on the table, sharp suspicious glances, furious denials.",
+      "translation": "Ce n'étaient que cris, coups sur la table, regards soupçonneux et acérés, dénégations furieuses."
+    },
+    {
+      "id": "p00003.s6",
+      "original": "The source of the trouble appeared to be that Napoleon and Mr. Pilkington had each played an ace of spades simultaneously.",
+      "translation": "L'origine du différend semblait être que Napoléon et M. Pilkington avaient chacun joué un as de pique en même temps."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "Twelve voices were shouting in anger, and they were all alike.",
+      "translation": "Douze voix criaient de colère, et elles étaient toutes semblables."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "No question, now, what had happened to the faces of the pigs.",
+      "translation": "Plus de doute, à présent, sur ce qui était arrivé aux visages des cochons."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "The creatures outside looked from pig to man, and from man to pig, and from pig to man again; but already it was impossible to say which was which.",
+      "translation": "Les créatures du dehors regardaient du cochon à l'homme, et de l'homme au cochon, et de nouveau du cochon à l'homme ; mais déjà il était impossible de dire qui était qui."
+    }
+  ]
+}

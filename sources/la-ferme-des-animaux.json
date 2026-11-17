@@ -1,0 +1,60 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-ferme-des-animaux",
+  "title": "La Ferme des animaux",
+  "host": "declared",
+  "sourceLanguage": "en",
+  "edition": "Animal Farm, texte OCR d'Internet Archive ; début du chapitre 1 et fin du chapitre 10 copiés par l'utilisateur",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "8cbaf518d393bbcf0f153675956d6ee40a64bce6359c204f4753cefdfe696500",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "M r. Jones, of the Manor Farm, had locked the hen-houses for"
+  },
+  "bodyEnd": {
+    "id": "p00004",
+    "textPrefix": "Twelve voices were shouting in anger, and they were all alik"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Source déclarée (OCR)"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "M r. Jones",
+      "replace": "Mr. Jones",
+      "reason": "Lettrine séparée par l'OCR"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "pop- holes",
+      "replace": "pop-holes",
+      "reason": "Coupure de fin de ligne de l'OCR"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://archive.org/stream/AnimalFarmByGeorgeOrwell/Animal%20Farm%20by%20George%20Orwell_djvu.txt",
+    "copiedOn": "2026-11-17",
+    "declaredBy": "utilisateur",
+    "wrappedProse": true
+  }
+}
