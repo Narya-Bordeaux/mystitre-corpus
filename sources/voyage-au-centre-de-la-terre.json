@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "voyage-au-centre-de-la-terre",
+  "title": "Voyage au centre de la Terre",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Wikisource fr, « Voyage au centre de la Terre » (chapitre 1 et chapitre 45) ; édition source non indiquée ici",
+  "pages": [
+    {
+      "title": "Voyage au centre de la Terre/Chapitre 1",
+      "revisionId": 3573351
+    },
+    {
+      "title": "Voyage au centre de la Terre/Chapitre 45",
+      "revisionId": 3282876
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "05ad5164eb3ea354882dfd5104beb87154c88bd36c8003585b2e2eb128d9c4a6",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Le 24 mai 1863, un dimanche, mon oncle, le professeur Lidenb"
+  },
+  "bodyEnd": {
+    "id": "p00072",
+    "textPrefix": "À partir de ce jour, mon oncle fut le plus heureux des savan"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre centrée (p00001), titres de chapitre, « FIN » (p00073)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
