@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-chair-comme-tapis-de-priere",
+  "title": "La Chair comme tapis de prière",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Édition non indiquée (pages « 肉蒲團/第一回 » et « 肉蒲團/第二十回 » de zh.wikisource ; seuls le premier et le dernier chapitre sont enregistrés)",
+  "pages": [
+    {
+      "title": "肉蒲團/第一回",
+      "revisionId": 2569054
+    },
+    {
+      "title": "肉蒲團/第二十回",
+      "revisionId": 1630214
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "c0ffb586057d6b321e2cbb250cda9deec35bb9c448075c2675e5d82229146222",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "詞曰：黑髮難留，朱顏易變，人生不比青松。名消利息，一派落花風。悔殺少年不樂，風流院，放逐衰翁。王孫輩，聽歌金縷，及早戀芳"
+  },
+  "bodyEnd": {
+    "id": "p00021",
+    "textPrefix": "可見世上的人皆可作佛，只因被“財、色”二字縛住，不能跳脫迷津，超登彼岸。是以天堂之上，地廣人稀；地獄之中，人稠地窄。上天"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres de l'édition et de chapitre, intitulé du chapitre (p00001-p00003), commentaire final « 評曰 » (p00022, glose de commentateur, non du récit) et bandeaux Wikisource. Le corps commence au poème d'ouverture du narrateur."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}

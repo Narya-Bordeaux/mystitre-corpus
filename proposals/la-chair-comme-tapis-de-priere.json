@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-chair-comme-tapis-de-priere",
+  "title": "La Chair comme tapis de prière",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh",
+    "label": "Traduction par nos soins à partir de l'original (zh)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "zh.wikisource.org",
+    "edition": "Édition non indiquée (pages « 肉蒲團/第一回 » et « 肉蒲團/第二十回 » de zh.wikisource ; seuls le premier et le dernier chapitre sont enregistrés)",
+    "pages": [
+      {
+        "title": "肉蒲團/第一回",
+        "revisionId": 2569054
+      },
+      {
+        "title": "肉蒲團/第二十回",
+        "revisionId": 1630214
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "c0ffb586057d6b321e2cbb250cda9deec35bb9c448075c2675e5d82229146222"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3",
+      "p00004.s4"
+    ],
+    "french": "Un poème dit : Les cheveux noirs ne se laissent pas retenir, le visage vermeil change vite, et la vie humaine n'a pas la constance des pins verts. Renom et profit se dissipent, un vent de fleurs qui tombent. Cruel regret de jeunesse sans joie : au jardin des plaisirs, le vieillard est banni. Vous, fils de princes, qui écoutez chanter les robes d'or, hâtez-vous d'aimer les pivoines en fleur.",
+    "original": "詞曰：黑髮難留，朱顏易變，人生不比青松。名消利息，一派落花風。悔殺少年不樂，風流院，放逐衰翁。王孫輩，聽歌金縷，及早戀芳藥。",
+    "length": 393,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00021.s4",
+      "p00021.s5"
+    ],
+    "french": "C'est que le sage qui ouvrit le ciel et la terre s'est mêlé de trop de choses : il n'aurait pas dû faire naître les femmes ni établir la monnaie, pour enfermer les hommes dans une telle impasse. Maintenant, avec ces deux phrases des Quatre Livres, on peut lui dresser son acte d'accusation : « Celui qui le premier fabriqua des figurines funéraires, n'était-ce pas le sage ? »",
+    "original": "總是開天闢地的聖人多事，不該生女子、設錢財，把人限到這地步。如今把這兩句《四書》定他罪案，道：始作俑者，其為聖人乎？",
+    "length": 376,
+    "truncated": false
+  }
+}

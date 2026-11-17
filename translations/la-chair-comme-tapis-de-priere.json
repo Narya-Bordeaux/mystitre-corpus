@@ -1,0 +1,117 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-chair-comme-tapis-de-priere",
+  "sourceLanguage": "zh",
+  "cleanTextSha256": "c0ffb586057d6b321e2cbb250cda9deec35bb9c448075c2675e5d82229146222",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "詞曰：黑髮難留，朱顏易變，人生不比青松。",
+      "translation": "Un poème dit : Les cheveux noirs ne se laissent pas retenir, le visage vermeil change vite, et la vie humaine n'a pas la constance des pins verts."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "名消利息，一派落花風。",
+      "translation": "Renom et profit se dissipent, un vent de fleurs qui tombent."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "悔殺少年不樂，風流院，放逐衰翁。",
+      "translation": "Cruel regret de jeunesse sans joie : au jardin des plaisirs, le vieillard est banni."
+    },
+    {
+      "id": "p00004.s4",
+      "original": "王孫輩，聽歌金縷，及早戀芳藥。",
+      "translation": "Vous, fils de princes, qui écoutez chanter les robes d'or, hâtez-vous d'aimer les pivoines en fleur."
+    },
+    {
+      "id": "p00004.s5",
+      "original": "世間真樂地，算來算去，還數房中。",
+      "translation": "Le vrai pays du plaisir, à tout bien compter, c'est encore la chambre à coucher."
+    },
+    {
+      "id": "p00004.s6",
+      "original": "不比榮華境，歡始愁終。",
+      "translation": "Il ne ressemble pas au monde des honneurs, où la joie commence et la tristesse finit."
+    },
+    {
+      "id": "p00004.s7",
+      "original": "得趣朝朝，燕酣眠處，怕響晨鐘。",
+      "translation": "Chaque matin on y goûte son bonheur ; dans le sommeil heureux des hirondelles, on craint le son de la cloche de l'aube."
+    },
+    {
+      "id": "p00004.s8",
+      "original": "睜眼看，乾坤覆載，一幅大春宮。",
+      "translation": "Ouvrez les yeux : entre le ciel et la terre qui nous couvrent et nous portent, il n'est qu'une immense image de printemps."
+    },
+    {
+      "id": "p00005.s1",
+      "original": "這一首詞名曰《滿庭芳》。",
+      "translation": "Ce poème s'intitule « La Cour pleine de parfums »."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "單說人生在世朝朝勞苦事事愁煩，沒有一毫受用處，還虧那太古之世開天闢地的聖人制一件男女交媾之情，與人息息勞苦解解愁煩，不至十分憔悴。",
+      "translation": "Il faut dire que l'homme, en ce monde, peine tous les jours et s'afflige de tout, sans la moindre jouissance ; heureusement, le sage de la haute antiquité qui ouvrit le ciel et la terre institua l'union de l'homme et de la femme, qui apaise un peu sa fatigue et sa tristesse, et lui évite de se consumer tout à fait."
+    },
+    {
+      "id": "p00005.s3",
+      "original": "照拘儒說來，婦人腰下物乃生我之門，死我之戶。",
+      "translation": "À en croire les pédants, ce qui se trouve sous la ceinture de la femme est la porte par où je naquis et le seuil par où je mourrai."
+    },
+    {
+      "id": "p00005.s4",
+      "original": "據達者看來，人生在世若沒有這件東西，只怕頭髮還早白幾年，壽還略少幾歲。",
+      "translation": "À en croire les esprits éclairés, si l'homme n'avait pas cela en ce monde, ses cheveux blanchiraient sans doute quelques années plus tôt, et sa vie serait un peu plus courte."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00019.s9",
+      "original": "即此一推，懺悔得去懺悔不去就知道了。”",
+      "translation": "« D'après cela, vous saurez si votre repentir peut se faire ou non. »"
+    },
+    {
+      "id": "p00020.s1",
+      "original": "頑石見他有向善之心，不勝之喜，就把自己三年前不受師父教訓，肆意妄行，後來報應句句合著他所言，不可不以小弟為鑑。",
+      "translation": "Voyant qu'il tournait son cœur vers le bien, Pierre-Têtue fut transporté de joie : il lui raconta comment, trois ans plus tôt, il n'avait pas écouté les leçons de son maître et avait agi à sa guise, et comment la rétribution était venue, mot pour mot comme son maître l'avait dit ; il ne pouvait manquer de servir d'exemple à son petit frère."
+    },
+    {
+      "id": "p00020.s2",
+      "original": "賽崑崙定了主意，就拜孤峰為師，削了頭髮，立志苦修二十年，成了正果。",
+      "translation": "Ayant pris sa décision, Saï Kunlun se fit disciple de Gufeng, se fit raser la tête et résolut de pratiquer l'ascèse pendant vingt ans, jusqu'à atteindre le fruit de la vérité."
+    },
+    {
+      "id": "p00020.s3",
+      "original": "與孤峰、頑石一同坐化。",
+      "translation": "Il s'éteignit assis, en méditation, en même temps que Gufeng et Pierre-Têtue."
+    },
+    {
+      "id": "p00021.s1",
+      "original": "可見世上的人皆可作佛，只因被“財、色”二字縛住，不能跳脫迷津，超登彼岸。",
+      "translation": "On voit que tous les hommes de ce monde peuvent devenir bouddhas ; ils ne sont retenus que par les deux mots « richesse » et « volupté », et ne peuvent s'évader du gué de l'illusion ni atteindre l'autre rive."
+    },
+    {
+      "id": "p00021.s2",
+      "original": "是以天堂之上，地廣人稀；地獄之中，人稠地窄。",
+      "translation": "Aussi, au ciel, la terre est vaste et les gens rares ; aux enfers, les gens sont nombreux et la terre étroite."
+    },
+    {
+      "id": "p00021.s3",
+      "original": "上天大帝，清聞不過；閻羅天子，料理不來。",
+      "translation": "L'Empereur du ciel n'a pas assez de calme pour entendre tout cela ; le roi Yama n'arrive pas à tout régler."
+    },
+    {
+      "id": "p00021.s4",
+      "original": "總是開天闢地的聖人多事，不該生女子、設錢財，把人限到這地步。",
+      "translation": "C'est que le sage qui ouvrit le ciel et la terre s'est mêlé de trop de choses : il n'aurait pas dû faire naître les femmes ni établir la monnaie, pour enfermer les hommes dans une telle impasse."
+    },
+    {
+      "id": "p00021.s5",
+      "original": "如今把這兩句《四書》定他罪案，道：始作俑者，其為聖人乎？",
+      "translation": "Maintenant, avec ces deux phrases des Quatre Livres, on peut lui dresser son acte d'accusation : « Celui qui le premier fabriqua des figurines funéraires, n'était-ce pas le sage ? »"
+    }
+  ]
+}
