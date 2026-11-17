@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "limpromptu-de-versailles",
+  "title": "L’Impromptu de Versailles",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "L’Impromptu de Versailles, Œuvres complètes de Molière, édition Louandre, 1910 (fr.wikisource)",
+    "pages": [
+      {
+        "title": "L’Impromptu de Versailles/Édition Louandre, 1910",
+        "revisionId": 12958574
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "32a9c78c2029518607d902b82cd5caa7b8d1ed7cc3b6e3a88450e67b8b9a3d19"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2",
+      "p00004.s3",
+      "p00004.s4",
+      "p00005.s1",
+      "p00006.s1",
+      "p00007.s1",
+      "p00008.s1",
+      "p00009.s1"
+    ],
+    "french": "MOLIÈRE. — Allons donc, Messieurs et Mesdames, vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici ? La peste soit des gens ! Holà ho ! Monsieur de Brécourt !\nBRÉCOURT. — Quoi ?\nMOLIÈRE. — Monsieur de la Grange !\nLA GRANGE. — Qu’est-ce ?\nMOLIÈRE. — Monsieur du Croisy !\nDU CROISY. — Plaît-il ?",
+    "original": "MOLIÈRE. — Allons donc, Messieurs et Mesdames, vous moquez-vous avec votre longueur, et ne voulez-vous pas tous venir ici ? La peste soit des gens ! Holà ho ! Monsieur de Brécourt !\nBRÉCOURT. — Quoi ?\nMOLIÈRE. — Monsieur de la Grange !\nLA GRANGE. — Qu’est-ce ?\nMOLIÈRE. — Monsieur du Croisy !\nDU CROISY. — Plaît-il ?",
+    "length": 316,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00286.s1",
+      "p00287.s1",
+      "p00287.s2",
+      "p00287.s3"
+    ],
+    "french": "BÉJART. — Non, Messieurs, je viens pour vous dire qu’on a dit au Roi l’embarras où vous vous trouviez, et que, par une bonté toute particulière, il remet votre nouvelle comédie à une autre fois, et se contente, pour aujourd’hui, de la première que vous pourrez donner.\nMOLIÈRE. — Ah ! Monsieur, vous me redonnez la vie ! Le Roi nous fait la plus grande grâce du monde de nous donner du temps pour ce qu’il avait souhaité, et nous allons tous le remercier des extrêmes bontés qu’il nous fait paraître.",
+    "original": "BÉJART. — Non, Messieurs, je viens pour vous dire qu’on a dit au Roi l’embarras où vous vous trouviez, et que, par une bonté toute particulière, il remet votre nouvelle comédie à une autre fois, et se contente, pour aujourd’hui, de la première que vous pourrez donner.\nMOLIÈRE. — Ah ! Monsieur, vous me redonnez la vie ! Le Roi nous fait la plus grande grâce du monde de nous donner du temps pour ce qu’il avait souhaité, et nous allons tous le remercier des extrêmes bontés qu’il nous fait paraître.",
+    "length": 500,
+    "truncated": false
+  }
+}
