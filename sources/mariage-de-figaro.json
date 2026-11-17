@@ -1,0 +1,51 @@
+{
+  "formatVersion": 1,
+  "bookId": "mariage-de-figaro",
+  "title": "Le Mariage de Figaro",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Mariage de Figaro (page Wikisource « Texte entier »)",
+  "pages": [
+    {
+      "title": "Le Mariage de Figaro/Texte entier",
+      "revisionId": 7136652
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "7eeaf7de9159fcdaf6ad6b296614a62b2277924b4c16a9bbfac5631e55114eea",
+  "bodyStart": {
+    "id": "p00198",
+    "textPrefix": "Dix-neuf pieds sur vingt-six."
+  },
+  "bodyEnd": {
+    "id": "p02843",
+    "textPrefix": "Or, messieurs, la co-omédie,\nQue l’on juge en cè-et instant,"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : page de titre, préface, liste des personnages, caractères et habillements, placement des acteurs, indication de lieu, didascalie d'ouverture de l'acte I ; didascalie finale « (Ballet général.) ». Début sur la première réplique de Figaro, fin sur le dernier couplet du vaudeville (Brid'Oison)."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00200",
+      "reason": "Didascalie dont l'édition a perdu le sujet et les parenthèses (« lui prend les mains. ») : fragment illisible hors contexte, non lu comme texte"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00202",
+      "reason": "Didascalie dont l'édition a perdu le sujet et les parenthèses (« lui prend les mains. ») : fragment illisible hors contexte, non lu comme texte"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p02842",
+      "reason": "Rubrique de mise en page du vaudeville (« Dixième couplet. »), non lue comme texte"
+    }
+  ]
+}
