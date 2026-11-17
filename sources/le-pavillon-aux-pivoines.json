@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-pavillon-aux-pivoines",
+  "title": "Le Pavillon aux pivoines",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Texte de zh.wikisource « 牡丹亭 » (55 scènes) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "牡丹亭/標目",
+      "revisionId": 7913591
+    },
+    {
+      "title": "牡丹亭/圓駕",
+      "revisionId": 8057249
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2c19e411920f91f213124dbce667fd97782199dfe3d991736bb4c4f0e4f6349d",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "【蝶戀花】(末上)忙處拋人閒處住。百計思量，沒箇為歡處。白日消磨腸斷句，世間只有情難訴。玉茗堂前朝復暮，紅燭迎人，俊得江"
+  },
+  "bodyEnd": {
+    "id": "p00018",
+    "textPrefix": "【北尾】(生)從今後把牡丹亭夢影雙描畫。(旦)虧殺你南枝挨暖俺北枝花。則普天下做鬼的有情誰似咱！"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Début : prologue 標目 (première scène de la pièce), qui appartient au texte. Fin : dernier air (北尾) de la scène 圓駕 ; exclu : le quatrain final de vers cités des poètes Tang (集唐) avec leurs noms d'auteurs en ligne, glose de mise en forme."
+  ],
+  "titleMasks": [
+    "pavillon aux pivoines"
+  ],
+  "readingOptions": []
+}
