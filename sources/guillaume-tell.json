@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "guillaume-tell",
+  "title": "Guillaume Tell",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "édition non indiquée (Wikisource allemande, « Wilhelm Tell », 5 actes)",
+  "pages": [
+    {
+      "title": "Wilhelm Tell/Erster Aufzug",
+      "revisionId": 2047699
+    },
+    {
+      "title": "Wilhelm Tell/Zweiter Aufzug",
+      "revisionId": 1193038
+    },
+    {
+      "title": "Wilhelm Tell/Dritter Aufzug",
+      "revisionId": 1197292
+    },
+    {
+      "title": "Wilhelm Tell/Vierter Aufzug",
+      "revisionId": 1757100
+    },
+    {
+      "title": "Wilhelm Tell/Fünfter Aufzug",
+      "revisionId": 1192897
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "2db0b65f7f6bb37a02aaac28172dc853941059eb96fb3469ba2cbce176ed8841",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Fischerknabe singt im Kahn\n     (Melodie des Kuhreihens)\nEs "
+  },
+  "bodyEnd": {
+    "id": "p00294",
+    "textPrefix": "Bertha\nLandleute! Eidgenossen! Nehmt mich auf\nIn euern Bund,"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "tmp",
+    "Exclus : indications d'actes et de scènes, didascalie d'ouverture (p00003) et didascalie finale (p00295). Début sur la chanson du pêcheur, fin sur la dernière réplique de Rudenz."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "Fischerknabe singt im Kahn\n",
+      "replace": "",
+      "reason": "Nom du chanteur et indication musicale : didascalies de mise en page incluses dans le paragraphe par l'édition ; seule la chanson est gardée."
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "(Melodie des Kuhreihens)\n",
+      "replace": "",
+      "reason": "Indication musicale (didascalie), non lue."
+    }
+  ]
+}

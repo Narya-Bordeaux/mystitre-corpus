@@ -1,0 +1,5075 @@
+# Guillaume Tell
+
+Source : édition non indiquée (Wikisource allemande, « Wilhelm Tell », 5 actes) — de.wikisource.org
+
+Origine : Traduction par nos soins à partir de l'original (de)
+
+- [Wilhelm Tell/Erster Aufzug](https://de.wikisource.org/w/index.php?title=Wilhelm_Tell/Erster_Aufzug&oldid=2047699)
+- [Wilhelm Tell/Zweiter Aufzug](https://de.wikisource.org/w/index.php?title=Wilhelm_Tell/Zweiter_Aufzug&oldid=1193038)
+- [Wilhelm Tell/Dritter Aufzug](https://de.wikisource.org/w/index.php?title=Wilhelm_Tell/Dritter_Aufzug&oldid=1197292)
+- [Wilhelm Tell/Vierter Aufzug](https://de.wikisource.org/w/index.php?title=Wilhelm_Tell/Vierter_Aufzug&oldid=1757100)
+- [Wilhelm Tell/Fünfter Aufzug](https://de.wikisource.org/w/index.php?title=Wilhelm_Tell/Fünfter_Aufzug&oldid=1192897)
+
+`p00001` Erster Aufzug
+
+`p00002` Erste Scene
+
+`p00003` Hohes Felsenufer des Vierwaldstättensees, Schwytz gegenüber. Der See macht eine Bucht ins Land, eine Hütte ist unweit dem Ufer, Fischerknabe fährt sich in einem Kahn. Ueber den See hinweg sieht man die grünen Matten, Dörfer und Höfe von Schwytz im hellen Sonnenschein liegen. Zur linken des Zuschauers zeigen sich die Spitzen des Haken, mit Wolken umgeben; zur rechten im fernen Hintergrund sieht man die Eisgebirge. Noch ehe der Vorhang aufgeht, hört man den Kuhreihen und das harmonische Geläut der Heerdenglocken, welches sich auch bei eröfneter Scene noch eine Zeitlang fortsezt.
+
+`p00004` Fischerknabe singt im Kahn  
+     (Melodie des Kuhreihens)  
+Es lächelt der See, er ladet zum Bade,  
+Der Knabe schlief ein am grünen Gestade,  
+     Da hört er ein Klingen,  
+     Wie Flöten so süß,  
+     Wie Stimmen der Engel  
+     Im Paradieß.
+
+`p00005` Und wie er erwachet in seliger Lust,  
+Da spühlen die Wasser ihm um die Brust,  
+     Und es ruft aus den Tiefen:  
+     Lieb Knabe, bist mein!  
+     Ich locke den Schläfer,  
+     Ich zieh ihn herein.  
+Hirte (auf dem Berge)  
+     (Variation des Kuhreihens)  
+Ihr Matten lebt wohl,  
+Ihr sonnigen Weiden!  
+Der Senne muß scheiden,  
+Der Sommer ist hin.  
+     Wir fahren zu Berg, wir kommen wieder,  
+     Wenn der Kukuk ruft, wenn erwachen die Lieder,  
+     Wenn mit Blumen die Erde sich kleidet neu,  
+     Wenn die Brünnlein fließen im lieblichen May.  
+Ihr Matten lebt wohl,  
+Ihr sonn’gen Weiden!  
+Der Senne muß scheiden,  
+Der Sommer ist hin.
+
+`p00006` Alpenjäger (erscheint gegenüber auf der Höhe des Felsen)  
+     (Zweite Variation)  
+Es donnern die Höhen, es zittert der Steg,  
+Nicht grauet dem Schützen auf schwindlichtem Weg,  
+     Er schreitet verwegen  
+     Auf Feldern von Eis,  
+     Da pranget kein Frühling,  
+     Da grünet kein Reis;  
+Und unter den Füssen ein neblichtes Meer,  
+Erkennt er die Städte der Menschen nicht mehr,  
+     Durch den Riß nur der Wolken  
+     Erblickt er die Welt,  
+     Tief unter den Wassern  
+     Das grünende Feld.
+
+`p00007` (Die Landschaft verändert sich, man hört ein dumpfes Krachen von den Bergen, Schatten von Wolken laufen über die Gegend)
+
+`p00008` Ruodi der Fischer kommt aus der Hütte, Werni der Jäger steigt vom Felsen, Kuoni der Hirte kommt, mit dem Melknapf auf der Schulter. Seppi, seine Handbube, folgt ihm)
+
+`p00009` Ruodi  
+Mach hurtig Jenny. Zieh die Naue ein.  
+Der graue Thalvogt kommt, dumpf brüllt der Firn,  
+Der Mytenstein zieht seine Haube an,  
+Und kalt her bläßt es aus dem Wetterloch,  
+Der Sturm, ich meyn’, wird da seyn, eh’ wirs denken.  
+Kuoni  
+’s kommt Regen, Fährmann. Meine Schaafe fressen  
+Mit Begierde Gras, und Wächter scharrt die Erde.  
+Werni  
+Die Fische springen, und das Wasserhuhn  
+Taucht unter. Ein Gewitter ist im Anzug.  
+Kuoni (zum Buben)  
+Lug’ Seppi, ob das Vieh sich nicht verlaufen.  
+Seppi  
+Die braune Lisel kenn ich am Geläut.  
+Kuoni  
+So fehlt uns keine mehr, die geht am weitsten.  
+Ruodi  
+Ihr habt ein schön Geläute, Meister Hirt.
+
+`p00010` Werni  
+Und schmuckes Vieh – Ists euer eignes, Landsmann?  
+Kuoni  
+Bin nit so reich – ’s ist meines gnäd’gen Herrn,  
+Des Attinghäusers, und mir zugezählt.  
+Ruodi  
+Wie schön der Kuh das Band zu Halse steht  
+Kuoni  
+Das weiß sie auch, daß sie den Reihen führt,  
+Und nähm ich ihr’s, sie hörte auf zu fressen.  
+Ruodi  
+Ihr seid nicht klug! Ein unvernünft’ges Vieh –  
+Werni  
+Ist bald gesagt. Das Thier hat auch Vernunft,  
+Das wissen wir, die wir die Gemsen jagen,  
+Die stellen klug, wo sie zur Weide gehn,  
+’ne Vorhut aus, die spizt das Ohr und warnet  
+Mit heller Pfeife, wenn der Jäger naht.  
+Ruodi (zum Hirten)  
+Treibt ihr jetzt heim?
+
+`p00011` Kuoni  
+ Die Alp ist abgeweidet.  
+Werni  
+Glücksel’ge Heimkehr, Senn!  
+Kuoni  
+ Die wünsch ich Euch,  
+Von eurer Fahrt kehrt sich’s nicht immer wieder.  
+Ruodi  
+Dort kommt ein Mann in voller Hast gelaufen.  
+Werni  
+Ich kenn’ ihn, ’s ist der Baumgart von Alzellen.  
+     Konrad Baumgarten (atemlos hereinstürzend)  
+Baumgarten  
+Um Gottes willen, Fährmann, euren Kahn!  
+Ruodi  
+Nun, nun, was giebts so eilig?  
+Baumgarten  
+ Bindet los!  
+Ihr rettet mich vom Tode! Sezt mich über!  
+Kuoni  
+Landsmann, was habt ihr?
+
+`p00012` Werni  
+ Wer verfolgt euch denn?  
+Baumgarten (zum Fischer)  
+Eilt, eilt, sie sind mir dicht schon an den Fersen!  
+Des Landvogts Reiter kommen hinter mir,  
+Ich bin ein Mann des Tods, wenn sie mich greifen.  
+Ruodi  
+Warum verfolgen euch die Reisigen?  
+Baumgarten  
+Erst rettet mich, und dann steh ich euch Rede.  
+Werni  
+Ihr seid mit Blut befleckt, was hat’s gegeben?  
+Baumgarten  
+Des Kaisers Burgvogt, der auf Roßberg saß –  
+Kuoni  
+Der Wolfenschießen? Läßt euch der verfolgen?  
+Baumgarten  
+Der schadet nicht mehr, ich hab’ ihn erschlagen.  
+Alle (fahren zurück)  
+Gott sey euch gnädig! Was habt ihr gethan?
+
+`p00013` Baumgarten  
+Was jeder freie Mann an meinem Platz!  
+Mein gutes Hausrecht hab’ ich ausgeübt  
+Am Schänder meiner Ehr’ und meines Weibes.  
+Kuoni  
+Hat euch der Burgvogt an der Ehr’ geschädigt?  
+Baumgarten  
+Daß er sein bös Gelüsten nicht vollbracht,  
+Hat Gott und meine gute Axt verhütet.  
+Werni  
+Ihr habt ihm mit der Axt den Kopf zerspalten?  
+Kuoni  
+O laßt uns alles hören, ihr habt Zeit,  
+Bis er den Kahn vom Ufer los gebunden.  
+Baumgarten  
+Ich hatte Holz gefällt im Wald, da kommt  
+Mein Weib gelaufen in der Angst des Todes.  
+„Der Burgvogt lieg’ in meinem Haus, er hab’  
+Ihr anbefohlen, ihm ein Bad zu rüsten.  
+Drauf hab’ er Ungebührliches von ihr  
+Verlangt, sie sey entsprungen mich zu suchen.“
+
+`p00014` Da lief ich frisch hinzu, so wie ich war,  
+Und mit der Axt hab’ ich ihm ’s Bad gesegnet.  
+Werni  
+Ihr thatet wohl, kein Mensch kann euch drum schelten.  
+Kuoni  
+Der Wütherich! Der hat nun seinen Lohn!  
+Hat’s lang verdient ums Volk von Unterwalden.  
+Baumgarten  
+Die That ward ruchtbar, mir wird nachgesezt –  
+Indem wir sprechen – Gott – verrinnt die Zeit –  
+     (es fängt an zu donnern)  
+Kuoni  
+Frisch Fährmann – Schaff den Biedermann hinüber.  
+Ruodi  
+Geht nicht. Ein schweres Ungewitter ist  
+Im Anzug. Ihr müßt warten.  
+Baumgarten  
+ Heilger Gott!  
+Ich kann nicht warten. Jeder Aufschub tödet –
+
+`p00015` Kuoni (zum Fischer)  
+Greif an mit Gott, dem Nächsten muß man helfen,  
+Es kann uns allen Gleiches ja begegnen.  
+     (Brausen und Donnern)  
+Ruodi  
+Der Föhn ist los, ihr seht’ wie hoch der See geht,  
+Ich kann nicht steuern gegen Sturm und Wellen.  
+Baumgarten (umfaßt seine Knie)  
+So helf euch Gott, wie ihr euch mein erbarmet –  
+Werni  
+Es geht ums Leben, sei barmherzig, Fährmann.  
+Kuoni  
+’s ist ein Hausvater, und hat Weib und Kinder!  
+     (Wiederholte Donnerschläge)  
+Ruodi  
+Was? Ich hab’ auch ein Leben zu verlieren,  
+Hab’ Weib und Kind daheim, wie er – Seht hin,  
+Wie’s brandet, wie es wogt und Wirbel zieht,  
+Und alle Wasser aufrührt in der Tiefe.  
+– Ich wollte gern den Biedermann erretten,  
+Doch es ist rein unmöglich, ihr seht selbst.
+
+`p00016` Baumgarten (noch auf den Knien)  
+So muß ich fallen in des Feindes Hand,  
+Das nahe Rettungsufer im Gesichte!  
+– Dort liegt’s! Ich kann’s erreichen mit den Augen,  
+Hinüberdringen kann der Stimme Schall,  
+Da ist der Kahn, der mich hinübertrüge,  
+Und muß hier liegen, hülflos, und verzagen!  
+Kuoni  
+Seht, wer da kommt!  
+Werni  
+ Es ist der Tell aus Bürglen.  
+     Tell mit der Armbrust.  
+Tell  
+Wer ist der Mann, der hier um Hülfe fleht?  
+Kuoni  
+’s ist ein Alzeller Mann, er hat sein’ Ehr  
+Vertheidigt, und den Wolfenschieß erschlagen,  
+Des Königs Burgvogt, der auf Roßberg saß –  
+Des Landvogts Reiter sind ihm auf den Fersen,  
+Er fleht den Schiffer um die Ueberfahrt,  
+Der fürcht’t sich vor dem Sturm und will nicht fahren.
+
+`p00017` Ruodi  
+Da ist der Tell, er führt das Ruder auch,  
+Der soll mirs zeugen, ob die Fahrt zu wagen.  
+     (Heftige Donnerschläge, der See rauscht auf)  
+Ruodi  
+Ich soll mich in den Höllenrachen stürzen?  
+Das thäte keiner, der bei Sinnen ist.  
+Tell  
+Der brave Mann denkt an sich selbst zulezt,  
+Vertrau auf Gott und rette den Bedrängten.  
+Ruodi  
+Vom sichern Port läßt sich’s gemächlich rathen,  
+Da ist der Kahn und dort der See! Versuchts!  
+Tell  
+Der See kann sich, der Landvogt nicht erbarmen,  
+Versuch es Fährmann!  
+Hirten und Jäger  
+ Rett ihn! Rett ihn! Rett ihn!  
+Ruodi  
+Und wär’s mein Bruder und mein leiblich Kind,
+
+`p00018` Es kann nicht seyn, ’s ist heut Simons und Judä,  
+Da ras’t der See und will sein Opfer haben.  
+Tell  
+Mit eitler Rede wird hier nichts geschafft,  
+Die Stunde dringt, dem Mann muß Hülfe werden.  
+Sprich, Fährmann, willst du fahren?  
+Ruodi  
+ Nein, nicht ich!  
+Tell  
+In Gottes Namen denn! Gib her den Kahn,  
+Ich wills mit meiner schwachen Kraft versuchen.  
+Kuoni  
+Ha wackrer Tell!  
+Werni  
+ Das gleicht dem Waidgesellen!  
+Baumgarten  
+Mein Retter seid ihr und mein Engel, Tell!  
+Tell  
+Wohl aus des Vogts Gewalt errett ich euch,  
+Aus Sturmes Nöthen muß ein Andrer helfen.
+
+`p00019` Doch besser ist’s, ihr fallt in Gottes Hand,  
+Als in der Menschen!  
+     (zu dem Hirten)  
+ Landsmann, tröstet ihr  
+Mein Weib, wenn mir was menschliches begegnet,  
+Ich hab’ gethan, was ich nicht lassen konnte.  
+     (er springt in den Kahn)  
+Kuoni (zum Hirten)  
+Ihr seid ein Meister Steuermann. Was sich  
+Der Tell getraut, das konntet ihr nicht wagen?  
+Ruodi  
+Wohl beßre Männer thuns dem Tell nicht nach,  
+Es giebt nicht zwey, wie der ist, im Gebirge.  
+Werni (ist auf den Fels gestiegen)  
+Er stößt schon ab. Gott helf dir, braver Schwimmer  
+Sieh, wie das Schifflein auf den Wellen schwankt!  
+Kuoni (am Ufer)  
+Die Flut geht drüber weg – Ich seh’s nicht mehr.  
+Doch halt, da ist es wieder! Kräftiglich  
+Arbeitet sich der Wackre durch die Brandung.
+
+`p00020` Seppi  
+Des Landvogts Reiter kommen angesprengt.  
+Kuoni  
+Weiß Gott, sie sinds! Das war Hülf in der Noth  
+     Ein Trupp Landenbergischer Reiter  
+Erster Reiter  
+Den Mörder gebt heraus, den ihr verborgen.  
+Zweiter  
+Des Wegs kam er, umsonst verhehlt ihr ihn.  
+Kuoni und Ruodi  
+Wen meint ihr, Reiter?  
+Erster Reiter (entdeckt den Nachen)  
+ Ha, was seh ich! Teufel!  
+Werni (oben)  
+Ist’s der im Nachen, den ihr sucht? – Reit zu!  
+Wenn ihr frisch beilegt, hohlt ihr ihn noch ein.  
+Zweiter  
+Verwünscht! Er ist entwischt.  
+Erster (zum Hirten und Fischer)  
+ Ihr habt ihm fortgeholfen,
+
+`p00021` Ihr sollt uns büßen – Fallt in ihre Heerde!  
+Die Hütte reißet ein, brennt und schlagt nieder!  
+(eilen fort)  
+Seppi (stürzt nach)  
+O meine Lämmer!  
+Kuoni (folgt)  
+ Weh mir! Meine Heerde!  
+Werni  
+Die Wüthriche!  
+Ruodi (ringt die Hände)  
+ Gerechtigkeit des Himmels,  
+Wann wird der Retter kommen diesem Lande?  
+     (folgt ihnen)
+
+`p00022` Zweite Scene
+
+`p00023` Zu Steinen in Schwytz. Eine Linde vor des Stauffachers Hause an der Landstraße, nächst der Brücke.  
+Werner Stauffacher, Pfeiffer von Luzern  
+kommen im Gespräch.  
+Pfeiffer  
+Ja, ja Herr Stauffacher, wie ich euch sagte.
+
+`p00024` Schwört nicht zu Oestreich, wenn ihrs könnt vermeiden.  
+Haltet fest am Reich und wacker wie bisher,  
+Gott schirme euch bei eurer alten Freiheit!  
+     (drückt ihm herzlich die Hand und will gehen)  
+Stauffacher  
+Bleibt doch, bis meine Wirthin kommt – Ihr seid  
+Mein Gast zu Schwytz, ich in Lucern der Eure.  
+Pfeiffer  
+Viel Dank! Muß heute Gersau noch erreichen.  
+– Was ihr auch schweres mögt zu leiden haben  
+Von eurer Vögte Geiz und Uebermuth,  
+Tragt’s in Geduld! Es kann sich ändern, schnell,  
+Ein andrer Kaiser kann an’s Reich gelangen.  
+Seid ihr erst Oesterreichs, seid ihrs auf immer.  
+(er geht ab. Stauffacher sezt sich kummervoll auf eine Bank unter der Linde. So findet ihn Gertrud, seine Frau, die sich neben ihn stellt und ihn eine Zeitlang schweigend betrachtet)  
+Gertrud  
+So ernst, mein Freund? Ich kenne dich nicht mehr.  
+Schon viele Tage seh’ ich’s schweigend an,
+
+`p00025` Wie finstrer Trübsinn deine Stirne furch’t.  
+Auf deinem Herzen drückt ein still Gebresten,  
+Vertrau es mir, ich bin dein treues Weib,  
+Und meine Hälfte fodr’ ich deines Grams.  
+     (Stauffacher reicht ihr die Hand und schweigt)  
+Was kann dein Herz beklemmen, sag es mir.  
+Gesegnet ist dein Fleiß, dein Glücksstand blüht,  
+Voll sind die Scheunen, und der Rinder Schaaren,  
+Der glatten Pferde wohl genährte Zucht  
+Ist von den Bergen glücklich heimgebracht  
+Zur Winterung in den bequemen Ställen.  
+– Da steht dein Haus, reich, wie ein Edelsitz,  
+Von schönem Stammholz ist es neu gezimmert  
+Und nach dem Richtmaaß ordentlich gefügt,  
+Von vielen Fenstern glänzt es wohnlich, hell,  
+Mit bunten Wappenschildern ist’s bemahlt,  
+Und weisen Sprüchen, die der Wandersmann  
+Verweilend liest und ihren Sinn bewundert.  
+Stauffacher  
+Wohl steht das Haus gezimmert und gefügt,  
+Doch ach – es wankt der Grund, auf den wir bauten.
+
+`p00026` Gertrud  
+Mein Werner sage, wie verstehst du das?  
+Stauffacher  
+Vor dieser Linde saß ich jüngst wie heut,  
+Das schön vollbrachte freudig überdenkend,  
+Da kam daher von Küssnacht, seiner Burg,  
+Der Vogt mit seinen Reisigen geritten.  
+Vor diesem Hause hielt er wundernd an,  
+Doch ich erhub mich schnell, und unterwürfig  
+Wie sich’s gebührt, trat ich dem Herrn entgegen,  
+Der uns des Kaisers richterliche Macht  
+Vorstellt im Lande. Wessen ist dieß Haus?  
+Fragt’ er bösmeinend, denn er wußt es wohl.  
+Doch schnell besonnen ich entgegn’ ihm so:  
+Dieß Haus, Herr Vogt, ist meines Herrn des Kaisers,  
+Und Eures und mein Lehen – da versezt er:  
+„Ich bin Regent im Land an Kaisers Statt  
+Und will nicht, daß der Bauer Häuser baue  
+Auf seine eigne Hand, und also frey  
+Hinleb’, als ob er Herr wär in dem Lande,  
+Ich werd’ mich unterstehn, euch das zu wehren.“
+
+`p00027` Dieß sagend ritt er trutziglich von dannen,  
+Ich aber blieb mit kummervoller Seele,  
+Das Wort bedenkend, das der Böse sprach.  
+Gertrud  
+Mein lieber Herr und Ehewirth! Magst du  
+Ein redlich Wort von deinem Weib vernehmen?  
+Des edeln Ibergs Tochter rühm ich mich,  
+Des viel erfahrnen Mann’s. Wir Schwestern saßen,  
+Die Wolle spinnend, in den langen Nächten,  
+Wenn bei dem Vater sich des Volkes Häupter  
+Versammelten, die Pergamente lasen  
+Der alten Kaiser, und des Landes Wohl  
+Bedachten in vernünftigem Gespräch.  
+Aufmerkend hört’ ich da manch kluges Wort,  
+Was der Verständge denkt, der Gute wünscht,  
+Und still im Herzen hab ich mirs bewahrt.  
+So höre denn und acht’ auf meine Rede,  
+Denn was dich preßte, sieh das wußt ich längst.  
+– Dir grollt der Landvogt, möchte gern dir schaden,  
+Denn du bist ihm ein Hinderniß, daß sich
+
+`p00028` Der Schwytzer nicht dem neuen Fürstenhaus  
+Will unterwerfen, sondern treu und fest  
+Beim Reich beharren, wie die würdigen  
+Altvordern es gehalten und gethan. –  
+Ists nicht so Werner? Sag es, wenn ich lüge!  
+Stauffacher  
+So ist’s, das ist des Geßlers Groll auf mich.  
+Gertrud  
+Er ist dir neidisch, weil du glücklich wohnst,  
+Ein freier Mann auf deinem eignen Erb,  
+– Denn Er hat keins. Vom Kaiser selbst und Reich  
+Trägst du dieß Haus zu Lehn, du darfst es zeigen,  
+So gut der Reichsfürst seine Länder zeigt,  
+Denn über dir erkennst du keinen Herrn  
+Als nur den Höchsten in der Christenheit –  
+Er ist ein jüngrer Sohn nur seines Hauses,  
+Nichts nennt er sein als seinen Rittermantel,  
+Drum sieht er jedes Biedermannes Glück  
+Mit scheelen Augen gift’ger Mißgunst an,  
+Dir hat er längst den Untergang geschworen –  
+Noch stehst du unversehrt – Willst du erwarten,
+
+`p00029` Bis er die böse Lust an dir gebüßt?  
+Der kluge Mann baut vor.  
+Stauffacher  
+ Was ist zu thun!  
+Gertrud (tritt näher)  
+So höre meinen Rath! Du weißt, wie hier  
+Zu Schwytz sich alle Redlichen beklagen  
+Ob dieses Landvogts Geiz und Wütherei.  
+So zweifle nicht, daß sie dort drüben auch  
+In Unterwalden und im Urner Land  
+Des Dranges müd sind und des harten Jochs –  
+Denn wie der Geßler hier, so schafft es frech  
+Der Landenberger drüben überm See –  
+Es kommt kein Fischerkahn zu uns herüber,  
+Der nicht ein neues Unheil und Gewalt-  
+Beginnen von den Vögten uns verkündet.  
+Drum thät es gut, daß eurer etliche,  
+Die’s redlich meinen, still zu Rathe giengen,  
+Wie man des Drucks sich möcht’ erledigen,  
+So acht ich wohl, Gott würd’ euch nicht verlassen,  
+Und der gerechten Sache gnädig seyn –
+
+`p00030` Hast du in Uri keinen Gastfreund, sprich,  
+Dem du dein Herz magst redlich offenbaren?  
+Stauffacher  
+Der wackern Männer kenn’ ich viele dort,  
+Und angesehen große Herrenleute,  
+Die mir geheim sind und gar wohl vertraut.  
+     (er steht auf)  
+Frau, welchen Sturm gefährlicher Gedanken  
+Weckst du mir in der stillen Brust! Mein Innerstes  
+Kehrst du an’s Licht des Tages mir entgegen,  
+Und was ich mir zu denken still verbot,  
+Du sprichsts mit leichter Zunge kecklich aus.  
+– Hast du auch wohl bedacht, was du mir räthst?  
+Die wilde Zwietracht und den Klang der Waffen  
+Rufst du in dieses friedgewohnte Thal –  
+Wir wagten es, ein schwaches Volk der Hirten,  
+In Kampf zu gehen mit dem Herrn der Welt?  
+Der gute Schein nur ist’s, worauf sie warten,  
+Um loszulassen auf dieß arme Land  
+Die wilden Horden ihrer Kriegesmacht,  
+Darinn zu schalten mit des Siegers Rechten,
+
+`p00031` Und unter’m Schein gerechter Züchtigung  
+Die alten Freiheitsbriefe zu vertilgen.  
+Gertrud  
+Ihr seid auch Männer, wisset eure Axt  
+Zu führen, und dem Muthigen hilft Gott!  
+Stauffacher  
+O Weib! Ein furchtbar wüthend Schreckniß ist  
+Der Krieg, die Heerde schlägt er und den Hirten.  
+Gertrud  
+Ertragen muß man, was der Himmel sendet,  
+Unbilliges erträgt kein edles Herz.  
+Stauffacher  
+Dieß Haus erfreut dich, das wir neu erbauten.  
+Der Krieg, der ungeheure, brennt es nieder.  
+Gertrud  
+Wüßt’ ich mein Herz an zeitlich Gut gefesselt,  
+Den Brand wärf ich hinein mit eigner Hand.  
+Stauffacher  
+Du glaubst an Menschlichkeit! Es schont der Krieg  
+Auch nicht das zarte Kindlein in der Wiege.
+
+`p00032` Gertrud  
+Die Unschuld hat im Himmel einen Freund!  
+– Sieh vorwärts, Werner, und nicht hinter dich!  
+Stauffacher  
+Wir Männer können tapfer fechtend sterben,  
+Welch Schicksal aber wird das Eure seyn?  
+Gertrud  
+Die lezte Wahl steht auch dem Schwächsten offen,  
+Ein Sprung von dieser Brücke macht mich frei.  
+Stauffacher (stürzt in ihre Arme)  
+Wer solch ein Herz an seinen Busen drückt,  
+Der kann für Heerd und Hof mit Freuden fechten,  
+Und keines Königs Heermacht fürchtet er –  
+Nach Uri fahr’ ich stehnden Fußes gleich,  
+Dort lebt ein Gastfreund mir, Herr Walther Fürst,  
+Der über diese Zeiten denkt wie ich.  
+Auch find’ ich dort den edeln Bannerherrn  
+Von Attinghaus – obgleich von hohem Stamm  
+Liebt er das Volk und ehrt die alten Sitten.  
+Mit ihnen beiden pfleg’ ich Raths, wie man  
+Der Landesfeinde muthig sich erwehrt –
+
+`p00033` Leb wohl – und weil ich fern bin, führe du  
+Mit klugem Sinn das Regiment des Hauses –  
+Dem Pilger, der zum Gotteshause wallt,  
+Dem frommen Mönch, der für sein Kloster sammelt,  
+Gieb reichlich und entlaß ihn wohl gepflegt.  
+Stauffachers Haus verbirgt sich nicht. Zu äußerst  
+Am ofnen Heerweg steht’s, ein wirthlich Dach  
+Für alle Wandrer, die des Weges fahren.  
+(indem sie nach dem Hintergrund abgehen, tritt Wilhelm Tell mit Baumgarten vorn auf die Scene)  
+Tell (zu Baumgarten)  
+Ihr habt jezt meiner weiter nicht vonnöthen,  
+Zu jenem Hause gehet ein, dort wohnt  
+Der Stauffacher, ein Vater der Bedrängten.  
+– Doch sieh, da ist er selber – Folgt mir, kommt!  
+     (gehen auf ihn zu, die Scene verwandelt sich)
+
+`p00034` Dritte Scene
+
+`p00035` Oeffentlicher Platz bei Altorf. Auf einer Anhöhe im Hintergrund sieht man eine Veste bauen, welche schon so weit gediehen, daß sich die Form des Ganzen darstellt. Die hintere Seite ist fertig, an der vordern wird eben gebaut, das Gerüste
+
+`p00036` steht noch, an welchem die Werkleute auf und nieder steigen, auf dem höchsten Dach hängt der Schieferdecker – Alles ist in Bewegung und Arbeit.  
+Frohnvogt. Meister Steinmetz. Gesellen und Handlanger.  
+Frohnvogt  
+     (mit dem Stabe, treibt die Arbeiter)  
+Nicht lang gefeiert, frisch! Die Mauersteine  
+Herbei, den Kalk, den Mörtel zugefahren!  
+Wenn der Herr Landvogt kommt, daß er das Werk  
+Gewachsen sieht – Das schlendert wie die Schnecken.  
+     (zu zwey Handlangern, welche tragen)  
+Heißt das geladen? Gleich das Doppelte!  
+Wie die Tagdiebe ihre Pflicht bestehlen!  
+Erster Gesell  
+Das ist doch hart, daß wir die Steine selbst  
+Zu unserm Twing und Kerker sollen fahren!  
+Frohnvogt  
+Was murret ihr? Das ist ein schlechtes Volk,  
+Zu nichts anstellig als das Vieh zu melken,  
+Und faul herum zu schlendern auf den Bergen.
+
+`p00037` Alter Mann (ruht aus)  
+Ich kann nicht mehr.  
+Frohnvogt (schüttelt ihn)  
+ Frisch Alter an die Arbeit!  
+Erster Gesell  
+Habt ihr denn gar kein Eingeweid’, daß ihr  
+Den Greis, der kaum sich selber schleppen kann,  
+Zum harten Frohndienst treibt?  
+Meister Steinmetz und Gesellen .  
+ ’s ist himmelschreiend!  
+Frohnvogt  
+Sorgt ihr für euch, ich thu’ was meines Amts.  
+Zweiter Gesell  
+Frohnvogt, wie wird die Veste denn sich nennen,  
+Die wir da bau’n?  
+Frohnvogt  
+Zwing Uri soll sie heißen,  
+Denn unter dieses Joch wird man euch beugen.  
+Gesellen  
+Zwing Uri!
+
+`p00038` Frohnvogt  
+ Nun was giebt’s dabei zu lachen?  
+Zweiter Gesell  
+Mit diesem Häuslein wollt ihr Uri zwingen?  
+Erster Gesell  
+Laß seh’n, wie viel man solcher Maulwurfshaufen  
+Muß über ’nander setzen, bis ein Berg  
+Draus wird, wie der geringste nur in Uri!  
+     (Frohnvogt geht nach dem Hintergrund)  
+Meister Steinmetz  
+Den Hammer werf’ ich in den tiefsten See,  
+Der mir gedient bei diesem Fluchgebäude!  
+     Tell und Stauffacher kommen.  
+Stauffacher  
+O hätt’ ich nie gelebt, um das zu schauen!  
+Tell  
+Hier ist nicht gut seyn. Laßt uns weiter geh’n.  
+Stauffacher  
+Bin ich zu Uri, in der Freiheit Land?
+
+`p00039` Meister Steinmetz  
+O Herr, wenn ihr die Keller erst geseh’n  
+Unter den Thürmen! Ja, wer die bewohnt,  
+Der wird den Hahn nicht fürder krähen hören!  
+Stauffacher  
+O Gott!  
+Steinmetz  
+ Seht diese Flanken, diese Strebepfeiler,  
+Die steh’n, wie für die Ewigkeit gebaut!  
+Tell  
+Was Hände bauten, können Hände stürzen.  
+     (nach den Bergen zeigend)  
+Das Haus der Freiheit hat uns Gott gegründet.  
+(Man hört eine Trommel, es kommen Leute, die einen Hut auf einer Stange tragen, ein Ausrufer folgt ihnen, Weiber und Kinder dringen tumultuarisch nach)  
+Erster Gesell  
+Was will die Trommel? Gebet acht!  
+Meister Steinmetz  
+ Was für  
+Ein Faßnachtsaufzug und was soll der Hut?
+
+`p00040` Ausrufer  
+In des Kaisers Nahmen! Höret!  
+Gesellen  
+ Still doch! Höret!  
+Ausrufer  
+Ihr sehet diesen Hut, Männer von Uri!  
+Aufrichten wird man ihn auf hoher Säule,  
+Mitten in Altorf, an dem höchsten Ort,  
+Und dieses ist des Landvogts Will und Meinung:  
+Dem Hut soll gleiche Ehre wie ihm selbst geschehn,  
+Man soll ihn mit gebognem Knie und mit  
+Entblößtem Haupt verehren – Daran will  
+Der König die Gehorsamen erkennen.  
+Verfallen ist mit seinem Leib und Gut  
+Dem Könige, wer das Gebot verachtet.  
+(Das Volk lacht laut auf, die Trommel wird gerührt, sie gehen vorüber)  
+Erster Gesell  
+Welch’ neues unerhörtes hat der Vogt  
+Sich ausgesonnen! Wir ’nen Hut verehren!  
+Sagt! Hat man je vernommen von dergleichen?
+
+`p00041` Meister Steinmetz  
+Wir unsre Kniee beugen einem Hut!  
+Treibt er sein Spiel mit ernsthaft würd’gen Leuten?  
+Erster Gesell  
+Wär’s noch die kaiserliche Kron’! So ist’s  
+Der Hut von Oesterreich, ich sah ihn hangen  
+Ueber dem Thron, wo man die Lehen giebt!  
+Meister Steinmetz  
+Der Hut von Oesterreich! Gebt acht, es ist  
+Ein Fallstrick, uns an Oestreich zu verrathen!  
+Gesellen  
+Kein Ehrenmann wird sich der Schmach bequemen.  
+Meister Steinmetz  
+Kommt, laßt uns mit den andern Abred’ nehmen.  
+(sie gehen nach der Tiefe)  
+Tell (zum Stauffacher)  
+Ihr wisset nun Bescheid. Lebt wohl, Herr Werner!  
+Stauffacher  
+Wo wollt ihr hin? O eilt nicht so von dannen.  
+Tell  
+Mein Haus entbehrt des Vaters. Lebet wohl.
+
+`p00042` Stauffacher  
+Mir ist das Herz so voll, mit euch zu reden.  
+Tell  
+Das schwere Herz wird nicht durch Worte leicht.  
+Stauffacher  
+Doch könnten Worte uns zu Thaten führen.  
+Tell  
+Die einz’ge That ist jezt Geduld und Schweigen.  
+Stauffacher  
+Soll man ertragen, was unleidlich ist?  
+Tell  
+Die schnellen Herrscher sind’s, die kurz regieren.  
+– Wenn sich der Föhn erhebt aus seinen Schlünden,  
+Löscht man die Feuer aus, die Schiffe suchen  
+Eilends den Hafen, und der mächt’ge Geist  
+Geht ohne Schaden, spurlos, über die Erde.  
+Ein jeder lebe still bei sich daheim,  
+Dem Friedlichen gewährt man gern den Frieden.  
+Stauffacher  
+Meint ihr?
+
+`p00043` Tell  
+ Die Schlange sticht nicht ungereizt.  
+Sie werden endlich doch von selbst ermüden,  
+Wenn sie die Lande ruhig bleiben seh’n.  
+Stauffacher  
+Wir könnten viel, wenn wir zusammen stünden.  
+Tell  
+Beim Schiffbruch hilft der Einzelne sich leichter.  
+Stauffacher  
+So kalt verlaßt ihr die gemeine Sache?  
+Tell  
+Ein jeder zählt nur sicher auf sich selbst.  
+Stauffacher  
+Verbunden werden auch die Schwachen mächtig.  
+Tell  
+Der Starke ist am mächtigsten allein.  
+Stauffacher  
+So kann das Vaterland auf euch nicht zählen,  
+Wenn es verzweiflungsvoll zur Nothwehr greift?  
+Tell (giebt ihm die Hand)  
+Der Tell holt ein verlornes Lamm vom Abgrund,
+
+`p00044` Und sollte seinen Freunden sich entziehen?  
+Doch was ihr thut, laßt mich aus eurem Rath,  
+Ich kann nicht lange prüfen oder wählen,  
+Bedürft’ ihr meiner zu bestimmter That,  
+Dann ruft den Tell, es soll an mir nicht fehlen.  
+(gehen ab zu verschiedenen Seiten. Ein plötzlicher Auflauf entsteht um das Gerüste)  
+Meister Steinmetz (eilt hin)  
+Was giebt’s?  
+Erster Gesell (kommt vor, rufend)  
+Der Schieferdecker ist vom Dach gestürzt.  
+Bertha mit Gefolge  
+Bertha (stürzt herein)  
+Ist er zerschmettert? Rennet, rettet, helft –  
+Wenn Hilfe möglich, rettet, hier ist Gold –  
+(wirft ihr Geschmeide unter das Volk)  
+Meister  
+Mit eurem Golde – Alles ist euch feil  
+Um Gold, wenn ihr den Vater von den Kindern  
+Gerissen und den Mann von seinem Weibe,  
+Und Jammer habt gebracht über die Welt,
+
+`p00045` Denkt ihr’s mit Golde zu vergüten – Geht!  
+Wir waren frohe Menschen, eh’ ihr kamt,  
+Mit euch ist die Verzweiflung eingezogen.  
+Bertha  
+(zu dem Frohnvogt, der zurückkommt)  
+Lebt er?  
+(Frohnvogt giebt ein Zeichen des Gegentheils)  
+ O unglücksel’ges Schloß, mit Flüchen  
+Erbaut, und Flüche werden dich bewohnen!  
+(geht ab)
+
+`p00046` Vierte Scene
+
+`p00047` (Walther Fürsts Wohnung)  
+Walther Fürst und Arnold von Melchthal  
+treten zugleich ein, von verschiedenen Seiten  
+Melchthal  
+Herr Walther Fürst –  
+Walther Fürst  
+ Wenn man uns überraschte!  
+Bleibt, wo ihr seyd. Wir sind umringt von Spähern.  
+Melchthal  
+Bringt ihr mir nichts von Unterwalden? Nichts
+
+`p00048` Von meinem Vater? Nicht ertrag ich’s länger,  
+Als ein Gefang’ner müßig hier zu liegen.  
+Was hab’ ich denn so sträfliches gethan,  
+Um mich gleich einem Mörder zu verbergen?  
+Dem frechen Buben, der die Ochsen mir,  
+Das trefflichste Gespann, vor meinen Augen  
+Weg wollte treiben auf des Vogts Geheiß,  
+Hab’ ich den Finger mit dem Stab gebrochen.  
+Walther Fürst  
+Ihr seid zu rasch. Der Bube war des Vogts,  
+Von eurer Obrigkeit war er gesendet,  
+Ihr wart in Straf’ gefallen, mußtet euch,  
+Wie schwer sie war, der Buße schweigend fügen.  
+Melchthal  
+Ertragen sollt’ ich die leichtfert’ge Rede  
+Des Unverschämten: „Wenn der Bauer Brod  
+Wollt’ essen, mög’ er selbst am Pfluge zieh’n!“  
+In die Seele schnitt mir’s, als der Bub die Ochsen,  
+Die schönen Thiere, von dem Pfluge spannte,  
+Dumpf brüllten sie, als hätten sie Gefühl  
+Der Ungebühr, und stießen mit den Hörnern,
+
+`p00049` Da übernahm mich der gerechte Zorn,  
+Und meiner selbst nicht Herr, schlug ich den Boten.  
+Walther Fürst  
+O kaum bezwingen wir das eig’ne Herz,  
+Wie soll die rasche Jugend sich bezähmen!  
+Melchthal  
+Mich jammert nur der Vater – Er bedarf  
+So sehr der Pflege, und sein Sohn ist fern.  
+Der Vogt ist ihm gehässig, weil er stets  
+Für Recht und Freiheit redlich hat gestritten.  
+Drum werden sie den alten Mann bedrängen,  
+Und niemand ist, der ihn vor Unglimpf schütze.  
+– Werde mit mir was will, ich muß hinüber.  
+Walther Fürst  
+Erwartet nur und faßt euch in Geduld,  
+Bis Nachricht uns herüber kommt vom Walde.  
+– Ich höre klopfen, geht – Vielleicht ein Bote  
+Vom Landvogt – Geht hinein – Ihr seid in Uri  
+Nicht sicher vor des Landenbergers Arm,  
+Denn die Tyrannen reichen sich die Hände.
+
+`p00050` Melchthal  
+Sie lehren uns, was wir thun sollten.  
+Walther Fürst  
+ Geht!  
+Ich ruf’ euch wieder, wenn’s hier sicher ist.  
+(Melchthal geht hinein)  
+Der Unglückselige, ich darf ihm nicht  
+Gestehen, was mir Böses schwant – Wer klopft?  
+Sooft die Thüre rauscht, erwart’ ich Unglück.  
+Verrath und Argwohn lauscht in allen Ecken,  
+Bis in das Innerste der Häuser dringen  
+Die Boten der Gewalt, bald thät’ es Noth,  
+Wir hätten Schloß und Riegel an den Thüren.  
+(er öfnet und tritt erstaunt zurück, da Werner Stauffacher hereintritt)  
+Was seh’ ich? Ihr, Herr Werner! Nun, bei Gott!  
+Ein werther, theurer Gast – Kein beß’rer Mann  
+Ist über diese Schwelle noch gegangen.  
+Seid hoch willkommen unter meinem Dach!  
+Was führt euch her? Was sucht ihr hier in Uri?
+
+`p00051` Stauffacher (ihm die Hand reichend)  
+Die alten Zeiten und die alte Schweiz.  
+Walther Fürst  
+Die bringt ihr mit euch – Sieh, mir wird so wohl,  
+Warm geht das Herz mir auf bei eurem Anblick.  
+– Sezt euch, Herr Werner – Wie verließet ihr  
+Frau Gertrud, eure angenehme Wirthin,  
+Des weisen Ibergs hochverständ’ge Tochter?  
+Von allen Wandrern aus dem deutschen Land,  
+Die über Meinrads Zell nach Welschland fahren,  
+Rühmt jeder euer gastlich Haus – Doch sagt,  
+Kommt ihr so eben frisch von Fluelen her,  
+Und habt euch nirgend sonst noch umgeseh’n,  
+Eh’ ihr den Fuß gesezt auf diese Schwelle?  
+Stauffacher (sezt sich)  
+Wohl ein erstaunlich neues Werk hab’ ich  
+Bereiten sehen, das mich nicht erfreute.  
+Walther Fürst  
+O Freund, da habt ihr’s gleich mit Einem Blicke!  
+Stauffacher  
+Ein solches ist in Uri nie gewesen –
+
+`p00052` Seit Menschendenken war kein Twinghof hier,  
+Und fest war keine Wohnung als das Grab.  
+Walther Fürst  
+Ein Grab der Freiheit ist’s. Ihr nennt’s mit Nahmen.  
+Stauffacher  
+Herr Walther Fürst, ich will euch nicht verhalten,  
+Nicht eine müß’ge Neugier führt mich her,  
+Mich drücken schwere Sorgen – Drangsal hab’ ich  
+Zu Haus verlassen, Drangsal find’ ich hier.  
+Denn ganz unleidlich ist’s, was wir erdulden,  
+Und dieses Dranges ist kein Ziel zu seh’n.  
+Frei war der Schweitzer von Uralters her,  
+Wir sind’s gewohnt, daß man uns gut begegnet,  
+Ein solches war im Lande nie erlebt,  
+Solang ein Hirte trieb auf diesen Bergen.  
+Walther Fürst  
+Ja, es ist ohne Beispiel wie sie’s treiben!  
+Auch unser edler Herr von Attinghausen,  
+Der noch die alten Zeiten hat geseh’n,  
+Meint selber, es sey nicht mehr zu ertragen.
+
+`p00053` Stauffacher  
+Auch drüben unter’m Wald geht schweres vor,  
+Und blutig wird’s gebüßt – der Wolfenschießen,  
+Des Kaisers Vogt, der auf dem Roßberg haußte,  
+Gelüsten trug er nach verbot’ner Frucht,  
+Baumgartens Weib, der haushält zu Alzellen,  
+Wollt’ er zu frecher Ungebühr misbrauchen,  
+Und mit der Axt hat ihn der Mann erschlagen.  
+Walther Fürst  
+O die Gerichte Gottes sind gerecht!  
+– Baumgarten sagt ihr? Ein bescheid’ner Mann!  
+Er ist gerettet doch und wohl geborgen?  
+Stauffacher  
+Euer Eidam hat ihn über’n See geflüchtet,  
+Bei mir zu Steinen halt’ ich ihn verborgen –  
+– Noch greulichers hat mir derselbe Mann  
+Berichtet, was zu Sarnen ist gescheh’n,  
+Das Herz muß jedem Biedermanne bluten.  
+Walther Fürst (aufmerksam)  
+Sagt an, was ist’s?
+
+`p00054` Stauffacher  
+ Im Melchthal, da wo man  
+Eintritt bey Kerns, wohnt ein gerechter Mann,  
+Sie nennen ihn den Heinrich von der Halden,  
+Und seine Stimm’ gilt was in der Gemeinde.  
+Walther Fürst  
+Wer kennt ihn nicht! Was ist’s mit ihm? Vollendet.  
+Stauffacher  
+Der Landenberger büßte seinen Sohn  
+Um kleinen Fehlers willen, ließ die Ochsen,  
+Das beste Paar, ihm aus dem Pfluge spannen,  
+Da schlug der Knab den Knecht und wurde flüchtig.  
+Walther Fürst (in höchster Spannung)  
+Der Vater aber – Sagt, wie steht’s um den?  
+Stauffacher  
+Den Vater läßt der Landenberger fodern,  
+Zur Stelle schaffen soll er ihm den Sohn,  
+Und da der alte Mann mit Wahrheit schwört,  
+Er habe von dem Flüchtling keine Kunde,  
+Da läßt der Vogt die Folterknechte kommen –
+
+`p00055` Walther Fürst  
+     (springt auf und will ihn auf die andre Seite führen)  
+O still, nichts mehr!  
+Stauffacher (mit steigendem Ton)  
+ „Ist mir der Sohn entgangen,  
+So hab’ ich dich“ – Läßt ihn zu Boden werfen,  
+Den spitz’gen Stahl ihm in die Augen bohren –  
+Walther Fürst  
+Barmherz’ger Himmel!  
+Melchthal (stürzt heraus)  
+ In die Augen, sagt ihr?  
+Stauffacher  
+     (erstaunt zum Walther Fürst)  
+Wer ist der Jüngling?  
+Melchthal  
+     (faßt ihn mit krampfhafter Heftigkeit)  
+ In die Augen? Redet.  
+Walther Fürst  
+O der bejammernswürdige!
+
+`p00056` Stauffacher  
+ Wer ists?  
+(da Walther Fürst ihm ein Zeichen giebt.)  
+Der Sohn ist’s? Allgerechter Gott!  
+Melchthal  
+ Und ich  
+Muß ferne seyn! – In seine beiden Augen?  
+Walther Fürst  
+Bezwinget euch, ertragt es wie ein Mann!  
+Melchthal  
+Um meiner Schuld, um meines Frevels willen!  
+– Blind also! Wirklich blind und ganz geblendet?  
+Stauffacher  
+Ich sagt’s. Der Quell des Seh’ns ist ausgeflossen,  
+Das Licht der Sonne schaut er niemals wieder.  
+Walther Fürst  
+Schont seines Schmerzens!  
+Melchthal  
+ Niemals! Niemals wieder!  
+(er drückt die Hand vor die Augen, und schweigt einige Momente, dann wendet er sich von dem einen zu dem
+
+`p00057` andern, und spricht mit sanfter, von Tränen erstickter Stimme)  
+O eine edle Himmelsgabe ist  
+Das Licht des Auges – Alle Wesen leben  
+Vom Lichte, jedes glückliche Geschöpf –  
+Die Pflanze selbst kehrt freudig sich zum Lichte.  
+Und er muß sitzen, fühlend, in der Nacht,  
+Im ewig Finstern – ihn erquickt nicht mehr  
+Der Matten warmes Grün, der Blumen Schmelz,  
+Die rothen Firnen kann er nicht mehr schauen –  
+Sterben ist nichts – doch leben und nicht sehen,  
+Das ist ein Unglück – Warum seht ihr mich  
+So jammernd an? Ich hab’ zwey frische Augen,  
+Und kann dem blinden Vater keines geben,  
+Nicht einen Schimmer von dem Meer des Lichts,  
+Das glanzvoll, blendend, mir ins Auge dringt.  
+Stauffacher  
+Ach, ich muß euren Jammer noch vergrößern,  
+Statt ihn zu heilen – Er bedarf noch mehr!  
+Denn alles hat der Landvogt ihm geraubt,  
+Nichts hat er ihm gelassen als den Stab,  
+Um nackt und blind von Thür zu Thür zu wandern.
+
+`p00058` Melchthal  
+Nichts als den Stab dem augenlosen Greis!  
+Alles geraubt, und auch das Licht der Sonne,  
+Des Aermsten allgemeines Gut – Jezt rede  
+Mir keiner mehr von Bleiben, von Verbergen!  
+Was für ein feiger Elender bin ich,  
+Daß ich auf meine Sicherheit gedacht,  
+Und nicht auf Deine – dein geliebtes Haupt  
+Als Pfand gelassen in des Wüthrichs Händen!  
+Feigherz’ge Vorsicht fahre hin – Auf nichts  
+Als blutige Vergeltung will ich denken,  
+Hinüber will ich – Keiner soll mich halten –  
+Des Vaters Auge von dem Landvogt fodern –  
+Aus allen seinen Reisigen heraus  
+Will ich ihn finden – Nichts liegt mir am Leben,  
+Wenn ich den heißen ungeheuren Schmerz  
+In seinem Lebensblute kühle.  
+(er will gehen)  
+Walther Fürst  
+ Bleibt!
+
+`p00059` Was könnt ihr gegen ihn? Er sizt zu Sarnen  
+Auf seiner hohen Herrenburg und spottet  
+Ohnmächt’gen Zorns in seiner sichern Veste.  
+Melchthal  
+Und wohnt’ er droben auf dem Eispallast  
+Des Schreckhorns oder höher, wo die Jungfrau  
+Seit Ewigkeit verschleiert sizt – Ich mache  
+Mir Bahn zu ihm, mit zwanzig Jünglingen  
+Gesinnt wie ich, zerbrech’ ich seine Veste.  
+Und wenn mir niemand folgt, und wenn ihr alle  
+Für eure Hütten bang und eure Heerden,  
+Euch dem Tyrannenjoche beugt – die Hirten  
+Will ich zusammen rufen im Gebirg,  
+Dort unter’m freien Himmelsdache, wo  
+Der Sinn noch frisch ist und das Herz gesund,  
+Das ungeheuer Gräßliche erzählen.  
+Stauffacher (zu Walther Fürst)  
+Es ist auf seinem Gipfel – wollen wir  
+Erwarten, bis das Aeuserste –  
+Melchthal  
+ Welch’ Aeuserstes
+
+`p00060` Ist noch zu fürchten, wenn der Stern des Auges  
+In seiner Höhle nicht mehr sicher ist?  
+– Sind wir denn wehrlos? Wozu lernten wir  
+Die Armbrust spannen und die schwere Wucht  
+Der Streitaxt schwingen? Jedem Wesen ward  
+Ein Nothgewehr in der Verzweiflungsangst,  
+Es stellt sich der erschöpfte Hirsch und zeigt  
+Der Meute sein gefürchtetes Geweih,  
+Die Gemse reißt den Jäger in den Abgrund –  
+Der Pflugstier selbst, der sanfte Hausgenoß  
+Des Menschen, der die ungeheure Kraft  
+Des Halses duldsam unters Joch gebogen,  
+Springt auf, gereizt, wezt sein gewaltig Horn  
+Und schleudert seinen Feind den Wolken zu.  
+Walther Fürst  
+Wenn die drey Lande dächten wie wir drey,  
+So möchten wir vielleicht etwas vermögen.  
+Stauffacher  
+Wenn Uri ruft, wenn Unterwalden hilft,  
+Der Schwytzer wird die alten Bünde ehren.
+
+`p00061` Melchthal  
+Groß ist in Unterwalden meine Freundschaft,  
+Und jeder wagt mit Freuden Leib und Blut,  
+Wenn er am andern einen Rücken hat  
+Und Schirm – O fromme Väter dieses Landes!  
+Ich stehe nur ein Jüngling zwischen euch,  
+Den Vielerfahrnen – meine Stimme muß  
+Bescheiden schweigen in der Landsgemeinde.  
+Nicht weil ich jung bin und nicht viel erlebte,  
+Verachtet meinen Rath und meine Rede,  
+Nicht lüstern jugendliches Blut, mich treibt  
+Des höchsten Jammers schmerzliche Gewalt,  
+Was auch den Stein des Felsen muß erbarmen.  
+Ihr selbst seid Väter, Häupter eines Hauses,  
+Und wünscht euch einen tugendhaften Sohn,  
+Der eures Hauptes heilge Locken ehre,  
+Und euch den Stern des Auges fromm bewache.  
+O weil ihr selbst an eurem Leib und Gut  
+Noch nichts erlitten, eure Augen sich  
+Noch frisch und hell in ihren Kreisen regen,  
+So sei euch darum unsre Noth nicht fremd.
+
+`p00062` Auch über euch hängt das Tyrannenschwert,  
+Ihr habt das Land von Oestreich abgewendet,  
+Kein anderes war meines Vaters Unrecht,  
+Ihr seid in gleicher Mitschuld und Verdammniß.  
+Stauffacher (zu Walther Fürst)  
+Beschließet ihr, ich bin bereit zu folgen.  
+Walther Fürst  
+Wir wollen hören, was die edeln Herrn  
+Von Sillinen, von Attinghausen rathen –  
+Ihr Nahme, denk’ ich, wird uns Freunde werben.  
+Melchthal  
+Wo ist ein Nahme in dem Waldgebirg’  
+Ehrwürdiger als Eurer und der Eure?  
+An solcher Nahmen ächte Währung glaubt  
+Das Volk, sie haben guten Klang im Lande.  
+Ihr habt ein reiches Erb von Vätertugend,  
+Und habt es selber reich vermehrt – Was braucht’s  
+Des Edelmanns? Laßts uns allein vollenden.  
+Wären wir doch allein im Land! Ich meine,  
+Wir wollten uns schon selbst zu schirmen wissen.
+
+`p00063` Stauffacher  
+Die Edeln drängt nicht gleiche Noth mit uns,  
+Der Strom, der in den Niederungen wüthet,  
+Bis jetzt hat er die Höh’n noch nicht erreicht –  
+Doch ihre Hülfe wird uns nicht entsteh’n,  
+Wenn sie das Land in Waffen erst erblicken.  
+Walther Fürst  
+Wäre ein Obmann zwischen uns und Oestreich,  
+So möchte Recht entscheiden und Gesetz,  
+Doch der uns unterdrückt, ist unser Kaiser  
+Und höchster Richter – so muß Gott uns helfen  
+Durch unsern Arm – erforschet ihr die Männer  
+Von Schwytz, ich will in Uri Freunde werben.  
+Wen aber senden wir nach Unterwalden –  
+Melchthal  
+Mich sendet hin – wem läg’ es näher an –  
+Walther Fürst  
+Ich geb’s nicht zu, ihr seid mein Gast, ich muß  
+Für eure Sicherheit gewähren!  
+Melchthal  
+ Laßt mich!
+
+`p00064` Die Schliche kenn’ ich und die Felsensteige,  
+Auch Freunde find’ ich gnug, die mich dem Feind  
+Verhehlen und ein Obdach gern gewähren.  
+Stauffacher  
+Laßt ihn mit Gott hinüber geh’n. Dort drüben  
+Ist kein Verräther – so verabscheut ist  
+Die Tyrannei, daß sie kein Werkzeug findet.  
+Auch der Alzeller soll uns nid dem Wald  
+Genossen werben und das Land erregen.  
+Melchthal  
+Wie bringen wir uns sich’re Kunde zu,  
+Daß wir den Argwohn der Tyrannen täuschen?  
+Stauffacher  
+Wir könnten uns zu Brunnen oder Treib  
+Versammeln, wo die Kaufmannsschiffe landen.  
+Walther Fürst  
+So offen dürfen wir das Werk nicht treiben.  
+– Hört meine Meinung. Links am See, wenn man  
+Nach Brunnen fährt, dem Mytenstein grad über,  
+Liegt eine Matte heimlich im Gehölz,
+
+`p00065` Das Rütli heißt sie bei dem Volk der Hirten,  
+Weil dort die Waldung ausgereutet ward.  
+Dort ist’s wo uns’re Landmark und die eure  
+(zu Melchthal)  
+Zusammengrenzen, und in kurzer Fahrt  
+(zu Stauffacher)  
+Trägt Euch der leichte Kahn von Schwytz herüber.  
+Auf öden Pfaden können wir dahin  
+Bei Nachtzeit wandern und uns still berathen.  
+Dahin mag jeder zehn vertraute Männer  
+Mitbringen, die herzeinig sind mit uns,  
+So können wir gemeinsam das Gemeine  
+Besprechen und mit Gott es frisch beschließen.  
+Stauffacher  
+So sey’s. Jezt reicht mir eure biedre Rechte,  
+Reicht ihr die Eure her, und so wie wir  
+Drey Männer jetzo, unter uns, die Hände  
+Zusammen flechten, redlich, ohne Falsch,  
+So wollen wir Drey Länder auch, zu Schutz  
+Und Trutz, zusammen stehn auf Tod und Leben.
+
+`p00066` Walther Fürst und Melchthal  
+Auf Tod und Leben!  
+(sie halten die Hände noch einige Pausen lang zusammen geflochten und schweigen)  
+Melchthal  
+ Blinder alter Vater!  
+Du kannst den Tag der Freiheit nicht mehr schauen,  
+Du sollst ihn hören – Wenn von Alp zu Alp  
+Die Feuerzeichen flammend sich erheben,  
+Die festen Schlösser der Tyrannen fallen,  
+In deine Hütte soll der Schweizer wallen,  
+Zu deinem Ohr die Freudenkunde tragen,  
+Und hell in deiner Nacht soll es dir tagen.  
+(sie gehen auseinander)
+
+`p00067` **Anmerkungen (Wikisource)**
+
+`p00068` Zweiter Aufzug
+
+`p00069` Erste Scene
+
+`p00070` Edelhof des Freiherrn von Attinghausen.
+
+`p00071` Ein gothischer Saal mit Wappenschildern und Helmen verziert. Der Freiherr ein Greis von fünf und achtzig Jahren, von hoher edler Statur, an einem Stabe worauf ein Gemsenhorn, und in ein Pelzwams gekleidet. Kuoni und noch sechs Knechte stehen um ihn her mit Rechen und Sensen. – Ulrich von Rudenz tritt ein in Ritterkleidung.
+
+`p00072` Rudenz  
+Hier bin ich Oheim – Was ist euer Wille?  
+Attinghausen  
+Erlaubt, daß ich nach altem Hausgebrauch  
+Den Frühtrunk erst mit meinen Knechten theile.  
+(er trinkt aus einem Becher, der dann in der Reihe herumgeht)  
+Sonst war ich selber mit in Feld und Wald,  
+Mit meinem Auge ihren Fleiß regierend,  
+Wie sie mein Banner führte in der Schlacht,  
+Jezt kann ich nichts mehr als den Schaffner machen,
+
+`p00073` Und kommt die warme Sonne nicht zu mir,  
+Ich kann sie nicht mehr suchen auf den Bergen.  
+Und so in enger stets und enger’m Kreis,  
+Beweg’ ich mich dem engesten und lezten,  
+Wo alles Leben still steht, langsam zu,  
+Mein Schatte bin ich nur, bald nur mein Nahme.  
+Kuoni  
+(zu Rudenz mit dem Becher)  
+Ich bring’s euch, Junker.  
+(da Rudenz zaudert den Becher zu nehmen)  
+ Trinket frisch! Es geht  
+Aus Einem Becher und aus Einem Herzen.  
+Attinghausen  
+Geht Kinder, und wenn’s Feierabend ist,  
+Dann reden wir auch von des Land’s Geschäften.  
+(Knechte gehen ab)  
+Attinghausen und Rudenz  
+Attinghausen  
+Ich sehe dich gegürtet und gerüstet,  
+Du willst nach Altorf in die Herrenburg?
+
+`p00074` Rudenz  
+Ja Oheim, und ich darf nicht länger säumen –  
+Attinghausen (sezt sich)  
+Hast du’s so eilig? Wie? Ist deiner Jugend  
+Die Zeit so karg gemessen, daß du sie  
+An deinem alten Oheim mußt ersparen?  
+Rudenz  
+Ich sehe, daß ihr meiner nicht bedürft,  
+Ich bin ein Fremdling nur in diesem Hause.  
+Attinghausen  
+(hat ihn lange mit den Augen gemustert)  
+Ja leider bist du’s. Leider ist die Heimat  
+Zur Fremde dir geworden! – Uly! Uly!  
+Ich kenne dich nicht mehr. In Seide prangst du,  
+Die Pfauenfeder trägst du stolz zur Schau,  
+Und schlägst den Purpurmantel um die Schultern,  
+Den Landmann blickst du mit Verachtung an,  
+Und schämst dich seiner traulichen Begrüßung.  
+Rudenz  
+Die Ehr’, die ihm gebührt, geb’ ich ihm gern,  
+Das Recht, das er sich nimmt, verweigr’ ich ihm.
+
+`p00075` Attinghausen  
+Das ganze Land liegt unter’m schweren Zorn  
+Des Königs – Jedes Biedermannes Herz  
+Ist kummervoll ob der tyrannischen Gewalt  
+Die wir erdulden – Dich allein rührt nicht  
+Der allgemeine Schmerz – Dich siehet man  
+Abtrünnig von den Deinen auf der Seite  
+Des Landesfeindes stehen, unsrer Noth  
+Hohnsprechend nach der leichten Freude jagen,  
+Und buhlen um die Fürstengunst, indeß  
+Dein Vaterland von schwerer Geissel blutet.  
+Rudenz  
+Das Land ist schwer bedrängt – Warum mein Oheim?  
+Wer ist’s, der es gestürzt in diese Noth?  
+Es kostete ein einzig leichtes Wort,  
+Um augenblicks des Dranges los zu seyn,  
+Und einen gnäd’gen Kaiser zu gewinnen.  
+Weh ihnen, die dem Volk die Augen halten,  
+Daß es dem wahren Besten widerstrebt.  
+Um eignen Vortheils willen hindern sie,  
+Daß die Waldstätte nicht zu Oestreich schwören,
+
+`p00076` Wie ringsum alle Lande doch gethan.  
+Wohl thut es ihnen, auf der Herrenbank  
+Zu sitzen mit dem Edelmann – den Kaiser  
+Will man zum Herrn, um keinen Herrn zu haben.  
+Attinghausen  
+Muß ich das hören und aus deinem Munde!  
+Rudenz  
+Ihr habt mich aufgefodert, laßt mich enden.  
+– Welche Person ist’s, Oheim, die ihr selbst  
+Hier spielt? Habt ihr nicht höhern Stolz, als hier  
+Landammann oder Bannerherr zu seyn  
+Und neben diesen Hirten zu regieren?  
+Wie? Ist’s nicht eine rühmlichere Wahl,  
+Zu huldigen dem königlichen Herrn,  
+Sich an sein glänzend Lager anzuschließen,  
+Als eurer eig’nen Knechte Pair zu seyn,  
+Und zu Gericht zu sitzen mit dem Bauer?  
+Attinghausen  
+Ach Uly! Uly! Ich erkenne sie  
+Die Stimme der Verführung! Sie ergriff  
+Dein ofnes Ohr, sie hat dein Herz vergiftet.
+
+`p00077` Rudenz  
+Ja ich verberg’ es nicht – in tiefer Seele  
+Schmerzt mich der Spott der Fremdlinge, die uns  
+Den Baurenadel schelten – Nicht ertrag’ ich’s,  
+Indeß die edle Jugend rings umher  
+Sich Ehre sammelt unter Habsburgs Fahnen,  
+Auf meinem Erb’ hier müssig still zu liegen,  
+Und bei gemeinem Tagewerk den Lenz  
+Des Lebens zu verlieren – Anderswo  
+Geschehen Thaten, eine Welt des Ruhms  
+Bewegt sich glänzend jenseits dieser Berge –  
+Mir rosten in der Halle Helm und Schild,  
+Der Kriegstrommete muthiges Getön,  
+Der Heroldsruf, der zum Turniere ladet,  
+Er dringt in diese Thäler nicht herein,  
+Nichts als den Kuhreih’n und der Heerdeglocken  
+Einförmiges Geläut vernehm’ ich hier.  
+Attinghausen  
+Verblendeter, vom eiteln Glanz verführt!  
+Verachte dein Geburtsland! Schäme dich  
+Der uralt frommen Sitte deiner Väter!
+
+`p00078` Mit heißen Thränen wirst du dich dereinst  
+Heim sehnen nach den väterlichen Bergen,  
+Und dieses Heerdenreihens Melodie,  
+Die du in stolzem Ueberdruß verschmähst,  
+Mit Schmerzenssehnsucht wird sie dich ergreifen,  
+Wenn sie dir anklingt auf der fremden Erde.  
+O mächtig ist der Trieb des Vaterlands!  
+Die fremde falsche Welt ist nicht für dich,  
+Dort an dem stolzen Kaiserhof bleibst du  
+Dir ewig fremd mit deinem treuen Herzen!  
+Die Welt, sie fodert andre Tugenden,  
+Als du in diesen Thälern dir erworben.  
+– Geh’ hin, verkaufe deine freie Seele,  
+Nimm Land zu Lehen, werd’ ein Fürstenknecht,  
+Da du ein Selbstherr seyn kannst und ein Fürst  
+Auf deinem eignen Erb’ und freien Boden.  
+Ach Uly! Uly! Bleibe bei den Deinen!  
+Geh’ nicht nach Altdorf – O verlaß sie nicht  
+Die heilge Sache deines Vaterland’s!  
+– Ich bin der lezte meines Stamms. Mein Nahme  
+Endet mit mir. Da hängen Helm und Schild,
+
+`p00079` Die werden sie mir in das Grab mitgeben.  
+Und muß ich denken bei dem letzten Hauch,  
+Daß du mein brechend Auge nur erwartest,  
+Um hinzugeh’n vor diesen neuen Lehenhof,  
+Und meine edeln Güter, die ich frei  
+Von Gott empfieng, von Oestreich zu empfangen!  
+Rudenz  
+Vergebens widerstreben wir dem König,  
+Die Welt gehört ihm, wollen wir allein  
+Uns eigensinnig steifen und verstocken,  
+Die Länderkette ihm zu unterbrechen,  
+Die er gewaltig rings um uns gezogen?  
+Sein sind die Märkte, die Gerichte, sein  
+Die Kaufmannsstraßen, und das Saumroß selbst,  
+Das auf dem Gotthardt ziehet, muß ihm zollen.  
+Von seinen Ländern wie mit einem Netz  
+Sind wir umgarnet rings und eingeschlossen.  
+– Wird uns das Reich beschützen? Kann es selbst  
+Sich schützen gegen Oestreich’s wachsende Gewalt?  
+Hilft Gott uns nicht, kein Kaiser kann uns helfen.  
+Was ist zu geben auf der Kaiser Wort,
+
+`p00080` Wenn sie in Geld- und Krieges-Noth die Städte,  
+Die unter’n Schirm des Adlers sich geflüchtet,  
+Verpfänden dürfen und dem Reich veräusern?  
+– Nein Oheim! Wohlthat ist’s und weise Vorsicht,  
+In diesen schweren Zeiten der Partheiung,  
+Sich anzuschließen an ein mächtig Haupt.  
+Die Kaiserkrone geht von Stamm zu Stamm,  
+Die hat für treue Dienste kein Gedächtniß,  
+Doch um den mächt’gen Erbherrn wohl verdienen,  
+Heißt Saaten in die Zukunft streu’n.  
+Attinghausen  
+ Bist du so weise?  
+Willst heller seh’n als deine edeln Väter,  
+Die um der Freiheit kostbar’n Edelstein  
+Mit Gut und Blut und Heldenkraft gestritten?  
+– Schiff nach Lucern hinunter, frage dort,  
+Wie Oestreich’s Herrschaft lastet auf den Ländern!  
+Sie werden kommen, unsre Schaaf’ und Rinder  
+Zu zählen, unsre Alpen abzumessen,  
+Den Hochflug und das Hochgewilde bannen
+
+`p00081` In unsern freien Wäldern, ihren Schlagbaum  
+An unsre Brücken, unsre Thore setzen,  
+Mit unsrer Armuth ihre Länderkäufe,  
+Mit unserm Blute ihre Kriege zahlen –  
+– Nein, wenn wir unser Blut dran setzen sollen,  
+So sey’s für uns – wohlfeiler kaufen wir  
+Die Freiheit als die Knechtschaft ein!  
+Rudenz  
+ Was können wir,  
+Ein Volk der Hirten gegen Albrechts Heere!  
+Attinghausen  
+Lern’ dieses Volk der Hirten kennen, Knabe!  
+Ich kenn’s, ich hab’ es angeführt in Schlachten,  
+Ich hab’ es fechten sehen bei Favenz.  
+Sie sollen kommen, uns ein Joch aufzwingen,  
+Das wir entschlossen sind, nicht zu ertragen!  
+– O lerne fühlen, welches Stamm’s du bist!  
+Wirf nicht für eiteln Glanz und Flitterschein  
+Die ächte Perle deines Werthes hin –  
+Das Haupt zu heißen eines freien Volks,  
+Das dir aus Liebe nur sich herzlich weiht,
+
+`p00082` Das treulich zu dir steht in Kampf und Tod –  
+Das sei dein Stolz, des Adels rühme dich –  
+Die angebohr’nen Bande knüpfe fest,  
+An’s Vaterland, an’s theure, schließ dich an,  
+Das halte fest mit deinem ganzen Herzen.  
+Hier sind die starken Wurzeln deiner Kraft,  
+Dort in der fremden Welt stehst du allein,  
+Ein schwankes Rohr, das jeder Sturm zerknickt.  
+O komm, du hast uns lang’ nicht mehr gesehn,  
+Versuch’s mit uns nur Einen Tag – nur heute  
+Geh’ nicht nach Altorf – Hörst du? Heute nicht,  
+Den Einen Tag nur schenke dich den Deinen!  
+(er faßt seine Hand)  
+Rudenz  
+Ich gab mein Wort – Laßt mich – Ich bin gebunden.  
+Attinghausen  
+(läßt seine Hand los, mit Ernst)  
+Du bist gebunden – Ja Unglücklicher!  
+Du bist’s, doch nicht durch Wort und Schwur,  
+Gebunden bist du durch der Liebe Seile!  
+(Rudenz wendet sich weg)
+
+`p00083` – Verbirg’ dich wie du willst. Das Fräulein ist’s,  
+Bertha von Brunek, die zur Herrenburg  
+Dich zieht, dich fesselt an des Kaisers Dienst.  
+Das Ritterfräulein willst du dir erwerben  
+Mit deinem Abfall von dem Land – Betrüg’ dich nicht!  
+Dich anzulocken zeigt man dir die Braut,  
+Doch deiner Unschuld ist sie nicht beschieden.  
+Rudenz  
+Genug hab’ ich gehört. Gehabt euch wohl.  
+(er geht ab)  
+Attinghausen  
+Wahnsinn’ger Jüngling bleib’! – Er geht dahin!  
+Ich kann ihn nicht erhalten, nicht erretten –  
+So ist der Wolfenschießen abgefallen  
+Von seinem Land – so werden andre folgen,  
+Der fremde Zauber reißt die Jugend fort,  
+Gewaltsam strebend über unsre Berge.  
+– O unglücksel’ge Stunde, da das Fremde  
+In diese still beglückten Thäler kam,  
+Der Sitten fromme Unschuld zu zerstören!  
+Das Neue dringt herein mit Macht, das Alte
+
+`p00084` Das Würd’ge scheidet, andre Zeiten kommen,  
+Es lebt ein andersdenkendes Geschlecht!  
+Was thu’ ich hier? Sie sind begraben alle,  
+Mit denen ich gewaltet und gelebt.  
+Unter der Erde schon liegt Meine Zeit,  
+Wohl dem, der mit der Neuen nicht mehr braucht zu leben!  
+(geht ab)
+
+`p00085` Zweyte Scene
+
+`p00086` Eine Wiese von hohen Felsen und Wald umgeben. Auf den Felsen sind Steige, mit Geländern, auch Leitern, von denen man nachher die Landleute herabsteigen sieht. Im Hintergrunde zeigt sich der See, über welchem anfangs ein Mondregenbogen zu sehen ist. Den Prospekt schließen hohe Berge, hinter welchen noch höhere Eisgebirge ragen. Es ist völlig Nacht auf der Scene, nur der See und die weißen Gletscher leuchten im Mondenlicht.
+
+`p00087` Melchthal, Baumgarten, Winkelried, Meier von Sarnen, Burkhardt am Bühel, Arnold von Sewa, Klaus von der Flüe und noch vier andere Landleute, alle bewaffnet
+
+`p00088` Melchthal (noch hinter der Scene)  
+Der Bergweg öffnet sich, nur frisch mir nach,
+
+`p00089` Den Fels erkenn’ ich und das Kreutzlein drauf,  
+Wir sind am Ziel, hier ist das Rütli.  
+(treten auf mit Windlichtern)  
+Winkelried  
+ Horch!  
+Sewa  
+Ganz leer.  
+Meier  
+ ’s ist noch kein Landmann da. Wir sind  
+Die ersten auf dem Platz, wir Unterwaldner.  
+Melchthal  
+Wie weit ist’s in der Nacht?  
+Baumgarten  
+ Der Feuerwächter  
+Vom Selisberg hat eben zwey gerufen.  
+(man hört in der Ferne läuten)  
+Meier  
+Still! Horch!  
+Am Bühel  
+Das Mettenglöcklein in der Waldkapelle  
+Klingt hell herüber aus dem Schwytzerland.
+
+`p00090` Von der Flüe  
+Die Luft ist rein und trägt den Schall so weit.  
+Melchthal  
+Geh’n einige und zünden Reisholz an,  
+Daß es loh brenne, wenn die Männer kommen.  
+(zwey Landleute gehen)  
+Sewa  
+’s ist eine schöne Mondennacht. Der See  
+Liegt ruhig da als wie ein ebner Spiegel.  
+Am Bühel  
+Sie haben eine leichte Fahrt.  
+Winkelried (zeigt nach dem See)  
+ Ha, seht!  
+Seht dorthin! Seht ihr nichts?  
+Meier  
+ Was denn? – Ja, warlich!  
+Ein Regenbogen mitten in der Nacht!  
+Melchthal  
+Es ist das Licht des Mondes das ihn bildet.
+
+`p00091` Von der Flüe  
+Das ist ein seltsam wunderbares Zeichen!  
+Es leben viele, die das nicht gesehn.  
+Sewa  
+Er ist doppelt, seht, ein blässerer steht drüber.  
+Baumgarten  
+Ein Nachen fährt soeben drunter weg.  
+Melchthal  
+Das ist der Stauffacher mit seinem Kahn,  
+Der Biedermann läßt sich nicht lang erwarten.  
+(geht mit Baumgarten nach dem Ufer)  
+Meier  
+Die Urner sind es, die am längsten säumen.  
+Am Bühel  
+Sie müssen weit umgehen durch’s Gebirg,  
+Daß sie des Landvogts Kundschaft hintergehen.  
+(Unterdessen haben die zwey Landleute in der Mitte des Platzes ein Feuer angezündet)  
+Melchthal (am Ufer)  
+Wer ist da? Gebt das Wort!
+
+`p00092` Stauffacher (von unten)  
+ Freunde des Landes.  
+(Alle gehen nach der Tiefe, den Kommenden entgegen. Aus dem Kahn steigen Stauffacher, Itel Reding, Hans auf der Mauer, Jörg im Hofe, Konrad Hunn, Ulrich der Schmidt, Jost von Weiler, und noch drey andre Landleute, gleichfalls bewaffnet.)  
+Alle (rufen)  
+Willkommen!  
+(indem die übrigen in der Tiefe verweilen und sich begrüßen, kommt Melchthal mit Stauffacher vorwärts)  
+Melchthal  
+ O Herr Stauffacher! Ich hab’ ihn  
+Gesehn, der mich nicht wiedersehen konnte!  
+Die Hand hab’ ich gelegt auf seine Augen,  
+Und glühend Rachgefühl hab’ ich gesogen  
+Aus der erloschnen Sonne seines Blicks.  
+Stauffacher  
+Sprecht nicht von Rache. Nicht geschehnes rächen,  
+Gedrohtem Uebel wollen wir begegnen.
+
+`p00093` – Jezt sagt, was ihr im Unterwaldner Land  
+Geschaff’t und für gemeine Sach’ geworben,  
+Wie die Landleute denken, wie ihr selbst  
+Den Stricken des Verraths entgangen seid.  
+Melchthal  
+Durch der Surennen furchtbares Gebirg,  
+Auf weit verbreitet öden Eisesfeldern,  
+Wo nur der heisr’e Lämmergeier krächzt,  
+Gelangt’ ich zu der Alpentrift, wo sich  
+Aus Uri und vom Engelberg die Hirten  
+Anrufend grüßen und gemeinsam weiden,  
+Den Durst mir stillend mit der Gletscher Milch,  
+Die in den Runsen schäumend niederquillt.  
+In den einsamen Sennhütten kehrt’ ich ein,  
+Mein eigner Wirth und Gast, bis daß ich kam  
+Zu Wohnungen gesellig lebender Menschen.  
+– Erschollen war in diesen Thälern schon  
+Der Ruf des neuen Greuels der geschehn,  
+Und fromme Ehrfurcht schaffte mir mein Unglück  
+Vor jeder Pforte, wo ich wandernd klopfte.  
+Entrüstet fand ich diese graden Seelen
+
+`p00094` Ob dem gewaltsam neuen Regiment,  
+Denn so wie ihre Alpen fort und fort  
+Dieselben Kräuter nähren, ihre Brunnen  
+Gleichförmig fließen, Wolken selbst und Winde  
+Den gleichen Strich unwandelbar befolgen,  
+So hat die alte Sitte hier vom Ahn  
+Zum Enkel unverändert fort bestanden,  
+Nicht tragen sie verwegne Neuerung  
+Im altgewohnten gleichen Gang des Lebens.  
+– Die harten Hände reichten sie mir dar,  
+Von den Wänden langten sie die rostgen Schwerter,  
+Und aus den Augen blizte freudiges  
+Gefühl des Muths, als ich die Nahmen nannte,  
+Die im Gebirg dem Landmann heilig sind,  
+Den eurigen und Walters Fürsts – Was euch  
+Recht würde dünken, schwuren sie zu thun,  
+Euch schwuren sie bis in den Tod zu folgen.  
+– So eilt ich sicher unterm heilgen Schirm  
+Des Gastrechts von Gehöfte zu Gehöfte –  
+Und als ich kam in’s heimatliche Thal,  
+Wo mir die Vettern viel verbreitet wohnen –
+
+`p00095` Als ich den Vater fand, beraubt und blind,  
+Auf fremdem Stroh, von der Barmherzigkeit  
+Mildthätger Menschen lebend –  
+Stauffacher  
+ Herr im Himmel!  
+Melchthal  
+Da weint’ ich nicht! Nicht in ohnmächtgen Thränen  
+Goß ich die Kraft des heißen Schmerzens aus,  
+In tiefer Brust wie einen theuren Schatz  
+Verschloß ich ihn und dachte nur auf Thaten.  
+Ich kroch durch alle Krümmen des Gebirgs,  
+Kein Thal war so versteckt, ich späht’ es aus,  
+Bis an der Gletscher eisbedeckten Fuß  
+Erwartet’ ich und fand bewohnte Hütten,  
+Und überall, wohin mein Fuß mich trug,  
+Fand ich den gleichen Haß der Tyrannei,  
+Denn bis an diese lezte Grenze selbst  
+Belebter Schöpfung, wo der starre Boden  
+Aufhört zu geben, raubt der Vögte Geiz –  
+Die Herzen alle dieses biedern Volks
+
+`p00096` Erregt’ ich mit dem Stachel meiner Worte,  
+Und unser sind sie all mit Herz und Mund.  
+Stauffacher  
+Großes habt ihr in kurzer Frist geleistet.  
+Melchthal  
+Ich that noch mehr. Die beiden Vesten sind’s,  
+Roßberg und Sarnen, die der Landmann fürchtet,  
+Denn hinter ihren Felsenwällen schirmt  
+Der Feind sich leicht und schädiget das Land.  
+Mit eignen Augen wollt’ ich es erkunden,  
+Ich war zu Sarnen und besah die Burg.  
+Stauffacher  
+Ihr wagtet euch bis in des Tigers Höhle?  
+Melchthal  
+Ich war verkleidet dort in Pilgerstracht,  
+Ich sah den Landvogt an der Tafel schwelgen –  
+Urtheilt, ob ich mein Herz bezwingen kann,  
+Ich sah den Feind, und ich erschlug ihn nicht.  
+Stauffacher  
+Fürwahr, das Glück war eurer Kühnheit hold.  
+(Unterdessen sind die andern Landleute vorwärts gekommen, und nähern sich den beiden)
+
+`p00097` Doch jetzo sagt mir, wer die Freunde sind,  
+Und die gerechten Männer, die euch folgten?  
+Macht mich bekannt mit ihnen, daß wir uns  
+Zutraulich nahen und die Herzen öffnen.  
+Meier  
+Wer kennte Euch nicht, Herr, in den drey Landen?  
+Ich bin der Mei’r von Sarnen, dieß hier ist  
+Mein Schwestersohn, der Struth von Winkelried.  
+Stauffacher  
+Ihr nennt mir keinen unbekannten Nahmen.  
+Ein Winkelried war’s, der den Drachen schlug  
+Im Sumpf bei Weiler und sein Leben ließ  
+In diesem Strauß.  
+Winkelried  
+ Das war mein Ahn, Herr Werner.  
+Melchthal (zeigt auf zwey Landleute)  
+Die wohnen hinter’m Wald, sind Klosterleute  
+Vom Engelberg – Ihr werdet sie drum nicht  
+Verachten, weil sie eigne Leute sind,  
+Und nicht wie wir frei sitzen auf dem Erbe –  
+Sie lieben 's Land, sind sonst auch wohl berufen.
+
+`p00098` Stauffacher (zu den beiden)  
+Gebt mir die Hand. Es preise sich, wer keinem  
+Mit seinem Leibe pflichtig ist auf Erden,  
+Doch Redlichkeit gedeiht in jedem Stande.  
+Konrad Hunn  
+Das ist Herr Reding, unser Altlandammann.  
+Meier  
+Ich kenn’ ihn wohl. Er ist mein Widerpart,  
+Der um ein altes Erbstück mit mir rechtet.  
+– Herr Reding, wir sind Feinde vor Gericht,  
+Hier sind wir einig. (schüttelt ihm die Hand)  
+Stauffacher  
+ Das ist brav gesprochen.  
+Winkelried  
+Hört ihr? Sie kommen. Hört das Horn von Uri!  
+(Rechts und links sieht man bewaffnete Männer mit Windlichtern die Felsen herabsteigen)  
+Auf der Mauer  
+Seht! Steigt nicht selbst der fromme Diener Gottes,
+
+`p00099` Der würdge Pfarrer mit herab? Nicht scheut er  
+Des Weges Mühen und das Grau’n der Nacht,  
+Ein treuer Hirte für das Volk zu sorgen.  
+Baumgarten  
+Der Sigrist folgt ihm und Herr Walther Fürst,  
+Doch nicht den Tell erblick’ ich in der Menge.  
+Walther Fürst, Rösselmann der Pfarrer, Petermann der Sigrist, Kuoni der Hirt, Werni der Jäger, Ruodi der Fischer und noch fünf andere Landleute, alle zusammen, drey und dreißig an der Zahl, treten vorwärts und stellen sich um das Feuer.  
+Walther Fürst  
+So müssen wir auf unserm eignen Erb’  
+Und väterlichen Boden uns verstohlen  
+Zusammen schleichen wie die Mörder thun,  
+Und bei der Nacht, die ihren schwarzen Mantel  
+Nur dem Verbrechen und der sonnenscheuen  
+Verschwörung leihet, unser gutes Recht  
+Uns hohlen, das doch lauter ist und klar,  
+Gleichwie der glanzvoll offne Schooß des Tages.
+
+`p00100` Melchthal  
+Laßt’s gut seyn. Was die dunkle Nacht gesponnen,  
+Soll frey und fröhlich an das Licht der Sonnen.  
+Rösselmann  
+Hört was mir Gott in’s Herz giebt, Eidgenossen!  
+Wir stehen hier statt einer Landsgemeinde  
+Und können gelten für ein ganzes Volk,  
+So laßt uns tagen nach den alten Bräuchen  
+Des Lands, wie wir’s in ruhigen Zeiten pflegen.  
+Was ungesetzlich ist in der Versammlung,  
+Entschuldige die Noth der Zeit. Doch Gott  
+Ist überall, wo man das Recht verwaltet,  
+Und unter seinem Himmel stehen wir.  
+Stauffacher  
+Wohl, laßt uns tagen nach der alten Sitte,  
+Ist es gleich Nacht, so leuchtet unser Recht.  
+Melchthal  
+Ist gleich die Zahl nicht voll, das Herz ist hier  
+Des ganzen Volks, die Besten sind zugegen.
+
+`p00101` Konrad Hunn  
+Sind auch die alten Bücher nicht zur Hand,  
+Sie sind in unsre Herzen eingeschrieben.  
+Rösselmann  
+Wohlan, so sei der Ring sogleich gebildet.  
+Man pflanze auf die Schwerter der Gewalt.  
+Auf der Mauer  
+Der Landesammann nehme seinen Platz,  
+Und seine Weibel stehen ihm zur Seite!  
+Sigrist  
+Es sind der Völker dreye. Welchem nun  
+Gebührt’s, das Haupt zu geben der Gemeinde?  
+Meier  
+Um diese Ehr’ mag Schwytz mit Uri streiten,  
+Wir Unterwaldner stehen frei zurück.  
+Melchthal  
+Wir steh’n zurück, wir sind die Flehenden,  
+Die Hülfe heischen von den mächtgen Freunden.  
+Stauffacher  
+So nehme Uri denn das Schwert, sein Banner  
+Zieht bei den Römerzügen uns voran.
+
+`p00102` Walther Fürst  
+Des Schwertes Ehre werde Schwytz zu Theil,  
+Denn seines Stammes rühmen wir uns alle.  
+Rösselmann  
+Den edeln Wettstreit laßt mich freundlich schlichten,  
+Schwytz soll im Rath, Uri im Felde führen.  
+Walther Fürst  
+(reicht dem Stauffacher die Schwerter)  
+So nehmt!  
+Stauffacher  
+ Nicht mir, dem Alter sei die Ehre.  
+Im Hofe  
+Die meisten Jahre zählt Ulrich der Schmidt.  
+Auf der Mauer  
+Der Mann ist wacker, doch nicht freien Stands,  
+Kein eigner Mann kann Richter seyn in Schwytz.  
+Stauffacher  
+Steht nicht Herr Reding hier der Altlandammann?  
+Was suchen wir noch einen würdigern?
+
+`p00103` Walther Fürst  
+Er sei der Ammann und des Tages Haupt!  
+Wer dazu stimmt erhebe seine Hände.  
+(Alle heben die rechte Hand auf)  
+Reding (tritt in die Mitte)  
+Ich kann die Hand nicht auf die Bücher legen,  
+So schwör’ ich droben bei den ew’gen Sternen,  
+Daß ich mich nimmer will vom Recht entfernen.  
+(Man richtet die zwey Schwerter vor ihm auf, der Ring bildet sich um ihn her, Schwytz hält die Mitte, rechts stellt sich Uri und links Unterwalden. Er steht auf sein Schlachtschwert gestüzt)  
+Was ist’s, das die drei Völker des Gebirgs  
+Hier an des See’s unwirthlichem Gestade  
+Zusammenführte in der Geisterstunde?  
+Was soll der Innhalt seyn des neuen Bunds,  
+Den wir hier unterm Sternenhimmel stiften?  
+Stauffacher (tritt in den Ring)  
+Wir stiften keinen neuen Bund, es ist  
+Ein uralt Bündniß nur von Väter Zeit,  
+Das wir erneuern! Wisset Eidgenossen!
+
+`p00104` Ob uns der See, ob uns die Berge scheiden,  
+Und jedes Volk sich für sich selbst regiert,  
+So sind wir Eines Stammes doch und Bluts,  
+Und Eine Heimat ist’s, aus der wir zogen.  
+Winkelried  
+So ist es wahr, wie’s in den Liedern lautet,  
+Daß wir von fern her in das Land gewallt?  
+O theilt’s uns mit, was euch davon bekannt,  
+Daß sich der neue Bund am alten stärke.  
+Stauffacher  
+Hört, was die alten Hirten sich erzählen.  
+– Es war ein großes Volk, hinten im Lande  
+Nach Mitternacht, das litt von schwerer Theurung.  
+In dieser Noth beschloß die Landsgemeinde,  
+Daß je der zehnte Bürger nach dem Loos  
+Der Väter Land verlasse – das geschah!  
+Und zogen aus, wehklagend, Männer und Weiber,  
+Ein großer Heerzug, nach der Mittagsonne,  
+Mit dem Schwert sich schlagend durch das deutsche Land,  
+Bis an das Hochland dieser Waldgebirge.  
+Und eher nicht ermüdete der Zug,
+
+`p00105` Bis daß sie kamen in das wilde Thal,  
+Wo jezt die Muotta zwischen Wiesen rinnt –  
+Nicht Menschenspuren waren hier zu sehen,  
+Nur eine Hütte stand am Ufer einsam,  
+Da saß ein Mann, und wartete der Fähre –  
+Doch heftig wogete der See und war  
+Nicht fahrbar; da besahen sie das Land  
+Sich näher und gewahrten schöne Fülle,  
+Des Holzes und entdeckten gute Brunnen,  
+Und meinten, sich im lieben Vaterland  
+Zu finden – Da beschlossen sie zu bleiben,  
+Erbaueten den alten Flecken Schwytz,  
+Und hatten manchen sauren Tag, den Wald  
+Mit weitverschlungnen Wurzeln auszuroden –  
+Drauf als der Boden nicht mehr Gnügen that  
+Der Zahl des Volks, da zogen sie hinüber  
+Zum schwarzen Berg, ja bis an’s Weißland hin,  
+Wo hinter ewgem Eiseswall verborgen,  
+Ein andres Volk in andern Zungen spricht.  
+Den Flecken Stanz erbauten sie am Kernwald,  
+Den Flecken Altorf in dem Thal der Reuß –
+
+`p00106` Doch blieben sie des Ursprungs stets gedenk,  
+Aus all den fremden Stämmen, die seitdem  
+In Mitte ihres Lands sich angesiedelt,  
+Finden die Schwytzer Männer sich heraus,  
+Es giebt das Herz, das Blut sich zu erkennen.  
+(reicht rechts und links die Hand hin)  
+Auf der Mauer  
+Ja, wir sind eines Herzens, eines Bluts!  
+Alle (sich die Hände reichend)  
+Wir sind Ein Volk, und einig wollen wir handeln.  
+Stauffacher  
+Die andern Völker tragen fremdes Joch,  
+Sie haben sich dem Sieger unterworfen.  
+Es leben selbst in unsern Landesmarken  
+Der Sassen viel, die fremde Pflichten tragen,  
+Und ihre Knechtschaft erbt auf ihre Kinder.  
+Doch wir, der alten Schweitzer ächter Stamm,  
+Wir haben stets die Freiheit uns bewahrt.  
+Nicht unter Fürsten bogen wir das Knie,  
+Freiwillig wählten wir den Schirm der Kaiser.
+
+`p00107` Rösselmann  
+Frei wählten wir des Reiches Schutz und Schirm,  
+So steht’s bemerkt in Kaiser Friedrichs Brief.  
+Stauffacher  
+Denn herrenlos ist auch der Freiste nicht.  
+Ein Oberhaupt muß seyn, ein höchster Richter,  
+Wo man das Recht mag schöpfen in dem Streit.  
+Drum haben unsre Väter für den Boden,  
+Den sie der alten Wildniß abgewonnen,  
+Die Ehr’ gegönnt dem Kaiser, der den Herrn  
+Sich nennt der deutschen und der welschen Erde,  
+Und wie die andern Freien seines Reichs  
+Sich ihm zu edelm Waffendienst gelobt,  
+Denn dieses ist der Freien einzge Pflicht,  
+Das Reich zu schirmen, das sie selbst beschirmt.  
+Melchthal  
+Was drüber ist, ist Merkmal eines Knechts.  
+Stauffacher  
+Sie folgten, wenn der Heribann ergieng,  
+Dem Reichspanier und schlugen seine Schlachten.  
+Nach Welschland zogen sie gewappnet mit,
+
+`p00108` Die Römerkron’ ihm auf das Haupt zu setzen.  
+Daheim regierten sie sich fröhlich selbst  
+Nach altem Brauch und eigenem Gesetz,  
+Der höchste Blutbann war allein des Kaisers.  
+Und dazu ward bestellt ein großer Graf,  
+Der hatte seinen Sitz nicht in dem Lande,  
+Wenn Blutschuld kam, so rief man ihn herein,  
+Und unter offnem Himmel, schlicht und klar,  
+Sprach er das Recht und ohne Furcht der Menschen.  
+Wo sind hier Spuren, daß wir Knechte sind?  
+Ist einer, der es anders weiß, der rede!  
+Im Hofe  
+Nein, so verhält sich alles wie ihr sprecht,  
+Gewaltherrschaft ward nie bei uns geduldet.  
+Stauffacher  
+Dem Kaiser selbst versagten wir Gehorsam,  
+Da er das Recht zu Gunst der Pfaffen bog.  
+Denn als die Leute von dem Gotteshaus  
+Einsiedeln uns die Alp in Anspruch nahmen,  
+Die wir beweidet seit der Väter Zeit,  
+Der Abt herfürzog einen alten Brief,
+
+`p00109` Der ihm die herrenlose Wüste schenkte –  
+Denn unser Daseyn hatte man verhehlt –  
+Da sprachen wir: „Erschlichen ist der Brief,  
+Kein Kaiser kann was unser ist verschenken.  
+Und wird uns Recht versagt vom Reich, wir können  
+In unsern Bergen auch des Reichs entbehren.“  
+– So sprachen unsre Väter! Sollen wir  
+Des neuen Joches Schändlichkeit erdulden,  
+Erleiden von dem fremden Knecht, was uns  
+In seiner Macht kein Kaiser durfte bieten?  
+– Wir haben diesen Boden uns erschaffen  
+Durch unsrer Hände Fleiß, den alten Wald,  
+Der sonst der Bären wilde Wohnung war,  
+Zu einem Sitz für Menschen umgewandelt,  
+Die Brut des Drachen haben wir getödet,  
+Der aus den Sümpfen giftgeschwollen stieg,  
+Die Nebeldecke haben wir zerrissen,  
+Die ewig grau um diese Wildniß hieng,  
+Den harten Fels gesprengt, über den Abgrund  
+Dem Wandersmann den sichern Steg geleitet,  
+Unser ist durch tausendjährigen Besitz
+
+`p00110` Der Boden – und der fremde Herrenknecht  
+Soll kommen dürfen und uns Ketten schmieden,  
+Und Schmach anthun auf unsrer eignen Erde?  
+Ist keine Hülfe gegen solchen Drang?  
+(eine große Bewegung unter den Landleuten)  
+Nein, eine Grenze hat Tyrannenmacht,  
+Wenn der Gedrückte nirgends Recht kann finden,  
+Wenn unerträglich wird die Last – greift er  
+Hinauf getrosten Muthes in den Himmel,  
+Und hohlt herunter seine ewgen Rechte,  
+Die droben hangen unveräuserlich  
+Und unzerbrechlich wie die Sterne selbst –  
+Der alte Urstand der Natur kehrt wieder,  
+Wo Mensch dem Menschen gegenüber steht –  
+Zum lezten Mittel, wenn kein andres mehr  
+Verfangen will, ist ihm das Schwert gegeben –  
+Der Güter höchstes dürfen wir vertheid’gen  
+Gegen Gewalt – Wir stehn vor unser Land,  
+Wir stehn vor unsre Weiber, unsre Kinder!  
+Alle (an ihre Schwerter schlagend)  
+Wir stehn vor unsre Weiber, unsre Kinder!
+
+`p00111` Rösselmann (tritt in den Ring)  
+Eh’ ihr zum Schwerte greift, bedenkt es wohl.  
+Ihr könnt es friedlich mit dem Kaiser schlichten.  
+Es kostet euch ein Wort und die Tyrannen,  
+Die euch jezt schwer bedrängen, schmeicheln euch.  
+– Ergreift, was man euch oft geboten hat,  
+Trennt euch vom Reich, erkennet Oestreichs Hoheit –  
+Auf der Mauer  
+Was sagt der Pfarrer? Wir zu Oestreich schwören!  
+Am Bühel  
+Hört ihn nicht an!  
+Winkelried  
+ Das räth uns ein Verräther,  
+Ein Feind des Landes!  
+Reding  
+ Ruhig, Eidgenossen!  
+Sewa  
+Wir Oestreich huldigen, nach solcher Schmach!  
+Von der Flüe  
+Wir uns abtrotzen lassen durch Gewalt,  
+Was wir der Güte weigerten!
+
+`p00112` Meier  
+ Dann wären  
+Wir Sklaven und verdienten es zu seyn!  
+Auf der Mauer  
+Der sei gestossen aus dem Recht der Schweitzer,  
+Wer von Ergebung spricht an Oesterreich!  
+– Landammann, ich bestehe drauf, dieß sey  
+Das erste Landsgesetz, das wir hier geben.  
+Melchthal  
+So sei’s. Wer von Ergebung spricht an Oestreich,  
+Soll rechtlos seyn und aller Ehren baar,  
+Kein Landmann nehm’ ihn auf an seinem Feuer.  
+Alle (heben die rechte Hand auf)  
+Wir wollen es, das sey Gesetz!  
+Reding (nach einer Pause)  
+ Es ist’s.  
+Rösselmann  
+Jetzt seid ihr frei, ihr seid’s durch dieß Gesetz,  
+Nicht durch Gewalt soll Oesterreich ertrotzen,  
+Was es durch freundlich Werben nicht erhielt –
+
+`p00113` Jost von Weiler  
+Zur Tagesordnung, weiter.  
+Reding  
+ Eidgenossen!  
+Sind alle sanften Mittel auch versucht?  
+Vielleicht weiß es der König nicht, es ist  
+Wohl gar sein Wille nicht, was wir erdulden.  
+Auch dieses lezte sollten wir versuchen,  
+Erst unsre Klage bringen vor sein Ohr,  
+Eh’ wir zum Schwerte greifen. Schrecklich immer  
+Auch in gerechter Sache ist Gewalt,  
+Gott hilft nur dann, wenn Menschen nicht mehr helfen.  
+Stauffacher (zu Konrad Hunn)  
+Nun ist’s an euch, Bericht zu geben. Redet.  
+Konrad Hunn  
+Ich war zu Rheinfeld an des Kaisers Pfalz,  
+Wider der Vögte harten Druck zu klagen,  
+Den Brief zu hohlen unsrer alten Freiheit,  
+Den jeder neue König sonst bestätigt.  
+Die Boten vieler Städte fand ich dort,
+
+`p00114` Vom schwäbschen Lande und vom Lauf des Rheins,  
+Die all’ erhielten ihre Pergamente,  
+Und kehrten freudig wieder in ihr Land.  
+Mich, Euren Boten, wies man an die Räthe,  
+Und die entliessen mich mit leerem Trost:  
+„Der Kaiser habe dießmal keine Zeit,  
+Er würde sonst einmal wohl an uns denken.“  
+– Und als ich traurig durch die Säle gieng  
+Der Königsburg, da sah ich Herzog Hansen  
+In einem Erker weinend stehn, um ihn  
+Die edeln Herrn von Wart und Tägerfeld.  
+Die riefen mir und sagten: „Helft euch selbst,  
+Gerechtigkeit erwartet nicht vom König.  
+Beraubt er nicht des eignen Bruders Kind,  
+Und hinterhält ihm sein gerechtes Erbe?  
+Der Herzog fleht’ ihn um sein Mütterliches,  
+Er habe seine Jahre voll, es wäre  
+Nun Zeit, auch Land und Leute zu regieren.  
+Was ward ihm zum Bescheid? Ein Kränzlein sezt ihm  
+Der Kaiser auf: das sei die Zier der Jugend.“
+
+`p00115` Auf der Mauer  
+Ihr habt’s gehört. Recht und Gerechtigkeit  
+Erwartet nicht vom Kaiser! Helft euch selbst!  
+Reding  
+Nichts andres bleibt uns übrig. Nun gebt Rath,  
+Wie wir es klug zum frohen Ende leiten.  
+Walther Fürst (tritt in den Ring)  
+Abtreiben wollen wir verhaßten Zwang,  
+Die alten Rechte, wie wir sie ererbt  
+Von unsern Vätern, wollen wir bewahren,  
+Nicht ungezügelt nach dem Neuen greifen.  
+Dem Kaiser bleibe, was des Kaisers ist,  
+Wer einen Herrn hat, dien’ ihm pflichtgemäß.  
+Meier  
+Ich trage Gut von Oesterreich zu Lehen.  
+Walther Fürst  
+Ihr fahret fort, Oestreich die Pflicht zu leisten.  
+Jost von Weiler  
+Ich steure an die Herrn von Rappersweil.  
+Walther Fürst  
+Ihr fahret fort, zu zinsen und zu steuern.
+
+`p00116` Rösselmann .  
+Der großen Frau zu Zürch bin ich vereidet.  
+Walther Fürst  
+Ihr gebt dem Kloster was des Klosters ist.  
+Stauffacher  
+Ich trage keine Lehen als des Reichs.  
+Walther Fürst  
+Was seyn muß, das geschehe, doch nicht drüber.  
+Die Vögte wollen wir mit ihren Knechten  
+Verjagen und die festen Schlösser brechen,  
+Doch wenn es seyn mag, ohne Blut. Es sehe  
+Der Kaiser, daß wir nothgedrungen nur  
+Der Ehrfurcht fromme Pflichten abgeworfen.  
+Und sieht er uns in unsern Schranken bleiben,  
+Vielleicht besiegt er staatsklug seinen Zorn,  
+Denn billge Furcht erwecket sich ein Volk,  
+Das mit dem Schwerte in der Faust sich mäßigt.  
+Reding  
+Doch lasset hören! Wie vollenden wir’s?  
+Es hat der Feind die Waffen in der Hand,  
+Und nicht fürwahr in Frieden wird er weichen.
+
+`p00117` Stauffacher  
+Er wirds, wenn er in Waffen uns erblickt,  
+Wir überraschen ihn, eh er sich rüstet.  
+Meier  
+Ist bald gesprochen, aber schwer gethan.  
+Uns ragen in dem Land zwei feste Schlösser,  
+Die geben Schirm dem Feind und werden furchtbar,  
+Wenn uns der König in das Land sollt’ fallen.  
+Roßberg und Sarnen muß bezwungen seyn,  
+Eh man ein Schwert erhebt in den drey Landen.  
+Stauffacher  
+Säumt man so lang, so wird der Feind gewarnt,  
+Zu viele sinds, die das Geheimniß theilen.  
+Meier  
+In den Waldstätten findt sich kein Verräther.  
+Rösselmann  
+Der Eifer auch, der gute, kann verrathen.  
+Walther Fürst  
+Schiebt man es auf, so wird der Twing vollendet  
+In Altorf, und der Vogt befestigt sich.
+
+`p00118` Meier  
+Ihr denkt an euch.  
+Sigrist  
+ Und ihr seid ungerecht.  
+Meier (auffahrend)  
+Wir ungerecht! Das darf uns Uri bieten!  
+Reding  
+Bei eurem Eide, Ruh!  
+Meier  
+ Ja, wenn sich Schwytz  
+Versteht mit Uri, müssen wir wohl schweigen.  
+Reding  
+Ich muß euch weisen vor der Landsgemeinde,  
+Daß ihr mit heftgem Sinn den Frieden stört!  
+Stehn wir nicht alle für dieselbe Sache?  
+Winkelried  
+Wenn wirs verschieben bis zum Fest des Herrn  
+Dann bringts die Sitte mit, daß alle Sassen  
+Dem Vogt Geschenke bringen auf das Schloß,  
+So können zehen Männer oder zwölf  
+Sich unverdächtig in der Burg versammeln,
+
+`p00119` Die führen heimlich spitzge Eisen mit,  
+Die man geschwind kann an die Stäbe stecken,  
+Denn niemand kommt mit Waffen in die Burg.  
+Zunächst im Wald hält dann der große Haufe,  
+Und wenn die andern glücklich sich des Thors  
+Ermächtiget, so wird ein Horn geblasen,  
+Und jene brechen aus dem Hinterhalt,  
+So wird das Schloß mit leichter Arbeit unser.  
+Melchthal  
+Den Roßberg übernehm ich zu ersteigen,  
+Denn eine Dirn’ des Schlosses ist mir hold,  
+Und leicht bethör ich sie, zum nächtlichen  
+Besuch die schwanke Leiter mir zu reichen,  
+Bin ich droben erst, zieh ich die Freunde nach.  
+Reding  
+Ist’s aller Wille, daß verschoben werde?  
+(die Mehrheit erhebt die Hand)  
+Stauffacher (zählt die Stimmen)  
+Es ist ein Mehr von zwanzig gegen zwölf!  
+Walther Fürst  
+Wenn am bestimmten Tag die Burgen fallen,
+
+`p00120` So geben wir von einem Berg zum andern  
+Das Zeichen mit dem Rauch, der Landsturm wird  
+Aufgeboten, schnell, im Hauptort jedes Landes,  
+Wenn dann die Vögte sehn der Waffen Ernst,  
+Glaubt mir, sie werden sich des Streits begeben,  
+Und gern ergreifen friedliches Geleit,  
+Aus unsern Landesmarken zu entweichen.  
+Stauffacher  
+Nur mit dem Geßler fürcht ich schweren Stand,  
+Furchtbar ist er mit Reisigen umgeben,  
+Nicht ohne Blut räumt er das Feld, ja selbst  
+Vertrieben bleibt er furchtbar noch dem Land,  
+Schwer ists und fast gefährlich, ihn zu schonen.  
+Baumgarten  
+Wo’s halsgefährlich ist, da stellt mich hin,  
+Dem Tell verdank ich mein gerettet Leben,  
+Gern schlag ichs in die Schanze für das Land,  
+Mein’ Ehr hab ich beschüzt, mein Herz befriedigt.  
+Reding  
+Die Zeit bringt Rath. Erwartets in Geduld.
+
+`p00121` Man muß dem Augenblick auch was vertrauen.  
+– Doch seht, indeß wir nächtlich hier noch tagen,  
+Stellt auf den höchsten Bergen schon der Morgen  
+Die glüh’nde Hochwacht aus – Kommt, laßt uns scheiden,  
+Eh uns des Tages Leuchten überrascht.  
+Walther Fürst  
+Sorgt nicht, die Nacht weicht langsam aus den Thälern.  
+(Alle haben unwillkührlich die Hüte abgenommen und betrachten mit stiller Sammlung die Morgenröthe)  
+Rösselmann  
+Bei diesem Licht, das uns zuerst begrüßt  
+Von allen Völkern, die tief unter uns  
+Schwerathmend wohnen in dem Qualm der Städte,  
+Laßt uns den Eid des neuen Bundes schwören.  
+– Wir wollen seyn ein einzig Volk von Brüdern,  
+In keiner Noth uns trennen und Gefahr.  
+(alle sprechen es nach mit erhobenen drei Fingern)  
+– Wir wollen frey seyn wie die Väter waren,  
+Eher den Tod, als in der Knechtschaft leben.  
+(wie oben)
+
+`p00122` – Wir wollen trauen auf den höchsten Gott  
+Und uns nicht fürchten vor der Macht der Menschen.  
+(wie oben. Die Landleute umarmen einander)  
+Stauffacher  
+Jezt gehe jeder seines Weges still  
+Zu seiner Freundschaft und Genoßsame,  
+Wer Hirt ist, wintre ruhig seine Heerde,  
+Und werb’ im Stillen Freunde für den Bund,  
+– Was noch bis dahin muß erduldet werden,  
+Erduldets! Laßt die Rechnung der Tyrannen  
+Anwachsen, bis Ein Tag die allgemeine  
+Und die besondre Schuld auf einmal zahlt.  
+Bezähme jeder die gerechte Wut,  
+Und spare für das Ganze seine Rache,  
+Denn Raub begeht am allgemeinen Gut,  
+Wer selbst sich hilft in seiner eignen Sache.  
+(Indem sie zu drei verschiednen Seiten in größter Ruhe abgehen, fällt das Orchester mit einem prachtvollen Schwung ein, die leere Scene bleibt noch eine Zeitlang offen und zeigt das Schauspiel der aufgehenden Sonne über den Eisgebirgen.)
+
+`p00123` **Anmerkungen (Wikisource)**
+
+`p00124` Dritter Aufzug
+
+`p00125` Erste Scene
+
+`p00126` Hof vor Tells Hause. Er ist mit der Zimmeraxt, Hedwig mit einer häuslichen Arbeit beschäftigt. Walther und Wilhelm in der Tiefe spielen mit einer kleinen Armbrust.
+
+`p00127` Walther (singt)  
+Mit dem Pfeil, dem Bogen,  
+Durch Gebirg und Thal  
+Kommt der Schütz gezogen  
+Früh am Morgenstrahl.  
+Wie im Reich der Lüfte  
+König ist der Weih, –  
+Durch Gebirg und Klüfte  
+Herrscht der Schütze frei.  
+Ihm gehört das Weite  
+Was sein Pfeil erreicht,  
+Das ist seine Beute,  
+Was da kreucht und fleugt.  
+(kommt gesprungen)
+
+`p00128` Der Strang ist mir entzwey. Mach mir ihn Vater.  
+Tell  
+Ich nicht. Ein rechter Schütze hilft sich selbst.  
+(Knaben entfernen sich)  
+Hedwig  
+Die Knaben fangen zeitig an zu schießen.  
+Tell  
+Früh übt sich, was ein Meister werden will.  
+Hedwig  
+Ach wollte Gott, sie lerntens nie  
+Tell  
+Sie sollen alles lernen. Wer durchs Leben  
+Sich frisch will schlagen, muß zu Schutz und Trutz  
+Gerüstet seyn.  
+Hedwig  
+ Ach, es wird keiner seine Ruh  
+Zu Hause finden.  
+Tell  
+ Mutter, ich kanns auch nicht,  
+Zum Hirten hat Natur mich nicht gebildet,
+
+`p00129` Rastlos muß ich ein flüchtig Ziel verfolgen,  
+Dann erst genieß ich meines Lebens recht,  
+Wenn ich mirs jeden Tag aufs neu erbeute.  
+Hedwig  
+Und an die Angst der Hausfrau denkst du nicht,  
+Die sich indessen, deiner wartend, härmt,  
+Denn mich erfüllts mit Grausen, was die Knechte  
+Von euren Wagefahrten sich erzählen.  
+Bei jedem Abschied zittert mir das Herz,  
+Daß du mir nimmer werdest wiederkehren.  
+Ich sehe dich im wilden Eisgebirg,  
+Verirrt, von einer Klippe zu der andern  
+Den Fehlsprung thun, seh wie die Gemse dich  
+Rückspringend mit sich in den Abgrund reißt,  
+Wie eine Windlawine dich verschüttet,  
+Wie unter dir der trügerische Firn  
+Einbricht und du hinabsinkst, ein lebendig  
+Begrabner, in die schauerliche Gruft –  
+Ach, den verwegnen Alpenjäger hascht  
+Der Tod in hundert wechselnden Gestalten,
+
+`p00130` Das ist ein unglückseliges Gewerb’,  
+Das halsgefährlich führt am Abgrund hin!  
+Tell  
+Wer frisch umher späht mit gesunden Sinnen,  
+Auf Gott vertraut und die gelenke Kraft,  
+Der ringt sich leicht aus jeder Fahr und Noth,  
+Den schreckt der Berg nicht, der darauf gebohren.  
+(er hat seine Arbeit vollendet, legt das Geräth hinweg)  
+Jetzt, mein ich, hält das Thor auf Jahr und Tag.  
+Die Axt im Haus erspart den Zimmermann.  
+(nimmt den Hut)  
+Hedwig  
+Wo gehst du hin?  
+Tell  
+ Nach Altorf, zu dem Vater.  
+Hedwig  
+Sinnst du auch nichts gefährliches? Gesteh mirs.  
+Tell  
+Wie kommst du darauf Frau?  
+Hedwig  
+ Es spinnt sich etwas
+
+`p00131` Gegen die Vögte – Auf dem Rütli ward  
+Getagt, ich weiß, und du bist auch im Bunde.  
+Tell  
+Ich war nicht mit dabei – doch werd ich mich  
+Dem Lande nicht entziehen, wenn es ruft.  
+Hedwig  
+Sie werden dich hinstellen, wo Gefahr ist,  
+Das Schwerste wird dein Antheil seyn, wie immer.  
+Tell  
+Ein jeder wird besteuert nach Vermögen.  
+Hedwig  
+Den Unterwaldner hast du auch im Sturme  
+Ueber den See geschafft – Ein Wunder wars,  
+Daß ihr entkommen – Dachtest du denn gar nicht  
+An Kind und Weib?  
+Tell  
+ Lieb Weib, ich dacht’ an euch,  
+Drum rettet’ ich den Vater seinen Kindern.  
+Hedwig  
+Zu schiffen in dem wüthgen See! Das heißt  
+Nicht Gott vertrauen! Das heißt Gott versuchen.
+
+`p00132` Tell  
+Wer gar zu viel bedenkt, wird wenig leisten.  
+Hedwig  
+Ja du bist gut und hilfreich, dienest allen,  
+Und wenn du selbst in Noth kommst, hilft dir keiner.  
+Tell  
+Verhüt es Gott, daß ich nicht Hülfe brauche.  
+(er nimmt die Armbrust und Pfeile)  
+Hedwig  
+Was willst du mit der Armbrust? Laß sie hier.  
+Tell  
+Mir fehlt der Arm, wenn mir die Waffe fehlt.  
+(die Knaben kommen zurück)  
+Walther  
+Vater, wo gehst du hin?  
+Tell  
+ Nach Altorf, Knabe,  
+Zum Ehni – Willst du mit?  
+Walther  
+ Ja freilich will ich.  
+Hedwig  
+Der Landvogt ist jezt dort. Bleib weg von Altorf.
+
+`p00133` Tell  
+Er geht, noch heute.  
+Hedwig  
+ Drum laß ihn erst fort seyn.  
+Gemahn’ ihn nicht an dich, du weißt, er grollt uns.  
+Tell  
+Mir soll sein böser Wille nicht viel schaden,  
+Ich thue recht und scheue keinen Feind.  
+Hedwig  
+Die recht thun, eben die haßt er am meisten.  
+Tell  
+Weil er nicht an sie kommen kann – Mich wird  
+Der Ritter wohl in Frieden lassen, mein ich.  
+Hedwig  
+So, weißt du das?  
+Tell  
+ Es ist nicht lange her,  
+Da gieng ich jagen durch die wilden Gründe  
+Des Schächenthals auf menschenleerer Spur,  
+Und da ich einsam einen Felsensteig
+
+`p00134` Verfolgte, wo nicht auszuweichen war,  
+Denn über mir hieng schroff die Felswand her,  
+Und unten rauschte fürchterlich der Schächen,  
+(die Knaben drängen sich rechts und links an ihn und sehen mit gespannter Neugier an ihm hinauf)  
+Da kam der Landvogt gegen mich daher,  
+Er ganz allein mit mir, der auch allein war,  
+Bloß Mensch zu Mensch, und neben uns der Abgrund.  
+Und als der Herre mein ansichtig ward,  
+Und mich erkannte, den er kurz zuvor  
+Um kleiner Ursach’ willen schwer gebüßt,  
+Und sah mich mit dem stattlichen Gewehr  
+Daher geschritten kommen, da verblaßt’ er,  
+Die Knie versagten ihm, ich sah es kommen,  
+Daß er jezt an die Felswand würde sinken.  
+– Da jammerte mich sein, ich trat zu ihm  
+Bescheidentlich und sprach: Ich bin’s, Herr Landvogt.  
+Er aber konnte keinen armen Laut  
+Aus seinem Munde geben – Mit der Hand nur  
+Winkt’ er mir schweigend, meines Wegs zu gehn,  
+Da gieng ich fort, und sandt ihm sein Gefolge.
+
+`p00135` Hedwig  
+Er hat vor dir gezittert – Wehe dir!  
+Daß du ihn schwach gesehn, vergiebt er nie.  
+Tell  
+Drum meid ich ihn, und er wird mich nicht suchen.  
+Hedwig  
+Bleib heute nur dort weg. Geh lieber jagen.  
+Tell  
+Was fällt dir ein?  
+Hedwig  
+ Mich ängstigts. Bleibe weg.  
+Tell  
+Wie kannst du dich so ohne Ursach’ quälen?  
+Hedwig  
+Weils keine Ursach’ hat – Tell, bleibe hier.  
+Tell  
+Ich habs versprochen, liebes Weib, zu kommen.  
+Hedwig  
+Mußt du, so geh – Nur lasse mir den Knaben!  
+Walther  
+Nein, Mütterchen. Ich gehe mit dem Vater.
+
+`p00136` Hedwig  
+Wälty, verlassen willst du deine Mutter?  
+Walther  
+Ich bring dir auch was hübsches mit vom Ehni.  
+(geht mit dem Vater)  
+Wilhelm  
+Mutter, ich bleibe bei dir!  
+Hedwig (umarmt ihn)  
+ Ja, du bist  
+Mein liebes Kind, du bleibst mir noch allein!  
+(Sie geht an das Hofthor, und folgt den Abgehenden lange mit den Augen)
+
+`p00137` Zweite Scene
+
+`p00138` Eine eingeschlossene wilde Waldgegend, Staubbäche stürzen von den Felsen.  
+Bertha im Jagdkleid. Gleich darauf Rudenz.  
+Bertha  
+Er folgt mir. Endlich kann ich mich erklären.  
+Rudenz (tritt rasch ein)  
+Fräulein, jezt endlich find ich euch allein,  
+Abgründe schließen rings umher uns ein,
+
+`p00139` In dieser Wildniß fürcht’ ich keinen Zeugen,  
+Vom Herzen wälz’ ich dieses lange Schweigen –  
+Bertha  
+Seid ihr gewiß, daß uns die Jagd nicht folgt?  
+Rudenz  
+Die Jagd ist dort hinaus – Jezt oder nie!  
+Ich muß den theuren Augenblick ergreifen –  
+Entschieden sehen muß ich mein Geschick,  
+Und sollt es mich auf ewig von euch scheiden.  
+– O waffnet eure gütgen Blicke nicht  
+Mit dieser finstern Strenge – Wer bin ich,  
+Daß ich den kühnen Wunsch zu euch erhebe?  
+Mich hat der Ruhm noch nicht genannt, ich darf  
+Mich in die Reih’ nicht stellen mit den Rittern,  
+Die siegberühmt und glänzend euch umwerben.  
+Nichts hab ich als mein Herz voll Treu und Liebe –  
+Bertha (ernst und streng)  
+Dürft Ihr von Liebe reden und von Treue,  
+Der treulos wird an seinen nächsten Pflichten?  
+(Rudenz tritt zurück.)
+
+`p00140` Der Sklave Oesterreichs, der sich dem Fremdling  
+Verkauft, dem Unterdrücker seines Volks?  
+Rudenz  
+Von euch, mein Fräulein, hör ich diesen Vorwurf?  
+Wen such’ ich denn, als Euch auf jener Seite?  
+Bertha  
+Mich denkt ihr auf der Seite des Verraths  
+Zu finden? Eher wollt’ ich meine Hand  
+Dem Geßler selbst, dem Unterdrücker schenken,  
+Als dem Naturvergeßnen Sohn der Schweiz,  
+Der sich zu seinem Werkzeug machen kann!  
+Rudenz  
+O Gott, was muß ich hören?  
+Bertha  
+ Wie? Was liegt  
+Dem guten Menschen näher als die Seinen?  
+Giebts schönre Pflichten für ein edles Herz,  
+Als ein Vertheidiger der Unschuld seyn,  
+Das Recht des Unterdrückten zu beschirmen?  
+– Die Seele blutet mir um euer Volk,  
+Ich leide mit ihm, denn ich muß es lieben,
+
+`p00141` Das so bescheiden ist und doch voll Kraft,  
+Es zieht mein ganzes Herz mich zu ihm hin,  
+Mit jedem Tage lern ich’s mehr verehren.  
+– Ihr aber, den Natur und Ritterpflicht  
+Ihm zum gebohrenen Beschützer gaben,  
+Und der’s verläßt, der treulos übertritt  
+Zum Feind, und Ketten schmiedet seinem Land,  
+Ihr seids, der mich verlezt und kränkt, ich muß  
+Mein Herz bezwingen, daß ich euch nicht hasse.  
+Rudenz  
+Will ich denn nicht das Beste meines Volks?  
+Ihm unter Oestreichs mächtgem Zepter nicht  
+Den Frieden –  
+Bertha  
+ Knechtschaft wollt ihr ihm bereiten!  
+Die Freiheit wollt ihr aus dem letzten Schloß,  
+Das ihr noch auf der Erde blieb, verjagen.  
+Das Volk versteht sich besser auf sein Glück,  
+Kein Schein verführt sein sicheres Gefühl,  
+Euch haben sie das Netz ums Haupt geworfen –
+
+`p00142` Rudenz  
+Bertha! Ihr haßt mich, ihr verachtet mich!  
+Bertha  
+Thät ichs, mir wäre besser – Aber den  
+Verachtet sehen und verachtungswerth,  
+Den man gern lieben möchte –  
+Rudenz  
+ Bertha! Bertha!  
+Ihr zeiget mir das höchste Himmelsglück,  
+Und stürzt mich tief in Einem Augenblick.  
+Bertha  
+Nein, nein, das Edle ist nicht ganz erstickt  
+In euch! Es schlummert nur, ich will es wecken,  
+Ihr müßt Gewalt ausüben an euch selbst,  
+Die angestammte Tugend zu ertöden,  
+Doch wohl euch, sie ist mächtiger als ihr,  
+Und trotz euch selber seid ihr gut und edel!  
+Rudenz  
+Ihr glaubt an mich! O Bertha, alles läßt  
+Mich eure Liebe seyn und werden!
+
+`p00143` Bertha  
+ Seid  
+Wozu die herrliche Natur euch machte!  
+Erfüllt den Platz, wohin sie euch gestellt,  
+Zu eurem Volke steht und eurem Lande,  
+Und kämpft für euer heilig Recht.  
+Rudenz  
+ Weh mir!  
+Wie kann ich euch erringen, euch besitzen,  
+Wenn ich der Macht des Kaisers widerstrebe?  
+Ists der Verwandten mächtger Wille nicht,  
+Der über eure Hand tyrannisch waltet?  
+Bertha  
+In den Waldstätten liegen meine Güter,  
+Und ist der Schweitzer frei, so bin auch ich’s.  
+Rudenz  
+Bertha! welch einen Blick thut ihr mir auf!  
+Bertha  
+Hofft nicht durch Oestreichs Gunst mich zu erringen,  
+Nach meinem Erbe strecken sie die Hand,  
+Das will man mit dem großen Erb vereinen.
+
+`p00144` Dieselbe Ländergier, die Eure Freiheit  
+Verschlingen will, sie drohet auch der meinen!  
+– O Freund, zum Opfer bin ich ausersehn,  
+Vielleicht um einen Günstling zu belohnen –  
+Dort wo die Falschheit und die Ränke wohnen,  
+Hin an den Kaiserhof will man mich ziehn,  
+Dort harren mein verhaßter Ehe Ketten,  
+Die Liebe nur – die Eure kann mich retten!  
+Rudenz  
+Ihr könntet euch entschließen, hier zu leben,  
+In meinem Vaterlande mein zu seyn?  
+O Bertha, all mein Sehnen in das Weite,  
+Was war es, als ein Streben nur nach Euch?  
+Euch sucht’ ich einzig auf dem Weg des Ruhms,  
+Und all mein Ehrgeitz war nur meine Liebe.  
+Könnt ihr mit mir euch in dieß stille Thal  
+Einschließen und der Erde Glanz entsagen –  
+O dann ist meines Strebens Ziel gefunden,  
+Dann mag der Strom der wildbewegten Welt  
+Ans sichre Ufer dieser Berge schlagen –  
+Kein flüchtiges Verlangen hab ich mehr
+
+`p00145` Hinaus zu senden in des Lebens Weiten –  
+Dann mögen diese Felsen um uns her  
+Die undurchdringlich feste Mauer breiten,  
+Und dieß verschloßne sel’ge Thal allein  
+Zum Himmel offen und gelichtet seyn!  
+Bertha  
+Jetzt bist du ganz, wie dich mein ahnend Herz  
+Geträumt, mich hat mein Glaube nicht betrogen!  
+Rudenz  
+Fahr’ hin, du eitler Wahn, der mich bethört!  
+Ich soll das Glück in meiner Heimat finden.  
+Hier wo der Knabe fröhlich aufgeblüht,  
+Wo tausend Freudespuren mich umgeben,  
+Wo alle Quellen mir und Bäume leben,  
+Im Vaterland willst du die Meine werden!  
+Ach, wohl hab’ ich es stets geliebt! Ich fühls,  
+Es fehlte mir zu jedem Glück der Erden.  
+Bertha  
+Wo wär die sel’ge Insel aufzufinden,  
+Wenn sie nicht hier ist in der Unschuld Land?  
+Hier, wo die alte Treue heimisch wohnt,
+
+`p00146` Wo sich die Falschheit noch nicht hingefunden,  
+Da trübt kein Neid die Quelle unsers Glücks,  
+Und ewig hell entfliehen uns die Stunden.  
+– Da seh ich Dich im ächten Männerwerth,  
+Den Ersten von den Freien und den Gleichen,  
+Mit reiner, freier Huldigung verehrt,  
+Groß wie ein König wirkt in seinen Reichen.  
+Rudenz  
+Da seh ich dich, die Krone aller Frauen,  
+In weiblich reizender Geschäftigkeit,  
+In meinem Haus den Himmel mir erbauen,  
+Und, wie der Frühling seine Blumen streut,  
+Mit schöner Anmuth mir das Leben schmücken,  
+Und alles rings beleben und beglücken!  
+Bertha  
+Sieh, theurer Freund, warum ich trauerte,  
+Als ich dieß höchste Lebensglück dich selbst  
+Zerstören sah – Weh mir! Wie stünds um mich,  
+Wenn ich dem stolzen Ritter müßte folgen,  
+Dem Landbedrücker auf sein finstres Schloß!
+
+`p00147` – Hier ist kein Schloß. Mich scheiden keine Mauern  
+Von einem Volk, das ich beglücken kann!  
+Rudenz  
+Doch wie mich retten – wie die Schlinge lösen,  
+Die ich mir thörigt selbst um’s Haupt gelegt?  
+Bertha  
+Zerreiße sie mit männlichem Entschluß!  
+Was auch draus werde – Steh zu deinem Volk,  
+Es ist dein angebohrner Platz.  
+(Jagdhörner in der Ferne.)  
+ Die Jagd  
+Kommt näher – Fort, wir müssen scheiden – Kämpfe  
+Für’s Vaterland, du kämpfst für deine Liebe!  
+Es ist Ein Feind, vor dem wir alle zittern,  
+Und Eine Freiheit macht uns alle frei!  
+(gehen ab.)
+
+`p00148` Dritte Scene
+
+`p00149` Wiese bei Altorf. Im Vordergrund Bäume, in der Tiefe der Hut auf einer Stange. Der Prospekt wird begrenzt durch den Bannberg, über welchem ein Schneegebirg emporragt.  
+Frießhardt und Leuthold halten Wache.  
+Frießhardt  
+Wir passen auf umsonst. Es will sich niemand  
+Heran begeben und dem Hut sein’ Reverenz  
+Erzeigen. ’s war doch sonst wie Jahrmarkt hier,  
+Jezt ist der ganze Anger wie verödet,  
+Seitdem der Popanz auf der Stange hängt.  
+Leuthold  
+Nur schlecht Gesindel läßt sich sehn und schwingt  
+Uns zum Verdrieße die zerlumpten Mützen.  
+Was rechte Leute sind, die machen lieber  
+Den langen Umweg um den halben Flecken,  
+Eh sie den Rücken beugten vor dem Hut.  
+Frießhardt  
+Sie müssen über diesen Platz, wenn sie  
+Vom Rathhaus kommen um die Mittagstunde.
+
+`p00150` Da meint’ ich schon, ’nen guten Fang zu thun,  
+Denn keiner dachte dran, den Hut zu grüssen.  
+Da siehts der Pfaff, der Rösselmann – kam just  
+Von einem Kranken her – und stellt sich hin  
+Mit dem Hochwürdigen, grad vor die Stange –  
+Der Sigrist mußte mit dem Glöcklein schellen,  
+Da fielen all aufs Knie, ich selber mit,  
+Und grüßten die Monstranz, doch nicht den Hut. –  
+Leuthold  
+Höre Gesell, es fängt mir an zu däuchten,  
+Wir stehen hier am Pranger vor dem Hut,  
+’s ist doch ein Schimpf für einen Reitersmann,  
+Schildwach zu stehn vor einem leeren Hut –  
+Und jeder rechte Kerl muß uns verachten.  
+– Die Reverenz zu machen einem Hut,  
+Es ist doch traun! ein närrischer Befehl!  
+Frießhardt  
+Warum nicht einem leeren hohlen Hut?  
+Bückst du dich vor manchem hohlen Schädel.  
+(Hildegard, Mechthild und Elsbeth treten auf mit Kindern und stellen sich um die Stange.)
+
+`p00151` Leuthold  
+Und du bist auch so ein dienstfertger Schurke,  
+Und brächtest wackre Leute gern ins Unglück.  
+Mag, wer da will, am Hut vorübergehn,  
+Ich drück die Augen zu und seh nicht hin.  
+Mechthild  
+Da hängt der Landvogt – Habt Respekt, ihr Buben.  
+Elsbeth  
+Wollts Gott, er gieng, und ließ uns seinen Hut,  
+Es sollte drum nicht schlechter stehn ums Land!  
+Frießhardt (verscheucht sie)  
+Wollt ihr vom Platz? Verwünschtes Volk der Weiber!  
+Wer fragt nach euch? Schickt eure Männer her,  
+Wenn sie der Muth sticht, dem Befehl zu trotzen.  
+(Weiber gehen)  
+Tell mit der Armbrust tritt auf, den Knaben an der Hand führend. Sie gehen an dem Hut vorbei gegen die vordere Scene, ohne darauf zu achten.  
+Walther (zeigt nach dem Bannberg)  
+Vater, ists wahr, daß auf dem Berge dort  
+Die Bäume bluten, wenn man einen Streich  
+Drauf führte mit der Axt?
+
+`p00152` Tell  
+ Wer sagt das Knabe?  
+Walther  
+Der Meister Hirt erzählts – Die Bäume seien  
+Gebannt, sagt er, und wer sie schädige,  
+Dem wachse seine Hand heraus zum Grabe.  
+Tell  
+Die Bäume sind gebannt, das ist die Wahrheit.  
+– Siehst du die Firnen dort, die weißen Hörner,  
+Die hoch bis in den Himmel sich verlieren?  
+Walther  
+Das sind die Gletscher, die des Nachts so donnern,  
+Und uns die Schlaglawinen niedersenden.  
+Tell  
+So ists, und die Lawinen hätten längst  
+Den Flecken Altorf unter ihrer Last  
+Verschüttet, wenn der Wald dort oben nicht  
+Als eine Landwehr sich dagegen stellte.  
+Walther (nach einigem Besinnen)  
+Giebts Länder, Vater, wo nicht Berge sind?
+
+`p00153` Tell  
+Wenn man hinunter steigt von unsern Höhen,  
+Und immer tiefer steigt, den Strömen nach,  
+Gelangt man in ein großes ebnes Land,  
+Wo die Waldwasser nicht mehr brausend schäumen,  
+Die Flüsse ruhig und gemächlich ziehn,  
+Da sieht man frei nach allen Himmelsräumen,  
+Das Korn wächst dort in langen schönen Auen,  
+Und wie ein Garten ist das Land zu schauen.  
+Walther  
+Ey Vater, warum steigen wir denn nicht  
+Geschwind hinab in dieses schöne Land,  
+Statt daß wir uns hier ängstigen und plagen?  
+Tell  
+Das Land ist schön und gütig wie der Himmel,  
+Doch die’s bebauen, sie genießen nicht  
+Den Segen, den sie pflanzen.  
+Walther  
+ Wohnen sie  
+Nicht frei wie du auf ihrem eignen Erbe?
+
+`p00154` Tell  
+Das Feld gehört dem Bischoff und dem König.  
+Walther  
+So dürfen sie doch frei in Wäldern jagen?  
+Tell  
+Dem Herrn gehört das Wild und das Gefieder.  
+Walther  
+Sie dürfen doch frei fischen in dem Strom?  
+Tell  
+Der Strom, das Meer, das Salz gehört dem König.  
+Walther  
+Wer ist der König denn, den alle fürchten?  
+Tell  
+Es ist der Eine, der sie schützt und nährt.  
+Walther  
+Sie können sich nicht muthig selbst beschützen?  
+Tell  
+Dort darf der Nachbar nicht dem Nachbar trauen.  
+Walther  
+Vater, es wird mir eng im weiten Land,  
+Da wohn’ ich lieber unter den Lawinen.
+
+`p00155` Tell  
+Ja wohl ists besser, Kind, die Gletscherberge  
+Im Rücken haben, als die bösen Menschen.  
+(sie wollen vorübergehen)  
+Walther  
+Ey Vater, sieh den Hut dort auf der Stange.  
+Tell  
+Was kümmert uns der Hut? Komm, laß uns gehen.  
+(indem er abgehen will, tritt ihm Frießhardt mit vorgehaltner Pike entgegen)  
+Frießhardt  
+In des Kaisers Nahmen! Haltet an und steht!  
+Tell (greift in die Pike)  
+Was wollt ihr? Warum haltet ihr mich auf?  
+Frießhardt  
+Ihr habt’s Mandat verlezt, ihr müßt uns folgen.  
+Leuthold  
+Ihr habt dem Hut nicht Reverenz bewiesen.  
+Tell  
+Freund, laß mich gehen.
+
+`p00156` Frießhardt  
+ Fort, fort ins Gefängniß!  
+Walther  
+Den Vater ins Gefängniß! Hülfe! Hülfe!  
+(in die Scene rufend)  
+Herbei, ihr Männer, gute Leute, helft,  
+Gewalt, Gewalt, sie führen ihn gefangen.  
+(Rösselmann der Pfarrer und Petermann der Sigrist kommen herbey, mit drei andern Männern)  
+Sigrist  
+Was giebts?  
+Rösselmann  
+ Was legst du Hand an diesen Mann?  
+Frießhardt  
+Er ist ein Feind des Kaisers, ein Verräther!  
+Tell (faßt ihn heftig)  
+Ein Verräther, ich!  
+Rösselmann  
+ Du irrst dich Freund, das ist  
+Der Tell, ein Ehrenmann und guter Bürger.
+
+`p00157` Walther (erblickt Walther Fürsten und eilt ihm entgegen)  
+Großvater hilf, Gewalt geschieht dem Vater.  
+Frießhardt  
+Ins Gefängniß, fort!  
+Walther Fürst (herbeieilend)  
+ Ich leiste Bürgschaft, haltet!  
+– Um Gotteswillen, Tell, was ist geschehen?  
+(Melchthal und Stauffacher kommen)  
+Frießhardt  
+Des Landvogts oberherrliche Gewalt  
+Verachtet er, und will sie nicht erkennen.  
+Stauffacher  
+Das hätt’ der Tell gethan?  
+Melchthal  
+ Das lügst du, Bube!  
+Leuthold  
+Er hat dem Hut nicht Reverenz bewiesen.  
+Walther Fürst  
+Und darum soll er ins Gefängniß? Freund,  
+Nimm meine Bürgschaft an und laß ihn ledig.
+
+`p00158` Frießhardt  
+Bürg du für dich und deinen eignen Leib!  
+Wir thun, was unsers Amtes – Fort mit ihm!  
+Melchthal (zu den Landleuten)  
+Nein, das ist schreiende Gewalt! Ertragen wirs,  
+Daß man ihn fort führt, frech, vor unsern Augen?  
+Sigrist  
+Wir sind die stärkern. Freunde, duldets nicht,  
+Wir haben einen Rücken an den andern!  
+Frießhardt  
+Wer widersezt sich dem Befehl des Vogts?  
+Noch drei Landleute (herbeieilend)  
+Wir helfen euch. Was giebts? Schlagt sie zu Boden.  
+(Hildegard, Mechthild und Elsbeth kommen zurück)  
+Tell  
+Ich helfe mir schon selbst. Geht, gute Leute,  
+Meint ihr, wenn ich die Kraft gebrauchen wollte,  
+Ich würde mich vor ihren Spießen fürchten?  
+Melchthal (zu Frießhardt)  
+Wags, ihn aus unsrer Mitte wegzuführen!
+
+`p00159` Walther Fürst und Stauffacher  
+Gelassen! Ruhig!  
+Frießhardt (schreit)  
+ Aufruhr und Empörung!  
+(Man hört Jagdhörner)  
+Weiber  
+Da kommt der Landvogt!  
+Frießhardt (erhebt die Stimme)  
+ Meuterei! Empörung!  
+Stauffacher  
+Schrei, bis du berstest, Schurke!  
+Rösselmann und Melchthal  
+ Willst du schweigen?  
+Frießhardt (ruft noch lauter)  
+Zu Hülf, zu Hülf den Dienern des Gesetzes.  
+Walther Fürst  
+Da ist der Vogt! Weh uns, was wird das werden!
+
+`p00160` Geßler zu Pferd, den Falken auf der Faust, Rudolph der Harras, Bertha und Rudenz, ein großes Gefolge von bewaffneten Knechten, welche einen Kreis von Piken um die ganze Scene schließen.
+
+`p00161` Rudolph der Harras  
+Platz, Platz dem Landvogt!  
+Geßler  
+ Treibt sie auseinander!  
+Was läuft das Volk zusammen? Wer ruft Hilfe?  
+(allgemeine Stille)  
+Wer wars? Ich will es wissen.  
+(zu Frießhardt)  
+ Du tritt vor!  
+Wer bist du und was hältst du diesen Mann?  
+(er giebt den Falken einem Diener)  
+Frießhardt  
+Gestrenger Herr, ich bin dein Waffenknecht  
+Und wohl bestellter Wächter bei dem Hut.  
+Diesen Mann ergriff ich über frischer That,  
+Wie er dem Hut den Ehrengruß versagte.  
+Verhaften wollt’ ich ihn, wie du befahlst,  
+Und mit Gewalt will ihn das Volk entreißen.  
+Geßler (nach einer Pause)  
+Verachtest du so deinen Kaiser, Tell,  
+Und Mich, der hier an seiner Statt gebietet,
+
+`p00162` Daß du die Ehr’ versagst dem Hut, den ich  
+Zur Prüfung des Gehorsams aufgehangen?  
+Dein böses Trachten hast du mir verrathen.  
+Tell  
+Verzeiht mir lieber Herr! Aus Unbedacht,  
+Nicht aus Verachtung Eurer ists geschehn,  
+Wär ich besonnen, hieß ich nicht der Tell,  
+Ich bitt um Gnad’, es soll nicht mehr begegnen.  
+Geßler (nach einigem Stillschweigen)  
+Du bist ein Meister auf der Armbrust, Tell,  
+Man sagt, du nehmst es auf mit jedem Schützen?  
+Walther Tell  
+Und das muß wahr seyn, Herr – ’nen Apfel schießt  
+Der Vater dir vom Baum auf hundert Schritte.  
+Geßler  
+Ist das dein Knabe, Tell?  
+Tell  
+ Ja, lieber Herr.  
+Geßler  
+Hast du der Kinder mehr?
+
+`p00163` Tell  
+ Zwey Knaben, Herr.  
+Geßler  
+Und welcher ists, den du am meisten liebst?  
+Tell  
+Herr, beide sind sie mir gleich liebe Kinder.  
+Geßler  
+Nun Tell! Weil du den Apfel trifst vom Baume  
+Auf hundert Schritte, so wirst du deine Kunst  
+Vor mir bewähren müßen – Nimm die Armbrust –  
+Du hast sie gleich zur Hand – und mach dich fertig,  
+Einen Apfel von des Knaben Kopf zu schießen –  
+Doch will ich rathen, ziele gut, daß du  
+Den Apfel treffest auf den ersten Schuß,  
+Denn fehlst du ihn, so ist dein Kopf verloren.  
+(Alle geben Zeichen des Schreckens)  
+Tell  
+Herr – Welches Ungeheure sinnet ihr  
+Mir an – Ich soll vom Haupte meines Kindes –  
+– Nein, nein doch, lieber Herr, das kömmt euch nicht
+
+`p00164` Zu Sinn – Verhüts der gnädge Gott – das könnt ihr  
+Im Ernst von einem Vater nicht begehren!  
+Geßler  
+Du wirst den Apfel schießen von dem Kopf  
+Des Knaben – Ich begehrs und wills.  
+Tell  
+ Ich soll  
+Mit meiner Armbrust auf das liebe Haupt  
+Des eignen Kindes zielen – Eher sterb ich!  
+Geßler  
+Du schießest oder stirbst mit deinem Knaben.  
+Tell  
+Ich soll der Mörder werden meines Kinds!  
+Herr, ihr habt keine Kinder – wisset nicht,  
+Was sich bewegt in eines Vaters Herzen.  
+Geßler  
+Ey Tell, du bist ja plötzlich so besonnen!  
+Man sagte mir, daß du ein Träumer seyst,  
+Und dich entfernst von andrer Menschen Weise.  
+Du liebst das Seltsame – Drum hab’ ich jezt
+
+`p00165` Ein eigen Wagstück für dich ausgesucht.  
+Ein andrer wohl bedächte sich – Du drückst  
+Die Augen zu, und greifst es herzhaft an.  
+Bertha  
+Scherzt nicht, o Herr! mit diesen armen Leuten!  
+Ihr seht sie bleich und zitternd stehn – So wenig  
+Sind sie Kurzweils gewohnt aus eurem Munde.  
+Geßler  
+Wer sagt euch, daß ich scherze?  
+(greift nach einem Baumzweige, der über ihn herhängt)  
+ Hier ist der Apfel.  
+Man mache Raum – Er nehme seine Weite,  
+Wies Brauch ist – Achzig Schritte geb ich ihm –  
+Nicht weniger, noch mehr – Er rühmte sich,  
+Auf ihrer hundert seinen Mann zu treffen –  
+Jezt Schütze triff, und fehle nicht das Ziel!  
+Rudolph der Harras  
+Gott, das wird ernsthaft – Falle nieder Knabe,  
+Es gilt, und fleh den Landvogt um dein Leben.  
+Walther Fürst  
+(bei Seite zu Melchthal, der kaum seine Ungeduld bezwingt)  
+Haltet an euch, ich fleh euch drum, bleibt ruhig.
+
+`p00166` Bertha (zum Landvogt)  
+Laßt es genug seyn Herr! Unmenschlich ists,  
+Mit eines Vaters Angst also zu spielen.  
+Wenn dieser arme Mann auch Leib und Leben  
+Verwirkt durch seine leichte Schuld, bei Gott!  
+Er hätte jezt zehnfachen Tod empfunden.  
+Entlaßt ihn ungekränkt in seine Hütte,  
+Er hat euch kennen lernen, dieser Stunde  
+Wird er und seine Kindeskinder denken.  
+Geßler  
+Oefnet die Gasse – Frisch! Was zauderst du?  
+Dein Leben ist verwirkt, ich kann dich tödten,  
+Und sieh, ich lege gnädig dein Geschick  
+In deine eigne kunstgeübte Hand.  
+Der kann nicht klagen über harten Spruch,  
+Den man zum Meister seines Schicksals macht.  
+Du rühmst dich deines sichern Blicks! Wohlan!  
+Hier gilt es, Schütze, deine Kunst zu zeigen,  
+Das Ziel ist würdig und der Preiß ist groß!  
+Das Schwarze treffen in der Scheibe, das  
+Kann auch ein andrer, der ist mir der Meister,
+
+`p00167` Der seiner Kunst gewiß ist überal,  
+Dems Herz nicht in die Hand tritt noch ins Auge.  
+Walther Fürst (wirft sich vor ihm nieder)  
+Herr Landvogt, wir erkennen eure Hoheit,  
+Doch lasset Gnad’ vor Recht ergehen, nehmt  
+Die Hälfte meiner Haabe, nehmt sie ganz,  
+Nur dieses Gräßliche erlasset einem Vater!  
+Walther Tell  
+Großvater, knie nicht vor dem falschen Mann!  
+Sagt, wo ich hinstehn soll, ich fürcht mich nicht,  
+Der Vater trift den Vogel ja im Flug,  
+Er wird nicht fehlen auf das Herz des Kindes.  
+Stauffacher  
+Herr Landvogt, rührt euch nicht des Kindes Unschuld?  
+Rösselmann  
+O denket, daß ein Gott im Himmel ist,  
+Dem ihr müßt Rede stehn für eure Thaten.  
+Geßler (zeigt auf den Knaben)  
+Man bind ihn an die Linde dort!
+
+`p00168` Walther Tell  
+ Mich binden!  
+Nein, ich will nicht gebunden seyn. Ich will  
+Still halten, wie ein Lamm und auch nicht athmen.  
+Wenn ihr mich bindet, nein, so kann ichs nicht,  
+So werd’ ich toben gegen meine Bande.  
+Rudolph der Harras  
+Die Augen nur laß dir verbinden, Knabe.  
+Walther Tell  
+Warum die Augen? Denket ihr, ich fürchte  
+Den Pfeil von Vaters Hand? Ich will ihn fest  
+Erwarten, und nicht zucken mit den Wimpern.  
+– Frisch Vater, zeigs, daß du ein Schütze bist,  
+Er glaubt dirs nicht, er denkt uns zu verderben –  
+Dem Wüthrich zum Verdruße, schieß und triff.  
+(er geht an die Linde, man legt ihm den Apfel auf)  
+Melchthal (zu den Landleuten)  
+Was? Soll der Frevel sich vor unsern Augen  
+Vollenden? Wozu haben wir geschworen?  
+Stauffacher  
+Es ist umsonst. Wir haben keine Waffen,  
+Ihr seht den Wald von Lanzen um uns her.
+
+`p00169` Melchthal  
+O hätten wirs mit frischer That vollendet,  
+Verzeihs Gott denen, die zum Aufschub riethen!  
+Geßler (zum Tell)  
+Ans Werk! Man führt die Waffen nicht vergebens.  
+Gefährlich ists, ein Mordgewehr zu tragen,  
+Und auf den Schützen springt der Pfeil zurück.  
+Dieß stolze Recht, das sich der Bauer nimmt,  
+Beleidiget den höchsten Herrn des Landes.  
+Gewaffnet sei Niemand, als wer gebietet.  
+Freuts euch, den Pfeil zu führen und den Bogen,  
+Wohl, so will ich das Ziel euch dazu geben.  
+Tell (spannt die Armbrust und legt den Pfeil auf)  
+Oefnet die Gasse! Platz!  
+Stauffacher  
+Was Tell? Ihr wolltet – Nimmermehr – Ihr zittert,  
+Die Hand erbebt euch, eure Kniee wanken –  
+Tell (läßt die Armbrust sinken)  
+Mir schwimmt es vor den Augen!
+
+`p00170` Weiber  
+ Gott im Himmel!  
+Tell (zum Landvogt)  
+Erlasset mir den Schuß. Hier ist mein Herz!  
+(er reißt die Brust auf)  
+Ruft eure Reisigen und stoßt mich nieder.  
+Geßler  
+Ich will dein Leben nicht, ich will den Schuß.  
+– Du kannst ja alles, Tell, an nichts verzagst du,  
+Das Steuerruder führst du wie den Bogen,  
+Dich schreckt kein Sturm, wenn es zu retten gilt,  
+Jezt Retter hilf dir selbst – du rettest alle!  
+(Tell steht in fürchterlichem Kampf, mit den Händen zuckend, und die rollenden Augen bald auf den Landvogt, bald zum Himmel gerichtet – Plötzlich greift er in seinen Köcher, nimmt einen zweiten Pfeil heraus und steckt ihn in seinen Goller. Der Landvogt bemerkt alle diese Bewegungen.)  
+Walther Tell (unter der Linde)  
+Vater schieß zu, ich fürcht’ mich nicht.  
+Tell  
+ Es muß!  
+(er rafft sich zusammen und legt an)
+
+`p00171` Rudenz  
+(der die ganze Zeit über in der heftigsten Spannung gestanden und mit Gewalt an sich gehalten, tritt hervor)  
+Herr Landvogt, weiter werdet ihrs nicht treiben,  
+Ihr werdet nicht – Es war nur eine Prüfung –  
+Den Zweck habt ihr erreicht – Zu weit getrieben  
+Verfehlt die Strenge ihres weisen Zwecks,  
+Und allzustraff gespannt zerspringt der Bogen.  
+Geßler  
+Ihr schweigt, bis man euch aufruft.  
+Rudenz  
+ Ich will reden,  
+Ich darfs, des Königs Ehre ist mir heilig,  
+Doch solches Regiment muß Haß erwerben.  
+Das ist des Königs Wille nicht – Ich darfs  
+Behaupten – Solche Grausamkeit verdient  
+Mein Volk nicht, dazu habt ihr keine Vollmacht.  
+Geßler  
+Ha, ihr erkühnt euch!  
+Rudenz  
+ Ich hab’ still geschwiegen
+
+`p00172` Zu allen schweren Thaten, die ich sah,  
+Mein sehend Auge hab ich zugeschlossen,  
+Mein überschwellend und empörtes Herz  
+Hab ich hinabgedrückt in meinen Busen.  
+Doch länger schweigen wär Verrath zugleich  
+An meinem Vaterland und an dem Kaiser.  
+Bertha  
+     (wirft sich zwischen ihn und den Landvogt)  
+O Gott, ihr reizt den wüthenden noch mehr.  
+Rudenz  
+Mein Volk verließ ich, meinen Blutsverwandten  
+Entsagt’ ich, alle Bande der Natur  
+Zerriss ich, um an euch mich anzuschließen –  
+Das Beste aller glaubt’ ich zu befördern,  
+Da ich des Kaisers Macht bevestigte –  
+Die Binde fällt von meinen Augen – Schaudernd  
+Seh’ ich an einen Abgrund mich geführt –  
+Mein freies Urtheil habt ihr irr geleitet,  
+Mein redlich Herz verführt – Ich war daran,  
+Mein Volk in bester Meinung zu verderben.
+
+`p00173` Geßler  
+Verwegner, diese Sprache deinem Herrn?  
+Rudenz  
+Der Kaiser ist mein Herr, nicht ihr – Frei bin ich  
+Wie ihr gebohren, und ich messe mich  
+Mit euch in jeder ritterlichen Tugend.  
+Und stündet ihr nicht hier in Kaisers Nahmen,  
+Den ich verehre, selbst wo man ihn schändet,  
+Den Handschuh wärf ich vor euch hin, ihr solltet  
+Nach ritterlichem Brauch mir Antwort geben.  
+– Ja, winkt nur euren Reisigen – Ich stehe  
+Nicht wehrlos da, wie die –  
+     (auf das Volk zeigend)  
+ Ich hab ein Schwert,  
+Und wer mir naht –  
+Stauffacher (ruft)  
+ Der Apfel ist gefallen!
+
+`p00174` (indem sich alle nach dieser Seite gewendet und Bertha zwischen Rudenz und den Landvogt sich geworfen, hat Tell den Pfeil abgedrückt)
+
+`p00175` Rösselmann  
+Der Knabe lebt!
+
+`p00176` Viele Stimmen  
+Der Apfel ist getroffen!  
+(Walther Fürst schwankt und droht zu sinken, Bertha hält ihn)  
+Geßler (erstaunt)  
+Er hat geschossen? Wie? der Rasende!  
+Bertha  
+Der Knabe lebt! kommt zu euch, guter Vater!  
+Walther Tell (kommt mit dem Apfel gesprungen)  
+Vater, hier ist der Apfel – Wußt’ ichs ja,  
+Du würdest deinen Knaben nicht verletzen.  
+Tell
+
+`p00177` (stand mit vorgebognem Leib, als wollt’ er dem Pfeil folgen – die Armbrust entsinkt seiner Hand – wie er den Knaben kommen sieht, eilt er ihm mit ausgebreiteten Armen entgegen, und hebt ihn mit heftiger Inbrunst zu seinem Herzen hinauf, in dieser Stellung sinkt er kraftlos zusammen. Alle stehen gerührt)
+
+`p00178` Bertha  
+O gütger Himmel!  
+Walther Fürst (zu Vater und Sohn)  
+ Kinder! meine Kinder!  
+Stauffacher  
+Gott sei gelobt!
+
+`p00179` Leuthold  
+ Das war ein Schuß! Davon  
+Wird man noch reden in den spätsten Zeiten.  
+Rudolph der Harras  
+Erzählen wird man von dem Schützen Tell,  
+Solang die Berge stehn auf ihrem Grunde.  
+(reicht dem Landvogt den Apfel)  
+Geßler  
+Bei Gott! der Apfel mitten durchgeschossen!  
+Es war ein Meisterschuß, ich muß ihn loben.  
+Rösselmann  
+Der Schuß war gut, doch wehe dem, der ihn  
+Dazu getrieben, daß er Gott versuchte.  
+Stauffacher  
+Kommt zu euch, Tell, steht auf, ihr habt euch männlich  
+Gelößt, und frei könnt ihr nach Hause gehen.  
+Rösselmann  
+Kommt, kommt und bringt der Mutter ihren Sohn.  
+(Sie wollen ihn wegführen)  
+Geßler  
+Tell, höre!
+
+`p00180` Tell (kommt zurück)  
+Was befehlt ihr, Herr?  
+Geßler  
+ Du stecktest  
+Noch einen zweiten Pfeil zu dir – Ja, ja,  
+Ich sah es wohl – Was meintest du damit?  
+Tell (verlegen)  
+Herr, das ist also bräuchlich bei den Schützen.  
+Geßler  
+Nein Tell, die Antwort laß ich dir nicht gelten,  
+Es wird was anders wohl bedeutet haben.  
+Sag mir die Wahrheit frisch und fröhlich, Tell,  
+Was es auch sei, dein Leben sichr’ ich dir.  
+Wozu der zweite Pfeil?  
+Tell  
+ Wohlan, o Herr,  
+Weil ihr mich meines Lebens habt gesichert,  
+So will ich euch die Wahrheit gründlich sagen.  
+(er zieht den Pfeil aus dem Goller und sieht den Landvogt mit einem furchtbaren Blick an)  
+Mit diesem zweiten Pfeil durchschoß ich – Euch,
+
+`p00181` Wenn ich mein liebes Kind getroffen hätte,  
+Und Eurer – wahrlich! hätt’ ich nicht gefehlt.  
+Geßler  
+Wohl, Tell! Des Lebens hab ich dich gesichert,  
+Ich gab mein Ritterwort, das will ich halten –  
+Doch weil ich deinen bösen Sinn erkannt,  
+Will ich dich führen lassen und verwahren,  
+Wo weder Mond noch Sonne dich bescheint,  
+Damit ich sicher sei vor deinen Pfeilen.  
+Ergreift ihn, Knechte! Bindet ihn!  
+(Tell wird gebunden)  
+Stauffacher  
+ Wie, Herr?  
+So könntet ihr an einem Manne handeln,  
+An dem sich Gottes Hand sichtbar verkündigt?  
+Geßler  
+Laß sehn, ob sie ihn zweymal retten wird.  
+– Man bring ihn auf mein Schiff, ich folge nach  
+Sogleich, ich selbst will ihn nach Küßnacht führen.  
+Rösselmann  
+Das dürft ihr nicht, das darf der Kaiser nicht,  
+Das widerstreitet unsern Freiheitsbriefen!
+
+`p00182` Geßler  
+Wo sind sie? Hat der Kaiser sie bestätigt?  
+Er hat sie nicht bestätigt – Diese Gunst  
+Muß erst erworben werden durch Gehorsam.  
+Rebellen seid ihr alle gegen Kaisers  
+Gericht und nährt verwegene Empörung.  
+Ich kenn euch alle – ich durchschau euch ganz –  
+Den nehm ich jetzt heraus aus eurer Mitte,  
+Doch alle seid ihr theilhaft seiner Schuld,  
+Wer klug ist, lerne schweigen und gehorchen.
+
+`p00183` (er entfernt sich, Bertha, Rudenz, Harras und Knechte folgen, Frießhardt und Leuthold bleiben zurück)
+
+`p00184` Walther Fürst (in heftigem Schmerz)  
+Es ist vorbei, er hats beschlossen, mich  
+Mit meinem ganzen Hause zu verderben!  
+Stauffacher (zum Tell)  
+O warum mußtet ihr den Wüthrich reizen!  
+Tell  
+Bezwinge sich, wer meinen Schmerz gefühlt!  
+Stauffacher  
+O nun ist alles, alles hin! Mit euch  
+Sind wir gefesselt alle und gebunden!
+
+`p00185` Landleute (umringen den Tell)  
+Mit euch geht unser letzter Trost dahin!  
+Leuthold (nähert sich)  
+Tell, es erbarmt mich – doch ich muß gehorchen.  
+Tell  
+Lebt wohl!  
+Walther Tell  
+(sich mit heftigem Schmerz an ihn schmiegend)  
+ O Vater! Vater! Lieber Vater!  
+Tell  
+(hebt die Arme zum Himmel)  
+Dort droben ist dein Vater! den ruf an!  
+Stauffacher  
+Tell, sag ich eurem Weibe nichts von euch?  
+Tell  
+(hebt den Knaben mit Inbrunst an seine Brust)  
+Der Knab’ ist unverlezt, mir wird Gott helfen.  
+(reißt sich schnell los und folgt den Waffenknechten)
+
+`p00186` Vierter Aufzug
+
+`p00187` Erste Scene
+
+`p00188` Oestliches Ufer des Vierwaldstättensees, die seltsam gestalteten schroffen Felsen im Westen schließen den Prospekt. Der See ist bewegt, heftiges Rauschen und Tosen, dazwischen Blitze und Donnerschläge.
+
+`p00189` Kunz von Gersau. Fischer und Fischerknabe.
+
+`p00190` Kunz  
+Ich sahs mit Augen an, ihr könnt mirs glauben,  
+’s ist alles so geschehn, wie ich euch sagte.  
+Fischer  
+Der Tell gefangen abgeführt nach Küßnacht,  
+Der beste Mann im Land, der bravste Arm,  
+Wenns einmal gelten sollte für die Freiheit.  
+Kunz  
+Der Landvogt führt ihn selbst den See herauf,  
+Sie waren eben dran sich einzuschiffen,  
+Als ich von Flüelen abfuhr, doch der Sturm,  
+Der eben jetzt im Anzug ist, und der
+
+`p00191` Auch mich gezwungen, eilends hier zu landen,  
+Mag ihre Abfahrt wohl verhindert haben.  
+Fischer  
+Der Tell in Fesseln, in des Vogts Gewalt!  
+O glaubt, er wird ihn tief genug vergraben,  
+Daß er des Tages Licht nicht wieder sieht!  
+Denn fürchten muß er die gerechte Rache  
+Des freien Mannes, den er schwer gereizt!  
+Kunz  
+Der Altlandammann auch, der edle Herr  
+Von Attinghausen, sagt man, lieg’ am Tode.  
+Fischer  
+So bricht der letzte Anker unsrer Hofnung!  
+Der war es noch allein, der seine Stimme  
+Erheben durfte für des Volkes Rechte!  
+Kunz  
+Der Sturm nimmt überhand. Gehabt euch wohl,  
+Ich nehme Herberg in dem Dorf, denn heut  
+Ist doch an keine Abfahrt mehr zu denken.  
+(geht ab.)
+
+`p00192` Fischer  
+Der Tell gefangen und der Freiherr todt!  
+Erheb die freche Stirne, Tyrannei,  
+Wirf alle Schaam hinweg, der Mund der Wahrheit  
+Ist stumm, das seh’nde Auge ist geblendet,  
+Der Arm, der retten sollte, ist gefesselt!  
+Knabe  
+Es hagelt schwer, kommt in die Hütte, Vater,  
+Es ist nicht kommlich, hier im Freien hausen.  
+Fischer  
+Raset, ihr Winde, flammt herab ihr Blitze,  
+Ihr Wolken berstet, gießt herunter, Ströme  
+Des Himmels und ersäuft das Land! Zerstört  
+Im Keim die ungebohrenen Geschlechter!  
+Ihr wilden Elemente werdet Herr,  
+Ihr Bären kommt, ihr alten Wölfe wieder  
+Der großen Wüste, euch gehört das Land,  
+Wer wird hier leben wollen ohne Freiheit!  
+Knabe  
+Hört, wie der Abgrund toßt, der Wirbel brüllt,  
+So hats noch nie geraßt in diesem Schlunde!
+
+`p00193` Fischer  
+Zu zielen auf des eignen Kindes Haupt,  
+Solches ward keinem Vater noch geboten!  
+Und die Natur soll nicht in wildem Grimm  
+Sich drob empören – O mich solls nicht wundern,  
+Wenn sich die Felsen bücken in den See,  
+Wenn jene Zacken, jene Eisesthürme,  
+Die nie aufthauten seit dem Schöpfungstag,  
+Von ihren hohen Kulmen niederschmelzen,  
+Wenn die Berge brechen, wenn die alten Klüfte  
+Einstürzen, eine zweite Sündfluth alle  
+Wohnstätten der Lebendigen verschlingt!  
+(man hört läuten)  
+Knabe  
+Hört ihr, sie läuten droben auf dem Berg,  
+Gewiß hat man ein Schiff in Noth gesehn,  
+Und zieht die Glocke, daß gebetet werde.  
+(steigt auf eine Anhöhe)  
+Fischer  
+Wehe dem Fahrzeug, das jezt unterwegs,  
+In dieser furchtbarn Wiege wird gewiegt!
+
+`p00194` Hier ist das Steuer unnütz und der Steurer,  
+Der Sturm ist Meister, Wind und Welle spielen  
+Ball mit dem Menschen – Da ist nah’ und fern  
+Kein Busen, der ihm freundlich Schutz gewährte!  
+Handlos und schroff ansteigend starren ihm  
+Die Felsen, die unwirthlichen, entgegen,  
+Und weisen ihm nur ihre steinern schroffe Brust.  
+Knabe (deutet links)  
+Vater, ein Schiff, es kommt von Flüelen her.  
+Fischer  
+Gott helf den armen Leuten! Wenn der Sturm  
+In dieser Wasserkluft sich erst verfangen,  
+Dann raßt er um sich mit des Raubthiers Angst,  
+Das an des Gitters Eisenstäbe schlägt,  
+Die Pforte sucht er heulend sich vergebens,  
+Denn ringsum schränken ihn die Felsen ein,  
+Die himmelhoch den engen Paß vermauren.  
+(er steigt auf die Anhöhe)  
+Knabe  
+Es ist das Herrenschiff von Uri, Vater,  
+Ich kenns am rothen Dach und an der Fahne.
+
+`p00195` Fischer  
+Gerichte Gottes! Ja, er ist es selbst,  
+Der Landvogt, der da fährt – Dort schifft er hin,  
+Und führt im Schiffe sein Verbrechen mit!  
+Schnell hat der Arm des Rächers ihn gefunden,  
+Jezt kennt er über sich den stärkern Herrn,  
+Diese Wellen geben nicht auf seine Stimme,  
+Diese Felsen bücken ihre Häupter nicht  
+Vor seinem Hute – Knabe, bete nicht,  
+Greif nicht dem Richter in den Arm!  
+Knabe  
+Ich bete für den Landvogt nicht – Ich bete  
+Für den Tell, der auf dem Schiff sich mit befindet.  
+Fischer  
+O Unvernunft des blinden Elements!  
+Mußt du, um Einen Schuldigen zu treffen,  
+Das Schiff mit sammt dem Steuermann verderben!  
+Knabe  
+Sieh, sieh, sie waren glücklich schon vorbei  
+Am Buggisgrat, doch die Gewalt des Sturms,
+
+`p00196` Der von dem Teufelsmünster widerprallt,  
+Wirft sie zum grossen Axenberg zurück.  
+– Ich seh sie nicht mehr.  
+Fischer  
+  Dort ist das Hakmesser,  
+Wo schon der Schiffe mehrere gebrochen.  
+Wenn sie nicht weislich dort vorüberlenken,  
+So wird das Schiff zerschmettert an der Fluh,  
+Die sich gähstotzig absenkt in die Tiefe.  
+– Sie haben einen guten Steuermann  
+Am Bord, könnt’ Einer retten, wärs der Tell,  
+Doch dem sind Arm und Hände ja gefesselt.  
+Wilhelm Tell mit der Armbrust.  
+(Er kommt mit raschen Schritten, blickt erstaunt umher, und zeigt die heftigste Bewegung. Wenn er mitten auf der Scene ist, wirft er sich nieder, die Hände zu der Erde und dann zum Himmel ausbreitend)  
+Knabe (bemerkt ihn)  
+Sieh, Vater, wer der Mann ist, der dort kniet?  
+Fischer  
+Er faßt die Erde an mit seinen Händen,  
+Und scheint wie ausser sich zu seyn.
+
+`p00197` Knabe (kommt vorwärts)  
+Was seh ich! Vater! Vater, kommt und seht!  
+Fischer (nähert sich)  
+Wer ist es? – Gott im Himmel! Was! der Tell?  
+Wie kommt ihr hieher? Redet!  
+Knabe  
+ Wart ihr nicht  
+Dort auf dem Schiff gefangen und gebunden?  
+Fischer  
+Ihr wurdet nicht nach Küßnacht abgeführt?  
+Tell (steht auf)  
+Ich bin befreit.  
+Fischer und Knabe  
+ Befreit! O Wunder Gottes!  
+Knabe  
+Wo kommt ihr her?  
+Tell  
+ Dort aus dem Schiffe.  
+Fischer  
+ Was?
+
+`p00198` Knabe (zugleich)  
+Wo ist der Landvogt?  
+Tell  
+ Auf den Wellen treibt er.  
+Fischer  
+Ists möglich? Aber Ihr? Wie seid ihr hier?  
+Seid euren Banden und dem Sturm entkommen  
+Tell  
+Durch Gottes gnädge Fürsehung – Hört an!  
+Fischer und Knabe  
+O redet, redet!  
+Tell  
+ Was in Altorf sich  
+Begeben, wißt ihrs?  
+Fischer  
+ Alles weiß ich, redet!  
+Tell  
+Daß mich der Landvogt fahen ließ und binden,  
+Nach seiner Burg zu Küßnacht wollte führen.
+
+`p00199` Fischer  
+Und sich mit euch zu Flüelen eingeschifft!  
+Wir wissen alles, sprecht, wie ihr entkommen?  
+Tell  
+Ich lag im Schiff, mit Stricken fest gebunden,  
+Wehrlos, ein aufgegebner Mann – nicht hofft’ ich,  
+Das frohe Licht der Sonne mehr zu sehn,  
+Der Gattin und der Kinder liebes Antlitz,  
+Und trostlos blickt’ ich in die Wasserwüste –  
+Fischer  
+O armer Mann!  
+Tell  
+ So fuhren wir dahin,  
+Der Vogt, Rudolph der Harras und die Knechte.  
+Mein Köcher aber mit der Armbrust lag  
+Am hintern Gransen bei dem Steuerruder.  
+Und als wir an die Ecke jetzt gelangt  
+Beim kleinen Axen, da verhängt’ es Gott,  
+Daß solch ein grausam mördrisch Ungewitter  
+Gählings herfürbrach aus des Gotthards Schlünden  
+Daß allen Ruderern das Herz entsank,
+
+`p00200` Und meinten alle, elend zu ertrinken.  
+Da hört’ ichs, wie der Diener einer sich  
+Zum Landvogt wendet’ und die Worte sprach:  
+Ihr sehet Eure Noth und unsre, Herr,  
+Und daß wir all am Rand des Todes schweben –  
+Die Steuerleute aber wissen sich  
+Für großer Furcht nicht Rath und sind des Fahrens  
+Nicht wohl berichtet – Nun aber ist der Tell  
+Ein starker Mann und weiß ein Schiff zu steuern,  
+Wie, wenn wir sein jezt brauchten in der Noth?  
+Da sprach der Vogt zu mir: Tell, wenn du dirs  
+Getrautest, uns zu helfen aus dem Sturm,  
+So möcht’ ich dich der Bande wohl entledgen.  
+Ich aber sprach: Ja, Herr, mit Gottes Hülfe  
+Getrau ich mirs, und helf uns wohl hiedannen.  
+So ward ich meiner Bande los und stand  
+Am Steuerruder und fuhr redlich hin.  
+Doch schielt’ ich seitwärts, wo mein Schießzeug lag,  
+Und an dem Ufer merkt’ ich scharf umher,  
+Wo sich ein Vortheil aufthät zum Entspringen.
+
+`p00201` Und wie ich eines Felsenriffs gewahre,  
+Das abgeplattet vorsprang in den See –  
+Fischer  
+Ich kenn’s, es ist am Fuß des großen Axen,  
+Doch nicht für möglich acht ichs – so gar steil  
+Gehts an – vom Schiff es springend abzureichen –  
+Tell  
+Schrie ich den Knechten, handlich zuzugehn,  
+Bis daß wir vor die Felsenplatte kämen,  
+Dort, rief ich, sei das Aergste überstanden –  
+Und als wir sie frischrudernd bald erreicht,  
+Fleh ich die Gnade Gottes an, und drücke,  
+Mit allen Leibeskräften angestemmt,  
+Den hintern Gransen an die Felswand hin –  
+Jezt schnell mein Schießzeug fassend, schwing ich selbst  
+Hochspringend auf die Platte mich hinauf,  
+Und mit gewaltgem Fußstoß hinter mich  
+Schleudr’ ich das Schifflein in den Schlund der Wasser –  
+Dort mags, wie Gott will, auf den Wellen treiben!  
+So bin ich hier, gerettet aus des Sturms  
+Gewalt und aus der schlimmeren der Menschen.
+
+`p00202` Fischer  
+Tell, Tell, ein sichtbar Wunder hat der Herr  
+An euch gethan, kaum glaub ichs meinen Sinnen –  
+Doch saget! Wo gedenket ihr jezt hin,  
+Denn Sicherheit ist nicht für euch, wofern  
+Der Landvogt lebend diesem Sturm entkommt.  
+Tell  
+Ich hört’ ihn sagen, da ich noch im Schiff  
+Gebunden lag, er woll’ bei Brunnen landen,  
+Und über Schwytz nach seiner Burg mich führen.  
+Fischer  
+Will er den Weg dahin zu Lande nehmen?  
+Tell  
+Er denkts.  
+Fischer  
+ O so verbergt euch ohne Säumen,  
+Nicht zweymal hilft euch Gott aus seiner Hand.  
+Tell  
+Nennt mir den nächsten Weg nach Arth und Küßnacht.  
+Fischer  
+Die offne Straße zieht sich über Steinen,
+
+`p00203` Doch einen kürzern Weg und heimlichern  
+Kann euch mein Knabe über Lowerz führen.  
+Tell (giebt ihm die Hand)  
+Gott lohn euch eure Gutthat. Lebet wohl.  
+(geht und kehrt wieder um)  
+– Habt ihr nicht auch im Rütli mit geschworen?  
+Mir däucht, man nannt euch mir –  
+Fischer  
+ Ich war dabei,  
+Und hab den Eid des Bundes mit beschworen.  
+Tell  
+So eilt nach Bürglen, thut die Lieb’ mir an,  
+Mein Weib verzagt um mich, verkündet ihr,  
+Daß ich gerettet sey und wohl geborgen.  
+Fischer  
+Doch wohin sag ich ihr, daß ihr geflohn?  
+Tell  
+Ihr werdet meinen Schwäher bei ihr finden  
+Und andre, die im Rütli mit geschworen –  
+Sie sollen wacker seyn und gutes Muths,
+
+`p00204` Der Tell sey frei und seines Armes mächtig,  
+Bald werden sie ein weitres von mir hören.  
+Fischer  
+Was habt ihr im Gemüth? Entdeckt mirs frei.  
+Tell  
+Ist es gethan, wirds auch zur Rede kommen. (geht ab)  
+Fischer  
+Zeig ihm den Weg, Jenny – Gott steh ihm bey!  
+Er führts zum Ziel, was er auch unternommen. (geht ab)
+
+`p00205` Zweyte Scene
+
+`p00206` Edelhof zu Attinghausen  
+Der Freiherr, in einem Armsessel, sterbend. Walther Fürst, Stauffacher, Melchthal und Baumgarten um ihn beschäftigt. Walther Tell knieend vor dem Sterbenden.  
+Walther Fürst  
+Es ist vorbei mit ihm, er ist hinüber.  
+Stauffacher  
+Er liegt nicht wie ein Todter – Seht, die Feder
+
+`p00207` Auf seinen Lippen regt sich! Ruhig ist  
+Sein Schlaf und friedlich lächeln seine Züge.  
+(Baumgarten geht an die Thüre und spricht mit jemand)  
+Walther Fürst (zu Baumgarten)  
+Wer ists?  
+Baumgarten (kommt zurück)  
+ Es ist Frau Hedwig, eure Tochter,  
+Sie will euch sprechen, will den Knaben sehn.  
+(Walther Tell richtet sich auf)  
+Walther Fürst  
+Kann ich sie trösten? Hab ich selber Trost?  
+Häuft alles Leiden sich auf meinem Haupt?  
+Hedwig (hereindringend)  
+Wo ist mein Kind? Laßt mich, ich muß es sehn –  
+Stauffacher  
+Faßt euch, bedenkt, daß ihr im Haus des Todes –  
+Hedwig (stürzt auf den Knaben)  
+Mein Wälty! O er lebt mir.  
+Walther Tell (hängt an ihr)  
+ Arme Mutter!
+
+`p00208` Hedwig  
+Ists auch gewiß? Bist du mir unverlezt?  
+(Betrachtet ihn mit ängstlicher Sorgfalt)  
+Und ist es möglich? Konnt’ er auf dich zielen?  
+Wie konnt’ ers? O er hat kein Herz – Er konnte  
+Den Pfeil abdrücken auf sein eignes Kind!  
+Walther Fürst  
+Er thats mit Angst, mit schmerzzerrissner Seele,  
+Gezwungen that ers, denn es galt das Leben.  
+Hedwig  
+O hätt er eines Vaters Herz, eh er’s  
+Gethan, er wäre tausendmal gestorben!  
+Stauffacher  
+Ihr solltet Gottes gnädge Schickung preisen,  
+Die es so gut gelenkt –  
+Hedwig  
+ Kann ich vergessen,  
+Wie’s hätte kommen können – Gott des Himmels!  
+Und lebt’ ich achtzig Jahr – Ich seh den Knaben ewig  
+Gebunden stehn, den Vater auf ihn zielen,  
+Und ewig fliegt der Pfeil mir in das Herz.
+
+`p00209` Melchthal  
+Frau, wüßtet ihr, wie ihn der Vogt gereizt!  
+Hedwig  
+O rohes Herz der Männer! Wenn ihr Stolz  
+Beleidigt wird, dann achten sie nichts mehr,  
+Sie setzen in der blinden Wuth des Spiels  
+Das Haupt des Kindes und das Herz der Mutter!  
+Baumgarten  
+Ist eures Mannes Loos nicht hart genug,  
+Daß ihr mit schwerem Tadel ihn noch kränkt?  
+Für seine Leiden habt ihr kein Gefühl?  
+Hedwig  
+(kehrt sich nach ihm um und sieht ihn mit einem großen Blick an)  
+Hast Du nur Thränen für des Freundes Unglück?  
+– Wo waret ihr, da man den Trefflichen  
+In Bande schlug? Wo war da eure Hülfe?  
+Ihr sahet zu, ihr ließt das Gräßliche geschehn,  
+Geduldig littet ihr’s, daß man den Freund  
+Aus eurer Mitte führte – Hat der Tell  
+Auch so an Euch gehandelt? Stand er auch
+
+`p00210` Bedaurend da, als hinter dir die Reiter  
+Des Landvogts drangen, als der wüthge See  
+Vor dir erbraußte? Nicht mit müßgen Thränen  
+Beklagt’ er dich, in den Nachen sprang er, Weib  
+Und Kind vergaß er und befreite dich –  
+Walther Fürst  
+Was konnten wir zu seiner Rettung wagen,  
+Die kleine Zahl, die unbewaffnet war!  
+Hedwig (wirft sich an seine Brust)  
+O Vater! Und auch du hast ihn verloren!  
+Das Land, wir alle haben ihn verloren!  
+Uns allen fehlt er, ach! wir fehlen ihm!  
+Gott rette seine Seele vor Verzweiflung.  
+Zu ihm hinab ins öde Burgverließ  
+Dringt keines Freundes Trost – Wenn er erkrankte!  
+Ach, in des Kerkers feuchter Finsterniß  
+Muß er erkranken – Wie die Alpenrose  
+Bleicht und verkümmert in der Sumpfesluft,  
+So ist für Ihn kein Leben als im Licht  
+Der Sonne, in dem Balsamstrom der Lüfte.  
+Gefangen! Er! Sein Athem ist die Freiheit,
+
+`p00211` Er kann nicht leben in dem Hauch der Grüfte.  
+Stauffacher  
+Beruhigt euch. Wir alle wollen handeln,  
+Um seinen Kerker aufzuthun.  
+Hedwig  
+Was könnt ihr schaffen ohne ihn? – Solang  
+Der Tell noch frei war, ja da war noch Hofnung,  
+Da hatte noch die Unschuld einen Freund,  
+Da hatte einen Helfer der Verfolgte,  
+Euch alle rettete der Tell – Ihr alle  
+Zusammen könnt nicht seine Fesseln lösen!  
+(der Freiherr erwacht)  
+Baumgarten  
+Er regt sich, still!  
+Attinghausen (sich aufrichtend)  
+ Wo ist er?  
+Stauffacher  
+ Wer?  
+Attinghausen  
+ Er fehlt mir,  
+Verläßt mich in dem lezten Augenblick!
+
+`p00212` Stauffacher  
+Er meint den Junker – Schickte man nach ihm?  
+Walther Fürst  
+Es ist nach ihm gesendet – Tröstet euch!  
+Er hat sein Herz gefunden, er ist unser.  
+Attinghausen  
+Hat er gesprochen für sein Vaterland?  
+Stauffacher  
+Mit Heldenkühnheit.  
+Attinghausen  
+ Warum kommt er nicht,  
+Um meinen lezten Segen zu empfangen?  
+Ich fühle, daß es schleunig mit mir endet.  
+Stauffacher  
+Nicht also, edler Herr! Der kurze Schlaf  
+Hat euch erquickt, und hell ist euer Blick.  
+Attinghausen  
+Der Schmerz ist Leben, er verließ mich auch,  
+Das Leiden ist, so wie die Hofnung, aus.  
+(er bemerkt den Knaben)  
+Wer ist der Knabe?
+
+`p00213` Walther Fürst  
+ Segnet ihn o Herr!  
+Er ist mein Enkel und ist vaterlos.  
+(Hedwig sinkt mit dem Knaben vor dem Sterbenden nieder)  
+Attinghausen  
+Und vaterlos laß ich euch alle, alle  
+Zurück – Weh mir, daß meine letzten Blicke  
+Den Untergang des Vaterlands gesehn!  
+Mußt’ ich des Lebens höchstes Maaß erreichen,  
+Um ganz mit allen Hofnungen zu sterben!  
+Stauffacher (zu Walther Fürst)  
+Soll er in diesem finstern Kummer scheiden?  
+Erhellen wir ihm nicht die lezte Stunde  
+Mit schönem Strahl der Hofnung? – Edler Freiherr!  
+Erhebet euren Geist! Wir sind nicht ganz  
+Verlassen, sind nicht rettungslos verloren.  
+Attinghausen  
+Wer soll euch retten?  
+Walther Fürst  
+ Wir uns selbst. Vernehmt!  
+Es haben die drey Lande sich das Wort
+
+`p00214` Gegeben, die Tyrannen zu verjagen.  
+Geschlossen ist der Bund, ein heilger Schwur  
+Verbindet uns. Es wird gehandelt werden,  
+Eh noch das Jahr den neuen Kreis beginnt,  
+Euer Staub wird ruhn in einem freien Lande.  
+Attinghausen  
+O saget mir! Geschlossen ist der Bund?  
+Melchthal  
+Am gleichen Tage werden alle drey  
+Waldstätte sich erheben. Alles ist  
+Bereit, und das Geheimniß wohlbewahrt  
+Bis jezt, obgleich viel hunderte es theilen.  
+Hohl ist der Boden unter den Tyrannen,  
+Die Tage ihrer Herrschaft sind gezählt,  
+Und bald ist ihre Spur nicht mehr zu finden.  
+Attinghausen  
+Die festen Burgen aber in den Landen?  
+Melchthal  
+Sie fallen alle an dem gleichen Tag.  
+Attinghausen  
+Und sind die Edeln dieses Bunds theilhaftig?
+
+`p00215` Stauffacher  
+Wir harren ihres Beistands, wenn es gilt,  
+Jezt aber hat der Landmann nur geschworen.  
+Attinghausen  
+(richtet sich langsam in die Höhe, mit großem Erstaunen)  
+Hat sich der Landmann solcher That verwogen,  
+Aus eignem Mittel, ohne Hülf der Edeln,  
+Hat er der eignen Kraft soviel vertraut –  
+Ja, dann bedarf es unserer nicht mehr,  
+Getröstet können wir zu Grabe steigen,  
+Es lebt nach uns – durch andre Kräfte will  
+Das Herrliche der Menschheit sich erhalten.  
+(er legt seine Hand auf das Haupt des Kindes, das vor ihm auf den Knieen liegt)  
+Aus diesem Haupte, wo der Apfel lag,  
+Wird euch die neue beßre Freiheit grünen,  
+Das Alte stürzt, es ändert sich die Zeit,  
+Und neues Leben blüht aus den Ruinen.  
+Stauffacher (zu Walther Fürst)  
+Seht, welcher Glanz sich um sein Aug ergießt!  
+Das ist nicht das Erlöschen der Natur,  
+Das ist der Stral schon eines neuen Lebens.
+
+`p00216` Attinghausen  
+Der Adel steigt von seinen alten Burgen,  
+Und schwört den Städten seinen Bürgereid;  
+Im Uechtland schon, im Thurgau hats begonnen,  
+Die edle Bern erhebt ihr herrschend Haupt,  
+Freiburg ist eine sichre Burg der Freien,  
+Die rege Zürich waffnet ihre Zünfte  
+Zum kriegerischen Heer – Es bricht die Macht  
+Der Könige sich an ihren ewgen Wällen –  
+(er spricht das folgende mit dem Ton eines Sehers – seine Rede steigt bis zur Begeisterung)  
+Die Fürsten seh ich und die edeln Herrn  
+In Harnischen heran gezogen kommen,  
+Ein harmlos Volk von Hirten zu bekriegen.  
+Auf Tod und Leben wird gekämpft und herrlich  
+Wird mancher Paß durch blutige Entscheidung.  
+Der Landmann stürzt sich mit der nakten Brust,  
+Ein freies Opfer, in die Schaar der Lanzen,  
+Er bricht sie, und des Adels Blüthe fällt,  
+Es hebt die Freiheit siegend ihre Fahne.  
+(Walther Fürsts und Stauffachers Hände fassend)
+
+`p00217` Drum haltet fest zusammen – fest und ewig –  
+Kein Ort der Freiheit sei dem andern fremd –  
+Hochwachten stellet aus auf euren Bergen,  
+Daß sich der Bund zum Bunde rasch versammle –  
+Seid einig – einig – einig –  
+(er fällt in das Küssen zurück – seine Hände halten entseelt noch die andern gefaßt. Fürst und Stauffacher betrachten ihn noch eine Zeitlang schweigend, dann treten sie hinweg, jeder seinem Schmerz überlassen. Unterdessen sind die Knechte still herein gedrungen, sie nähern sich mit Zeichen eines stillern oder heftigern Schmerzens, einige knieen bei ihm nieder und weinen auf seine Hand, während dieser stummen Scene wird die Burgglocke geläutet)  
+Rudenz zu den Vorigen  
+Rudenz (rasch eintretend)  
+Lebt er? O saget, kann er mich noch hören?  
+Walther Fürst  
+(deutet hin mit weggewandtem Gesicht)  
+Ihr seid jezt unser Lehensherr und Schirmer,  
+Und dieses Schloß hat einen andern Nahmen.  
+Rudenz  
+(erblickt den Leichnam und steht von heftigem Schmerz ergriffen)
+
+`p00218` O gütger Gott! – Kommt meine Reu zu spät?  
+Konnt’ er nicht wenge Pulse länger leben,  
+Um mein geändert Herz zu sehn?  
+Verachtet hab ich seine treue Stimme,  
+Da er noch wandelte im Licht – Er ist  
+Dahin, ist fort auf immerdar, und läßt mir  
+Die schwere unbezahlte Schuld! – O saget!  
+Schied er dahin im Unmuth gegen mich?  
+Stauffacher  
+Er hörte sterbend noch was ihr gethan,  
+Und segnete den Muth, mit dem ihr spracht!  
+Rudenz (kniet an dem Todten nieder)  
+Ja heilge Reste eines theuren Mannes!  
+Entseelter Leichnam! Hier gelob ich dirs  
+In deine kalte Todtenhand – Zerrissen  
+Hab ich auf ewig alle fremden Bande,  
+Zurückgegeben bin ich meinem Volk,  
+Ein Schweitzer bin ich und ich will es seyn  
+Von ganzer Seele – –  
+(aufstehend)  
+ Trauert um den Freund,
+
+`p00219` Den Vater aller, doch verzaget nicht!  
+Nicht bloß sein Erbe ist mir zugefallen,  
+Es steigt sein Herz, sein Geist auf mich herab,  
+Und leisten soll euch meine frische Jugend,  
+Was euch sein greises Alter schuldig blieb.  
+– Ehrwürdger Vater, gebt mir eure Hand!  
+Gebt mir die Eurige! Melchthal auch ihr!  
+Bedenkt euch nicht! O wendet euch nicht weg!  
+Empfanget meinen Schwur und mein Gelübde.  
+Walther Fürst  
+Gebt ihm die Hand. Sein wiederkehrend Herz  
+Verdient Vertraun.  
+Melchthal  
+ Ihr habt den Landmann nichts geachtet.  
+Sprecht, wessen soll man sich zu euch versehn?  
+Rudenz  
+O denket nicht des Irrthums meiner Jugend!  
+Stauffacher (zu Melchthal)  
+Seid einig! war das lezte Wort des Vaters,  
+Gedenket dessen!
+
+`p00220` Melchthal  
+ Hier ist meine Hand!  
+Des Bauern Handschlag, edler Herr, ist auch  
+Ein Manneswort! Was ist der Ritter ohne uns?  
+Und unser Stand ist älter als der eure.  
+Rudenz  
+Ich ehr’ ihn, und mein Schwert soll ihn beschützen.  
+Melchthal  
+Der Arm, Herr Freiherr, der die harte Erde  
+Sich unterwirft und ihren Schooß befruchtet,  
+Kann auch des Mannes Brust beschützen.  
+Rudenz  
+ Ihr  
+Sollt meine Brust, ich will die eure schützen,  
+So sind wir einer durch den andern stark.  
+– Doch wozu reden, da das Vaterland  
+Ein Raub noch ist der fremden Tyrannei?  
+Wenn erst der Boden rein ist von dem Feind,  
+Dann wollen wirs in Frieden schon vergleichen.  
+(nachdem er einen Augenblick inne gehalten)  
+Ihr schweigt? Ihr habt mir nichts zu sagen? Wie?
+
+`p00221` Verdien’ ichs noch nicht, daß ihr mir vertraut?  
+So muß ich wider euren Willen mich  
+In das Geheimniß eures Bundes drängen.  
+– Ihr habt getagt – geschworen auf dem Rütli –  
+Ich weiß – weiß alles, was ihr dort verhandelt,  
+Und was mir nicht von euch vertrauet ward,  
+Ich habs bewahrt gleich wie ein heilig Pfand.  
+Nie war ich meines Landes Feind, glaubt mir,  
+Und niemals hätt’ ich gegen euch gehandelt.  
+– Doch übel thatet ihr, es zu verschieben,  
+Die Stunde dringt und rascher That bedarfs –  
+Der Tell ward schon das Opfer eures Säumens –  
+Stauffacher  
+Das Christfest abzuwarten schwuren wir.  
+Rudenz  
+Ich war nicht dort, ich hab nicht mitgeschworen.  
+Wartet ihr ab, ich handle.  
+Melchthal  
+ Was? Ihr wolltet –
+
+`p00222` Rudenz  
+Des Landes Vätern zähl’ ich mich jezt bei,  
+Und meine erste Pflicht ist, euch zu schützen.  
+Walther Fürst  
+Der Erde diesen theuren Staub zu geben,  
+Ist eure nächste Pflicht und heiligste.  
+Rudenz  
+Wenn wir das Land befreit, dann legen wir  
+Den frischen Kranz des Siegs ihm auf die Bahre.  
+– O Freunde! Eure Sache nicht allein,  
+Ich habe meine eigne auszufechten  
+Mit dem Tyrannen – Hört und wißt! Verschwunden  
+Ist meine Bertha, heimlich weggeraubt,  
+Mit kecker Frevelthat aus unsrer Mitte!  
+Stauffacher  
+Solcher Gewaltthat hätte der Tyrann  
+Wider die freie Edle sich verwogen?  
+Rudenz  
+O meine Freunde! Euch versprach ich Hülfe,  
+Und ich zuerst muß sie von euch erflehn.  
+Geraubt, entrissen ist mir die Geliebte,
+
+`p00223` Wer weiß, wo sie der Wüthende verbirgt,  
+Welcher Gewalt sie frevelnd sich erkühnen,  
+Ihr Herz zu zwingen zum verhaßten Band!  
+Verlaßt mich nicht, o helft mir sie erretten –  
+Sie liebt euch, o sie hats verdient ums Land,  
+Daß alle Arme sich für sie bewaffnen –  
+Walther Fürst  
+Was wollt ihr unternehmen?  
+Rudenz  
+ Weiß ichs? Ach!  
+In dieser Nacht, die ihr Geschick umhüllt,  
+In dieses Zweifels ungeheurer Angst,  
+Wo ich nichts festes zu erfassen weiß,  
+Ist mir nur dieses in der Seele klar:  
+Unter den Trümmern der Tyrannenmacht  
+Allein kann sie hervor gegraben werden,  
+Die Vesten alle müssen wir bezwingen,  
+Ob wir vielleicht in ihren Kerker dringen.  
+Melchthal  
+Kommt, führt uns an. Wir folgen euch. Warum  
+Bis morgen sparen, was wir heut vermögen?
+
+`p00224` Frei war der Tell, als wir im Rütli schwuren,  
+Das Ungeheure war noch nicht geschehen.  
+Es bringt die Zeit ein anderes Gesetz,  
+Wer ist so feig, der jezt noch könnte zagen!  
+Rudenz  
+(zu Stauffacher und Walther Fürst)  
+Indeß bewaffnet und zum Werk bereit  
+Erwartet ihr der Berge Feuerzeichen,  
+Denn schneller als ein Botensegel fliegt,  
+Soll euch die Botschaft unsers Siegs erreichen,  
+Und seht ihr leuchten die willkommnen Flammen,  
+Dann auf die Feinde stürzt, wie Wetters Strahl,  
+Und brecht den Bau der Tyranney zusammen.  
+(gehen ab)
+
+`p00225` Dritte Scene
+
+`p00226` Die hohle Gasse bei Küßnacht. Man steigt von hinten zwischen Felsen herunter und die Wanderer werden, ehe sie auf der Scene erscheinen, schon von der Höhe gesehen. Felsen umschliessen die ganze Scene, auf einem der vordersten ist ein Vorsprung mit Gesträuch bewachsen.  
+Tell (tritt auf mit der Armbrust)  
+Durch diese hohle Gasse muß er kommen,
+
+`p00227` Es führt kein andrer Weg nach Küßnacht – Hier  
+Vollend ichs – Die Gelegenheit ist günstig.  
+Dort der Hollunderstrauch verbirgt mich ihm,  
+Von dort herab kann ihn mein Pfeil erlangen,  
+Des Weges Enge wehret den Verfolgern.  
+Mach deine Rechnung mit dem Himmel Vogt,  
+Fort mußt du, deine Uhr ist abgelaufen.  
+Ich lebte still und harmlos – Das Geschoß  
+War auf des Waldes Thiere nur gerichtet,  
+Meine Gedanken waren rein von Mord –  
+Du hast aus meinem Frieden mich heraus  
+Geschreckt, in gährend Drachengift hast du  
+Die Milch der frommen Denkart mir verwandelt,  
+Zum Ungeheuren hast du mich gewöhnt –  
+Wer sich des Kindes Haupt zum Ziele sezte,  
+Der kann auch treffen in das Herz des Feinds.  
+Die armen Kindlein, die unschuldigen,  
+Das treue Weib muß ich vor deiner Wuth  
+Beschützen, Landvogt – Da, als ich den Bogenstrang  
+Anzog – als mir die Hand erzitterte –
+
+`p00228` Als du mit grausam teufelischer Lust  
+Mich zwangst, aufs Haupt des Kindes anzulegen –  
+Als ich ohnmächtig flehend rang vor dir,  
+Damals gelobt’ ich mir in meinem Innern  
+Mit furchtbarm Eidschwur, den nur Gott gehört,  
+Daß meines nächsten Schusses erstes Ziel  
+Dein Herz seyn sollte – Was ich mir gelobt  
+In jenes Augenblickes Höllenqualen,  
+Ist eine heilge Schuld, ich will sie zahlen.  
+Du bist mein Herr und meines Kaisers Vogt,  
+Doch nicht der Kaiser hätte sich erlaubt,  
+Was du – Er sandte dich in diese Lande,  
+Um Recht zu sprechen – strenges, denn er zürnet –  
+Doch nicht um mit der mörderischen Lust  
+Dich jedes Greuels straflos zu erfrechen,  
+Es lebt ein Gott zu strafen und zu rächen.  
+Komm du hervor, du Bringer bittrer Schmerzen,  
+Mein theures Kleinod jezt, mein höchster Schatz –  
+Ein Ziel will ich dir geben, das bis jezt  
+Der frommen Bitte undurchdringlich war –
+
+`p00229` Doch dir soll es nicht widerstehn – Und du  
+Vertraute Bogensehne, die so oft  
+Mir treu gedient hat in der Freude Spielen,  
+Verlaß mich nicht im fürchterlichen Ernst.  
+Nur jezt noch halte fest du treuer Strang,  
+Der mir so oft den herben Pfeil beflügelt –  
+Entränn er jetzo kraftlos meinen Händen,  
+Ich habe keinen zweiten zu versenden.  
+(Wanderer gehen über die Scene)  
+Auf dieser Bank von Stein will ich mich setzen,  
+Dem Wanderer zur kurzen Ruh bereitet –  
+Denn hier ist keine Heimat – Jeder treibt  
+Sich an dem andern rasch und fremd vorüber,  
+Und fraget nicht nach seinem Schmerz – Hier geht  
+Der sorgenvolle Kaufmann und der leicht  
+Geschürzte Pilger – der andächtge Mönch,  
+Der düstre Räuber und der heitre Spielmann,  
+Der Säumer mit dem schwer beladnen Roß,  
+Der ferne her kommt von der Menschen Ländern,  
+Denn jede Straße führt ans End der Welt.
+
+`p00230` Sie alle ziehen ihres Weges fort  
+An ihr Geschäft – und Meines ist der Mord!  
+(sezt sich)  
+Sonst wenn der Vater auszog, liebe Kinder,  
+Da war ein Freuen, wenn er wieder kam,  
+Denn niemals kehrt’ er heim, er bracht’ euch etwas,  
+Wars eine schöne Alpenblume, wars  
+Ein seltner Vogel oder Ammonshorn,  
+Wie es der Wandrer findet auf den Bergen –  
+Jezt geht er einem andern Waidwerk nach,  
+Am wilden Weg sizt er mit Mordgedanken,  
+Des Feindes Leben ists, worauf er lauert.  
+– Und doch an euch nur denkt er, lieben Kinder,  
+Auch jezt – Euch zu vertheidgen, eure holde Unschuld  
+Zu schützen vor der Rache des Tyrannen  
+Will er zum Morde jezt den Bogen spannen!  
+(steht auf)  
+Ich laure auf ein edles Wild – Läßt sichs  
+Der Jäger nicht verdrießen, Tage lang  
+Umher zu streifen in des Winters Strenge,  
+Von Fels zu Fels den Wagesprung zu thun,
+
+`p00231` Hinan zu klimmen an den glatten Wänden,  
+Wo er sich anleimt mit dem eignen Blut,  
+– Um ein armselig Gratthier zu erjagen.  
+Hier gilt es einen köstlicheren Preiß,  
+Das Herz des Todfeinds, der mich will verderben.  
+(Man hört von ferne eine heitre Musik, welche sich nähert)  
+Mein ganzes Lebenlang hab ich den Bogen  
+Gehandhabt, mich geübt nach Schützenregel,  
+Ich habe oft geschossen in das Schwarze,  
+Und manchen schönen Preiß mir heimgebracht  
+Vom Freudenschießen – Aber heute will ich  
+Den Meisterschuß thun und das Beste mir  
+Im ganzen Umkreis des Gebirgs gewinnen.  
+(Eine Hochzeit zieht über die Scene und durch den Hohlweg hinauf. Tell betrachtet sie, auf seinen Bogen gelehnt, Stüssi der Flurschütz gesellt sich zu ihm.)  
+Stüssi  
+Das ist der Klostermey’r von Mörlischachen,  
+Der hier den Brautlauf hält – Ein reicher Mann,  
+Er hat wohl zehen Senten auf den Alpen.  
+Die Braut hohlt er jezt ab zu Imisee,
+
+`p00232` Und diese Nacht wird hoch geschwelgt zu Küßnacht.  
+Kommt mit! ’s ist jeder Biedermann geladen.  
+Tell  
+Ein ernster Gast stimmt nicht zum Hochzeithaus.  
+Stüssi  
+Drückt euch ein Kummer, werft ihn frisch vom Herze  
+Nehmt mit was kommt, die Zeiten sind jezt schwer.  
+Drum muß der Mensch die Freude leicht ergreifen.  
+Hier wird gefreit und anderswo begraben.  
+Tell  
+Und oft kommt gar das eine zu dem andern.  
+Stüssi  
+So geht die Welt nun. Es giebt allerwegen  
+Unglücks genug – Ein Ruffi ist gegangen  
+Im Glarner Land und eine ganze Seite  
+Vom Glärnisch eingesunken.  
+Tell  
+ Wanken auch  
+Die Berge selbst? Es steht nichts fest auf Erden.  
+Stüssi  
+Auch anderswo vernimmt man Wunderdinge.
+
+`p00233` Da sprach ich einen, der von Baden kam.  
+Ein Ritter wollte zu dem König reiten,  
+Und unterwegs begegnet ihm ein Schwarm  
+Von Hornissen, die fallen auf sein Roß,  
+Daß es für Marter todt zu Boden sinkt,  
+Und er zu Fuße ankommt bei dem König.  
+Tell  
+Dem Schwachen ist sein Stachel auch gegeben.  
+(Armgart kommt mit mehreren Kindern und stellt sich an den Eingang des Hohlwegs.)  
+Stüssi  
+Man deutets auf ein grosses Landesunglück,  
+Auf schwere Thaten wider die Natur.  
+Tell  
+Dergleichen Thaten bringet jeder Tag,  
+Kein Wunderzeichen braucht sie zu verkünden.  
+Stüssi  
+Ja, wohl dem, der sein Feld bestellt in Ruh,  
+Und ungekränkt daheim sizt bei den Seinen.
+
+`p00234` Tell  
+Es kann der Frömmste nicht im Frieden bleiben,  
+Wenn es dem bösen Nachbar nicht gefällt.  
+(Tell sieht oft mit unruhiger Erwartung nach der Höhe des Weges)  
+Stüssi  
+Gehabt euch wohl – Ihr wartet hier auf Jemand?  
+Tell  
+Das thu ich.  
+Stüssi  
+ Frohe Heimkehr zu den euren!  
+– Ihr seid aus Uri? Unser gnädger Herr  
+Der Landvogt wird noch heut von dort erwartet.  
+Wanderer (kommt)  
+Den Vogt erwartet heut nicht mehr. Die Wasser  
+Sind ausgetreten von dem großen Regen,  
+Und alle Brücken hat der Strom zerrissen.  
+Tell (steht auf)  
+Armgart (kommt vorwärts)  
+Der Landvogt kommt nicht!
+
+`p00235` Stüssi  
+ Sucht ihr was an ihn?  
+Armgart  
+Ach freilich!  
+Stüssi  
+ Warum stellet ihr euch denn  
+In dieser hohlen Gaß’ ihm in den Weg?  
+Armgart  
+Hier weicht er mir nicht aus, er muß mich hören.  
+Frießhardt  
+(kommt eilfertig den Hohlweg herab, und ruft in die Scene.)  
+Man fahre aus dem Weg – Mein gnädger Herr  
+Der Landvogt kommt dicht hinter mir geritten.  
+(Tell geht ab)  
+Armgart (lebhaft)  
+Der Landvogt kommt!  
+(Sie geht mit ihren Kindern nach der vordern Scene. Geßler und Rudolph der Harras zeigen sich zu Pferd auf der Höhe des Wegs)  
+Stüssi (zum Frießhardt)  
+ Wie kamt ihr durch das Wasser,  
+Da doch der Strom die Brücken fortgeführt?
+
+`p00236` Frießhardt  
+Wir haben mit dem See gefochten, Freund,  
+Und fürchten uns vor keinem Alpenwasser.  
+Stüssi  
+Ihr wart zu Schiff in dem gewaltgen Sturm?  
+Frießhardt  
+Das waren wir. Mein Lebtag denk ich dran –  
+Stüssi  
+O bleibt, erzählt!  
+Frießhardt  
+ Laßt mich, ich muß voraus,  
+Den Landvogt muß ich in der Burg verkünden. (ab)  
+Stüssi  
+Wär’n gute Leute auf dem Schiff gewesen,  
+In Grund gesunken wärs mit Mann und Maus,  
+Dem Volk kann weder Wasser bei noch Feuer.  
+(er sieht sich um)  
+Wo kam der Waidmann hin, mit dem ich sprach?  
+(geht ab)
+
+`p00237` Geßler und Rudolph der Harras zu Pferd  
+Geßler  
+Sagt was ihr wollt, ich bin des Kaisers Diener  
+Und muß drauf denken, wie ich ihm gefalle.  
+Er hat mich nicht ins Land geschickt, dem Volk  
+Zu schmeicheln und ihm sanft zu thun – Gehorsam  
+Erwartet er, der Streit ist, ob der Bauer  
+Soll Herr seyn in dem Lande oder der Kaiser.  
+Armgart  
+Jezt ist der Augenblick! Jezt bring ichs an!  
+(nähert sich furchtsam)  
+Geßler  
+Ich hab’ den Hut nicht aufgesteckt zu Altorf  
+Des Scherzes wegen, oder um die Herzen  
+Des Volks zu prüfen, diese kenn ich längst.  
+Ich hab ihn aufgesteckt, daß sie den Nacken  
+Mir lernen beugen, den sie aufrecht tragen –  
+Das Unbequeme hab ich hingepflanzt  
+Auf ihren Weg, wo sie vorbeigehn müssen,  
+Daß sie drauf stoßen mit dem Aug, und sich  
+Erinnern ihres Herrn, den sie vergessen.
+
+`p00238` Rudolph  
+Das Volk hat aber doch gewisse Rechte –  
+Geßler  
+Die abzuwägen, ist jezt keine Zeit!  
+– Weitschichtge Dinge sind im Werk und Werden,  
+Das Kaiserhaus will wachsen, was der Vater  
+Glorreich begonnen, will der Sohn vollenden.  
+Dieß kleine Volk ist uns ein Stein im Weg –  
+So oder so – Es muß sich unterwerfen.  
+(sie wollen vorüber. Die Frau wirft sich vor dem Landvogt nieder)  
+Armgart  
+Barmherzigkeit Herr Landvogt! Gnade! Gnade!  
+Geßler  
+Was dringt ihr euch auf offner Straße mir  
+In Weg – Zurück!  
+Armgart  
+ Mein Mann liegt im Gefängniß,  
+Die armen Waisen schreyn nach Brod – Habt Mitleid  
+Gestrenger Herr, mit unserm großen Elend.
+
+`p00239` Rudolph  
+Wer seid ihr? Wer ist euer Mann?  
+Armgart  
+ Ein armer  
+Wildheuer, guter Herr, vom Rigiberge,  
+Der überm Abgrund weg das freie Gras  
+Abmähet von den schroffen Felsenwänden,  
+Wohin das Vieh sich nicht getraut zu steigen –  
+Rudolph (zum Landvogt)  
+Bei Gott, ein elend und erbärmlich Leben!  
+Ich bitt euch, gebt ihn los den armen Mann,  
+Was er auch schweres mag verschuldet haben,  
+Strafe genug ist sein entsetzlich Handwerk.  
+(zu der Frau)  
+Euch soll Recht werden – Drinnen auf der Burg  
+Nennt eure Bitte – Hier ist nicht der Ort.  
+Armgart  
+Nein, nein, ich weiche nicht von diesem Platz,  
+Bis mir der Vogt den Mann zurückgegeben!  
+Schon in den sechsten Mond liegt er im Thurm,  
+Und harret auf den Richterspruch vergebens.
+
+`p00240` Geßler  
+Weib, wollt ihr mir Gewalt anthun, hinweg.  
+Armgart  
+Gerechtigkeit, Landvogt! Du bist der Richter  
+Im Lande an des Kaisers Statt und Gottes.  
+Thu deine Pflicht! So du Gerechtigkeit  
+Vom Himmel hoffest, so erzeig sie uns.  
+Geßler  
+Fort, schafft das freche Volk mir aus den Augen.  
+Armgart  
+(greift in die Zügel des Pferdes)  
+Nein, nein, ich habe nichts mehr zu verlieren.  
+– Du kommst nicht von der Stelle Vogt, bis du  
+Mir Recht gesprochen – Falte deine Stirne,  
+Rolle die Augen wie du willst – Wir sind  
+So grenzenlos unglücklich, daß wir nichts  
+Nach deinem Zorn mehr fragen –  
+Geßler  
+ Weib, mach Platz,  
+Oder mein Roß geht über dich hinweg.
+
+`p00241` Armgart  
+Laß es über mich dahin gehn – da –  
+(sie reißt ihre Kinder zu Boden und wirft sich mit ihnen ihm in den Weg)  
+ Hier lieg ich  
+Mit meinen Kindern – Laß die armen Waisen  
+Von deines Pferdes Huf zertreten werden,  
+Es ist das Aergste nicht, was du gethan –  
+Rudolph  
+Weib, seid ihr rasend?  
+Armgart (heftiger fortfahrend)  
+ Tratest du doch längst  
+Das Land des Kaisers unter deine Füße!  
+– O ich bin nur ein Weib! Wär ich ein Mann,  
+Ich wüßte wohl was besseres, als hier  
+Im Staub zu liegen –  
+(Man hört die vorige Musik wieder auf der Höhe des Wegs, aber gedämpft)  
+Geßler  
+ Wo sind meine Knechte?  
+Man reisse sie von hinnen oder ich  
+Vergesse mich und thue was mich reuet.
+
+`p00242` Rudolph  
+Die Knechte können nicht hindurch, o Herr,  
+Der Hohlweg ist gesperrt durch eine Hochzeit.  
+Geßler  
+Ein allzumilder Herrscher bin ich noch  
+Gegen dieß Volk – die Zungen sind noch frei,  
+Es ist noch nicht ganz wie es soll gebändigt –  
+Doch es soll anders werden, ich gelob es,  
+Ich will ihn brechen diesen starren Sinn,  
+Den kecken Geist der Freiheit will ich beugen.  
+Ein neu Gesetz will ich in diesen Landen  
+Verkündigen – Ich will –  
+(ein Pfeil durchbohrt ihn, er fährt mit der Hand ans Herz und will sinken. Mit matter Stimme)  
+ Gott sei mir gnädig!  
+Rudolph  
+Herr Landvogt – Gott was ist das? Woher kam das?  
+Armgart (auffahrend)  
+Mord! Mord! Er taumelt, sinkt! Er ist getroffen!  
+Rudolph (springt vom Pferde)  
+Welch gräßliches Ereigniß – Gott – Herr Ritter –
+
+`p00243` Ruft die Erbarmung Gottes an – Ihr seid  
+Ein Mann des Todes! –  
+Geßler  
+ Das ist Tells Geschoß.  
+(ist vom Pferd herab dem Rudolph Harras in die Arme gegleitet und wird auf der Bank niedergelassen.)  
+Tell (erscheint oben auf der Höhe des Felsen)  
+Du kennst den Schützen, suche keinen andern!  
+Frei sind die Hütten, sicher ist die Unschuld  
+Vor dir, du wirst dem Lande nicht mehr schaden.  
+(verschwindet von der Höhe. Volk stürzt herein)  
+Stüssi (voran)  
+Was giebt es hier? Was hat sich zugetragen?  
+Armgart  
+Der Landvogt ist von einem Pfeil durchschossen.  
+Volk (im Hereinstürzen)  
+Wer ist erschossen?  
+(indem die vordersten von dem Brautzug auf die Scene kommen, sind die hintersten noch auf der Höhe, und die Musik geht fort)
+
+`p00244` Rudolph der Harras  
+ Er verblutet sich.  
+Fort, schaffet Hilfe! Sezt dem Mörder nach!  
+– Verlorner Mann, so muß es mit dir enden,  
+Doch meine Warnung wolltest du nicht hören!  
+Stüssi  
+Bei Gott! da liegt er bleich und ohne Leben!  
+Viele Stimmen  
+Wer hat die That gethan?  
+Rudolph der Harras  
+ Raßt dieses Volk,  
+Daß es dem Mord Musik macht? Laßt sie schweigen.  
+(Musik bricht plötzlich ab, es kommt noch mehr Volk nach.)  
+Herr Landvogt, redet, wenn ihr könnt – Habt ihr  
+Mir nichts mehr zu vertraun?  
+(Geßler giebt Zeichen mit der Hand, die er mit Heftigkeit wiederholt, da sie nicht gleich verstanden werden)  
+ Wo soll ich hin?  
+– Nach Küßnacht? – Ich versteh euch nicht – O werdet  
+Nicht ungeduldig – Laßt das Irdische,  
+Denkt jezt, euch mit dem Himmel zu versöhnen.  
+(die ganze Hochzeitgesellschaft umsteht den Sterbenden mit einem fühllosen Grausen)
+
+`p00245` Stüssi  
+Sieh wie er bleich wird – Jezt, jezt tritt der Tod  
+Ihm an das Herz – die Augen sind gebrochen.  
+Armgart  
+(hebt ein Kind empor)  
+Seht Kinder, wie ein Wütherich verscheidet!  
+Rudolph der Harras  
+Wahnsinnge Weiber, habt ihr kein Gefühl,  
+Daß ihr den Blick an diesem Schreckniß weidet?  
+– Helft – Leget Hand an – Steht mir niemand bei,  
+Den Schmerzenspfeil ihm aus der Brust zu ziehn?  
+Weiber (treten zurück)  
+Wir ihn berühren, welchen Gott geschlagen!  
+Rudolph der Harras  
+Fluch treff euch und Verdammniß! (zieht das Schwert)  
+Stüssi (fällt ihm in den Arm)  
+ Wagt es Herr!  
+Eu’r Walten hat ein Ende. Der Tyrann  
+Des Landes ist gefallen. Wir erdulden  
+Keine Gewalt mehr. Wir sind freie Menschen.
+
+`p00246` Alle (tumultuarisch)  
+Das Land ist frei.  
+Rudolph der Harras  
+ Ist es dahin gekommen?  
+Endet die Furcht so schnell und der Gehorsam?  
+(zu den Waffenknechten, die hereindringen)  
+Ihr seht die grausenvolle That des Mords  
+Die hier geschehen – Hülfe ist umsonst –  
+Vergeblich ists, dem Mörder nachzusetzen.  
+Uns drängen andre Sorgen – Auf, nach Küßnacht,  
+Daß wir dem Kaiser seine Veste retten!  
+Denn aufgelößt in diesem Augenblick  
+Sind aller Ordnung, aller Pflichten Bande,  
+Und keines Mannes Treu ist zu vertrauen.  
+(indem er mit den Waffenknechten abgeht, erscheinen sechs barmherzige Brüder)  
+Armgart  
+Platz! Platz! da kommen die barmherzgen Brüder.  
+Stüssi  
+Das Opfer liegt – Die Raben steigen nieder.
+
+`p00247` Barmherzige Brüder.  
+(schließen einen Halbkreis um den Todten und singen in tiefem Ton)  
+Rasch tritt der Tod den Menschen an,  
+     Es ist ihm keine Frist gegeben,  
+Es stürzt ihn mitten in der Bahn,  
+     Es reißt ihn fort vom vollen Leben,  
+Bereitet oder nicht, zu gehen,  
+Er muß vor seinen Richter stehen!  
+(indem die lezten Zeilen wiederhohlt werden fällt der Vorhang)
+
+`p00248` Fünfter Aufzug
+
+`p00249` Erste Scene
+
+`p00250` Oeffentlicher Platz bei Altorf. Im Hintergrunde rechts die Veste Zwing Uri mit dem noch stehenden Baugerüste, wie in der dritten Scene des ersten Aufzugs; links eine Aussicht in viele Berge hinein, auf welchen allen Signalfeuer brennen. Es ist eben Tagesanbruch, Glocken ertönen aus verschiedenen Fernen.
+
+`p00251` Ruodi, Kuoni, Werni, Meister Steinmetz und viele andre Landleute, auch Weiber und Kinder.
+
+`p00252` Ruodi  
+Seht ihr die Feuersignale auf den Bergen?  
+Steinmetz  
+Hört ihr die Glocken drüben überm Wald?  
+Ruodi  
+Die Feinde sind verjagt.  
+Steinmetz  
+ Die Burgen sind erobert.  
+Ruodi  
+Und wir im Lande Uri dulden noch  
+Auf unserm Boden das Tyrannenschloß?  
+Sind wir die lezten, die sich frei erklären?
+
+`p00253` Steinmetz  
+Das Joch soll stehen, das uns zwingen wollte?  
+Auf, reißt es nieder!  
+Alle  
+ Nieder! Nieder! Nieder!  
+Ruodi  
+Wo ist der Stier von Uri?  
+Stier von Uri  
+ Hier. Was soll ich?  
+Ruodi  
+Steigt auf die Hochwacht, blaßt in euer Horn,  
+Daß es weitschmetternd in die Berge schalle,  
+Und jedes Echo in den Felsenklüften  
+Aufweckend, schnell die Männer des Gebirgs  
+Zusammenrufe.  
+(Stier von Uri geht ab. Walther Fürst kommt)  
+Walther Fürst  
+ Haltet Freunde! Haltet!  
+Noch fehlt uns Kunde was in Unterwalden  
+Und Schwytz geschehen. Laßt uns Boten erst  
+Erwarten.
+
+`p00254` Ruodi  
+ Was erwarten? Der Tyrann  
+Ist todt, der Tag der Freiheit ist erschienen.  
+Steinmetz  
+Ists nicht genug an diesen flammenden Boten,  
+Die rings herum auf allen Bergen leuchten?  
+Ruodi  
+Kommt alle, kommt, legt Hand an, Männer und Weiber!  
+Brecht das Gerüste! Sprengt die Bogen! Reißt  
+Die Mauern ein! Kein Stein bleib auf dem andern.  
+Steinmetz  
+Gesellen, kommt! Wir habens aufgebaut,  
+Wir wissens zu zerstören.  
+Alle  
+ Kommt! Reißt nieder.  
+(Sie stürzen sich von allen Seiten auf den Bau)  
+Walther Fürst  
+Es ist im Lauf. Ich kann sie nicht mehr halten.  
+Melchthal und Baumgarten kommen  
+Melchthal  
+Was? Steht die Burg noch und Schloß Sarnen liegt  
+In Asche und der Roßberg ist gebrochen?
+
+`p00255` Walther Fürst  
+Seid ihr es, Melchthal? Bringt ihr uns die Freiheit?  
+Sagt! Sind die Lande alle rein vom Feind?  
+Melchthal (umarmt ihn)  
+Rein ist der Boden. Freut euch, alter Vater!  
+In diesem Augenblicke, da wir reden,  
+Ist kein Tyrann mehr in der Schweitzer Land.  
+Walther Fürst  
+O sprecht, wie wurdet ihr der Burgen mächtig?  
+Melchthal  
+Der Rudenz war es, der das Sarner Schloß  
+Mit mannlich kühner Wagethat gewann,  
+Den Roßberg hatt’ ich Nachts zuvor erstiegen.  
+– Doch höret, was geschah. Als wir das Schloß  
+Vom Feind geleert, nun freudig angezündet,  
+Die Flamme prasselnd schon zum Himmel schlug,  
+Da stürzt der Diethelm, Geßlers Bub, hervor,  
+Und ruft, daß die Brunekerinn verbrenne.  
+Walther Fürst  
+Gerechter Gott!  
+(Man hört die Balken des Gerüstes stürzen)
+
+`p00256` Melchthal  
+ Sie war es selbst, war heimlich  
+Hier eingeschlossen auf des Vogts Geheiß.  
+Rasend erhub sich Rudenz – denn wir hörten  
+Die Balken schon, die festen Pfosten stürzen,  
+Und aus dem Rauch hervor den Jammerruf  
+– Der Unglückseligen.  
+Walther Fürst  
+ Sie ist gerettet?  
+Melchthal  
+Da galt Geschwindseyn und Entschlossenheit!  
+– Wär er nur unser Edelmann gewesen,  
+Wir hätten unser Leben wohl geliebt,  
+Doch er war unser Eidgenoß, und Bertha  
+Ehrte das Volk – So sezten wir getrost  
+Das Leben dran, und stürzten in das Feuer.  
+Walther Fürst  
+Sie ist gerettet?  
+Melchthal  
+ Sie ists. Rudenz und ich,  
+Wir trugen sie selbander aus den Flammen,
+
+`p00257` Und hinter uns fiel krachend das Gebälk.  
+– Und jezt, als sie gerettet sich erkannte,  
+Die Augen aufschlug zu dem Himmelslicht,  
+Jetzt stürzte mir der Freiherr an das Herz,  
+Und schweigend ward ein Bündnis jezt beschworen,  
+Das fest gehärtet in des Feuers Glut  
+Bestehen wird in allen Schicksalsproben –  
+Walther Fürst  
+Wo ist der Landenberg?  
+Melchthal  
+ Ueber den Brünig.  
+Nicht lags an mir, daß er das Licht der Augen  
+Davon trug, der den Vater mir geblendet.  
+Nach jagt’ ich ihm, erreicht ihn auf der Flucht,  
+Und riß ihn zu den Füssen meines Vaters.  
+Geschwungen über ihm war schon das Schwerdt,  
+Von der Barmherzigkeit des blinden Greises  
+Erhielt er flehend das Geschenk des Lebens.  
+Urphede schwur er, nie zurück zu kehren,  
+Er wird sie halten, unsern Arm hat er  
+Gefühlt.
+
+`p00258` Walther Fürst  
+ Wohl euch, daß ihr den reinen Sieg  
+Mit Blute nicht geschändet!  
+Kinder  
+(eilen mit Trümmern des Gerüstes über die Scene)  
+ Freiheit! Freiheit!  
+(das Horn von Uri wird mit Macht geblasen)  
+Walther Fürst  
+Seht, welch ein Fest! Des Tages werden sich  
+Die Kinder spät als Greise noch erinnern.  
+(Mädchen bringen den Hut auf einer Stange getragen, die ganze Scene füllt sich mit Volk an)  
+Ruodi  
+Hier ist der Hut, dem wir uns beugen mußten.  
+Baumgarten  
+Gebt uns Bescheid, was damit werden soll.  
+Walther Fürst  
+Gott! Unter diesem Hute stand mein Enkel!  
+Mehrere Stimmen  
+Zerstört das Denkmal der Tyrannenmacht!  
+Ins Feuer mit ihm!
+
+`p00259` Walther Fürst  
+ Nein, laßt ihn aufbewahren!  
+Der Tyrannei mußt’ er zum Werkzeug dienen,  
+Er soll der Freiheit ewig Zeichen seyn!  
+(die Landleute, Männer, Weiber und Kinder stehen und sitzen auf den Balken des zerbrochenen Gerüstes mahlerisch gruppiert in einem großen Halbkreis umher)  
+Melchthal  
+So stehen wir nun fröhlich auf den Trümmern  
+Der Tyrannei, und herrlich ists erfüllt,  
+Was wir im Rütli schwuren, Eidgenossen.  
+Walther Fürst  
+Das Werk ist angefangen, nicht vollendet.  
+Jezt ist uns Muth und feste Eintracht noth,  
+Denn seid gewiß, nicht säumen wird der König,  
+Den Tod zu rächen seines Vogts, und den  
+Vertriebnen mit Gewalt zurück zu führen.  
+Melchthal  
+Er zieh’ heran mit seiner Heeresmacht,  
+Ist aus dem Innern doch der Feind verjagt,  
+Dem Feind von aussen wollen wir begegnen.
+
+`p00260` Ruodi  
+Nur wenge Pässe öffnen ihm das Land,  
+Die wollen wir mit unsern Leibern decken.  
+Baumgarten  
+Wir sind vereinigt durch ein ewig Band,  
+Und seine Heere sollen uns nicht schrecken!  
+Rösselmann und Stauffacher kommen.  
+Rösselmann (im Eintreten.)  
+Das sind des Himmels furchtbare Gerichte.  
+Landleute  
+Was giebts?  
+Rösselmann  
+ In welchen Zeiten leben wir!  
+Walther Fürst  
+Sagt an, was ist es? – Ha, seid ihrs Herr Werner?  
+Was bringt ihr uns?  
+Landleute  
+ Was giebts?  
+Rösselmann  
+ Hört und erstaunet!
+
+`p00261` Stauffacher  
+Von einer großen Furcht sind wir befreit –  
+Rösselmann  
+Der Kaiser ist ermordet.  
+Walther Fürst  
+ Gnädger Gott!  
+(Landleute machen einen Aufstand und umdrängen den Stauffacher)  
+Alle  
+Ermordet! Was! Der Kaiser! Hört! Der Kaiser!  
+Melchthal  
+Nicht möglich! Woher kam euch diese Kunde?  
+Stauffacher  
+Es ist gewiß. Bei Bruck fiel König Albrecht  
+Durch Mörders Hand – ein glaubenswerther Mann,  
+Johannes Müller, bracht’ es von Schafhausen.  
+Walther Fürst  
+Wer wagte solche grauenvolle That?  
+Stauffacher  
+Sie wird noch grauenvoller durch den Thäter.
+
+`p00262` Es war sein Neffe, seines Bruders Kind,  
+Herzog Johann von Schwaben, ders vollbrachte.  
+Melchthal  
+Was trieb ihn zu der That des Vatermords?  
+Stauffacher  
+Der Kaiser hielt das väterliche Erbe  
+Dem ungeduldig mahnenden zurück,  
+Es hieß, er denk ihn ganz darum zu kürzen,  
+Mit einem Bischoffshut ihn abzufinden.  
+Wie dem auch sey – der Jüngling öfnete  
+Der Waffenfreunde bösem Rath sein Ohr,  
+Und mit den edeln Herrn von Eschenbach,  
+Von Tegerfelden, von der Wart und Palm  
+Beschloß er, da er Recht nicht konnte finden,  
+Sich Rach’ zu hohlen mit der eignen Hand.  
+Walther Fürst  
+O sprecht, wie ward das Gräßliche vollendet?  
+Stauffacher  
+Der König ritt herab vom Stein zu Baden,  
+Gen Rheinfeld, wo die Hofstatt war, zu ziehn,  
+Mit ihm die Fürsten, Hans und Leopold,
+
+`p00263` Und ein Gefolge hochgebohrner Herren.  
+Und als sie kamen an die Reuß, wo man  
+Auf einer Fähre sich läßt übersetzen,  
+Da drängten sich die Mörder in das Schiff,  
+Daß sie den Kaiser vom Gefolge trennten.  
+Drauf als der Fürst durch ein geackert Feld  
+Hinreitet – eine alte große Stadt  
+Soll drunter liegen aus der Heiden Zeit –  
+Die alte Veste Habsburg im Gesicht,  
+Wo seines Stammes Hoheit ausgegangen –  
+Stößt Herzog Hans den Dolch ihm in die Kehle,  
+Rudolph von Palm durchrennt ihn mit dem Speer,  
+Und Eschenbach zerspaltet ihm das Haupt,  
+Daß er herunter sinkt in seinem Blut,  
+Gemordet von den Seinen, auf dem Seinen.  
+Am andern Ufer sahen sie die That,  
+Doch durch den Strom geschieden, konnten sie  
+Nur ein ohnmächtig Wehgeschrey erheben;  
+Am Wege aber saß ein armes Weib,  
+In ihrem Schooß verblutete der Kaiser.
+
+`p00264` Melchthal  
+So hat er nur sein frühes Grab gegraben,  
+Der unersättlich alles wollte haben!  
+Stauffacher  
+Ein ungeheurer Schrecken ist im Land umher,  
+Gesperrt sind alle Pässe des Gebirgs,  
+Jedweder Stand verwahret seine Grenzen,  
+Die alte Zürich selbst schloß ihre Thore,  
+Die dreißig Jahr lang offen standen, zu,  
+Die Mörder fürchtend und noch mehr – die Rächer.  
+Denn mit des Bannes Fluch bewaffnet, kommt  
+Der Ungarn Königinn, die strenge Agnes,  
+Die nicht die Milde kennet ihres zarten  
+Geschlechts, des Vaters königliches Blut  
+Zu rächen an der Mörder ganzem Stamm,  
+An ihren Knechten, Kindern, Kindeskindern,  
+Ja an den Steinen ihrer Schlösser selbst.  
+Geschworen hat sie, ganze Zeugungen  
+Hinabzusenden in des Vaters Grab,  
+In Blut sich wie in Mayenthau zu baden.
+
+`p00265` Melchthal  
+Weiß man, wo sich die Mörder hingeflüchtet?  
+Stauffacher  
+Sie flohen alsbald nach vollbrachter That  
+Auf fünf verschiednen Strassen auseinander,  
+Und trennten sich, um nie sich mehr zu sehn –  
+Herzog Johann soll irren im Gebirge.  
+Walther Fürst  
+So trägt die Unthat ihnen keine Frucht!  
+Rache trägt keine Frucht! Sich selbst ist sie  
+Die fürchterliche Nahrung, ihr Genuß  
+Ist Mord, und ihre Sättigung das Grausen.  
+Stauffacher  
+Den Mördern bringt die Unthat nicht Gewinn,  
+Wir aber brechen mit der reinen Hand  
+Des blutgen Frevels segenvolle Frucht.  
+Denn einer großen Furcht sind wir entledigt,  
+Gefallen ist der Freiheit größter Feind,  
+Und, wie verlautet, wird das Scepter gehn  
+Aus Habsburgs Haus zu einem andern Stamm,  
+Das Reich will seine Wahlfreiheit behaupten.
+
+`p00266` Walther Fürst und mehrere  
+Vernahmt ihr was?  
+Stauffacher  
+ Der Graf von Luxemburg  
+Ist von den mehrsten Stimmen schon bezeichnet.  
+Walther Fürst  
+Wohl uns, daß wir beim Reiche treu gehalten,  
+Jezt ist zu hoffen auf Gerechtigkeit!  
+Stauffacher  
+Dem neuen Herrn thun tapfre Freunde noth,  
+Er wird uns schirmen gegen Oestreichs Rache.  
+(die Landleute umarmen einander)  
+Sigrist mit einem Reichsboten.  
+Sigrist  
+Hier sind des Landes würdge Oberhäupter.  
+Rösselmann und mehrere  
+Sigrist, was giebts?  
+Sigrist  
+ Ein Reichsbot bringt dieß Schreiben.  
+Alle (zu Walther Fürst)  
+Erbrecht und leset.
+
+`p00267` Walther Fürst (liest)  
+ „Den bescheidnen Männern  
+Von Uri, Schwyz und Unterwalden bietet  
+Die Königin Elsbeth Gnad und alles Gutes“  
+Viele Stimmen  
+Was will die Königin? Ihr Reich ist aus.  
+Walther Fürst (liest)  
+„In ihrem großen Schmerz und Wittwenleid  
+Worein der blutge Hinscheid ihres Herrn  
+Die Königin versezt, gedenkt sie noch  
+Der alten Treu und Lieb’ der Schwyzerlande.“  
+Melchthal  
+In ihrem Glück hat sie das nie gethan.  
+Rösselmann  
+Still! Lasset hören!  
+Walther Fürst (liest)  
+„Und sie versieht sich zu dem treuen Volk,  
+Daß es gerechten Abscheu werde tragen  
+Vor den verfluchten Thätern dieser That.  
+Darum erwartet sie von den drey Landen,  
+Daß sie den Mördern nimmer Vorschub thun,
+
+`p00268` Vielmehr getreulich dazu helfen werden,  
+Sie auszuliefern in des Rächers Hand,  
+Der Lieb gedenkend und der alten Gunst,  
+Die sie von Rudolphs Fürstenhaus empfangen.“  
+(Zeichen des Unwillens unter den Landleuten)  
+Viele Stimmen  
+Der Lieb und Gunst!  
+Stauffacher  
+Wir haben Gunst empfangen von dem Vater,  
+Doch wessen rühmen wir uns von dem Sohn?  
+Hat er den Brief der Freiheit uns bestätigt,  
+Wie vor ihm alle Kaiser doch gethan?  
+Hat er gerichtet nach gerechtem Spruch,  
+Und der bedrängten Unschuld Schutz verliehn?  
+Hat er auch nur die Boten wollen hören,  
+Die wir in unsrer Angst zu ihm gesendet?  
+Nicht eins von diesem allen hat der König  
+An uns gethan und hätten wir nicht selbst  
+Uns Recht verschafft mit eigner muthger Hand,  
+Ihn rührte unsre Noth nicht an – Ihm Dank?  
+Nicht Dank hat er gesät in diesen Thälern.
+
+`p00269` Er stand auf einem hohen Platz, er konnte  
+Ein Vater seiner Völker seyn, doch ihm  
+Gefiel es, nur zu sorgen für die Seinen,  
+Die er gemehrt hat, mögen um ihn weinen!  
+Walther Fürst  
+Wir wollen nicht frohlocken seines Falls,  
+Nicht des empfangnen Bösen jezt gedenken,  
+Fern sei’s von uns! Doch, daß wir rächen sollten  
+Des Königs Tod, der nie uns Gutes that,  
+Und die verfolgen, die uns nie betrübten,  
+Das ziemt uns nicht und will uns nicht gebühren.  
+Die Liebe will ein freies Opfer seyn,  
+Der Tod entbindet von erzwungnen Pflichten,  
+– Ihm haben wir nichts weiter zu entrichten.  
+Melchthal  
+Und weint die Königin in ihrer Kammer,  
+Und klagt ihr wilder Schmerz den Himmel an,  
+So seht ihr hier ein angstbefreites Volk  
+Zu eben diesem Himmel dankend flehen –  
+Wer Thränen ärnten will, muß Liebe säen.  
+(Reichsbote geht ab)
+
+`p00270` Stauffacher (zu dem Volk)  
+Wo ist der Tell? Soll Er allein uns fehlen,  
+Der unsrer Freiheit Stifter ist? Das Größte  
+Hat er gethan, das Härteste erduldet,  
+Kommt alle, kommt, nach seinem Haus zu wallen,  
+Und rufet Heil dem Retter von uns allen.  
+(Alle gehen ab)
+
+`p00271` Zweite Scene
+
+`p00272` Tells Hausflur. Ein Feuer brennt auf dem Heerd. Die offenstehende Thüre zeigt ins Freie.  
+Hedwig. Walther und Wilhelm.  
+Hedwig  
+Heut kommt der Vater. Kinder, liebe Kinder!  
+Er lebt, ist frei, und wir sind frei und alles!  
+Und euer Vater ists, der’s Land gerettet.  
+Walther  
+Und ich bin auch dabei gewesen, Mutter!  
+Mich muß man auch mit nennen. Vaters Pfeil  
+Gieng mir am Leben hart vorbei und ich  
+Hab’ nicht gezittert.
+
+`p00273` Hedwig (umarmt ihn)  
+ Ja du bist mir wieder  
+Gegeben! Zweimal hab ich dich gebohren!  
+Zweimal litt ich den Mutterschmerz um dich!  
+Es ist vorbei – Ich hab euch beide, beide!  
+Und heute kommt der liebe Vater wieder!  
+(Ein Mönch erscheint an der Hausthüre)  
+Wilhelm  
+Sieh Mutter sieh – dort steht ein frommer Bruder,  
+Gewiß wird er um eine Gabe flehn.  
+Hedwig  
+Führ ihn herein, damit wir ihn erquicken,  
+Er fühls, daß er ins Freudenhaus gekommen.  
+(geht hinein und kommt bald mit einem Becher wieder)  
+Wilhelm (zum Mönch)  
+Kommt, guter Mann. Die Mutter will euch laben.  
+Walther  
+Kommt, ruht euch aus und geht gestärkt von dannen.  
+Mönch  
+(scheu umherblickend, mit zerstörten Zügen)  
+Wo bin ich? Saget an, in welchem Lande?
+
+`p00274` Walther  
+Seid ihr verirret, daß ihr das nicht wißt?  
+Ihr seid zu Bürglen, Herr, im Lande Uri,  
+Wo man hineingeht in das Schächenthal.  
+Mönch  
+(zur Hedwig, welche zurückkommt)  
+Seid ihr allein? Ist euer Herr zu Hause?  
+Hedwig  
+Ich erwart ihn eben – doch was ist euch, Mann?  
+Ihr seht nicht aus, als ob ihr Gutes brächtet.  
+– Wer ihr auch seid, ihr seid bedürftig, nehmt!  
+(reicht ihm den Becher)  
+Mönch  
+Wie auch mein lechzend Herz nach Labung schmachtet,  
+Nichts rühr ich an, bis ihr mir zugesagt –  
+Hedwig  
+Berührt mein Kleid nicht, tretet mir nicht nah  
+Bleibt ferne stehn, wenn ich euch hören soll.  
+Mönch  
+Bei diesem Feuer, das hier gastlich lodert,
+
+`p00275` Bei eurer Kinder theurem Haupt, das ich  
+Umfasse – (ergreift die Knaben)  
+Hedwig  
+ Mann, was sinnet ihr? Zurück  
+Von meinen Kindern! – Ihr seid kein Mönch! Ihr seid  
+Es nicht! Der Friede wohnt in diesem Kleide,  
+In euren Zügen wohnt der Friede nicht.  
+Mönch  
+Ich bin der unglückseligste der Menschen.  
+Hedwig  
+Das Unglück spricht gewaltig zu dem Herzen,  
+Doch euer Blick schnürt mir das Innre zu.  
+Walther (aufspringend)  
+Mutter, der Vater! (eilt hinaus)  
+Hedwig  
+ O mein Gott!  
+(will nach, zittert und hält sich an)  
+Wilhelm (eilt nach)  
+ Der Vater!
+
+`p00276` Walther (draußen)  
+Da bist du wieder!  
+Wilhelm (draußen)  
+ Vater, lieber Vater!  
+Tell (draußen)  
+Da bin ich wieder – Wo ist eure Mutter?  
+(treten herein)  
+Walther  
+Da steht sie an der Thür und kann nicht weiter,  
+So zittert sie für Schrecken und für Freude.  
+Tell  
+O Hedwig, Hedwig! Mutter meiner Kinder!  
+Gott hat geholfen – Uns trennt kein Tyrann mehr.  
+Hedwig (an seinem Halse)  
+O Tell! Tell! Welche Angst litt ich um dich!  
+(Mönch wird aufmerksam)  
+Tell  
+Vergiß sie jezt und lebe nur der Freude!  
+Da bin ich wieder! Das ist meine Hütte!  
+Ich stehe wieder auf dem Meinigen!
+
+`p00277` Wilhelm  
+Wo aber hast du deine Armbrust, Vater?  
+Ich seh sie nicht.  
+Tell  
+ Du wirst sie nie mehr sehn.  
+An heilger Stätte ist sie aufbewahrt,  
+Sie wird hinfort zu keiner Jagd mehr dienen.  
+Hedwig  
+O Tell! Tell! (tritt zurück, läßt seine Hand los.)  
+Tell  
+ Was erschreckt dich, liebes Weib?  
+Hedwig  
+Wie – wie kommst du mir wieder? – Diese Hand  
+– Darf ich sie fassen? – Diese Hand – O Gott!  
+Tell (herzlich und muthig)  
+Hat euch vertheidigt und das Land gerettet,  
+Ich darf sie frei hinauf zum Himmel heben.  
+(Mönch macht eine rasche Bewegung, er erblickt ihn)  
+Wer ist der Bruder hier?
+
+`p00278` Hedwig  
+ Ach ich vergaß ihn!  
+Sprich du mit ihm, mir graut in seiner Nähe.  
+Mönch (tritt näher)  
+Seid ihr der Tell, durch den der Landvogt fiel?  
+Tell  
+Der bin ich, ich verberg es keinem Menschen.  
+Mönch  
+Ihr seid der Tell! Ach es ist Gottes Hand,  
+Die unter euer Dach mich hat geführt.  
+Tell (mißt ihn mit den Augen)  
+Ihr seid kein Mönch! Wer seid ihr?  
+Mönch  
+ Ihr erschlugt  
+Den Landvogt, der euch Böses that – Auch ich  
+Hab einen Feind erschlagen, der mir Recht  
+Versagte – Er war euer Feind wie meiner –  
+Ich hab das Land von ihm befreit.  
+Tell (zurückfahrend)  
+ Ihr seid –  
+Entsetzen! – Kinder! Kinder geht hinein.
+
+`p00279` Geh liebes Weib! Geh! Geh! – Unglücklicher,  
+Ihr wäret –  
+Hedwig  
+ Gott, wer ist es?  
+Tell  
+ Frage nicht!  
+Fort! Fort! Die Kinder dürfen es nicht hören.  
+Geh aus dem Hause – Weit hinweg – Du darfst  
+Nicht unter Einem Dach mit diesem wohnen.  
+Hedwig  
+Weh mir, was ist das? Kommt!  
+(geht mit den Kindern)  
+Tell (zu dem Mönch)  
+ Ihr seid der Herzog  
+Von Oesterreich – Ihr seids! Ihr habt den Kaiser  
+Erschlagen, euern Oh’m und Herrn.  
+Johannes Parricida.  
+ Er war  
+Der Räuber meines Erbes.  
+Tell  
+ Euern Ohm
+
+`p00280` Erschlagen, euern Kaiser! Und euch trägt  
+Die Erde noch! Euch leuchtet noch die Sonne!  
+Parricida  
+Tell, hört mich, eh ihr –  
+Tell  
+ Von dem Blute triefend  
+Des Vatermordes und des Kaisermords,  
+Wagst du zu treten in mein reines Haus,  
+Du wagsts, dein Antliz einem guten Menschen  
+Zu zeigen und das Gastrecht zu begehren?  
+Parricida  
+Bei euch hofft’ ich Barmherzigkeit zu finden,  
+Auch ihr nahmt Rach’ an euerm Feind.  
+Tell  
+ Unglücklicher!  
+Darfst du der Ehrsucht blutge Schuld vermengen  
+Mit der gerechten Nothwehr eines Vaters?  
+Hast du der Kinder liebes Haupt vertheidigt?  
+Des Heerdes Heiligthum beschützt? das Schrecklichste,  
+Das Lezte von den deinen abgewehrt?  
+– Zum Himmel heb’ ich meine reinen Hände,
+
+`p00281` Verfluche dich und deine That – Gerächt  
+Hab ich die heilige Natur, die du  
+Geschändet – Nichts theil’ ich mit dir – Gemordet  
+Hast du, ich hab mein theuerstes vertheidigt.  
+Parricida  
+Ihr stoßt mich von euch, trostlos, in Verzweiflung?  
+Tell  
+Mich faßt ein Grausen, da ich mit dir rede.  
+Fort! Wandle deine fürchterliche Straße,  
+Laß rein die Hütte, wo die Unschuld wohnt.  
+Parricida (wendet sich zu gehen)  
+So kann ich, und so will ich nicht mehr leben!  
+Tell  
+Und doch erbarmt mich deiner – Gott des Himmels!  
+So jung, von solchem adelichen Stamm,  
+Der Enkel Rudolphs, meines Herrn und Kaisers,  
+Als Mörder flüchtig, hier an meiner Schwelle,  
+Des armen Mannes, flehend und verzweifelnd –  
+(verhüllt sich das Gesicht)  
+Parricida  
+O wenn ihr weinen könnt, laßt mein Geschick
+
+`p00282` Euch jammern, es ist fürchterlich – Ich bin  
+Ein Fürst – ich wars – ich konnte glücklich werden  
+Wenn ich der Wünsche Ungeduld bezwang.  
+Der Neid zernagte mir das Herz – Ich sah  
+Die Jugend meines Vetters Leopold  
+Gekrönt mit Ehre und mit Land belohnt,  
+Und mich, der gleiches Alters mit ihm war,  
+In sclavischer Unmündigkeit gehalten –  
+Tell  
+Unglücklicher, wohl kannte dich dein Ohm,  
+Da er dir Land und Leute weigerte!  
+Du selbst mit rascher, wilder Wahnsinnsthat  
+Rechtfertigst furchtbar seinen weisen Schluß.  
+– Wo sind die blutgen Helfer deines Mords?  
+Parricida  
+Wohin die Rachegeister sie geführt,  
+Ich sah sie seit der Unglücksthat nicht wieder.  
+Tell  
+Weißt du, daß dich die Acht verfolgt, daß du  
+Dem Freund verboten und dem Feind erlaubt?
+
+`p00283` Parricida  
+Darum vermeid ich alle ofne Strassen,  
+An keine Hütte wag ich anzupochen –  
+Der Wüste kehr’ ich meine Schritte zu,  
+Mein eignes Schreckniß irr ich durch die Berge,  
+Und fahre schaudernd vor mir selbst zurück,  
+Zeigt mir ein Bach mein unglückselig Bild.  
+O wenn ihr Mitleid fühlt und Menschlichkeit –  
+(fällt vor ihm nieder)  
+Tell (abgewendet)  
+Steht auf! Steht auf!  
+Parricida  
+Nicht bis ihr mir die Hand gereicht zur Hülfe.  
+Tell  
+Kann ich euch helfen? Kanns ein Mensch der Sünde?  
+Doch stehet auf – Was ihr auch gräßliches  
+Verübt – Ihr seid ein Mensch – Ich bin es auch –  
+Vom Tell soll keiner ungetröstet scheiden –  
+Was ich vermag, das will ich thun.
+
+`p00284` Parricida  
+(aufspringend und seine Hand mit Heftigkeit ergreifend)  
+ O Tell!  
+Ihr rettet meine Seele von Verzweiflung.  
+Tell  
+Laßt meine Hand los – Ihr müßt fort. Hier könnt  
+Ihr unentdeckt nicht bleiben, könnt entdeckt  
+Auf Schutz nicht rechnen – Wo gedenkt ihr hin?  
+Wo hofft ihr Ruh zu finden?  
+Parricida  
+ Weiß ichs? Ach!  
+Tell  
+Hört was mir Gott ins Herz giebt – Ihr müßt fort  
+Ins Land Italien, nach Sankt Peters Stadt,  
+Dort werft ihr euch dem Papst zu Füssen, beichtet  
+Ihm eure Schuld und löset eure Seele.  
+Parricida  
+Wird er mich nicht dem Rächer überliefern?  
+Tell  
+Was er euch thut, das nehmet an von Gott.
+
+`p00285` Parricida  
+Wie komm’ ich in das unbekannte Land?  
+Ich bin des Wegs nicht kundig, wage nicht  
+Zu Wanderern die Schritte zu gesellen.  
+Tell  
+Den Weg will ich euch nennen, merket wohl!  
+Ihr steigt hinauf, dem Strom der Reuß entgegen,  
+Die wildes Laufes von dem Berge stürzt –  
+Parricida (erschrickt)  
+Seh ich die Reuß? Sie floß bei meiner That.  
+Tell  
+Am Abgrund geht der Weg, und viele Kreutze  
+Bezeichnen ihn, errichtet zum Gedächtniß  
+Der Wanderer, die die Lawine begraben.  
+Parricida  
+Ich fürchte nicht die Schrecken der Natur,  
+Wenn ich des Herzens wilde Qualen zähme.  
+Tell  
+Vor jedem Kreutze fallet hin und büßet
+
+`p00286` Mit heissen Reuethränen eure Schuld –  
+Und seid ihr glücklich durch die Schreckensstraße,  
+Sendet der Berg nicht seine Windeswehen,  
+Auf euch herab von dem beeißten Joch,  
+So kommt ihr auf die Brücke, welche stäubet.  
+Wenn sie nicht einbricht unter eurer Schuld,  
+Wenn ihr sie glücklich hinter euch gelassen,  
+So reißt ein schwarzes Felsenthor sich auf,  
+Kein Tag hats noch erhellt – da geht ihr durch,  
+Es führt euch in ein heitres Thal der Freude –  
+Doch schnellen Schritts müßt ihr vorüber eilen,  
+Ihr dürft nicht weilen, wo die Ruhe wohnt.  
+Parricida  
+O Rudolph! Rudolph! Königlicher Ahn!  
+So zieht dein Enkel ein auf deines Reiches Boden!  
+Tell  
+So immer steigend, kommt ihr auf die Höhen  
+Des Gotthardts, wo die ewgen Seen sind,  
+Die von des Himmels Strömen selbst sich füllen.  
+Dort nehmt ihr Abschied von der deutschen Erde,
+
+`p00287` Und muntern Laufs führt euch ein andrer Strom  
+Ins Land Italien hinab, euch das gelobte –  
+(Man hört den Kuhreihen von vielen Alphörnern geblasen)  
+Ich höre Stimmen. Fort!  
+Hedwig (eilt herein)  
+ Wo bist du, Tell?  
+Der Vater kommt! Es nahn in frohem Zug  
+Die Eidgenossen alle –  
+Parricida (verhüllt sich)  
+ Wehe mir!  
+Ich darf nicht weilen bei den Glücklichen.  
+Tell  
+Geh, liebes Weib. Erfrische diesen Mann,  
+Belad ihn reich mit Gaben, denn sein Weg  
+Ist weit, und keine Herberg’ findet er.  
+Eile! Sie nahn.  
+Hedwig  
+ Wer ist es?  
+Tell  
+ Forsche nicht!
+
+`p00288` Und wenn er geht, so wende deine Augen,  
+Daß sie nicht sehen, welchen Weg er wandelt!
+
+`p00289` (Parricida geht auf den Tell zu mit einer raschen Bewegung, dieser aber bedeutet ihn mit der Hand und geht. Wenn beide zu verschiedenen Seiten abgegangen, verändert sich der Schauplatz, und man sieht in der
+
+`p00290` Letzten Scene
+
+`p00291` den ganzen Thalgrund vor Tells Wohnung, nebst den Anhöhen, welche ihn einschließen, mit Landleuten besetzt, welche sich zu einem Ganzen gruppiren. Andre kommen über einen hohen Steg, der über den Schächen führt, gezogen. Walther Fürst mit den beiden Knaben, Melchthal und Stauffacher kommen vorwärts, andre drängen nach; wie Tell heraustritt, empfangen ihn alle mit lautem Frohlocken)
+
+`p00292` Alle .  
+Es lebe Tell! der Schütz und der Erretter!
+
+`p00293` (Indem sich die vordersten um den Tell drängen und ihn umarmen, erscheinen noch Rudenz und Bertha, jener die Landleute, diese die Hedwig umarmend. Die Musik vom Berge begleitet diese stumme Scene. Wenn sie geendigt, tritt Bertha in die Mitte des Volks)
+
+`p00294` Bertha  
+Landleute! Eidgenossen! Nehmt mich auf  
+In euern Bund, die erste Glückliche,  
+Die Schutz gefunden in der Freiheit Land.  
+In eure tapfre Hand leg ich mein Recht,  
+Wollt ihr als eure Bürgerin mich schützen?  
+Landleute  
+Das wollen wir mit Gut und Blut.  
+Bertha  
+ Wohlan!  
+So reich ich diesem Jüngling meine Rechte,  
+Die freie Schweizerin dem freien Mann!  
+Rudenz  
+Und frei erklär’ ich alle meine Knechte.
+
+`p00295` (Indem die Musik von neuem rasch einfällt, fällt der Vorhang)

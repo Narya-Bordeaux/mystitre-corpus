@@ -1,0 +1,92 @@
+{
+ "formatVersion": 1,
+ "bookId": "guillaume-tell",
+ "sourceLanguage": "de",
+ "cleanTextSha256": "2db0b65f7f6bb37a02aaac28172dc853941059eb96fb3469ba2cbce176ed8841",
+ "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+ "speakers": {},
+ "opening": [
+  {
+   "id": "p00004.s1",
+   "original": "Es lächelt der See, er ladet zum Bade,\nDer Knabe schlief ein am grünen Gestade,\n     Da hört er ein Klingen,\n     Wie Flöten so süß,\n     Wie Stimmen der Engel\n     Im Paradieß.",
+   "translation": "Le lac sourit, il invite au bain,\nL’enfant s’est endormi sur la rive verte,\nEt il entend un son,\nDoux comme des flûtes,\nComme des voix d’anges\nAu paradis."
+  },
+  {
+   "id": "p00005.s1",
+   "original": "Und wie er erwachet in seliger Lust,\nDa spühlen die Wasser ihm um die Brust,\n     Und es ruft aus den Tiefen:\n     Lieb Knabe, bist mein!",
+   "translation": "Et quand il s’éveille dans une joie bienheureuse,\nLes eaux déjà lui baignent la poitrine,\nEt une voix monte des profondeurs :\nCher enfant, tu es à moi !"
+  },
+  {
+   "id": "p00005.s2",
+   "original": "Ich locke den Schläfer,\n     Ich zieh ihn herein.",
+   "translation": "J’attire le dormeur,\nJe l’entraîne avec moi."
+  },
+  {
+   "id": "p00005.s3",
+   "original": "Hirte (auf dem Berge)\n     (Variation des Kuhreihens)\nIhr Matten lebt wohl,\nIhr sonnigen Weiden!",
+   "translation": "Le Pâtre (sur la montagne)\n(Variation du ranz des vaches)\nAdieu, prairies,\nAdieu, pâturages ensoleillés !"
+  },
+  {
+   "id": "p00005.s4",
+   "original": "Der Senne muß scheiden,\nDer Sommer ist hin.",
+   "translation": "Le vacher doit partir,\nL’été est fini."
+  },
+  {
+   "id": "p00005.s5",
+   "original": "Wir fahren zu Berg, wir kommen wieder,\n     Wenn der Kukuk ruft, wenn erwachen die Lieder,\n     Wenn mit Blumen die Erde sich kleidet neu,\n     Wenn die Brünnlein fließen im lieblichen May.",
+   "translation": "Nous montons à l’alpage, nous reviendrons,\nQuand le coucou chantera, quand les chansons s’éveilleront,\nQuand la terre se parera de fleurs nouvelles,\nQuand les fontaines couleront au gracieux mois de mai."
+  }
+ ],
+ "closing": [
+  {
+   "id": "p00293.s1",
+   "original": "(Indem sich die vordersten um den Tell drängen und ihn umarmen, erscheinen noch Rudenz und Bertha, jener die Landleute, diese die Hedwig umarmend.",
+   "translation": "(Tandis que les premiers se pressent autour de Tell et l’embrassent, Rudenz et Bertha paraissent encore, lui embrassant les gens du pays, elle Hedwige."
+  },
+  {
+   "id": "p00293.s2",
+   "original": "Die Musik vom Berge begleitet diese stumme Scene.",
+   "translation": "La musique de la montagne accompagne cette scène muette."
+  },
+  {
+   "id": "p00293.s3",
+   "original": "Wenn sie geendigt, tritt Bertha in die Mitte des Volks)\nBertha\nLandleute!",
+   "translation": "Quand elle est finie, Bertha s’avance au milieu du peuple)\nBertha\nGens du pays !"
+  },
+  {
+   "id": "p00294.s1",
+   "original": "Eidgenossen!",
+   "translation": "Confédérés !"
+  },
+  {
+   "id": "p00294.s2",
+   "original": "Nehmt mich auf\nIn euern Bund, die erste Glückliche,\nDie Schutz gefunden in der Freiheit Land.",
+   "translation": "Recevez-moi\nDans votre alliance, la première heureuse\nQui ait trouvé protection au pays de la liberté."
+  },
+  {
+   "id": "p00294.s3",
+   "original": "In eure tapfre Hand leg ich mein Recht,\nWollt ihr als eure Bürgerin mich schützen?",
+   "translation": "Je remets mon droit entre vos mains vaillantes,\nVoulez-vous me protéger comme votre concitoyenne ?"
+  },
+  {
+   "id": "p00294.s4",
+   "original": "Landleute\nDas wollen wir mit Gut und Blut.",
+   "translation": "Les gens du pays\nNous le voulons, de notre bien et de notre sang."
+  },
+  {
+   "id": "p00294.s5",
+   "original": "Bertha\n Wohlan!",
+   "translation": "Bertha\nEh bien !"
+  },
+  {
+   "id": "p00294.s6",
+   "original": "So reich ich diesem Jüngling meine Rechte,\nDie freie Schweizerin dem freien Mann!",
+   "translation": "Alors je tends la main à ce jeune homme,\nLa Suissesse libre à l’homme libre !"
+  },
+  {
+   "id": "p00294.s7",
+   "original": "Rudenz\nUnd frei erklär’ ich alle meine Knechte.",
+   "translation": "Rudenz\nEt je déclare libres tous mes serfs."
+  }
+ ]
+}
