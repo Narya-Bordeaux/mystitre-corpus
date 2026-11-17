@@ -1,0 +1,82 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-veritable-histoire-dah-q",
+  "sourceLanguage": "zh",
+  "cleanTextSha256": "39b8b6905e6f43e49d286bb90569431b321031b99d7f3f5223db8450e8cc7b99",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "我要給阿Q做正傳，已經不止一兩年了。",
+      "translation": "Il y a plus d'un an ou deux que je veux écrire la véritable histoire d'Ah Q."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "但一面要做，一面又往回想，這足見我不是一個『立言』的人，因爲從來不朽之筆，須傳不朽之人，于是人以文傳，文以人傳——究竟誰靠誰傳，漸漸的不甚了然起來，而終於歸結到傳阿Q，彷彿思想裏有鬼似的。",
+      "translation": "Mais, tout en voulant l'écrire, je reviens sans cesse en arrière, ce qui prouve assez que je ne suis pas un homme « à laisser des paroles » : de tout temps, une plume immortelle doit transmettre un homme immortel, de sorte que l'homme se transmet par l'écrit et l'écrit par l'homme — et qui, au juste, transmet l'autre ? Je ne le vois plus très bien, et pourtant je finis par en venir à raconter Ah Q, comme si j'avais un démon dans la tête."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "然而要做這一篇速朽的文章，纔下筆，便感到萬分的困難了。",
+      "translation": "Mais à peine ai-je posé la plume pour composer ce texte voué à périr vite que je me heurte à des difficultés extrêmes."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "第一是文章的名目。",
+      "translation": "La première est le titre de l'ouvrage."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "孔子曰：『名不正則言不順。』",
+      "translation": "Confucius dit : « Si les noms ne sont pas corrects, les paroles ne suivent pas. »"
+    },
+    {
+      "id": "p00003.s4",
+      "original": "這原是應該極注意的。",
+      "translation": "C'est là une chose à laquelle il faut faire très grande attention."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "傳的名目很繁多：列傳、自傳、內傳、外傳、別傳、家傳、小傳，……而可惜都不合。",
+      "translation": "Les titres de biographie sont fort nombreux : biographie rangée, autobiographie, biographie intérieure, biographie extérieure, biographie à part, biographie de famille, notice… mais, hélas, aucun ne convient."
+    },
+    {
+      "id": "p00003.s6",
+      "original": "『列傳』麽，這一篇並非和許多闊人排在『正史』裏；『自傳』麽，我又並非就是阿Q。",
+      "translation": "« Biographie rangée » ? Ce récit n'est pas classé avec une foule de grands personnages dans l'« histoire officielle » ; « autobiographie » ? Je ne suis pas Ah Q moi-même."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00315.s2",
+      "original": "他早就兩眼發黑，耳朵裏嗡的一聲，覺得全身彷彿微塵似的迸散了。",
+      "translation": "Déjà ses yeux s'étaient obscurcis, un bourdonnement lui remplissait les oreilles, et il lui sembla que tout son corps éclatait comme une poussière menue."
+    },
+    {
+      "id": "p00316.s1",
+      "original": "至于當時的影響，最大的倒反在舉人老爺，因爲終是沒有追贓，他全家都號咷了。",
+      "translation": "Quant aux suites de l'affaire, la plus grande conséquence retomba sur le seigneur licencié, car on ne retrouva jamais le butin, et toute sa famille se mit à pleurer à grands cris."
+    },
+    {
+      "id": "p00316.s2",
+      "original": "其次是趙府，非特秀才因爲上城去報官，被不好的革命黨翦了辮子，而且又破費了二十千的賞錢，所以全家也號咷了。",
+      "translation": "Vint ensuite la maison Zhao : non seulement le bachelier, qui était allé en ville dénoncer l'affaire au mandarin, s'était fait couper la natte par de mauvais révolutionnaires, mais il lui en avait coûté vingt mille sapèques de récompense, et toute la famille se mit à pleurer à grands cris."
+    },
+    {
+      "id": "p00316.s3",
+      "original": "從這一天以來，他們便漸漸的都發生了遺老的氣味。",
+      "translation": "Depuis ce jour, ils prirent peu à peu l'air de vieux fidèles de la dynastie déchue."
+    },
+    {
+      "id": "p00317.s1",
+      "original": "至于輿論，在未莊是無異議，自然都說阿Q壞，被鎗斃便是他的壞的證據；不壞又何至于被鎗斃呢？",
+      "translation": "Quant à l'opinion publique, à Weizhuang elle fut unanime : tout le monde dit qu'Ah Q était mauvais, et qu'avoir été fusillé en était la preuve ; s'il n'avait pas été mauvais, comment aurait-il été fusillé ?"
+    },
+    {
+      "id": "p00317.s2",
+      "original": "而城裏的輿論卻不佳，他們多半不滿足，以爲鎗斃並無殺頭這般好看；而且那是怎樣的一個可笑的死囚呵，游了那麽久的街，竟沒有唱一句戲：他們白跟一趟了。",
+      "translation": "En ville, au contraire, l'opinion était mauvaise : la plupart n'étaient pas satisfaits, car une fusillade n'offrait pas le beau spectacle d'une décapitation ; et quel condamné ridicule, d'ailleurs, qui avait été promené si longtemps dans les rues sans chanter un seul morceau d'opéra : ils avaient fait tout ce chemin pour rien."
+    }
+  ]
+}
