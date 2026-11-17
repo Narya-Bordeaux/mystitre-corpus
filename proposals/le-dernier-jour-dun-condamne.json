@@ -1,0 +1,58 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dernier-jour-dun-condamne",
+  "title": "Le Dernier Jour d'un condamné",
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr",
+    "label": "Texte original libre de droits"
+  },
+  "translatedBy": null,
+  "source": {
+    "host": "fr.wikisource.org",
+    "edition": "Le Dernier Jour d’un Condamné, fr.wikisource.org, « éd. 1910 » (Œuvres complètes de Victor Hugo, édition dite de l’Imprimerie nationale) ; chapitres 01 et 49 (œuvre de 49 chapitres, deux bouts enregistrés)",
+    "pages": [
+      {
+        "title": "Le Dernier Jour d’un Condamné/éd. 1910/01",
+        "revisionId": 16005484
+      },
+      {
+        "title": "Le Dernier Jour d’un Condamné/éd. 1910/49",
+        "revisionId": 15963202
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "56383f69316e94e3d4b990060dd655383a181de879c731cb3f4fa25b9dd208a7"
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-17",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00004.s1",
+      "p00005.s1",
+      "p00006.s1",
+      "p00006.s2"
+    ],
+    "french": "Bicêtre.\nCondamné à mort !\nVoilà cinq semaines que j’habite avec cette pensée, toujours seul avec elle, toujours glacé de sa présence, toujours courbé sous son poids !\nAutrefois, car il me semble qu’il y a plutôt des années que des semaines, j’étais un homme comme un autre homme. Chaque jour, chaque heure, chaque minute avait son idée.",
+    "original": "Bicêtre.\nCondamné à mort !\nVoilà cinq semaines que j’habite avec cette pensée, toujours seul avec elle, toujours glacé de sa présence, toujours courbé sous son poids !\nAutrefois, car il me semble qu’il y a plutôt des années que des semaines, j’étais un homme comme un autre homme. Chaque jour, chaque heure, chaque minute avait son idée.",
+    "length": 337,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00016.s1",
+      "p00016.s2",
+      "p00016.s3",
+      "p00017.s1",
+      "p00017.s2",
+      "p00017.s3",
+      "p00018.s1",
+      "p00019.s1"
+    ],
+    "french": "Le juge et le bourreau sont sortis. Je suis seul. — Seul avec deux gendarmes.\nOh ! l’horrible peuple avec ses cris d’hyène ! — Qui sait si je ne lui échapperai pas ? si je ne serai pas sauvé ? si ma grâce ?… Il est impossible qu’on ne me fasse pas grâce !\nAh ! les misérables ! il me semble qu’on monte l’escalier…\nQUATRE HEURES.",
+    "original": "Le juge et le bourreau sont sortis. Je suis seul. — Seul avec deux gendarmes.\nOh ! l’horrible peuple avec ses cris d’hyène ! — Qui sait si je ne lui échapperai pas ? si je ne serai pas sauvé ? si ma grâce ?… Il est impossible qu’on ne me fasse pas grâce !\nAh ! les misérables ! il me semble qu’on monte l’escalier…\nQUATRE HEURES.",
+    "length": 329,
+    "truncated": false
+  }
+}

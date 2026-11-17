@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dernier-jour-dun-condamne",
+  "title": "Le Dernier Jour d'un condamné",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Le Dernier Jour d’un Condamné, fr.wikisource.org, « éd. 1910 » (Œuvres complètes de Victor Hugo, édition dite de l’Imprimerie nationale) ; chapitres 01 et 49 (œuvre de 49 chapitres, deux bouts enregistrés)",
+  "pages": [
+    {
+      "title": "Le Dernier Jour d’un Condamné/éd. 1910/01",
+      "revisionId": 16005484
+    },
+    {
+      "title": "Le Dernier Jour d’un Condamné/éd. 1910/49",
+      "revisionId": 15963202
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "56383f69316e94e3d4b990060dd655383a181de879c731cb3f4fa25b9dd208a7",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Bicêtre."
+  },
+  "bodyEnd": {
+    "id": "p00019",
+    "textPrefix": "QUATRE HEURES."
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclut titre d'édition et numéro de chapitre ; garde la mention de lieu « Bicêtre. » (premier paragraphe du récit) et « QUATRE HEURES. » final, qui est la dernière ligne du manuscrit fictif. Préface exclue (non enregistrée)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
