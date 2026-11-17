@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "bel-ami",
+  "title": "Bel-Ami",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "Bel-Ami, édition Ollendorff, 1901 (Wikisource) ; deux chapitres seulement : Première partie I et Deuxième partie X",
+  "pages": [
+    {
+      "title": "Bel-Ami/Édition Ollendorff, 1901/Première Partie/I",
+      "revisionId": 5631989
+    },
+    {
+      "title": "Bel-Ami/Édition Ollendorff, 1901/Deuxième Partie/X",
+      "revisionId": 5642918
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "cd918b56e4bef5479350f8cd73cef7c526b3e0066083ce9dfa168a090bf2c188",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "Quand la caissière lui eut rendu la monnaie de sa pièce de c"
+  },
+  "bodyEnd": {
+    "id": "p00268",
+    "textPrefix": "Il descendit avec lenteur les marches du haut perron entre d"
+  },
+  "textOrigin": {
+    "kind": "frenchOriginal",
+    "originalLanguage": "fr"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre de partie « PREMIÈRE PARTIE », numéro de chapitre « I » (début) ; aucun paratexte en fin (le dernier paragraphe est la fin du roman)."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
