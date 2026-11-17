@@ -1,0 +1,97 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-reve-dans-le-pavillon-rouge",
+  "sourceLanguage": "zh",
+  "cleanTextSha256": "722b7ab2710dab5565f0fa8e1b3610e1db047603096872572b80762f47ac3544",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "作者自云：因曾歷過一番夢幻之後，故將真事隱去，而借通靈之說，撰此《石頭記》一書也。",
+      "translation": "L'auteur déclare qu'après avoir traversé une expérience semblable à un rêve, il en a caché les faits véritables pour composer, sous le couvert d'une pierre merveilleuse, ce livre qu'il intitule « Histoire de la pierre »."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "故曰「甄士隱夢幻識通靈」。",
+      "translation": "Aussi dit-on : « Zhen Shiyin, dans un songe, reconnaît la pierre merveilleuse. »"
+    },
+    {
+      "id": "p00003.s3",
+      "original": "但書中所記何事，又因何而撰是書哉？",
+      "translation": "Mais de quels événements ce livre rend-il compte, et pourquoi l'avoir écrit ?"
+    },
+    {
+      "id": "p00003.s4",
+      "original": "自又云：今風塵碌碌，一事無成，忽念及當日所有之女子，一一細推了去，覺其行止見識，皆出於我之上。",
+      "translation": "Il dit encore : « Aujourd'hui, ballotté par la poussière du monde, je n'ai rien accompli ; et voilà que je songe soudain aux jeunes femmes d'autrefois : en les passant une à une en revue, je trouve leur conduite et leur discernement bien supérieurs aux miens."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "何我堂堂之鬚眉，曾不若彼裙釵哉！",
+      "translation": "Comment, moi, homme à la barbe et aux sourcils altiers, ne vaudrais-je pas ces femmes en jupe et en épingles de cheveux !"
+    },
+    {
+      "id": "p00003.s6",
+      "original": "實愧則有餘，悔又無益之大無可奈何之日也！",
+      "translation": "Ma honte est plus que suffisante, et le regret ne sert plus à rien : quel jour de désespoir impuissant !"
+    },
+    {
+      "id": "p00003.s7",
+      "original": "當此時，則自欲將已往所賴，上賴天恩，下承祖德，錦衣紈絝之時、飫甘饜美肥之日，背父母教育之恩，負師兄規訓之德，已至今日一事無成、半生潦倒之罪，編述一記，以告普天下人。",
+      "translation": "En ce temps-là, je voulais, pour tout ce que j'avais reçu — la faveur du Ciel en haut, les vertus de mes ancêtres en bas, les temps des soies et des brocarts, les jours de mets fins et de chère abondante —, pour avoir tourné le dos aux bontés de mes parents, trahi les leçons de mes maîtres et de mes aînés, et abouti aujourd'hui à n'avoir rien accompli, à une vie à moitié gâchée, en faire pénitence en composant un récit, pour le dire au monde entier."
+    },
+    {
+      "id": "p00003.s8",
+      "original": "我之罪固不能免，然閨閣中本自歷歷有人，萬不可因我之不肖，自護其短，則一併使其泯滅也。",
+      "translation": "Ma faute ne saurait être excusée, mais les gynécées comptaient bien des êtres remarquables, et je ne dois pas, parce que je suis indigne, cacher mes torts et laisser tout cela sombrer dans l'oubli. »"
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00064.s4",
+      "original": "空空道人便問：「先生何以認得此人，便肯替他傳述？」",
+      "translation": "Le Taoïste Vide-Vide lui demanda : « Comment, maître, connaissez-vous cet homme, au point de consentir à transmettre son récit ? »"
+    },
+    {
+      "id": "p00064.s5",
+      "original": "曹雪芹先生笑道：「說你空，原來你肚里果然空空。",
+      "translation": "Maître Cao Xueqin éclata de rire : « Vous vous dites vide, et vous l'êtes bien en effet, jusqu'au ventre !"
+    },
+    {
+      "id": "p00064.s6",
+      "original": "既是假語村言，但無魯魚亥豕以及背謬矛盾之處，樂得與二三同志，酒餘飯飽，雨夕燈窗之下，同消寂寞，又不必大人先生品題傳世，似你這樣尋根問底，便是刻舟求劍，膠柱鼓瑟了。」",
+      "translation": "Puisque ce sont des « paroles fausses dans un langage de village », pourvu qu'il n'y ait ni caractères confondus, ni contradictions ou absurdités, je suis heureux, avec quelques amis, une fois le vin bu et le repas pris, le soir sous la pluie, près de la lampe et de la fenêtre, de tromper avec eux la solitude ; nul besoin que de grands personnages le commentent pour le transmettre à la postérité. Vous qui cherchez ainsi la racine des choses, vous marquez le bateau pour retrouver l'épée tombée à l'eau et vous collez les chevilles du luth pour en jouer. »"
+    },
+    {
+      "id": "p00064.s7",
+      "original": "那空空道人聽了，仰天大笑，擲下抄本，飄然而去。",
+      "translation": "Le Taoïste Vide-Vide, à ces mots, éclata d'un grand rire vers le ciel, jeta la copie et s'éloigna d'un pas léger."
+    },
+    {
+      "id": "p00064.s8",
+      "original": "一面走著，口中說道：「果然是敷衍荒唐！",
+      "translation": "Tout en marchant, il disait : « Vraiment, tout cela n'est que divagation !"
+    },
+    {
+      "id": "p00064.s9",
+      "original": "不但作者不知，抄者不知，并閱者也不知。",
+      "translation": "L'auteur n'en sait rien, le copiste n'en sait rien, et le lecteur n'en saura rien non plus."
+    },
+    {
+      "id": "p00064.s10",
+      "original": "不過游戲筆墨，陶情适性而已！」",
+      "translation": "Ce n'est qu'un jeu de pinceau, pour réjouir le cœur et suivre son penchant ! »"
+    },
+    {
+      "id": "p00064.s11",
+      "original": "後人見了這本奇傳，亦曾題過四句偈语，為作者緣起之言更轉一竿頭云：\n說到辛酸處，荒唐愈可悲。",
+      "translation": "Plus tard, ceux qui lurent ce récit étrange composèrent encore un quatrain, qui, comme un échelon de plus après l'exposé de l'auteur, dit :\nAu point où l'on atteint l'amertume, l'absurde n'en est que plus triste."
+    },
+    {
+      "id": "p00065.s1",
+      "original": "由來同一夢，休笑世人痴！",
+      "translation": "Depuis toujours tout cela n'est qu'un seul rêve : ne riez pas de la folie des hommes !"
+    }
+  ]
+}

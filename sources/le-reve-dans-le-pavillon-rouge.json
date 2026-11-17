@@ -1,0 +1,40 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-reve-dans-le-pavillon-rouge",
+  "title": "Le Rêve dans le pavillon rouge",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Texte de zh.wikisource « 紅樓夢 », 120 chapitres ; édition non indiquée",
+  "pages": [
+    {
+      "title": "紅樓夢/第001回",
+      "revisionId": 2703826
+    },
+    {
+      "title": "紅樓夢/第120回",
+      "revisionId": 2371692
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "722b7ab2710dab5565f0fa8e1b3610e1db047603096872572b80762f47ac3544",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "作者自云：因曾歷過一番夢幻之後，故將真事隱去，而借通靈之說，撰此《石頭記》一書也。故曰「甄士隱夢幻識通靈」。但書中所記何"
+  },
+  "bodyEnd": {
+    "id": "p00065",
+    "textPrefix": "說到辛酸處，荒唐愈可悲。\n由來同一夢，休笑世人痴！"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : navigation (回目录/下一回), intitulés de chapitres (回目), mentions de domaine public. Début : préambule « 作者自云 » du chapitre 1, qui appartient au texte de cette édition. Fin : quatrain final de l'ouvrage, chapitre 120."
+  ],
+  "titleMasks": [
+    "Histoire de la pierre"
+  ],
+  "readingOptions": []
+}
