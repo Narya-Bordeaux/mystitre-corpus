@@ -1,0 +1,192 @@
+{
+  "formatVersion": 1,
+  "bookId": "marie-stuart",
+  "sourceLanguage": "de",
+  "cleanTextSha256": "d6dafece5b688360ba8744f6d084a14dae35583a251dc6fd755c49f585e88aa8",
+  "translatedBy": "Claude (agent), traduction sur l’original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00004.s1",
+      "original": "Kennedy.",
+      "translation": "Kennedy."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "Was macht ihr, Sir?",
+      "translation": "Que faites-vous, sir ?"
+    },
+    {
+      "id": "p00004.s3",
+      "original": "Welch neue Dreistigkeit!",
+      "translation": "Quelle nouvelle audace !"
+    },
+    {
+      "id": "p00004.s4",
+      "original": "Zurück von diesem Schrank!",
+      "translation": "Éloignez-vous de cette armoire !"
+    },
+    {
+      "id": "p00004.s5",
+      "original": "Paulet.",
+      "translation": "Paulet."
+    },
+    {
+      "id": "p00004.s6",
+      "original": "Wo kam der Schmuck her?",
+      "translation": "D’où venait ce bijou ?"
+    },
+    {
+      "id": "p00004.s7",
+      "original": "Vom obern Stock ward er herabgeworfen,\nDer Gärtner hat bestochen werden sollen\nMit diesem Schmuck – Fluch über Weiberlist!",
+      "translation": "On l’a jeté de l’étage supérieur,\nOn voulait corrompre le jardinier\nAvec ce bijou… maudites soient les ruses des femmes !"
+    },
+    {
+      "id": "p00004.s8",
+      "original": "Trotz meiner Aufsicht, meinem scharfen Suchen,\nNoch Kostbarkeiten, noch geheime Schätze!",
+      "translation": "Malgré ma surveillance, malgré mes fouilles minutieuses,\nEncore des objets précieux, encore des trésors cachés !"
+    },
+    {
+      "id": "p00004.s9",
+      "original": "(Sich über den Schrank machend.)",
+      "translation": "(Se jetant sur l’armoire.)"
+    },
+    {
+      "id": "p00004.s10",
+      "original": "Wo das gesteckt hat, liegt noch mehr!",
+      "translation": "Là où cela était caché, il y a encore autre chose !"
+    },
+    {
+      "id": "p00005.s1",
+      "original": "Kennedy.",
+      "translation": "Kennedy."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "Zurück, Verwegner!",
+      "translation": "Arrière, audacieux !"
+    },
+    {
+      "id": "p00005.s3",
+      "original": "Hier liegen die Geheimnisse der Lady.",
+      "translation": "Ici reposent les secrets de la lady."
+    },
+    {
+      "id": "p00005.s4",
+      "original": "Paulet.",
+      "translation": "Paulet."
+    },
+    {
+      "id": "p00005.s5",
+      "original": "Die eben such’ ich.",
+      "translation": "C’est justement ce que je cherche."
+    },
+    {
+      "id": "p00005.s6",
+      "original": "(Schriften hervorziehend.)",
+      "translation": "(Tirant des papiers.)"
+    },
+    {
+      "id": "p00005.s7",
+      "original": "Kennedy.",
+      "translation": "Kennedy."
+    },
+    {
+      "id": "p00005.s8",
+      "original": "Unbedeutende\nPapiere, bloße Uibungen der Feder,\nDes Kerkers traur’ge Weile zu verkürzen.",
+      "translation": "Des papiers\nSans importance, de simples exercices de plume,\nPour abréger les tristes heures du cachot."
+    },
+    {
+      "id": "p00005.s9",
+      "original": "Paulet.",
+      "translation": "Paulet."
+    },
+    {
+      "id": "p00005.s10",
+      "original": "In müß’ger Weile schafft der böse Geist.",
+      "translation": "Dans l’oisiveté, le malin esprit travaille."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00144.s9",
+      "original": "– Mir aber, große Königin, erlaube,\nDaß ich das Siegel, das du mir zwölf Jahre\nVertraut, zurück in deine Hände gebe.",
+      "translation": "… Mais à moi, grande reine, permets\nQue je rende entre tes mains le sceau\nQue tu m’as confié pendant douze ans."
+    },
+    {
+      "id": "p00144.s10",
+      "original": "Elisabeth (betroffen).",
+      "translation": "Élisabeth (saisie)."
+    },
+    {
+      "id": "p00144.s11",
+      "original": "Nein, Schrewsbury!",
+      "translation": "Non, Shrewsbury !"
+    },
+    {
+      "id": "p00144.s12",
+      "original": "Ihr werdet mich jetzt nicht\nVerlassen, jetzt –\nSchrewsbury.",
+      "translation": "Vous ne me\nQuitterez pas maintenant, maintenant…\nShrewsbury."
+    },
+    {
+      "id": "p00145.s1",
+      "original": "Verzeih, ich bin zu alt,\nUnd diese grade Hand, sie ist zu starr,\nUm deine neuen Thaten zu versiegeln.",
+      "translation": "Pardonne-moi, je suis trop vieux,\nEt cette main loyale est trop raide\nPour sceller tes actes nouveaux."
+    },
+    {
+      "id": "p00145.s2",
+      "original": "Elisabeth.",
+      "translation": "Élisabeth."
+    },
+    {
+      "id": "p00145.s3",
+      "original": "Verlassen wollte mich der Mann, der mir\nDas Leben rettete?",
+      "translation": "Il voulait m’abandonner, l’homme qui m’a\nSauvé la vie ?"
+    },
+    {
+      "id": "p00145.s4",
+      "original": "Schrewsbury.",
+      "translation": "Shrewsbury."
+    },
+    {
+      "id": "p00145.s5",
+      "original": "Ich habe wenig\nGethan – Ich habe deinen edlern Theil\nNicht retten können.",
+      "translation": "J’ai fait\nBien peu… Je n’ai pu sauver\nLa meilleure part de toi."
+    },
+    {
+      "id": "p00145.s6",
+      "original": "Lebe, herrsche glücklich!",
+      "translation": "Vis, règne heureuse !"
+    },
+    {
+      "id": "p00145.s7",
+      "original": "Die Gegnerin ist todt.",
+      "translation": "Ton ennemie est morte."
+    },
+    {
+      "id": "p00145.s8",
+      "original": "Du hast von nun an\nNichts mehr zu fürchten, brauchst nichts mehr zu achten.",
+      "translation": "Tu n’as désormais\nPlus rien à craindre, plus rien à ménager."
+    },
+    {
+      "id": "p00145.s9",
+      "original": "Elisabeth.",
+      "translation": "Élisabeth."
+    },
+    {
+      "id": "p00145.s10",
+      "original": "Graf Lester komme her!",
+      "translation": "Que le comte Leicester vienne ici !"
+    },
+    {
+      "id": "p00145.s11",
+      "original": "Kent.",
+      "translation": "Kent."
+    },
+    {
+      "id": "p00145.s12",
+      "original": "Der Lord läßt sich\nEntschuldigen, er ist zu Schiff nach Frankreich.",
+      "translation": "Le lord s’excuse,\nIl s’est embarqué pour la France."
+    }
+  ]
+}

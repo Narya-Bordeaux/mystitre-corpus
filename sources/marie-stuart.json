@@ -1,0 +1,69 @@
+{
+  "formatVersion": 1,
+  "bookId": "marie-stuart",
+  "title": "Marie Stuart",
+  "host": "de.wikisource.org",
+  "sourceLanguage": "de",
+  "edition": "Maria Stuart, Wikisource allemand (pages d'actes) ; édition non indiquée",
+  "pages": [
+    {
+      "title": "Maria Stuart/Erster Aufzug",
+      "revisionId": 895109
+    },
+    {
+      "title": "Maria Stuart/Fünfter Aufzug",
+      "revisionId": 1000728
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "d6dafece5b688360ba8744f6d084a14dae35583a251dc6fd755c49f585e88aa8",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "Hanna Kennedy, Amme der Königin von Schottland in heftigem S"
+  },
+  "bodyEnd": {
+    "id": "p00145",
+    "textPrefix": "Schrewsbury.\n Verzeih, ich bin zu alt,\nUnd diese grade Hand,"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "de"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "provisoire",
+    "Exclus : titres d'acte et de scène, décor (p00001-p00003), didascalies d'entrée de scène et de fin retirées par correction. Début à la première réplique de Kennedy, fin sur la dernière réplique de Kent."
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "Hanna Kennedy, Amme der Königin von Schottland in heftigem Streit mit Paulet, der im Begriff ist, einen Schrank zu öffnen.\nDrugeon Drury, sein Gehilfe, mit Brecheisen.\n",
+      "replace": "",
+      "reason": "Didascalie d'entrée de scène (personnages en présence) laissée en tête de paragraphe, pas du texte dit"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00145",
+      "find": "\n(Sie bezwingt sich und steht mit ruhiger Fassung da. Der Vorhang fällt.)",
+      "replace": "",
+      "reason": "Didascalie finale (chute du rideau), pas du texte dit"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00145",
+      "find": "\n(Geht ab.)",
+      "replace": "",
+      "reason": "Didascalie interne retirée du texte lu"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00145",
+      "find": "Elisabeth. (zum Grafen Kent, der hereintritt).",
+      "replace": "Elisabeth.",
+      "reason": "Didascalie interne retirée du texte lu"
+    }
+  ]
+}
