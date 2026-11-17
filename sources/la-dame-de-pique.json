@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-dame-de-pique",
+  "title": "La Dame de pique",
+  "host": "fr.wikisource.org",
+  "sourceLanguage": "fr",
+  "edition": "La Dame de Pique, de Pouchkine, traduite par Prosper Mérimée, Revue des Deux Mondes, 1849, tome 3 (fr.wikisource)",
+  "pages": [
+    {
+      "title": "La Dame de Pique, de Pouchkine",
+      "revisionId": 13858051
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "052b1a195cf7d80f4a5be1e7e9e56e8f7f146c13cef80a2d45e07fba614e98e5",
+  "bodyStart": {
+    "id": "p00004",
+    "textPrefix": "On jouait chez Naroumof, lieutenant aux gardes à cheval. Une"
+  },
+  "bodyEnd": {
+    "id": "p00200",
+    "textPrefix": "Tomski a passé chef d’escadron. Il a épousé la princesse Pau"
+  },
+  "textOrigin": {
+    "kind": "publicDomainTranslation",
+    "originalLanguage": "ru",
+    "translator": "Prosper Mérimée",
+    "translationYear": 1849,
+    "translatorDeathYear": null,
+    "translatorDeathYearSource": null,
+    "publicDomainBasis": "translationAge"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titre, numéros de chapitre, intertitre « CONCLUSION. » (titre), signature « P. Mérimée. » du traducteur. Épigraphes de chapitre absents de l'édition."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
