@@ -1,0 +1,38 @@
+{
+  "formatVersion": 1,
+  "bookId": "chroniques-de-letrange",
+  "title": "Chroniques de l'étrange",
+  "host": "zh.wikisource.org",
+  "sourceLanguage": "zh",
+  "edition": "Texte de zh.wikisource « 聊齋志異 », 12 volumes ; édition non indiquée",
+  "pages": [
+    {
+      "title": "聊齋志異/第01卷",
+      "revisionId": 7908703
+    },
+    {
+      "title": "聊齋志異/第12卷",
+      "revisionId": 1120733
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "0003495998019365d954535a44060f1d52975d773f0e870b0189c27bdc43ab88",
+  "bodyStart": {
+    "id": "p00002",
+    "textPrefix": "　　予姊夫之祖，宋公諱燾，邑廩生。一日，病臥，見吏持牒牽白顛馬來，云：「請赴試。」公言：「文宗未臨，何遽得考？」吏不言，"
+  },
+  "bodyEnd": {
+    "id": "p00273",
+    "textPrefix": "　　仕宦中有妹養宮中而字貴人者，有將官某代作啟，中警句云：「令弟從長，奕世近龍光，貂珥曾參于畫室；舍妹夫人，十年陪鳳輦，"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "zh"
+  },
+  "registeredOn": "2026-11-17",
+  "notes": [
+    "Exclus : titres des contes (intitulés), et la préface de l'auteur « 作者自志 » (paratexte, non enregistrée) ; l'ancienne ouverture venait de cette préface. Début : premier conte du volume 1 (考城隍). Fin : dernier conte du volume 12 (愛才), dernier texte de l'édition."
+  ],
+  "titleMasks": [],
+  "readingOptions": []
+}
