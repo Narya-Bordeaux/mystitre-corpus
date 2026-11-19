@@ -1,6 +1,6 @@
 # Résumés — vague1-2
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `notre-dame-de-paris`, `le-dernier-jour-dun-condamne`, `lhomme-qui-rit`, `les-travailleurs-de-la-mer`, `quatrevingt-treize`, `ruy-blas`, `hernani`, `lucrece-borgia`, `han-dislande`, `bug-jargal`, `rene-chateaubriand`
 - Créée le : 2026-11-19
 
@@ -22,21 +22,25 @@ Les cloches m'ont rendu sourd, et l'on rit de mon visage ; je n'ai pour monde qu
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Quasimodo est élu pape des fous | `pape des fous`, `Quasimodo` | à vérifier | |
-| La chèvre d'Esmeralda s'appelle Djali | `Djali` | à vérifier | |
-| Esmeralda donne à boire à Quasimodo attaché au pilori | `pilori`, `à boire` | à vérifier | |
-| Frollo poignarde Phœbus lors du rendez-vous | `poignard`, `Phœbus`, `Phoebus` | à vérifier | |
-| Quasimodo est devenu sourd à force de sonner les cloches | `sourd`, `cloches` | à vérifier | |
-| Quasimodo précipite Frollo du haut des tours de la cathédrale | `précipit`, `balustrade`, `Frollo` | à vérifier | |
-| Le squelette de Quasimodo est retrouvé enlaçant celui d'Esmeralda | `squelette`, `Montfaucon` | à vérifier | |
+| Quasimodo est élu pape des fous | `pape des fous`, `Quasimodo` | confirmé | `p00401`, `p00404`, `p00405` |
+| La chèvre d'Esmeralda s'appelle Djali | `Djali` | confirmé | `p00506`, `p00508` |
+| Esmeralda donne à boire à Quasimodo attaché au pilori | `pilori`, `à boire` | confirmé | `p01529`, `p01532` |
+| Frollo poignarde Phœbus lors du rendez-vous | `poignard`, `Phœbus`, `Phoebus` | confirmé | `p02397` (aveu de Frollo) |
+| Quasimodo est devenu sourd à force de sonner les cloches | `sourd`, `cloches` | confirmé | `p00440` |
+| Quasimodo précipite Frollo du haut des tours de la cathédrale | `précipit`, `balustrade`, `Frollo` | confirmé | `p03717`, `p03719`, `p03721` |
+| Le squelette de Quasimodo est retrouvé enlaçant celui d'Esmeralda | `squelette`, `Montfaucon` | confirmé | `p03748` (squelette d'homme à la colonne déviée et à la jambe plus courte, comme `p00405` ; squelette de femme en robe blanche, comme `p03716`) |
 
 ### Notes
 
 - `personalSummary` : Quasimodo parle (l'ancien texte donnait la voix à Esmeralda). Il est le seul à traverser le dénouement entier (la pendaison, la chute de Frollo, la mort au charnier), ce qui permet de raconter jusqu'à la fin à la première personne. « Je suis allé la rejoindre parmi les morts » : image volontairement large pour Montfaucon, qu'il ne nomme pas.
+- Vérification : confirmé — la peine est un fouet, « carillon de houssines par les carrefours » (`p01287`), et le pilori se dresse à la Grève (`p00489`).
 - Titre : « Notre-Dame » et « Paris » sont deux noms propres du titre, tous deux évités ; la cathédrale et la ville restent sans nom. « La cathédrale » et « 1482 » suffisent à situer.
 - Doute : je crois qu'Esmeralda danse le soir du 6 janvier sur la place de Grève, où Gringoire la découvre ; je n'ai pas nommé le lieu. La date du 6 janvier 1482 n'est pas relevée en fait : elle figure dans la première phrase de la fiche.
+- Vérification : confirmé — la fête du 6 janvier a pour centre le feu de joie de la Grève (`p00051`), où Gringoire arrive (`p00492`) ; la danse se fait autour du feu (`p00494`, `p00495`). La date du 6 janvier 1482 est dans le texte (`p00049`).
 - Doute : l'enlèvement manqué a lieu le soir même, Phœbus intervient avec ses archers ; Quasimodo est pris, Frollo s'enfuit. Non détaillé.
+- Vérification : confirmé — la scène est nocturne (`p00611`), le capitaine des archers est Phœbus (`p00609`, `p00610`, `p00615`), Quasimodo est garrotté (`p00611`). Le compagnon « disparaît dans la lutte » (`p00612`), identifié à Frollo (`p00627`) : le texte dit donc « disparaître » là où la note dit « s'enfuit », sans contradiction.
 - Doute : Frollo meurt en regardant la pendaison depuis la balustrade, poussé par Quasimodo ; il s'accrocherait à une gouttière avant de tomber. « Du haut des tours » me semble sûr, le reste non écrit.
+- Vérification : confirmé — Frollo regarde la pendaison, à genoux sur la balustrade (`p03717`), s'accroche à la gouttière (`p03721` à `p03724`) et est poussé par Quasimodo (`p03719`).
 - Simplifications : la mère d'Esmeralda (la recluse, Paquette la Chantefleurie, dite Gudule) et la reconnaissance avant la pendaison sont omises, Gringoire aussi ; l'assaut des truands contre la cathédrale n'est pas dit.
 - Fiche du catalogue : rien de contraire à ma mémoire ; les descriptions sont très générales.
 
@@ -61,21 +65,24 @@ Depuis cinq semaines, une seule pensée m'habite : la loi va me couper la tête.
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur est enfermé à Bicêtre au début | `Bicêtre` | à vérifier | |
-| Il assiste au ferrement des forçats qui partent pour le bagne | `forçats`, `chaîne`, `ferre` | à vérifier | |
-| Il a formé un pourvoi, qui est rejeté | `pourvoi`, `cassation` | à vérifier | |
-| Un autre condamné lui prend sa redingote à la Conciergerie | `redingote`, `friauche`, `Conciergerie` | à vérifier | |
-| Sa petite fille s'appelle Marie | `Marie` | à vérifier | |
-| Sa fille ne le reconnaît pas et lui dit que son papa est mort | `papa`, `monsieur` | à vérifier | |
-| Il passe ses dernières heures à l'Hôtel de Ville, sur la place de Grève | `Hôtel de Ville`, `Grève` | à vérifier | |
+| Le narrateur est enfermé à Bicêtre au début | `Bicêtre` | confirmé | `p00003` |
+| Il assiste au ferrement des forçats qui partent pour le bagne | `forçats`, `chaîne`, `ferre` | hors zone | absent des pages enregistrées |
+| Il a formé un pourvoi, qui est rejeté | `pourvoi`, `cassation` | hors zone | absent des pages enregistrées |
+| Un autre condamné lui prend sa redingote à la Conciergerie | `redingote`, `friauche`, `Conciergerie` | hors zone | absent des pages enregistrées |
+| Sa petite fille s'appelle Marie | `Marie` | hors zone | absent des pages enregistrées |
+| Sa fille ne le reconnaît pas et lui dit que son papa est mort | `papa`, `monsieur` | hors zone | absent des pages enregistrées |
+| Il passe ses dernières heures à l'Hôtel de Ville, sur la place de Grève | `Hôtel de Ville`, `Grève` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
 - `personalSummary` : le condamné parle, comme dans son journal. « La loi va me couper la tête » remplace « je suis condamné à mort », trop proche du titre et de la première phrase de l'œuvre.
 - Titre : « dernier », « jour » et « condamné » sont des mots courants ; « condamné à mort » apparaît une fois dans le `summary`, « dernières semaines » et « dernière fois » aussi. Je les juge permis (mots courants, aucun n'est rare), mais la combinaison « dernier jour » est évitée.
 - Doute sur l'ordre : je crois que le rejet du pourvoi est annoncé le matin même de l'exécution, et que le transfert à la Conciergerie a lieu aussitôt ; la visite de Marie aurait lieu à la Conciergerie ou à l'Hôtel de Ville, je ne sais plus où. Je ne l'ai pas située.
+- Vérification : hors zone — ni le rejet du pourvoi, ni le transfert, ni la visite de Marie ne figurent dans les chapitres enregistrés. Le chapitre XLIX (`p00011` à `p00019`) montre seulement le juge, le bourreau et les gendarmes, puis « QUATRE HEURES ». Ordre non tranchable sur ce corpus.
 - Doute : l'échange de vêtements avec le « friauche », condamné aux galères qui lui prend sa redingote, se passe à la Conciergerie (la fiche dit « un autre condamné échange ses vêtements », ce qui va dans ce sens). Le mot « friauche » est de mémoire.
+- Vérification : hors zone — le mot « friauche » et l'échange de redingote ne figurent pas dans les pages enregistrées (recherche des termes « friauche », « redingote », « Conciergerie » : aucune occurrence).
 - Doute : les dernières pages sont écrites dans une pièce de l'Hôtel de Ville, sur la place de Grève ; j'ai écrit « face à la place » sans nommer la Grève dans le texte.
+- Vérification : hors zone — ni « Hôtel de Ville » ni « Grève » n'apparaissent dans les pages enregistrées ; le chapitre XLIX reste dans la cellule, avec « il me semble qu'on monte l'escalier… » (`p00018`).
 - Simplifications : la préface (« Une comédie à propos d'une tragédie »), la chanson d'argot, la mère et la femme du narrateur, le prêtre sont omis.
 - Fiche du catalogue : d'accord avec ma mémoire. Les « cinq semaines » ne sont pas relevées : elles sont dans la première phrase de la fiche.
 
@@ -100,22 +107,29 @@ Des inconnus m'ont taillé, enfant, ce rire que je ne peux plus quitter, puis m'
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'enfant est abandonné sur la côte en 1690 | `1690`, `Portland` | à vérifier | |
-| Ceux qui l'ont mutilé et abandonné sont des comprachicos | `comprachicos` | à vérifier | |
-| La confession des comprachicos est jetée à la mer dans une bouteille | `gourde`, `bouteille`, `Matutina` | à vérifier | |
-| Gwynplaine est le fils de lord Clancharlie | `Clancharlie` | à vérifier | |
-| Le discours de Gwynplaine devant les lords déclenche les rires | `lords`, `rire` | à vérifier | |
-| Dea meurt sur le navire qui emmène Ursus en exil | `Dea`, `Vograat` | à vérifier | |
+| L'enfant est abandonné sur la côte en 1690 | `1690`, `Portland` | hors zone | absent des pages enregistrées (ni « 1690 » ni « Portland » ; l'abandon relève de la première partie) |
+| Les comprachicos défigurent des enfants pour les vendre | `comprachicos`, `défigur`, `commerce des enfants` | confirmé | `p00131`, `p00164` |
+| Ceux qui ont mutilé et abandonné Gwynplaine sont des comprachicos | `comprachicos`, `abandonné` | hors zone | absent des pages enregistrées |
+| La confession des comprachicos est jetée à la mer dans une bouteille | `gourde`, `bouteille`, `Matutina` | hors zone | absent des pages enregistrées (ni « gourde » ni « Matutina ») |
+| Gwynplaine est le fils de lord Clancharlie | `Clancharlie` | hors zone | absent des pages enregistrées (« Clancharlie » n'apparaît que dans la liste des pairs, `p00114` à `p00117`) |
+| Le discours de Gwynplaine devant les lords déclenche les rires | `lords`, `rire` | hors zone | absent des pages enregistrées (la Chambre des lords n'est nommée qu'en `p00327`, sans discours ni rire) |
+| Dea meurt à bord du navire, pendant la traversée | `Dea`, `matelas`, `mer` | confirmé | `p00373`, `p00398`, `p00403` |
+| Le navire emmène Ursus et Dea vers Rotterdam, loin de l'Angleterre | `Vograat`, `Rotterdam`, `Hollande` | confirmé | `p00206`, `p00260`, `p00266` (le mot « exil » n'est pas écrit dans les pages enregistrées) |
 
 ### Notes
 
 - `personalSummary` : Gwynplaine parle. Il dit « je suis revenu vers elle » et non le détail du loup qui le guide jusqu'au navire.
 - Titre : « homme » et « rit » sont des mots courants ; « rire » est employé, au cœur de l'histoire, mais jamais la formule « l'homme qui rit », surnom de scène de Gwynplaine.
 - Doute : je crois que la côte est celle de Portland (Dorset) et que l'enfant marche jusqu'à Weymouth ; j'ai écrit « une côte anglaise ». La date de janvier 1690 me semble sûre, mais à confirmer.
+- Vérification : hors zone — « Portland », « Weymouth » et « 1690 » sont absents des pages enregistrées ; l'abandon de l'enfant relève de la première partie, non enregistrée.
 - Doute : la confession aurait été enfermée dans une gourde (une flasque goudronnée) plutôt qu'une bouteille, jetée par les comprachicos au moment où leur ourque, la *Matutina*, sombre. J'ai écrit « une confession jetée à la mer », plus large.
+- Vérification : hors zone — ni « gourde », ni « bouteille » dans la confession, ni « Matutina » ne figurent dans les pages enregistrées (la seule « bouteille » est une image de croissance, `p00167`).
 - Doute : le navire du départ, sur la Tamise, s'appellerait la *Vograat*, en partance pour la Hollande ; Ursus et Dea sont chassés d'Angleterre. Graphie incertaine.
+- Vérification : confirmé — le bâtiment porte l'inscription « Vograat. Rotterdam. » (`p00206`) ; la traversée part de la Tamise (`p00349`) et vise la Hollande (`p00266`). Graphie confirmée.
 - Doute : « mort dans mes bras » : Dea meurt d'émotion, je crois dans les bras de Gwynplaine ; à confirmer (la fin est dans le corpus).
+- Vérification : confirmé en partie — Dea meurt sous les yeux de Gwynplaine, qui lui baise les mains (`p00397`). « Dans mes bras » n'est pas écrit : détail hors zone, sans contradiction du texte.
 - Simplifications : la duchesse Josiane, lord David Dirry-Moir, Barkilphedro, Hardquanonne et la prison de Southwark sont omis ; « Quinze ans plus tard » de mémoire (1690 → 1705).
+- Vérification : hors zone — ni « quinze ans » ni « 1705 » ne figurent dans les pages enregistrées.
 - Fiche du catalogue : d'accord avec ma mémoire (l'enfant découvre la morte et le bébé dans la neige).
 
 ### Anciens textes
@@ -139,23 +153,29 @@ Sur mon île, on me croit sorcier, parce que je vis seul et que je connais la me
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Déruchette écrit le nom de Gilliatt dans la neige | `Gilliatt`, `neige` | à vérifier | |
-| Déruchette est la nièce de Lethierry | `nièce`, `Lethierry` | à vérifier | |
-| Clubin échoue la Durande sur les Douvres | `Douvres`, `Durande`, `Clubin` | à vérifier | |
-| Clubin s'enfuit avec une somme volée | `Rantaine`, `ceinture`, `Clubin` | à vérifier | |
-| Gilliatt combat une pieuvre dans une grotte de l'écueil | `pieuvre` | à vérifier | |
-| Le pasteur aimé de Déruchette s'appelle Ebenezer Caudray | `Ebenezer`, `Caudray` | à vérifier | |
-| Gilliatt meurt assis sur un rocher submergé par la marée | `Gild-Holm`, `chaise`, `marée` | à vérifier | |
+| Déruchette écrit le nom de Gilliatt dans la neige | `Gilliatt`, `neige` | confirmé | `p00002`, `p00004`, `p00005` |
+| Déruchette est la nièce de Lethierry | `nièce`, `Lethierry` | hors zone | absent des pages enregistrées (« Lethierry » apparaît, `p00018`, sans lien de parenté) |
+| Clubin échoue la Durande sur les Douvres | `Douvres`, `Durande`, `Clubin` | hors zone | absent des pages enregistrées (ni « Clubin » ni « Durande » ; « Douvres » seulement en `p00067`, pour l'origine d'une mouette) |
+| Clubin s'enfuit avec une somme volée | `Rantaine`, `ceinture`, `Clubin` | hors zone | absent des pages enregistrées (ni « Clubin » ni « Rantaine ») |
+| Gilliatt combat une pieuvre dans une grotte de l'écueil | `pieuvre` | hors zone | absent des pages enregistrées (« pieuvre » absent) |
+| Déruchette aime Ebenezer, avec qui elle se tient la main sur le pont | `Ebenezer`, `Déruchette` | confirmé | `p00025`, `p00057`, `p00059` |
+| Ebenezer s'appelle Caudray et il est pasteur | `Caudray`, `pasteur` | hors zone | absent des pages enregistrées (« Caudray » et « pasteur » absents) |
+| Gilliatt meurt assis sur un rocher submergé par la marée | `Gild-Holm`, `chaise`, `marée` | confirmé | `p00039`, `p00070`, `p00083` (la tête disparaît sous l'eau ; la mort n'est pas nommée) |
 
 ### Notes
 
 - `personalSummary` : Gilliatt parle. « Une bête aux longs bras » pour la pieuvre, vue par un pêcheur qui ne la nomme pas savamment.
 - Titre : « travailleurs » évité, « mer » (mot courant) employé.
 - Doute principal : le plan de Clubin. Je crois qu'il visait les Hanois, près de la côte, pour gagner la terre à la nage et disparaître avec l'argent que Rantaine avait volé à Lethierry (et que Clubin lui avait repris), et qu'il s'est trompé de récif dans le brouillard. J'ai écrit « une somme volée » sans dire à qui ; le nom « Hanois » n'est pas écrit.
+- Vérification : hors zone — « Clubin », « Rantaine », « Hanois » et le brouillard ne figurent pas dans les pages enregistrées.
 - Doute : Clubin meurt saisi par la pieuvre, et Gilliatt retrouve son squelette et la ceinture d'argent dans la grotte ; non écrit.
+- Vérification : hors zone — la pieuvre et la grotte n'apparaissent pas dans les pages enregistrées.
 - Doute : la scène du nom écrit dans la neige (Noël, première page) : je crois que c'est Déruchette qui trace « Gilliatt » ; à confirmer.
+- Vérification : confirmé — c'est Déruchette qui trace « Gilliatt » avec son doigt sur la neige (`p00004`, `p00005`), un matin de Christmas (`p00002`).
 - Doute : « nièce » : Déruchette est, je crois, la fille d'un frère de Lethierry, qu'il a élevée. La fiche du catalogue dit « jeune femme promise » sans lien de parenté.
+- Vérification : hors zone — le lien de parenté entre Déruchette et Lethierry n'est pas écrit dans les pages enregistrées ; « Lethierry » y est seulement « mess Lethierry » (`p00018`).
 - Doute : le rocher final porte un nom (la chaise Gild-Holm-'Ur) et le navire est le *Cashmere* (dans la dernière phrase de la fiche) ; je n'ai écrit ni l'un ni l'autre.
+- Vérification : confirmé — le rocher est la chaise Gild-Holm-'Ur (`p00030`, `p00039`) et le navire est le *Cashmere* (`p00012`, `p00053`) ; ni l'un ni l'autre n'est écrit dans le résumé, qui reste correct.
 - Simplifications : le retour de l'argent à Lethierry, la caverne, le Bû de la Rue omis.
 
 ### Anciens textes
@@ -179,22 +199,27 @@ Je commande une colonne de la République contre les paysans soulevés, et l'hom
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les soldats découvrent Michelle Fléchard et ses enfants dans le bois de la Saudraie | `Saudraie`, `Fléchard` | à vérifier | |
-| Lantenac débarque d'une corvette | `corvette`, `Claymore` | à vérifier | |
-| Michelle Fléchard est fusillée et laissée pour morte | `Fléchard`, `fusill` | à vérifier | |
-| Gauvain est le petit-neveu de Lantenac | `petit-neveu`, `neveu` | à vérifier | |
-| Cimourdain, ancien prêtre, a été le précepteur de Gauvain | `Cimourdain`, `prêtre`, `précepteur` | à vérifier | |
-| Lantenac est assiégé dans la Tourgue | `Tourgue` | à vérifier | |
-| Gauvain prend la place de Lantenac dans le cachot | `cachot`, `manteau` | à vérifier | |
+| Les soldats découvrent Michelle Fléchard et ses enfants dans le bois de la Saudraie | `Saudraie`, `Fléchard` | confirmé | `p00002`, `p00052`, `p00059`, `p00105` |
+| Lantenac débarque d'une corvette | `corvette`, `Claymore` | hors zone | absent des pages enregistrées (ni « corvette » ni « Claymore » ; le débarquement n'est pas raconté) |
+| Michelle Fléchard est fusillée et laissée pour morte | `Fléchard`, `fusill` | hors zone | absent des pages enregistrées (aucune fusillade de la mère ; `p00594` ne parle que de « fusillades » en général) |
+| Gauvain est le petit-neveu de Lantenac | `petit-neveu`, `neveu` | confirmé | `p00363` (« Je suis son petit-neveu »), `p00258` (« monsieur mon neveu ») |
+| Cimourdain est un ancien prêtre, « l'abbé Cimourdain » | `Cimourdain`, `abbé`, `prêtre` | confirmé | `p00256` |
+| Cimourdain a formé Gauvain, qui l'appelle « mon maître » | `maître`, `précepteur` | confirmé | `p00442`, `p00448` (le mot « précepteur » n'est pas écrit) |
+| Lantenac est assiégé dans la Tourgue | `Tourgue` | hors zone | absent des pages enregistrées (la prise de la Tourgue est nommée, `p00429`, mais ni le siège ni la présence de Lantenac) |
+| Gauvain prend la place de Lantenac dans le cachot | `cachot`, `manteau` | confirmé | `p00268`, `p00281`, `p00302`, `p00303` |
 
 ### Notes
 
 - `personalSummary` : Gauvain parle, comme dans l'ancien texte ; il s'arrête avant l'exécution (il sait qu'il va mourir), la mort de Cimourdain lui échappe. « Échafaud » revient deux fois dans la dernière partie : volontaire, c'est le mot de l'époque ; à alléger si la relecture le juge lourd.
 - Titre : le titre est un nombre (« Quatrevingt-treize », titre accepté « 93 »). L'année « 1793 » contient le titre et le désignerait à coup sûr : je l'ai évitée, comme « quatre-vingt-treize ». La période est dite par « sous la Terreur » et « la République ». L'ancien `summary` commençait par « En 1793 ». Essai fait sur un catalogue simulé : le contrôle Dart ne relève pas « 1793 » comme fuite (titre accepté « 93 » non reconnu dans un nombre plus long). À trancher à l'intégration et pour les leurres.
 - Doute : « petit-neveu » : je crois que Gauvain est le petit-neveu de Lantenac (« grand-neveu » dans certains souvenirs) ; à vérifier.
+- Vérification : confirmé — Gauvain se dit « petit-neveu » de l'homme évadé (`p00363`), et Lantenac l'appelle « monsieur mon neveu » (`p00258`).
 - Doute : la mère est fusillée à la ferme d'Herbe-en-Pail, je crois, lors du massacre du bataillon par les hommes de Lantenac ; je n'ai pas écrit le lieu. Le bois de la Saudraie est dans la première phrase de la fiche.
+- Vérification : hors zone — ni la fusillade ni le lieu (Herbe-en-Pail) ne figurent dans les pages enregistrées.
 - Doute : le nom de la corvette (*Claymore*) est de mémoire ; je n'ai écrit que « une corvette ».
+- Vérification : hors zone — « Claymore » et « corvette » sont absents des pages enregistrées.
 - Doute : « s'échappe » : Lantenac sort par un passage secret, je crois avec l'aide de l'Imânus, qui met le feu ; les enfants sont dans la bibliothèque du châtelet. J'ai écrit « l'incendie » sans détail.
+- Vérification : hors zone pour le détail — ni passage secret, ni Imânus, ni bibliothèque ne figurent dans les pages enregistrées. L'évasion elle-même est attestée : « l'homme évadé » (`p00362`).
 - Simplifications : la scène de la caronade, la conversation de Robespierre, Danton et Marat, le sergent Radoub et les noms des enfants (René-Jean, Gros-Alain, Georgette) sont omis.
 
 ### Anciens textes
@@ -208,33 +233,39 @@ Corpus : 2 page(s) enregistrée(s) sur fr.wikisource.org (langue : fr) : « Ruy 
 
 ### summary
 
-À Madrid, à la fin du XVIIe siècle, don Salluste de Bazan, chassé de la cour par la reine, veut se venger d'elle. Il fait enlever son cousin don César et oblige son propre laquais, secrètement épris de la souveraine, à prendre le nom de ce cousin. Introduit à la cour, le faux don César gagne le cœur de la reine, devient premier ministre et dénonce les grands qui pillent l'Espagne. Mais Salluste revient et attire la reine, de nuit, dans une maison secrète pour la perdre en la montrant aux côtés d'un laquais. Le valet tue son maître, révèle sa condition et s'empoisonne ; la reine lui pardonne et l'appelle par son nom tandis qu'il meurt.
+À Madrid, à la fin du XVIIe siècle, don Salluste de Bazan, chassé de la cour par la reine, veut se venger d'elle. Il fait enlever son cousin don César et oblige son propre laquais, secrètement épris de la souveraine, à prendre le nom de ce cousin. Introduit à la cour, le faux don César gagne le cœur de la reine, devient premier ministre et dénonce les grands qui pillent l'Espagne. Mais Salluste revient et attire la reine, de nuit, dans une maison secrète pour la perdre en la montrant aux côtés d'un laquais. Le valet révèle sa condition, tue son maître et s'empoisonne ; la reine lui pardonne et l'appelle par son nom tandis qu'il meurt.
 
 ### personalSummary
 
-Je ne suis qu'un laquais, mais j'ai fait des études, et j'aime la reine en silence, jusqu'à risquer ma vie pour lui porter des fleurs. Mon maître m'a donné le nom d'un grand seigneur : sous ce nom, je suis devenu ministre et j'ai dit leur fait aux voleurs du royaume. Mais ce nom n'était qu'un piège tendu à celle que j'aime. Pour la sauver, j'ai tué mon maître, j'ai avoué à la reine qui j'étais et j'ai bu le poison.
+Je ne suis qu'un laquais, mais j'ai fait des études, et j'aime la reine en silence, jusqu'à risquer ma vie pour lui porter des fleurs. Mon maître m'a donné le nom d'un grand seigneur : sous ce nom, je suis devenu ministre et j'ai dit leur fait aux voleurs du royaume. Mais ce nom n'était qu'un piège tendu à celle que j'aime. Pour la sauver, j'ai avoué à la reine qui j'étais, j'ai tué mon maître et j'ai bu le poison.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Salluste fait enlever don César pour l'envoyer outre-mer | `César`, `Afrique`, `corsaire` | à vérifier | |
-| Le valet risque sa vie pour porter des fleurs à la reine | `fleurs`, `muraille` | à vérifier | |
-| Le faux don César devient premier ministre | `premier ministre`, `Olmedo` | à vérifier | |
-| Il dénonce les ministres qui pillent l'Espagne | `Bon appétit`, `messieurs` | à vérifier | |
-| Salluste attire la reine, de nuit, dans une maison secrète | `maison`, `reine`, `Salluste` | à vérifier | |
-| Le valet tue Salluste de sa main | `épée`, `tue`, `Salluste` | à vérifier | |
-| Le valet boit le poison et la reine lui pardonne | `poison`, `pardonn` | à vérifier | |
+| Salluste fait enlever don César pour l'envoyer outre-mer | `César`, `Afrique`, `corsaire` | confirmé | `p00216`, `p00221` (« Vous le vendrez en mer aux corsaires d'Afrique ») |
+| Le valet risque sa vie pour porter des fleurs à la reine | `fleurs`, `muraille` | confirmé | `p00195` |
+| Le faux don César devient premier ministre | `premier ministre`, `Olmedo` | hors zone | absent des pages enregistrées (« premier ministre » absent ; « duc d'Olmedo » en `p00504`) |
+| Il dénonce les ministres qui pillent l'Espagne | `Bon appétit`, `messieurs` | hors zone | absent des pages enregistrées (aucune dénonciation des ministres dans les actes enregistrés ; `p00346` ne mentionne que le conseil de Castille) |
+| Salluste attire la reine, de nuit, dans une maison secrète | `maison`, `reine`, `Salluste` | confirmé | `p00380`, `p00430`, `p00434`, `p00463`, `p00465` |
+| Le valet tue Salluste de sa main, avec l'épée de celui-ci | `épée`, `tue`, `Salluste` | confirmé | `p00533`, `p00534`, `p00561` à `p00566` |
+| Le valet révèle sa condition à la reine avant de tuer Salluste | `valet`, `avoue`, `je suis` | corrigé | `p00507` à `p00512` (aveu), puis `p00533` (meurtre) |
+| Le valet boit le poison et la reine lui pardonne | `poison`, `pardonn` | confirmé | `p00584`, `p00596` |
 
 ### Notes
 
 - `personalSummary` : le valet parle, sans se nommer (son nom est le titre). Avertissement du lint « j'aime » gardé : c'est l'amour du personnage pour la reine (« j'aime la reine », « celle que j'aime »), pas un avis de lecteur. Dans le `summary`, il est « son propre laquais », « le faux don César », « le valet ».
 - Titre : « Ruy » et « Blas » évités partout.
 - Désaccord avec la fiche : `importantPassages` dit que le héros « révèle son identité après avoir empoisonné celui qui l'utilisait, puis boit lui-même le poison ». Ma mémoire : il tue Salluste avec l'épée (celle de Salluste, je crois), et seul le valet boit le poison. J'ai écrit « tue son maître », sans arme.
+- Vérification : confirmé — la fiche est fausse sur l'ordre et l'arme. Le héros révèle sa condition (`p00512`) avant de tuer Salluste à l'épée (`p00534`), puis boit le poison (`p00584`) : Salluste n'est pas empoisonné. Corrections à faire à l'intégration, pas dans le résumé. Correction du résumé : « Le valet tue son maître, révèle sa condition et s'empoisonne » devient « Le valet révèle sa condition, tue son maître et s'empoisonne » (`p00507`–`p00534`) ; même correction dans le `personalSummary`.
 - Doute : la date (« fin du XVIIe siècle », règne de Charles II) est de mémoire ; je n'ai pas écrit d'année.
+- Vérification : confirmé en partie — le costume est « du temps de Charles II » (`p00014`) et la reine a épousé « ce roi Charles deux » (`p00195`) ; le siècle n'est pas écrit.
 - Doute : don César est livré à des corsaires (ou des pirates) pour être vendu en Afrique ; il revient au quatrième acte en tombant par une cheminée. Omis, sauf l'enlèvement.
+- Vérification : confirmé — « Vous le vendrez en mer aux corsaires d'Afrique » (`p00221`). Le retour au quatrième acte n'est pas dans les pages enregistrées.
 - Doute : le titre de duc d'Olmedo donné au faux César est de mémoire ; non écrit.
+- Vérification : confirmé — le texte écrit « Il est duc d'Olmedo » (`p00504`) : la note « non écrit » était fausse. Le résumé n'emploie pas ce titre, la correction n'est pas nécessaire.
 - Doute : pourquoi Salluste est chassé (il a refusé d'épouser une suivante de la reine qu'il avait séduite) : je ne l'ai pas écrit.
+- Vérification : hors zone pour la cause de la disgrâce ; le texte dit seulement que la reine lui « a offert sa suivante » pour femme (`p00526`), sans le refus ni la séduction.
 - Choix : « pour la perdre en la montrant aux côtés d'un laquais » plutôt que « compromettre avec son amant » : le piège est de faire savoir que la reine aime un valet. Le duel de Guritan et l'arrestation de don César au quatrième acte sont omis.
 
 ### Anciens textes
@@ -258,23 +289,28 @@ Le père du roi a fait mourir mon père ; je suis devenu bandit dans la montagne
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action commence à Saragosse en 1519 | `Saragosse`, `1519` | à vérifier | |
-| Le père du roi a fait mourir le père du proscrit | `mon père`, `ton père` | à vérifier | |
-| Ruy Gomez refuse de livrer le proscrit, son hôte | `hôte`, `portrait` | à vérifier | |
-| Le proscrit remet un cor à Ruy Gomez en gage de sa vie | `cor` | à vérifier | |
-| Don Carlos est élu empereur près du tombeau de Charlemagne | `Charlemagne`, `Aix-la-Chapelle` | à vérifier | |
-| Le proscrit se révèle être Jean d'Aragon | `Aragon` | à vérifier | |
-| Doña Sol et son époux boivent le poison | `poison`, `fiole` | à vérifier | |
+| L'action commence à Saragosse en 1519 | `Saragosse`, `1519` | confirmé | `p00002` (« SARAGOSSE »), `p00015` (« costume … de 1519 ») |
+| Le père du roi a fait mourir le père du proscrit | `mon père`, `ton père` | confirmé | `p00116` (« Mon père est mort sur l'échafaud, condamné par le sien ») |
+| Ruy Gomez refuse de livrer le proscrit, son hôte | `hôte`, `portrait` | confirmé | `p00293` (« Je daigne encor protéger votre fuite ») |
+| Le proscrit remet un cor à Ruy Gomez en gage de sa vie | `cor` | confirmé | `p00121`, `p00507` (le pacte : « sonne de ce cor ») |
+| Don Carlos est élu empereur près du tombeau de Charlemagne | `Charlemagne`, `Aix-la-Chapelle` | hors zone | absent des pages enregistrées (ni « Charlemagne » ni « tombeau » ; `p00236` ne parle que d'hypothèses sur le lieu, `p00249` d'une élection à venir) |
+| Le proscrit se révèle être Jean d'Aragon | `Aragon` | confirmé | `p00426` |
+| Doña Sol et son époux boivent le poison | `poison`, `fiole` | confirmé | `p00605` (« Elle boit. »), `p00629` (« Il boit et jette la fiole. ») |
 
 ### Notes
 
 - `personalSummary` : le proscrit parle, sans se nommer (son nom de bandit est le titre). Dans le `summary`, « un bandit proscrit », « le proscrit ».
 - Titre : « Hernani » évité ; « Jean d'Aragon », son vrai nom révélé au quatrième acte, n'est pas proche du titre : je l'ai écrit, à sa place dans l'intrigue. « Honneur » et « castillan » (titre accepté « Hernani ou l'Honneur castillan ») ne sont pas employés.
 - Doute : « le père du roi a fait mourir mon père » : je crois que c'est le grief du proscrit contre don Carlos ; à vérifier (les termes sont trop courants pour une recherche facile, d'où `ton père`).
+- Vérification : confirmé — le proscrit dit que son père est mort sur l'échafaud, condamné par celui du roi (`p00116`).
 - Doute : la date de 1519 et Saragosse comme lieu du premier acte (la chambre de doña Sol) sont de mémoire ; la fiche ne les donne pas.
+- Vérification : confirmé — « SARAGOSSE » (`p00002`) et le costume « de 1519 » (`p00015`) sont écrits dans l'acte I.
 - Doute : le geste du pacte. Je crois que le proscrit, quand le roi emmène doña Sol en otage, demande à Ruy Gomez de différer sa vengeance pour qu'ils poursuivent ensemble le roi, et lui donne le cor en gage. « Remet au vieillard un cor » reste sûr ; le détail de l'alliance n'est pas écrit.
+- Vérification : confirmé en partie — le cor et le serment de mourir au son du cor sont écrits (`p00507`, `p00121`). L'alliance contre le roi et le délai de vengeance ne figurent pas dans les pages enregistrées.
 - Doute : « près du tombeau de Charlemagne » : à Aix-la-Chapelle, au quatrième acte, don Carlos sort du tombeau quand le canon annonce son élection. Je n'ai pas écrit Aix-la-Chapelle.
+- Vérification : hors zone — ni « Charlemagne » ni « tombeau » ne figurent dans les pages enregistrées ; « Aix-la-Chapelle » n'apparaît qu'en hypothèse (`p00236`).
 - Doute : « Ruy Gomez se tue » : il se frappe d'un poignard, je crois, après la mort de doña Sol (« Oh ! je suis damné ! », dernière réplique de la fiche). Non relevé : la fin est dans le corpus et la dernière réplique de la fiche l'annonce.
+- Vérification : confirmé — « Il se tue » (`p00664`), après « Morte ! — Oh ! je suis damné ! » (`p00663`).
 - Simplifications : l'armoire du premier acte, la scène des portraits, le masque de Ruy Gomez au dernier acte omis ; le nom d'empereur (Charles Quint) non écrit.
 
 ### Anciens textes
@@ -298,23 +334,28 @@ On me prête tous les crimes, et j'en ai commis beaucoup. Un seul être pourrait
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La fête du premier acte a lieu à Venise | `Venise`, `Barbarigo` | à vérifier | |
-| Gennaro mutile le nom gravé sur le palais pour en faire une injure | `Orgia`, `écusson` | à vérifier | |
-| Le duc de Ferrare se nomme Alphonse d'Este | `Alphonse`, `Este` | à vérifier | |
-| La duchesse donne en secret un contrepoison à Gennaro | `contrepoison`, `contre-poison` | à vérifier | |
-| Les amis de Gennaro sont empoisonnés lors d'un souper | `souper`, `Negroni`, `Syracuse` | à vérifier | |
-| Gennaro refuse le contrepoison, insuffisant pour ses amis | `fiole`, `assez` | à vérifier | |
-| Gennaro tue la duchesse avec un couteau | `couteau`, `frappe` | à vérifier | |
+| La fête du premier acte a lieu à Venise | `Venise`, `Barbarigo` | confirmé | `p00005` (« palais Barbarigo, à Venise », fête de nuit) |
+| Gennaro mutile le nom gravé sur le palais pour en faire une injure | `Orgia`, `écusson` | confirmé | `p00242` (« BORGIA » gravé), `p00362`, `p00363` (la première lettre est sautée : « ORGIA ») |
+| Le duc de Ferrare se nomme Alphonse d'Este | `Alphonse`, `Este` | confirmé | `p00003`, `p00113` |
+| La duchesse donne en secret un contrepoison à Gennaro | `contrepoison`, `contre-poison` | confirmé | `p00633`, `p00637` (le secret n'est pas montré dans les pages enregistrées) |
+| Les amis de Gennaro sont empoisonnés lors d'un souper | `souper`, `Negroni`, `Syracuse` | confirmé | `p00313`, `p00519`, `p00523`, `p00645` |
+| Gennaro refuse le contrepoison, insuffisant pour ses amis | `fiole`, `assez` | confirmé | `p00635` à `p00640` |
+| Gennaro tue la duchesse avec un couteau | `couteau`, `frappe` | confirmé | `p00642`, `p00675`, `p00684` |
 
 ### Notes
 
 - `personalSummary` : la duchesse parle, comme dans l'ancien texte ; son nom (le titre) est tu. Gennaro ignore la vérité jusqu'à la dernière réplique : sa voix aurait manqué le cœur du drame.
 - Titre : « Lucrèce », « Borgia » (et « Lucrezia ») évités ; « la duchesse de Ferrare », « la duchesse ». L'épisode du nom mutilé (« Borgia » devenu « Orgia ») est dit sans le nom : « mutile le nom de la duchesse gravé sur le palais pour en faire une injure ».
 - Doute : la fête de nuit est à Venise, sur la terrasse du palais Barbarigo, je crois ; « Barbarigo » est de mémoire.
+- Vérification : confirmé — « palais Barbarigo, à Venise » (`p00005`) et « palais Barbarigo et non dans le palais Labbia » (`p00159`). Le nom est écrit, la note « de mémoire » n'est plus nécessaire.
 - Doute : le duc oblige-t-il la duchesse à verser elle-même le poison ? Je crois qu'il lui laisse choisir la mort de Gennaro par l'épée ou par le poison, et qu'elle verse le vin du flacon d'or ; à vérifier (acte II, hors du corpus).
+- Vérification : hors zone — la scène du poison imposé est à l'acte II, non enregistré ; le texte enregistré ne montre pas qui verse le poison.
 - Doute : le souper a lieu chez la princesse Negroni, et le vin empoisonné est un vin de Syracuse ; de mémoire, non écrits.
+- Vérification : confirmé — « princesse Negroni » (`p00313`) et « vin de Syracuse » (`p00523`) sont écrits : la note « non écrits » était fausse.
 - Doute : la duchesse croyait Gennaro parti de Ferrare ; « sans savoir qu'il est parmi eux » me semble sûr.
+- Vérification : confirmé — la duchesse le découvre parmi les convives : « Encore vous, Gennaro ! … comment vous êtes-vous mêlé à ceci ? » (`p00630`).
 - Doute : la mort de Gennaro lui-même, empoisonné, n'est pas montrée, je crois (la pièce finit sur la révélation) ; je ne l'ai pas écrite. « Poignarde » : il prend, je crois, un couteau sur la table.
+- Vérification : confirmé — la pièce finit sur la révélation (`p00685`, `p00686`) ; la mort de Gennaro n'est pas montrée. « Il prend un couteau » : confirmé (`p00642`).
 - Choix : « Refusant de survivre à ses compagnons, il la poignarde » rapproche deux mobiles (refus du contrepoison, vengeance) ; le pronom « il » renvoie sans ambiguïté à Gennaro, sujet de la phrase précédente.
 - Simplifications : les cinq amis (Maffio Orsini, Jeppo, Ascanio, Oloferno, Apostolo), Gubetta et les moines aux cercueils omis.
 
@@ -339,13 +380,14 @@ Je me suis juré d'épouser la fille d'un vieux prisonnier, enfermé dans une fo
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Schumacker est détenu dans la forteresse de Munckholm | `Munckholm`, `Schumacker` | à vérifier | |
-| Ordener cherche une cassette de fer détenue par le brigand | `cassette` | à vérifier | |
-| Le brigand vit avec un ours | `ours` | à vérifier | |
-| Musdœmon est le secrétaire du chancelier d'Ahlefeld | `Musdœmon`, `Musdoemon`, `Ahlefeld` | à vérifier | |
-| Ordener est condamné à mort comme chef des rebelles | `Ordener`, `condamn` | à vérifier | |
-| Ordener épouse Éthel dans la prison avant son supplice | `Éthel`, `mariage`, `noces` | à vérifier | |
-| Le brigand périt dans l'incendie qu'il a allumé | `incendie`, `flammes` | à vérifier | |
+| Schumacker est détenu dans la forteresse de Munckholm | `Munckholm`, `Schumacker` | confirmé | `p00074` (« notre prisonnier, le vieux Schumacker »), `p00078` (barque pour Munckholm) |
+| Ordener cherche une cassette de fer détenue par le brigand | `cassette` | hors zone | absent des pages enregistrées (« cassette » absent) |
+| Le brigand vit avec un ours | `ours` | hors zone | absent des pages enregistrées (aucun ours dans les pages enregistrées) |
+| Musdœmon est le secrétaire du chancelier d'Ahlefeld | `Musdœmon`, `Musdoemon`, `Ahlefeld` | hors zone | absent des pages enregistrées (« Musdœmon » absent ; « Ahlefeld » seulement en `p00126`) |
+| Ordener est condamné à mort comme chef des rebelles | `Ordener`, `condamn` | hors zone | absent des pages enregistrées (la condamnation n'est pas racontée ; `p00127` ne parle que des condamnés graciés de la mine) |
+| Ordener épouse Éthel dans la prison | `Éthel`, `mariage`, `cachot` | confirmé | `p00108`, `p00126` (« sombre hymen du cachot ») |
+| Ce mariage précède un supplice qui devait frapper Ordener | `supplice` | hors zone | absent des pages enregistrées (aucun supplice ni exécution dans les pages enregistrées) |
+| Le brigand périt dans l'incendie qu'il a allumé | `incendie`, `flammes` | confirmé | `p00085` (« Han d'Islande s'envoler dans une flamme, riant dans l'incendie ») |
 
 ### Notes
 
@@ -353,12 +395,18 @@ Je me suis juré d'épouser la fille d'un vieux prisonnier, enfermé dans une fo
 - Titre : « Han » et « Islande » sont deux noms propres du titre, évités ; le personnage est « un brigand légendaire », « le brigand ». L'Islande, sa terre d'origine, n'est pas dite.
 - Œuvre dont je me souviens le moins bien du lot : beaucoup de formulations sont volontairement larges.
 - Doute : Schumacker, comte de Griffenfeld, est « ancien grand chancelier » ; l'ancien `summary` dit « ancien comte de Griffenfeld », la fiche « ancien ministre déchu ». Je crois qu'il a été grand chancelier du Danemark-Norvège.
+- Vérification : hors zone pour « Griffenfeld » et « grand chancelier » (absents). Le texte donne à Schumacker le titre de « comte » (`p00116`) et dit qu'il était dans sa « prospérité » avant sa chute (`p00114`).
 - Doute : le rôle exact d'Ordener dans la révolte. Je crois qu'il se laisse prendre avec les rebelles, puis qu'au procès il se déclare responsable pour couvrir Schumacker ; il est condamné et épouse Éthel la veille de l'exécution. Ce qui le sauve (preuves de la cassette, révélation de son identité de fils du vice-roi, aveu de Musdœmon) m'échappe : j'ai écrit « les intrigues sont dévoilées et il est sauvé ».
+- Vérification : hors zone — le procès, l'aveu et la prise avec les rebelles ne figurent pas dans les pages enregistrées.
 - Doute : Musdœmon finit pendu, je crois par le bourreau, qui serait son frère ; non écrit.
+- Vérification : hors zone — « Musdœmon » est absent des pages enregistrées.
 - Doute : l'incendie : la fiche dit « un détenu provoque un incendie qui ravage la prison et la caserne ». Je crois que le brigand s'est livré lui-même, puis met le feu dans sa prison et meurt dans les flammes. « Qu'il allume » sans lieu.
+- Vérification : confirmé en partie — l'incendie de la caserne et Han « riant dans l'incendie » (`p00085`). Que le brigand se soit livré lui-même n'est pas écrit (hors zone).
 - Doute : Ordener a-t-il repris la cassette au brigand ? Je ne sais plus ; j'ai écrit qu'il part la reprendre, pas qu'il l'obtient.
+- Vérification : hors zone — la cassette n'est pas mentionnée dans les pages enregistrées.
 - Simplifications : Ulrique d'Ahlefeld (fiancée qu'on destine à Ordener), le gouverneur Levin de Knud, Spiagudry, la morgue de Drontheim au début, la mort de Gill omis.
 - Fin : « Schumacker, libéré, meurt peu après » tiré de la dernière phrase de la fiche (« il mourut dans la même année 1699 ») ; je n'ai pas repris la famille de Danneskiold.
+- Vérification : confirmé — « Il mourut dans la même année 1699 » (`p00128`) ; la famille de Danneskiold naît de l'union (`p00128`).
 
 ### Anciens textes
 
@@ -381,24 +429,30 @@ Ce soir, au camp, on m'a demandé une histoire, et le chien blessé couché à m
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Marie est la cousine de Léopold, fille de son oncle planteur | `cousine`, `oncle` | à vérifier | |
-| Pierrot sauve Marie d'un crocodile | `crocodile`, `caïman` | à vérifier | |
-| Pierrot est fils d'un roi en Afrique | `Kakongo`, `roi` | à vérifier | |
-| Pierrot chante la nuit sous la fenêtre de Marie | `chant`, `romance`, `guitare` | à vérifier | |
-| Léopold est prisonnier du chef rebelle Biassou | `Biassou` | à vérifier | |
-| L'ancien bouffon Habibrah veut la mort de Léopold | `Habibrah`, `bouffon` | à vérifier | |
-| Pierrot revient se livrer pour sauver dix prisonniers | `dix`, `parole` | à vérifier | |
+| Marie est la cousine de Léopold, fille de son oncle planteur | `cousine`, `oncle` | hors zone | absent des pages enregistrées (« cousine » et « oncle » absents ; seule « sa chère Marie » en `p00042`) |
+| Pierrot sauve Marie d'un crocodile | `crocodile`, `caïman` | hors zone | absent des pages enregistrées (« crocodile » absent) |
+| Pierrot est fils d'un roi en Afrique | `Kakongo`, `roi` | hors zone | absent des pages enregistrées (« Kakongo » absent) |
+| Pierrot chante la nuit sous la fenêtre de Marie | `chant`, `romance`, `guitare` | hors zone | absent des pages enregistrées (« chant », « romance », « guitare » absents) |
+| Léopold est prisonnier du chef rebelle Biassou | `Biassou` | hors zone | absent des pages enregistrées (« Biassou » absent) |
+| L'ancien bouffon Habibrah veut la mort de Léopold | `Habibrah`, `bouffon` | hors zone | absent des pages enregistrées (« Habibrah » absent) |
+| Pierrot revient se livrer pour sauver dix prisonniers | `dix`, `parole` | confirmé | `p00023` (Pierrot arrive alors que « ses dix camarades » sont liés ; il les détache « pour reprendre leur place »), `p00042` (sa mort) |
 
 ### Notes
 
 - `personalSummary` : Léopold parle, au présent du récit (le soir au camp), puis au passé : c'est la situation même de l'œuvre, un récit fait à des officiers. Il nomme Marie, pas Pierrot.
 - Titre : « Bug » et « Jargal » évités ; j'emploie « Pierrot », son nom d'esclave, qui n'est pas proche du titre.
 - Doute : le chien qui revient blessé s'appelle Rask ; je ne l'ai pas nommé. Le début (le récit demandé à Léopold) est dans la première phrase de la fiche, non relevé.
+- Vérification : confirmé — « Te voilà, Rask ! » (`p00008`) ; le chien revient après le combat au bois (`p00033`).
 - Doute : « fils de roi en Afrique » : je crois qu'il est fils du roi de Kakongo ; non nommé.
+- Vérification : hors zone — « Kakongo » et la royauté du père de Pierrot ne figurent pas dans les pages enregistrées.
 - Doute : la scène du chant : Léopold surprend la nuit un chant d'amour pour Marie (en espagnol ?) et se croit trahi ; je ne suis pas sûr que Pierrot chante « sous sa fenêtre », peut-être dans le pavillon du jardin.
+- Vérification : hors zone — aucun chant nocturne ni fenêtre de Marie dans les pages enregistrées.
 - Doute : Biassou poussé par Habibrah à le tuer : je crois que c'est Habibrah, devenu obi (sorcier) de Biassou, qui réclame sa mort ; et que Léopold et Habibrah luttent ensuite au bord d'un gouffre, où le bouffon tombe. Non écrit.
+- Vérification : hors zone — « Biassou » et « Habibrah » sont absents des pages enregistrées.
 - Doute : le mariage : je crois que Léopold et Marie se marient le jour même où éclate l'insurrection, ce qui contredirait « devait épouser ». J'ai gardé « devait épouser », vrai au début du récit, et « ma fiancée » dans la voix de Léopold ; à vérifier.
+- Vérification : hors zone — la date du mariage n'est pas écrite ; la note finale ne parle que de « sa chère Marie » (`p00042`).
 - Doute : les circonstances exactes de la mort de Pierrot (Léopold arrive trop tard pour l'arrêter ; Thadée ?) et le sort ultérieur de Marie (morte dans l'incendie du Fort-Dauphin ?) : non écrits.
+- Vérification : contredit en partie — le doute sur « Marie morte dans l'incendie du Fort-Dauphin ? » est faux : le texte dit qu'elle « avait été sauvée de l'incendie du fort Galifet que pour périr peu de temps après dans le premier incendie du Cap » (`p00042`). Les circonstances de la mort de Pierrot restent hors zone.
 - Simplifications : la note finale (Léopold, Thadée et le chien meurent au combat, le commissaire veut guillotiner un mort) est omise : elle sort du récit principal.
 
 ### Anciens textes
@@ -422,23 +476,28 @@ Ma naissance a coûté la vie à ma mère, et je n'ai eu qu'une amie : ma sœur,
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La mère du narrateur meurt en lui donnant naissance | `naissance`, `ma mère` | à vérifier | |
-| Il voyage parmi les ruines, à Rome et en Grèce | `Rome`, `Grèce` | à vérifier | |
-| Il appelle les orages dans les bois d'automne | `orages désirés`, `orages` | à vérifier | |
-| Il est résolu à se donner la mort quand sa sœur arrive | `quitter la vie`, `Amélie` | à vérifier | |
-| Amélie entre au couvent et prononce ses vœux | `vœux`, `voile`, `couvent` | à vérifier | |
-| Pendant la cérémonie, Amélie avoue sa passion coupable | `criminelle passion`, `drap mortuaire` | à vérifier | |
-| Le père Souël lui reproche son orgueil | `Souël`, `orgueil` | à vérifier | |
+| La mère du narrateur meurt en lui donnant naissance | `naissance`, `ma mère` | confirmé | `p00008` (« J'ai coûté la vie à ma mère en venant au monde ») |
+| Il voyage parmi les ruines, à Rome et en Grèce | `Rome`, `Grèce` | confirmé | `p00025` (« débris de Rome et de la Grèce »), `p00032` (Calédonie), `p00036` (Etna) |
+| Il appelle les orages dans les bois d'automne | `orages désirés`, `orages` | confirmé | `p00057` (l'automne), `p00059` (« orages désirés ») |
+| Il est résolu à se donner la mort quand sa sœur arrive | `quitter la vie`, `Amélie` | confirmé | `p00062` (« je résolus de quitter la vie »), `p00067` (l'arrivée d'Amélie) |
+| Amélie entre au couvent et prononce ses vœux | `vœux`, `voile`, `couvent` | confirmé | `p00090`, `p00098`, `p00100` |
+| Pendant la cérémonie, Amélie avoue sa passion coupable | `criminelle passion`, `drap mortuaire` | confirmé | `p00101` (« ma criminelle passion », sous le « drap mortuaire ») |
+| Le père Souël lui reproche son orgueil | `Souël`, `orgueil` | confirmé | `p00120` (le mot est « présomptueux » ; le reproche porte sur l'orgueil de se suffire à soi-même) |
 
 ### Notes
 
 - `personalSummary` : le narrateur parle, sans se nommer (son prénom est le titre). Il raconte jusqu'à son récit aux deux vieillards ; le blâme du missionnaire et sa mort ultérieure restent hors de sa voix.
 - Titre et auteur : « René » évité partout, y compris dans le `summary` (l'ancien `summary` l'écrivait : c'était une fuite) ; « François » et « Chateaubriand » aussi. Le héros est « un jeune Français mélancolique ».
 - Fin : sa mort dans le massacre des Natchez, avec Chactas et le père Souël, vient de la dernière phrase de la fiche (et de l'œuvre). Un premier état s'arrêtait au reproche du missionnaire ; je l'ai ajoutée, la consigne demandant que la fin se révèle. « Avec ses deux amis » : le texte dit « les trois amis ».
+- Vérification : confirmé — « Il périt peu de temps après avec Chactas et le père Souël » (`p00123`). Le texte dit « les trois amis » en comptant René : le résumé « ses deux amis » est exact.
 - Doute : la confidence est provoquée, je crois, par une lettre venue d'Europe, et le père Souël lit à la fin une lettre de la supérieure annonçant la mort d'Amélie, morte en soignant ses compagnes. Je ne l'ai pas écrit.
+- Vérification : confirmé — une lettre venue d'Europe accroît sa tristesse (`p00003`) ; à la fin, le père Souël lit la lettre de la supérieure annonçant la mort d'Amélie, « morte en soignant ses compagnes » (`p00117`).
 - Doute : « Rome et Grèce » : je me souviens des ruines de Rome et de la Grèce, puis de l'Écosse (Ossian) et de l'Etna ; le `personalSummary` dit seulement « les ruines et les villes ».
+- Vérification : confirmé — « les débris de Rome et de la Grèce » (`p00025`), puis la Calédonie (`p00032`) et l'Etna (`p00036`).
 - Doute : « sous le drap des mortes » : Amélie, couchée sous le drap mortuaire pendant la prise de voile, murmure son aveu (« criminelle passion ») que lui seul entend ; la formule exacte est à vérifier.
+- Vérification : confirmé en partie — le texte dit « un drap mortuaire » et un « voile sépulcral » (`p00101`) : la formule du résumé est une paraphrase, sans contradiction.
 - Doute : « Chactas » est son père adoptif (première phrase de la fiche) ; je n'ai pas repris le lien. « Exilé » remplace « réfugié » : il est parti de son plein gré, mais fuit l'Europe.
+- Vérification : confirmé — « Chactas, son père adoptif » (`p00002`).
 - Choix : « jusqu'à vouloir mourir » plutôt que « songer au suicide », plus fidèle à mon souvenir d'une résolution arrêtée.
 
 ### Anciens textes

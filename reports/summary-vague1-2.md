@@ -263,4 +263,63 @@ Points à trancher à l'intégration :
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+Chaque œuvre est vérifiée dans l'ordre du fichier, fait par fait, contre les pages enregistrées. Le corpus est partiel pour neuf œuvres sur onze (extraits d'ouverture et de clôture) : la plupart des « hors zone » tiennent à cette limite et non à une contradiction du texte.
+
+### Bilan
+
+| Œuvre | Faits | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|---|
+| `notre-dame-de-paris` | 7 | 7 | 0 | 0 |
+| `le-dernier-jour-dun-condamne` | 7 | 1 | 6 | 0 |
+| `lhomme-qui-rit` | 8 | 3 | 5 | 0 |
+| `les-travailleurs-de-la-mer` | 8 | 3 | 5 | 0 |
+| `quatrevingt-treize` | 8 | 5 | 3 | 0 |
+| `ruy-blas` | 8 | 5 | 2 | 1 |
+| `hernani` | 7 | 6 | 1 | 0 |
+| `lucrece-borgia` | 7 | 7 | 0 | 0 |
+| `han-dislande` | 8 | 3 | 5 | 0 |
+| `bug-jargal` | 7 | 1 | 6 | 0 |
+| `rene-chateaubriand` | 7 | 7 | 0 | 0 |
+| **Total** | **82** | **48** | **33** | **1** |
+
+Les faits « Notes » (doutes) sont vérifiés sur une ligne « Vérification : … » sous chaque puce concernée.
+
+### Corrections
+
+- `ruy-blas`, fait ajouté « Le valet révèle sa condition à la reine avant de tuer Salluste » (statut corrigé, `p00507` à `p00512` puis `p00533`) : l'aveu précède le meurtre. Le fait « Le valet tue Salluste de sa main » est scindé et confirmé (`p00534`, épée de Salluste).
+- `ruy-blas`, `summary` : « Le valet tue son maître, révèle sa condition et s'empoisonne » devient « Le valet révèle sa condition, tue son maître et s'empoisonne » (`p00507` à `p00534`).
+- `ruy-blas`, `personalSummary` : « Pour la sauver, j'ai tué mon maître, j'ai avoué à la reine qui j'étais et j'ai bu le poison. » devient « Pour la sauver, j'ai avoué à la reine qui j'étais, j'ai tué mon maître et j'ai bu le poison. » (mêmes paragraphes).
+
+### Points à trancher
+
+1. **Fiche `ruy-blas`** (`importantPassages`) : elle dit que le héros « empoisonne » celui qui l'utilisait puis révèle son identité. Le texte dit le contraire : aveu (`p00512`), meurtre à l'épée (`p00534`), poison bu seul (`p00584`). À corriger à l'intégration.
+2. **Notes « non écrit » erronées** : trois doutes affirmaient que le texte ne disait pas une chose qu'il dit. `ruy-blas` : « duc d'Olmedo » (`p00504`). `lucrece-borgia` : « princesse Negroni » (`p00313`) et « vin de Syracuse » (`p00523`). Les notes sont corrigées par une ligne « Vérification » ; à relire.
+3. **`bug-jargal`** : la note supposait Marie morte à « Fort-Dauphin » ; le texte dit « fort Galifet », puis « premier incendie du Cap » (`p00042`). Doute contredit, note corrigée, résumé inchangé.
+4. **`quatrevingt-treize`** : le point de la passe 1 (« 1793 » contient le titre numérique) reste ouvert, comme signalé.
+5. **Hors zone à relire humainement** : `le-dernier-jour-dun-condamne` (6 faits sur 7, corpus = chapitres I et XLIX), `bug-jargal` (6 sur 7, corpus = chapitre I et note finale), `han-dislande` (5 sur 8, cœur de l'intrigue absent). Dans `hernani`, l'élection « près du tombeau de Charlemagne » n'est pas dans le corpus : hors zone, non corrigé.
+6. **Appuis faibles** : `hernani`, « Ruy Gomez refuse de livrer le proscrit » repose sur `p00293` seul (protection de la fuite) ; `notre-dame-de-paris`, « squelette de Quasimodo » : l'identité des deux squelettes est implicite (difformité, robe blanche, `p00405`, `p03716`). `rene-chateaubriand` : le reproche de Souël emploie « présomptueux » (`p00120`), non « orgueil » ; le résumé dit « orgueil », sens conservé, à arbitrer.
+7. **Fait dans `lhomme-qui-rit`** : « Dea meurt dans mes bras » n'est pas écrit (Gwynplaine lui baise les mains, `p00397`) ; détail hors zone, non corrigé.
+
+### Contrôles
+
+- `summary lint vague1-2 --checked` : 0 erreur, 1 avertissement gardé (`ruy-blas`, « j'aime » : amour du personnage pour la reine).
+- `summary apply vague1-2 --output` (catalogue simulé, 11 fiches) puis `dart run tool/list_name_leaks.dart` : « Aucune fuite de titre ou d'auteur ». Dart répond (avec un avertissement de Flutter « running as root », sans effet).
+- `summary mark vague1-2 checked` : lancé après l'écriture de ce compte rendu.
+
+### Incidents
+
+- Une écriture du script d'application (`ruy-blas`) a été refusée sur une chaîne de recherche inexacte : rien n'a été écrit, la chaîne a été corrigée, puis l'application a réussi.
+- La session a redémarré en cours de travail, pendant `ruy-blas` (sixième œuvre) ; la reprise s'est faite sur les données sauvegardées par œuvre. Les données de vérification étaient sauvegardées par œuvre ; la reprise s'est faite sans perte, et le fichier de session est relu par le lint après application.
+- Une recherche par termes (`summary find`) tronque à quatre occurrences par terme : pour `lucrece-borgia`, une première recherche sur l'acte III avait été mal filtrée et faussement conclu « absent » ; la vérification a été reprise par lecture directe des paragraphes. Les conclusions retenues sont celles de la lecture directe.
+
+### Difficultés au fil du lot
+
+- La fin du lot n'a pas été plus facile à traiter : les mêmes gestes (lecture ciblée, puis confirmation par paragraphe) ont été tenus de bout en bout. Mais j'ai trouvé plus de dérives dans les dernières œuvres : des doutes affirmaient « non écrit » pour des éléments que le texte donne, comme `ruy-blas` et `lucrece-borgia`. C'est un signal sur la passe 1, plus que sur la vérification.
+- Les corpus partiels (`le-dernier-jour-dun-condamne`, `bug-jargal`, `han-dislande`) demandent beaucoup de lectures pour un petit nombre de faits confirmés. Je n'ai pas pu confirmer les faits du cœur de ces intrigues.
+
+### Retours sur la consigne
+
+- **Corpus partiel** : la consigne donne « hors zone » pour un fait introuvable, sans dire ce qu'on fait d'une œuvre dont la moitié n'est pas enregistrée. J'ai utilisé l'appui « absent des pages enregistrées » et précisé dans la cellule ce qui manque (chapitre, acte). Une règle explicite serait utile.
+- **Fait à deux affirmations** : la scission en deux lignes a servi sept fois (dont une pour ajouter le fait corrigé). Le tableau reste lisible.
+- **Doutes qui se contredisent** : j'ai corrigé la note, pas le résumé, quand le texte contredit seulement le doute (`bug-jargal`, `ruy-blas` : Olmedo). La consigne le permet ; je le signale par cohérence.
+
