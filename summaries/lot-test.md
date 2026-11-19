@@ -1,10 +1,16 @@
 # Résumés — lot-test
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `guerre-et-paix`, `crime-et-chatiment`, `antigone`, `au-bord-de-leau`
 - Créée le : 2026-11-19
 
 Rédaction : `/summary-draft` ; vérification : `/summary-check` ; règles : `docs/summary_rewrite.md`.
+
+## Retours sur la consigne
+
+- Vérification : la consigne ne dit pas quel statut donner à un fait composé dont une seule moitié est attestée (« Pierre est fait prisonnier et marche avec Karataïev » : captivité et nom évoqués en passant, p03364, mais pas la marche). J'ai choisi `hors zone`, en citant dans l'appui ce qui est attesté ; une règle explicite serait utile (scinder le fait en deux lignes à la rédaction ?).
+- Vérification : les « Doutes » de la section Notes de la passe 1 ne sont pas des faits du tableau ; la consigne ne dit pas où consigner leur issue. Je ne les ai pas ajoutés au tableau (aucune contradiction) et je les résume ici : Antigone, « mon oncle » confirmé (Créon dit « née de ma sœur », p00104) ; Au bord de l'eau, les quatre ministres Cai Jing, Tong Guan, Gao Qiu et Yang Jian trament l'empoisonnement (p00054, p00060) et l'empereur du premier chapitre est Renzong (p00016) ; Crime et châtiment, huit ans confirmés (p00067). Guerre et Paix : « pieds nus » et « mort d'André à Borodino » restent hors zone.
+- Vérification : le tableau demande des termes dans la graphie du corpus, mais le `summary` garde la graphie usuelle (« Aliona », « Hémon ») : un fait confirmé par une variante (« Aléna », « Haimôn ») est noté confirmé, sans correction ; la consigne gagnerait à le dire.
 
 ## `guerre-et-paix` — Guerre et Paix
 
@@ -22,14 +28,14 @@ J'étais un bâtard, et l'héritage de mon père a fait de moi l'un des hommes l
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action s'ouvre en 1805 dans le salon d'Anna Pavlovna Scherer à Saint-Pétersbourg | `Шерер`, `Анна Павловна`, `Петербург` | à vérifier | |
-| André Bolkonski est blessé à Austerlitz | `Болконск`, `Аустерлиц` | à vérifier | |
-| Pierre Bézoukhov est le fils illégitime du vieux comte et hérite de sa fortune | `Безухов`, `незаконн`, `наследств` | à vérifier | |
-| Pierre épouse Hélène Kouraguine | `Элен`, `Курагин` | à vérifier | |
-| Dans l'épilogue, Pierre est marié à Natacha | `Наташ`, `Пьер` | à vérifier | |
-| Dans l'épilogue, Nicolas Rostov est marié à Marie Bolkonskaïa | `Николай`, `Марья`, `Ростов` | à vérifier | |
-| André meurt de sa blessure de Borodino, veillé par Natacha | `Бородин`, `князь Андрей` | à vérifier | |
-| Pierre est fait prisonnier par les Français et marche avec Platon Karataïev | `Каратаев`, `плен` | à vérifier | |
+| L'action s'ouvre en 1805 dans le salon d'Anna Pavlovna Scherer à Saint-Pétersbourg | `Шерер`, `Анна Павловна`, `Петербург` | confirmé | p00004, p00015, p00044 |
+| André Bolkonski est blessé à Austerlitz | `Болконск`, `Аустерлиц` | confirmé | p03035-p03037, p03071-p03072 |
+| Pierre Bézoukhov est le fils illégitime du vieux comte et hérite de sa fortune | `Безухов`, `незаконн`, `наследств` | confirmé | p00055, p00819, p02183, p02273 |
+| Pierre épouse Hélène Kouraguine | `Элен`, `Курагин` | confirmé | p02266-p02273 |
+| Dans l'épilogue, Pierre est marié à Natacha | `Наташ`, `Пьер` | confirmé | p03144, p03300 |
+| Dans l'épilogue, Nicolas Rostov est marié à Marie Bolkonskaïa | `Николай`, `Марья`, `Ростов` | confirmé | p03206 |
+| André meurt de sa blessure de Borodino, veillé par Natacha | `Бородин`, `князь Андрей` | hors zone | absent des pages enregistrées (Borodino : une allusion sans rapport, p03118) ; seule la mort d'André et le désespoir de Natacha sont attestés, p03145 |
+| Pierre est fait prisonnier par les Français et marche avec Platon Karataïev | `Каратаев`, `плен` | hors zone | absent des pages enregistrées ; l'épilogue évoque seulement « плен, Платон Каратаев », p03364 |
 
 ### Notes
 
@@ -61,13 +67,13 @@ Je m'enfermais dans ma mansarde, affamé, à ruminer une idée : certains hommes
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le héros, Raskolnikov, est un ancien étudiant pauvre qui loge dans une mansarde à Saint-Pétersbourg | `Raskolnikof`, `Raskolnikov`, `étudiant`, `Pétersbourg` | à vérifier | |
-| La victime est une vieille usurière, Aliona Ivanovna | `Alena`, `Aliona`, `Ivanovna`, `usurière` | à vérifier | |
-| La sœur de l'usurière, Lizaveta, est tuée elle aussi | `Lizaveta`, `Élisabeth`, `Elisabeth` | à vérifier | |
-| Le juge d'instruction s'appelle Porphyre Petrovitch | `Porphyre`, `Porfiri` | à vérifier | |
-| Sonia Marmeladova s'est prostituée pour nourrir sa famille | `Sonia`, `Marmeladof`, `Marmeladov` | à vérifier | |
-| Raskolnikov est condamné à huit ans de bagne en Sibérie | `huit ans`, `Sibérie`, `bagne`, `travaux forcés` | à vérifier | |
-| Sonia le suit en Sibérie et l'Évangile est présent dans la dernière scène | `Évangile`, `Sonia` | à vérifier | |
+| Le héros, Raskolnikov, est un ancien étudiant pauvre qui loge dans une mansarde à Saint-Pétersbourg | `Raskolnikof`, `Raskolnikov`, `étudiant`, `Pétersbourg` | confirmé | p00003, p00009, p00018, p00065 |
+| La victime est une vieille usurière, Aliona Ivanovna | `Alena`, `Aliona`, `Ivanovna`, `usurière` | confirmé | p00018, p00032, p00040 (graphie du corpus : « Aléna Ivanovna ») |
+| La sœur de l'usurière, Lizaveta, est tuée elle aussi | `Lizaveta`, `Élisabeth`, `Elisabeth` | hors zone | absent des pages enregistrées (la sœur n'apparaît que par « Élisabeth », p00025, et p00049-p00050 ; le meurtre n'est pas dans I/1) |
+| Le juge d'instruction s'appelle Porphyre Petrovitch | `Porphyre`, `Porfiri` | hors zone | absent des pages enregistrées |
+| Sonia Marmeladova s'est prostituée pour nourrir sa famille | `Sonia`, `Marmeladof`, `Marmeladov` | hors zone | absent des pages enregistrées (Sonia n'apparaît que dans l'épilogue, p00065 et suivants) |
+| Raskolnikov est condamné à huit ans de bagne en Sibérie | `huit ans`, `Sibérie`, `bagne`, `travaux forcés` | confirmé | p00065, p00067, p00090, p00094 |
+| Sonia le suit en Sibérie et l'Évangile est présent dans la dernière scène | `Évangile`, `Sonia` | confirmé | p00081, p00095 |
 
 ### Notes
 
@@ -100,13 +106,13 @@ Mes deux frères se sont entre-tués, et le roi, mon oncle, défend sous peine d
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Créon interdit d'ensevelir Polynice | `Kréôn`, `Créon`, `Polyneikès`, `Polyneik` | à vérifier | |
-| Ismène refuse d'aider sa sœur | `Ismènè`, `Ismène` | à vérifier | |
-| Le corps est recouvert d'une poussière légère, découverte par un garde | `poussière`, `garde` | à vérifier | |
-| L'héroïne invoque des lois non écrites des dieux | `non écrites`, `lois` | à vérifier | |
-| Hémon, fils de Créon, est son fiancé | `Haimôn`, `Hémon`, `fiancée` | à vérifier | |
-| Le devin Tirésias avertit Créon | `Teirésias`, `Tirésias`, `devin` | à vérifier | |
-| L'héroïne se pend dans le tombeau, Hémon se tue, puis la reine Eurydice | `Eurydikè`, `Eurydice`, `pend`, `lacet` | à vérifier | |
+| Créon interdit d'ensevelir Polynice | `Kréôn`, `Créon`, `Polyneikès`, `Polyneik` | confirmé | p00016, p00048 |
+| Ismène refuse d'aider sa sœur | `Ismènè`, `Ismène` | confirmé | p00021, p00027, p00037 |
+| Le corps est recouvert d'une poussière légère, découverte par un garde | `poussière`, `garde` | confirmé | p00063, p00065 (seconde poussière, Antigone surprise : p00096) |
+| L'héroïne invoque des lois non écrites des dieux | `non écrites`, `lois` | confirmé | p00102 |
+| Hémon, fils de Créon, est son fiancé | `Haimôn`, `Hémon`, `fiancée` | confirmé | p00150, p00168, p00300 |
+| Le devin Tirésias avertit Créon | `Teirésias`, `Tirésias`, `devin` | confirmé | p00246-p00270 (le corpus dit « divinateur ») |
+| L'héroïne se pend dans le tombeau, Hémon se tue, puis la reine Eurydice | `Eurydikè`, `Eurydice`, `pend`, `lacet` | confirmé | p00293-p00295, p00300, p00312 |
 
 ### Notes
 
@@ -138,13 +144,13 @@ Petit greffier de district, je n'ai jamais refusé mon aide à un homme dans le 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le maréchal Hong Xin libère les esprits enfermés au mont du Dragon et du Tigre, envoyé à cause d'une épidémie | `洪太尉`, `洪信`, `龍虎山`, `瘟疫` | à vérifier | |
-| Les esprits libérés sont cent huit, trente-six et soixante-douze étoiles | `天罡`, `地煞`, `一百單八`, `一百零八` | à vérifier | |
-| Le repaire des proscrits est dans les marais du mont Liang | `梁山泊`, `梁山` | à vérifier | |
-| Song Jiang est le chef des proscrits | `宋江`, `宋公明` | à vérifier | |
-| Les proscrits sont amnistiés et combattent le rebelle Fang La | `招安`, `方臘` | à vérifier | |
-| Song Jiang meurt d'un vin empoisonné envoyé par la cour | `藥酒`, `毒`, `御酒` | à vérifier | |
-| Li Kui, Wu Yong et Hua Rong suivent Song Jiang dans la mort | `李逵`, `吳用`, `花榮` | à vérifier | |
+| Le maréchal Hong Xin libère les esprits enfermés au mont du Dragon et du Tigre, envoyé à cause d'une épidémie | `洪太尉`, `洪信`, `龍虎山`, `瘟疫` | confirmé | p00016, p00019, p00035, p00037-p00039 |
+| Les esprits libérés sont cent huit, trente-six et soixante-douze étoiles | `天罡`, `地煞`, `一百單八`, `一百零八` | confirmé | p00009, p00037, p00051, p00087 |
+| Le repaire des proscrits est dans les marais du mont Liang | `梁山泊`, `梁山` | confirmé | p00011, p00066 |
+| Song Jiang est le chef des proscrits | `宋江`, `宋公明` | confirmé | p00044, p00066, p00087 |
+| Les proscrits sont amnistiés et combattent le rebelle Fang La | `招安`, `方臘` | confirmé | p00043, p00076 |
+| Song Jiang meurt d'un vin empoisonné envoyé par la cour | `藥酒`, `毒`, `御酒` | confirmé | p00054, p00060, p00063, p00068 |
+| Li Kui, Wu Yong et Hua Rong suivent Song Jiang dans la mort | `李逵`, `吳用`, `花榮` | confirmé | p00066-p00068, p00074-p00076 |
 
 ### Notes
 
