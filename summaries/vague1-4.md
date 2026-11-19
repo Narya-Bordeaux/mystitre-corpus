@@ -1,6 +1,6 @@
 # Résumés — vague1-4
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `tartuffe`, `le-misanthrope`, `lavare`, `le-malade-imaginaire`, `le-bourgeois-gentilhomme`, `les-fourberies-de-scapin`, `lecole-des-femmes`, `les-femmes-savantes`, `le-medecin-malgre-lui`, `les-precieuses-ridicules`, `les-facheux`
 - Créée le : 2026-11-19
 
@@ -22,14 +22,14 @@ Je l'ai vu prier à l'église avec tant d'ardeur et d'humilité que je l'ai fait
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Orgon promet sa fille Mariane au faux dévot | `Mariane` | à vérifier | |
-| Mariane était promise à Valère | `Valère` | à vérifier | |
-| Damis, caché, surprend la déclaration faite à Elmire | `Damis`, `cabinet` | à vérifier | |
-| Orgon fait au faux dévot donation de tous ses biens | `donation` | à vérifier | |
-| Elmire cache Orgon sous une table | `table` | à vérifier | |
-| La cassette appartenait à un ami d'Orgon nommé Argas | `Argas`, `cassette` | à vérifier | |
-| L'imposteur est arrêté par un exempt sur l'ordre du prince | `exempt`, `prince` | à vérifier | |
-| Orgon a rencontré le faux dévot à l'église | `église` | à vérifier | |
+| Orgon promet sa fille Mariane au faux dévot | `Mariane` | confirmé | p00225-p00226 (Orgon : « Il sera votre époux ») |
+| Mariane était promise à Valère | `Valère` | confirmé | p00002 (« Mariane, fille d’Orgon et amante de Valère ») ; p00159 |
+| Damis, caché, surprend la déclaration faite à Elmire | `Damis`, `cabinet` | confirmé | p00577 (Damis « va se cacher dans un cabinet ») ; p00631 |
+| Orgon fait au faux dévot donation de tous ses biens | `donation` | confirmé | p00769 (« Vous faire de mon bien donation entière ») |
+| Elmire cache Orgon sous une table | `table` | confirmé | p00854 ; p00916 (Orgon « sortant de dessous la table ») |
+| La cassette appartenait à un ami d'Orgon nommé Argas | `Argas`, `cassette` | confirmé | p00968 (« un dépôt qu’Argas, cet ami que je plains ») |
+| L'imposteur est arrêté par un exempt sur l'ordre du prince | `exempt`, `prince` | confirmé | p01161 (« de la part du prince on vous fait prisonnier ») ; p01191-p01198 |
+| Orgon a rencontré le faux dévot à l'église | `église` | confirmé | p00139 (« Chaque jour à l’église il venait ») |
 
 ### Notes
 
@@ -44,6 +44,10 @@ Je l'ai vu prier à l'église avec tant d'ardeur et d'humilité que je l'ai fait
 - Écarté faute de place : Madame Pernelle (mère d'Orgon), Dorine la servante, Cléante (beau-frère d'Orgon), Monsieur Loyal l'huissier, le mariage final de Mariane et Valère.
 - Désaccord léger avec l'ancien `summary` : « Celui-ci tente de séduire Elmire et de s'approprier les biens » — les biens lui sont donnés par Orgon, il ne les prend pas.
 - Paris : de mémoire (« La scène est à Paris, dans la maison d'Orgon »), assez sûr pour ne pas en faire un fait.
+- Vérification : « Paris » confirmé (p00003 : « La scène est à Paris dans la maison d’Orgon »). Résolu, sans changement.
+- Vérification : Argas et la cassette confirmés (p00968 : « un dépôt qu’Argas, cet ami que je plains » ; p00972 : Orgon la donne à garder à Tartuffe). « cabinet » confirmé (p00577) : le mot exact, non employé dans le résumé.
+- Vérification : « annule la donation » confirmé (p01192 : le prince « brise les liens du contrat qui lui fait un don de tous vos biens »).
+- Vérification : « au roi » non contredit mais différent du texte, qui dit « le prince » (p01147, p01192). Non corrigé : point à trancher.
 
 ### Anciens textes
 
@@ -66,14 +70,14 @@ Je ne sais pas mentir, et je hais ce monde où l'on embrasse ceux qu'on méprise
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le poète qui soumet son sonnet à Alceste s'appelle Oronte | `Oronte`, `sonnet` | à vérifier | |
-| Célimène est veuve | `veuve` | à vérifier | |
-| Éliante est la cousine de Célimène | `Éliante`, `cousine` | à vérifier | |
-| Alceste perd son procès | `procès` | à vérifier | |
-| Alceste a refusé de solliciter ses juges | `solliciter`, `juges` | à vérifier | |
-| Les lettres de Célimène sont lues par les marquis Acaste et Clitandre | `Acaste`, `Clitandre`, `billet` | à vérifier | |
-| Célimène refuse la retraite en invoquant ses vingt ans | `vingt ans`, `solitude` | à vérifier | |
-| Éliante accepte d'épouser Philinte | `Philinte`, `main` | à vérifier | |
+| Le poète qui soumet son sonnet à Alceste s'appelle Oronte | `Oronte`, `sonnet` | confirmé | p00116 ; p00142 (« Vous montrer un sonnet que j’ai fait ») |
+| Célimène est veuve | `veuve` | confirmé | p00099 (« L’amour que je sens pour cette jeune veuve ») |
+| Éliante est la cousine de Célimène | `Éliante`, `cousine` | confirmé | p00110 (« Sa cousine Éliante ») ; p00610 |
+| Alceste perd son procès | `procès` | confirmé | p00087 (« J’aurai le plaisir de perdre mon procès ») ; p00778 (acte V : « Cependant je me vois tromp… ») |
+| Alceste a refusé de solliciter ses juges | `solliciter`, `juges` | confirmé | p00071-p00080 (« Qui pour vous sollicite ? » ; « Je ne remuerai point ») |
+| Les lettres de Célimène sont lues par les marquis Acaste et Clitandre | `Acaste`, `Clitandre`, `billet` | confirmé | p00860-p00877 (Acaste lit les billets ; Clitandre en est le destinataire) |
+| Célimène refuse la retraite en invoquant ses vingt ans | `vingt ans`, `solitude` | confirmé | p00909 (« La solitude effraye une âme de vingt ans ») |
+| Éliante accepte d'épouser Philinte | `Philinte`, `main` | confirmé | p00919-p00921 (Éliante : « Ma main… n’est pas embarrassée » ; Philinte : « cet honneur ») |
 
 ### Notes
 
@@ -86,6 +90,9 @@ Je ne sais pas mentir, et je hais ce monde où l'on embrasse ceux qu'on méprise
 - Simplification : Célimène accepte de l'épouser s'il reste dans le monde, refuse seulement la retraite ; « elle refuse de s'ensevelir dans la solitude » garde ce sens, sans détailler l'offre de mariage.
 - Écarté faute de place : Arsinoé, la prude rivale de Célimène, qui remet à Alceste la lettre de Célimène à Oronte ; le dépit d'Alceste qui offre son cœur à Éliante ; l'affaire portée devant les maréchaux après le sonnet.
 - Accord avec la fiche ; l'ancien `summary` était juste mais trop court.
+- Vérification : « jeune veuve » confirmé (p00099) ; « à vingt ans » confirmé (p00909).
+- Vérification : la perte du procès est attestée à l’acte V (p00778) ; l’acte I annonce le refus de solliciter (p00071-p00080). La note sur l’ordre des actes IV et V était juste.
+- Vérification : les lettres sont lues par Acaste et Clitandre (p00860-p00877), confirmé.
 
 ### Anciens textes
 
@@ -108,13 +115,13 @@ J'ai dix mille écus enterrés dans mon jardin, et je tremble qu'on les découvr
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La cassette contient dix mille écus | `dix mille écus` | à vérifier | |
-| Valère est entré chez Harpagon comme intendant | `intendant` | à vérifier | |
-| Harpagon veut donner Élise à Anselme sans dot | `sans dot`, `Anselme` | à vérifier | |
-| C'est La Flèche qui dérobe la cassette | `La Flèche`, `cassette` | à vérifier | |
-| Maître Jacques accuse Valère du vol | `Jacques`, `Valère` | à vérifier | |
-| Anselme est le père de Valère et de Mariane | `Anselme`, `Alburcy` | à vérifier | |
-| Anselme paie les noces et le commissaire | `commissaire`, `noces` | à vérifier | |
+| La cassette contient dix mille écus | `dix mille écus` | confirmé | p00125 (« Dix mille écus en or ») |
+| Valère est entré chez Harpagon comme intendant | `intendant` | confirmé | p00534 ; p00988 (maître Jacques : « notre intendant », entré « céans ») |
+| Harpagon veut donner Élise à Anselme sans dot | `sans dot`, `Anselme` | confirmé | p00254 (Anselme « s’engage à la prendre sans dot ») |
+| C'est La Flèche qui dérobe la cassette | `La Flèche`, `cassette` | confirmé | p00944 (La Flèche : « Le trésor de votre père, que j’ai attrapé ») |
+| Maître Jacques accuse Valère du vol | `Jacques`, `Valère` | confirmé | p00992-p00996 (Jacques : « c’est monsieur votre cher intendant qui a fait le coup ») ; p01033 |
+| Anselme est le père de Valère et de Mariane | `Anselme`, `Alburci` | confirmé | p01147 (« oui, ma fille ; oui, mon fils ; je suis don Thomas d’Alburci ») |
+| Anselme paie les noces et le commissaire | `commissaire`, `noces` | confirmé | p01177 (« Oui, je m’y oblige ») ; p01187 (« Vous payerez donc le commissaire ? ») |
 
 ### Notes
 
@@ -122,11 +129,15 @@ J'ai dix mille écus enterrés dans mon jardin, et je tremble qu'on les découvr
 - Règle 5 : « avare » et « avarice » écartés (seul mot du titre) ; je dis « ne vit que pour son or », « usure », « mon bien ».
 - Doute : la somme exacte, dix mille écus « en or », je crois. Je l'ai mise dans les deux textes : c'est le fait le plus utile à vérifier.
 - Doute : qui accuse Valère. Je crois que c'est maître Jacques, par vengeance des coups de bâton reçus ; le texte dit seulement « c'est Valère qu'on accuse ». Valère croit qu'on lui reproche son amour pour Élise et « avoue » : quiproquo écarté faute de place.
-- Doute : le vrai nom d'Anselme, « dom Thomas d'Alburcy », Napolitain cru mort dans un naufrage ; je n'en ai gardé que la parenté dans le texte, et donné `Alburcy` comme terme.
+- Doute : le vrai nom d'Anselme, « dom Thomas d'Alburcy », Napolitain cru mort dans un naufrage ; je n'en ai gardé que la parenté dans le texte, et donné `Alburci` comme terme.
 - « Riche veuf » : Harpagon est veuf, de mémoire (la mère de Cléante et d'Élise n'apparaît pas, et il veut se remarier) ; non relevé comme fait, la pièce ne le dit peut-être pas en toutes lettres.
 - Écarté : Frosine l'entremetteuse, maître Simon le courtier, la scène du souper avec maître Jacques (« manger pour vivre »), la bague de diamant que Cléante fait offrir à Mariane.
 - La fiche (`importantPassages`) parle d'un « vol supposé » : le vol est réel (La Flèche prend la cassette). Désaccord léger, noté.
 - Ambiguïté corrigée en rédigeant : « La Flèche, son valet » (« son » pouvait désigner Harpagon, sujet de la proposition principale) devenu « le valet de Cléante ».
+- Vérification : « dix mille écus en or » confirmé (p00125). « on m’a coupé la gorge » confirmé (p00949).
+- Vérification : Maître Jacques accuse Valère (p00992-p00996) ; le vol est réel, par La Flèche (p00944) : la fiche parle à tort de « vol supposé », le résumé est juste.
+- Vérification : le nom d’Anselme est « d’Alburci » dans le texte (p01125, p01147) : terme corrigé dans la table. Le résumé ne nomme pas Anselme.
+- Vérification : Anselme paie les deux noces (p01177) et le commissaire (p01187) : confirmé.
 
 ### Anciens textes
 
@@ -149,13 +160,13 @@ Je compte chaque soir mes lavements et mes potions, et je ne fais pas un pas san
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Argan vérifie le mémoire de l'apothicaire Fleurant | `Fleurant` | à vérifier | |
-| Thomas Diafoirus est le neveu de Purgon | `Diafoirus`, `neveu` | à vérifier | |
-| Cléante s'introduit chez Argan comme maître de musique | `Cléante`, `musique` | à vérifier | |
-| Purgon, offensé, voue Argan à une série de maux | `Purgon`, `bradypepsie`, `hydropisie` | à vérifier | |
-| Toinette, déguisée, attribue tout au poumon | `poumon` | à vérifier | |
-| Béline se réjouit de la mort feinte d'Argan | `Béline` | à vérifier | |
-| La réception finale se fait en latin macaronique | `dignus`, `entrare` | à vérifier | |
+| Argan vérifie le mémoire de l'apothicaire Fleurant | `Fleurant` | confirmé | p00136 (« monsieur Fleurant, mon apothicaire » ; le détail des sommes) |
+| Thomas Diafoirus est le neveu de Purgon | `Diafoirus`, `neveu` | confirmé | p00263 ; p00266 (« le neveu de monsieur Purgon ») |
+| Cléante s'introduit chez Argan comme maître de musique | `Cléante`, `musique` | confirmé | p00620 (« son maître de musique ») |
+| Purgon, offensé, voue Argan à une série de maux | `Purgon`, `bradypepsie`, `hydropisie` | confirmé | p01135 (bradypepsie) ; p01145-p01147 (dysenterie, hydropisie) |
+| Toinette, déguisée, attribue tout au poumon | `poumon` | confirmé | p01217-p01225 (« C’est du poumon que vous êtes malade ») |
+| Béline se réjouit de la mort feinte d'Argan | `Béline` | confirmé | p01315 (« Le ciel en soit loué ! Me voilà délivrée… ») |
+| La réception finale se fait en latin macaronique | `dignus`, `intrare` | confirmé | p01399 (« Dignus, dignus est intrare ») |
 
 ### Notes
 
@@ -169,6 +180,9 @@ Je compte chaque soir mes lavements et mes potions, et je ne fais pas un pas san
 - La fiche et l'ancien `summary` concordent avec ma mémoire ; l'ancien texte était déjà dans la fourchette et ma réécriture en reste proche : elle ajoute la seconde femme comme menace sur l'héritage et, dans `personalSummary`, la malédiction du médecin offensé (Purgon, non nommé).
 - Contrôle croisé en fin de lot : « bourgeois » (titre d'une autre pièce du lot) remplacé par « Parisien ». J'ai gardé « médecin », mot du titre du *Médecin malgré lui* : c'est le sujet même de cette pièce-ci, et « docteur » partout rendrait le texte artificiel.
 - Corpus : « Texte entier », donc tout se vérifie.
+- Vérification : Thomas « neveu de monsieur Purgon » est écrit (p00263, p00266) : la note « non écrit dans le texte » est fausse, le fait est confirmé.
+- Vérification : la liste des maux (bradypepsie p01135, dysenterie p01145, hydropisie p01147) est attestée ; « le poumon » de Toinette, confirmé (p01217-p01225).
+- Vérification : le mémoire de Fleurant (p00136) et la feinte de Béline (p01315) sont confirmés. Le terme « entrare » est corrigé en « intrare » (p01399).
 
 ### Anciens textes
 
@@ -191,13 +205,14 @@ J'ai du bien, et je veux avoir de la qualité : je paie des maîtres pour m'appr
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Jourdain dit de la prose depuis plus de quarante ans sans le savoir | `prose`, `quarante ans` | à vérifier | |
-| Le comte Dorante emprunte de l'argent à Jourdain | `Dorante` | à vérifier | |
-| La marquise courtisée s'appelle Dorimène | `Dorimène`, `marquise` | à vérifier | |
-| Cléonte avoue ne pas être gentilhomme | `Cléonte`, `gentilhomme` | à vérifier | |
-| Jourdain est fait mamamouchi | `mamamouchi`, `Mamamouchi` | à vérifier | |
-| Dorante et Dorimène se marient au dénouement | `Dorimène`, `notaire` | à vérifier | |
-| Covielle épousera Nicole | `Nicole` | à vérifier | |
+| Jourdain dit de la prose depuis plus de quarante ans sans le savoir | `prose`, `quarante ans` | hors zone | absent des pages enregistrées (actes I et V seulement) : la leçon de prose est à l’acte II |
+| Le comte Dorante emprunte de l'argent à Jourdain | `Dorante` | hors zone | absent des pages enregistrées (l’emprunt est à l’acte III) ; l’acte V n’y fait qu’une allusion (p00175 : « le reste de notre écu ») |
+| La femme courtisée par Jourdain s’appelle Dorimène | `Dorimène` | confirmé | p00177 (« DORANTE, DORIMÈNE ») ; p00187 : la cour de Jourdain elle-même est hors pages |
+| Dorimène est marquise | `marquise` | hors zone | « marquise » n’apparaît pas dans les pages enregistrées |
+| Cléonte avoue ne pas être gentilhomme | `Cléonte`, `gentilhomme` | hors zone | absent des pages enregistrées (acte III) ; « gentilhomme » n’apparaît pas |
+| Jourdain est fait mamamouchi | `mamamouchi`, `Mamamouchi` | confirmé | p00146-p00148 (« l’on vient de me faire mamamouchi ») |
+| Dorante et Dorimène se marient au dénouement | `Dorimène`, `notaire` | confirmé | p00290 (Dorante : « nous nous servirons du même notaire pour nous marier, madame et moi ») ; p00297 |
+| Covielle épousera Nicole | `Nicole` | confirmé | p00300-p00302 (Jourdain : « Je la donne au truchement ») |
 
 ### Notes
 
@@ -210,6 +225,9 @@ J'ai du bien, et je veux avoir de la qualité : je paie des maîtres pour m'appr
 - Écarté : le maître tailleur et l'habit aux fleurs à l'envers, la leçon sur les voyelles, le dîner interrompu par Madame Jourdain, le Ballet des Nations final.
 - Ambiguïté corrigée en rédigeant : « Jourdain… lui accorde Lucile » (« lui » pouvait désigner Covielle) devenu « accorde Lucile au prétendu prince ».
 - La fiche parle d'un « valet ingénieux qui invente une dignité étrangère » : d'accord.
+- Vérification : leçon de prose (acte II), emprunt de Dorante et refus de Cléonte (acte III) : hors des pages enregistrées (actes I et V seulement). Hors zone, non corrigé.
+- Vérification : le notaire et les mariages de l’acte V sont attestés (p00289-p00297 ; p00290 pour Dorante et Dorimène ; p00300-p00302 pour Covielle et Nicole). « marquise » est absent des pages : hors zone.
+- Vérification : la cérémonie du mamamouchi (acte IV) n’est pas dans les pages, mais le titre est attesté (p00146-p00148). Le doute sur « Paris » n’est pas tranché par les pages : sans changement.
 
 ### Anciens textes
 
@@ -232,13 +250,13 @@ Les fils de famille amoureux viennent à moi quand tout est perdu, et je sais d�
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Zerbinette passe pour une Égyptienne | `Zerbinette`, `Égyptien` | à vérifier | |
-| Silvestre se déguise en spadassin pour effrayer Argante | `Silvestre`, `spadassin` | à vérifier | |
-| Géronte demande ce que son fils allait faire dans cette galère | `galère` | à vérifier | |
-| La rançon demandée à Géronte est de cinq cents écus | `cinq cents écus` | à vérifier | |
-| Géronte est roué de coups dans un sac | `sac` | à vérifier | |
-| Zerbinette est reconnue fille d'Argante | `Zerbinette`, `bracelet`, `Argante` | à vérifier | |
-| Hyacinte est reconnue fille de Géronte | `Hyacint`, `Pandolphe` | à vérifier | |
+| Zerbinette passe pour une Égyptienne | `Zerbinette`, `Égyptien` | confirmé | p00056 (« une jeune Égyptienne ») ; p00374 |
+| Silvestre se déguise en spadassin pour effrayer Argante | `Silvestre`, `spadassin` | hors zone | épisode d’Argante à l’acte II, absent des pages (actes I et III) ; à l’acte III, le « spadassin » est la voix que Scapin contrefait pour Géronte (p00337), sans Silvestre |
+| Géronte demande ce que son fils allait faire dans cette galère | `galère` | confirmé | p00379 (« Mais que diable alloit-il faire à cette galère ? ») |
+| La rançon demandée à Géronte est de cinq cents écus | `cinq cents écus` | confirmé | p00379 ; p00404 (« Le pendard de Scapin… m’a attrapé cinq cents écus ») |
+| Géronte est roué de coups dans un sac | `sac` | confirmé | p00329 (« mettre dans ce sac ») ; p00337 (« coups de bâton sur le sac ») |
+| Zerbinette est reconnue fille d'Argante | `Zerbinette`, `bracelet`, `Argante` | confirmé | p00477-p00480 (bracelet ; Argante : « c’est ma fille que je perdis ») |
+| Hyacinte est reconnue fille de Géronte | `Hyacint`, `Pandolphe` | confirmé | p00437 (Sylvestre : « Notre Hyacinte s’est trouvée la fille du seigneur Géronte ») ; p00418 (« seigneur Pandolphe ») |
 
 ### Notes
 
@@ -253,6 +271,10 @@ Les fils de famille amoureux viennent à moi quand tout est perdu, et je sais d�
 - Écarté : Nérine la nourrice, l'épisode où Zerbinette raconte en riant la galère à Géronte lui-même, sans le connaître.
 - Graphie : j'écris « Hyacinte », graphie de l'édition originale de mémoire ; l'ancien `summary` écrit « Hyacinthe ». Terme `Hyacint` pour couvrir les deux ; à aligner sur le corpus.
 - La fiche (`locations` : « une ville portuaire italienne ») et l'ancien `summary` concordent avec ma mémoire. L'ancien `personalSummary` disait « le plus avare des deux » : mot du titre d'une autre pièce du lot, que j'ai évité ici aussi pour ne pas égarer le joueur.
+- Vérification : Argante, Silvestre et le spadassin relèvent de l’acte II, hors des pages. À l’acte III, le spadassin est la voix contrefaite par Scapin pour Géronte (p00337), non Silvestre : le résumé ne cite pas Silvestre, rien à corriger.
+- Vérification : la blessure de Scapin est attestée (p00488 : un marteau « lui a brisé l’os ») ; le bandage n’est pas dans les pages : hors zone, point à trancher pour « la tête bandée ».
+- Vérification : les sommes sont attestées (deux cents pistoles, p00405 ; cinq cents écus, p00379 et p00404). « Pandolphe » est attesté (p00418), la note « absent du texte » est fausse. « Hyacinte » est la graphie du texte (p00084) ; le terme « Hyacint » couvre les deux graphies.
+- Vérification : « Naples » n’apparaît pas dans les pages (hors zone, non relevé) ; « Tarente » est attesté (p00078). Le motif de la vengeance n’est pas dans les pages : pas de correction.
 
 ### Anciens textes
 
@@ -275,14 +297,14 @@ J'ai vu trop de maris trompés pour m'exposer à leur sort : j'ai pris une fille
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Arnolphe se fait appeler M. de la Souche | `Souche` | à vérifier | |
-| Agnès a été élevée dans un couvent | `couvent` | à vérifier | |
-| Arnolphe a pris Agnès à l'âge de quatre ans | `quatre ans` | à vérifier | |
-| Agnès jette une pierre accompagnée d'une lettre | `grès`, `pierre`, `billet` | à vérifier | |
-| Horace confie Agnès à Arnolphe sans savoir qui il est | `Horace`, `Agnès` | à vérifier | |
-| Enrique reconnaît Agnès pour sa fille | `Enrique` | à vérifier | |
-| Enrique revient d'Amérique | `Amérique` | à vérifier | |
-| Arnolphe sort sur un « Ouf ! » | `Ouf` | à vérifier | |
+| Arnolphe se fait appeler M. de la Souche | `Souche` | confirmé | p00036 (« de la Souche est le nom que je porte ») ; p00039 |
+| Agnès a été élevée dans un couvent | `couvent` | confirmé | p00025 (« Dans un petit couvent, loin de toute pratique ») |
+| Arnolphe a pris Agnès à l'âge de quatre ans | `quatre ans` | confirmé | p00025 (« dès quatre ans ») |
+| Agnès jette une pierre accompagnée d'une lettre | `grès`, `pierre`, `billet` | hors zone | épisode de l’acte II, absent des pages (actes I et V) ; « pierre » et « billet » n’y apparaissent pas comme tels |
+| Horace confie Agnès à Arnolphe sans savoir qui il est | `Horace`, `Agnès` | confirmé | p00174-p00184 (Horace : « Je m’en allais chez vous vous prier d’une grâce » ; « un logement sûr que je vous fais donner ») |
+| Enrique reconnaît Agnès pour sa fille | `Enrique` | confirmé | p00200 (« Je vous vois tous les traits de cette aimable sœur ») ; p00221 (« Ah ! ma fille ») |
+| Enrique revient d'Amérique | `Amérique` | confirmé | p00140 (« Qu’il s’est en quatorze ans acquis dans l’Amérique ? ») |
+| Arnolphe sort sur un « Ouf ! » | `Ouf` | confirmé | p00216 (« Ouf ! ») |
 
 ### Notes
 
@@ -299,6 +321,9 @@ J'ai vu trop de maris trompés pour m'exposer à leur sort : j'ai pris une fille
 - Écarté : les « Maximes du mariage » qu'Arnolphe fait lire à Agnès, « le petit chat est mort », la chute d'Horace de l'échelle, cru mort.
 - Ambiguïté corrigée en rédigeant (`summary`) : « Horace… lui confie chacun de ses progrès » (« lui » pouvait désigner Agnès) devenu « confie chacun de ses progrès à Arnolphe ».
 - Accord avec la fiche et l'ancien `summary`. Mon `personalSummary` commence comme l'ancien (« J'ai vu trop de maris trompés… ») : constaté après rédaction, en lisant les anciens textes ; gardé, la formule est naturelle dans sa bouche. Différence : l'ancien texte ne dit ni la pierre ni le dénouement.
+- Vérification : « Souche » confirmé (p00032-p00039) ; couvent et « quatre ans » confirmés (p00025) ; « Amérique » confirmé (p00140) ; « Ouf ! » confirmé (p00216).
+- Vérification : la pierre et le billet relèvent de l’acte II, hors des pages : hors zone. Le mot « grès » n’est pas attesté : pas de correction.
+- Vérification : Horace parle d’une « autre alliance » que son père lui impose (p00196-p00197) : « promise à Horace » est attesté, sans détail.
 
 ### Anciens textes
 
@@ -321,13 +346,13 @@ Ma mère et ma sœur ne rêvent que de grec, de vers et de philosophie ; moi, je
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Martine est chassée pour ses fautes de langage | `Martine`, `Vaugelas` | à vérifier | |
-| Le sonnet de Trissotin est adressé à la princesse Uranie | `Uranie`, `sonnet` | à vérifier | |
-| Trissotin et Vadius se querellent après la lecture | `Vadius` | à vérifier | |
-| Clitandre avait d'abord courtisé Armande | `Armande`, `Clitandre` | à vérifier | |
-| Ariste est le frère de Chrysale | `Ariste`, `frère` | à vérifier | |
-| Ariste apporte de fausses lettres annonçant la ruine | `lettre`, `procès`, `banqueroute` | à vérifier | |
-| Trissotin renonce à Henriette en apprenant la ruine | `Trissotin` | à vérifier | |
+| Martine est chassée pour ses fautes de langage | `Martine`, `Vaugelas` | confirmé | p00207 (« ma femme avec raison vous chasse ») ; p00271 (« manque à parler Vaugelas ») |
+| Le sonnet de Trissotin est adressé à la princesse Uranie | `Uranie`, `sonnet` | confirmé | p00368 (« Sonnet à la princesse Uranie, sur sa fievre ») ; p00514 |
+| Trissotin et Vadius se querellent après la lecture | `Vadius` | confirmé | p00507-p00524 (Vadius juge le sonnet « misérable » ; Trissotin révèle qu’il en est l’auteur) |
+| Clitandre avait d'abord courtisé Armande | `Armande`, `Clitandre` | confirmé | p00035 (« Que Clitandre ait pour moi hautement soupiré ») |
+| Ariste est le frère de Chrysale | `Ariste`, `frère` | confirmé | p00004 (« frère de Chrysale ») ; p00105 |
+| Ariste apporte de fausses lettres annonçant la ruine | `lettre`, `procès`, `banqueroute` | confirmé | p00814-p00823 (« Ces deux lettres… » ; « votre procès perdu » ; « banqueroute ») |
+| Trissotin renonce à Henriette en apprenant la ruine | `Trissotin` | confirmé | p00825-p00829 (« Je vois qu’à cet hymen tout le monde est contraire » ; « J’aime mieux renoncer ») |
 
 ### Notes
 
@@ -341,6 +366,9 @@ Ma mère et ma sœur ne rêvent que de grec, de vers et de philosophie ; moi, je
 - Doute : la princesse Uranie et la fièvre du sonnet (« Sonnet à la princesse Uranie sur sa fièvre ») ; assez sûr.
 - Écarté : Bélise, la tante qui se croit aimée de tous, et le dépit final d'Armande ; la querelle de Chrysale sur le pot-au-feu et la cuisine.
 - Accord avec la fiche. Corpus complet (cinq actes et la liste des personnages) : tout se vérifie, y compris la parenté d'Ariste.
+- Vérification : la querelle entre Trissotin et Vadius est attestée (p00507-p00524) : Vadius déprécie le sonnet, Trissotin en révèle l’auteur.
+- Vérification : les lettres d’Ariste (p00817-p00823 : procès perdu, banqueroute) sont confirmées. Le refus d’Henriette est attesté (p00836-p00842), la note « croyant sa famille ruinée » n’est confirmée qu’en partie (p00838).
+- Vérification : Uranie (p00368, p00514) et Vaugelas (p00271) sont confirmés.
 
 ### Anciens textes
 
@@ -363,12 +391,12 @@ Je fais des fagots, je bois mon vin et je bats ma femme quand elle crie trop. Po
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Martine affirme que son mari n'avoue sa science que battu | `bâton`, `coups` | à vérifier | |
-| Sganarelle place le cœur à droite et le foie à gauche | `cœur`, `foie`, `changé tout cela` | à vérifier | |
-| Lucinde feint d'être muette | `muette` | à vérifier | |
-| Léandre se déguise en apothicaire | `apothicaire` | à vérifier | |
-| Sganarelle est menacé d'être pendu | `pendre`, `pendu`, `potence` | à vérifier | |
-| Léandre vient d'hériter de son oncle | `oncle`, `succession` | à vérifier | |
+| Martine affirme que son mari n'avoue sa science que battu | `bâton`, `coups` | confirmé | p00115 (« cinq ou six coups de bâton… ») ; p00144 (« à force de coups, à vous confesser ») |
+| Sganarelle place le cœur à droite et le foie à gauche | `cœur`, `foie`, `changé tout cela` | confirmé | p00481 (Sganarelle : « le foie… au côté droit où est le cœur ») ; p00488-p00489 (« nous avons changé tout cela ») |
+| Lucinde feint d'être muette | `muette` | confirmé | p00441 (« elle est devenue muette ») ; p00561 (« cette maladie… est une feinte maladie ») |
+| Léandre se déguise en apothicaire | `apothicaire` | confirmé | p00567 (« je ne suis pas mal ainsi pour un apothicaire ») ; p00640 |
+| Sganarelle est menacé d'être pendu | `pendre`, `pendu`, `potence` | confirmé | p00715 (« vous serez pendu ») ; p00720 ; p00723 (« est-il bien vrai qu’on te va pendre ? ») |
+| Léandre vient d'hériter de son oncle | `oncle`, `succession` | confirmé | p00740 (« mon oncle est mort, et que je suis héritier de tous ses biens ») |
 
 ### Notes
 
@@ -382,6 +410,10 @@ Je fais des fagots, je bois mon vin et je bats ma femme quand elle crie trop. Po
 - Écarté : l'épisode de M. Robert, battu par les deux époux pour s'être mêlé de leur querelle ; les paysans Thibaut et Perrin ; la nourrice Jacqueline courtisée par Sganarelle.
 - « Je débite un latin que je n'entends pas » : j'avais d'abord écrit « je parle latin sans le savoir », écarté parce qu'il fait écho à la prose de Monsieur Jourdain, autre pièce du lot.
 - Accord avec la fiche (`importantPassages`) sur tous les points ; elle dit « un héritage » sans préciser l'oncle, que l'ancien `summary` donne comme moi. Les anciens textes, lus après rédaction, concordent (potence, oncle, cœur à droite) : ce sont des repères indépendants, pas une preuve.
+- Vérification : Valère et Lucas sont nommés dans le texte (p00120, p00165) : la note « non nommés » est fausse ; le résumé ne les cite pas, rien à corriger.
+- Vérification : Horace, le prétendant imposé, est nommé (p00659, p00683) : confirmé. « feinte maladie » (p00561) confirme la feinte de Lucinde.
+- Vérification : « le cœur à droite » est l’affirmation de Sganarelle (p00481), que Géronte corrige (p00488) : Sganarelle répond « nous avons changé tout cela » (p00489). « potence » n’est pas dans les pages, mais la menace de pendaison l’est (p00715-p00723).
+- Vérification : l’héritage de l’oncle est confirmé (p00740).
 
 ### Anciens textes
 
@@ -404,13 +436,13 @@ Nous sommes venues à Paris apprendre le bel air, et nous ne voulions pas d'aman
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Magdelon et Cathos arrivent de province | `province`, `pecques` | à vérifier | |
-| Cathos est la nièce de Gorgibus | `nièce`, `Cathos` | à vérifier | |
-| La fille de Gorgibus s'appelle Magdelon | `Magdelon`, `Madelon` | à vérifier | |
-| Mascarille se fait passer pour marquis | `marquis de Mascarille`, `Mascarille` | à vérifier | |
-| Jodelet se fait passer pour vicomte | `vicomte`, `Jodelet` | à vérifier | |
-| Mascarille récite un impromptu | `impromptu`, `au voleur` | à vérifier | |
-| Les maîtres dépouillent les valets de leurs habits | `habits`, `dépouill` | à vérifier | |
+| Magdelon et Cathos arrivent de province | `province`, `pecques` | confirmé | p00013 (« deux pecques provinciales ») ; p00191 |
+| Cathos est la nièce de Gorgibus | `nièce`, `Cathos` | confirmé | p00022 (Gorgibus : « ma nièce et ma fille ») |
+| La fille de Gorgibus s'appelle Magdelon | `Magdelon`, `Madelon` | confirmé | p00052 ; p00055 (« Magdelon ») ; graphie « Madelon » dans la plupart des répliques (p00038, p00063) |
+| Mascarille se fait passer pour marquis | `marquis de Mascarille`, `Mascarille` | confirmé | p00073 (« Il me l’a nommé le marquis de Mascarille ») |
+| Jodelet se fait passer pour vicomte | `vicomte`, `Jodelet` | confirmé | p00229 (« Le vicomte de Jodelet ») |
+| Mascarille récite un impromptu | `impromptu`, `au voleur` | confirmé | p00148-p00152 (« impromptu » ; « Au voleur ! au voleur ! ») |
+| Les maîtres dépouillent les valets de leurs habits | `habits`, `dépouill` | confirmé | p00354 (« nos propres habits ») ; p00356 (« Vite, qu’on leur ôte jusqu’à la moindre chose ») |
 
 ### Notes
 
@@ -423,6 +455,8 @@ Nous sommes venues à Paris apprendre le bel air, et nous ne voulions pas d'aman
 - Simplification : les cousines se font appeler Aminte et Polixène ; écarté faute de place.
 - « Gorgibus nous a envoyées nous cacher » : j'avais d'abord écrit « chassées », trop fort au regard des derniers mots de la pièce (fiche, `lastSentences` : « Allez vous cacher, vilaines ; allez vous cacher pour jamais ») ; corrigé.
 - Accord avec la fiche. L'ancien `summary` écrit « Madelon » : la question de graphie est donc réelle. Corpus complet (pièce en un acte).
+- Vérification : « Magdelon » est attesté (p00052, p00055) ; « Madelon » est la graphie la plus fréquente des répliques (p00038, p00063). Le résumé garde « Magdelon ».
+- Vérification : « nièce » de Gorgibus confirmé (p00022) ; « impromptu » et « au voleur » confirmés (p00148-p00152).
 
 ### Anciens textes
 
@@ -445,21 +479,21 @@ J'ai rendez-vous avec ma bien-aimée, et tout le monde semble se liguer pour m'e
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le valet d'Éraste s'appelle La Montagne | `La Montagne` | à vérifier | |
-| Damis est le tuteur d'Orphise | `Damis`, `tuteur`, `oncle` | à vérifier | |
-| Un importun nommé Lysandre fait admirer une courante | `courante`, `Lysandre` | à vérifier | |
-| La partie perdue est une partie de piquet | `piquet` | à vérifier | |
-| Le chasseur importun s'appelle Dorante | `Dorante`, `chasse` | à vérifier | |
-| Le pédant Caritidès demande à Éraste d'appuyer un placet | `Caritidès`, `placet` | à vérifier | |
-| Damis projette de faire assassiner Éraste | `Damis`, `assassin` | à vérifier | |
-| Éraste sauve Damis d'une attaque nocturne | `Damis`, `sauv` | à vérifier | |
+| Le valet d'Éraste s'appelle La Montagne | `La Montagne` | confirmé | p00008 (répliques « La Montagne. ») |
+| Damis est le tuteur d'Orphise | `Damis`, `tuteur`, `oncle` | confirmé | p00008 (« Damis, le tuteur de celle que j’adore ») ; p00052 ; « oncle » p00069 |
+| Un importun nommé Lisandre fait admirer une courante | `courante`, `Lisandre` | confirmé | p00016-p00017 (« Lisandre », graphie du texte ; « ma courante ») |
+| La partie perdue est une partie de piquet | `piquet` | confirmé | p00032 (« Qu’au piquet je perdis hier ») |
+| Le chasseur importun s'appelle Dorante | `Dorante`, `chasse` | confirmé | p00045-p00046 (Dorante : « Tu me vois enragé d’une assez belle chasse ») |
+| Le pédant Caritidès demande à Éraste d'appuyer un placet | `Caritidès`, `placet` | confirmé | p00055-p00058 (« C’est un placet, monsieur, que je voudrois vous lire ») |
+| Damis projette de faire assassiner Éraste | `Damis`, `assassin` | confirmé | p00068 (« Il faut de mille coups percer son traître sein » ; embuscade) |
+| Éraste sauve Damis d'une attaque nocturne | `Damis`, `sauv` | confirmé | p00069-p00072 (Éraste « met l’épée à la main » ; « Je n’ai fait, vous servant, qu’un acte de justice ») |
 
 ### Notes
 
 - `personalSummary` : Éraste parle. Comme la pièce est une revue d'importuns, il les énumère du point de vue de celui qu'on retient ; il nomme Orphise (prénom hors du titre) pour lever toute ambiguïté sur « il m'accorde ».
 - Règle 5 : « fâcheux » et « fâcheuse » écartés (seul mot du titre, et c'est le dernier mot d'Éraste) ; « importuns » à la place.
 - C'est l'œuvre du lot que je connais le moins bien : comédie-ballet en trois actes, jouée à Vaux pour Fouquet, avec un prologue (la naïade) d'une autre plume que celle de l'auteur. L'ordre exact des importuns m'échappe : j'ai suivi l'ordre dont je me souviens (le bavard du théâtre, la courante, le défi, le piquet, le débat des deux dames, la chasse, puis le pédant, le faiseur de projets et l'ami), mais le texte du `summary` ne s'engage que sur des groupes.
-- Doute : les noms des importuns — Lysandre (la courante), Alcandre (le défi), Alcippe (le piquet), Orante et Climène (le débat sur la jalousie), Dorante (la chasse), Caritidès (le pédant au placet sur les enseignes), Ormin (les ports de mer), Filinte (l'ami qui veut le seconder). Je ne nomme aucun importun dans les textes ; j'en relève trois comme faits.
+- Doute : les noms des importuns — Lisandre (la courante), Alcandre (le défi), Alcippe (le piquet), Orante et Climène (le débat sur la jalousie), Dorante (la chasse), Caritidès (le pédant au placet sur les enseignes), Ormin (les ports de mer), Filinte (l'ami qui veut le seconder). Je ne nomme aucun importun dans les textes ; j'en relève trois comme faits.
 - Doute : Damis est-il le tuteur ou l'oncle d'Orphise ? La fiche dit « un tuteur hostile » ; je crois qu'il est son tuteur (et peut-être son oncle). J'ai écrit « tuteur », à vérifier.
 - Doute sérieux : la scène finale de l'attaque. Je crois que Damis a posté des hommes pour surprendre Éraste, et que c'est Damis lui-même qui se trouve attaqué la nuit (par des hommes de La Rivière ?), Éraste survenant pour le défendre. Le texte dit seulement « celui-ci le tire d'une attaque nocturne », sans dire par qui.
 - Doute : « refuser de porter un défi en duel » — de mémoire, Éraste refuse de servir de second ou de porter un appel, au nom des édits du roi contre les duels. Formulation large.
@@ -467,6 +501,9 @@ J'ai rendez-vous avec ma bien-aimée, et tout le monde semble se liguer pour m'e
 - « Des masques » envahissant la fête finale : confirmé par la fiche (`lastSentences`).
 - Anciens textes, lus après rédaction : ils font de Damis « l'oncle » d'Orphise (et « le tuteur » dans la phrase suivante) et attribuent l'attaque à « des serviteurs » d'Éraste. Cela rejoint mon doute sur La Rivière, sans le trancher ; terme `oncle` ajouté au fait sur Damis. Je garde « tuteur », que la fiche emploie aussi.
 - Accord avec la fiche sur l'essentiel ; la fiche ne nomme pas les personnages.
+- Vérification : « Lisandre » est la graphie du texte (p00016-p00017) : terme corrigé dans la table et dans les notes.
+- Vérification : « tuteur » (p00008, p00052) et « oncle » (p00069) sont attestés : le résumé garde « tuteur ».
+- Vérification : l’attaque nocturne vient de La Rivière et de ses compagnons (p00068-p00069), envoyés en embuscade par Damis. Le doute sur l’auteur est tranché, le résumé ne désigne personne : rien à corriger.
 
 ### Anciens textes
 
