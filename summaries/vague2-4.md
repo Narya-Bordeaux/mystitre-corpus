@@ -1,6 +1,6 @@
 # Résumés — vague2-4
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `les-carnets-du-sous-sol`, `resurrection`, `moby-dick`, `gatsby-le-magnifique`, `les-aventures-de-huckleberry-finn`, `les-aventures-de-tom-sawyer`, `la-lettre-ecarlate`, `la-case-de-loncle-tom`, `lappel-de-la-foret`, `lappel-de-cthulhu`
 - Créée le : 2026-11-19
 
@@ -12,24 +12,31 @@ Corpus : 2 pages choisies sur ru.wikisource.org (langue : ru) : « Записк�
 
 ### summary
 
-Terré dans un réduit de Saint-Pétersbourg depuis qu'un petit héritage lui a permis de quitter son emploi, un ancien fonctionnaire de quarante ans, malade et méchant de son propre aveu, raille la raison et le progrès, et revendique le droit de vouloir contre son propre intérêt. Il raconte ensuite sa jeunesse : sa longue revanche contre un officier qui l'avait écarté de son chemin, puis un dîner d'adieu où il s'humilie devant d'anciens camarades d'école. La même nuit, dans une maison close, il bouleverse une jeune prostituée, Liza, en lui peignant sa déchéance. Quand elle vient le trouver, il l'accable de mépris et lui glisse de l'argent dans la main ; elle le laisse sur la table et disparaît dans la neige.
+Terré dans un réduit de Saint-Pétersbourg depuis qu'un petit héritage lui a permis de quitter son emploi, un ancien fonctionnaire de quarante ans, malade et méchant de son propre aveu, raille la raison et le progrès, et revendique le droit de vouloir contre son propre intérêt. Il raconte ensuite sa jeunesse : sa longue revanche contre un officier qui l'avait écarté de son chemin, puis un dîner d'adieu où il s'humilie devant d'anciens camarades d'école. La même nuit, dans sa chambre, il bouleverse une jeune prostituée, Liza, en lui peignant sa déchéance. Quand elle vient le trouver, il l'accable de mépris et lui glisse de l'argent dans la main ; elle le laisse sur la table et disparaît dans la neige.
 
 ### personalSummary
 
-Je suis un homme malade, un homme méchant, et je vis terré dans mon coin, à ricaner de ceux qui croient que l'homme veut son propre bien. Jeune, j'ai passé des mois à préparer ma vengeance contre un officier qui m'avait bousculé, et je me suis imposé à un dîner où personne ne voulait de moi. Cette nuit-là, j'ai parlé à Liza de sa vie perdue jusqu'à la faire pleurer. Quand elle est venue chez moi, je l'ai humiliée, puis je l'ai laissée repartir seule dans la neige.
+Je suis un homme malade, un homme méchant, et je vis terré dans mon coin, à ricaner de ceux qui croient que l'homme veut son propre bien. Jeune, j'ai passé dix-huit mois à préparer ma vengeance contre un officier qui m'avait bousculé, et je me suis imposé à un dîner où personne ne voulait de moi. Cette nuit-là, j'ai parlé à Liza de sa vie perdue jusqu'à la faire pleurer. Quand elle est venue chez moi, je l'ai humiliée, puis je l'ai laissée repartir seule dans la neige.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur se dit malade et méchant dès la première phrase | `больной`, `злой` | à vérifier | |
-| Le narrateur a quarante ans | `сорок` | à vérifier | |
-| Il a quitté son emploi de fonctionnaire grâce à un héritage | `наследств`, `асессор`, `служб` | à vérifier | |
-| Il vit à Saint-Pétersbourg | `Петербург` | à vérifier | |
-| La jeune prostituée se nomme Liza | `Лиз` | à vérifier | |
-| Il glisse de l'argent dans la main de Liza | `руку`, `пятирублев`, `деньги` | à vérifier | |
-| Liza laisse l'argent sur la table avant de partir | `стол`, `бумажк` | à vérifier | |
-| Il sort après elle dans la neige | `снег`, `побежал` | à vérifier | |
+| Le narrateur se dit malade et méchant dès la première phrase | `больной`, `злой` | confirmé | p00003 |
+| Le narrateur a quarante ans | `сорок` | confirmé | p00004, p00006 |
+| Il a quitté son emploi de fonctionnaire grâce à un héritage | `завещани`, `отставк`, `асессор` | confirmé | p00007 (six mille roubles, démission) |
+| Il vit à Saint-Pétersbourg | `Петербург` | confirmé | p00007 |
+| La jeune femme se nomme Liza | `Лиз` | confirmé | p00012, p00018 |
+| Liza est une prostituée | `проститут`, `публичн` | hors zone | absent des pages enregistrées ; la profession n'est pas dite |
+| La scène a lieu dans une maison close | `комнат`, `ширм`, `дома` | corrigé | p00012, p00030 : la scène se passe chez le narrateur |
+| Il reproche à Liza d'être venue écouter des « paroles pitoyables » | `попрекать`, `стыдить`, `жалк` | confirmé | p00013 |
+| Il bouleverse Liza en lui peignant sa déchéance | `падш` | hors zone | absent des pages enregistrées ; le début de la scène n'est pas dans les pages |
+| Il glisse de l'argent dans la main de Liza | `руку`, `пятирублев` | confirmé | p00016, p00023 |
+| Liza laisse l'argent sur la table avant de partir | `стол`, `бумажк` | confirmé | p00023 (billet bleu de cinq roubles) |
+| Il sort après elle dans la neige | `снег`, `вслед` | confirmé | p00017, p00025 |
+| Sa querelle avec un officier dure des mois | `полтора года`, `офицер` | corrigé | p00004 : « полтора года », soit dix-huit mois |
+| L'officier l'a écarté de son chemin | `офицер` | hors zone | absent des pages enregistrées ; seule la querelle au sabre est dite |
+| Le dîner d'adieu réunit d'anciens camarades d'école | `Зверк`, `обед`, `ужин` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -44,6 +51,13 @@ Je suis un homme malade, un homme méchant, et je vis terré dans mon coin, à r
 - Le corpus n'a que le premier chapitre et le dernier : l'officier et le dîner sont hors zone.
 - Premier jet à 139 mots : j'ai retiré les « auditeurs imaginaires », le « caprice » et l'adresse laissée à Liza.
 - Désaccord avec l'ancien résumé : aucun, il était seulement très vague.
+- Vérification : quarante ans confirmés (p00004, p00006). Le grade d'assesseur (« коллежский асессор ») et l'héritage de six mille roubles d'un parent éloigné sont attestés (p00007) ; le montant, non écrit, reste hors du résumé.
+- Vérification : Saint-Pétersbourg et le climat qui lui nuit sont attestés (p00007).
+- Vérification : durée de la querelle : « полтора года », soit dix-huit mois (p00004). Correction de `personalSummary` : « des mois » devient « dix-huit mois ». La taverne, la bousculade et la perspective Nevski ne sont pas dans les pages : hors zone.
+- Vérification : le dîner et Zverkov, Simonov, Troubetskoï et Ferfitchkine : absents des pages, hors zone.
+- Vérification : ordre de la dernière scène. Le billet est bien bleu, de cinq roubles (p00023) ; Liza le laisse sur la table (p00023) ; il court après elle dans la neige (p00017, p00025) puis rentre chez lui le soir (p00030). La dispute avec Apollon, absente, est hors zone ; l'étreinte n'est pas racontée (p00013) : hors zone.
+- Vérification : Liza a dû pleurer (« должно быть, плакала », p00012) : vraisemblance du texte, confirmée. La profession de Liza n'est pas dite dans les pages : hors zone. Le lieu de la scène est corrigé (p00012, p00030).
+- Vérification : la seconde partie, souvenir de ses vingt-quatre ans : absent, hors zone. Le chapitre 10 de la seconde partie est bien le dernier de l'œuvre (p00031), ce que dit la note du corpus.
 
 ### Anciens textes
 
@@ -66,14 +80,19 @@ Assis parmi les jurés, j'ai reconnu dans l'accusée la jeune fille que j'avais 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le prince se nomme Nekhlioudov | `Nekhl`, `Nékhl`, `Nekhludov`, `Nekhlioudov` | à vérifier | |
-| L'accusée se nomme Maslova | `Maslov` | à vérifier | |
-| L'accusée est appelée Katioucha | `Katucha`, `Katioucha`, `Katiou`, `Katiusha` | à vérifier | |
-| Maslova est accusée d'avoir empoisonné un marchand | `empoison`, `marchand` | à vérifier | |
-| Nekhlioudov lui avait laissé un billet de cent roubles | `cent roubles` | à vérifier | |
-| Maslova choisit de suivre le détenu politique Simonson | `Simonson` | à vérifier | |
-| Nekhlioudov trouve dans l'Évangile la règle de sa vie | `Évangile`, `Sermon`, `Matthieu` | à vérifier | |
-| La peine de Maslova est adoucie par une grâce | `grâce`, `commu`, `colonie` | à vérifier | |
+| Le prince se nomme Nekhlioudov | `Nekhl`, `Nekhludov` | confirmé | p00022 (graphie Nekhludov) |
+| L'accusée se nomme Maslova | `Maslov` | confirmé | p00005, p00008 |
+| L'accusée est appelée Katioucha | `Katucha`, `Katioucha` | confirmé | p00022 (graphie Katucha) |
+| Il a eu une liaison avec Katioucha, qu'il a quittée | `affaire`, `Katucha` | confirmé | p00022 : « son affaire avec Katucha était finie » |
+| Maslova est accusée d'avoir empoisonné un marchand | `empoison`, `marchand` | hors zone | absent des pages enregistrées |
+| Nekhlioudov siège parmi les jurés | `juré`, `jury` | hors zone | absent des pages enregistrées |
+| Nekhlioudov avait laissé à Maslova un billet de cent roubles | `cent roubles`, `rouble` | hors zone | absent des pages enregistrées |
+| Maslova choisit de suivre le détenu politique Simonson | `Simonson`, `politiq` | hors zone | absent des pages enregistrées |
+| Nekhlioudov trouve dans l'Évangile la règle de sa vie | `Évangile`, `Mathieu` | confirmé | p00026, p00064, p00072 |
+| Il découvre en chemin l'injustice des prisons | `prisonniers`, `air empesté` | confirmé | p00024, p00062 |
+| La peine de Maslova est adoucie par une grâce | `grâce`, `commu`, `déportation` | hors zone | absent des pages enregistrées |
+| Il cède ses terres aux paysans | `terres`, `paysan` | hors zone | absent des pages enregistrées |
+| Il suit Maslova jusqu'en Sibérie | `Sibér` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -87,6 +106,15 @@ Assis parmi les jurés, j'ai reconnu dans l'accusée la jeune fille que j'avais 
 - Doute : « Sa peine adoucie » — je crois que son recours en grâce aboutit et que les travaux forcés sont changés en déportation ; je ne suis pas sûr que ce soit une grâce complète, d'où la formulation large.
 - Écarté faute de place : Missy Kortchaguine, la fiancée mondaine (graphie incertaine) ; le marchand empoisonné (Smielkov ?) ; les autres accusés.
 - Désaccord avec la fiche : aucun ; l'ancien résumé disait « le prince » sans préciser qu'il est juré, c'est cohérent.
+- Vérification : graphies Nekhludov et Katucha confirmées (p00022, p00005) ; la graphie française usuelle reste dans le résumé.
+- Vérification : « la Maslova » (surnom du personnage) : attesté (p00005, p00016).
+- Vérification : ville du procès (Moscou ?) : absente des pages, hors zone ; rien n'est écrit.
+- Vérification : « cent roubles » : absent des pages, hors zone.
+- Vérification : « chassée, enceinte » et l'enfant mort : absents, hors zone.
+- Vérification : « une erreur du jury » : absente, hors zone.
+- Vérification : « cède ses terres aux paysans » : absent, hors zone.
+- Vérification : « sa peine adoucie » (grâce ou déportation) : absent, hors zone ; les occurrences de « grâce » ne concernent pas sa peine.
+- Vérification : Missy Kortchaguine et le marchand empoisonné : absents, hors zone (écartés).
 
 ### Anciens textes
 
@@ -109,14 +137,17 @@ Appelez-moi Ismaël. Quand la tristesse me prend, je pars en mer : cette fois, j
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur se présente sous le nom d'Ismaël | `Ishmael` | à vérifier | |
-| Ismaël part en mer pour chasser sa mélancolie | `hypos`, `damp, drizzly November`, `grim about the mouth` | à vérifier | |
-| Le baleinier se nomme le Péquod | `Pequod` | à vérifier | |
-| Ismaël embarque à Nantucket | `Nantucket` | à vérifier | |
-| Achab cloue au mât une pièce d'or pour qui signalera la baleine | `doubloon`, `nail` | à vérifier | |
-| La chasse finale dure trois jours | `third day`, `Third Day` | à vérifier | |
-| Ismaël survit en flottant sur un cercueil | `coffin` | à vérifier | |
-| Il est recueilli par le baleinier la Rachel | `Rachel` | à vérifier | |
+| Le narrateur se présente sous le nom d'Ismaël | `Ishmael` | confirmé | p00003 |
+| Ismaël part en mer pour chasser sa mélancolie | `hypos`, `damp, drizzly November` | confirmé | p00003 |
+| Le baleinier se nomme le Péquod | `Pequod` | hors zone | absent des pages enregistrées |
+| Ismaël embarque à Nantucket | `Nantucket` | hors zone | absent des pages enregistrées |
+| Achab cloue au mât une pièce d'or pour qui signalera la baleine | `doubloon`, `nailed` | hors zone | absent des pages enregistrées |
+| La chasse finale dure trois jours | `third day`, `three days` | hors zone | absent : l'épilogue parle du « dernier jour » (p00024) |
+| La chasse s'achève par le naufrage du navire | `sunk ship`, `wreck` | confirmé | p00023, p00024 |
+| Achab meurt | `Ahab` | hors zone | absent : l'épilogue ne dit pas la mort d'Achab |
+| Ismaël est seul survivant | `survive the wreck` | confirmé | p00023 |
+| Ismaël survit en flottant sur un cercueil | `coffin` | confirmé | p00024 |
+| Il est recueilli par le baleinier la Rachel | `Rachel` | confirmé | p00024 |
 
 ### Notes
 
@@ -129,6 +160,10 @@ Appelez-moi Ismaël. Quand la tristesse me prend, je pars en mer : cette fois, j
 - Doute : Achab est-il tué par la ligne du harpon qui l'entraîne ? Je crois que oui, je me contente de « la mort d'Achab ».
 - Simplification : Queequeg est présenté comme ami avant l'embarquement (rencontre à l'auberge de New Bedford, que j'ai tue). La fiche parle de « ports maritimes animés » : cohérent.
 - Écarté faute de place : Stubb, Flask, Fedallah, Pip, le père Mapple, les chapitres de cétologie.
+- Vérification : Péquod, Nantucket, Queequeg, doublon : absents des pages, hors zone.
+- Vérification : la Rachel cherchait ses enfants perdus (« missing children », p00024) : confirmé.
+- Vérification : le cercueil sert de bouée de sauvetage (« coffin life-buoy », p00024) ; son origine (Queequeg) n'est pas dans les pages : hors zone.
+- Vérification : la mort d'Achab par la ligne du harpon : absente, hors zone.
 
 ### Anciens textes
 
@@ -151,14 +186,19 @@ L'été où je suis venu vivre à West Egg, mon voisin donnait chaque semaine de
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur se nomme Nick Carraway | `Carraway`, `Nick` | à vérifier | |
-| Nick s'installe à West Egg | `West Egg`, `Egg` | à vérifier | |
-| Daisy est la cousine de Nick | `cousin` | à vérifier | |
-| Le mari de Daisy se nomme Tom Buchanan | `Buchanan` | à vérifier | |
-| Une lumière verte brille au bout du ponton de Daisy | `lumière verte`, `verte` | à vérifier | |
-| Presque personne ne vient aux funérailles | `enterrement`, `funérailles`, `obsèques` | à vérifier | |
-| Nick rentre dans l'Ouest à la fin | `Ouest`, `Middle-West` | à vérifier | |
-| La maîtresse de Tom se nomme Myrtle | `Myrtle` | à vérifier | |
+| Le narrateur se nomme Nick Carraway | `Carraway`, `Nick` | confirmé | p00015, p00046 |
+| Nick s'installe à West Egg | `West-Egg` | confirmé | p00015 (graphie West-Egg) |
+| Daisy est la cousine de Nick | `cousin` | confirmé | p00016, p00120 (cousine éloignée) |
+| Le mari de Daisy se nomme Tom Buchanan | `Buchanan` | confirmé | p00016, p00019 |
+| Une lumière verte brille au bout du ponton de Daisy | `lumière verte` | confirmé | p00170, p00356 |
+| Presque personne ne vient aux funérailles | `Il ne vint personne` | confirmé | p00314, p00315 (quelques domestiques et l'homme aux lunettes de hibou) |
+| Nick rentre dans l'Ouest à la fin | `rentrer au pays`, `Middle-West` | confirmé | p00327, p00329 |
+| La maîtresse de Tom se nomme Myrtle | `Myrtle` | confirmé | p00347 |
+| L'été de l'action est celui de 1922 | `1922` | confirmé | p00007 |
+| Tom renseigne Wilson sur la voiture | `Wilson`, `voiture` | confirmé | p00345 |
+| Le mari de Myrtle tue l'amant de Daisy, puis se tue | `Wilson` | hors zone | absent : seul le corps de Wilson est mentionné (p00172) |
+| Daisy conduit la voiture qui écrase Myrtle | `écrase` | hors zone | absent ; p00347 : Tom attribue l'accident à « il » (Gatsby) : à trancher |
+| La dispute new-yorkaise où Tom dévoile les trafics | `trafic`, `Plaza` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -174,6 +214,13 @@ L'été où je suis venu vivre à West Egg, mon voisin donnait chaque semaine de
 - Ambiguïté corrigée : « abat dans sa piscine l'homme qu'il croit coupable » (« sa » pouvait renvoyer au mari) devenu « tue l'amant de Daisy, qu'il croit coupable » ; la piscine disparaît. Je me souviens qu'il est tué dans sa piscine, non écrit.
 - Premier jet à 128 mots : retirés « fastueuses », « depuis », la piscine, « dans un hôtel ».
 - Écarté : Jordan Baker, Meyer Wolfsheim, le père du héros, le regard du docteur Eckleburg.
+- Vérification : 1922 confirmé (p00007). « Cousine éloignée » (p00016) : le résumé dit « la cousine », sans contradiction.
+- Vérification : « avant la guerre » et le jeune officier de 1917 : absents des pages, hors zone. Louisville apparaît comme ville d'enfance (p00156), non comme lieu de la rencontre.
+- Vérification : la dispute new-yorkaise, le Plaza et les trafics (chapitre VII, absent) : hors zone.
+- Vérification : le prénom de Wilson (George) : absent des pages, hors zone ; son nom et son rôle sont attestés (p00172, p00173).
+- Vérification : « lumière verte » : la traduction du corpus dit mot pour mot « lumière verte » (p00170, p00356).
+- Vérification : la piscine et le meurtre de Gatsby : absents, hors zone (la piscine n'apparaît que dans la description de la villa, p00015).
+- Vérification : Jordan Baker et Meyer Wolfsheim sont présents (p00247, p00330-p00332) ; le résumé ne les cite pas, donc rien à vérifier.
 
 ### Anciens textes
 
@@ -196,14 +243,16 @@ La veuve voulait faire de moi un garçon civilisé, mais c'est mon père, ivre e
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le garçon est recueilli par la veuve Douglas | `Douglas`, `widow` | à vérifier | |
-| La veuve veut le civiliser | `sivilize`, `civilize` | à vérifier | |
-| Jim est l'esclave de Miss Watson | `Watson`, `Jim` | à vérifier | |
-| Deux escrocs se font appeler le roi et le duc | `king`, `duke` | à vérifier | |
-| Le garçon décide qu'il ira en enfer plutôt que de dénoncer Jim | `go to hell` | à vérifier | |
-| Miss Watson a affranchi Jim dans son testament en mourant | `free`, `will`, `died` | à vérifier | |
-| À la fin, le garçon veut partir vers les Territoires | `Territory` | à vérifier | |
-| La tante de Tom se nomme Sally | `Sally` | à vérifier | |
+| Le garçon est recueilli par la veuve Douglas | `Douglas`, `widow` | confirmé | p00003 |
+| La veuve veut le civiliser | `sivilise` | confirmé | p00003, p00029 |
+| Jim est l'esclave de Miss Watson | `Watson`, `Jim` | hors zone | absent des pages : Jim n'apparaît pas dans le premier chapitre |
+| Jim est déjà libre avant l'évasion | `already free before` | confirmé | p00015 |
+| Deux escrocs se font appeler le roi et le duc | `king`, `duke` | hors zone | absent des pages enregistrées |
+| Le garçon décide qu'il ira en enfer plutôt que de dénoncer Jim | `hell` | hors zone | absent des pages enregistrées |
+| Miss Watson a affranchi Jim par testament en mourant | `will`, `died` | hors zone | absent des pages enregistrées ; la mort de Miss Watson n'est pas dans les pages |
+| À la fin, le garçon veut partir vers les Territoires | `Territory` | confirmé | p00029 |
+| La tante de Tom se nomme Sally | `Aunt Sally` | confirmé | p00017, p00029 |
+| Le père du garçon est mort | `pap` | hors zone | absent : p00021 dit seulement que « pap » n'est pas revenu |
 
 ### Notes
 
@@ -216,6 +265,14 @@ La veuve voulait faire de moi un garçon civilisé, mais c'est mon père, ivre e
 - Doute : « On apprend alors » — de mémoire, c'est Tom qui révèle que Miss Watson est morte deux mois plus tôt en affranchissant Jim par testament ; puis Jim révèle que le père du garçon est mort (l'homme de la maison flottante). Le dernier chapitre est dans le corpus.
 - Écarté faute de place : la querelle entre Grangerford et Shepherdson, l'escroquerie de l'héritage Wilks, le brouillard et Cairo manqué. La fiche mentionne « des adultes représentant un monde violent ou hypocrite » : cohérent avec ces épisodes.
 - `summary` ne dit pas le départ final vers les Territoires (faute de place) ; `personalSummary` le dit.
+- Vérification : « Tom Sawyer » est nommé dans le chapitre I (p00002) : confirmé.
+- Vérification : l'âge du garçon : absent des pages, hors zone.
+- Vérification : « s'emparent du radeau » et le prix de vente de Jim : absents, hors zone. Les quarante dollars (p00018) sont un cadeau de Tom à Jim, non une vente.
+- Vérification : « Tant pis, j'irai en enfer » : absent (« hell » ne figure pas), hors zone.
+- Vérification : à la ferme, Tom est soigné (p00017) : confirmé. Sid et le fait que le garçon soit pris pour Tom : absents, hors zone.
+- Vérification : la révélation sur Miss Watson, morte deux mois plus tôt : absente, hors zone.
+- Vérification : la mort du père (la maison flottante) : absente, hors zone (voir la table).
+- Vérification : la querelle Grangerford-Shepherdson, l'héritage Wilks et Cairo : absents, hors zone.
 
 ### Anciens textes
 
@@ -238,13 +295,14 @@ Tante Polly a beau me punir, j'invente toujours un moyen de changer une corvée 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le garçon est élevé par sa tante Polly | `Polly` | à vérifier | |
-| Ses camarades le paient pour blanchir la palissade | `whitewash`, `fence` | à vérifier | |
-| Joe l'Indien tue le docteur Robinson | `Injun Joe`, `Robinson` | à vérifier | |
-| Muff Potter est accusé du meurtre | `Muff Potter`, `Potter` | à vérifier | |
-| Becky Thatcher se perd avec lui dans la grotte | `Becky`, `Thatcher`, `cave` | à vérifier | |
-| Joe l'Indien meurt enfermé dans la grotte | `Injun Joe`, `cave` | à vérifier | |
-| Les deux garçons deviennent riches grâce au trésor | `money`, `rich`, `dollars` | à vérifier | |
+| Le garçon est élevé par sa tante Polly | `Polly` | confirmé | p00012, p00027 |
+| Ses camarades le paient pour blanchir la palissade | `whitewash` | hors zone | absent : la scène n'est pas dans le chapitre I |
+| Joe l'Indien tue le docteur Robinson | `Injun Joe`, `Robinson` | hors zone | absent des pages enregistrées |
+| Muff Potter est accusé du meurtre | `Muff Potter`, `Potter` | hors zone | absent des pages enregistrées |
+| Becky Thatcher se perd avec lui dans la grotte | `Becky`, `Thatcher`, `cave` | hors zone | absent des pages enregistrées |
+| Joe l'Indien meurt enfermé dans la grotte | `Injun Joe`, `cave` | hors zone | absent des pages enregistrées |
+| Les deux garçons vivent prospères | `prosperous` | confirmé | p00115 (« la plupart des personnages » sont prospères) |
+| Les deux garçons deviennent riches grâce au trésor | `treasure`, `money`, `dollars` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -258,6 +316,11 @@ Tante Polly a beau me punir, j'invente toujours un moyen de changer une corvée 
 - Ancien résumé et fiche cohérents ; la fiche dit « une exploration souterraine pleine de danger » : la grotte.
 - Écarté faute de place : la conclusion, où (de mémoire) la veuve Douglas adopte Huck, qui veut s'enfuir, et où le garçon le convainc de rester pour entrer dans sa bande de brigands. Dans le corpus.
 - Avertissement « je trouve » levé en reformulant (« j'invente toujours un moyen »), bien que la tournure ne fût pas un avis de lecteur.
+- Vérification : la ville n'est pas nommée « St. Petersburg » mais « St. Petersburgh », au chapitre I (p00051). La note de la passe 1, qui écrit qu'elle n'est pas nommée, est contredite ; le résumé ne nomme pas la ville, il n'y a donc rien à corriger.
+- Vérification : la palissade, payée en objets et non en argent (pomme, cerf-volant…) : absente, hors zone.
+- Vérification : Joe Harper dans la fugue, le montant du trésor, la porte de la grotte : absents, hors zone.
+- Vérification : la conclusion ne raconte pas l'adoption de Huck : elle ne dit que la prospérité de « la plupart » des personnages (p00115), hors zone pour le reste.
+- Vérification : Huckleberry Finn n'apparaît dans aucune des deux pages (chapitre I et conclusion) : le nom n'est pas attesté ici, hors zone.
 
 ### Anciens textes
 
@@ -274,20 +337,25 @@ Dans la Boston puritaine du XVIIe siècle, Hester Prynne est exposée sur l'éch
 
 ### personalSummary
 
-Pour avoir mis au monde une enfant hors du mariage, je porte sur la poitrine une lettre rouge que tous regardent. Je n'ai jamais livré le nom du père, pas même à mon mari, revenu sous un faux nom pour se venger. Pearl a grandi près de moi, à l'écart de la ville, et mes broderies nous ont fait vivre. Dans la forêt, nous avons rêvé de fuir ; mais il a choisi d'avouer, et il est mort contre moi.
+Pour avoir mis au monde une enfant hors du mariage, je porte sur la poitrine une lettre rouge que tous regardent. Je n'ai jamais livré le nom du père, pas même à mon mari, revenu sous un faux nom pour se venger. Pearl a grandi près de moi, à l'écart de la ville, et mes broderies m'occupaient, pendant que des présents venus de loin nous faisaient vivre. Dans la forêt, nous avons rêvé de fuir ; mais il a choisi d'avouer, et il est mort contre moi.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'héroïne se nomme Hester Prynne | `Hester`, `Prynne` | à vérifier | |
-| L'enfant se nomme Pearl | `Pearl` | à vérifier | |
-| Le pasteur se nomme Arthur Dimmesdale | `Dimmesdale` | à vérifier | |
-| Le mari prend le nom de Roger Chillingworth | `Chillingworth` | à vérifier | |
-| La lettre est un A | `letter A`, `A, gules` | à vérifier | |
-| L'action se passe à Boston | `Boston` | à vérifier | |
-| Dimmesdale meurt sur l'échafaud après sa confession | `scaffold`, `died`, `minister` | à vérifier | |
-| Hester gagne sa vie par ses travaux d'aiguille | `needle`, `needlework`, `embroider` | à vérifier | |
+| L'héroïne se nomme Hester Prynne | `Hester`, `Prynne` | confirmé | p00010, p00016 |
+| L'enfant se nomme Pearl | `Pearl` | confirmé | p00014, p00015 |
+| Le pasteur se nomme Dimmesdale | `Dimmesdale` | confirmé | p00010 |
+| Le pasteur se prénomme Arthur | `Arthur` | hors zone | absent des pages : le prénom n'apparaît pas |
+| Le mari prend le nom de Roger Chillingworth | `Chillingworth` | confirmé | p00010, p00013 |
+| Le mari est le médecin du pasteur | `physician` | confirmé | p00013, p00015 |
+| La lettre est un A | `letter A`, `A, gules` | confirmé | p00021 |
+| L'action se passe à Boston | `Boston` | confirmé | p00005 |
+| Dimmesdale meurt sur l'échafaud, dans les bras d'Hester | `scaffold`, `arms` | confirmé | p00011, p00015 |
+| Dimmesdale avoue sa faute devant la ville | `dying words` | hors zone | p00011 : certains témoins rapportent que ses dernières paroles ne reconnaissaient rien ; le narrateur écarte cette version sans décrire d'aveu : à trancher |
+| Hester brode | `embroidering` | confirmé | p00017 |
+| Hester gagne sa vie par ses travaux d'aiguille | `embroidering`, `wealth` | corrigé | p00017 : des présents venus de loin, « que seule la richesse aurait pu acheter » |
+| Pearl part en Europe | `Europe` | hors zone | absent : seulement « une autre terre » (p00017) |
 
 ### Notes
 
@@ -299,6 +367,12 @@ Pour avoir mis au monde une enfant hors du mariage, je porte sur la poitrine une
 - Doute : « mes broderies nous ont fait vivre » — je suis assez sûr qu'elle vit de ses travaux d'aiguille, recherchés même par les notables.
 - Écarté faute de place : la fin du dernier chapitre (corpus), où (de mémoire) Chillingworth meurt et lègue sa fortune à Pearl, Pearl part en Europe, Hester revient porter la lettre et est enterrée près de Dimmesdale sous une pierre portant un A, « gules » en héraldique. Je l'ai relevé comme terme de recherche.
 - Écarté : la préface « La Douane », le gouverneur Bellingham, Mistress Hibbins.
+- Vérification : Boston confirmé (p00005). Le XVIIe siècle et la date (années 1640 ?) : absents, hors zone.
+- Vérification : le mari « qu'on croyait disparu », sa captivité chez les Indiens, son retour le jour de l'échafaud : absents des pages, hors zone.
+- Vérification : la marque sur la poitrine du pasteur est rapportée par la plupart des témoins (p00010) ; les théories sur son origine restent ouvertes (p00010).
+- Vérification : « mes broderies nous ont fait vivre » est contredit : Hester brode (p00017), mais des présents venus de loin, que seule la richesse aurait pu acheter, les font vivre. Correction de `personalSummary`.
+- Vérification : la fin du dernier chapitre est dans les pages : legs de Chillingworth à Pearl (p00014), retour d'Hester (p00016, p00017), tombe au « A, gules » (p00020, p00021). Pearl en Europe : hors zone.
+- Vérification : la préface « La Douane », Bellingham et Mistress Hibbins : absents, hors zone.
 
 ### Anciens textes
 
@@ -321,14 +395,17 @@ J'ai toujours servi mon maître du Kentucky avec loyauté, et c'est lui qui m'a 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier maître se nomme Shelby | `Shelby` | à vérifier | |
-| Éliza traverse l'Ohio sur les glaces | `Ohio`, `glace`, `glaçons` | à vérifier | |
-| La mère qui s'enfuit se nomme Éliza | `Éliza`, `Eliza`, `Élisa` | à vérifier | |
-| Le fils d'Éliza est appelé Henri dans la traduction | `Henri`, `Harry` | à vérifier | |
-| Le mari d'Éliza se nomme Georges Harris | `Harris`, `Georges` | à vérifier | |
-| Le père d'Éva se nomme Saint-Clare | `Saint-Clare`, `Saint-Clair`, `St-Clare` | à vérifier | |
-| Le dernier maître se nomme Legree | `Legree` | à vérifier | |
-| Le fils Shelby affranchit ses esclaves en mémoire du vieil esclave | `affranchi`, `liberté`, `libres` | à vérifier | |
+| Le premier maître se nomme Shelby | `Shelby` | confirmé | p00007, p00008 |
+| M. Shelby est criblé de dettes | `dettes` | confirmé | p00070 |
+| Shelby vend son plus fidèle serviteur à un marchand d'esclaves | `Haley` | confirmé | p00010, p00017 |
+| Éliza traverse l'Ohio sur les glaces | `Ohio`, `glace` | hors zone | absent des pages enregistrées |
+| La mère qui s'enfuit se nomme Éliza | `Éliza` | confirmé | p00036, p00074 |
+| Le fils d'Éliza est appelé Henri dans la traduction | `Henri` | confirmé | p00037, p00082 |
+| Le mari d'Éliza se nomme Georges Harris | `Georges`, `Harris` | hors zone | absent des pages enregistrées |
+| Le père d'Éva se nomme Saint-Clare | `Saint-Clare`, `Saint-Clair` | hors zone | absent des pages enregistrées |
+| Le dernier maître se nomme Legree | `Legree` | hors zone | absent des pages enregistrées |
+| Le fils Shelby arrive trop tard, après la mort du vieil esclave | `sa mort`, `sa tombe` | confirmé | p00118, p00127 |
+| Le fils Shelby affranchit ses esclaves en mémoire du vieil esclave | `lettres d'affranchissement`, `oncle Tom` | confirmé | p00120, p00122, p00127 |
 
 ### Notes
 
@@ -342,6 +419,12 @@ J'ai toujours servi mon maître du Kentucky avec loyauté, et c'est lui qui m'a 
 - Doute : le corpus a le chapitre XLV ; je ne sais pas si c'est le dernier chapitre du récit (l'affranchissement au Kentucky) ou les « remarques finales » de l'auteur. Si c'est l'adresse de l'auteur, les faits du dénouement seront hors zone.
 - Écarté faute de place : Topsy, miss Ophélia, le marchand Haley (je crois qu'il figure au premier chapitre, non relevé puisque non écrit), Chloé la femme de l'esclave, le Canada final d'Éliza et Georges ; la fiche les évoque de manière générale, cohérent.
 - Premier jet un peu trop long (deux phrases sur Éva et Saint-Clare), fondu en une phrase avant le contrôle.
+- Vérification : « le petit Henri » : confirmé (p00037) ; la traduction francise le prénom en « Henri ».
+- Vérification : Shelby et les dettes (p00070) : confirmé. Haley figure au chapitre I (p00010 à p00017) : fait désormais relevé dans la table.
+- Vérification : l'ordre des morts d'Éva et de Saint-Clare, et les deux femmes en fuite : absents des pages, hors zone.
+- Vérification : contredit. La note « il lui parle avant sa mort » est fausse : George arrive après la mort, il raconte la mort du vieil esclave (p00118) et parle sur sa tombe (p00127). « Arrivé trop tard » est donc confirmé.
+- Vérification : le chapitre XLV est bien le dénouement (affranchissement, p00119 à p00127), non les remarques finales de l'auteur.
+- Vérification : Topsy, Ophélia, Chloé et le Canada : absents, hors zone.
 
 ### Anciens textes
 
@@ -354,7 +437,7 @@ Corpus : 2 pages choisies sur en.wikisource.org (langue : en) : « The Call of t
 
 ### summary
 
-Buck, un chien puissant qui vit choyé chez le juge Miller, en Californie, est vendu par un jardinier endetté et expédié dans le Grand Nord, où l'on cherche de l'or. Dressé à coups de gourdin, il apprend la loi du plus fort en tirant les traîneaux de François et de Perrault, et tue Spitz, son rival, pour prendre la tête de l'attelage. Épuisé par des maîtres incapables, il est sauvé par John Thornton, à qui il voue un amour absolu. Mais il sent grandir en lui l'attrait de la vie sauvage et court des jours entiers avec un loup. Quand des Indiens tuent Thornton, Buck les massacre, puis rejoint une meute de loups dont il devient le chef.
+Buck, un chien puissant qui vit choyé chez le juge Miller, en Californie, est vendu par un aide-jardinier endetté et expédié dans le Grand Nord, où l'on cherche de l'or. Dressé à coups de gourdin, il apprend la loi du plus fort en tirant les traîneaux de François et de Perrault, et tue Spitz, son rival, pour prendre la tête de l'attelage. Épuisé par des maîtres incapables, il est sauvé par John Thornton, à qui il voue un amour absolu. Mais il sent grandir en lui l'attrait de la vie sauvage et court des jours entiers avec un loup. Quand des Indiens tuent Thornton, Buck les massacre, puis rejoint une meute de loups dont il devient le chef.
 
 ### personalSummary
 
@@ -364,14 +447,20 @@ Je vivais en seigneur dans une grande maison au soleil quand on m'a vendu et jet
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Buck vit chez le juge Miller | `Buck`, `Judge Miller`, `Miller` | à vérifier | |
-| La maison est en Californie, dans la vallée de Santa Clara | `Santa Clara`, `California` | à vérifier | |
-| Buck est vendu par un jardinier endetté | `Manuel`, `gardener` | à vérifier | |
-| Buck tue Spitz pour prendre la tête de l'attelage | `Spitz` | à vérifier | |
-| Buck est sauvé par John Thornton | `Thornton` | à vérifier | |
-| Des Indiens tuent Thornton | `Yeehat`, `Thornton` | à vérifier | |
-| Buck rejoint une meute de loups | `wolf`, `wolves`, `pack` | à vérifier | |
-| Les traîneaux appartiennent à François et Perrault | `François`, `Perrault` | à vérifier | |
+| Buck vit chez le juge Miller | `Judge Miller` | confirmé | p00005, p00007 |
+| La maison est dans la vallée de Santa Clara | `Santa Clara` | confirmé | p00005 |
+| La maison est en Californie | `California` | hors zone | absent des pages enregistrées (la vallée de Santa Clara est attestée) |
+| Buck est vendu par un jardinier endetté | `Manuel`, `gardener` | corrigé | p00009 : Manuel est « l'un des aides du jardinier », endetté au jeu (loterie chinoise) |
+| Buck tue Spitz pour prendre la tête de l'attelage | `Spitz` | hors zone | absent : seul « Spitzbergen » figure (p00054) |
+| Buck appartient à John Thornton | `Thornton` | confirmé | p00059, p00066 |
+| Buck est sauvé par John Thornton | `rescue` | hors zone | absent des pages enregistrées |
+| Des Indiens tuent Thornton | `Yeehat`, `Thornton` | confirmé | p00096, p00098, p00099 (« John Thornton was dead ») |
+| Buck massacre les Indiens | `Yeehat` | confirmé | p00097, p00099 |
+| Buck rejoint une meute de loups | `wolves`, `pack` | confirmé | p00103, p00104 |
+| Buck devient le chef de la meute, selon la légende | `leaders`, `Ghost Dog` | confirmé | p00104, p00105 (légende des Yeehats : le « chien fantôme » court en tête de la meute) |
+| Buck est dressé au gourdin | `club` | confirmé | p00029, p00035 |
+| Les traîneaux sont conduits par François et Perrault | `François`, `Perrault` | confirmé | p00049, p00053, p00054 |
+| Hal, Charles et Mercedes sont des maîtres incapables | `Mercedes`, `Charles` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -384,6 +473,11 @@ Je vivais en seigneur dans une grande maison au soleil quand on m'a vendu et jet
 - Doute : les Indiens sont des Yeehats ; je suis assez sûr du nom (dernier chapitre, dans le corpus), non écrit pour rester simple.
 - Doute : « dont il devient le chef » — de mémoire, il mène la meute et devient le « chien fantôme » d'une légende des Yeehats, revenant chaque été au lieu de la mort de Thornton. « Chef » est peut-être plus que ce que dit le texte : à vérifier.
 - Écarté : le pari où Buck tire seul un traîneau chargé de mille livres ; le sauvetage de Thornton dans les rapides.
+- Vérification : Manuel est « l'un des aides du jardinier » (p00009) : le résumé dit « jardinier », correction faite. Loterie chinoise confirmée (p00009).
+- Vérification : François et Perrault transportent les dépêches du gouvernement (p00049, p00053) : confirmé ; la propriété des traîneaux n'est pas dite, « de François et de Perrault » est donc à lire comme « conduits par ».
+- Vérification : l'homme au chandail rouge et le gourdin (p00029, p00035) : confirmés.
+- Vérification : Buck « dont il devient le chef » : seulement dans la légende (p00105) ; la phrase du résumé reste à lire comme telle.
+- Vérification : le pari des mille livres et le sauvetage dans les rapides : absents, hors zone.
 
 ### Anciens textes
 
@@ -406,14 +500,18 @@ En classant les papiers de mon grand-oncle, je n'ai d'abord vu que les lubies d'
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur se nomme Francis Wayland Thurston | `Thurston`, `Francis Wayland` | à vérifier | |
-| Le grand-oncle est le professeur Angell | `Angell`, `grand-uncle`, `granduncle` | à vérifier | |
-| Le professeur Angell meurt à Providence | `Providence` | à vérifier | |
-| Le jeune sculpteur se nomme Wilcox | `Wilcox` | à vérifier | |
-| L'inspecteur se nomme Legrasse | `Legrasse` | à vérifier | |
-| Le raid a lieu dans les marais de Louisiane | `swamp`, `Louisiana`, `New Orleans` | à vérifier | |
-| La cité engloutie se nomme R'lyeh | `R'lyeh`, `Rlyeh` | à vérifier | |
-| Le marin norvégien se nomme Johansen | `Johansen`, `Norwegian` | à vérifier | |
+| Le narrateur se nomme Francis Wayland Thurston | `Francis Wayland Thurston` | confirmé | p00003 (sous-titre), p00008 |
+| Le grand-oncle est le professeur Angell | `grand-uncle`, `Angell` | confirmé | p00007 |
+| Le professeur Angell meurt à Providence | `Providence`, `Williams Street` | confirmé | p00007 (chemin de la rive vers sa maison de Williams Street) |
+| Le professeur Angell meurt après avoir été bousculé par un marin | `jostled` | confirmé | p00007 |
+| Le jeune sculpteur se nomme Wilcox | `Wilcox` | confirmé | p00011, p00012 |
+| L'inspecteur se nomme Legrasse | `Legrasse` | confirmé | p00011, p00024 |
+| Le raid a lieu dans les marais de Louisiane | `swamp`, `Louisiana`, `New Orleans` | confirmé | p00025, p00031 |
+| La cité engloutie se nomme R'lyeh | `R'lyeh` | confirmé | p00015, p00032 |
+| Le marin norvégien se nomme Johansen | `Johansen`, `Norwegian` | confirmé | p00073 |
+| L'équipage de Johansen réveille la créature | `accident` | confirmé | p00099, p00103 (« par accident ») |
+| Johansen lance son navire contre la créature, qui se recompose | `head on`, `recombining` | confirmé | p00106, p00107 |
+| Johansen meurt peu après son retour | `knocked him down`, `dead` | confirmé | p00090 |
 
 ### Notes
 
@@ -426,6 +524,14 @@ En classant les papiers de mon grand-oncle, je n'ai d'abord vu que les lubies d'
 - Doute : « il est mort peu après » — Johansen meurt à Oslo, après avoir été bousculé lui aussi, je crois, avant la visite de Thurston, qui lit son manuscrit auprès de sa veuve.
 - Sans doute de ma part : la cité se nomme R'lyeh, avec apostrophe ; relevé tout de même, c'est un nom clé.
 - Désaccord avec la fiche : aucun ; ses descriptions (Providence, marais de Louisiane, Australie, Norvège) concordent avec ma mémoire. J'ai tu le port australien et le navire trouvé à la dérive, faute de place.
+- Vérification : le nom de Thurston figure dans le sous-titre (p00003) et il est l'héritier narrateur (p00008) : confirmé.
+- Vérification : Angell meurt à Providence, sur le chemin de la rive vers sa maison de Williams Street (p00007) : confirmé.
+- Vérification : Legrasse présente sa statuette à un congrès de 1908, à Saint-Louis (p00011, p00023) : confirmé.
+- Vérification : l'équipage ouvre une immense porte et réveille la créature « par accident » (p00099, p00103) : confirmé.
+- Vérification : la créature se recompose après le choc de Johansen (p00106, p00107) : confirmé.
+- Vérification : Johansen et son compagnon montent à bord de l'Alert, et le compagnon, William Briden, meurt (p00078, p00079) : le résumé ne le dit pas, hors sujet.
+- Vérification : contredit. La note situe la mort de Johansen à Oslo, « après avoir été bousculé » : le texte dit qu'il est mort peu après son retour, après une chute lors d'une promenade près du quai de Göteborg, renversé par une liasse de papiers tombée d'une fenêtre (p00090). Le résumé dit seulement « mort peu après » : rien à corriger.
+- Vérification : R'lyeh avec apostrophe (p00015) : confirmé.
 
 ### Anciens textes
 
