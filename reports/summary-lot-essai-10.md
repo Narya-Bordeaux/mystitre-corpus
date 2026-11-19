@@ -99,3 +99,27 @@ Je n'ai pas ressenti de baisse d'attention en fin de lot. La difficulté a été
 - La règle de titre (règle 5) ne dit rien des mots du titre qui figurent dans le texte lui-même (« essais », « essayer » dans les Essais). Le résumé doit les éviter ; le contrôle de titre du lint ne les voit pas. Une ligne dans la consigne réglerait ce point, et éviterait qu'une note de passe 1 affirme l'inverse.
 - Les Essais et le Tao : la vérification de « l'expression exacte » d'un fait (« jouir loyalement », « Apollon » absent, « Latoe » présent) demande de lire le passage, non de chercher le mot. La consigne l'indique déjà ; je l'ai appliquée.
 
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- `madame-bovary` : la découverte des lettres « suit la mort d'Emma » reste
+  confirmée : le dernier chapitre enregistré (III, 11) la présuppose.
+- `candide` : « pessimiste » gardé pour Martin (le texte dit « manichéen » ;
+  « pessimiste » n'est pas contredit et parle mieux au joueur).
+- `sindbad` : « chaque jour » gardé pour les cent sequins (le porteur les
+  reçoit après chaque récit ; « encore cent sequins » le confirme en sens).
+- `les-miserables`, `don-quichotte`, `sindbad`, `essais` : faits hors zone
+  gardés (règle « on ne perd rien faute de source »).
+- `tao-te-king` : correction de la passe 2 retenue (attribution fausse des
+  « dix mille êtres », p00206).
+- `essais` : la « correction » de note de la passe 2 est une erreur de lecture.
+  La note de passe 1 portait sur les deux résumés, qui ne contiennent aucun mot
+  de la famille d'« essai » ; la passe 2 l'a confrontée au texte de l'œuvre,
+  qui en contient évidemment. Note de passe 1 juste, textes inchangés.
+
+Bilan de l'essai : rédaction Opus sur 10 œuvres sans baisse de soin ;
+vérification Haiku à l'aveugle fiable sur les faits (68 confirmés, 24 hors
+zone, 1 correction juste), avec une erreur d'interprétation sans effet sur les
+textes.
+

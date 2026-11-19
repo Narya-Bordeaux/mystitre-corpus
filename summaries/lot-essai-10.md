@@ -1,6 +1,6 @@
 # Résumés — lot-essai-10
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `madame-bovary`, `les-miserables`, `candide`, `hamlet`, `le-cid`, `don-quichotte`, `la-metamorphose`, `sindbad`, `essais`, `tao-te-king`
 - Créée le : 2026-11-19
 
