@@ -16,6 +16,7 @@ Ce dépôt ne contient que des données. Le moteur qui les produit est dans le d
 | `texts/<id>.md` | Même texte, lisible dans GitHub, régénéré depuis le JSON |
 | `translations/<id>.json` | Original étranger : traduction alignée phrase par phrase, avec l'original de chaque phrase |
 | `proposals/<id>.json` | Extraits d'ouverture et de clôture proposés pour le jeu (français et original), à relire |
+| `summaries/<session>.md` | Résumés (`summary`, `personalSummary`) réécrits par une session de 3 ou 4 œuvres, avec les faits confrontés au texte (spécification : `docs/summary_rewrite.md` du dépôt `mystitre`) |
 
 `<id>` est l'identifiant de l'œuvre dans le catalogue du jeu (`assets/data/books.json`).
 
