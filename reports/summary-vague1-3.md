@@ -117,3 +117,11 @@ Je n'ai pas senti de baisse d'attention en fin de lot, mais le travail a été l
 3. La règle « un fait qui affirme deux choses se scinde » a servi deux fois et est claire.
 4. Un gabarit de ligne « Vérification » reprenant ancienne et nouvelle formulation, comme dans `lot-essai-10`, a été suivi.
 
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- Corrections retenues (`la-belle-au-bois-dormant` : fée « pas priée » ; `cendrillon` : « à minuit »).
+- `le-petit-chaperon-rouge` : la page enregistrée finit sur « et la mangea » ; le résumé qui évoque la moralité est gardé (elle existe dans l'édition de Perrault ; la page du corpus est à vérifier côté corpus).
+- `le-chat-botte`, `la-belle-au-bois-dormant`, `blanche-neige` : mots courants du titre évités (règle antérieure à v1.21.5) ; textes clairs (« un matou », « au teint pâle »), laissés tels quels.
+- `princesse-de-cleves` : « pour son repos » gardé (hors zone, motif connu de l'œuvre).

@@ -115,3 +115,12 @@ Aucune correction de texte. Les doutes de la passe 1 ont été vérifiés un par
 
 - La règle 3 (œuvre entière dans le corpus) ne couvre pas le cas où le corpus n'a que quelques actes : j'ai traité ces cas comme hors zone (corpus partiel), sans « à trancher ». Une précision dans la consigne aiderait.
 - La consigne ne dit pas si une graphie de nom propre différente du résumé (Magdelon/Madelon) doit donner lieu à un appui ; j'ai appliqué la règle « graphie différente = confirmé » et gardé la graphie du résumé.
+
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- `tartuffe` : « au roi » gardé (le « prince » du texte est le roi).
+- `les-fourberies-de-scapin` : « la tête bandée » et « Naples » gardés (hors zone).
+- `le-bourgeois-gentilhomme` : Monsieur Jourdain dupe jusqu'au bout dans « Mon histoire » : gardé, c'est fidèle à la pièce.
+- Aucune confusion de prénoms entre pièces relevée par la vérification.

@@ -1,6 +1,6 @@
 # Résumés — vague1-3
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `phedre`, `le-petit-chaperon-rouge`, `cendrillon`, `la-belle-au-bois-dormant`, `le-chat-botte`, `princesse-de-cleves`, `fables-la-fontaine`, `blanche-neige`, `hansel-et-gretel`, `raiponce`, `le-joueur-de-flute-de-hamelin`
 - Créée le : 2026-11-19
 

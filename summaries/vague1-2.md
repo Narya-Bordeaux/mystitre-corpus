@@ -1,6 +1,6 @@
 # Résumés — vague1-2
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `notre-dame-de-paris`, `le-dernier-jour-dun-condamne`, `lhomme-qui-rit`, `les-travailleurs-de-la-mer`, `quatrevingt-treize`, `ruy-blas`, `hernani`, `lucrece-borgia`, `han-dislande`, `bug-jargal`, `rene-chateaubriand`
 - Créée le : 2026-11-19
 

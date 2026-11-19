@@ -1,6 +1,6 @@
 # Résumés — vague1-1
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `le-comte-de-monte-cristo`, `les-trois-mousquetaires`, `le-rouge-et-le-noir`, `la-chartreuse-de-parme`, `germinal`, `lassommoir`, `bel-ami`, `une-vie`, `la-parure`, `le-horla`, `poil-de-carotte`
 - Créée le : 2026-11-19
 

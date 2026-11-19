@@ -111,3 +111,12 @@ Le lot est long (onze œuvres au lieu de trois ou quatre). La fin n'a pas été 
 - **Statut « corrigé » et reformulation du fait.** J'ai utilisé « corrigé » chaque fois que l'énoncé du fait a été réécrit pour coller au texte (1626, Chélan, recours en grâce, enlèvement). Pour une simple scission sans changement de sens, j'ai gardé « confirmé ». La consigne gagnerait à le dire.
 - **Précision de « Appui » pour « hors zone ».** La consigne prévoit « absent des pages enregistrées ». Quand un terme voisin apparaît (« Afrique », « Julien », « assidu »), j'ai ajouté une précision entre parenthèses, pour que la relecture voie pourquoi le fait n'est pas tranché.
 - **Un fait reformulé sans correction.** Pour *La Chartreuse de Parme*, « Le comte Mosca est ministre du prince » est devenu « premier ministre », formulation du texte (p00094). Ce changement d'énoncé n'est pas une correction de fond ; je le signale pour que l'intégration le sache.
+
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- `le-rouge-et-le-noir` : « Au procès, je n'ai pas voulu de grâce » gardé (fidèle au texte).
+- `le-comte-de-monte-cristo`, `les-trois-mousquetaires`, `poil-de-carotte` : faits hors zone gardés (Noirtier, Constance, etc.).
+- `bel-ami` : « Algérie » gardé (Duroy y a servi ; le texte dit « deux années d'Afrique », sans contradiction).
+- Mots courants du titre évités par la rédaction (règle antérieure à v1.21.5) : textes laissés tels quels, ils restent clairs.

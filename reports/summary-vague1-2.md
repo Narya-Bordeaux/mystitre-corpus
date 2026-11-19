@@ -323,3 +323,11 @@ Les faits « Notes » (doutes) sont vérifiés sur une ligne « Vérification : 
 - **Fait à deux affirmations** : la scission en deux lignes a servi sept fois (dont une pour ajouter le fait corrigé). Le tableau reste lisible.
 - **Doutes qui se contredisent** : j'ai corrigé la note, pas le résumé, quand le texte contredit seulement le doute (`bug-jargal`, `ruy-blas` : Olmedo). La consigne le permet ; je le signale par cohérence.
 
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- `ruy-blas` : correction de la passe 2 retenue (aveu, puis meurtre, puis poison). L'erreur de la fiche (`importantPassages`) est hors du périmètre des résumés : signalée dans `docs/todo.md` de `mystitre`.
+- `quatrevingt-treize` : « 1793 » évité, gardé ainsi (nombre du titre traité comme un nom propre).
+- `le-dernier-jour-dun-condamne`, `bug-jargal`, `han-dislande` : faits hors zone gardés (corpus partiel).
+- `lhomme-qui-rit` : « Dea meurt dans mes bras » gardé (hors zone, conforme à l'œuvre).

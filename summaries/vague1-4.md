@@ -1,6 +1,6 @@
 # Résumés — vague1-4
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `tartuffe`, `le-misanthrope`, `lavare`, `le-malade-imaginaire`, `le-bourgeois-gentilhomme`, `les-fourberies-de-scapin`, `lecole-des-femmes`, `les-femmes-savantes`, `le-medecin-malgre-lui`, `les-precieuses-ridicules`, `les-facheux`
 - Créée le : 2026-11-19
 
