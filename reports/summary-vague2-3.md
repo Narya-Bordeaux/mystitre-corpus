@@ -171,4 +171,60 @@ Outils : `summary lint` après chaque œuvre ; fuites contrôlées avec
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+| Œuvre | Faits | Confirmés | Hors zone | Corrigés | Texte au corpus |
+|---|---|---|---|---|---|
+| `electre` | 7 | 7 | 0 | 0 | une page (texte entier) |
+| `micromegas` | 9 | 8 | 0 | 1 | 7 chapitres choisis |
+| `voyages-de-gulliver` | 9 | 3 | 6 | 0 | 3 chapitres choisis (ch. 1-2 de Lilliput, ch. 12 du dernier voyage) |
+| `mahabharata` | 8 | 0 | 8 | 0 | aucun |
+| `shahnameh` | 7 | 1 | 6 | 0 | 2 pages (invocation, dédicace) |
+| `le-neveu-de-rameau` | 8 | 7 | 0 | 1 | une page (texte entier) |
+| `jacques-le-fataliste` | 8 | 8 | 0 | 0 | une page (texte entier) |
+| `recherche-du-temps-perdu` | 7 | 6 | 1 | 0 | 2 pages (Combray seulement ; Le Temps retrouvé III) |
+| `freres-karamazov` | 8 | 1 | 6 | 1 | 2 pages (livre I ch. I ; épilogue III) |
+| `lidiot` | 8 | 4 | 4 | 0 | 2 pages (I ch. 1 ; IV ch. 12) |
+| **Total** | **79** | **45** | **31** | **3** | |
+
+Les « Vérification » des Notes couvrent chaque doute de la passe 1. Aucun doute n'est resté sans issue.
+
+### Corrections
+
+1. `micromegas`, paragraphe p00018 : « Arrivés sur la Terre, ils la croient d'abord inhabitée » devient « Arrivés sur la Terre, le Saturnien la croit d'abord inhabitée ». Le texte dit que le nain conclut à une Terre sans habitants, et que le Sirien le contredit.
+2. `le-neveu-de-rameau`, paragraphe p00004 : « Un soir, au café de la Régence » devient « Un après-midi, au café de la Régence ». Le texte dit « Une après-dînée j'étais là » ; « souper ce soir » (p00487) est un projet.
+3. `freres-karamazov`, paragraphe p00056 : « Dmitri est pourtant condamné au bagne » devient « Dmitri est pourtant condamné à l'exil ». Aliocha dit « один пойдет в ссылку » (l'un des deux frères ira en exil). Le mot « bagne » n'apparaît pas dans les pages.
+
+### Points à trancher
+
+- `le-neveu-de-rameau` : la scène de chasse à table (p00661-p00671) ne nomme pas la maison. Le lien avec Bertin (« le fou de Bertin », p00655) est fort, mais inféré. Le fait est marqué « confirmé » avec cette réserve dans l'appui.
+- `micromegas` : « ils croient que l'univers a été fait pour eux » généralise une thèse portée par un seul docteur (p00040). Non contredit, laissé tel quel.
+- `freres-karamazov` : la correction « exil » suit le texte des pages enregistrées. Si la relecture préfère « bagne » (peine de katorga, de mémoire), elle sort de ce que le corpus permet de vérifier.
+- `lidiot` : « la plus jeune fille » (Aglaé) n'est pas écrit ; le texte dit « sa sœur cadette » (p00096). Non contredit.
+- `mahabharata` : les `firstSentences` et `lastSentences` de la fiche semblent forgées (rédaction). Non vérifiables sans texte. À signaler à la relecture du catalogue.
+- Corpus, `shahnameh` : le compte rendu du corpus donne la source comme « declared », qui n'est pas un site Wikisource. Anomalie de données à corriger dans `mystitre-corpus`, hors de cette passe.
+
+### Contrôles
+
+- `summary lint vague2-3 --checked` : 0 erreur, 0 avertissement (après les corrections et les deux lignes ajoutées).
+- Fuites : `summary apply vague2-3 --output` (catalogue simulé, 10 fiches, hors du dépôt) puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur. » Ce contrôle a été refait après les dernières modifications.
+- `summary mark vague2-3 checked` : lancé après l'écriture de ce compte rendu.
+
+### Incidents
+
+- Le script de mise à jour a oublié les faits de `recherche-du-temps-perdu` au premier passage. `summary lint --checked` a signalé 7 faits « encore à vérifier » ; ils ont été renseignés et le lint est repassé à 0.
+- Deux faits ont été ajoutés au tableau pour tracer une correction qui n'y figurait pas : « Les géants croient la Terre inhabitée d'abord » (micromegas) et « La conversation a lieu l'après-midi, non le soir » (rameau).
+- Le clone du dépôt `mystitre-corpus` s'est fait sans encombre (shallow, quelques secondes).
+
+### Difficultés au fil du lot
+
+- La fin du lot a été plus pénible que le début. Les derniers faits ont été relevés avec un contexte déjà chargé, et l'oubli de `recherche-du-temps-perdu` dans le script en est le signe : j'ai dû vérifier mon propre tableau plutôt que de m'y fier.
+- La matière est inégale. `mahabharata` n'a aucun texte, `shahnameh` deux pages, `freres-karamazov` et `lidiot` des pages choisies : pour ces quatre œuvres, la plupart des faits restent hors zone, et c'est la consigne qui décide, pas le texte.
+- Les textes russes, traduits par des graphies variées, demandent de chercher en racines. Pour `freres-karamazov`, la racine « Зосим » n'a rien donné : l'absence n'a été tenue pour un « hors zone » qu'après la recherche des variantes.
+
+### Retours sur la consigne
+
+- Œuvre sans aucun texte (`mahabharata`) : la consigne ne prévoit que « hors zone, absent du texte complet ». Pour un corpus vide, j'ai écrit « hors zone, appui : aucun texte au corpus ». Une catégorie dédiée serait plus claire.
+- Fait attesté seulement en partie (`le-neveu-de-rameau`, `lidiot`) : la consigne n'a pas de statut pour « partiellement attesté ». J'ai choisi « confirmé » avec la réserve écrite dans l'appui, et je signale le choix.
+- Mot traduit plus précisément qu'en français (`freres-karamazov`, « ссылка » contre « bagne ») : la consigne ne dit pas si c'est une contradiction. J'ai corrigé, car le texte fait foi ; la relecture peut trancher autrement.
+- Un fait relevé dans la passe 1 comme doute et contredit par le texte, mais absent du tableau, n'a pas de procédure claire : j'ai ajouté une ligne au tableau pour garder la trace.
