@@ -38,6 +38,7 @@ J'étais un bâtard, et l'héritage de mon père a fait de moi l'un des hommes l
 - Doute : la mort d'André a lieu après l'évacuation de Moscou, chez les Rostov en route (Mytichtchi, puis Iaroslavl) ; je l'ai écrit sans lieu, « veillé par Natacha », et Marie est aussi présente.
 - Doute : « marché pieds nus » pendant la retraite, je crois que Pierre marche sans souliers ; à vérifier si l'image est trop précise.
 - La fiche du catalogue est trop vague pour être en désaccord avec ma mémoire.
+- Ambiguïté laissée en l'état : dans « Fiancée à André, la jeune Natacha Rostova se laisse séduire par Anatole Kouraguine et rompt avec lui », « lui » peut désigner André ou Anatole (le sens voulu est André).
 
 ### Anciens textes
 
@@ -75,6 +76,8 @@ Je m'enfermais dans ma mansarde, affamé, à ruminer une idée : certains hommes
 - Le corpus ne couvre que I/1 et l'épilogue (chapitre 2) : Lizaveta, Porphyre et l'aveu sont probablement absents ; l'épilogue doit confirmer le bagne, les huit ans et Sonia.
 - Doute : huit ans de travaux forcés, il me semble (peine réduite par les circonstances atténuantes) ; à vérifier.
 - « Aliona » et « Porphyre » sont les graphies françaises usuelles ; la traduction du corpus peut écrire « Alena » et « Porphyre » ou « Porfiri ».
+- La « mansarde » du `personalSummary` est une image de mémoire, non relevée comme fait.
+- La lecture de l'Évangile par Sonia (résurrection de Lazare) est au milieu du roman, hors du corpus ; seul l'Évangile de l'épilogue peut être confirmé.
 
 ### Anciens textes
 
@@ -112,6 +115,7 @@ Mes deux frères se sont entre-tués, et le roi, mon oncle, défend sous peine d
 - Doute : « mon oncle » ; Créon est le frère de Jocaste, donc l'oncle maternel, j'en suis assez sûr.
 - Doute : le corps reçoit deux fois de la poussière (la seconde fois elle est surprise) ; je n'en évoque qu'une.
 - La fiche du catalogue ne contredit rien.
+- J'ai écarté « la fille aînée d'Œdipe », faute d'être sûr qu'elle soit l'aînée.
 
 ### Anciens textes
 
@@ -150,6 +154,9 @@ Petit greffier de district, je n'ai jamais refusé mon aide à un homme dans le 
 - Doute : à la fin, Song Jiang fait boire le poison à Li Kui pour qu'il ne se révolte pas, et Wu Yong et Hua Rong se pendent sur sa tombe ; « ses derniers fidèles le suivent dans la mort » reste large exprès. Lu Junyi, empoisonné au mercure, n'est pas nommé.
 - Le corpus est en caractères traditionnels : termes donnés dans cette graphie.
 - Fiche du catalogue cohérente avec ma mémoire ; elle parle d'un tigre tué « à mains nues », je l'ai réduit à « le tueur de tigre ».
+- « Des ministres jaloux » simplifie : Gao Qiu, Tong Guan, Cai Jing et Yang Jian, dont je ne suis pas sûr de la répartition des rôles dans l'empoisonnement.
+- « Une crypte » et « cent huit esprits stellaires » sont des approximations : une stèle sous laquelle s'ouvre une fosse, et des étoiles démoniaques (天罡, 地煞).
+- « Petit greffier de district » traduit 押司 ; l'équivalence française n'est pas sûre.
 
 ### Anciens textes
 

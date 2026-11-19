@@ -32,17 +32,17 @@ consigne (`mystitre/.claude/skills/summary-draft/SKILL.md`) ou la spécification
 5. **Où noter ces retours.** La consigne ne prévoit pas d'endroit pour les
    hésitations sur la consigne elle-même : d'où ce fichier.
 
-### Doutes non reportés dans les notes de la session
+### Doutes reportés après coup dans les notes de la session
 
-Doutes apparus pendant la rédaction mais absents des « Notes » de
-`summaries/lot-test.md`. Les deux premiers points sont à corriger ou à
-vérifier.
+Doutes apparus pendant la rédaction mais oubliés dans les « Notes » de
+`summaries/lot-test.md`, puis ajoutés à la demande de la relectrice ou du
+relecteur. Les textes n'ont pas été corrigés : la phrase ambiguë reste en
+l'état, la session sert à tester la procédure.
 
 - **Guerre et Paix**
   - Phrase ambiguë dans le `summary` : « Fiancée à André, la jeune Natacha
     Rostova se laisse séduire par Anatole Kouraguine et rompt avec lui » ;
-    « lui » peut désigner André ou Anatole. Correction envisagée : « et rompt
-    ses fiançailles ».
+    « lui » peut désigner André ou Anatole. Laissée en l'état.
 - **Crime et Châtiment**
   - La « mansarde » du `personalSummary` est une image de mémoire, pas un fait
     relevé.
