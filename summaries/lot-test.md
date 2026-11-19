@@ -1,6 +1,6 @@
 # Résumés — lot-test
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `guerre-et-paix`, `crime-et-chatiment`, `antigone`, `au-bord-de-leau`
 - Créée le : 2026-11-19
 
