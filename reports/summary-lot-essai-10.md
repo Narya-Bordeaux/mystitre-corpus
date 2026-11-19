@@ -47,4 +47,55 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+Chaque ligne du tableau « Faits à vérifier » compte pour un fait ; un fait qui affirme deux choses a été scindé. Total : 93 lignes.
+
+| Œuvre | Confirmés | Hors zone | Corrigés | Corpus lu |
+|---|---|---|---|---|
+| `madame-bovary` | 8 | 5 | 0 | 2 pages (début de la première partie, fin de la troisième) |
+| `les-miserables` | 2 | 7 | 0 | 2 pages (ouverture, chapitre de la tombe) |
+| `candide` | 9 | 0 | 0 | texte entier (30 chapitres) |
+| `hamlet` | 8 | 0 | 0 | pièce entière (une seule « page ») |
+| `le-cid` | 10 | 0 | 0 | pièce entière |
+| `don-quichotte` | 5 | 4 | 0 | 2 chapitres (I et LXXIV de la seconde partie) |
+| `la-metamorphose` | 9 | 0 | 0 | texte entier, allemand |
+| `sindbad` | 4 | 5 | 0 | cadre et septième voyage |
+| `essais` | 5 | 3 | 0 | 2 chapitres (I, 1 et III, 13) |
+| `tao-te-king` | 8 | 0 | 1 | texte entier, traduction Julien |
+| **Total** | **68** | **24** | **1** | |
+
+### Corrections
+
+- `tao-te-king`, `summary` : « principe sans nom d'où naissent le ciel, la terre et les dix mille êtres » devient « principe sans nom d'où naissent le ciel et la terre, mère de toutes choses une fois nommé ». Paragraphe p00206 (chapitre I) : le sans-nom est l'origine du ciel et de la terre, et c'est le nommé qui est « la mère de toutes choses ». La contradiction était dans l'attribution.
+- Pour rester à 120 mots (plafond du lint), j'ai retiré « courts » et « souvent » dans la première phrase du même `summary`, et écrit « qu'on » pour « que l'on » dans « Dès la première phrase, la Voie qu'on peut exprimer ». Ce sont des retouches de longueur, sans changement de sens.
+- `essais`, notes : la note de passe 1 affirmait qu'aucun mot de la famille d'« essai » n'apparaît dans les deux textes. C'est faux : le texte emploie « essais » (p00024), « essayer » (p00042) et « j'essaye » (p00044). Le résumé ne les reprend pas. Correction consignée en « Vérification », sans toucher au texte.
+
+### Points à trancher
+
+1. `madame-bovary` : « La découverte suit la mort d'Emma » est marqué confirmé par lecture (« Par respect », p00100), mais la mort d'Emma n'est pas dans les pages. À confirmer, ou à passer hors zone.
+2. `candide` : le texte dit « manichéen » (p00157), le résumé dit « pessimiste ». Rien ne contredit « pessimiste », je ne l'ai pas corrigé.
+3. `sindbad` : « chaque jour » pour les cent sequins est hors zone ; le texte dit « encore cent sequins » (p00048). Faut-il retirer « chaque jour » ou le garder ?
+4. `les-miserables`, `don-quichotte`, `sindbad`, `essais` : les faits hors zone sont gardés, la règle 1 interdisant de les corriger. La relecture de ces quatre œuvres dépendra d'un texte complet.
+5. `tao-te-king` : « user la pierre » n'est pas la formule du texte, mais l'image est au chapitre XLIII (p01252, « pénètre … les pierres et les métaux les plus durs ») : gardée, confirmée en sens.
+
+### Contrôles
+
+- `summary lint lot-essai-10` (avant la passe) : 0 erreur, 0 avertissement.
+- `summary lint lot-essai-10 --checked`, après corrections : 0 erreur, 0 avertissement.
+- `summary mark lot-essai-10 checked` : code 0, étape « vérifiée ».
+- Fuites : `summary apply lot-essai-10 --output` (catalogue simulé dans mon dossier temporaire, rien n'est intégré dans `mystitre`), puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur ». Dart est présent (`/opt/flutter/bin/dart`), il a affiché l'avertissement habituel de Flutter lancé en root, sans effet sur le résultat.
+- Incident : `git checkout -b` depuis `origin/claude/lot-essai-10-draft` a échoué, la branche n'étant pas une référence distante dans ce clone peu profond. Reprise depuis `FETCH_HEAD`, après un `fetch --depth=50`. Rien n'a été poussé sur `claude/lot-essai-10-draft`, rien dans `mystitre`.
+
+### Difficultés au fil du lot
+
+Je n'ai pas ressenti de baisse d'attention en fin de lot. La difficulté a été de contenu : graphies anciennes (Essais, Tao Te King), corpus partiels pour quatre œuvres sur dix, et une note de passe 1 fausse sur les Essais. La seule correction du lot concerne la dernière œuvre (Tao Te King), et la note fausse concerne l'avant-dernière (Essais). Je ne peux pas trancher entre un effet de fin et un effet de contenu : c'est précisément ce que cet essai devait mesurer, et un lot de dix ne suffit pas à le faire.
+
+### Retours sur la consigne
+
+- Un lot de corpus à « 1 page » peut être un texte entier (Hamlet, Le Cid, La Métamorphose, Candide, Tao Te King). Le lint dit « page(s) enregistrée(s) » dans les deux cas, ce qui laisse croire à un extrait. J'ai distingué par le contenu, pas par le compte. La consigne gagnerait à dire quel libellé employer quand l'œuvre est entière (« absent du texte complet — à trancher » existe, mais je ne l'ai eu à utiliser nulle part).
+- Un détail ajouté par le résumé, non contredit mais contrarié par une formule voisine (« chaque jour » face à « encore »), n'est prévu nulle part. J'ai traité le détail comme hors zone, en laissant le résumé intact.
+- Une attribution fausse (« les dix mille êtres » au principe sans nom) n'est pas un fait contredit au sens strict : je l'ai traitée comme une correction, par prudence. La consigne pourrait nommer ce cas.
+- La règle de titre (règle 5) ne dit rien des mots du titre qui figurent dans le texte lui-même (« essais », « essayer » dans les Essais). Le résumé doit les éviter ; le contrôle de titre du lint ne les voit pas. Une ligne dans la consigne réglerait ce point, et éviterait qu'une note de passe 1 affirme l'inverse.
+- Les Essais et le Tao : la vérification de « l'expression exacte » d'un fait (« jouir loyalement », « Apollon » absent, « Latoe » présent) demande de lire le passage, non de chercher le mot. La consigne l'indique déjà ; je l'ai appliquée.
+

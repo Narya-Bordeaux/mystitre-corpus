@@ -1,6 +1,6 @@
 # Résumés — lot-essai-10
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `madame-bovary`, `les-miserables`, `candide`, `hamlet`, `le-cid`, `don-quichotte`, `la-metamorphose`, `sindbad`, `essais`, `tao-te-king`
 - Créée le : 2026-11-19
 
@@ -22,14 +22,19 @@ Au couvent, je lisais en cachette des romans où l'on aimait jusqu'à en mourir,
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Emma est la fille d'un fermier, le père Rouault | `Rouault`, `fermier` | à vérifier | |
-| Charles Bovary est officier de santé | `officier de santé` | à vérifier | |
-| Le bal a lieu au château de la Vaubyessard | `Vaubyessard` | à vérifier | |
-| L'amant d'Yonville s'appelle Rodolphe Boulanger | `Rodolphe`, `Boulanger` | à vérifier | |
-| Le clerc s'appelle Léon Dupuis | `Léon`, `Dupuis` | à vérifier | |
-| Emma s'endette auprès du marchand Lheureux | `Lheureux` | à vérifier | |
-| Emma s'empoisonne à l'arsenic | `arsenic` | à vérifier | |
-| Après la mort d'Emma, Charles découvre les lettres de ses amants | `lettres`, `Rodolphe`, `Léon` | à vérifier | |
+| Le père d'Emma s'appelle Rouault | `Rouault` | confirmé | p00121 (grand-père maternel de Berthe, donc père d'Emma) |
+| Emma est la fille d'un fermier | `fermier` | hors zone | absent des pages enregistrées |
+| Charles Bovary est officier de santé | `officier de santé` | confirmé | p00050 (« Il fut reçu ») |
+| Le bal a lieu au château de la Vaubyessard | `Vaubyessard` | hors zone | absent des pages enregistrées |
+| L'amant d'Yonville s'appelle Rodolphe | `Rodolphe` | confirmé | p00068, p00106 |
+| Son nom de famille est Boulanger | `Boulanger` | hors zone | absent des pages enregistrées |
+| Le jeune amant s'appelle Léon Dupuis | `Léon`, `Dupuis` | confirmé | p00066, p00100 |
+| Léon est clerc | `clerc` | hors zone | absent des pages enregistrées |
+| Emma s'endette auprès du marchand Lheureux | `Lheureux` | confirmé | p00058, p00091 |
+| Emma s'empoisonne à l'arsenic | `arsenic` | hors zone | absent des pages enregistrées (la mort d'Emma n'y figure pas) |
+| Charles découvre les lettres de ses amants | `lettres`, `Rodolphe`, `Léon` | confirmé | p00068, p00100 |
+| La découverte suit la mort d'Emma | `Par respect` | confirmé | p00100 (lecture : « Par respect », « dont Emma se servait » ; la mort elle-même n'est pas dans les pages) |
+| Charles meurt peu après | `mort` | confirmé | p00119, p00122 |
 
 ### Notes
 
@@ -42,6 +47,9 @@ Au couvent, je lisais en cachette des romans où l'on aimait jusqu'à en mourir,
 - « signé des billets » : image juste de mémoire (billets à ordre de Lheureux, procuration de Charles) ; à confirmer hors zone.
 - Corrigé en rédigeant Le Cid (5e œuvre) : « Charles Bovary » devenu « Charles », le nom de famille faisant partie du titre (règle 5).
 - Écarté : la mort de Charles « dans le jardin » et le sort de Berthe (filature de coton), faute de place.
+- Vérification : Léon Dupuis confirmé (p00066, p00100). « Clerc », l'ordre des liaisons (Léon amant seulement à Rouen) et la première liaison restent hors zone : le milieu du roman n'est pas dans les pages.
+- Vérification : « Vinçart » (p00058) et la saisie imminente (p00091) confirment la chaîne des billets ; Emma a souscrit des billets à ordre (p00072). Le notaire Guillaumin est absent (hors zone) ; Binet est présent au village (p00103), mais son refus n'est pas dans les pages.
+- Vérification : la lettre de Rodolphe qui rompt (p00068, « faire le malheur de votre existence ») est attestée ; « la veille de leur fuite » est hors zone.
 
 ### Anciens textes
 
@@ -64,14 +72,15 @@ J'ai passé dix-neuf ans au bagne pour un pain volé, et j'en suis sorti plein d
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Au début, en 1815, Myriel est évêque de Digne | `Myriel`, `Digne`, `1815` | à vérifier | |
-| L'évêque est surnommé Monseigneur Bienvenu | `Bienvenu` | à vérifier | |
-| Jean Valjean a passé dix-neuf ans au bagne pour le vol d'un pain | `dix-neuf ans`, `pain`, `bagne` | à vérifier | |
-| L'évêque donne à Valjean ses chandeliers d'argent | `chandeliers` | à vérifier | |
-| Sous le nom de M. Madeleine, Valjean est maire de Montreuil-sur-Mer | `Madeleine`, `Montreuil` | à vérifier | |
-| Valjean arrache Cosette aux Thénardier | `Thénardier`, `Cosette` | à vérifier | |
-| Valjean porte Marius blessé à travers les égouts | `égout`, `Marius` | à vérifier | |
-| Javert se jette dans la Seine après avoir été épargné | `Javert`, `Seine` | à vérifier | |
+| Au début, en 1815, Myriel est évêque de Digne | `Myriel`, `Digne`, `1815` | confirmé | p00002 |
+| L'évêque est surnommé Monseigneur Bienvenu | `Bienvenu`, `monseigneur` | confirmé | p00002, p00014 |
+| Jean Valjean a passé dix-neuf ans au bagne pour le vol d'un pain | `dix-neuf ans`, `pain`, `bagne` | hors zone | absent des pages enregistrées |
+| L'évêque donne à Valjean ses chandeliers d'argent | `chandeliers` | hors zone | absent des pages enregistrées |
+| Sous le nom de M. Madeleine, Valjean est maire de Montreuil-sur-Mer | `Madeleine`, `Montreuil` | hors zone | absent des pages enregistrées |
+| Valjean arrache Cosette aux Thénardier | `Thénardier`, `Cosette` | hors zone | absent des pages enregistrées |
+| Valjean porte Marius blessé à travers les égouts | `égout`, `Marius` | hors zone | absent des pages enregistrées |
+| Javert se jette dans la Seine après avoir été épargné | `Javert`, `Seine` | hors zone | absent des pages enregistrées |
+| Valjean meurt auprès de Cosette et de Marius | `tombe`, `mort` | hors zone | absent des pages enregistrées (la dernière page est le chapitre de la tombe, anonyme) |
 
 ### Notes
 
@@ -84,6 +93,9 @@ J'ai passé dix-neuf ans au bagne pour un pain volé, et j'en suis sorti plein d
 - Ordre : Valjean épargne Javert à la barricade avant les égouts ; Javert, qui le laisse ensuite aller, se suicide après.
 - Fiche du catalogue : vague, sans désaccord.
 - Corrigé en rédigeant Le Cid (5e œuvre) : « morte dans la misère » devenu « morte dans le dénuement », trop proche du titre.
+- Vérification : la page finale enregistrée (T5/L9/06, « L'herbe cache et la pluie efface ») est bien le chapitre de la tombe : pierre sans nom (p00022), vers finaux (p00024). La mort de Valjean n'y est pas racontée : hors zone.
+- Vérification : « dix-neuf ans », l'évasion de Toulon, « enfin compris » et l'ordre épargne de Javert / égouts ne figurent pas dans les pages : hors zone.
+- Vérification : « Enjolras » et l'insurrection ne figurent pas dans les pages : la correction de passe 1 ne peut pas être contrôlée ici (hors zone).
 
 ### Anciens textes
 
@@ -106,14 +118,15 @@ Mon maître m'a enseigné que tout est au mieux, et je l'ai cru jusqu'au jour o�
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le château du baron se trouve en Westphalie | `Westphalie`, `Thunder-ten-tronckh` | à vérifier | |
-| Le héros est chassé du château pour avoir embrassé Cunégonde | `Cunégonde`, `coups de pied`, `baisa` | à vérifier | |
-| Il est enrôlé de force chez les Bulgares | `Bulgares` | à vérifier | |
-| Il est fouetté lors d'un autodafé de l'Inquisition à Lisbonne | `Lisbonne`, `auto-da-fé`, `fessé`, `Inquisit` | à vérifier | |
-| Il découvre l'Eldorado, où les cailloux sont d'or | `Eldorado`, `El Dorado`, `cailloux` | à vérifier | |
-| Martin, son compagnon de voyage, est pessimiste | `Martin`, `manichéen` | à vérifier | |
-| Il retrouve Cunégonde, devenue laide, près de Constantinople | `Constantinople`, `Propontide`, `laide` | à vérifier | |
-| L'œuvre se clôt sur la nécessité de cultiver notre jardin | `cultiver notre jardin` | à vérifier | |
+| Le château du baron se trouve en Westphalie | `Westphalie`, `Thunder-ten-tronckh` | confirmé | p00002 (« en Vestphalie », graphie ancienne) |
+| Le héros est chassé du château pour avoir embrassé Cunégonde | `Cunégonde`, `coups de pied`, `baisa` | confirmé | p00009 |
+| Il est enrôlé de force chez les Bulgares | `Bulgares` | confirmé | p00010, p00012 |
+| Il est fouetté lors d'un autodafé de l'Inquisition à Lisbonne | `Lisbonne`, `auto-da-fé`, `fessé`, `Inquisit` | confirmé | p00037, p00039 |
+| Il découvre l'Eldorado, où les cailloux sont d'or | `Eldorado`, `cailloux` | confirmé | p00112, p00130 |
+| Martin, son compagnon de voyage, est pessimiste | `Martin`, `manichéen` | confirmé | p00157 (le texte dit « manichéen ») |
+| Il retrouve Cunégonde, devenue laide, près de Constantinople | `Constantinople`, `Propontide`, `laide` | confirmé | p00232, p00248 |
+| Il épouse Cunégonde | `mariage`, `femme` | confirmé | p00265, p00267 |
+| L'œuvre se clôt sur la nécessité de cultiver notre jardin | `cultiver notre jardin` | confirmé | p00275, p00276 |
 
 ### Notes
 
@@ -124,6 +137,10 @@ Mon maître m'a enseigné que tout est au mieux, et je l'ai cru jusqu'au jour o�
 - « J'ai tué des hommes » : l'Inquisiteur, Issacar, puis (croit-il) le frère de Cunégonde au Paraguay.
 - Le corpus couvre les trente chapitres : tous les faits sont vérifiables.
 - Fiche du catalogue : « un château en Europe centrale » est imprécis (Westphalie), sans erreur véritable.
+- Vérification : Issachar (« don Issachar », p00050-p00051), Buénos-Ayres (p00088) et Paraguai (p00063, p00092) sont attestés sous ces graphies.
+- Vérification : Cunégonde à Constantinople (p00232), puis sur la Propontide chez un prince de Transylvanie (p00248, p00253) : la formulation large est confirmée.
+- Vérification : Pangloss et le baron aux galères (p00253, p00256) : confirmé. Le mariage est attesté (p00265, « faire ma femme » ; p00267, « conclure le mariage »).
+- Vérification : « manichéen » est le mot du texte (p00157). « Pessimiste » n'est pas contredit, il reste la lecture de la passe 1 (point à trancher).
 
 ### Anciens textes
 
@@ -146,14 +163,14 @@ Mon père est mort, et ma mère a épousé son frère avant que les viandes des 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action se passe à Elseneur | `Elseneur` | à vérifier | |
-| Le nouveau roi s'appelle Claudius | `Claudius` | à vérifier | |
-| Le spectre apparaît sur les remparts du château | `spectre`, `plate-forme`, `rempart` | à vérifier | |
-| Le spectre dit avoir été empoisonné pendant son sommeil | `poison`, `sommeil`, `oreille`, `jardin` | à vérifier | |
-| Polonius est tué derrière une tapisserie | `Polonius`, `tapisserie`, `rideau` | à vérifier | |
-| Ophélie, fille de Polonius, se noie | `Ophélia`, `Ophélie`, `noyée` | à vérifier | |
-| Lors du duel, la reine boit la coupe empoisonnée | `coupe`, `boit`, `empoisonné` | à vérifier | |
-| Laërte et le prince sont blessés par l'épée empoisonnée | `Laertes`, `Laërtes`, `Laërte`, `fleuret` | à vérifier | |
+| L'action se passe à Elseneur | `Elseneur` | confirmé | p00032 |
+| Le nouveau roi s'appelle Claudius | `Claudius` | confirmé | p00013 |
+| Le spectre apparaît sur la plate-forme du château | `spectre`, `plate-forme`, `rempart` | confirmé | p00032, p00384 (« rempart » absent) |
+| Le spectre dit avoir été empoisonné pendant son sommeil | `poison`, `sommeil`, `oreille`, `jardin` | confirmé | p00491, p00495 |
+| Polonius est tué derrière une tapisserie | `Polonius`, `tapisserie`, `rideau` | confirmé | p01572, p01574 (« rideau » absent) |
+| Ophélie, fille de Polonius, se noie | `Ophélia`, `Ophélie`, `noyée` | confirmé | p00028, p02111 à p02119 |
+| Lors du duel, la reine boit la coupe empoisonnée | `coupe`, `boit`, `empoisonné` | confirmé | p02612, p02653 |
+| Laërte et le prince sont blessés par l'épée empoisonnée | `Laertes`, `Laërte`, `fleuret` | confirmé | p02632 à p02634, p02658 |
 
 ### Notes
 
@@ -165,6 +182,10 @@ Mon père est mort, et ma mère a épousé son frère avant que les viandes des 
 - Écarté : l'arrivée de Fortinbras, qui prend le trône au dénouement (le `summary` atteignait la limite).
 - « les viandes des funérailles » : écho de la réplique de l'acte I ; la traduction dit peut-être « les viandes cuites pour le repas des funérailles ».
 - Le corpus est la pièce entière : tout est vérifiable.
+- Vérification : « remparts » : le texte dit « plate-forme » (p00032, p00384) ; « rempart » est absent, le résumé garde la traduction usuelle.
+- Vérification : « tapisserie » confirmée (p01572, p01574) ; « rideau » est absent, la graphie du texte est « tapisserie ».
+- Vérification : « Ophélia » et « Laertes » sont les graphies du texte (p00028, p00017) ; le résumé garde Ophélie et Laërte.
+- Vérification : « les viandes des funérailles » reprend la réplique de l'acte I, « Les viandes cuites pour les funérailles ont été servies froides » (p00232).
 
 ### Anciens textes
 
@@ -187,14 +208,16 @@ Nos pères allaient nous unir, celle que je devais épouser et moi. Mais son pè
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action se passe à Séville | `Séville` | à vérifier | |
-| Le comte est jaloux que don Diègue soit nommé gouverneur du prince | `gouverneur`, `prince` | à vérifier | |
-| Le comte donne un soufflet à don Diègue | `soufflet` | à vérifier | |
-| Le père de Chimène est le comte de Gormas | `Gormas`, `Gomès` | à vérifier | |
-| Rodrigue repousse une attaque des Mores | `Mores`, `Maures` | à vérifier | |
-| Rodrigue désarme don Sanche et l'épargne | `Sanche`, `désarm` | à vérifier | |
-| Le roi s'appelle don Fernand | `Fernand` | à vérifier | |
-| Le dernier vers confie l'avenir au temps et au roi | `Laisse faire le temps` | à vérifier | |
+| L'action se passe à Séville | `Séville` | confirmé | p00012 |
+| Le comte est jaloux que don Diègue soit nommé gouverneur du prince | `gouverneur`, `prince` | confirmé | p00051 |
+| Le comte donne un soufflet à don Diègue | `soufflet` | confirmé | p00074 |
+| Le père de Chimène est le comte de Gormas | `Gormas`, `Gomès` | confirmé | p00005 |
+| Rodrigue repousse une attaque des Mores | `Mores`, `Maures` | confirmé | p00354, p00394 (« Maures » absent) |
+| Rodrigue désarme don Sanche et l'épargne | `Sanche`, `désarm` | confirmé | p00511 |
+| Le roi s'appelle don Fernand | `Fernand` | confirmé | p00002 |
+| Chimène promet sa main à qui lui apportera la tête de Rodrigue | `tête`, `conquête` | confirmé | p00425 |
+| Le roi accorde Chimène à Rodrigue, avec un an de délai | `Prends un an`, `Rodrigue t'a gagnée` | confirmé | p00521 |
+| Le dernier vers confie l'avenir au temps et au roi | `Laisse faire le temps` | confirmé | p00524 |
 
 ### Notes
 
@@ -205,6 +228,10 @@ Nos pères allaient nous unir, celle que je devais épouser et moi. Mais son pè
 - « revient en sauveur du royaume » : j'ai évité « en héros », mot qui pourrait passer pour une désignation de l'œuvre.
 - Le corpus est la pièce entière : tout est vérifiable.
 - Fiche du catalogue : « Une ville espagnole » imprécis, pas de désaccord.
+- Vérification : « don Gomès, comte de Gormas » (p00005) : le nom est attesté ; le texte dit surtout « le Comte ».
+- Vérification : « Mores » est la graphie du texte (p00354 et suivants) ; « Maures » est absent.
+- Vérification : le délai d'un an est écrit (p00521, « Prends un an, si tu veux ») : le dénouement n'est pas ouvert, la phrase du résumé est exacte.
+- Vérification : l'Infante aime Rodrigue (p00038) ; son rôle reste omis, faute de place.
 
 ### Anciens textes
 
@@ -227,14 +254,15 @@ J'ai tant lu de romans de chevalerie que j'ai résolu de devenir chevalier erran
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le cheval du héros s'appelle Rossinante | `Rossinante` | à vérifier | |
-| La dame de ses pensées est Dulcinée du Toboso | `Dulcinée`, `Toboso` | à vérifier | |
-| L'écuyer s'appelle Sancho Pança | `Sancho`, `Pança` | à vérifier | |
-| Il charge des moulins à vent qu'il prend pour des géants | `moulins`, `géants` | à vérifier | |
-| Sanson Carrasco le vainc à Barcelone, déguisé en chevalier de la Blanche Lune | `Carrasco`, `Blanche-Lune`, `Blanche Lune`, `Barcelone` | à vérifier | |
-| Le vaincu doit renoncer aux armes et rester chez lui un an | `un an`, `une année` | à vérifier | |
-| Sur son lit de mort, il recouvre la raison et renie les livres de chevalerie | `raison`, `chevalerie`, `Alonso Quixano`, `Alonzo Quixano`, `Quijano` | à vérifier | |
-| Il est ramené chez lui dans une cage | `cage` | à vérifier | |
+| Le cheval du héros s'appelle Rossinante | `Rossinante` | confirmé | p00008, p00016 |
+| La dame de ses pensées est Dulcinée du Toboso | `Dulcinée`, `Toboso` | confirmé | p00010 |
+| L'écuyer s'appelle Sancho Pança | `Sancho`, `Pança` | confirmé | p00012 (« Sancho Panza ») |
+| Il charge des moulins à vent qu'il prend pour des géants | `moulins`, `géants` | hors zone | absent des pages enregistrées |
+| Samson Carrasco, bachelier, est présent à la fin | `Carrasco` | confirmé | p00013, p00016 (« Samson » pour « Sanson ») |
+| Carrasco le vainc à Barcelone, déguisé en chevalier de la Blanche Lune | `Blanche-Lune`, `Barcelone` | hors zone | absent des pages enregistrées |
+| Le vaincu doit renoncer aux armes et rester chez lui un an | `un an`, `une année` | hors zone | absent des pages enregistrées |
+| Sur son lit de mort, il recouvre la raison et renie les livres de chevalerie | `raison`, `chevalerie`, `Quijano` | confirmé | p00013, p00016 |
+| Il est ramené chez lui dans une cage | `cage` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -245,6 +273,9 @@ J'ai tant lu de romans de chevalerie que j'ai résolu de devenir chevalier erran
 - Doute : la cage — dans la première partie, il est ramené sur une charrette à bœufs, enfermé dans une cage, par le curé et le barbier ; j'en suis assez sûr, mais hors zone.
 - Écarté : les troupeaux pris pour des armées (manque de place), le curé, le barbier et la nièce.
 - Hors zone probable : moulins, duc, Barcelone ; le corpus n'a que le premier et le dernier chapitre.
+- Vérification : « Sanson » est la graphie du résumé pour « Samson » (p00013). Le nom est attesté ; la défaite à Barcelone ne l'est pas (hors zone).
+- Vérification : « Alonzo Quijano-le-Bon » (p00013, p00016) : le vrai nom reste hors du résumé, comme prévu.
+- Vérification : « un village de Castille » : le lieu n'est pas nommé dans les pages. « Moulins », « duc », « Barcelone » et « cage » sont hors zone (premier et dernier chapitres seulement).
 
 ### Anciens textes
 
@@ -267,14 +298,15 @@ Un matin, au sortir de rêves agités, je me suis découvert un dos dur comme un
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le héros s'appelle Gregor Samsa | `Gregor`, `Samsa` | à vérifier | |
-| Il se réveille changé en insecte monstrueux, au sortir de rêves agités | `Ungeziefer`, `unruhigen Träumen` | à vérifier | |
-| Il est voyageur de commerce | `Reisender`, `Geschäftsreise` | à vérifier | |
-| Le fondé de pouvoir vient chez lui s'enquérir de son retard | `Prokurist` | à vérifier | |
-| Sa sœur s'appelle Grete | `Grete` | à vérifier | |
-| Son père lui lance des pommes, dont l'une reste fichée dans son dos | `Äpfel`, `Apfel` | à vérifier | |
-| La famille prend trois locataires | `Zimmerherren`, `drei` | à vérifier | |
-| Après sa mort, la famille part en tramway et songe à marier la fille | `Elektrische`, `Mann` | à vérifier | |
+| Le héros s'appelle Gregor Samsa | `Gregor`, `Samsa` | confirmé | p00004 |
+| Il se réveille changé en insecte monstrueux, au sortir de rêves agités | `Ungeziefer`, `unruhigen Träumen` | confirmé | p00004 |
+| Il est voyageur de commerce | `Reisender` | confirmé | p00005 |
+| Le fondé de pouvoir vient chez lui s'enquérir de son retard | `Prokurist` | confirmé | p00019 |
+| Sa sœur s'appelle Grete | `Grete` | confirmé | p00029 |
+| Son père lui lance des pommes, dont l'une reste fichée dans son dos | `Äpfel`, `Apfel` | confirmé | p00079, p00081 |
+| La famille prend trois locataires | `Zimmerherren`, `drei` | confirmé | p00091 |
+| La sœur réclame qu'il disparaisse | `Weg muß es`, `loszuwerden` | confirmé | p00101, p00105 |
+| Après sa mort, la famille part en tramway et songe à marier la fille | `Elektrische`, `Mann` | confirmé | p00118 |
 
 ### Notes
 
@@ -286,6 +318,10 @@ Un matin, au sortir de rêves agités, je me suis découvert un dos dur comme un
 - Doute : nombre de locataires (trois messieurs barbus, je crois).
 - « sous le canapé » : il se cache sous le canapé ; la sœur le couvre d'un drap.
 - Corpus : texte allemand complet ; termes donnés en allemand.
+- Vérification : « carapace » et « pattes » (p00004, « panzerartig harten Rücken ») ; le texte dit « Ungeziefer » (vermine), l'animal n'est pas précisé.
+- Vérification : « sous le canapé » : le drap posé sur le canapé (p00062) est attesté ; le fait de s'y cacher n'est pas écrit. Le violon de la sœur est attesté (p00094).
+- Vérification : « on ne m'appelle plus par mon nom » : la sœur parle de « es » (« ça ») : « Wir müssen es loszuwerden suchen » (p00101), « Weg muß es » (p00105).
+- Vérification : trois locataires (p00091, « drei Zimmerherren ») ; barbus (p00093, « Bärte ») ; la pomme reste dans le dos (p00081, « der Apfel blieb … im Fleische sitzen »).
 
 ### Anciens textes
 
@@ -308,14 +344,15 @@ J'avais dilapidé mon héritage dans ma jeunesse, et j'ai pris la mer pour refai
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le porteur qui écoute les récits s'appelle Hindbad | `Hindbad` | à vérifier | |
-| L'action du cadre se passe à Bagdad sous Haroun al-Rachid | `Bagdad`, `Haroun`, `Alraschid` | à vérifier | |
-| Le marchand a dilapidé son héritage dans sa jeunesse | `héritage`, `patrimoine`, `dissipé` | à vérifier | |
-| Au premier voyage, une île se révèle être le dos d'une baleine | `baleine`, `poisson` | à vérifier | |
-| L'oiseau roc l'emporte dans une vallée de diamants | `roc`, `diamants` | à vérifier | |
-| Il est enseveli vivant avec sa femme morte, selon la coutume du pays | `enseveli`, `enterré`, `femme` | à vérifier | |
-| Au septième voyage, il est vendu comme esclave et découvre un cimetière d'éléphants | `esclave`, `éléphants`, `ivoire` | à vérifier | |
-| Il fait remettre chaque jour cent sequins au porteur | `cent sequins`, `sequins` | à vérifier | |
+| Le porteur qui écoute les récits s'appelle Hindbad | `Hindbad` | confirmé | p00003, p00010 |
+| L'action du cadre se passe à Bagdad sous Haroun al-Rachid | `Bagdad`, `Haroun`, `Alraschid` | confirmé | p00003 |
+| Le marchand a dilapidé son héritage dans sa jeunesse | `héritage`, `patrimoine`, `dissipé` | hors zone | absent des pages enregistrées |
+| Au premier voyage, une île se révèle être le dos d'une baleine | `baleine`, `poisson` | hors zone | absent des pages enregistrées |
+| L'oiseau roc l'emporte dans une vallée de diamants | `roc`, `diamants` | hors zone | absent des pages enregistrées |
+| Il est enseveli vivant avec sa femme morte, selon la coutume du pays | `enseveli`, `enterré`, `femme` | hors zone | absent des pages enregistrées |
+| Au septième voyage, il est fait esclave et découvre un cimetière d'éléphants | `esclave`, `éléphants`, `ivoire`, `cimetière` | confirmé | p00030, p00035, p00038 (« cimetière », « ossemens et de dents d'éléphans ») |
+| Il fait remettre cent sequins au porteur | `cent sequins` | confirmé | p00048 (« encore cent sequins ») |
+| Ce don se répète chaque jour | `chaque jour` | hors zone | absent des pages enregistrées (le texte dit « encore », p00048) |
 
 ### Notes
 
@@ -327,6 +364,10 @@ J'avais dilapidé mon héritage dans ma jeunesse, et j'ai pris la mer pour refai
 - Doute : « cent sequins » chaque jour, à la fin de chaque récit ; je ne suis pas sûr qu'on le dise encore après le septième.
 - Écarté : le Vieillard de la mer (place).
 - Le corpus a la page du cadre et celle du septième voyage : baleine, roc et ensevelissement risquent d'être hors zone, sauf si la première page contient le premier voyage.
+- Vérification : le septième voyage est entier dans le corpus (p00013 à p00048) ; l'ordre des six premiers voyages, la vallée des diamants et l'ensevelissement restent hors zone.
+- Vérification : « Hindbad » est la graphie du texte (p00003, p00010) ; « Sindbad » est celle du marchand (p00004).
+- Vérification : « cent sequins » : le texte les donne « encore » à la fin du septième récit (p00048) ; le « chaque jour » est hors zone.
+- Vérification : la version de Galland (éléphants, p00038-p00040) est attestée ; les hommes ailés et le mariage des autres versions n'y figurent pas.
 
 ### Anciens textes
 
@@ -349,14 +390,14 @@ Retiré dans ma librairie, au sommet de ma tour, j'ai entrepris de me peindre mo
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier chapitre s'intitule « Par divers moyens on arrive à pareille fin » | `divers moyens`, `pareille fin` | à vérifier | |
-| Le dernier chapitre traite de l'expérience | `expérience`, `experience` | à vérifier | |
-| L'auteur souffre de la pierre (coliques néphrétiques) | `pierre`, `gravelle`, `colique` | à vérifier | |
-| La fin célèbre l'art de jouir loyalement de son être | `jouir loyalement`, `loyallement` | à vérifier | |
-| Les dernières lignes invoquent Apollon pour une vieillesse gaie et sociale | `Apollon`, `Apollo`, `vieillesse`, `sociale` | à vérifier | |
-| Il explique son amitié avec La Boétie par « parce que c'était lui, parce que c'était moi » | `La Boétie`, `parce que c'estoit luy`, `parce que c'était lui` | à vérifier | |
-| La devise du doute est « Que sais-je ? » | `Que sçay-je`, `Que sais-je` | à vérifier | |
-| Il a été maire de Bordeaux | `Maire`, `Bordeaux` | à vérifier | |
+| Le premier chapitre s'intitule « Par divers moyens on arrive à pareille fin » | `divers moyens`, `pareille fin` | confirmé | p00001 (graphie « diuers ») |
+| Le dernier chapitre traite de l'expérience | `expérience`, `experience` | confirmé | p00005 (titre du livre III, chapitre 13) |
+| L'auteur souffre de la pierre (coliques néphrétiques) | `pierre`, `gravelle` | confirmé | p00044 (« le vuidange de ma pierre ») |
+| La fin célèbre l'art de jouir loyalement de son être | `jouyr`, `loiallement` | confirmé | p00062 (« scavoyr jouyr loiallement de son estre ») |
+| Les dernières lignes invoquent Apollon pour une vieillesse gaie et sociale | `Latoe`, `vieillesse`, `sociale` | confirmé | p00062, p00063 (« Latoe », Apollon fils de Latone) |
+| Il explique son amitié avec La Boétie par « parce que c'était lui, parce que c'était moi » | `La Boétie`, `parce que c'estoit luy` | hors zone | absent des pages enregistrées |
+| La devise du doute est « Que sais-je ? » | `Que sçay-je`, `Que sais-je` | hors zone | absent des pages enregistrées |
+| Il a été maire de Bordeaux | `Maire`, `Bordeaux` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -368,6 +409,9 @@ Retiré dans ma librairie, au sommet de ma tour, j'ai entrepris de me peindre mo
 - Doute : « une vingtaine d'années » (1572-1592 environ) et « une centaine de chapitres » (107, de mémoire) restent volontairement larges.
 - « j'apprends à mourir en apprenant à vivre » combine deux idées (« philosopher c'est apprendre à mourir », I, 20, et la sagesse finale de vivre) : formulation de mon cru, pas une citation.
 - Fiche du catalogue : en accord.
+- Vérification : la note de passe 1 sur la famille du mot « essai » était inexacte. Le texte emploie « essais » (p00024), « essayer » (p00042) et « j'essaye » (p00044). Le résumé ne les reprend pas, la règle de titre est donc respectée dans le résumé.
+- Vérification : la graphie ancienne (« diuers », « sçay », « estre ») est celle du corpus ; les variantes données restent valables.
+- Vérification : « Latoe » désigne Apollon dans le vers (p00063) ; le mot « Apollon » n'est pas écrit.
 
 ### Anciens textes
 
@@ -380,7 +424,7 @@ Corpus : 1 page(s) enregistrée(s) sur fr.wikisource.org (langue : fr) : « Tao 
 
 ### summary
 
-Quatre-vingt-un courts chapitres, en sentences brèves et souvent énigmatiques, méditent sur la Voie, principe sans nom d'où naissent le ciel, la terre et les dix mille êtres. Dès la première phrase, la Voie que l'on peut exprimer n'est pas la Voie éternelle ; le saint homme pratique le non-agir, la souplesse et l'humilité. Les images sont simples : l'eau, qui profite à tous sans lutter et vient à bout du dur ; le vase et la roue, dont l'utilité vient du vide. Au prince, le texte conseille de gouverner sans se montrer, de renoncer aux armes et au luxe, et décrit un petit royaume où l'on vit simplement sans désirer voyager. Il s'achève sur le sage qui n'amasse rien et s'enrichit en donnant.
+Quatre-vingt-un chapitres, en sentences brèves et énigmatiques, méditent sur la Voie, principe sans nom d'où naissent le ciel et la terre, mère de toutes choses une fois nommé. Dès la première phrase, la Voie qu'on peut exprimer n'est pas la Voie éternelle ; le saint homme pratique le non-agir, la souplesse et l'humilité. Les images sont simples : l'eau, qui profite à tous sans lutter et vient à bout du dur ; le vase et la roue, dont l'utilité vient du vide. Au prince, le texte conseille de gouverner sans se montrer, de renoncer aux armes et au luxe, et décrit un petit royaume où l'on vit simplement sans désirer voyager. Il s'achève sur le sage qui n'amasse rien et s'enrichit en donnant.
 
 ### personalSummary
 
@@ -390,14 +434,15 @@ La Voie que l'on peut nommer n'est pas la Voie éternelle : je ne puis que la d�
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier chapitre dit que la Voie qui peut être exprimée n'est pas la Voie éternelle | `voie éternelle`, `Voie`, `exprimée` | à vérifier | |
-| Le texte compte quatre-vingt-un chapitres | `LXXXI`, `81`, `Chapitre` | à vérifier | |
-| Les dix mille êtres naissent de la Voie | `dix mille êtres` | à vérifier | |
-| Le saint homme pratique le non-agir | `non-agir`, `saint homme` | à vérifier | |
-| L'utilité du vase et de la roue vient de leur vide | `vase`, `moyeu`, `vide` | à vérifier | |
-| Gouverner un grand royaume, c'est comme faire cuire un petit poisson | `petit poisson` | à vérifier | |
-| Un chapitre décrit un petit royaume dont les habitants ne voyagent pas | `petit royaume`, `royaume`, `voyager` | à vérifier | |
-| Le dernier chapitre dit que le saint n'amasse rien et s'enrichit en donnant | `n'accumule`, `amasse`, `donne` | à vérifier | |
+| La Voie qui peut être exprimée n'est pas la Voie éternelle (premier chapitre) | `voie éternelle`, `exprimée` | confirmé | p00205 |
+| Le texte compte quatre-vingt-un chapitres | `LXXXI`, `quatre-vingt-un` | confirmé | p00122, p02052 |
+| Les dix mille êtres naissent de la Voie | `dix mille êtres` | corrigé | p00206 : le sans-nom est l'origine du ciel et de la terre ; nommé, il est « la mère de toutes choses » |
+| Le saint homme pratique le non-agir | `non-agir`, `saint homme` | confirmé | p00231 |
+| L'utilité du vase et de la roue vient de leur vide | `vase`, `moyeu`, `vide` | confirmé | p00422, p00429 |
+| Gouverner un grand royaume, c'est comme faire cuire un petit poisson | `petit poisson` | confirmé | p01594 (chapitre LX) |
+| Un chapitre décrit un petit royaume dont les habitants ne voyagent pas | `petit royaume`, `voyager` | confirmé | p02043 (chapitre LXXX) |
+| L'eau profite à tous sans lutter et vient à bout du dur | `l'eau`, `ne lutte point`, `attaquer` | confirmé | p00346, p01992 (chapitre LXXVIII) |
+| Le dernier chapitre dit que le saint n'amasse rien et s'enrichit en donnant | `n'accumule`, `donne` | confirmé | p02057, p02059 |
 
 ### Notes
 
@@ -408,6 +453,11 @@ La Voie que l'on peut nommer n'est pas la Voie éternelle : je ne puis que la d�
 - Doute : « Celui qui sait ne parle pas » (ch. 56) ; « petit poisson » (ch. 60) ; « petit royaume » (ch. 80) ; numéros de mémoire, non écrits dans les textes.
 - « l'eau qui finit par user la pierre » : image de la souplesse qui vainc le dur (ch. 78) ; la formule « user la pierre » est la mienne.
 - Fiche du catalogue : en accord.
+- Vérification : « dix mille êtres » est corrigé. Ancienne formulation : « principe sans nom d'où naissent le ciel, la terre et les dix mille êtres » ; nouvelle : « principe sans nom d'où naissent le ciel et la terre, mère de toutes choses une fois nommé » ; paragraphe p00206 (chapitre I).
+- Vérification : « Celui qui sait ne parle pas » : « L'homme qui connaît (le Tao) ne parle pas ; celui qui parle ne le connaît pas » (p01499, chapitre LVI) : confirmé quant au sens.
+- Vérification : les numéros de chapitres de la passe 1 sont exacts : « petit poisson » (LX), « petit royaume » (LXXX), « eau » (LXXVIII), « Celui qui sait » (LVI).
+- Vérification : « user la pierre » : l'image est dans le chapitre XLIII (« pénètre sans difficulté les pierres et les métaux les plus durs », p01252). Confirmée en sens.
+- Vérification : division en deux livres (« LIVRE PREMIER », p00202 ; « LIVRE II », p01083) : confirmée.
 
 ### Anciens textes
 
