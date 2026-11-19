@@ -51,4 +51,63 @@ Outils : `summary lint` après chaque œuvre ; contrôle Dart des fuites (`summa
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+Pages enregistrées : deux pour la plupart des œuvres, le texte entier pour *Le Rouge et le Noir*, *La Parure* et *Le Horla*. Un fait « hors zone » reste dans le texte (règle 1) ; il n'est retiré par aucune correction.
+
+| Œuvre | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|
+| `le-comte-de-monte-cristo` | 4 | 5 | 0 |
+| `les-trois-mousquetaires` | 5 | 5 | 1 |
+| `le-rouge-et-le-noir` | 7 | 0 | 2 |
+| `la-chartreuse-de-parme` | 6 | 4 | 0 |
+| `germinal` | 6 | 4 | 0 |
+| `lassommoir` | 8 | 1 | 0 |
+| `bel-ami` | 8 | 2 | 1 |
+| `une-vie` | 5 | 3 | 0 |
+| `la-parure` | 8 | 0 | 0 |
+| `le-horla` | 8 | 0 | 0 |
+| `poil-de-carotte` | 3 | 5 | 0 |
+| **Total** | **68** | **29** | **4** |
+
+Certains faits ont été scindés en deux lignes (règle 2), d'où un total de 101 lignes pour les 88 faits de la passe 1.
+
+### Corrections
+
+- `les-trois-mousquetaires`, `summary` : « En 1625 » devient « En 1626 ». Le texte date le voyage du « premier lundi du mois d'avril 1626 » (p00002). Fait « L'action commence en 1625 » : corrigé.
+- `le-rouge-et-le-noir`, `summary` : « Une lettre anonyme le force à partir pour le séminaire de Besançon » devient « Après une lettre anonyme, l'abbé Chélan l'envoie au séminaire de Besançon ». La lettre est une machination des amants, qui vise à éloigner Julien de la maison (p00781 à p00796). L'ordre de partir pour le séminaire est donné par l'abbé Chélan (p01023), deux mois après la lettre (p01034). Fait corrigé (p00781, p01023, p01034).
+- `le-rouge-et-le-noir`, `personalSummary` : « Je n'ai pas voulu de grâce. » devient « Au procès, je n'ai pas voulu de grâce. » Au procès, Julien dit « je ne vous demande aucune grâce » (p03484), mais en prison il compose un mémoire pour son recours en grâce (p03604). Fait « Au procès, Julien ne demande aucune grâce » : corrigé.
+- `bel-ami`, `summary` : « puis enlève Suzanne » devient « puis, dit-on, enlève Suzanne ». Le texte ne donne l'enlèvement que comme rumeur (« On chuchotait qu'un enlèvement avait eu lieu, mais on n'était sûr de rien », p00202) et comme accusation de Madeleine (p00179). Fait « On dit que Georges enlève Suzanne pour forcer le mariage » : corrigé.
+
+Ailleurs, aucune contradiction du texte : les autres « à vérifier » ont été confirmés ou sont restés hors zone.
+
+### Points à trancher
+
+1. **Le `personalSummary` du *Rouge et le Noir*.** « Au procès, je n'ai pas voulu de grâce » est fidèle au texte, mais la phrase perd son mouvement final. À l'intégration, on peut préférer une formulation qui garde l'ambivalence (le refus au procès, le recours écrit en prison).
+2. **Noirtier, dans *Monte-Cristo*.** « Noirtier » n'apparaît que comme grand-père de Valentine (p00342). Le lien de père à fils avec Villefort et le motif de la disparition d'Edmond sont hors zone. Garder ou non la motivation est un choix d'écriture.
+3. **Le prénom Constance, dans *Les Trois Mousquetaires*.** Le prénom n'est pas dans les pages enregistrées ; le mari est attesté, la femme inconnue du texte disponible. Le fait est scindé : prénom hors zone, lingerie hors zone, mariage confirmé (p00144). Le résumé garde le prénom.
+4. **Algérie, dans *Bel-Ami*.** Le texte dit « deux années d'Afrique » (p00019) ; « Algérie » est absent. Le résumé peut garder l'Algérie (précision hors texte) ou prendre « Afrique ».
+5. **Faits hors zone en grand nombre** (*Monte-Cristo* 5, *Poil de Carotte* 5, *Mousquetaires* 5) : il s'agit de faits sur des parties non enregistrées de l'œuvre. Rien ne les réfute, rien ne les confirme. C'est à la relecture de décider s'ils restent.
+
+### Contrôles
+
+- `summary lint vague1-1 --checked` : 0 erreur, 0 avertissement.
+- Longueur : `bel-ami` à 121 mots après la correction « dit-on » ; « d'employé » a été retiré de « sa misère d'employé » (non vérifié dans le texte) pour revenir à 120.
+- `summary apply vague1-1 --output` (catalogue simulé dans le dossier temporaire de session) : 11 fiches simulées. `dart run tool/list_name_leaks.dart` : aucune fuite de titre ou d'auteur.
+- Le commentaire de section d'attente a été remplacé par ce compte rendu.
+
+### Incidents
+
+- Le processus de travail a été relancé en plein lot (à l'œuvre `germinal`). Les modifications déjà écrites dans le fichier de session étaient sur disque ; j'ai repris à partir de l'état relu, sans perte ni doublon.
+- `germinal` : « Maheu » est mort (p00123, p00139), mais la fusillade et la mort de Catherine dans les bras d'Étienne ne sont pas dans les pages.
+
+### Difficultés au fil du lot
+
+Le lot est long (onze œuvres au lieu de trois ou quatre). La fin n'a pas été plus difficile au sens d'une envie d'abréger : j'ai vérifié chaque fait, y compris ceux de *La Parure* et du *Horla*, avec des recherches croisées. Je signale toutefois que, vers la fin, j'ai lu moins de passages complets et davantage de résultats de recherche : c'est le point où une erreur de lecture serait la plus probable. La passe 2 du lot devrait relire en priorité les faits corrigés et les « hors zone » de *Poil de Carotte*, *Germinal* et *Monte-Cristo*.
+
+### Retours sur la consigne
+
+- **Rumeur et accusation.** La consigne ne dit pas comment traiter un fait que le texte présente comme une rumeur ou comme une accusation d'un personnage. J'ai choisi la correction (« dit-on ») quand le texte refuse de trancher, et le statut « confirmé » quand un personnage le dit sans que le texte le démente.
+- **Statut « corrigé » et reformulation du fait.** J'ai utilisé « corrigé » chaque fois que l'énoncé du fait a été réécrit pour coller au texte (1626, Chélan, recours en grâce, enlèvement). Pour une simple scission sans changement de sens, j'ai gardé « confirmé ». La consigne gagnerait à le dire.
+- **Précision de « Appui » pour « hors zone ».** La consigne prévoit « absent des pages enregistrées ». Quand un terme voisin apparaît (« Afrique », « Julien », « assidu »), j'ai ajouté une précision entre parenthèses, pour que la relecture voie pourquoi le fait n'est pas tranché.
+- **Un fait reformulé sans correction.** Pour *La Chartreuse de Parme*, « Le comte Mosca est ministre du prince » est devenu « premier ministre », formulation du texte (p00094). Ce changement d'énoncé n'est pas une correction de fond ; je le signale pour que l'intégration le sache.
