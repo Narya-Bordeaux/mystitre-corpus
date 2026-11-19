@@ -37,6 +37,13 @@
 - **Château ou lieu portant le nom de l'auteur** (Montaigne) : non prévu ; non nommé.
 - **« le texte », « l'ouvrage » dans `summary`** pour une œuvre sans intrigue : la consigne n'interdit ces mots que dans `personalSummary` ; je les ai employés dans `summary` seulement.
 - **Contrôle des fuites à la passe 1** : impossible avec `summary apply --output` (refus avant vérification). Une option de simulation à toute étape permettrait de lancer le scanner Dart dès la rédaction.
+- **Emplacement des retours sur la consigne** : `docs/summary_rewrite.md` les place dans « une section de tête du fichier de session », alors que la consigne `/summary-draft` les place dans le compte rendu. J'ai suivi la consigne (ici) ; l'un des deux documents est à aligner sur l'autre.
+
+### Méthode de travail
+
+- Je n'ai pas édité le fichier de session à la main : pour chaque œuvre, j'ai écrit un brouillon (textes, faits, notes) dans mon espace temporaire, puis un petit script le reportait dans la section de l'œuvre à la place des commentaires du gabarit, avant `summary lint`. Le compte rendu a été tenu de la même façon, réécrit après chaque œuvre.
+- Les retouches après coup (« Charles Bovary » → « Charles », « misère » → « dénuement », « celle que j'aime » → « ma bien-aimée », une coquille dans les notes des Misérables) ont été faites par remplacement de texte directement dans le fichier de session, puis contrôlées par `summary lint`.
+- La fiche du catalogue de chaque œuvre (`characterDescriptions`, `locations`, `importantPassages`) a été lue juste avant la rédaction de l'œuvre ; le corpus n'a jamais été ouvert.
 
 ## Passe 2 — vérification
 
