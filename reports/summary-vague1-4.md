@@ -52,4 +52,66 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+| Œuvre | Faits | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|---|
+| `tartuffe` | 8 | 8 | 0 | 0 |
+| `le-misanthrope` | 8 | 8 | 0 | 0 |
+| `lavare` | 7 | 7 | 0 | 0 |
+| `le-malade-imaginaire` | 7 | 7 | 0 | 0 |
+| `le-bourgeois-gentilhomme` | 8 (7 + 1 scindé) | 4 | 4 | 0 |
+| `les-fourberies-de-scapin` | 7 | 6 | 1 | 0 |
+| `lecole-des-femmes` | 8 | 7 | 1 | 0 |
+| `les-femmes-savantes` | 7 | 7 | 0 | 0 |
+| `le-medecin-malgre-lui` | 6 | 6 | 0 | 0 |
+| `les-precieuses-ridicules` | 7 | 7 | 0 | 0 |
+| `les-facheux` | 8 | 8 | 0 | 0 |
+| **Total** | **81** | **75** | **6** | **0** |
+
+Aucun texte n'a été corrigé : aucun fait n'est contredit par le corpus. Les seules modifications portent sur des termes de recherche (graphies du texte) :
+- `lavare` : `Alburcy` → `Alburci` (le texte écrit « d’Alburci », p01125, p01147) ;
+- `le-malade-imaginaire` : `entrare` → `intrare` (p01399, « Dignus, dignus est intrare ») ;
+- `les-facheux` : `Lysandre` → `Lisandre` (p00016-p00017), dans la table et dans les notes.
+
+Le fait « La marquise courtisée s’appelle Dorimène » de `le-bourgeois-gentilhomme` est scindé en deux lignes : « La femme courtisée par Jourdain s’appelle Dorimène » (confirmé, p00177 et p00187) et « Dorimène est marquise » (hors zone, « marquise » absent des pages). Le nombre de faits passe de 80 à 81.
+
+Les hors zone tiennent à la couverture partielle des corpus : `le-bourgeois-gentilhomme` n'a que les actes I et V (leçon de prose, emprunt de Dorante, refus de Cléonte, acte II-III), `les-fourberies-de-scapin` les actes I et III (l'épisode d'Argante, acte II), `lecole-des-femmes` les actes I et V (la pierre et le billet, acte II). Dans ces trois cas, l'absence ne prouve rien (règle 3 : œuvre non entière).
+
+### Corrections
+
+Aucune correction de texte. Les doutes de la passe 1 ont été vérifiés un par un et leur issue est écrite dans les notes de chaque œuvre (ligne « Vérification : »). Les principaux résultats :
+- `le-malade-imaginaire` : Thomas Diafoirus « neveu de monsieur Purgon » est écrit (p00263, p00266) ; la note disait le contraire.
+- `les-fourberies-de-scapin` : « Pandolphe » est attesté (p00418), la note disait le contraire.
+- `le-medecin-malgre-lui` : Valère et Lucas sont nommés (p00120, p00165), et Horace est le prétendant imposé (p00659, p00683). La note disait « non nommés ».
+- `les-facheux` : l'attaque nocturne vient de La Rivière et de ses compagnons (p00068-p00069), sur l'ordre de Damis.
+- `le-misanthrope` : le procès est perdu à l'acte V (p00778) ; Célimène est « veuve » (p00099).
+
+### Points à trancher
+
+1. `tartuffe` : le résumé écrit « dénonce Orgon au roi », le texte dit « le prince » (p01147, p01192). Ce n'est pas une contradiction, mais un écart de vocabulaire. Non corrigé.
+2. `les-fourberies-de-scapin` : « la tête bandée » (personalSummary). La blessure est attestée (p00488 : un marteau « lui a brisé l’os »), le bandage n'est pas dans les pages. Hors zone, maintenu.
+3. `les-fourberies-de-scapin` : « À Naples » n'apparaît pas dans les pages (Tarente est attesté, p00078). Non relevé dans la table, maintenu.
+4. `le-bourgeois-gentilhomme` : le personnage titre reste dupe jusqu'au bout (point déjà signalé en passe 1). Non tranché par la vérification.
+
+### Contrôles
+
+- `summary lint vague1-4 --checked` : 0 erreur, 0 avertissement pour les onze œuvres. Aucun fait « à vérifier » ne subsiste dans les tableaux ; chaque fait confirmé ou hors zone a un appui.
+- `summary mark vague1-4 checked` : lancé après l'écriture de ce compte rendu.
+- Fuites de titre et d'auteur : contrôle à faire après `summary apply --output` (voir la réponse finale pour le résultat).
+
+### Incidents
+
+- Premier passage du script d'écriture : les libellés avaient une apostrophe typographique (’) là où le fichier a une apostrophe droite ('). Une partie des lignes n'a donc pas été reconnue. Le script a été relancé avec une comparaison insensible à ce caractère ; les notes « Vérification : » n'ont été insérées qu'une fois (36 lignes). Le tableau ne contient plus aucun « à vérifier ».
+- Un remplacement de terme a été appliqué deux fois sans effet (opération idempotente).
+
+### Difficultés au fil du lot
+
+- La fin du lot n'a pas été plus difficile, mais les hors zone sont concentrés dans les trois œuvres dont le corpus est partiel : c'est là que la décision « hors zone plutôt que corrigé » a été la plus fréquente.
+- Les prénoms ont été le point de vigilance prévu : Valère (Tartuffe, L'Avare, Le Médecin), Cléante (L'Avare, Le Malade), Géronte (Scapin, Le Médecin), Dorante (Bourgeois, Fâcheux). Chacun a été vérifié dans la bonne pièce, sans confusion relevée.
+- Le plus long a été la graphie : « Magdelon » contre « Madelon » (Précieuses), « Hyacinte » contre « Hyacinthe » (Scapin), « Alburci » contre « Alburcy » (L'Avare), « Lisandre » contre « Lysandre » (Fâcheux).
+
+### Retours sur la consigne
+
+- La règle 3 (œuvre entière dans le corpus) ne couvre pas le cas où le corpus n'a que quelques actes : j'ai traité ces cas comme hors zone (corpus partiel), sans « à trancher ». Une précision dans la consigne aiderait.
+- La consigne ne dit pas si une graphie de nom propre différente du résumé (Magdelon/Madelon) doit donner lieu à un appui ; j'ai appliqué la règle « graphie différente = confirmé » et gardé la graphie du résumé.
