@@ -59,4 +59,61 @@ Les difficultés réelles ont été ailleurs :
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+| Œuvre | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|
+| `phedre` | 8 | 0 | 0 |
+| `le-petit-chaperon-rouge` | 6 | 1 | 0 |
+| `cendrillon` | 7 | 0 | 1 |
+| `la-belle-au-bois-dormant` | 7 | 0 | 1 |
+| `le-chat-botte` | 7 | 0 | 0 |
+| `princesse-de-cleves` | 7 | 1 | 0 |
+| `fables-la-fontaine` | 5 | 3 | 0 |
+| `blanche-neige` | 8 | 0 | 0 |
+| `hansel-et-gretel` | 8 | 0 | 0 |
+| `raiponce` | 8 | 0 | 0 |
+| `le-joueur-de-flute-de-hamelin` | 8 | 0 | 0 |
+
+Total : 79 confirmés, 5 hors zone, 2 corrigés, soit 86 lignes. Les scissions (`princesse-de-cleves`, `fables-la-fontaine`) et la ligne ajoutée à `cendrillon` expliquent les écarts avec les 83 faits de la passe 1. Tous les doutes des « Notes » ont reçu une ligne « Vérification ».
+
+### Corrections
+
+1. `la-belle-au-bois-dormant`, `summary` : « une vieille fée qu'on a oublié d'inviter » devient « une vieille fée qu'on n'avait pas priée ». Paragraphe p00004 : « qu'on n'avait point priée ». Le conte ne parle pas d'oubli.
+2. `la-belle-au-bois-dormant`, `personalSummary` : « qu'on avait oubliée » devient « qu'on n'avait pas priée » (p00004).
+3. `cendrillon`, `summary` : « s'enfuit au douzième coup » devient « s'enfuit à minuit ». Paragraphes p00019 (« le premier coup de minuit ») et p00021 (« lorsque minuit avait sonné »). La formule du douzième coup n'est pas dans le texte. Ligne corrigée ajoutée au tableau.
+
+### Faits scindés
+
+- `princesse-de-cleves` : « refuse Nemours pour son repos » scindé. Le devoir envers la mémoire du mari est attesté (p00163) ; le repos reste hors zone (parties 2 et 3 absentes, et le motif n'est pas énoncé dans les parties 1 et 4).
+- `fables-la-fontaine` : « le dernier apologue confie la leçon finale à un solitaire » scindé. Le solitaire est confirmé (p00005, p00007) ; « dernier du recueil » reste hors zone.
+
+### Points à trancher
+
+- `le-petit-chaperon-rouge` : la moralité en vers est absente de la page enregistrée, qui se termine sur « et la mangea » (p00010). Ligne hors zone, « absent du texte complet — à trancher ». Il faut savoir si la page enregistrée est incomplète (extraction) ou si le texte source est bien sans moralité.
+- `fables-la-fontaine` : le corpus n'a que deux apologues sur plusieurs dizaines. Les absences (douze livres, peste, Ésope, Phèdre, Pilpay, blanc ou noir) sont hors zone et ne sont pas des erreurs.
+- `le-chat-botte`, `la-belle-au-bois-dormant` : le choix d'éviter « chat » et « bois » (points de la passe 1) reste à trancher à l'intégration. La consigne ne tranche pas.
+- `princesse-de-cleves` : le motif « pour son repos » reste à trancher, hors zone.
+
+### Contrôles
+
+- `summary lint vague1-3 --checked` : 0 erreur, 0 avertissement, après passe 2.
+- `summary mark vague1-3 checked` : lancé après ce compte rendu (voir la réponse finale pour le code retour).
+- Fuites : `summary apply --output` puis `dart run tool/list_name_leaks.dart` (voir la réponse finale).
+
+### Incidents
+
+- La session a été interrompue une fois (redémarrage du worker) avant la fin de la passe 2. Le script de transformation a été relancé. Une première exécution s'est arrêtée sur une erreur de clé de mon script, avant toute écriture : le fichier de session n'avait pas été modifié.
+- Plusieurs notes de la passe 1 disaient « non écrit » pour des éléments présents dans le texte (moulin, lézards et souris, pierre du chat, Pallantides, habits sous une pierre, six souris, Stiefmutter, Knöchlein, inscription latine). Ce n'est pas une faute de vérification, mais c'est un signal : la mémoire de la rédaction sous-estime souvent ce que le texte dit.
+
+### Difficultés au fil du lot
+
+Je n'ai pas senti de baisse d'attention en fin de lot, mais le travail a été long : la vérification du `princesse-de-cleves` (roman, deux parties sur quatre) a demandé le plus de lectures. Les contes courts se vérifient vite ; un roman entier ne tient pas dans un passage. La fin du lot n'a pas été traitée avec moins de soin, mais le contexte était chargé lors du redémarrage.
+
+### Retours sur la consigne
+
+1. Le cas « page enregistrée qui s'arrête avant la fin de l'œuvre » (`le-petit-chaperon-rouge`) n'est pas tranché : la règle « œuvre entière dans le corpus » suppose qu'on sache si la page est complète. Il faudrait une ligne qui dise comment trancher.
+2. Pour les fables, la ligne « Corpus » (deux pages sur plusieurs dizaines) suffit à classer les absences en hors zone sans discussion ; une phrase le dirait.
+3. La règle « un fait qui affirme deux choses se scinde » a servi deux fois et est claire.
+4. Un gabarit de ligne « Vérification » reprenant ancienne et nouvelle formulation, comme dans `lot-essai-10`, a été suivi.
+

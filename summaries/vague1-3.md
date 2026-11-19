@@ -1,6 +1,6 @@
 # Résumés — vague1-3
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `phedre`, `le-petit-chaperon-rouge`, `cendrillon`, `la-belle-au-bois-dormant`, `le-chat-botte`, `princesse-de-cleves`, `fables-la-fontaine`, `blanche-neige`, `hansel-et-gretel`, `raiponce`, `le-joueur-de-flute-de-hamelin`
 - Créée le : 2026-11-19
 
@@ -22,14 +22,14 @@ Fille de Minos et de Pasiphaé, je brûle pour le fils de mon époux, et j'ai to
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La nourrice de la reine s'appelle Œnone | `Œnone`, `OEnone`, `Oenone` | à vérifier | |
-| Hippolyte aime Aricie | `Aricie` | à vérifier | |
-| Aricie appartient à une famille ennemie de Thésée | `Pallante`, `Pallantides` | à vérifier | |
-| Thésée invoque Neptune contre son fils | `Neptune` | à vérifier | |
-| Hippolyte meurt traîné par ses chevaux effrayés par un monstre sorti de la mer | `monstre`, `chevaux` | à vérifier | |
-| Œnone se noie | `flots`, `abîme`, `précipitée` | à vérifier | |
-| La reine meurt empoisonnée | `poison` | à vérifier | |
-| La reine avait obtenu l'éloignement d'Hippolyte | `exil`, `éloigner` | à vérifier | |
+| La nourrice de la reine s'appelle Œnone | `Œnone`, `OEnone`, `Oenone` | confirmé | p00019, p00316 |
+| Hippolyte aime Aricie | `Aricie` | confirmé | p00225 |
+| Aricie appartient à une famille ennemie de Thésée | `Pallante`, `Pallantides` | confirmé | p00010, p00011, p00078 |
+| Thésée invoque Neptune contre son fils | `Neptune` | confirmé | p00220, p00239 |
+| Hippolyte meurt traîné par ses chevaux effrayés par un monstre sorti de la mer | `monstre`, `chevaux` | confirmé | p00307 |
+| Œnone se noie | `flots`, `abîme`, `précipitée` | confirmé | p00296, p00316 |
+| La reine meurt empoisonnée | `poison` | confirmé | p00316 |
+| La reine avait obtenu l'éloignement d'Hippolyte | `exil`, `éloigner` | confirmé | p00070, p00186 |
 
 ### Notes
 
@@ -45,6 +45,12 @@ Fille de Minos et de Pasiphaé, je brûle pour le fils de mon époux, et j'ai to
 - « la colère de Vénus » : Phèdre attribue sa passion à Vénus (« Vénus tout entière à sa proie attachée »), sûr, non relevé.
 - « je meurs en rendant au jour sa pureté » reprend de mémoire les derniers mots de Phèdre (« rend au jour qu’ils souillaient toute sa pureté »), à vérifier.
 - Fiche du catalogue : pas de désaccord, « Une femme manipulatrice qui attise le drame » désigne Œnone.
+
+- Vérification : l'interdit pesant sur Aricie est attesté : Thésée « défend de donner des neveux à ses frères » (p00015). Il vise le mariage et la descendance d'Aricie, non Hippolyte lui-même ; la formulation large est maintenue. « Pallantides » est écrit (p00011) : la note « non écrit » est fausse, mais le mot n'entre pas dans le résumé.
+- Vérification : l'annonce de la mort de Thésée est faite par Œnone, non par Panope (acte I, scène 5 : « Le roi n'est plus », p00082). Les bruits se répandent à l'acte II (p00092), et l'aveu à Hippolyte suit (p00145). L'aveu à Œnone (p00035) précède l'annonce : ordre confirmé.
+- Vérification : « son éloignement » est attesté : Phèdre a poussé à l'exil d'Hippolyte (« Je pressai son exil », p00070 ; « son exil … obtenu », p00186).
+- Vérification : Œnone « s'est lancée » dans la mer, rapporté par Panope (p00296), et Phèdre dit qu'elle a « cherché dans les flots » un supplice (p00316) : la noyade est confirmée, mais l'annonce vient de Panope, non de Thésée.
+- Vérification : « la colère de Vénus » est attestée (p00056 : « Ô haine de Vénus ! ô fatale colère ! »). « je meurs en rendant au jour sa pureté » reprend librement « rend au jour qu'ils souillaient toute sa pureté » (p00316). Thésée en appelle à Neptune, qui lui a donné sa parole (p00239) : la simplification est juste.
 
 ### Anciens textes
 
@@ -67,13 +73,13 @@ Ma mère m'a envoyée porter une galette et un petit pot de beurre à ma mère-g
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La fillette porte une galette et un petit pot de beurre | `galette`, `pot de beurre` | à vérifier | |
-| La mère-grand lui a fait faire sa coiffe rouge | `mère-grand`, `fit faire` | à vérifier | |
-| Le Loup n'ose pas la manger à cause des bûcherons | `bûcheron` | à vérifier | |
-| La fillette s'attarde à cueillir des noisettes | `noisettes` | à vérifier | |
-| La fillette court après les papillons | `papillons` | à vérifier | |
-| La fillette se déshabille et se met au lit avec le Loup | `déshabille`, `lit` | à vérifier | |
-| La moralité met en garde contre les loups doucereux | `doucereux`, `Moralité` | à vérifier | |
+| La fillette porte une galette et un petit pot de beurre | `galette`, `pot de beurre` | confirmé | p00005, p00006 |
+| La mère-grand lui a fait faire sa coiffe rouge | `mère-grand`, `fit faire` | confirmé | p00004 |
+| Le Loup n'ose pas la manger à cause des bûcherons | `bûcheron` | confirmé | p00006 |
+| La fillette s'attarde à cueillir des noisettes | `noisettes` | confirmé | p00007 |
+| La fillette court après les papillons | `papillons` | confirmé | p00007 |
+| La fillette se déshabille et se met au lit avec le Loup | `déshabille`, `lit` | confirmé | p00010 |
+| La moralité met en garde contre les loups doucereux | `doucereux`, `Moralité` | hors zone | absent du texte complet : la page enregistrée se termine sur « et la mangea » (p00010) — à trancher |
 
 ### Notes
 
@@ -87,6 +93,11 @@ Ma mère m'a envoyée porter une galette et un petit pot de beurre à ma mère-g
 - Première version à 125 mots (erreur du lint) : deux phrases resserrées, 120 mots à la fin, au plafond ; je n’ai pas voulu sacrifier un détail du parcours (noisettes, papillons) ni la moralité.
 - Simplifications : la formule « Tire la chevillette, la bobinette cherra » et le jeûne de trois jours du Loup non retenus.
 
+- Vérification : la liste des « grands » compte cinq termes (bras, jambes, oreilles, yeux, dents, p00010). Le résumé en retient deux, le `personalSummary` trois, sans contradiction.
+- Vérification : le « moulin » est écrit (« par delà le moulin », p00006) : la note « non écrit » est à corriger. Le résumé n'en parle pas.
+- Vérification : la mère-grand fait faire la coiffe (p00004). L'interdiction maternelle de s'arrêter n'existe pas dans le texte (la mère ne donne que la commission, p00005) ; seul le narrateur dit que la fillette ignorait le danger d'écouter un loup (p00006).
+- Vérification : la moralité en vers n'est pas dans le texte enregistré, qui se termine sur « et la mangea » (p00010) : c'est la ligne hors zone du tableau, à trancher.
+
 ### Anciens textes
 
 - summary : Une enfant est envoyée par sa mère pour apporter de la nourriture à sa grand-mère malade. En chemin, elle rencontre le loup qui la trompe et arrive avant elle chez la grand-mère. Il la dévore, puis prend sa place pour piéger l'enfant. Le conte se termine sur une morale mettant en garde contre les dangers de la naïveté.
@@ -98,7 +109,7 @@ Corpus : 1 page(s) enregistrée(s) sur fr.wikisource.org (langue : fr) : « Cont
 
 ### summary
 
-Un gentilhomme épouse en secondes noces une femme hautaine, mère de deux filles qui lui ressemblent ; la fille du gentilhomme, douce et bonne, est réduite aux plus viles besognes et va s'asseoir dans les cendres du foyer. Quand le fils du roi donne un bal, sa marraine, une fée, change une citrouille en carrosse, des souris en chevaux, des lézards en laquais, et lui donne de riches habits et des pantoufles de verre, à condition qu'elle rentre avant minuit. Au second bal, elle oublie l'heure et s'enfuit au douzième coup, perdant une pantoufle. Le prince la fait essayer partout : elle chausse la jeune fille, qui l'épouse et pardonne à ses sœurs.
+Un gentilhomme épouse en secondes noces une femme hautaine, mère de deux filles qui lui ressemblent ; la fille du gentilhomme, douce et bonne, est réduite aux plus viles besognes et va s'asseoir dans les cendres du foyer. Quand le fils du roi donne un bal, sa marraine, une fée, change une citrouille en carrosse, des souris en chevaux, des lézards en laquais, et lui donne de riches habits et des pantoufles de verre, à condition qu'elle rentre avant minuit. Au second bal, elle oublie l'heure et s'enfuit à minuit, perdant une pantoufle. Le prince la fait essayer partout : elle chausse la jeune fille, qui l'épouse et pardonne à ses sœurs.
 
 ### personalSummary
 
@@ -108,13 +119,14 @@ Depuis que mon père s'est remarié, je fais les plus rudes besognes de la maiso
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La fée change une citrouille en carrosse | `citrouille` | à vérifier | |
-| La fée change des lézards en laquais | `lézard` | à vérifier | |
-| La fée change des souris en chevaux | `souris` | à vérifier | |
-| La jeune fille couche au grenier sur une paillasse | `grenier`, `paillasse` | à vérifier | |
-| La jeune fille perd sa pantoufle de verre au second bal | `pantoufle`, `seconde fois` | à vérifier | |
-| La jeune fille reçoit des habits d'or et d'argent | `or et d'argent` | à vérifier | |
-| La jeune fille marie ses sœurs à deux grands seigneurs | `seigneurs` | à vérifier | |
+| La fée change une citrouille en carrosse | `citrouille` | confirmé | p00010 |
+| La fée change des lézards en laquais | `lézard` | confirmé | p00013, p00014 |
+| La fée change des souris en chevaux | `souris` | confirmé | p00011 |
+| La jeune fille couche au grenier sur une paillasse | `grenier`, `paillasse` | confirmé | p00005 |
+| La jeune fille perd sa pantoufle de verre au second bal | `pantoufle`, `seconde fois` | confirmé | p00019, p00021 |
+| La jeune fille s'enfuit à minuit, au second bal | `minuit`, `coup` | corrigé | p00019, p00021 : le texte dit « le premier coup de minuit » et qu'elle fuit quand minuit a sonné ; « au douzième coup » n'y figure pas |
+| La jeune fille reçoit des habits d'or et d'argent | `or et d'argent` | confirmé | p00014 |
+| La jeune fille marie ses sœurs à deux grands seigneurs | `seigneurs` | confirmé | p00023 |
 
 ### Notes
 
@@ -129,6 +141,10 @@ Depuis que mon père s'est remarié, je fais les plus rudes besognes de la maiso
 - Simplification : « Le prince la fait essayer partout » ; de mémoire, il fait publier à son de trompe qu'il épousera celle à qui la pantoufle ira, et on l'essaie aux princesses, aux duchesses, puis aux sœurs. Le mariage des sœurs à deux grands seigneurs, relevé comme fait, est retiré de `summary` pour le volume.
 - Fiche du catalogue : « maltraitée par sa famille » (ancienne description) — de mémoire, c'est la belle-mère et ses filles, pas le père.
 
+- Vérification : correction. « s'enfuit au douzième coup » est contredit : le texte dit qu'elle entend « le premier coup de minuit » et qu'elle fuit quand minuit a sonné (p00019, p00021). Ancienne formulation : « s'enfuit au douzième coup » ; nouvelle : « s'enfuit à minuit ». Ligne ajoutée au tableau.
+- Vérification : six souris (p00011) et six lézards (p00013) sont écrits : la note « nombre non écrit » est à corriger. Le résumé ne donne pas ces nombres : rien à corriger dans le texte.
+- Vérification : « habits d'or et d'argent » est attesté (p00014) ; le mariage des sœurs à deux grands seigneurs aussi (p00023).
+
 ### Anciens textes
 
 - summary : Maltraitée par sa belle-mère et ses demi-sœurs, une jeune fille reçoit l'aide de sa marraine qui lui permet d'aller au bal. Elle y rencontre le prince, mais doit fuir avant minuit, laissant derrière elle une chaussure. Le prince la retrouve grâce à cet objet et l'épouse.
@@ -140,24 +156,24 @@ Corpus : 1 page(s) enregistrée(s) sur fr.wikisource.org (langue : fr) : « Cont
 
 ### summary
 
-Au baptême d'une princesse, une vieille fée qu'on a oublié d'inviter prédit que l'enfant se percera la main d'un fuseau et en mourra ; une jeune fée change cette mort en un sommeil de cent ans, dont la tirera le fils d'un roi. Malgré l'interdiction des fuseaux, la princesse se pique à quinze ou seize ans, et la bonne fée endort tout le château, qu'enferment ronces et épines. Cent ans plus tard, un prince l'éveille et l'épouse en secret ; naissent Aurore et Jour. Devenu roi, il part en guerre ; sa mère, une ogresse, veut manger la reine et les enfants, que cache le maître d'hôtel, et finit dans la cuve de vipères préparée pour eux.
+Au baptême d'une princesse, une vieille fée qu'on n'avait pas priée prédit que l'enfant se percera la main d'un fuseau et en mourra ; une jeune fée change cette mort en un sommeil de cent ans, dont la tirera le fils d'un roi. Malgré l'interdiction des fuseaux, la princesse se pique à quinze ou seize ans, et la bonne fée endort tout le château, qu'enferment ronces et épines. Cent ans plus tard, un prince l'éveille et l'épouse en secret ; naissent Aurore et Jour. Devenu roi, il part en guerre ; sa mère, une ogresse, veut manger la reine et les enfants, que cache le maître d'hôtel, et finit dans la cuve de vipères préparée pour eux.
 
 ### personalSummary
 
-Le jour de mon baptême, une vieille fée qu'on avait oubliée m'a condamnée à mourir d'un fuseau ; une autre a changé ma mort en un sommeil de cent ans. J'avais quinze ou seize ans quand j'ai trouvé, en haut d'un donjon, une bonne vieille qui filait, et je me suis piquée. À mon réveil, un prince était à genoux devant moi : je l'ai épousé, et nous avons eu Aurore et Jour. Mais sa mère était ogresse, et sans un maître d'hôtel compatissant, elle nous aurait mangés, mes enfants et moi.
+Le jour de mon baptême, une vieille fée qu'on n'avait pas priée m'a condamnée à mourir d'un fuseau ; une autre a changé ma mort en un sommeil de cent ans. J'avais quinze ou seize ans quand j'ai trouvé, en haut d'un donjon, une bonne vieille qui filait, et je me suis piquée. À mon réveil, un prince était à genoux devant moi : je l'ai épousé, et nous avons eu Aurore et Jour. Mais sa mère était ogresse, et sans un maître d'hôtel compatissant, elle nous aurait mangés, mes enfants et moi.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La vieille fée n'avait pas été invitée parce qu'on la croyait morte ou enchantée | `tour`, `cinquante ans`, `enchantée` | à vérifier | |
-| La princesse se perce la main d'un fuseau | `fuseau` | à vérifier | |
-| La princesse a quinze ou seize ans quand elle se pique | `quinze ou seize` | à vérifier | |
-| La princesse trouve une vieille qui file en haut d'un donjon | `donjon`, `filer`, `quenouille` | à vérifier | |
-| Les enfants s'appellent Aurore et Jour | `Aurore`, `Jour` | à vérifier | |
-| La mère du prince est ogresse | `Ogresse`, `ogre` | à vérifier | |
-| Le maître d'hôtel cache la reine et les enfants | `maître d'hôtel` | à vérifier | |
-| L'ogresse se jette dans une cuve remplie de vipères | `cuve`, `vipères`, `crapauds` | à vérifier | |
+| La vieille fée n'avait pas été invitée parce qu'on la croyait morte ou enchantée | `tour`, `cinquante ans`, `enchantée` | corrigé | p00004 : le texte dit « qu'on n'avait point priée » ; le résumé disait « qu'on a oublié d'inviter » |
+| La princesse se perce la main d'un fuseau | `fuseau` | confirmé | p00007 |
+| La princesse a quinze ou seize ans quand elle se pique | `quinze ou seize` | confirmé | p00009 |
+| La princesse trouve une vieille qui file en haut d'un donjon | `donjon`, `filer`, `quenouille` | confirmé | p00009 |
+| Les enfants s'appellent Aurore et Jour | `Aurore`, `Jour` | confirmé | p00022 |
+| La mère du prince est ogresse | `Ogresse`, `ogre` | confirmé | p00023 |
+| Le maître d'hôtel cache la reine et les enfants | `maître d'hôtel` | confirmé | p00026, p00027 |
+| L'ogresse se jette dans une cuve remplie de vipères | `cuve`, `vipères`, `crapauds` | confirmé | p00030, p00031 |
 
 ### Notes
 
@@ -171,6 +187,11 @@ Le jour de mon baptême, une vieille fée qu'on avait oubliée m'a condamnée à
 - « À mon réveil, un prince était à genoux devant moi » : de mémoire, il se met à genoux près d'elle avant qu'elle ne s'éveille. Le baiser n'existe pas chez Perrault ; je ne l'écris pas.
 - Premier jet à 121 mots : trois tournures resserrées.
 - Ambiguïté corrigée en cours : « prédit qu'elle se percera » (la fée ou la princesse ?) devient « prédit que l'enfant se percera ».
+
+- Vérification : correction. « qu'on a oublié d'inviter » est contredit : la fée était « qu'on n'avait point priée » (p00004). Ancienne formulation (summary) : « une vieille fée qu'on a oublié d'inviter » ; nouvelle : « une vieille fée qu'on n'avait pas priée ». Ancienne formulation (personalSummary) : « qu'on avait oubliée » ; nouvelle : « qu'on n'avait pas priée ».
+- Vérification : sept fées sont trouvées (p00003) ; la vieille n'en fait pas partie (p00004–p00005). Le nombre n'est pas dans le résumé.
+- Vérification : « maison de plaisance » est attesté (p00009). Le prince « se mit à genoux auprès d'elle » avant qu'elle s'éveille (p00018) : « à mon réveil, un prince était à genoux devant moi » est exact. Pas de baiser du prince : seuls le roi et la reine embrassent l'enfant endormie (p00014).
+- Vérification : le mariage fut célébré « dans la chapelle du château » par le grand aumônier (p00021), puis publiquement déclaré (p00024) : « l'épouse en secret » est fondé.
 
 ### Anciens textes
 
@@ -193,13 +214,13 @@ Mon maître songeait à me manger et à faire un manchon de ma peau : je lui ai 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le meunier laisse son moulin, son âne et un matou à ses trois fils | `moulin`, `âne` | à vérifier | |
-| Le cadet pense à faire un manchon de la peau de l'animal | `manchon` | à vérifier | |
-| L'animal demande un sac et des bottes | `sac`, `bottes` | à vérifier | |
-| L'animal offre au roi un lapin puis des perdrix | `lapin`, `perdrix` | à vérifier | |
-| L'animal menace les paysans d'être hachés menu comme chair à pâté | `chair à pâté`, `hachés` | à vérifier | |
-| L'ogre se change en lion avant de se changer en souris | `lion`, `souris` | à vérifier | |
-| L'animal ne court plus après les souris que pour se divertir | `divertir`, `souris` | à vérifier | |
+| Le meunier laisse son moulin, son âne et un matou à ses trois fils | `moulin`, `âne` | confirmé | p00003 |
+| Le cadet pense à faire un manchon de la peau de l'animal | `manchon` | confirmé | p00004 |
+| L'animal demande un sac et des bottes | `sac`, `bottes` | confirmé | p00005 |
+| L'animal offre au roi un lapin puis des perdrix | `lapin`, `perdrix` | confirmé | p00009, p00010 |
+| L'animal menace les paysans d'être hachés menu comme chair à pâté | `chair à pâté`, `hachés` | confirmé | p00014, p00017 |
+| L'ogre se change en lion avant de se changer en souris | `lion`, `souris` | confirmé | p00018, p00019 |
+| L'animal ne court plus après les souris que pour se divertir | `divertir`, `souris` | confirmé | p00021 |
 
 ### Notes
 
@@ -213,6 +234,10 @@ Mon maître songeait à me manger et à faire un manchon de ma peau : je lui ai 
 - Doute : les paysans sont des faucheurs dans un pré puis des moissonneurs ; « les paysans » reste large.
 - Non retenu : le roi, charmé et ayant bu cinq ou six coups, propose lui-même sa fille ; les deux moralités.
 - Fiche du catalogue : « Un moulin transmis en héritage » est juste (à l'aîné) ; l'ancien `summary` dit que l'animal « demande des chaussures », conforme à ma simplification.
+
+- Vérification : les habits cachés « sous une grosse pierre » sont écrits (p00013) : la note « non écrit » est à corriger. Le résumé ne le dit pas.
+- Vérification : faucheurs (p00015) puis moissonneurs (p00017) : la note est exacte. Le lion précède la souris (p00018–p00019). La rivière est écrite (p00011).
+- Vérification : l'ordre lapin de garenne puis deux perdrix est confirmé (p00009–p00010) ; la durée n'est pas dite dans le texte, rien n'est écrit dans le résumé.
 
 ### Anciens textes
 
@@ -235,13 +260,14 @@ Ma mère m'a appris à me défier des hommes et à chercher le bonheur dans la v
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'héroïne rencontre Nemours à un bal au Louvre | `Nemours`, `bal`, `Louvre` | à vérifier | |
-| La mère de l'héroïne meurt avant l'aveu | `Mme de Chartres`, `madame de Chartres`, `mourir` | à vérifier | |
-| L'aveu a lieu à Coulommiers | `Coulommiers` | à vérifier | |
-| Nemours, caché, entend l'aveu | `caché`, `entendit`, `Nemours` | à vérifier | |
-| Le mari meurt de fièvre après le rapport d'un gentilhomme envoyé épier Nemours | `fièvre`, `gentilhomme` | à vérifier | |
-| L'héroïne refuse Nemours pour son repos | `repos` | à vérifier | |
-| L'héroïne se retire dans une maison religieuse et meurt jeune | `maison religieuse`, `assez courte` | à vérifier | |
+| L'héroïne rencontre Nemours à un bal au Louvre | `Nemours`, `bal`, `Louvre` | confirmé | p00042, p00043 |
+| La mère de l'héroïne meurt avant l'aveu | `Mme de Chartres`, `madame de Chartres`, `mourir` | confirmé | p00082, p00100 |
+| L'aveu a lieu à Coulommiers | `Coulommiers` | confirmé | p00100, p00127 |
+| Nemours, caché, entend l'aveu | `caché`, `entendit`, `Nemours` | confirmé | p00108, p00150, p00151 |
+| Le mari meurt de fièvre après le rapport d'un gentilhomme envoyé épier Nemours | `fièvre`, `gentilhomme` | confirmé | p00107, p00122, p00124, p00129 |
+| L'héroïne refuse d'épouser Nemours, par devoir envers la mémoire de son mari | `devoir`, `mémoire` | confirmé | p00163 |
+| L'héroïne refuse Nemours pour son repos | `repos` | hors zone | absent des pages enregistrées : les parties 2 et 3 manquent, et le motif du repos n'est énoncé dans les parties 1 et 4 ni pour elle ni ailleurs ; le texte donne le devoir (p00163) |
+| L'héroïne se retire dans une maison religieuse et meurt jeune | `maison religieuse`, `assez courte` | confirmé | p00163, p00165 |
 
 ### Notes
 
@@ -256,6 +282,13 @@ Ma mère m'a appris à me défier des hommes et à chercher le bonheur dans la v
 - Doute : la retraite finale — maison religieuse, puis séjour alterné avec ses terres ; mort jeune (« sa vie, qui fut assez courte »). Relevé.
 - Non retenus : le portrait dérobé, la lettre égarée du vidame de Chartres, la mort d'Henri II au tournoi, la scène de la canne et des rubans.
 - Fiche du catalogue : pas de désaccord ; la quatrième « personne » (mère lucide) est juste.
+
+- Vérification : le bal est celui du Louvre, le jour des fiançailles (p00042), et Nemours y entre pendant que l'héroïne danse (p00042–p00043). Les fiancés ne sont pas nommés dans les pages enregistrées : hors zone, rien dans le résumé.
+- Vérification : « sans le nommer » est attesté : le mari lui reproche sa passion pour Nemours sans qu'elle l'ait nommé (p00100).
+- Vérification : Nemours entend la conversation de Mme de Clèves avec son mari (p00151), après avoir gagné le jardin (p00108–p00113).
+- Vérification : le gentilhomme rapporte que Nemours a passé la nuit dans le jardin (p00117) ; le mari en conclut à une liaison (p00122–p00127), ce qui fonde le « rapport mal compris ».
+- Vérification : la mère, mourante, fait appeler sa fille et l'exhorte (p00082–p00083) ; elle meurt avant l'aveu, qui a lieu à Coulommiers (p00100, p00127).
+- Vérification : la retraite se fait dans une maison religieuse, une partie de l'année (p00165) ; la vie est « assez courte » (p00165).
 
 ### Anciens textes
 
@@ -278,13 +311,14 @@ Je prends Ésope pour maître et je me sers des bêtes pour instruire les hommes
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier apologue est celui de la cigale et de la fourmi | `Cigale`, `Fourmi` | à vérifier | |
-| La fourmi n'est pas prêteuse | `prêteuse` | à vérifier | |
-| La fourmi renvoie la cigale danser | `dansez` | à vérifier | |
-| Le dernier apologue confie la leçon finale à un solitaire | `Solitaire` | à vérifier | |
-| La leçon finale est d'apprendre à se connaître | `se connaître`, `connaître` | à vérifier | |
-| L'ensemble compte douze livres | `livre douzième`, `livre XII`, `douze` | à vérifier | |
-| Les animaux malades de la peste sacrifient l'âne | `peste`, `âne`, `Baudet` | à vérifier | |
+| Le premier apologue est celui de la cigale et de la fourmi | `Cigale`, `Fourmi` | confirmé | p00001, p00002 |
+| La fourmi n'est pas prêteuse | `prêteuse` | confirmé | p00004 |
+| La fourmi renvoie la cigale danser | `dansez` | confirmé | p00004 |
+| L'apologue du juge arbitre, de l'hospitalier et du solitaire confie la leçon finale à un solitaire | `Solitaire`, `Juge` | confirmé | p00005, p00007 |
+| Cet apologue est le dernier du recueil | `dernier` | hors zone | absent des pages enregistrées : le texte donne « XXVIII » (p00005), non le rang dans le recueil |
+| La leçon finale est d'apprendre à se connaître | `se connaître`, `connaître` | confirmé | p00007 |
+| L'ensemble compte douze livres | `livre douzième`, `livre XII`, `douze` | hors zone | absent des pages enregistrées (deux apologues seulement, p00001–p00007) |
+| Les animaux malades de la peste sacrifient l'âne | `peste`, `âne`, `Baudet` | hors zone | absent des pages enregistrées (la fable de la peste n'est pas dans les deux pages) |
 
 ### Notes
 
@@ -298,6 +332,10 @@ Je prends Ésope pour maître et je me sers des bêtes pour instruire les hommes
 - Doute : « apprendre à se connaître est le premier des soins » ; je crois que c'est presque mot pour mot l'avant-dernière strophe du dernier apologue (*Le Juge arbitre, l'Hospitalier et le Solitaire*). Relevé.
 - Doute : « jusqu'aux arbres » (*Le Chêne et le Roseau*) ; sûr. Les « objets » (le pot de terre et le pot de fer) non écrits.
 - Non retenu : les dédicaces (au Dauphin, au duc de Bourgogne), *Le Lièvre et la Tortue*, *La Grenouille et le Bœuf*.
+
+- Vérification : « apprendre à se connaître est le premier des soins » est attesté tel quel (p00007) : la note est juste.
+- Vérification : « jusqu'aux arbres », « blanc ou noir », « Ésope », « Phèdre », « Pilpay », « douze livres » et « trois recueils » sont absents des pages enregistrées (deux apologues, p00001–p00007) : hors zone, à ne pas corriger.
+- Vérification : « Phèdre » désigne le fabuliste (préface absente des pages), non l'héroïne de Racine : ce n'est pas une confusion, comme l'indique la note.
 
 ### Anciens textes
 
@@ -320,14 +358,14 @@ Ma belle-mère interrogeait son miroir, et le jour où il m'a dite plus belle qu
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La fillette a sept ans quand le miroir la déclare la plus belle | `sieben Jahr`, `sept ans` | à vérifier | |
-| La fillette se réfugie chez sept nains | `sieben Zwerge`, `Zwerg`, `nains` | à vérifier | |
-| La reine la serre d'abord avec un lacet | `Schnür`, `Riemen`, `lacet` | à vérifier | |
-| La reine lui vend ensuite un peigne empoisonné | `Kamm`, `peigne` | à vérifier | |
-| Les nains l'hébergent à condition qu'elle tienne leur ménage | `kochen`, `waschen`, `Haushalt`, `ménage` | à vérifier | |
-| Les nains la couchent dans un cercueil de verre | `Sarg`, `gläsern`, `cercueil` | à vérifier | |
-| Le morceau de pomme se détache quand les porteurs trébuchent | `Strauch`, `stolper`, `Griebs`, `trébuch` | à vérifier | |
-| La marâtre danse dans des pantoufles de fer rougies jusqu'à la mort | `Pantoffeln`, `glühend`, `pantoufles` | à vérifier | |
+| La fillette a sept ans quand le miroir la déclare la plus belle | `sieben Jahr`, `sept ans` | confirmé | p00008 |
+| La fillette se réfugie chez sept nains | `sieben Zwerge`, `Zwerg`, `nains` | confirmé | p00014, p00015 |
+| La reine la serre d'abord avec un lacet | `Schnür`, `Riemen`, `lacet` | confirmé | p00020, p00021 |
+| La reine lui vend ensuite un peigne empoisonné | `Kamm`, `peigne` | confirmé | p00026 |
+| Les nains l'hébergent à condition qu'elle tienne leur ménage | `kochen`, `waschen`, `Haushalt`, `ménage` | confirmé | p00015 |
+| Les nains la couchent dans un cercueil de verre | `Sarg`, `gläsern`, `cercueil` | confirmé | p00036 |
+| Le morceau de pomme se détache quand les porteurs trébuchent | `Strauch`, `stolper`, `Griebs`, `trébuch` | confirmé | p00037 |
+| La marâtre danse dans des pantoufles de fer rougies jusqu'à la mort | `Pantoffeln`, `glühend`, `pantoufles` | confirmé | p00042 |
 
 ### Notes
 
@@ -342,6 +380,12 @@ Ma belle-mère interrogeait son miroir, et le jour où il m'a dite plus belle qu
 - Doute : le morceau de pomme se détache parce que les serviteurs qui portent le cercueil trébuchent sur un buisson ; « une secousse » reste large, le détail est relevé comme fait.
 - Désaccord avec l'ancien `summary` et la fiche (« réveillée par un prince », « Un réveil inattendu ») : chez les Grimm, pas de baiser ; c'est la secousse qui libère la gorge. Mon texte suit cette version.
 - Fiche du catalogue : « Une tentative d'abandon dans une forêt » est approximatif (c'est un ordre de meurtre, épargné par le chasseur) ; pas d'effet sur mes textes.
+
+- Vérification : la mère meurt « quand l'enfant fut né » (p00002) : la note « à la naissance même » est confirmée.
+- Vérification : le lacet est un *Schnürriemen* (p00020) : les racines proposées (`Schnür`, `Riemen`) sont justes.
+- Vérification : le marcassin (*Frischling*), le poumon et le foie (*Lunge*, *Leber*) sont attestés (p00012) ; la reine mange la chair.
+- Vérification : aucun baiser (« küss » absent du texte) ; c'est la secousse des porteurs qui fait tomber le morceau (p00037). Le résumé suit le texte, non l'ancien résumé.
+- Vérification : la reine vend le peigne (« gute Waare feil », p00026) ; l'âge de sept ans est attesté (p00008).
 
 ### Anciens textes
 
@@ -364,14 +408,14 @@ Il n'y avait plus de pain à la maison, et notre père, poussé par sa femme, no
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le garçon sème des cailloux blancs qui brillent au clair de lune | `Kiesel`, `Mond`, `cailloux` | à vérifier | |
-| La seconde fois, les oiseaux mangent les miettes de pain | `Bröck`, `Vögel`, `miettes` | à vérifier | |
-| La maisonnette est de pain, au toit de gâteau et aux fenêtres de sucre | `Brot`, `Kuchen`, `Zucker`, `gâteau` | à vérifier | |
-| Le garçon tend un petit os au lieu de son doigt | `Knöchlein`, `Knochen`, `os` | à vérifier | |
-| La fillette pousse la sorcière dans le four | `Backofen`, `Ofen`, `four` | à vérifier | |
-| Les enfants rapportent des perles | `Perlen`, `Edelstein`, `perles` | à vérifier | |
-| À leur retour, la femme du bûcheron est morte | `gestorben`, `todt`, `tot`, `morte` | à vérifier | |
-| La femme qui veut perdre les enfants est leur mère, ou une marâtre | `Stiefmutter`, `Mutter`, `marâtre` | à vérifier | |
+| Le garçon sème des cailloux blancs qui brillent au clair de lune | `Kiesel`, `Mond`, `cailloux` | confirmé | p00003, p00006 |
+| La seconde fois, les oiseaux mangent les miettes de pain | `Bröck`, `Vögel`, `miettes` | confirmé | p00009, p00010 |
+| La maisonnette est de pain, au toit de gâteau et aux fenêtres de sucre | `Brot`, `Kuchen`, `Zucker`, `gâteau` | confirmé | p00011 |
+| Le garçon tend un petit os au lieu de son doigt | `Knöchlein`, `Knochen`, `os` | confirmé | p00017 |
+| La fillette pousse la sorcière dans le four | `Backofen`, `Ofen`, `four` | confirmé | p00018 |
+| Les enfants rapportent des perles | `Perlen`, `Edelstein`, `perles` | confirmé | p00019, p00021 |
+| À leur retour, la femme du bûcheron est morte | `gestorben`, `todt`, `tot`, `morte` | confirmé | p00021 |
+| La femme qui veut perdre les enfants est leur mère, ou une marâtre | `Stiefmutter`, `Mutter`, `marâtre` | confirmé | p00003, p00007 |
 
 ### Notes
 
@@ -384,6 +428,10 @@ Il n'y avait plus de pain à la maison, et notre père, poussé par sa femme, no
 - Simplification : « chargés de perles » ; ce sont des perles et des pierres précieuses, trouvées chez la sorcière (la fin du corpus le confirme).
 - La formule finale (la souris, le bonnet de fourrure) non retenue.
 - Ambiguïté corrigée en cours : « la fillette […] l'y pousse » (la sorcière ou le garçon ?) devient « y pousse la sorcière ».
+
+- Vérification : la femme est dite *Stiefmutter* (p00003) puis *Mutter* (p00007, p00010) : le texte emploie les deux. Le résumé dit « sa femme » sans trancher : rien à corriger, la marâtre est attestée.
+- Vérification : le « petit os » (*Knöchlein*, p00017), le four (p00018), les perles (p00019, p00021) et la mort de la femme (p00021) sont attestés.
+- Vérification : les prénoms Hänsel et Grethel sont écrits dans le texte (p00002) ; les résumés ne les emploient pas, conformément à la consigne.
 
 ### Anciens textes
 
@@ -406,14 +454,14 @@ Mes parents m'ont cédée à dame Gothel pour quelques salades de son jardin, et
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La sorcière s'appelle dame Gothel | `Gothel` | à vérifier | |
-| La fillette est enfermée dans la tour à douze ans | `zwölf`, `douze` | à vérifier | |
-| La tour n'a ni porte ni escalier | `Treppe`, `Thüre`, `Tür`, `escalier` | à vérifier | |
-| Le fils du roi est attiré par son chant | `Gesang`, `sang`, `chant` | à vérifier | |
-| La sorcière chasse la jeune fille dans un désert | `Wüste`, `désert` | à vérifier | |
-| Le prince devient aveugle en tombant dans des épines | `Dornen`, `blind`, `épines` | à vérifier | |
-| La jeune fille a mis au monde des jumeaux, un garçon et une fille | `Zwillinge`, `jumeaux` | à vérifier | |
-| Ses larmes rendent la vue au prince | `Thränen`, `Tränen`, `larmes` | à vérifier | |
+| La sorcière s'appelle dame Gothel | `Gothel` | confirmé | p00011 |
+| La fillette est enfermée dans la tour à douze ans | `zwölf`, `douze` | confirmé | p00003 |
+| La tour n'a ni porte ni escalier | `Treppe`, `Thüre`, `Tür`, `escalier` | confirmé | p00003, p00006 |
+| Le fils du roi est attiré par son chant | `Gesang`, `sang`, `chant` | confirmé | p00006 |
+| La sorcière chasse la jeune fille dans un désert | `Wüste`, `désert` | confirmé | p00011 |
+| Le prince devient aveugle en tombant dans des épines | `Dornen`, `blind`, `épines` | confirmé | p00014 |
+| La jeune fille a mis au monde des jumeaux, un garçon et une fille | `Zwillinge`, `jumeaux` | confirmé | p00014 |
+| Ses larmes rendent la vue au prince | `Thränen`, `Tränen`, `larmes` | confirmé | p00014 |
 
 ### Notes
 
@@ -428,6 +476,10 @@ Mes parents m'ont cédée à dame Gothel pour quelques salades de son jardin, et
 - Désaccord avec l'ancien `summary` : « la sorcière […] aveugle le prince » ; de mémoire, il s'aveugle en tombant (ou sautant de désespoir) sur des épines. Mon texte suit ce souvenir.
 - Premier jet à 127 mots, 128 après les corrections de pronoms : resserré à nouveau (« trahie par une parole naïve, la captive est tondue ») ; deux ambiguïtés corrigées en même temps (« où elle monte en se hissant à ses longs cheveux » : la sorcière à ses propres cheveux ? ; « ses larmes lui rendent la vue » : de qui ?).
 - Ambiguïté corrigée en cours dans `personalSummary` : « une parole maladroite m'a trahie. Elle m'a coupé les cheveux » (« elle » pouvait renvoyer à la parole) devient « La sorcière m'a coupé les cheveux ».
+
+- Vérification : « Frau Gothel » est écrit (p00011) : le nom est confirmé.
+- Vérification : la « parole naïve » est une question sur le poids : la jeune fille demande à Frau Gothel pourquoi elle est plus lourde à hisser que le jeune prince (p00011). La formulation large reste exacte.
+- Vérification : le prince tombe du haut de la tour dans les épines, qui lui crèvent les yeux (p00014) : c'est la correction de l'ancien texte, confirmée.
 
 ### Anciens textes
 
@@ -450,14 +502,14 @@ Nous avons promis une belle somme à l'homme à l'habit bariolé qui nous déliv
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le preneur de rats noie la vermine dans la Weser | `Weser` | à vérifier | |
-| Il revient le jour de la Saint-Jean-et-Saint-Paul, le 26 juin | `Johannis`, `Pauli`, `26`, `Juni` | à vérifier | |
-| Il revient en chasseur, coiffé d'un chapeau rouge | `Jäger`, `roth`, `rot`, `Hut` | à vérifier | |
-| Cent trente enfants le suivent | `hundert und dreißig`, `hundertunddreißig`, `130`, `cent trente` | à vérifier | |
-| Les enfants disparaissent dans une montagne | `Berg`, `montagne` | à vérifier | |
-| Deux enfants reviennent, l'un aveugle, l'autre muet | `blind`, `stumm`, `aveugle`, `muet` | à vérifier | |
-| On ne joue ni ne danse dans la rue par où les enfants sont partis | `Gasse`, `Straße`, `Saitenspiel`, `Tanz` | à vérifier | |
-| La ville date ses actes du départ des enfants | `Ausgang`, `Jahr`, `zählen` | à vérifier | |
+| Le preneur de rats noie la vermine dans la Weser | `Weser` | confirmé | p00013, p00014 |
+| Il revient le jour de la Saint-Jean-et-Saint-Paul, le 26 juin | `Johannis`, `Pauli`, `26`, `Juni` | confirmé | p00014, p00016 (variante du 22 juin, non retenue) |
+| Il revient en chasseur, coiffé d'un chapeau rouge | `Jäger`, `roth`, `rot`, `Hut` | confirmé | p00014 |
+| Cent trente enfants le suivent | `hundert und dreißig`, `hundertunddreißig`, `130`, `cent trente` | confirmé | p00014, p00017, p00019 |
+| Les enfants disparaissent dans une montagne | `Berg`, `montagne` | confirmé | p00014, p00015 |
+| Deux enfants reviennent, l'un aveugle, l'autre muet | `blind`, `stumm`, `aveugle`, `muet` | confirmé | p00014 |
+| On ne joue ni ne danse dans la rue par où les enfants sont partis | `Gasse`, `Straße`, `Saitenspiel`, `Tanz` | confirmé | p00015 |
+| La ville date ses actes du départ des enfants | `Ausgang`, `Jahr`, `zählen` | confirmé | p00016 |
 
 ### Notes
 
@@ -470,6 +522,11 @@ Nous avons promis une belle somme à l'homme à l'habit bariolé qui nous déliv
 - Doute : « Deux reviennent, l'un aveugle, l'autre muet » (premier jet : « Seuls deux reviennent », élargi aussitôt) ; de mémoire, deux enfants reviennent en retard, l'aveugle ne peut montrer le lieu, le muet le montre sans pouvoir raconter ; un troisième, retourné chercher son habit, échappe au malheur. « Seuls deux » aurait été inexact s'il faut compter ce troisième ; à vérifier.
 - Doute : la rue sans musique (« Bungelosen-Straße » ?) et la datation des actes à partir du départ des enfants ; assez sûr du fait, pas des mots, d'où plusieurs termes. Relevés.
 - Non retenu : la fille adulte du bourgmestre parmi les enfants ; la bonne d'enfants qui voit la scène de loin et donne l'alerte.
+
+- Vérification : le 26 juin est écrit, « Morgens früh sieben Uhr, nach andern zu Mittag » (p00014) : le « matin » du résumé est l'une des deux versions. La date du 22 juin (p00016) est une variante, non retenue.
+- Vérification : cent trente sont attestés par l'inscription latine « Centum ter denos » (p00019) et le vers bas-allemand (p00017). Le refus du salaire est écrit (p00014).
+- Vérification : la montagne est un « Berg » près de Hameln (p00015), et les « Köppen » figurent dans l'inscription (p00017) ; la Transylvanie n'apparaît pas. La rue sans musique (« Tanz », « Saiten-Spiel », p00015) et la datation « Jahr und Tag » (p00016) sont attestées.
+- Vérification : le troisième enfant qui revient chercher son habit n'est pas dans les pages enregistrées : hors zone, rien dans le résumé.
 
 ### Anciens textes
 
