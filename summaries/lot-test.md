@@ -11,6 +11,7 @@ Rédaction : `/summary-draft` ; vérification : `/summary-check` ; règles : `do
 - Vérification : la consigne ne dit pas quel statut donner à un fait composé dont une seule moitié est attestée (« Pierre est fait prisonnier et marche avec Karataïev » : captivité et nom évoqués en passant, p03364, mais pas la marche). J'ai choisi `hors zone`, en citant dans l'appui ce qui est attesté ; une règle explicite serait utile (scinder le fait en deux lignes à la rédaction ?).
 - Vérification : les « Doutes » de la section Notes de la passe 1 ne sont pas des faits du tableau ; la consigne ne dit pas où consigner leur issue. Je ne les ai pas ajoutés au tableau (aucune contradiction) et je les résume ici : Antigone, « mon oncle » confirmé (Créon dit « née de ma sœur », p00104) ; Au bord de l'eau, les quatre ministres Cai Jing, Tong Guan, Gao Qiu et Yang Jian trament l'empoisonnement (p00054, p00060) et l'empereur du premier chapitre est Renzong (p00016) ; Crime et châtiment, huit ans confirmés (p00067). Guerre et Paix : « pieds nus » et « mort d'André à Borodino » restent hors zone.
 - Vérification : le tableau demande des termes dans la graphie du corpus, mais le `summary` garde la graphie usuelle (« Aliona », « Hémon ») : un fait confirmé par une variante (« Aléna », « Haimôn ») est noté confirmé, sans correction ; la consigne gagnerait à le dire.
+- Vérification : la consigne ne dit pas quoi faire d'un fichier déjà à l'étape « vérifiée » (cas de `lot-test` : une seconde passe, sur la même branche). J'ai contrôlé chaque statut sans rien changer de ce qui était juste, et ajouté les faits repérés dans le `personalSummary` (« pieds nus »). Une règle sur la seconde passe serait utile.
 
 ## `guerre-et-paix` — Guerre et Paix
 
@@ -36,13 +37,14 @@ J'étais un bâtard, et l'héritage de mon père a fait de moi l'un des hommes l
 | Dans l'épilogue, Nicolas Rostov est marié à Marie Bolkonskaïa | `Николай`, `Марья`, `Ростов` | confirmé | p03206 |
 | André meurt de sa blessure de Borodino, veillé par Natacha | `Бородин`, `князь Андрей` | hors zone | absent des pages enregistrées (Borodino : une allusion sans rapport, p03118) ; seule la mort d'André et le désespoir de Natacha sont attestés, p03145 |
 | Pierre est fait prisonnier par les Français et marche avec Platon Karataïev | `Каратаев`, `плен` | hors zone | absent des pages enregistrées ; l'épilogue évoque seulement « плен, Платон Каратаев », p03364 |
+| Pierre marche pieds nus pendant la retraite | `босиком`, `босой` | hors zone | absent des pages enregistrées (`босой` ne désigne qu'un pied de Touchine, p01938) |
 
 ### Notes
 
 - `personalSummary` : Pierre Bézoukhov, fil conducteur qui traverse salons, franc-maçonnerie, Moscou occupée et captivité, et finit marié à Natacha. « Celle que mon ami avait aimée » désigne Natacha sans la nommer.
 - Le corpus ne couvre que le tome 1 et l'épilogue : Borodino, la mort d'André et la captivité de Pierre (tomes 3-4) ne s'y trouvent probablement pas, sauf par allusion dans l'épilogue. Termes absents à ne pas lire comme faux.
 - Doute : la mort d'André a lieu après l'évacuation de Moscou, chez les Rostov en route (Mytichtchi, puis Iaroslavl) ; je l'ai écrit sans lieu, « veillé par Natacha », et Marie est aussi présente.
-- Doute : « marché pieds nus » pendant la retraite, je crois que Pierre marche sans souliers ; à vérifier si l'image est trop précise.
+- Vérification : « marché pieds nus » n'est attesté nulle part dans les pages enregistrées (`босиком` absent ; `босой` ne désigne qu'un pied de Touchine, p01938) : fait ajouté au tableau, hors zone. À trancher à la relecture : l'image peut rester, ou être retirée du `personalSummary`.
 - La fiche du catalogue est trop vague pour être en désaccord avec ma mémoire.
 - Ambiguïté laissée en l'état : dans « Fiancée à André, la jeune Natacha Rostova se laisse séduire par Anatole Kouraguine et rompt avec lui », « lui » peut désigner André ou Anatole (le sens voulu est André).
 
@@ -118,7 +120,8 @@ Mes deux frères se sont entre-tués, et le roi, mon oncle, défend sous peine d
 
 - `personalSummary` : l'héroïne elle-même, dont le nom est le titre ; elle n'est donc jamais nommée, ni dans le `summary` (« leur sœur », « la jeune femme ») ni ailleurs. Elle parle avant sa mort, au moment où on la conduit au tombeau (sa grande plainte : ni hymen ni pleurs d'amis).
 - La traduction de Leconte de Lisle hellénise les noms (Kréôn, Ismènè, Haimôn, Polyneikès, Teirésias, Eurydikè) ; les termes en tiennent compte. Le `summary` garde la graphie française usuelle, comme le demande la consigne.
-- Doute : « mon oncle » ; Créon est le frère de Jocaste, donc l'oncle maternel, j'en suis assez sûr.
+- Vérification : « mon oncle » confirmé : Créon dit qu'Antigone est « née de ma sœur » (p00104). La précision de la passe 1 (Créon, frère de Jocaste) ne figure pas dans les pages enregistrées, où Jocaste n'est pas nommée (p00025 : « celle qui portait le double nom de sa mère et de son épouse ») : elle ne contredit rien, elle reste hors texte.
+- Vérification : la seconde poussière est attestée (p00096, Antigone surprise) ; le `summary` n'en retient qu'une, ce qui ne contredit rien.
 - Doute : le corps reçoit deux fois de la poussière (la seconde fois elle est surprise) ; je n'en évoque qu'une.
 - La fiche du catalogue ne contredit rien.
 - J'ai écarté « la fille aînée d'Œdipe », faute d'être sûr qu'elle soit l'aînée.
