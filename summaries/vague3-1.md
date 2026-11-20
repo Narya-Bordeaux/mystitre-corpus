@@ -1,6 +1,6 @@
 # Résumés — vague3-1
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `les-montagnes-hallucinees`, `le-cauchemar-dinnsmouth`, `la-machine-a-explorer-le-temps`, `le-pere-goriot`, `eugenie-grandet`, `illusions-perdues`, `la-peau-de-chagrin`, `le-colonel-chabert`, `la-cousine-bette`, `le-chef-doeuvre-inconnu`
 - Créée le : 2026-11-20
 
@@ -22,14 +22,15 @@ Je dois parler, puisque d'autres veulent retourner là-bas. Avec Danforth, j'ai 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur s'appelle Dyer et il est géologue | `Dyer`, `geolog` | à vérifier | |
-| Le récit veut dissuader l'expédition Starkweather-Moore | `Starkweather` | à vérifier | |
-| Lake est biologiste | `Lake`, `biolog` | à vérifier | |
-| Lake compare la hauteur des montagnes à l'Himalaya | `Himalaya` | à vérifier | |
-| Danforth est un étudiant de troisième cycle | `Danforth`, `graduate`, `student` | à vérifier | |
-| Les êtres retrouvés ont la forme d'un tonneau | `barrel` | à vérifier | |
-| Les shoggoths sont des esclaves créés par les Anciens, qui se sont révoltés | `shoggoth`, `Old Ones`, `slave` | à vérifier | |
-| Danforth répète « Tekeli-li » après sa vision | `Tekeli-li`, `Danforth` | à vérifier | |
+| Le narrateur s'appelle Dyer et il est géologue | `Dyer`, `geolog` | hors zone | absent des pages enregistrées |
+| Le récit veut dissuader une expédition en Antarctique | `antarctic` | confirmé | p00001 |
+| L'expédition est celle de Starkweather-Moore | `Starkweather` | hors zone | absent des pages enregistrées |
+| Lake est biologiste | `Lake`, `biolog` | hors zone | absent des pages enregistrées |
+| Lake compare la hauteur des montagnes à l'Himalaya | `Himalaya` | hors zone | absent des pages enregistrées |
+| Danforth est un étudiant de troisième cycle | `graduate`, `student` | hors zone | absent des pages enregistrées (Danforth est nommé en p00003, sans son statut) |
+| Les êtres retrouvés ont la forme d'un tonneau | `barrel` | hors zone | absent des pages enregistrées |
+| Les shoggoths sont des esclaves créés par les Anciens, qui se sont révoltés | `shoggoth`, `Old Ones`, `slave` | hors zone | absent des pages enregistrées |
+| Danforth répète « Tekeli-li » après sa vision | `Tekeli-li`, `Danforth` | confirmé | p00003 (vision), p00004-p00005 (cri répété) |
 
 ### Notes
 
@@ -44,6 +45,8 @@ Je dois parler, puisque d'autres veulent retourner là-bas. Avec Danforth, j'ai 
 - Fiche du catalogue : rien de contraire à ma mémoire ; elle reste vague.
 - Titre : « montagnes » est un mot courant permis ; j'évite tout ce qui reprendrait le titre original (« folie » après « montagnes ») : « perd la raison ».
 
+- Vérification : Dyer, Lake, Starkweather, l'Himalaya, « graduate student », le tonneau et les shoggoths ne figurent pas dans les pages enregistrées (début p00001-p00003, fin p00004-p00005) : hors zone, à ne pas corriger. Le cri est celui de Danforth (p00004), sans attribution au shoggoth : confirmé.
+- Vérification : Gedney, le chien et les tertres ne figurent pas dans les pages enregistrées : hors zone, omis dans le résumé.
 ### Anciens textes
 
 - summary : Une expédition scientifique en Antarctique découvre des montagnes inconnues et les vestiges d'une civilisation ancienne. Les explorateurs comprennent peu à peu qu'ils ne sont pas seuls et que des créatures anciennes subsistent.
@@ -55,24 +58,24 @@ Corpus : une seule page sur en.wikisource.org (langue : en) : « The Shadow Over
 
 ### summary
 
-Au cours d'un voyage en Nouvelle-Angleterre, un jeune homme passionné de généalogie fait halte dans un port délabré que les villes voisines évitent. Le vieil ivrogne Zadok Allen lui révèle que le capitaine Obed Marsh a jadis pactisé avec les Profonds, créatures marines qui s'unissent aux habitants. Contraint de passer la nuit à l'hôtel, le voyageur est attaqué, s'enfuit le long d'une voie ferrée abandonnée et aperçoit une horde d'êtres hybrides. Alertées, les autorités font une rafle et torpillent le récif du Diable. Mais en retraçant ses ancêtres, le jeune homme découvre qu'il descend de Marsh et, sentant la métamorphose venir, décide de rejoindre la cité engloutie.
+Au cours d'un voyage en Nouvelle-Angleterre, un jeune homme passionné de généalogie fait halte dans un port délabré que les villes voisines évitent. Le vieil ivrogne Zadok Allen lui révèle que le capitaine Obed Marsh a jadis pactisé avec les Profonds, créatures marines qui s'unissent aux habitants. Contraint de passer la nuit à l'hôtel, le voyageur est attaqué, s'enfuit le long d'une voie ferrée abandonnée et aperçoit une horde d'êtres hybrides. Alertées, les autorités font une rafle et dynamitent les vieilles maisons abandonnées. Mais en retraçant ses ancêtres, le jeune homme découvre qu'une aïeule était une Marsh et, sentant la métamorphose venir, décide de rejoindre la cité engloutie.
 
 ### personalSummary
 
-Je suis venu dans ce port pourrissant en simple curieux, parce que l'autocar qui le traversait coûtait moins cher. Le vieux Zadok m'a raconté, entre deux gorgées, le pacte du capitaine Marsh avec les êtres de la mer ; la nuit suivante, ils sont venus me chercher à l'hôtel, et j'ai fui le long des rails. Des années plus tard, j'ai trouvé Marsh parmi mes aïeux, et mon visage a commencé à changer. Je n'ai plus peur : bientôt j'irai rejoindre les miens sous le récif.
+Je suis venu dans ce port pourrissant en simple curieux, parce que l'autocar qui le traversait coûtait moins cher. Le vieux Zadok m'a raconté, entre deux gorgées, le pacte du capitaine Marsh avec les êtres de la mer ; la nuit suivante, ils sont venus me chercher à l'hôtel, et j'ai fui le long des rails. Le lendemain, à Arkham, j'ai trouvé Marsh parmi mes aïeux, et mon visage a commencé à changer. Je n'ai plus peur : bientôt j'irai rejoindre les miens sous le récif.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur choisit l'autocar qui traverse la ville parce qu'il coûte moins cher | `cheap`, `fare`, `bus` | à vérifier | |
-| Le vieil ivrogne qui raconte l'histoire s'appelle Zadok Allen | `Zadok` | à vérifier | |
-| Le capitaine Obed Marsh a pactisé avec les créatures marines | `Obed`, `Marsh` | à vérifier | |
-| Les créatures sont appelées les Profonds | `Deep Ones` | à vérifier | |
-| Le narrateur s'enfuit le long d'une voie ferrée abandonnée | `railway`, `railroad`, `track` | à vérifier | |
-| Les autorités font torpiller le récif du Diable | `Devil Reef`, `torpedo`, `submarine` | à vérifier | |
-| Le narrateur descend de Marsh par sa grand-mère | `grandmother`, `Eliza`, `Orne` | à vérifier | |
-| Le narrateur décide de rejoindre Y'ha-nthlei sous la mer | `ha-nthlei`, `Devil Reef` | à vérifier | |
+| Le narrateur choisit l'autocar qui traverse la ville parce qu'il coûte moins cher | `cheap`, `fare`, `bus` | confirmé | p00010-p00011 |
+| Le vieil ivrogne qui raconte l'histoire s'appelle Zadok Allen | `Zadok` | confirmé | p00072, p00090 |
+| Le capitaine Obed Marsh a pactisé avec les créatures marines | `Obed`, `Marsh` | confirmé | p00101-p00110 |
+| Les créatures sont appelées les Profonds | `Deep Ones` | confirmé | p00256, p00258 (« Deep Ones ») |
+| Le narrateur s'enfuit le long d'une voie ferrée abandonnée | `railway`, `tracks` | confirmé | p00216-p00220 |
+| Les autorités font dynamiter les vieilles maisons abandonnées | `dynamiting`, `burning` | corrigé | p00004 (rafle, maisons brûlées et dynamitées) ; le torpillage du récif (p00006) n'est rapporté que par un seul tabloïd, jugé peu vraisemblable |
+| Une aïeule du narrateur, son arrière-grand-mère, était une Marsh | `Marsh`, `grandmother`, `Orne` | corrigé | p00241-p00242 : la Marsh est la mère de la grand-mère Eliza Orne ; p00251 : Obed Marsh pour aïeul reste une question |
+| Le narrateur décide de rejoindre Y'ha-nthlei sous la mer | `ha-nthlei` | confirmé | p00257-p00258 |
 
 ### Notes
 
@@ -87,6 +90,12 @@ Je suis venu dans ce port pourrissant en simple curieux, parce que l'autocar qui
 - « Profonds » : traduction usuelle de « Deep Ones ».
 - Fiche du catalogue : rien de contraire ; « poursuite nocturne » correspond à la fuite.
 
+- Vérification : le narrateur n'est jamais nommé (aucune occurrence de « Robert » ni d'« Olmstead ») : confirmé.
+- Vérification : l'hôtel est la Gilman House, nommée dans le texte (p00023, p00062) : la note « non nommé » est fausse, sans effet sur le résumé.
+- Vérification : le cousin interné à Canton figure en fin de récit (p00258) : omis, sans conséquence.
+- Vérification : rafle de l'hiver 1927-1928 confirmée (p00004). Le sous-marin n'est rapporté que par un tabloïd (p00006) : voir le tableau, corrigé.
+- Vérification : « Des années plus tard » est corrigé. La Marsh est trouvée à Arkham, le lendemain de la fuite (p00239-p00241) ; les recherches de Cleveland, un an après (p00243), ne font que le confirmer.
+- Vérification : « sifflait dans les tunnels » (personalSummary) n'est pas dans le texte complet : aucun sifflement n'y est attribué à la masse, le shoggoth n'apparaît qu'en p00151 et p00256. Hors zone, absent du texte complet — à trancher.
 ### Anciens textes
 
 - summary : Un jeune homme visite la ville d'Innsmouth et découvre peu à peu les secrets de ses habitants, liés à un pacte ancien avec des créatures marines. Il réalise finalement qu'il est lui-même concerné par cette transformation.
@@ -108,14 +117,16 @@ Vous ne me croirez pas, mais j'ai vu ce que deviendront les hommes dans huit cen
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le voyageur arrive en l'an 802 701 | `802`, `701` | à vérifier | |
-| Il sauve Weena de la noyade | `Weena`, `noy` | à vérifier | |
-| La machine disparaît dans le socle d'un sphinx blanc | `Sphinx`, `piédestal`, `socle` | à vérifier | |
-| Les Morlocks se nourrissent des Éloïs | `Morlock`, `viande`, `chair` | à vérifier | |
-| Weena disparaît dans l'incendie d'une forêt | `Weena`, `incendie`, `flammes`, `forêt` | à vérifier | |
-| Il voit une Terre mourante sous un soleil rouge | `soleil`, `rouge` | à vérifier | |
-| À son retour, il montre deux fleurs inconnues | `fleurs` | à vérifier | |
-| Il repart et ne revient pas, trois ans plus tard | `trois ans`, `jamais` | à vérifier | |
+| Le voyageur arrive en l'an 802 701 | `802`, `701` | hors zone | absent des pages enregistrées |
+| Il sauve Weena de la noyade | `Weena`, `noy` | hors zone | absent des pages enregistrées |
+| La machine disparaît dans le socle d'un sphinx blanc | `Sphinx`, `piédestal`, `socle` | hors zone | absent des pages enregistrées |
+| Les Morlocks se nourrissent des Éloïs | `Morlock`, `viande`, `chair` | hors zone | absent des pages enregistrées |
+| Weena disparaît dans l'incendie d'une forêt | `Weena`, `incendie`, `flammes`, `forêt` | hors zone | absent des pages enregistrées |
+| Il voit une Terre mourante sous un soleil rouge | `soleil`, `rouge` | hors zone | absent des pages enregistrées |
+| Il rapporte deux fleurs étranges et blanches | `fleurs` | confirmé | p00058 |
+| Il montre ces deux fleurs à ses invités | `fleurs` | hors zone | absent des pages enregistrées |
+| Il ne revient pas | `Reviendra-t-il jamais` | confirmé | p00058 |
+| Il repart le lendemain et il attend depuis trois ans | `trois ans` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -132,6 +143,9 @@ Vous ne me croirez pas, mais j'ai vu ce que deviendront les hommes dans huit cen
 - « Élèvent les Éloïs » : interprétation donnée par le voyageur lui-même ; je crois qu'il la présente comme une hypothèse qu'il finit par tenir pour vraie.
 - Fiche du catalogue : rien de contraire.
 
+- Vérification : « L'Explorateur du Temps » est bien le nom donné au voyageur dans la traduction (p00002) : confirmé. « Un inventeur » reste sans risque.
+- Vérification : les invités sont confirmés (Filby p00004, le Psychologue p00006, le Docteur p00021, le Provincial p00016). Le Palais de porcelaine verte et le camphre ne figurent pas dans les pages enregistrées : omis.
+- Vérification : la graphie « Éloïs », l'année 802 701, les « deux sortes » de fleurs, les trois ans d'attente et l'interprétation des Morlocks ne figurent pas dans les pages enregistrées (début p00001-p00040, épilogue p00057-p00058) : hors zone. L'épilogue dit « deux étranges fleurs blanches » (p00058), sans « deux sortes ».
 ### Anciens textes
 
 - summary : Un scientifique invente une machine lui permettant de voyager dans le temps. Il se rend dans un futur lointain où il découvre que l'humanité s'est divisée en deux espèces distinctes, les Eloi et les Morlocks.
@@ -143,24 +157,26 @@ Corpus : 2 pages choisies sur fr.wikisource.org (langue : fr) : « Le Père Gori
 
 ### summary
 
-En 1819, dans une pension miteuse tenue par Mme Vauquer, l'étudiant Eugène de Rastignac observe un vieux pensionnaire ruiné, ancien vermicellier, dont tous se moquent. Il découvre que le vieillard s'est dépouillé pour ses deux filles, Anastasie de Restaud et Delphine de Nucingen, mariées dans le grand monde, qui ne le voient que pour lui soutirer de l'argent. Guidé par sa cousine Mme de Beauséant, Eugène devient l'amant de Delphine, tandis que le forçat évadé Vautrin, bientôt arrêté, lui propose une fortune au prix d'un meurtre. Le vieillard meurt en appelant ses filles, qui ne viennent pas. Resté seul au cimetière après l'enterrement, Eugène contemple Paris à ses pieds et lui lance un défi.
+En 1819, dans une pension miteuse tenue par Mme Vauquer, l'étudiant Eugène de Rastignac observe un vieux pensionnaire ruiné, ancien vermicellier, dont tous se moquent. Il découvre que le vieillard s'est dépouillé pour ses deux filles, Anastasie de Restaud et Delphine de Nucingen, mariées dans le grand monde, qui ne le voient que pour lui soutirer de l'argent. Guidé par sa cousine Mme de Beauséant, Eugène devient l'amant de Delphine, tandis que le forçat évadé Vautrin, bientôt arrêté, lui propose une fortune au prix d'un meurtre. Le vieillard meurt en appelant ses filles : l'aînée arrive trop tard, la cadette ne vient pas. Resté seul au cimetière après l'enterrement, Eugène contemple Paris à ses pieds et lui lance un défi.
 
 ### personalSummary
 
-J'ai vendu mes rentes, mon argenterie, tout ce que j'avais, pour que mes deux filles brillent dans le monde. Elles ont épousé un comte et un banquier, et elles rougissent de moi ; je vis sous les railleries, tout en haut d'une pension. Ce jeune étudiant qui aime ma Delphine m'a rendu un peu de bonheur. À présent je meurs, et je les appelle : elles ne viennent pas. Je le comprends trop tard, on ne m'a aimé que pour mon argent.
+J'ai vendu mes rentes, mon argenterie, tout ce que j'avais, pour que mes deux filles brillent dans le monde. Elles ont épousé un comte et un banquier, et elles rougissent de moi ; je vis sous les railleries, tout en haut d'une pension. Ce jeune étudiant qui aime ma Delphine m'a rendu un peu de bonheur. À présent je meurs, et je les appelle : l'une arrive trop tard, l'autre ne vient pas. Je le comprends trop tard, on ne m'a aimé que pour mon argent.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action commence en 1819 | `1819` | à vérifier | |
-| La pension est tenue par Mme Vauquer | `Vauquer` | à vérifier | |
-| Le vieillard est un ancien vermicellier | `vermicelli` | à vérifier | |
-| Anastasie a épousé le comte de Restaud | `Anastasie`, `Restaud` | à vérifier | |
-| Delphine a épousé le baron de Nucingen | `Delphine`, `Nucingen` | à vérifier | |
-| Mme de Beauséant est la cousine d'Eugène | `Beauséant`, `cousine` | à vérifier | |
-| Vautrin est un forçat évadé arrêté à la pension | `Vautrin`, `Trompe-la-Mort`, `forçat` | à vérifier | |
-| Eugène lance « À nous deux maintenant ! » à Paris depuis le cimetière | `À nous deux`, `Lachaise` | à vérifier | |
+| L'action commence en 1819 | `1819` | confirmé | p00004 |
+| La pension est tenue par Mme Vauquer | `Vauquer` | confirmé | p00004 |
+| Le vieillard est un ancien vermicellier | `vermicelli` | confirmé | p00017 |
+| Anastasie a épousé le comte de Restaud | `Anastasie`, `Restaud` | confirmé | p00052, p00279 |
+| Delphine a épousé le baron de Nucingen | `Delphine`, `Nucingen` | confirmé | p00412, p00429 |
+| Mme de Beauséant est la cousine d'Eugène | `Beauséant`, `cousine` | confirmé | p00149 |
+| Vautrin a un lien avec le bagne | `Vautrin`, `bagne` | confirmé | p00556 (« je ferai comme Vautrin, j'irai au bagne ») |
+| Vautrin est un forçat évadé, arrêté à la pension | `Trompe-la-Mort`, `évadé` | hors zone | absent des pages enregistrées (l'arrestation n'y figure pas) |
+| Eugène lance « À nous deux maintenant ! » à Paris depuis le cimetière | `À nous deux`, `Lachaise` | confirmé | p00889-p00891 |
+| Le vieillard meurt en appelant ses filles ; l'aînée arrive trop tard, la cadette ne vient pas | `Nasie`, `Fifine`, `Delphine` | corrigé | p00837, p00842 (appels) ; p00847, p00853 (l'aînée arrive trop tard) ; p00878-p00880 (la cadette ne vient pas) |
 
 ### Notes
 
@@ -173,6 +189,12 @@ J'ai vendu mes rentes, mon argenterie, tout ce que j'avais, pour que mes deux fi
 - Fin : je me souviens du « À nous deux maintenant ! » et du dîner chez Delphine qui suit. Je crois qu'Eugène n'est pas seul à l'enterrement (un domestique, peut-être Christophe, et les voitures vides des gendres) mais qu'il reste seul ensuite au cimetière : d'où « resté seul au cimetière après l'enterrement ». À vérifier.
 - Fiche du catalogue : conforme à ma mémoire.
 
+- Vérification : rentes vendues (« Je les ai vendues », p00527) et vermeil fondu (p00179) : confirmé. Le vermeil est le « ménage en vermeil » vendu (p00115).
+- Vérification : « tout en haut d'une pension » : Goriot monte au troisième étage (p00046) : confirmé.
+- Vérification : la proposition de Vautrin d'un meurtre contre une fortune (p00364-p00365) est confirmée. Le duel et le frère de Victorine ne figurent pas dans les pages enregistrées : hors zone, simplification conservée.
+- Vérification : la dénonciation de Vautrin par Michonneau et Poiret ne figure pas dans les pages enregistrées : hors zone, omise.
+- Vérification : Rastignac reste seul au cimetière (p00890), Christophe l'a accompagné jusqu'au convoi (p00885) : confirmé.
+- Vérification : la mort appelle « Nasie » et « Fifine » (p00837) et « mes anges » (p00842) : confirmé. L'aînée arrive trop tard (p00847), la cadette refuse sa porte (p00880) : corrigé dans le résumé et le personalSummary.
 ### Anciens textes
 
 - summary : Eugène de Rastignac, jeune étudiant monté à Paris, loge dans la pension Vauquer où il rencontre un ancien fabricant ruiné par l'amour qu'il porte à ses filles Anastasie de Restaud et Delphine de Nucingen. Il découvre aussi la figure de Vautrin, personnage puissant et dangereux, qui lui propose une ascension sociale rapide au prix d'un crime. Tandis que Rastignac fréquente les salons et comprend que l'argent gouverne la société, le fabricant se sacrifie toujours davantage pour ses filles, qui l'exploitent sans reconnaissance. À la fin, il meurt presque seul, abandonné par celles pour qui il a tout donné, tandis que Rastignac, bouleversé mais décidé, se tourne vers Paris pour la conquérir.
@@ -194,14 +216,14 @@ J'ai grandi dans une maison froide, sous l'œil d'un père qui comptait chaque m
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action se passe à Saumur | `Saumur` | à vérifier | |
-| Le père est un ancien tonnelier | `tonnelier` | à vérifier | |
-| La servante s'appelle Nanon | `Nanon` | à vérifier | |
-| Le père de Charles se tue après sa faillite | `faillite`, `brûlé la cervelle`, `suicid` | à vérifier | |
-| Charles part faire fortune aux Indes | `Indes`, `Java` | à vérifier | |
-| Le père enferme sa fille dans sa chambre au pain et à l'eau | `pain sec`, `eau`, `chambre` | à vérifier | |
-| Charles épouse Mlle d'Aubrion | `Aubrion` | à vérifier | |
-| L'héroïne épouse le président Cruchot de Bonfons et devient veuve | `Bonfons`, `veuve` | à vérifier | |
+| L'action se passe à Saumur | `Saumur` | confirmé | p00005 |
+| Le père est un ancien tonnelier | `tonnelier` | confirmé | p00006 |
+| La servante s'appelle Nanon | `Nanon` | confirmé | p00006 |
+| Le père de Charles se tue après sa faillite | `faillite`, `brûlé la cervelle` | confirmé | p00145, p00273, p00610 |
+| Charles part faire fortune aux Indes | `Indes`, `Java` | confirmé | p00425, p00767 |
+| Le père enferme sa fille dans sa chambre au pain et à l'eau | `pain sec`, `enfermée` | confirmé | p00901, p00919, p01003 |
+| Charles épouse Mlle d'Aubrion | `Aubrion` | confirmé | p01064-p01067 (projet), p01086 et p01143 (alliance annoncée) |
+| L'héroïne épouse le président Cruchot de Bonfons et devient veuve | `Bonfons`, `veuve` | confirmé | p01163 (mariage), p01166 (veuve à trente-six ans) |
 
 ### Notes
 
@@ -216,6 +238,14 @@ J'ai grandi dans une maison froide, sous l'œil d'un père qui comptait chaque m
 - La fin : je crois qu'elle impose un mariage blanc au président, veuve vers trente-trois ans, et que c'est elle qui fait payer les créanciers de son oncle par le président ; « paie les dettes de son oncle » à vérifier.
 - Fiche du catalogue : conforme.
 
+- Vérification : les prétendants, Adolphe des Grassins et le neveu Cruchot, sont confirmés (p00007).
+- Vérification : Guillaume, père de Charles, se brûle la cervelle après la faillite, négociant de Paris (p00273, p00610) : confirmé.
+- Vérification : les Indes et Java sont confirmés (p00425, p00767).
+- Vérification : la découverte de l'or au jour de l'An, puis la mise au pain sec (p00805, p00919) : confirmé.
+- Vérification : le sucre rationné, six morceaux (p00228-p00229) : confirmé.
+- Vérification : le président paie les créanciers de l'oncle au nom d'Eugénie (p01141-p01143) : confirmé.
+- Vérification : Mme de Bonfons est veuve à trente-six ans (p01166), et non à trente-trois comme noté. Le résumé ne donne pas d'âge.
+- Vérification : le nécessaire d'or laissé en gage par Charles n'est pas repris dans le résumé : omis.
 ### Anciens textes
 
 - summary : À Saumur, Félix Grandet, ancien tonnelier devenu immensément riche, maintient son épouse, sa fille Eugénie et leur servante Nanon dans une austérité extrême. L'arrivée de son neveu Charles, ruiné par le suicide de son père, éveille Eugénie à l'amour. Elle lui donne son or avant son départ pour les Indes. Grandet découvre le don et enferme sa fille. Des années plus tard, Eugénie apprend que Charles épouse une aristocrate pour sa position. Devenue riche après la mort de ses parents, elle règle les dettes des Grandet de Paris et épouse sans amour le président de Bonfons, puis se consacre à la charité.
@@ -237,14 +267,14 @@ Je suis né à Angoulême, pauvre et beau, des vers plein les poches. J'ai suivi
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le père de Lucien était pharmacien | `pharmacien`, `Chardon` | à vérifier | |
-| David Séchard épouse Ève, la sœur de Lucien | `Séchard`, `Ève`, `Eve` | à vérifier | |
-| Lucien suit Mme de Bargeton à Paris | `Bargeton` | à vérifier | |
-| Lucien aime l'actrice Coralie | `Coralie` | à vérifier | |
-| Lucien veut porter le nom de Rubempré | `Rubempré` | à vérifier | |
-| Lucien imite la signature de David sur des billets | `signature`, `billets`, `lettres de change` | à vérifier | |
-| Les frères Cointet s'emparent de l'invention de David | `Cointet`, `papier` | à vérifier | |
-| Le prêtre espagnol s'appelle Carlos Herrera | `Herrera` | à vérifier | |
+| Le père de Lucien était pharmacien | `pharmacien`, `Chardon` | confirmé | p00056 |
+| David Séchard épouse Ève, la sœur de Lucien | `Séchard`, `Ève` | confirmé | p00056 (sœur de Lucien), p00495-p00501 (mariage) |
+| Lucien suit Mme de Bargeton à Paris | `Bargeton` | confirmé | p00483 |
+| Lucien aime l'actrice Coralie | `Coralie` | confirmé | p00652, p00769 |
+| Lucien veut porter le nom de Rubempré | `Rubempré` | confirmé | p00116, p00161 |
+| Lucien imite la signature de David sur des billets | `signature`, `billets` | confirmé | p00554, p00647, p00651, p00723 |
+| Les frères Cointet s'emparent de l'invention de David | `Cointet`, `secret` | confirmé | p00610 (« exploitation du secret que cherchait David ») |
+| Le prêtre espagnol s'appelle Carlos Herrera | `Herrera` | confirmé | p01498, p01516 |
 
 ### Notes
 
@@ -257,6 +287,10 @@ Je suis né à Angoulême, pauvre et beau, des vers plein les poches. J'ai suivi
 - Coralie meurt, je crois, avant le retour de Lucien en province ; omis. Le Cénacle et d'Arthez aussi.
 - Fiche du catalogue : conforme ; la « femme de province » est Mme de Bargeton.
 
+- Vérification : le nom de Rubempré est celui de la mère (p00161, « prendre celui de ta mère ») : confirmé. Le ralliement aux royalistes et l'ordonnance ne figurent pas dans les pages enregistrées : hors zone.
+- Vérification : « trois billets de mille francs » (p00651) : confirmé.
+- Vérification : l'Opéra et « mon habit » ne figurent pas dans les pages enregistrées (la scène parisienne n'y est pas) : hors zone.
+- Vérification : Herrera sauve Lucien d'une noyade (« je vous ai pêché », p01498) : confirmé. Le paiement qui libère David ne figure pas dans les pages enregistrées : hors zone.
 ### Anciens textes
 
 - summary : À Angoulême, Lucien Chardon rêve de poésie tandis que son ami David Séchard dirige une imprimerie et épouse Ève, la sœur de Lucien. Protégé par Madame de Bargeton, Lucien part pour Paris et prend le nom de Rubempré. Méprisé dans les salons, il devient journaliste sous l'influence de Lousteau, obtient le succès puis se compromet dans les luttes de presse. Sa chute entraîne aussi David, poursuivi pour des billets signés à son intention. Lucien revient en province, tente de se suicider et rencontre l'abbé Carlos Herrera, qui lui promet une nouvelle ascension.
@@ -278,14 +312,15 @@ J'allais me jeter dans la Seine lorsqu'un vieillard m'a tendu ce morceau de cuir
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le héros s'appelle Raphaël de Valentin | `Valentin`, `Raphaël` | à vérifier | |
-| Le talisman est une peau d'onagre | `onagre` | à vérifier | |
-| L'inscription de la peau est en caractères sanscrits | `sanscrit`, `sanskrit` | à vérifier | |
-| La comtesse s'appelle Fœdora | `Fœdora`, `Foedora` | à vérifier | |
-| Pauline est la fille de la logeuse, Mme Gaudin | `Pauline`, `Gaudin` | à vérifier | |
-| Raphaël raconte sa vie à son ami Émile pendant le festin | `Émile`, `Emile` | à vérifier | |
-| Les savants échouent à étirer la peau | `Planchette`, `Lavrille`, `Japhet` | à vérifier | |
-| Raphaël meurt dans les bras de Pauline | `Pauline` | à vérifier | |
+| Le héros s'appelle Raphaël de Valentin | `Valentin`, `Raphaël` | confirmé | p00126-p00127 |
+| Le talisman est une peau d'onagre | `onagre` | confirmé | p00058 |
+| L'inscription de la peau est en caractères sanscrits | `sanscrit`, `sanskrit` | confirmé | p00072 |
+| La comtesse s'appelle Fœdora | `Fœdora`, `Foedora` | confirmé | p00308-p00309 |
+| Pauline est la fille de la logeuse, Mme Gaudin | `Pauline`, `Gaudin` | hors zone | absent des pages enregistrées (Pauline y figure, p00302-p00308, sans sa filiation) |
+| Émile est à la table de Raphaël, au festin | `Émile` | confirmé | p00109, p00126-p00127 |
+| Raphaël raconte sa vie à Émile pendant le festin | `festin` | hors zone | absent des pages enregistrées (le récit de jeunesse n'y figure pas) |
+| Les savants échouent à étirer la peau | `Planchette`, `Lavrille`, `Japhet` | hors zone | absent des pages enregistrées |
+| Raphaël meurt dans les bras de Pauline | `Pauline` | hors zone | absent des pages enregistrées (le texte s'interrompt avant la réponse à « Et que devint Pauline ? », p00302-p00310) |
 
 ### Notes
 
@@ -300,6 +335,9 @@ J'allais me jeter dans la Seine lorsqu'un vieillard m'a tendu ce morceau de cuir
 - Les savants : je crois Lavrille (zoologiste), Planchette (mécanicien), Japhet (chimiste) ; noms non repris dans les textes, relevés pour vérifier.
 - Fiche du catalogue : conforme ; elle dit « aristocrate ruiné », juste.
 
+- Vérification : Raphaël de Valentin (p00126-p00127), la peau d'onagre (p00058), l'inscription en sanscrit (p00072) et Fœdora (p00308-p00309) : confirmés.
+- Vérification : Mme Gaudin, la filiation de Pauline, le père revenu riche des Indes, les savants (Lavrille, Planchette, Japhet) et la mort ne figurent pas dans les pages enregistrées (chapitre 1, chapitre 4 et épilogue interrompu) : hors zone.
+- Vérification : le lieu du suicide manqué est le pont Royal (p00018), où il se résout à mourir ; la Seine n'y est pas nommée : geste confirmé, mot hors zone.
 ### Anciens textes
 
 - summary : Raphaël de Valentin, ruiné au jeu et décidé à se suicider, reçoit d'un antiquaire une peau magique qui exauce ses désirs mais rétrécit en diminuant sa vie. Son souhait de richesse se réalise par un héritage. Il raconte alors son amour malheureux pour la froide Fœdora et découvre que Pauline, autrefois pauvre, l'aime sincèrement. Devenu riche, Raphaël tente de supprimer tout désir pour survivre. Ni les savants ni la fuite ne peuvent arrêter le talisman. Son désir pour Pauline provoque finalement le dernier rétrécissement et sa mort.
@@ -321,14 +359,14 @@ On m'a jeté parmi les morts d'Eylau, et je suis sorti de la fosse à la force d
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action commence en 1818 | `1818` | à vérifier | |
-| L'avoué s'appelle Derville | `Derville` | à vérifier | |
-| Le colonel est tenu pour mort à Eylau | `Eylau` | à vérifier | |
-| Sa femme est remariée au comte Ferraud | `Ferraud` | à vérifier | |
-| La comtesse emmène le colonel dans sa propriété de Groslay | `Groslay` | à vérifier | |
-| Le colonel surprend la comtesse avec l'intendant Delbecq | `Delbecq` | à vérifier | |
-| Le colonel finit à l'hospice de Bicêtre | `Bicêtre` | à vérifier | |
-| À la fin, il ne se fait plus appeler que Hyacinthe | `Hyacinthe` | à vérifier | |
+| L'action commence en 1818 | `1818` | confirmé | p00247 |
+| L'avoué s'appelle Derville | `Derville` | confirmé | p00005 |
+| Le colonel est tenu pour mort à Eylau | `Eylau` | confirmé | p00062, p00092 |
+| Sa femme est remariée au comte Ferraud | `Ferraud` | confirmé | p00092 |
+| La comtesse emmène le colonel dans sa propriété de Groslay | `Groslay` | confirmé | p00341 |
+| Le colonel surprend le piège de la comtesse, monté avec l'intendant Delbecq | `Delbecq` | corrigé | p00246 (Delbecq, intendant et « âme damnée » de la comtesse) ; p00253-p00254 (piège en conférence) |
+| Le colonel finit à l'hospice de Bicêtre | `Bicêtre` | confirmé | p00420, p00434 |
+| À la fin, il ne se fait plus appeler que Hyacinthe | `Hyacinthe` | confirmé | p00409, p00420 |
 
 ### Notes
 
@@ -342,6 +380,10 @@ On m'a jeté parmi les morts d'Eylau, et je suis sorti de la fosse à la force d
 - « Ma fortune élevait ses enfants » : je crois que la comtesse a deux enfants du comte Ferraud ; à vérifier.
 - Fiche du catalogue : elle dit « ancienne prostituée devenue comtesse » ; je me souviens que le colonel l'a prise au Palais-Royal, ce qui va dans ce sens, mais je ne suis pas sûr que le texte la qualifie ainsi.
 
+- Vérification : Stuttgart (1814, p00125), Vergniaud (p00171), les deux enfants de la comtesse (p00144) : confirmés. Le mois de février 1818 n'est pas relevé : hors zone, seule l'année est attestée (p00247).
+- Vérification : Derville retrouve Hyacinthe à Bicêtre en 1832 (p00434, p00447), et non vers 1840 : la date de la note est corrigée, le résumé ne donne pas de date.
+- Vérification : arrêté comme vagabond et condamné (p00420) : confirmé. La renonciation au nom (p00409) : confirmée.
+- Vérification : « ancienne prostituée » : le mot n'apparaît pas ; le colonel dit avoir « prise au Palais-Royal » (p00327). Hors zone en ces termes, à trancher avec la fiche du catalogue.
 ### Anciens textes
 
 - summary : Le colonel Hyacinthe Chabert, déclaré mort à la bataille d'Eylau, revient à Paris après des années d'errance. Sa femme Rose Chapotel a hérité de ses biens, est devenue la comtesse Ferraud et a fondé une nouvelle famille. L'avoué Derville reconnaît la vraisemblance du récit et propose une transaction. La comtesse feint la tendresse pour obtenir de Chabert une renonciation totale. Comprenant la manœuvre, celui-ci abandonne son nom et sa fortune. Derville le retrouve plus tard sous un numéro dans l'hospice de Bicêtre.
@@ -363,14 +405,15 @@ Toute ma vie, j'ai été la paysanne laide à côté de ma belle cousine, celle 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Adeline, la cousine, est l'épouse du baron Hulot | `Adeline`, `Hulot` | à vérifier | |
-| Wenceslas Steinbock est un sculpteur polonais | `Steinbock`, `Wenceslas`, `sculpt` | à vérifier | |
-| La vieille fille a sauvé Wenceslas du suicide | `asphyxi`, `suicide` | à vérifier | |
-| Valérie Marneffe séduit Crevel | `Marneffe`, `Crevel` | à vérifier | |
-| Le baron fait détourner des fonds en Algérie | `Algérie`, `Johann` | à vérifier | |
-| Valérie meurt d'une maladie hideuse | `Valérie`, `Montès`, `maladie` | à vérifier | |
-| La vieille fille meurt de phtisie | `phtisie`, `pulmonaire` | à vérifier | |
-| Veuf, le baron épouse une fille de cuisine | `Agathe`, `cuisine` | à vérifier | |
+| Adeline, la cousine, est l'épouse du baron Hulot | `Adeline`, `Hulot` | confirmé | p00052, p00165 |
+| Wenceslas Steinbock est un sculpteur polonais | `Steinbock`, `Wenceslas` | confirmé | p00341 (réfugié polonais), p00599 (groupe sculpté) |
+| La vieille fille a sauvé Wenceslas du suicide | `réchaud` | confirmé | p00318 (réchaud éteint, agonie) ; le texte parle d'une asphyxie au réchaud |
+| Valérie Marneffe séduit Crevel | `Marneffe`, `Crevel` | confirmé | p00986-p00987 |
+| Le baron part en Algérie fournir l'armée | `Algérie`, `fournitures` | confirmé | p00892-p00896 |
+| Le baron fait détourner des fonds en Algérie | `détournement` | hors zone | absent du texte complet (« détournement » n'y figure pas pour le baron) — à trancher |
+| Valérie meurt d'une maladie hideuse | `Valérie`, `maladie` | confirmé | p00986 (maladie qui la rend hideuse), p03053 (« Valérie est morte ») |
+| La vieille fille meurt de phtisie | `phthisie`, `pulmonaire` | confirmé | p03085 |
+| Veuf, le baron épouse une fille de cuisine | `Agathe`, `cuisine` | confirmé | p03087 (fille de cuisine), p03091 (veuf, mariage avec Agathe Piquetard) |
 
 ### Notes
 
@@ -385,6 +428,11 @@ Toute ma vie, j'ai été la paysanne laide à côté de ma belle cousine, celle 
 - Fin du roman : je crois que la toute dernière scène est le remariage du baron, veuf, avec une fille de cuisine, après la mort d'Adeline ; gardé en fin de résumé sans la mort d'Adeline, faute de place. La mort de la vieille fille précède, je crois, ces scènes.
 - Fiche du catalogue : conforme.
 
+- Vérification : Lisbeth meurt de phtisie pulmonaire une semaine après (p03085) : confirmé. Adeline meurt avant le remariage du baron (p03090-p03091).
+- Vérification : le « détournement de fonds » n'est pas dans le texte complet ; le baron part en Algérie pour les fournitures de guerre (p00892-p00896). Hors zone, à trancher.
+- Vérification : « Thoul » est un faux nom attesté (p02296) : confirmé.
+- Vérification : l'ordre des séductions (Hulot, Crevel, Steinbock) n'est pas tranché par les passages consultés : à trancher.
+- Vérification : le sauvetage au réchaud (p00318) : confirmé ; la note « asphyxie au charbon » est remplacée par « réchaud ».
 ### Anciens textes
 
 - summary : Élisabeth Fischer, dite Bette, parente pauvre des Hulot, nourrit une rancœur profonde envers sa belle cousine Adeline et sa fille Hortense. Lorsque Hortense épouse le sculpteur polonais Wenceslas Steinbock, que Bette protégeait, celle-ci s'allie à Valérie Marneffe. Valérie séduit successivement le baron Hulot, Steinbock et plusieurs hommes riches, tandis que Bette orchestre la ruine de la famille. Le fils Victorin finit par provoquer la chute de Valérie. Bette meurt avant d'épouser le maréchal Hulot, mais le baron poursuit ses infidélités jusque dans la vieillesse.
@@ -406,14 +454,14 @@ Depuis dix ans je travaille à cette femme, couche après couche, pour que sa ch
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action se passe en 1612 | `1612` | à vérifier | |
-| Le peintre chez qui se présente Poussin s'appelle Porbus | `Porbus`, `Pourbus` | à vérifier | |
-| Frenhofer a été l'élève de Mabuse | `Frenhofer`, `Mabuse` | à vérifier | |
-| Frenhofer travaille à la Belle Noiseuse depuis dix ans | `Noiseuse`, `dix ans` | à vérifier | |
-| La femme peinte s'appelle Catherine Lescault | `Catherine`, `Lescault` | à vérifier | |
-| La maîtresse de Poussin s'appelle Gillette | `Gillette` | à vérifier | |
-| Les peintres ne distinguent qu'un pied dans le tableau | `pied` | à vérifier | |
-| Frenhofer meurt dans la nuit après avoir brûlé ses toiles | `brûlé`, `mort` | à vérifier | |
+| L'action se passe en 1612 | `1612` | confirmé | p00005 |
+| Le peintre chez qui se présente Poussin s'appelle Porbus | `Porbus`, `Pourbus` | confirmé | p00005 |
+| Frenhofer a été l'élève de Mabuse | `Frenhofer`, `Mabuse` | confirmé | p00026, p00054 (« le seul élève que Mabuse ait voulu faire ») |
+| Frenhofer travaille à la Belle Noiseuse depuis dix ans | `Noiseuse`, `dix ans` | confirmé | p00045, p00104 |
+| La femme peinte s'appelle Catherine Lescault | `Catherine`, `Lescault` | confirmé | p00104 |
+| La maîtresse de Poussin s'appelle Gillette | `Gillette` | confirmé | p00059, p00079 |
+| Les peintres ne distinguent qu'un pied dans le tableau | `pied` | confirmé | p00136 |
+| Frenhofer meurt dans la nuit après avoir brûlé ses toiles | `brûlé`, `mort` | confirmé | p00163 |
 
 ### Notes
 
@@ -427,6 +475,9 @@ Depuis dix ans je travaille à cette femme, couche après couche, pour que sa ch
 - « Mes deux confrères » : Porbus et Poussin ; le vieillard parlerait peut-être plutôt de « ces jeunes gens » ; acceptable dans sa bouche.
 - Fiche du catalogue : conforme.
 
+- Vérification : la Marie l'Égyptienne du tableau de Porbus est confirmée (p00007). Frenhofer, unique élève de Mabuse (p00026, p00054) : confirmé.
+- Vérification : « Rien sur ma toile » : Poussin dit qu'il n'y a rien sur la toile (p00148) : confirmé.
+- Vérification : « aucune femme vivante ne la vaut » (personalSummary, comparaison de Gillette à Catherine) n'est pas attesté dans le texte complet. Frenhofer dit seulement que sa Belle Noiseuse vaut mieux que la peinture de Porbus (p00029) : hors zone, à trancher.
 ### Anciens textes
 
 - summary : Le jeune Nicolas Poussin rencontre le peintre Porbus puis le vieux maître Frenhofer, qui travaille depuis dix ans à un portrait de Catherine Lescault. Frenhofer affirme que la femme peinte vit réellement sur sa toile mais refuse de la montrer. Poussin lui propose sa maîtresse Gillette comme modèle en échange d'un regard sur le chef-d'œuvre. Lorsque Poussin et Porbus découvrent enfin le tableau, ils n'y voient qu'un chaos de couleurs, hormis un pied d'une perfection saisissante. Frenhofer comprend leur réaction, brûle ses tableaux et meurt pendant la nuit.
