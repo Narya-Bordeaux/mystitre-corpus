@@ -92,4 +92,63 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+Chaque ligne du tableau a reçu un statut et un appui (paragraphes). Quatre faits composés ont été scindés (un fait attesté, un autre non) : `oblomov` (2), `nous-autres` (1), `le-reve-dans-le-pavillon-rouge` (1). Au total 81 lignes pour 77 faits.
+
+| Œuvre | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|
+| `un-heros-de-notre-temps` | 6 | 2 | 0 |
+| `oblomov` | 4 | 5 | 0 |
+| `nous-autres` | 5 | 4 | 0 |
+| `le-maitre-et-marguerite` | 2 | 6 | 0 |
+| `les-trois-royaumes` | 6 | 1 | 0 |
+| `le-reve-dans-le-pavillon-rouge` | 6 | 2 | 0 |
+| `lart-de-la-guerre` | 8 | 0 | 0 |
+| `les-entretiens` | 4 | 4 | 0 |
+| `la-romance-de-la-chambre-de-louest` | 8 | 0 | 0 |
+| `le-journal-dun-fou-lu-xun` | 8 | 0 | 0 |
+| **Total** | **57** | **24** | **0** |
+
+Les doutes des « Notes » ont tous reçu une ligne « Vérification : … » (confirmé, hors zone, ou sans objet).
+
+### Corrections
+
+Aucune. Aucun fait n'est contredit par le texte de son œuvre. Trois formulations sont incomplètes ou discutables sans être fausses ; je ne les ai pas modifiées, et je le signale ici :
+
+- `un-heros-de-notre-temps` : « Kazbitch, pour se venger, l'enlève » — le texte (p00177) montre que la vengeance vise le vol du cheval et que Kazbitch tue d'abord le père. Le résumé ne le dit pas ; rien n'est contredit.
+- `le-journal-dun-fou-lu-xun` : « le cœur d'un malfaiteur » — le texte dit 心肝, « cœur et foie » (p00016). Simplification.
+- `lart-de-la-guerre` : « discipline » pour 法 (p00002) — choix de traduction ; le texte ne tranche pas entre discipline, méthode et loi.
+
+### Points à trancher à la relecture
+
+- `oblomov` : la rupture (qui rompt : Olga ou Ilia Ilitch), le mariage d'Olga et de Stolz, la mort d'apoplexie, Agafia Pchenitsyna : hors pages. Le tableau ne peut trancher.
+- `nous-autres` : l'identité de la femme placée sous la Cloche (p00021-p00022) est une inférence : le nom I-330 n'est pas dans les pages. De même pour la dénonciatrice U, le Mur vert, O-90 et les Méphis.
+- `le-maitre-et-marguerite` : la scène du tramway, Azazello, la crème, le manuscrit, le bal et la libération de Pilate ne sont pas dans les pages. La page « fin » est l'épilogue.
+- `les-entretiens` : l'opposition entre le sage et l'homme qui ne l'est pas n'apparaît pas dans le livre 1, qui est entier au corpus (« vulgaire », « homme honorable » absents). Statut hors zone, à trancher : le résumé peut garder la phrase en la reformulant, ou la retirer.
+- `la-romance-de-la-chambre-de-louest` : l'ordre entre l'interrogatoire de Hongniang et la condition de la mère n'est pas décrit par les pages.
+- `le-reve-dans-le-pavillon-rouge` : la mort de Daiyu le soir des noces (成親 absent) ; la fin du chapitre 120 est confirmée seulement pour la barque et la cape rouge.
+
+### Contrôles
+
+- `summary lint vague4-2 --checked` : 0 erreur, 0 avertissement (dix œuvres).
+- `summary apply vague4-2 --output <scratchpad>/vague4-2-catalogue.json` : dix fiches simulées.
+- Contrôle des fuites : `dart run tool/list_name_leaks.dart --catalogue=<scratchpad>/vague4-2-catalogue.json` : « Aucune fuite de titre ou d'auteur. » Le lancement affiche un avertissement Flutter sur l'exécution en root ; sans effet sur le résultat.
+- `summary mark vague4-2 checked` : passé après l'écriture de ce compte rendu (voir le commit).
+
+### Incidents
+
+- La session a redémarré en cours de travail, avant le clonage de `mystitre-corpus`. Clone superficiel (`--depth 1`) ; la branche `claude/summary-vague4-2-draft` a été récupérée par `FETCH_HEAD`, puis `claude/summary-vague4-2-check` créée à partir d'elle. Rien n'a été poussé sur le brouillon.
+- Recherches : `I-330` s'écrit en cyrillique (« И-330 ») dans le texte, et `Du Que` apparaît comme « 姓杜名確 », séparé par un mot : la recherche directe a échoué. Dans les deux cas, un second terme ou la lecture du passage a permis de trancher.
+
+### Difficultés au fil du lot
+
+- Je ne sens pas de baisse nette d'attention vers la fin du lot. Les œuvres qui ont demandé le plus de recherches sont *Maître et Marguerite*, *Trois Royaumes* et *Rêve*, avec plusieurs graphies à tester pour chaque terme.
+- Le lot est long pour un seul contexte : j'ai limité les sorties de `find` par `head` ; pour les termes absents, la réponse « 0 occurrence » est complète, donc sans risque. Pour les termes présents, un seul passage suffisait à confirmer le fait.
+
+### Retours sur la consigne
+
+- Couverture : pour `les-entretiens`, le corpus contient deux livres entiers sur vingt. Une absence dans un livre entier n'est ni « absent du texte complet », ni « hors zone » automatique. Choix fait : hors zone, appui « livre 1 entier », point à trancher.
+- `find` : les graphies à séparateur et à variante cyrillique (`И-330`, `Зелёная`, `姓杜名確`) ne sortent pas avec le terme seul. Suggestion : accepter les variantes de ё/е et les caractères séparés par un mot. Sans cela, il faut une seconde recherche par un terme voisin, comme `白馬將軍`.
+- Lignes « Vérification » : la consigne ne dit pas où les écrire. Choix fait : en fin de « Notes », une ligne par doute.
+- « Anciens textes » : hors vérification (la consigne ne le demande pas), laissé tel quel.

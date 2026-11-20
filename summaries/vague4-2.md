@@ -1,6 +1,6 @@
 # Résumés — vague4-2
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `un-heros-de-notre-temps`, `oblomov`, `nous-autres`, `le-maitre-et-marguerite`, `les-trois-royaumes`, `le-reve-dans-le-pavillon-rouge`, `lart-de-la-guerre`, `les-entretiens`, `la-romance-de-la-chambre-de-louest`, `le-journal-dun-fou-lu-xun`
 - Créée le : 2026-11-20
 
@@ -22,14 +22,14 @@ J'ai obtenu une jeune Circassienne en échange d'un cheval, puis je me suis lass
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le capitaine se nomme Maxime Maximytch | `Максим Максимыч`, `Maxime`, `Maximytch` | à vérifier | |
-| Azamat livre sa sœur Bela à Petchorine en échange du cheval de Kazbitch | `Азамат`, `Казбич`, `Бэла`, `коня` | à vérifier | |
-| Bela est fille d'un prince local | `Бэла`, `князь`, `дочь` | à vérifier | |
-| Kazbitch blesse mortellement Bela en l'enlevant | `Казбич`, `кинжал`, `умерла` | à vérifier | |
-| Petchorine meurt au retour de Perse | `Перси`, `Печорин` | à vérifier | |
-| Les épisodes de la princesse Mary se passent à Piatigorsk | `Пятигорск`, `Мери` | à vérifier | |
-| Voulitch défie le destin avec un pistolet qui rate | `Вулич`, `пистолет`, `осечк` | à vérifier | |
-| Voulitch est tué la même nuit par un cosaque ivre | `Вулич`, `казак`, `пьян`, `шашк` | à vérifier | |
+| Le capitaine se nomme Maxime Maximytch | `Максим Максимыч`, `Maxime`, `Maximytch` | confirmé | p00053 |
+| Azamat livre sa sœur Bela à Petchorine en échange du cheval de Kazbitch | `Азамат`, `Казбич`, `Бэла`, `коня` | confirmé | p00083, p00115-p00118 |
+| Bela est fille d'un prince local | `Бэла`, `князь`, `дочь` | confirmé | p00216 |
+| Kazbitch blesse mortellement Bela en l'enlevant | `Казбич`, `кинжал`, `умерла` | confirmé | p00247-p00252 |
+| Petchorine meurt au retour de Perse | `Перси`, `Печорин` | hors zone | absent des pages enregistrées (préface) |
+| Les épisodes de la princesse Mary se passent à Piatigorsk | `Пятигорск`, `Мери` | hors zone | absent des pages enregistrées (Piatigorsk, Mary) |
+| Voulitch défie le destin avec un pistolet qui rate | `Вулич`, `пистолет`, `осечк` | confirmé | p00317 |
+| Voulitch est tué la même nuit par un cosaque ivre | `Вулич`, `казак`, `пьян`, `шашк` | confirmé | p00344 |
 
 ### Notes
 
@@ -41,6 +41,13 @@ J'ai obtenu une jeune Circassienne en échange d'un cheval, puis je me suis lass
 - Doute : je me souviens d'un duel où l'adversaire avait fait laisser son pistolet non chargé ; je n'en parle pas, faute de place. Vera et le docteur Werner sont tus.
 - Doute : je crois que Voulitch est lieutenant et serbe ; je n'écris que « lieutenant ». Le tueur serait un cosaque ivre armé d'un sabre ; je n'en dis rien dans le résumé, mais je le relève comme fait.
 - Le chapitre « Maxime Maximytch » (retrouvailles froides) est résumé d'une demi-phrase.
+- Vérification : confirmé (p00115-p00118) : le marché est conclu entre Azamat et Petchorine, qui promet le cheval de Kazbitch (« Карагез ») si Bela est livrée ; le texte ne dit pas nettement qui prend le cheval. Formule du résumé non modifiée.
+- Vérification : confirmé (p00251, p00260) : Kazbitch emporte Bela, la frappe au dos d'un coup de poignard, et elle meurt après une longue agonie. Le délai « deux jours » n'est pas dans les pages ; le résumé ne le donne pas.
+- Vérification : confirmé (p00177) : Kazbitch, qui croit qu'Azamat lui a volé son cheval avec l'accord du père, tue ce dernier sur la route. Le résumé dit seulement « pour se venger » : pas de contradiction, pas de correction.
+- Vérification : hors zone (préface absente des pages) ; à trancher.
+- Vérification : confirmé (p00307-p00310) : le pari porte sur un pistolet dont on ignore s'il est chargé ; le résumé ne le mentionne pas (sans objet).
+- Vérification : confirmé (p00287) « поручик » (lieutenant) et (p00286) « родом серб » (serbe). Le résumé dit « lieutenant » : exact.
+- Vérification : confirmé (p00344) : un cosaque ivre le frappe au sabre (шашка) dans la nuit ; le résumé ne le détaille pas.
 
 ### Anciens textes
 
@@ -63,13 +70,15 @@ Chaque matin, je décide de me lever, d'écrire à mon régisseur, de mettre de 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Au début, Ilia Ilitch vit rue Gorokhovaïa à Saint-Pétersbourg | `Горохов`, `Петербург` | à vérifier | |
-| Le vieux valet se nomme Zakhar | `Захар` | à vérifier | |
-| La veuve se nomme Agafia Matveïevna Pchenitsyna | `Пшеницын`, `Агафь`, `Матвеевн` | à vérifier | |
-| Ilia Ilitch meurt d'une attaque d'apoplexie | `удар`, `апоплекс` | à vérifier | |
-| Stolz recueille le fils d'Ilia Ilitch, nommé Andreï | `Андрюш`, `Андрей`, `Штольц` | à vérifier | |
-| Zakhar finit mendiant | `Захар`, `нищ`, `милостын` | à vérifier | |
-| Olga épouse Stolz | `Ольга`, `Штольц`, `жена` | à vérifier | |
+| Au début, Ilia Ilitch vit rue Gorokhovaïa | `Горохов`, `Петербург` | confirmé | p00001 |
+| Au début, Ilia Ilitch vit à Saint-Pétersbourg | `Горохов`, `Петербург` | hors zone | absent des pages enregistrées (Pétersbourg non nommé) |
+| Le vieux valet se nomme Zakhar | `Захар` | confirmé | p00025 |
+| La veuve se nomme Agafia Matveïevna Pchenitsyna | `Пшеницын`, `Агафь`, `Матвеевн` | hors zone | absent des pages enregistrées (Agafia, Pchenitsyna) |
+| Ilia Ilitch meurt d'une attaque d'apoplexie | `удар`, `апоплекс` | hors zone | absent des pages enregistrées |
+| Le fils d'Ilia Ilitch se nomme Andreï | `Андрюш`, `Андрей`, `Штольц` | confirmé | p00185 |
+| Stolz recueille le fils d'Ilia Ilitch | `Андрюш`, `Андрей`, `Штольц` | hors zone | absent des pages enregistrées |
+| Zakhar finit mendiant | `Захар`, `нищ`, `милостын` | confirmé | p00173, p00186 |
+| Olga épouse Stolz | `Ольга`, `Штольц`, `жена` | hors zone | absent des pages enregistrées (Olga) |
 
 ### Notes
 
@@ -80,6 +89,11 @@ Chaque matin, je décide de me lever, d'écrire à mon régisseur, de mettre de 
 - Doute : je me souviens que la rencontre avec Olga précède le départ de Stolz à l'étranger, et que Stolz retrouve Olga plus tard en Suisse ou à Paris ; je tais ces détails.
 - Doute : le frère de la veuve (Moukhoïarov ?) et Tarantiev escroquent Ilia Ilitch ; je les tais faute de place.
 - Doute : je crois que le dernier chapitre montre Stolz retrouvant Zakhar mendiant près d'une église ; c'est la page de fin du corpus, à vérifier.
+- Vérification : confirmé (p00002) : « лет тридцати двух-трех » (trente-deux à trente-trois ans). Le résumé dit « encore jeune » : aucune correction.
+- Vérification : hors zone (Olga absente des pages) ; la rupture, et qui la prononce, reste à trancher.
+- Vérification : confirmé (p00154, p00163-p00166) : Stolz retrouve Zakhar à la sortie de la messe, parmi les mendiants.
+- Vérification : hors zone pour l'escroquerie (absente des pages) ; Tarantiev n'apparaît que comme persécuteur de Zakhar (p00173).
+- Vérification : hors zone (Agafia absente des pages) ; le frère de la veuve et l'escroquerie ne sont pas attestés.
 
 ### Anciens textes
 
@@ -102,14 +116,15 @@ Je construis l'Intégral, qui portera aux autres planètes notre bonheur exact, 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le vaisseau se nomme l'Intégral | `Интеграл` | à vérifier | |
-| Le chef de l'État unique est le Bienfaiteur | `Благодетел` | à vérifier | |
-| La ville est séparée de la nature par le Mur vert | `Зелен`, `Стен` | à vérifier | |
-| O-90 est la compagne attitrée de D-503 | `О-90` | à vérifier | |
-| Le mouvement clandestin s'appelle les Méphis | `МЕФИ`, `Мефи` | à vérifier | |
-| D-503 subit la Grande Opération | `Операци`, `Великую` | à vérifier | |
-| I-330 est torturée sous la Cloche à gaz | `Колокол`, `газ`, `I-330` | à vérifier | |
-| Le complot de l'Intégral échoue parce qu'il a été dénoncé | `донес`, `донос`, `Интеграл` | à vérifier | |
+| Le vaisseau se nomme l'Intégral | `Интеграл` | confirmé | p00005, p00008 |
+| Le chef de l'État unique est le Bienfaiteur | `Благодетел` | confirmé | p00006, p00020 |
+| La ville est séparée de la nature par le Mur vert | `Зелен`, `Стен` | hors zone | absent des pages enregistrées (Mur vert absent ; « стену » p00024 est un autre mur) |
+| O-90 est la compagne attitrée de D-503 | `О-90` | hors zone | absent des pages enregistrées (O-90) |
+| Le mouvement clandestin s'appelle les Méphis | `МЕФИ`, `Мефи` | hors zone | absent des pages enregistrées (Méphis) |
+| D-503 subit la Grande Opération | `Операци`, `Великую` | confirmé | p00019 |
+| Une femme est placée sous la Cloche, dans la Chambre à gaz | `Колокол`, `газ`, `I-330` | confirmé | p00021-p00022 |
+| Cette femme est I-330 | `Колокол`, `газ`, `I-330` | hors zone | absent des pages enregistrées (nom I-330) |
+| Le complot de l'Intégral échoue parce qu'il a été dénoncé | `донес`, `донос`, `Интеграл` | confirmé | p00020 |
 
 ### Notes
 
@@ -119,6 +134,10 @@ Je construis l'Intégral, qui portera aux autres planètes notre bonheur exact, 
 - Doute : la Grande Opération est-elle imposée à tous ou subie de force par D-503 ? Je me souviens qu'il y est conduit après une arrestation, d'où « guéri par la Grande Opération », sans dire comment.
 - Tus : O-90 enceinte qui passe le Mur avec l'aide d'I-330 ; le poète R-13 ; S-4711 le Gardien ; la Journée de l'Unanimité. Je ne me souviens pas avec certitude du sort de R-13.
 - La fin (révolte qui se poursuit dans les quartiers ouest, « la raison doit vaincre ») est tue ; elle est dans la dernière note du corpus.
+- Vérification : hors zone (U absente des pages). Le texte montre que D-503 lui-même raconte « tout ce qu'il sait » des ennemis au Bienfaiteur (p00020) ; le résumé ne désigne personne.
+- Vérification : confirmé (p00021-p00022) : « Колокол » et « Газовой Комнате ». Le composé russe « Газовый Колокол » n'apparaît pas dans les pages ; la graphie française est conservée.
+- Vérification : confirmé (p00019) : D-503 est arrêté avec d'autres, « не имеющих удостоверения об Операции », puis « подвергнуты Великой Операции » : l'Opération est subie après arrestation. Le résumé ne le dit pas : pas de contradiction.
+- Vérification : confirmé (p00023-p00024) : révolte dans les quartiers ouest, « разум должен победить » ; le résumé le tait, sans contradiction.
 
 ### Anciens textes
 
@@ -141,14 +160,14 @@ Il avait écrit un roman sur Ponce Pilate ; les critiques l'ont brisé, il a br�
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La première scène a lieu aux étangs du Patriarche | `Патриарш` | à vérifier | |
-| Berlioz meurt décapité par un tramway | `Берлиоз`, `трамва`, `голов` | à vérifier | |
-| Le poète se nomme Ivan Bezdomny | `Бездомн`, `Иван` | à vérifier | |
-| Le chat de la suite de Woland se nomme Béhémoth | `Бегемот` | à vérifier | |
-| Azazello donne à la bien-aimée une crème qui la change en sorcière | `Азазелло`, `крем` | à vérifier | |
-| Woland rend à l'écrivain son manuscrit brûlé | `рукопис`, `горят` | à vérifier | |
-| L'écrivain et sa bien-aimée reçoivent le repos et non la lumière | `покой`, `свет` | à vérifier | |
-| Pilate est libéré à la fin et rejoint Yeshoua | `Пилат`, `Иешуа`, `свобод` | à vérifier | |
+| La première scène a lieu aux étangs du Patriarche | `Патриарш` | confirmé | p00001 |
+| Berlioz meurt décapité par un tramway | `Берлиоз`, `трамва`, `голов` | hors zone | absent des pages enregistrées (scène absente) |
+| Le poète se nomme Ivan Bezdomny | `Бездомн`, `Иван` | confirmé | p00002 |
+| Le chat de la suite de Woland se nomme Béhémoth | `Бегемот` | hors zone | absent des pages enregistrées (Béhémoth) |
+| Azazello donne à la bien-aimée une crème qui la change en sorcière | `Азазелло`, `крем` | hors zone | absent des pages enregistrées (Azazello) |
+| Woland rend à l'écrivain son manuscrit brûlé | `рукопис`, `горят` | hors zone | absent des pages enregistrées |
+| L'écrivain et sa bien-aimée reçoivent le repos et non la lumière | `покой`, `свет` | hors zone | absent des pages enregistrées (épilogue seul) |
+| Pilate est libéré à la fin et rejoint Yeshoua | `Пилат`, `Иешуа`, `свобод` | hors zone | absent des pages enregistrées (Pilate seulement évoqué, p00006) |
 
 ### Notes
 
@@ -159,6 +178,12 @@ Il avait écrit un roman sur Ponce Pilate ; les critiques l'ont brisé, il a br�
 - Doute : la requête de la bien-aimée au bal. Je me souviens qu'elle demande d'abord le pardon de Frida, puis, sur l'insistance de Woland, le retour de son amant ; « je n'ai demandé qu'une chose » simplifie. À juger.
 - Doute : la fin. Je me souviens que l'écrivain « n'a pas mérité la lumière, il a mérité le repos », message porté par Matthieu Lévi, et que Pilate est délivré pour marcher avec Yeshoua sur un chemin de lune ; « pardonné » est ma formulation. Le texte est partagé entre « début » et « fin » déclarés : l'épilogue (Ivan devenu historien) peut seul être dans la page de fin.
 - Doute : la bien-aimée brûle-t-elle avec lui ? Je me souviens qu'elle sauve quelques feuillets du feu ; « quelques feuillets noircis » vient de là. Je tais la mort des deux amants (le vin empoisonné d'Azazello).
+- Vérification : confirmé (p00002) : Berlioz est président du conseil de MASSOLIT et rédacteur d'une revue ; « dirigeant d'une association littéraire » est exact.
+- Vérification : hors zone (scène absente des pages).
+- Vérification : hors zone (Azazello absent des pages) ; à trancher.
+- Vérification : hors zone (le bal est absent des pages).
+- Vérification : confirmé (p00005-p00006) : la page « fin » est l'épilogue (Ivan endormi sous la lune, Pilate seulement évoqué). La libération de Pilate et le « repos » ne s'y lisent pas : hors zone.
+- Vérification : hors zone (scène absente des pages).
 
 ### Anciens textes
 
@@ -181,13 +206,13 @@ Je vivais retiré dans ma chaumière quand un descendant des Han est venu trois 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Liu Bei, Guan Yu et Zhang Fei jurent fraternité dans un jardin de pêchers | `桃園`, `結義`, `劉備`, `關羽`, `張飛` | à vérifier | |
-| L'histoire s'ouvre sur la révolte des Turbans jaunes | `黃巾` | à vérifier | |
-| Liu Bei descend de la famille impériale des Han | `劉備`, `宗親`, `後` | à vérifier | |
-| Liu Bei va trois fois chercher Zhuge Liang | `三顧`, `諸葛`, `孔明` | à vérifier | |
-| Cao Cao est vaincu à la Falaise rouge | `赤壁`, `曹操` | à vérifier | |
-| Le Wu est le dernier royaume soumis | `孫皓`, `吳` | à vérifier | |
-| L'empire est réunifié sous les Jin par les Sima | `晉`, `司馬炎` | à vérifier | |
+| Liu Bei, Guan Yu et Zhang Fei jurent fraternité dans un jardin de pêchers | `桃園`, `結義`, `劉備`, `關羽`, `張飛` | confirmé | p00011 |
+| L'histoire s'ouvre sur la révolte des Turbans jaunes | `黃巾` | confirmé | p00008 |
+| Liu Bei descend de la famille impériale des Han | `劉備`, `宗親`, `後` | confirmé | p00009-p00010 |
+| Liu Bei va trois fois chercher Zhuge Liang | `三顧`, `諸葛`, `孔明` | confirmé | p00078 |
+| Cao Cao est vaincu à la Falaise rouge | `赤壁`, `曹操` | hors zone | absent des pages enregistrées (赤壁 absent) |
+| Le Wu est le dernier royaume soumis | `孫皓`, `吳` | confirmé | p00028, p00030 |
+| L'empire est réunifié sous les Jin par les Sima | `晉`, `司馬炎` | confirmé | p00026, p00030, p00038 |
 
 ### Notes
 
@@ -199,6 +224,11 @@ Je vivais retiré dans ma chaumière quand un descendant des Han est venu trois 
 - Doute : la fin (chapitre 120). Je crois que le titre du chapitre évoque la soumission de Sun Hao et le retour à l'unité ; je ne suis pas sûr que Sima Yan y soit nommé en clair.
 - Doute : la ruse des flèches est attribuée à Zhuge Liang dans le roman (non dans l'histoire) ; hors zone de toute façon.
 - Premier jet à 130 mots : j'ai coupé « lointain », la mention des trois visites (gardée dans `personalSummary`) et resserré la phrase sur la mort des frères jurés.
+- Vérification : confirmé (p00009) : « 中山靖王劉勝之後 » (descendant de Liu Sheng, prince de Zhongshan) ; (p00010) « 漢室宗親 ». La formulation large du résumé est exacte.
+- Vérification : confirmé (p00030, p00038) : « 晉主司馬炎 » est nommé au chapitre 120.
+- Vérification : hors zone (箭 absent des pages) ; à trancher.
+- Vérification : hors zone (夷陵 et 陸遜 absents des pages).
+- Vérification : hors zone (non attesté dans les pages) ; sans influence sur le résumé.
 
 ### Anciens textes
 
@@ -221,13 +251,14 @@ Je suis né avec un jade dans la bouche, et chacun attend de moi les examens et 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La pierre a été laissée de côté par Nügua lors de la réparation du ciel | `女媧`, `補天`, `頑石` | à vérifier | |
-| Un moine et un taoïste emmènent la pierre parmi les hommes | `一僧一道`, `茫茫`, `渺渺` | à vérifier | |
-| Baoyu naît avec un jade dans la bouche | `銜`, `玉`, `寶玉` | à vérifier | |
-| Daiyu brûle ses poèmes avant de mourir | `焚稿`, `黛玉` | à vérifier | |
-| Daiyu meurt le soir des noces de Baoyu et Baochai | `黛玉`, `寶釵`, `成親` | à vérifier | |
-| Baoyu réussit les examens avant de disparaître | `中舉`, `鄉試`, `寶玉` | à vérifier | |
-| Le père de Baoyu le revoit une dernière fois avec le moine et le taoïste | `賈政`, `僧`, `道`, `寶玉` | à vérifier | |
+| La pierre a été laissée de côté par Nügua lors de la réparation du ciel | `女媧`, `補天`, `頑石` | confirmé | p00006 |
+| Un moine et un taoïste emmènent la pierre parmi les hommes | `一僧一道`, `茫茫`, `渺渺` | confirmé | p00007, p00015 |
+| Baoyu naît avec un jade dans la bouche | `銜`, `玉`, `寶玉` | confirmé | p00050 |
+| Daiyu brûle ses poèmes avant de mourir | `焚稿`, `黛玉` | hors zone | absent des pages enregistrées (焚稿) |
+| Daiyu meurt | `黛玉`, `寶釵`, `成親` | confirmé | p00046 |
+| Sa mort tombe le soir des noces de Baoyu et Baochai | `黛玉`, `寶釵`, `成親` | hors zone | absent des pages enregistrées (成親) |
+| Baoyu réussit les examens avant de disparaître | `中舉`, `鄉試`, `寶玉` | confirmé | p00050 |
+| Le père de Baoyu le revoit une dernière fois avec le moine et le taoïste | `賈政`, `僧`, `道`, `寶玉` | confirmé | p00047 |
 
 ### Notes
 
@@ -237,6 +268,10 @@ Je suis né avec un jade dans la bouche, et chacun attend de moi les examens et 
 - Doute : je crois que Daiyu meurt à l'heure même des noces, dans une autre aile, mais non « le soir » au sens strict ; je garde « le soir des noces », à vérifier (hors zone).
 - Doute : je ne suis pas sûr que le chapitre 120 raconte la disparition, ou si elle est au chapitre 119 avec la seule réussite aux examens ; je crois que Jia Zheng aperçoit son fils au bord d'une rivière enneigée, vêtu d'une cape rouge, au chapitre 120.
 - Tus : Wang Xifeng, la grand-mère Jia, Qin Keqing, Xiren, la société de poésie, la concubine impériale Yuanchun. La fin est celle de la version en cent vingt chapitres, dont les quarante derniers sont attribués à un continuateur ; c'est celle du corpus (« 紅樓夢/第120回 »).
+- Vérification : confirmé (p00062) : les deux religieux emportent le jade et placent « 寶玉 » à la place de la pierre ; la superposition est dans le texte. La lecture prudente du résumé est acceptable.
+- Vérification : hors zone (成親 absent) ; la date de la mort de Daiyu reste à trancher.
+- Vérification : confirmé (p00047, chapitre 120) : Jia Zheng voit son fils sur la barque, dans la neige, vêtu d'une cape rouge.
+- Tus (Wang Xifeng, la grand-mère, Qin Keqing, Xiren, Yuanchun) : sans objet pour la vérification.
 
 ### Anciens textes
 
@@ -259,14 +294,14 @@ Je dis au souverain que la guerre est l'affaire vitale de l'État et qu'elle se 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La guerre est l'affaire vitale de l'État | `國之大事`, `死生之地` | à vérifier | |
-| Le premier chapitre compare la voie, le ciel, le terrain, le général et la loi | `道`, `天`, `地`, `將`, `法`, `五事` | à vérifier | |
-| La guerre repose sur la ruse | `詭道` | à vérifier | |
-| Le meilleur est de soumettre l'ennemi sans combattre | `不戰而屈人之兵` | à vérifier | |
-| Qui connaît l'ennemi et se connaît lui-même ne court aucun péril | `知彼知己`, `百戰不殆` | à vérifier | |
-| Les dispositions de l'armée imitent l'eau | `兵形象水`, `水` | à vérifier | |
-| Un chapitre traite de l'attaque par le feu | `火攻` | à vérifier | |
-| Le dernier chapitre traite de l'emploi des espions | `用間` | à vérifier | |
+| La guerre est l'affaire vitale de l'État | `國之大事`, `死生之地` | confirmé | p00002 |
+| Le premier chapitre compare la voie, le ciel, le terrain, le général et la loi | `道`, `天`, `地`, `將`, `法`, `五事` | confirmé | p00002 |
+| La guerre repose sur la ruse | `詭道` | confirmé | p00004 |
+| Le meilleur est de soumettre l'ennemi sans combattre | `不戰而屈人之兵` | confirmé | p00014 |
+| Qui connaît l'ennemi et se connaît lui-même ne court aucun péril | `知彼知己`, `百戰不殆` | confirmé | p00021 |
+| Les dispositions de l'armée imitent l'eau | `兵形象水`, `水` | confirmé | p00043 |
+| Un chapitre traite de l'attaque par le feu | `火攻` | confirmé | p00078 |
+| Le dernier chapitre traite de l'emploi des espions | `用間` | confirmé | p00082 |
 
 ### Notes
 
@@ -278,6 +313,10 @@ Je dis au souverain que la guerre est l'affaire vitale de l'État et qu'elle se 
 - Doute : « se gagne au temple » (`personalSummary`) vient de mon souvenir des calculs faits au temple ancestral avant la guerre (廟算), à la fin du premier chapitre ; à vérifier.
 - Le texte entier est dans le corpus (une page) : tous les faits devraient s'y trancher.
 - Contrôle Dart : « en treize chapitres » reformait le titre accepté « Les Treize Chapitres » ; remplacé par « bref et dense ». Le découpage en treize chapitres n'est donc plus dit, l'ordre des chapitres reste décrit.
+- Vérification : confirmé (p00002) : 五事 : 道, 天, 地, 將, 法. « discipline » pour 法 est un choix de traduction, non contredit.
+- Vérification : confirmé (titres p00013, p00022, p00028, p00035, p00044, p00051, p00056, p00063, p00069, p00078, p00082) : marches (行軍, 9), neuf terrains (九地, 11), feu (火攻, 12), espions (用間, 13). Le résumé est exact.
+- Vérification : confirmé (p00021) : « 知彼知己，百戰不殆 » est au chapitre 3 (謀攻, titre p00013), après « soumettre sans combattre » (p00014).
+- Vérification : confirmé (p00005) : « 未戰而廟算勝者 » : le calcul au temple précède la guerre, à la fin du chapitre 1.
 
 ### Anciens textes
 
@@ -300,14 +339,14 @@ Je ne crée rien : je transmets ce que m'ont laissé les anciens. À mes discipl
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier livre s'ouvre sur la joie d'étudier et de pratiquer ce qu'on a appris | `étud`, `appliqu`, `satisfaction`, `plaisir` | à vérifier | |
-| Le premier livre parle de la piété filiale | `piété filiale`, `Iou tzeu`, `Yeou tseu` | à vérifier | |
-| Le premier livre oppose déjà le sage à l'homme qui ne l'est pas | `sage`, `homme honorable`, `vulgaire` | à vérifier | |
-| Le dernier livre rapporte les paroles de Yao à Shun | `Iao`, `Yao`, `Chouenn`, `Shun` | à vérifier | |
-| Le dernier livre finit sur la nécessité de connaître le décret du Ciel | `Ciel`, `décret`, `volonté`, `destin` | à vérifier | |
-| Gouverner par la vertu est comparé à l'étoile polaire | `étoile polaire`, `polaire` | à vérifier | |
-| Le maître résume sa vie par étapes de quinze à soixante-dix ans | `quinze ans`, `soixante-dix` | à vérifier | |
-| Le maître dit transmettre sans créer | `transmets`, `inventer`, `créer` | à vérifier | |
+| Le premier livre s'ouvre sur la joie d'étudier et de pratiquer ce qu'on a appris | `étud`, `appliqu`, `satisfaction`, `plaisir` | confirmé | p00002 |
+| Le premier livre parle de la piété filiale | `piété filiale`, `Iou tzeu`, `Yeou tseu` | confirmé | p00010, p00012 |
+| Le premier livre oppose déjà le sage à l'homme qui ne l'est pas | `sage`, `homme honorable`, `vulgaire` | hors zone | absent des pages enregistrées (livre 1 entier : « vulgaire », « homme honorable » absents) — à trancher |
+| Le dernier livre rapporte les paroles de Yao à Shun | `Iao`, `Yao`, `Chouenn`, `Shun` | confirmé | p00019 |
+| Le dernier livre finit sur la nécessité de connaître le décret du Ciel | `Ciel`, `décret`, `volonté`, `destin` | confirmé | p00025 |
+| Gouverner par la vertu est comparé à l'étoile polaire | `étoile polaire`, `polaire` | hors zone | absent des pages enregistrées (livre 2 non enregistré) |
+| Le maître résume sa vie par étapes de quinze à soixante-dix ans | `quinze ans`, `soixante-dix` | hors zone | absent des pages enregistrées (livre 2 non enregistré) |
+| Le maître dit transmettre sans créer | `transmets`, `inventer`, `créer` | hors zone | absent des pages enregistrées (livre 7 non enregistré) |
 
 ### Notes
 
@@ -319,6 +358,10 @@ Je ne crée rien : je transmets ce que m'ont laissé les anciens. À mes discipl
 - Doute : la réciprocité (恕) et l'étoile polaire, les âges de la vie (livre 2) et « je transmets » (livre 7) sont hors des livres 1 et 20 du corpus.
 - Doute : la dernière phrase du livre 20 porte, dans mon souvenir, sur le décret du Ciel, les rites et la valeur des paroles ; « Yao et Shun » ouvre ce livre.
 - Premier jet à 124 mots : coupé « courtes » et « sans plan suivi » (le recueil n'a pas d'ordre suivi, mais ce n'est pas essentiel).
+- Vérification : confirmé (p00002) : « grande joie » et « cultiver la sagesse ». Le mot « pratiquer » n'est pas dans la phrase, le résumé le reformule : aucune correction.
+- Vérification : « Le Maître dit » (p00002, p00004) : formule vérifiée. « le sage » (p00003) est présent, « homme honorable » absent ; variantes de traduction non tranchées, sans influence sur le résumé.
+- Vérification : hors zone : la réunion des paroles par des disciples n'est pas dite dans les pages ; formulation de tradition, à juger.
+- Vérification : confirmé (p00025) : la dernière section du livre 20 parle de la « volonté du Ciel », des « règles et usages » et du discernement des discours. Le résumé est exact.
 
 ### Anciens textes
 
@@ -341,14 +384,14 @@ Je suivais le cercueil de mon père quand un jeune lettré m'a aperçue au monas
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action commence au monastère Pujiu | `普救寺` | à vérifier | |
-| La jeune fille se nomme Yingying, fille du ministre Cui | `鶯鶯`, `崔相國`, `崔` | à vérifier | |
-| Le jeune lettré se nomme Zhang | `張生`, `張珙`, `君瑞` | à vérifier | |
-| La servante se nomme Hongniang | `紅娘` | à vérifier | |
-| Le brigand qui assiège le monastère se nomme Sun Feihu | `孫飛虎` | à vérifier | |
-| Le général ami de Zhang se nomme Du Que | `杜確`, `白馬將軍` | à vérifier | |
-| Zhang est reçu premier aux examens | `狀元`, `頭名` | à vérifier | |
-| Le cousin calomniateur se nomme Zheng Heng | `鄭恆` | à vérifier | |
+| L'action commence au monastère Pujiu | `普救寺` | confirmé | p00004 |
+| La jeune fille se nomme Yingying, fille du ministre Cui | `鶯鶯`, `崔相國`, `崔` | confirmé | p00002, p00004 |
+| Le jeune lettré se nomme Zhang | `張生`, `張珙`, `君瑞` | confirmé | p00004 |
+| La servante se nomme Hongniang | `紅娘` | confirmé | p00002 |
+| Le brigand qui assiège le monastère se nomme Sun Feihu | `孫飛虎` | confirmé | p00018 |
+| Le général ami de Zhang se nomme Du Que | `杜確`, `白馬將軍` | confirmé | p00004, p00018 |
+| Zhang est reçu premier aux examens | `狀元`, `頭名` | confirmé | p00012, p00018 |
+| Le cousin calomniateur se nomme Zheng Heng | `鄭恆` | confirmé | p00002, p00018 |
 
 ### Notes
 
@@ -359,6 +402,11 @@ Je suivais le cercueil de mon père quand un jeune lettré m'a aperçue au monas
 - Doute : l'ordre exact entre la découverte de Hongniang (l'interrogatoire de la servante) et la condition des examens ; je crois que la condition vient de la mère, sur la plaidoirie de Hongniang.
 - Doute : « Reçu premier » : je crois que Zhang devient 狀元, premier du concours ; à vérifier dans le cinquième livre, qui est dans le corpus.
 - Doute : la graphie du nom du lettré (Zhang Sheng, Zhang Gong, nom social Junrui) ; j'écris « Zhang », plus sûr.
+- Vérification : confirmé (p00002) : « 曾許下 … 鄭恆 為妻 » : promis par le père défunt avant l'histoire. Le résumé dit « promis » : exact.
+- Vérification : confirmé (p00018) : Zheng Heng reproche à la mère d'avoir renié sa promesse (« 母倒悔親 ») ; « se dédit » est exact.
+- Vérification : hors zone ; la condition de la mère (« 許張生也 », p00018) est posée après le siège, mais son ordre avec l'interrogatoire de Hongniang n'est pas décrit : à trancher.
+- Vérification : confirmé (p00012, p00018) : « 頭名狀元 ». Le résumé est exact.
+- Vérification : confirmé (p00004) : 張珙, nom social 君瑞 ; « Zhang » suffit.
 
 ### Anciens textes
 
@@ -381,14 +429,14 @@ Ce soir, la lune est belle, et le chien des Zhao m'a regardé deux fois : j'ai r
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le malade est le cadet de deux frères, amis du narrateur de la préface | `昆仲`, `其一` | à vérifier | |
-| Guéri, le malade est parti attendre un poste officiel | `候補` | à vérifier | |
-| Le chien qui l'effraie est celui des Zhao | `趙家的狗`, `趙` | à vérifier | |
-| Les paysans du village du Petit-Loup ont mangé le cœur d'un malfaiteur | `狼子村`, `心肝` | à vérifier | |
-| Entre les mots humanité, justice et vertu, il lit « manger les hommes » | `仁義道德`, `吃人` | à vérifier | |
-| Sa petite sœur est morte à cinq ans | `妹子`, `五歲` | à vérifier | |
-| Le médecin vient examiner le malade et parle de le laisser tranquille | `何先生`, `靜靜`, `養` | à vérifier | |
-| Le dernier mot est un appel à sauver les enfants | `救救孩子` | à vérifier | |
+| Le malade est le cadet de deux frères, amis du narrateur de la préface | `昆仲`, `其一` | confirmé | p00001 |
+| Guéri, le malade est parti attendre un poste officiel | `候補` | confirmé | p00001 |
+| Le chien qui l'effraie est celui des Zhao | `趙家的狗`, `趙` | confirmé | p00004 |
+| Les paysans du village du Petit-Loup ont mangé le cœur d'un malfaiteur | `狼子村`, `心肝` | confirmé | p00016 |
+| Entre les mots humanité, justice et vertu, il lit « manger les hommes » | `仁義道德`, `吃人` | confirmé | p00021 |
+| Sa petite sœur est morte à cinq ans | `妹子`, `五歲` | confirmé | p00080 |
+| Le médecin vient examiner le malade et parle de le laisser tranquille | `何先生`, `靜靜`, `養` | confirmé | p00027-p00028 |
+| Le dernier mot est un appel à sauver les enfants | `救救孩子` | confirmé | p00090 |
 
 ### Notes
 
@@ -401,6 +449,13 @@ Ce soir, la lune est belle, et le chien des Zhao m'a regardé deux fois : j'ai r
 - Doute : « humanité, justice, vertu » traduit 仁義道德, quatre caractères que je rends en trois mots ; à juger.
 - Le texte entier est dans le corpus (une page) : tous les faits devraient s'y trancher.
 - Premier jet à 123 mots : coupé « courte », « propre » et « vieux ».
+- Vérification : confirmé (p00001) : frères et anciens camarades d'école (« 良友 »), le frère remet les carnets, le cadet est « 候補 ». Le lieu n'est pas dit : sans objet.
+- Vérification : confirmé (p00003-p00004) : « 今天晚上，很好的月光 », puis le regard du chien des Zhao la même soirée. La réunion en une soirée est juste.
+- Vérification : confirmé (p00016) : « 心肝 » (cœur et foie). Le résumé ne dit que « cœur » : simplification, non corrigée.
+- Vérification : sans objet : le nom « 狼子村 » est une traduction, non vérifiable dans le texte.
+- Vérification : confirmé (p00027) : « 何先生 » ; « 靜靜的養 » (p00027-p00028).
+- Vérification : confirmé (p00028) : « 養肥了 » : le malade croit qu'on veut l'engraisser. Le résumé est exact.
+- Vérification : confirmé (p00021) : quatre caractères (仁義道德) rendus en trois mots ; le résumé ne compte pas les mots.
 
 ### Anciens textes
 
