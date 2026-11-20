@@ -1,6 +1,6 @@
 # Résumés — vague3-3
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `le-tour-du-monde-en-quatre-vingts-jours`, `vingt-mille-lieues-sous-les-mers`, `voyage-au-centre-de-la-terre`, `lile-mysterieuse`, `cinq-semaines-en-ballon`, `les-enfants-du-capitaine-grant`, `michel-strogoff`, `de-la-terre-a-la-lune`, `un-capitaine-de-quinze-ans`, `robur-le-conquerant`
 - Créée le : 2026-11-20
 

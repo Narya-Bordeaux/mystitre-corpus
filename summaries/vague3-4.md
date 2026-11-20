@@ -1,6 +1,6 @@
 # Résumés — vague3-4
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `les-pailles-rompues`, `onze-jours-de-siege`, `alice-au-pays-des-merveilles`, `gargantua`, `pantagruel`, `le-morte-darthur`, `les-souffrances-du-jeune-werther`, `faust`, `la-ferme-des-animaux`, `le-decameron`
 - Créée le : 2026-11-20
 

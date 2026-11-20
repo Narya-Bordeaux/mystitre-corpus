@@ -1,6 +1,6 @@
 # Résumés — vague3-2
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `splendeurs-et-miseres-des-courtisanes`, `le-lys-dans-la-vallee`, `orgueil-et-prejuges`, `jane-eyre`, `les-liaisons-dangereuses`, `frankenstein`, `dracula`, `le-portrait-de-dorian-gray`, `jekyll-et-hyde`, `le-proces`
 - Créée le : 2026-11-20
 

@@ -1,6 +1,6 @@
 # Résumés — vague3-1
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `les-montagnes-hallucinees`, `le-cauchemar-dinnsmouth`, `la-machine-a-explorer-le-temps`, `le-pere-goriot`, `eugenie-grandet`, `illusions-perdues`, `la-peau-de-chagrin`, `le-colonel-chabert`, `la-cousine-bette`, `le-chef-doeuvre-inconnu`
 - Créée le : 2026-11-20
 
@@ -95,7 +95,7 @@ Je suis venu dans ce port pourrissant en simple curieux, parce que l'autocar qui
 - Vérification : le cousin interné à Canton figure en fin de récit (p00258) : omis, sans conséquence.
 - Vérification : rafle de l'hiver 1927-1928 confirmée (p00004). Le sous-marin n'est rapporté que par un tabloïd (p00006) : voir le tableau, corrigé.
 - Vérification : « Des années plus tard » est corrigé. La Marsh est trouvée à Arkham, le lendemain de la fuite (p00239-p00241) ; les recherches de Cleveland, un an après (p00243), ne font que le confirmer.
-- Vérification : « sifflait dans les tunnels » (personalSummary) n'est pas dans le texte complet : aucun sifflement n'y est attribué à la masse, le shoggoth n'apparaît qu'en p00151 et p00256. Hors zone, absent du texte complet — à trancher.
+- Intégration : la note de vérification sur « sifflait dans les tunnels » visait le `personalSummary` des *Montagnes hallucinées* (le shoggoth et son « Tekeli-li »), cherché par erreur dans ce texte-ci. Aucune phrase de cette œuvre n'est en cause. Hors zone, absent du texte complet — à trancher.
 ### Anciens textes
 
 - summary : Un jeune homme visite la ville d'Innsmouth et découvre peu à peu les secrets de ses habitants, liés à un pacte ancien avec des créatures marines. Il réalise finalement qu'il est lui-même concerné par cette transformation.
