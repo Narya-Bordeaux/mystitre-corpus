@@ -125,4 +125,55 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+| Œuvre | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|
+| `la-veritable-histoire-dah-q` | 8 | 0 | 0 |
+| `la-chair-comme-tapis-de-priere` | 6 | 1 | 1 |
+| `zhuangzi` | 3 | 5 | 0 |
+| `le-pavillon-aux-pivoines` | 7 | 1 | 0 |
+| `notes-de-chevet` | 6 | 2 | 0 |
+| `la-sente-etroite-du-bout-du-monde` | 7 | 0 | 1 |
+| `les-suicides-damour-a-sonezaki` | 0 | 8 | 0 |
+| `je-suis-un-chat` | 8 | 0 | 0 |
+| `rashomon` | 7 | 0 | 1 |
+| `kojiki` | 0 | 8 | 0 |
+| **Total** | **52** | **25** | **3** |
+
+Les huit faits de *Les Suicides d'amour à Sonezaki* et du *Kojiki* sont hors zone faute de source : aucune fiche `sources/<id>.json` dans le corpus.
+
+### Corrections
+
+- `la-chair-comme-tapis-de-priere`, fait 8 : « reçoit le nom de Wanshi » devient « se donne le nom de Wanshi » (p00010 : 自取法名).
+- `la-sente-etroite-du-bout-du-monde`, fait 7 : « Le voyage s'achève à Ōgaki » devient « Le voyage atteint Ōgaki, où ses amis le rejoignent » (p00171 à p00172 : le texte repart pour Ise).
+- `rashomon`, fait 8 : « Il disparaît dans la nuit » devient « Il s'élance sous la pluie vers la ville pour voler » (p00039) ; le résumé dit désormais « court voler en ville sous la pluie ».
+- `rashomon`, résumé : « sabre au clair » devient « puis tire son sabre » (p00027 : le sabre sort après que le domestique a repoussé la vieille). « Convaincu, » est retiré pour rester sous 120 mots.
+
+### Points à trancher
+
+- *Ah Q* : la non-participation au pillage et la perte d'embauche générale ne sont pas attestées ; le texte dit seulement l'interdiction d'entrer chez les Zhao et de réclamer le salaire (p00128, p00130).
+- *La Chair comme tapis de prière* : « lettré austère » (le père de Yuxiang est appelé 鐵扉道人, « un Taoïste ») ; « marchand » pour Quan Laoshi ; la pendaison de Yuxiang (absente des deux pages).
+- *Zhuangzi* : « une trentaine de chapitres » ; « tourterelle » comme traduction de 鷽.
+- *Notes de chevet* : le sujet du store (le causatif porte sur le treillis, pas sur le store) ; le nom « Teishi » n'apparaît que dans une glose éditoriale 〈定子〉 ; le « petit matin » d'hiver n'est pas dans la phrase d'ouverture ; pas de postface dans le texte, et le don de papier (p00437) est au milieu de l'œuvre, sans donateur nommé dans les pages lues ; le nombre « quelque trois cents ».
+- *La Sente étroite* : l'année 1689 n'apparaît que dans la notice éditoriale (p00004) ; l'ordre Kisakata puis Kanazawa n'a pas été relevé.
+- *Je suis un chat* : la cause du harcèlement (les Kaneda « le font harceler ») ; la bière « laissée par les invités ».
+- *Les Suicides d'amour à Sonezaki* et *Kojiki* : rien n'a pu être vérifié. Le désaccord avec l'ancien résumé (commerce d'huile) reste ouvert ; les doutes sur le *Kojiki* aussi.
+
+### Contrôles
+
+- `summary lint vague4-3 --checked` : 0 erreur, 0 avertissement (après la correction de longueur de *Rashōmon*, 120 mots).
+- `summary apply vague4-3 --output` : catalogue simulé écrit dans le dossier temporaire ; 10 fiches changées.
+- `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur. » (le contrôle s'est exécuté avec le Dart de l'environnement, sans avertissement d'absence).
+- `summary mark vague4-3 checked` : lancé après l'écriture de cette section.
+
+### Difficultés au fil du lot
+
+Oui, la fin du lot m'a paru plus difficile. Les derniers livres (*Notes de chevet*, *Je suis un chat*, *Rashōmon*) ont demandé plus de lectures de passages, et une formule de la rédaction (le sabre) n'a été corrigée qu'à la relecture de la fin. Le contexte chargé a pu disperser mon attention : deux œuvres sans source ont aussi été traitées comme telles sans les tenir pour vérifiées. Je signale ce risque plutôt que de le taire.
+
+### Retours sur la consigne
+
+- Cas non prévu : œuvre sans fiche dans `sources/` (*Les Suicides d'amour à Sonezaki*, *Kojiki*). La consigne ne dit pas quoi écrire ; j'ai noté « aucune source dans le corpus » et « hors zone », sans parler de corrections possibles. Une règle explicite serait utile.
+- Gloses et notices éditoriales (Wikisource) : un nom ou une date peut ne figurer que dans la notice ou une glose. Je les ai traitées comme hors du texte de l'œuvre et je l'ai dit au cas par cas. La consigne pourrait trancher.
+- Variantes graphiques : 鎗斃 pour 槍斃 et 學鳩 pour 鷽 ont été acceptées comme confirmations. La consigne l'admet pour les noms ; elle pourrait le préciser pour les mots courants.
+- Limite de 120 mots : une correction peut la dépasser. J'ai dû retirer un mot ailleurs ; une règle d'équilibre le dirait.
