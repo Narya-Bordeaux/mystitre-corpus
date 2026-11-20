@@ -40,4 +40,66 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+Les faits sont comptés dans le tableau de chaque œuvre, après scission des faits qui affirmaient deux choses. Un fait « hors zone » reste dans le texte du résumé.
+
+| Œuvre | Confirmés | Hors zone | Corrigés | Corpus lu |
+|---|---|---|---|---|
+| `les-montagnes-hallucinees` | 2 | 7 | 0 | début et fin (pages choisies) |
+| `le-cauchemar-dinnsmouth` | 6 | 0 | 2 | texte entier |
+| `la-machine-a-explorer-le-temps` | 2 | 8 | 0 | chapitre 1 et épilogue (pages choisies) |
+| `le-pere-goriot` | 8 | 1 | 1 | chapitres I et IV (pages choisies) |
+| `eugenie-grandet` | 8 | 0 | 0 | texte entier |
+| `illusions-perdues` | 8 | 0 | 0 | deux chapitres (pages choisies) |
+| `la-peau-de-chagrin` | 5 | 4 | 0 | chapitres 1 et 4, épilogue interrompu |
+| `le-colonel-chabert` | 7 | 0 | 1 | texte entier |
+| `la-cousine-bette` | 8 | 1 | 0 | texte entier |
+| `le-chef-doeuvre-inconnu` | 8 | 0 | 0 | texte entier |
+| **Total** | **62** | **21** | **4** | |
+
+### Corrections
+
+Chaque correction est indiquée avec l'ancienne et la nouvelle formulation, et le paragraphe d'appui.
+
+- `le-cauchemar-dinnsmouth`, summary : « torpillent le récif du Diable » → « dynamitent les vieilles maisons abandonnées » (p00004 : rafle, maisons brûlées et dynamitées ; p00006 : le torpillage n'est rapporté que par un tabloïd).
+- `le-cauchemar-dinnsmouth`, summary : « qu'il descend de Marsh » → « qu'une aïeule était une Marsh » (p00241-p00242, p00251).
+- `le-cauchemar-dinnsmouth`, personalSummary : « Des années plus tard » → « Le lendemain, à Arkham » (p00239-p00241 : la Marsh est trouvée à Arkham, le lendemain de la fuite).
+- `le-cauchemar-dinnsmouth`, tableau : « descend de Marsh par sa grand-mère » → « une aïeule, son arrière-grand-mère, était une Marsh » (p00241 : la Marsh est la mère d'Eliza Orne).
+- `le-pere-goriot`, summary : « ses filles, qui ne viennent pas » → « ses filles : l'aînée arrive trop tard, la cadette ne vient pas » (p00837, p00842 ; p00847, p00853 ; p00878-p00880).
+- `le-pere-goriot`, personalSummary : « elles ne viennent pas » → « l'une arrive trop tard, l'autre ne vient pas ».
+- `le-colonel-chabert`, tableau : « surprend la comtesse avec l'intendant Delbecq » → « surprend le piège de la comtesse, monté avec l'intendant Delbecq » (p00246, p00253-p00254). Le résumé n'est pas modifié.
+
+### Points à trancher
+
+- `le-cauchemar-dinnsmouth`, personalSummary : « la masse informe qui sifflait dans les tunnels » : absent du texte complet, aucun sifflement n'est attribué à une créature. Le shoggoth n'apparaît qu'en p00151 et p00256. Hors zone, à trancher.
+- `le-cauchemar-dinnsmouth` : Obed Marsh comme aïeul direct reste une question du texte (p00251), non tranchée.
+- `la-cousine-bette`, summary : « le baron fait détourner des fonds en Algérie » : le mot « détournement » est absent du texte complet ; le baron part en Algérie pour les fournitures de guerre (p00892-p00896). Hors zone, à trancher.
+- `la-cousine-bette` : l'ordre des séductions de Valérie (Hulot, Crevel, Steinbock) n'est pas tranché par les passages consultés.
+- `le-colonel-chabert`, fiche du catalogue : « ancienne prostituée devenue comtesse ». Le mot n'est pas dans le texte ; le colonel dit l'avoir « prise au Palais-Royal » (p00327). À trancher avec la fiche, hors de ce lot.
+- `le-chef-doeuvre-inconnu`, personalSummary : « aucune femme vivante ne la vaut » (comparaison de Gillette à Catherine) : non attesté dans le texte complet. Frenhofer dit seulement que sa Belle Noiseuse vaut mieux que la peinture de Porbus (p00029). À trancher ou à reformuler.
+- `le-pere-goriot` : le choix de voix (le père plutôt qu'Eugène) reste ouvert, comme dans la passe 1.
+- Corpus partiels : pour `les-montagnes-hallucinees`, `la-machine-a-explorer-le-temps`, `le-pere-goriot`, `illusions-perdues` et `la-peau-de-chagrin`, les faits du milieu de l'œuvre (arrestation de Vautrin, Opéra, 802 701, mort de Raphaël) ne peuvent pas être confirmés ici. Ils restent « hors zone ».
+
+### Contrôles
+
+- `summary lint vague3-1 --checked` : 0 erreur, 0 avertissement, 10 œuvres.
+- `summary apply vague3-1 --output` vers un catalogue simulé (10 fiches), puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur », sur le lot entier après toutes les corrections. Avertissement « flutter as root » sans conséquence.
+- `summary mark vague3-1 checked` : lancé après l'écriture de cette section.
+
+### Incidents et méthode
+
+- Le dépôt corpus a été cloné en superficiel, directement sur la branche draft, puis la branche `claude/summary-vague3-1-check` a été créée à partir d'elle. Aucun push sur le draft, rien dans `mystitre`.
+- La commande `find` n'affiche que les premières occurrences de chaque terme. Pour conclure à une absence, j'ai relu les textes complets (`texts/*.md`) et compté les occurrences. Les motifs ont aussi donné de faux positifs (« charbonnés », « poitrine », « pieds », « noyer » pour le bois).
+- Une graphie a d'abord échappé : « phthisie » dans *La Cousine Bette*, que ma recherche sur « phtisie » ne trouvait pas. Corrigé : le fait est confirmé à p03085.
+
+### Difficultés au fil du lot
+
+La fin du lot a été plus difficile que le début. Les deux œuvres en texte entier les plus longues (*La Cousine Bette*, *Le Chef-d'œuvre inconnu*) m'ont demandé de nombreuses relectures, et les recherches par motif sortaient beaucoup de bruit. Je le dis franchement : c'est là que j'ai fait l'erreur de graphie signalée plus haut. Les quatre dernières œuvres ont été relues dans leur entier avant de conclure, mais les absences y sont plus fragiles que dans les œuvres courtes.
+
+### Retours sur la consigne
+
+- Le corpus est souvent partiel (« pages choisies ») tout en contenant des chapitres entiers (*Le Père Goriot*, chapitres I et IV). La règle « hors zone » s'applique bien, mais un repère sur ce que contient une page choisie aiderait.
+- Le fichier texte du corpus peut contenir plus que les pages déclarées (*La Peau de chagrin* : le fichier va jusqu'à l'épilogue interrompu). L'outil `find` et le fichier ne disent pas toujours la même chose : il faudrait préciser lequel fait foi pour une absence.
+- Règle de correction : une formulation ambiguë (« surprend la comtesse avec l'intendant ») est corrigée quand le texte ne montre pas le fait énoncé. La consigne ne dit pas si une ambiguïté compte comme « contredit » ; j'ai choisi de corriger.
+- Les scissions de faits ont porté à 8, 9 ou 10 le nombre de lignes par œuvre. Un nombre cible serait utile à la relecture.
