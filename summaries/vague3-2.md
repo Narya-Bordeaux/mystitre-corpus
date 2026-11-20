@@ -1,6 +1,6 @@
 # Résumés — vague3-2
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `splendeurs-et-miseres-des-courtisanes`, `le-lys-dans-la-vallee`, `orgueil-et-prejuges`, `jane-eyre`, `les-liaisons-dangereuses`, `frankenstein`, `dracula`, `le-portrait-de-dorian-gray`, `jekyll-et-hyde`, `le-proces`
 - Créée le : 2026-11-20
 
@@ -22,14 +22,18 @@ Je suis revenu à Paris ruiné et humilié ; un prêtre espagnol m'a relevé, v�
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La première scène se passe à un bal masqué de l'Opéra | `bal de l'Opéra`, `Opéra`, `masque` | à vérifier | |
-| Esther meurt sans savoir qu'un immense héritage lui revient | `Gobseck`, `héritage`, `héritière`, `millions` | à vérifier | |
-| Le protecteur de Lucien se fait appeler l'abbé Carlos Herrera | `Herrera`, `Carlos` | à vérifier | |
-| Lucien doit épouser Clotilde de Grandlieu | `Clotilde`, `Grandlieu` | à vérifier | |
-| Esther s'empoisonne après avoir cédé à Nucingen | `poison`, `empoisonn`, `Nucingen` | à vérifier | |
-| Lucien se pend dans sa cellule | `pendu`, `pendre`, `cravate` | à vérifier | |
-| Lucien écrit une dernière lettre à son protecteur avant de mourir | `lettre`, `Quand vous lirez` | à vérifier | |
-| Jacques Collin devient chef de la police de sûreté | `chef de la police de sûreté`, `Sûreté`, `sûreté` | à vérifier | |
+| La première scène se passe à un bal masqué de l’Opéra | `bal de l’Opéra`, `masque` | confirmé | p00008 |
+| Esther possède une fortune de près de deux millions | `Gobseck`, `millions` | confirmé | p01549, p02016 |
+| Esther meurt sans savoir qu’un immense héritage lui revient | `Gobseck`, `héritage`, `héritière` | hors zone | absent des pages enregistrées ; l’ignorance d’Esther n’est pas dite, et « héritage » ne désigne ici que d’autres personnages (p01107, p01219) |
+| Le protecteur de Lucien se fait appeler l’abbé Carlos Herrera | `Herrera`, `Carlos` | confirmé | p00161 |
+| Lucien doit épouser Clotilde de Grandlieu | `Clotilde`, `Grandlieu` | confirmé | p00407 |
+| Esther cède au banquier Nucingen | `Nucingen`, `belles nuits` | confirmé | p00343 |
+| Esther s’empoisonne | `poison`, `empoisonn` | confirmé | p01908 ; p01167 (« elle s’était tuée ») |
+| Lucien se pend dans sa cellule | `pendu`, `se pend` | confirmé | p00907, p00908 |
+| Lucien révèle au juge qui est son protecteur | `juge d’instruction`, `identité` | confirmé | p01041 |
+| Lucien écrit une dernière lettre à son protecteur avant de mourir | `Quand vous lirez`, `ABBÉ CARLOS HERRERA` | confirmé | p01039, p01040 |
+| Jacques Collin négocie avec la justice et obtient une place dans la police | `préfet de police`, `fonctions` | confirmé | p01934, p02018 |
+| Jacques Collin devient chef de la police de sûreté | `chef de la police de sûreté`, `Sûreté` | hors zone | absent des pages enregistrées ; le titre n’est attesté que pour Bibi-Lupin (p01092) |
 
 ### Notes
 
@@ -43,6 +47,12 @@ Je suis revenu à Paris ruiné et humilié ; un prêtre espagnol m'a relevé, v�
 - Retirés pour tenir la fourchette : Corentin, Peyrade et sa fille Lydie, Asie, Europe, Théodore Calvi, le couvent où Esther est éduquée.
 - « Rubempré » n'est pas dans le titre : nommé. « Courtisane » est un mot courant du titre, permis ; le titre n'est pas reconstitué.
 - Fiche du catalogue : rien de contraire à ma mémoire ; elle ne nomme personne.
+- Vérification : ordre entre la mort de Gobseck et celle d’Esther : hors zone, absent des pages enregistrées.
+- Vérification : « perle noire de poison » et « le lendemain » de sa nuit avec Nucingen : hors zone ; l’empoisonnement lui-même est confirmé (p01908).
+- Vérification : 750 000 francs : Paccard et Prudence Servien (Europe) s’enfuient avec 750 000 francs (p01097, p01753) ; l’accusation de Lucien et Herrera pour ce vol n’est pas attestée : hors zone.
+- Vérification : Lucien et Herrera sont prévenus dans le procès (p00985) ; la mort d’Esther comme crime qu’on leur impute n’est pas attestée : hors zone.
+- Vérification : destinataire de la dernière lettre : « À L’ABBÉ CARLOS HERRERA » (p01039-p01040) : confirmé.
+- Vérification : titre « chef de la police de sûreté » : hors zone (voir tableau).
 
 ### Anciens textes
 
@@ -65,14 +75,15 @@ Enfant, personne ne m'a aimé, pas même ma mère. Dans une vallée de Touraine,
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Félix adresse sa confession à Natalie de Manerville | `Natalie`, `Manerville` | à vérifier | |
-| Félix embrasse les épaules d'une inconnue lors d'un bal à Tours | `épaules`, `bal`, `Tours` | à vérifier | |
-| La femme aimée est Henriette de Mortsauf | `Henriette`, `Mortsauf` | à vérifier | |
-| Les Mortsauf vivent dans la vallée de l'Indre | `Indre`, `Clochegourde` | à vérifier | |
-| Les Mortsauf ont deux enfants | `Jacques`, `Madeleine` | à vérifier | |
-| Félix devient l'amant de lady Arabelle Dudley | `Arabelle`, `Dudley` | à vérifier | |
-| Henriette laisse une lettre où elle avoue son désir | `lettre`, `Henriette` | à vérifier | |
-| Natalie rompt avec Félix après sa lecture | `amie dévouée`, `quitter` | à vérifier | |
+| Félix de Vandenesse adresse sa confession à Natalie de Manerville | `Natalie`, `Manerville` | confirmé | p00006, p00870 |
+| Félix embrasse les épaules d’une inconnue lors d’un bal à Tours | `épaules`, `bal`, `Tours` | confirmé | p00018 (« baiser volé », « ce bal mémorable »), p00027 (« belles épaules ») |
+| La femme aimée est Henriette de Mortsauf | `Henriette`, `Mortsauf` | confirmé | p00171, p00181 |
+| Les Mortsauf vivent dans la vallée de l’Indre | `Indre`, `Clochegourde` | confirmé | p00019, p00022 |
+| Les Mortsauf ont deux enfants | `Jacques`, `Madeleine` | confirmé | p00052 |
+| Félix devient l’amant de lady Arabelle Dudley | `Arabelle`, `Dudley` | confirmé | p00529 |
+| Henriette meurt après avoir dépéri | `mourante`, `maladie` | confirmé | p00746, p00828 |
+| Henriette laisse une lettre où elle avoue le désir qu’elle a réprimé | `lettre`, `Henriette` | confirmé | p00846, p00853 |
+| Natalie rompt avec Félix après sa lecture | `amie dévouée`, `Natalie` | confirmé | p00869, p00870 |
 
 ### Notes
 
@@ -85,6 +96,12 @@ Enfant, personne ne m'a aimé, pas même ma mère. Dans une vallée de Touraine,
 - « Natalie rompt » : la dernière lettre, signée « votre amie dévouée », offre son amitié en le quittant ; à ma mémoire c'est une rupture courtoise.
 - « Lys » est un mot courant du titre, permis, mais je ne l'emploie pas (rien ne l'exige) ; « vallée » est employé seul, sans reconstituer le titre.
 - Retirés : Madeleine qui repousse Félix à la fin, la lettre-conseil d'Henriette sur la vie à Paris (seulement « guidé par ses conseils »), le langage des fleurs détaillé.
+- Vérification : « Blanche » (prénom de baptême, p00171) et « Henriette » (nom donné par Félix, p00181) : confirmé.
+- Vérification : bal de Tours pendant le passage du duc d’Angoulême (p00016-p00017) ; le bal n’est pas dit donné en son honneur : hors zone pour ce lien, texte non modifié.
+- Vérification : comte « ancien émigré » (p00135) et « hypocondriaque » (p00069) : confirmés ; « tyrannique » : approché par « bouche violente et impérieuse » (p00053), non contredit ; « colérique » : non relevé, hors zone.
+- Vérification : « pas même ma mère » : la froideur de la mère est attestée (p00014).
+- Vérification : cause de la mort : la maladie (p00746) et l’opium (p00828) ; la jalousie n’est pas cause unique dans le texte : non contredit, formulation gardée.
+- Vérification : rupture courtoise : la lettre de Natalie, « votre amie dévouée » (p00869-p00870) : confirmé.
 
 ### Anciens textes
 
@@ -107,13 +124,14 @@ Ma mère ne rêve que de nous marier, mes sœurs et moi, et je ris volontiers de
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les Bennet ont cinq filles | `five daughters`, `daughters` | à vérifier | |
-| Le domaine de Longbourn doit revenir à Mr Collins | `Longbourn`, `Collins`, `entail` | à vérifier | |
-| Elizabeth est la deuxième des filles | `Elizabeth`, `Lizzy`, `second` | à vérifier | |
-| Darcy dédaigne Elizabeth au bal de Meryton | `Meryton`, `tolerable`, `ball` | à vérifier | |
-| Wickham est officier | `Wickham`, `officer`, `militia` | à vérifier | |
-| Darcy arrange en secret le mariage de Lydia et Wickham | `Lydia`, `Wickham`, `Darcy` | à vérifier | |
-| Jane épouse Bingley | `Bingley`, `Jane`, `deserving daughters` | à vérifier | |
+| Les Bennet ont cinq filles | `five daughters`, `daughters` | confirmé | p00022 |
+| Le domaine de Longbourn doit revenir à Mr Collins | `Longbourn`, `Collins`, `entail` | hors zone | absent des pages enregistrées (corpus : chapitre 1 et dernier chapitre seulement) |
+| Elizabeth est la deuxième des filles | `second daughter`, `Elizabeth` | confirmé | p00039, p00040 |
+| Darcy dédaigne Elizabeth au bal de Meryton | `Meryton`, `tolerable`, `ball` | hors zone | absent des pages enregistrées ; « Meryton » seulement en p00040 |
+| Wickham est officier | `Wickham`, `officer`, `militia` | hors zone | absent des pages enregistrées ; le nom Wickham est attesté (p00043), le grade non |
+| Lydia épouse Wickham | `Lydia`, `Wickham`, `marriage` | confirmé | p00043, p00045 |
+| Darcy arrange en secret le mariage de Lydia et Wickham | `Darcy`, `secret` | hors zone | absent des pages enregistrées ; seule une aide ultérieure de Darcy à Wickham est attestée (p00048) |
+| Jane épouse Bingley | `Bingley`, `Jane`, `deserving daughters` | confirmé | p00038, p00040 |
 
 ### Notes
 
@@ -125,6 +143,11 @@ Ma mère ne rêve que de nous marier, mes sœurs et moi, et je ris volontiers de
 - Ordre : la lettre suit immédiatement le refus à Hunsford ; Pemberley vient ensuite (retiré du résumé, comme Lady Catherine et Charlotte Lucas) pour tenir la fourchette.
 - « Orgueil » et « préjugés » sont des mots courants du titre, permis ; je ne les emploie pas, rien ne l'exigeant.
 - Fiche du catalogue : rien de contraire à ma mémoire.
+- Vérification : « Elizabeth, la deuxième » : confirmé (p00039, « his second daughter »).
+- Vérification : « deux filles les plus méritantes » : confirmé mot pour mot (p00038, « two most deserving daughters »).
+- Vérification : « tolerable » et le bal de Meryton : hors zone, scène absente.
+- Vérification : Darcy paie les dettes de Wickham : hors zone, absent.
+- Vérification : ordre lettre / Hunsford / Pemberley : hors zone, chapitres absents (Pemberley seulement cité en p00039 et p00050).
 
 ### Anciens textes
 
@@ -147,14 +170,19 @@ Orpheline, j'ai grandi parmi les coups et le mépris, puis dans la faim et le fr
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'orpheline est élevée chez sa tante, Mrs Reed | `Mrs. Reed`, `Reed` | à vérifier | |
-| Son amie Helen Burns meurt à Lowood | `Helen Burns`, `Lowood` | à vérifier | |
-| Le maître de Thornfield s'appelle Edward Rochester | `Edward`, `Rochester`, `Thornfield` | à vérifier | |
-| La femme de Rochester s'appelle Bertha | `Bertha`, `Mason` | à vérifier | |
-| Les Rivers se révèlent ses cousins | `Rivers`, `cousin`, `Diana` | à vérifier | |
-| St John veut l'emmener aux Indes | `St. John`, `India` | à vérifier | |
-| Rochester est aveuglé par l'incendie | `blind`, `fire`, `sight` | à vérifier | |
-| Elle épouse Rochester | `I married him`, `married` | à vérifier | |
+| L’orpheline grandit chez Mrs Reed | `Mrs. Reed`, `Reed` | confirmé | p00003 |
+| Mrs Reed est sa tante | `aunt`, `tante` | hors zone | absent des pages enregistrées ; la parenté n’est pas dite |
+| Son amie Helen Burns meurt à Lowood | `Helen Burns`, `Lowood` | hors zone | absent des pages enregistrées |
+| Le maître s’appelle Edward Rochester | `Edward`, `Rochester` | confirmé | p00051, p00067 |
+| Le maître est celui de Thornfield | `Thornfield` | hors zone | absent des pages enregistrées ; le lieu n’est pas nommé dans les pages |
+| La femme de Rochester s’appelle Bertha | `Bertha`, `Mason` | hors zone | absent des pages enregistrées |
+| Les Rivers, Diana et Mary, se trouvent auprès d’elle à la fin | `Rivers`, `Diana` | confirmé | p00067 |
+| Les Rivers se révèlent ses cousins | `cousin` | hors zone | absent des pages enregistrées |
+| St John part pour les Indes | `India`, `St. John` | confirmé | p00068 |
+| St John veut l’emmener aux Indes | `India` | hors zone | absent des pages enregistrées ; la demande n’est pas dans les pages |
+| Rochester est aveugle pendant deux ans | `blind` | confirmé | p00060 |
+| Rochester est aveuglé par l’incendie | `fire` | hors zone | absent des pages enregistrées ; la cause n’est pas attestée |
+| Elle épouse Rochester | `married` | confirmé | p00047, p00048 |
 
 ### Notes
 
@@ -167,6 +195,11 @@ Orpheline, j'ai grandi parmi les coups et le mépris, puis dans la faim et le fr
 - Rochester perd aussi une main et retrouve en partie la vue d'un œil, à ma mémoire ; non dit. Je ne suis pas sûr qu'il soit « aveuglé par l'incendie » plutôt que lors de l'effondrement pendant l'incendie : la formule reste juste.
 - Ferndean, Adèle, Mrs Fairfax, Blanche Ingram et la voix qui l'appelle de loin sont retirés pour tenir la fourchette.
 - « Les Indes » : je me souviens que St John part en Inde comme missionnaire et la demande en mariage pour l'y accompagner ; le dernier chapitre parle de lui.
+- Vérification : « sous les combles » ou « troisième étage » pour Bertha : hors zone, Bertha absente des pages.
+- Vérification : révélation du premier mariage à l’église : hors zone, scène absente ; le mariage avec Rochester est attesté (p00047-p00048).
+- Vérification : cause de la mort d’Helen Burns : hors zone, absente.
+- Vérification : l’héritage de l’oncle : non attesté dans les pages ; « libre et riche » non contredit.
+- Vérification : l’œil dont la vue revient en partie (p00065) : confirmé ; la main perdue : non relevée, hors zone.
 
 ### Anciens textes
 
@@ -189,14 +222,14 @@ Ma complice, aussi redoutable que moi, m'a demandé de corrompre une petite pens
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Cécile écrit d'abord tout juste sortie du couvent | `couvent`, `Cécile` | à vérifier | |
-| Cécile est promise à Gercourt | `Gercourt` | à vérifier | |
-| Merteuil veut se venger de Gercourt, son ancien amant | `Gercourt`, `vengeance`, `venger` | à vérifier | |
-| La présidente de Tourvel meurt | `Tourvel`, `Présidente` | à vérifier | |
-| Danceny tue Valmont en duel | `Danceny`, `duel`, `Valmont` | à vérifier | |
-| Cécile retourne au couvent | `couvent`, `religion`, `postulante` | à vérifier | |
-| Merteuil est défigurée par la petite vérole | `petite vérole`, `vérole` | à vérifier | |
-| Merteuil s'enfuit en Hollande | `Hollande` | à vérifier | |
+| Cécile écrit d’abord tout juste sortie du couvent | `couvent`, `Cécile` | confirmé | p00003, p00004 |
+| Cécile est promise à Gercourt | `Gercourt` | hors zone | absent des pages enregistrées ; le projet de mariage vise « M. C*** » (p00005), le nom Gercourt n’est pas écrit |
+| Merteuil veut se venger de Gercourt, son ancien amant | `Gercourt`, `venger` | hors zone | absent des pages enregistrées |
+| La présidente de Tourvel meurt | `Tourvel`, `présidente` | hors zone | absent des pages enregistrées |
+| Danceny tue Valmont en duel | `Danceny`, `duel`, `Valmont` | hors zone | absent des pages enregistrées ; Danceny quitte Paris pour Malte (p00018), non contredit |
+| Cécile retourne au couvent | `couvent`, `postulante` | confirmé | p00017 |
+| Merteuil est défigurée par la petite vérole | `petite vérole`, `vérole` | confirmé | p00012 |
+| Merteuil s’enfuit en Hollande | `Hollande` | confirmé | p00015 |
 
 ### Notes
 
@@ -209,6 +242,11 @@ Ma complice, aussi redoutable que moi, m'a demandé de corrompre une petite pens
 - Je me souviens aussi qu'elle perd un procès, est huée à la Comédie-Italienne et perd un œil : retirés. Danceny part pour Malte : retiré. Mme de Rosemonde : retirée.
 - Graphie : « Cécile Volanges » ou « Cécile de Volanges » ; l'usage courant dit « de Volanges ». Le texte écrit peut-être « la petite Volanges ».
 - Fiche du catalogue : rien de contraire.
+- Vérification : « prend le voile » ou postulante : confirmé (p00017, « l’habit de postulante »).
+- Vérification : Merteuil perd un œil : confirmé (p00012), non repris dans le résumé.
+- Vérification : ordre entre la séduction de Cécile et la chute de Tourvel : hors zone, lettres intermédiaires absentes.
+- Vérification : Merteuil révèle à Danceny la liaison de Valmont : hors zone, absent.
+- Vérification : lettre CLXXV, de Mme de Volanges à Mme de Rosemonde (p00011) : confirmé. Graphie « Cécile Volanges » (p00002) : confirmé.
 
 ### Anciens textes
 
@@ -231,14 +269,15 @@ J'ai voulu percer le secret de la vie, et j'ai réussi : avec des ossements et d
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'explorateur qui recueille Victor s'appelle Walton | `Walton` | à vérifier | |
-| Victor anime la créature à Ingolstadt | `Ingolstadt` | à vérifier | |
-| Le petit frère tué s'appelle William | `William`, `Guillaume` | à vérifier | |
-| La servante exécutée s'appelle Justine | `Justine` | à vérifier | |
-| L'ami tué s'appelle Clerval | `Clerval` | à vérifier | |
-| Élisabeth est tuée le soir des noces | `Élisabeth`, `Elisabeth`, `noces` | à vérifier | |
-| Victor meurt sur le navire de Walton | `vaisseau`, `mort`, `expir` | à vérifier | |
-| La créature disparaît sur un radeau de glace | `radeau de glace`, `glace` | à vérifier | |
+| L’explorateur qui recueille Victor s’appelle Walton | `Walton` | confirmé | p00001, p00015 |
+| Victor anime la créature à Ingolstadt | `Ingolstadt` | hors zone | absent des pages enregistrées |
+| Le petit frère tué s’appelle William | `William`, `Guillaume` | hors zone | absent des pages enregistrées ; l’enfant tué n’est pas nommé (« celui qui n’avait jamais fait aucun mal », p00067) |
+| La servante exécutée s’appelle Justine | `Justine` | hors zone | absent des pages enregistrées |
+| L’ami tué s’appelle Clerval | `Clerval` | confirmé | p00027, p00063 |
+| Élisabeth est tuée | `Élisabeth`, `étranglé` | confirmé | p00027, p00067 |
+| Élisabeth est tuée le soir des noces | `noces` | hors zone | absent des pages enregistrées ; le moment n’est pas dit |
+| Victor meurt sur le navire de Walton | `vaisseau`, `Ses yeux se fermèrent` | confirmé | p00054 |
+| La créature disparaît sur un radeau de glace | `radeau de glace`, `glace` | confirmé | p00068, p00071 |
 
 ### Notes
 
@@ -251,6 +290,13 @@ J'ai voulu percer le secret de la vie, et j'ai réussi : avec des ossements et d
 - « Étrangle » : je crois que Clerval et Élisabeth sont étranglés (marques de doigts au cou) ; à vérifier, sinon « tue ».
 - La fin : la créature annonce qu'elle va se brûler sur un bûcher au pôle, puis s'élance par la fenêtre de la cabine (la fiche le cite) ; « disparaît dans les glaces » est sûr.
 - Retirés : la famille De Lacey, le père de Victor (qui meurt de chagrin), le procès de Victor en Irlande.
+- Vérification : prénoms de la traduction Saladin : Élisabeth confirmé (p00027, p00067) ; William absent (hors zone).
+- Vérification : « fragments de cadavres » : hors zone, absent.
+- Vérification : Justine « pendue après un faux aveu » : hors zone, absente.
+- Vérification : Clerval « étranglé » : le texte dit « assassiné celui qui était aimable et sans appui » (p00067) ; l’étranglement est attesté pour l’innocent endormi (p00067) ; le mode pour Clerval n’est pas attesté : hors zone, texte conservé.
+- Vérification : Victor détruit la compagne : non relevé dans les pages, hors zone.
+- Vérification : bûcher au pôle et sortie par la fenêtre de la cabine : confirmés (p00068, p00071).
+- Vérification : « Henri Clerval » : hors zone, absent.
 
 ### Anciens textes
 
@@ -273,13 +319,14 @@ Je suis parti dans les Carpates pour une simple affaire, et je me suis retrouvé
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Jonathan passe par Bistritz en route vers le château | `Bistritz` | à vérifier | |
-| Jonathan vient vendre au comte une demeure à Londres | `Carfax`, `estate`, `London` | à vérifier | |
-| La première victime anglaise s'appelle Lucy Westenra | `Lucy`, `Westenra` | à vérifier | |
-| Arthur Holmwood délivre Lucy d'un pieu | `Holmwood`, `Arthur`, `stake` | à vérifier | |
-| Le comte est détruit au coucher du soleil | `sunset`, `sun` | à vérifier | |
-| Le comte tombe en poussière | `dust` | à vérifier | |
-| Quincey Morris meurt de ses blessures | `Quincey`, `Morris` | à vérifier | |
+| Jonathan passe par Bistritz en route vers le château | `Bistritz` | confirmé | p00005 |
+| Jonathan vient vendre au comte une demeure à Londres | `Carfax`, `estate`, `London` | hors zone | absent des pages enregistrées ; le motif de la visite n’est pas dit ; Carfax désigne la maison du comte (p00055) |
+| La victime anglaise s’appelle Lucy | `Lucy` | confirmé | p00081 |
+| La première victime anglaise est Lucy Westenra | `Westenra` | hors zone | absent des pages enregistrées ; le nom Westenra n’est pas attesté |
+| Arthur Holmwood délivre Lucy d’un pieu | `Holmwood`, `Arthur`, `stake` | hors zone | absent des pages enregistrées ; « Lord Godalming » (titre) apparaît en p00094, la scène de Lucy non |
+| Le comte est détruit au coucher du soleil | `sunset`, `sun` | confirmé | p00099, p00100 |
+| Le comte tombe en poussière | `dust` | confirmé | p00082 |
+| Quincey Morris meurt de ses blessures | `Quincey`, `Morris` | confirmé | p00106, p00112 |
 
 ### Notes
 
@@ -292,6 +339,12 @@ Je suis parti dans les Carpates pour une simple affaire, et je me suis retrouvé
 - Je crois que Mina est encore fiancée au moment de l'attaque contre Lucy et épouse Jonathan à Budapest ; « la fiancée de Jonathan » s'y accorde.
 - Retirés : Renfield, les trois femmes du château, le naufrage du Demeter à Whitby, la cicatrice de Mina qui disparaît.
 - Fiche du catalogue : rien de contraire.
+- Vérification : « clerc de notaire » pour « solicitor » : hors zone, terme absent.
+- Vérification : Carfax « à Purfleet » : Purfleet n’est attesté que pour Seward (p00047) : hors zone.
+- Vérification : « rampe le long des murs », « ne mange jamais », « pas de reflet » : hors zone, absents.
+- Vérification : moment de la destruction, juste avant le coucher du soleil : confirmé (p00099, p00100).
+- Vérification : coup de kukri à la gorge et poignard au cœur, réduction en poussière : confirmé (p00099, p00082).
+- Vérification : Mina « fiancée » au moment de l’attaque et épouse à Budapest : hors zone, Budapest absent.
 
 ### Anciens textes
 
@@ -314,14 +367,14 @@ On m'a peint tel que j'étais à vingt ans, et j'ai souhaité que l'image vieill
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le peintre s'appelle Basil Hallward | `Basil`, `Hallward` | à vérifier | |
-| Lord Henry Wotton est présent dès la première scène | `lord Henry`, `Wotton` | à vérifier | |
-| L'actrice s'appelle Sibyl Vane | `Sibyl`, `Sibylle`, `Vane` | à vérifier | |
-| Sibyl Vane se tue après la rupture | `Sibyl`, `suicid`, `morte` | à vérifier | |
-| Un pli de cruauté apparaît autour de la bouche du portrait | `cruauté`, `bouche` | à vérifier | |
-| Le jeune homme tue Basil d'un coup de couteau | `couteau`, `Basil` | à vérifier | |
-| Il frappe la toile du même couteau | `couteau`, `toile` | à vérifier | |
-| Les domestiques reconnaissent le mort à ses bagues | `bagues` | à vérifier | |
+| Le peintre s’appelle Basil Hallward | `Basil`, `Hallward` | confirmé | p00007, p00117 |
+| Lord Henry Wotton est présent dès la première scène | `lord Henry`, `Wotton` | confirmé | p00004 |
+| L’actrice s’appelle Sibyl Vane | `Sibyl`, `Vane` | hors zone | absent des pages enregistrées ; seul « James Vane » est nommé (p00113) |
+| Sibyl Vane se tue après la rupture | `Sibyl`, `suicid` | hors zone | absent des pages enregistrées |
+| Un pli de cruauté apparaît autour de la bouche du portrait | `bouche`, `ride` | confirmé | p00117 (« la ride tourmentée » près de la bouche) |
+| Le jeune homme tue Basil d’un coup de couteau | `couteau`, `Basil` | confirmé | p00117, p00120 |
+| Il frappe la toile du même couteau | `couteau`, `transperça` | confirmé | p00120, p00121 |
+| Les domestiques reconnaissent le mort à ses bagues | `bagues` | confirmé | p00128 |
 
 ### Notes
 
@@ -334,6 +387,11 @@ On m'a peint tel que j'étais à vingt ans, et j'ai souhaité que l'image vieill
 - Retirés : Alan Campbell (contraint de faire disparaître le corps), James Vane (frère de Sibyl, tué par accident à la chasse), le livre jaune, la fumerie d'opium, Hetty Merton.
 - Premier jet à 124 mots : retirés « À Londres », « enfin », et « éveille chez son modèle » devenu « lui prêche ». Londres n'est donc plus dit.
 - Fiche du catalogue : rien de contraire.
+- Vérification : « dix-huit ans » de débauche : hors zone, terme absent ; « des années » non contredit.
+- Vérification : graphie « Sibyl » ou « Sibylle » : hors zone, nom absent.
+- Vérification : coup « dans le cou, derrière l’oreille » : hors zone, détail absent.
+- Vérification : le même couteau pour Basil et pour la toile : confirmé (p00120, p00121).
+- Vérification : Sibyl s’empoisonne la nuit de la rupture : hors zone, absent.
 
 ### Anciens textes
 
@@ -356,14 +414,15 @@ Respecté de tous, je cachais des penchants dont j'avais honte. J'ai composé un
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Utterson est avocat | `Utterson`, `avocat`, `notaire` | à vérifier | |
-| Edward piétine une fillette dans la rue | `enfant`, `fillette`, `piétin` | à vérifier | |
-| Le médecin a fait d'Edward son héritier | `testament`, `héritier` | à vérifier | |
-| La victime du meurtre s'appelle sir Danvers Carew | `Danvers`, `Carew` | à vérifier | |
-| Le docteur Lanyon meurt après avoir vu la transformation | `Lanyon` | à vérifier | |
-| Le majordome s'appelle Poole | `Poole` | à vérifier | |
-| Edward est trouvé mort, empoisonné | `poison`, `empoisonn`, `fiole` | à vérifier | |
-| Le sel nécessaire au remède s'épuise | `sel`, `impur` | à vérifier | |
+| Utterson est avocat | `Utterson`, `avocat` | confirmé | p00002 |
+| Edward piétine une fillette dans la rue | `petite fille`, `enfant` | confirmé | p00010, p00047 |
+| Le médecin a fait d’Edward son héritier | `testament` | confirmé | p00043 |
+| La victime du meurtre s’appelle sir Danvers Carew | `Danvers`, `Carew` | hors zone | « sir Danvers » confirmé (p00048) ; le nom « Carew » n’est pas attesté dans les pages |
+| Le docteur Lanyon, ami de Jekyll, reçoit l’horreur de la transformation | `Lanyon` | confirmé | p00059, p00062 |
+| Le docteur Lanyon meurt après avoir vu la transformation | `Lanyon` | hors zone | absent des pages enregistrées ; la mort de Lanyon n’est pas dans les pages |
+| Le majordome s’appelle Poole | `Poole` | confirmé | p00060, p00065 |
+| Edward est trouvé mort, empoisonné | `poison`, `fiole` | hors zone | absent des pages enregistrées ; le chapitre de la découverte n’est pas enregistré |
+| Le sel nécessaire au remède s’épuise | `sels`, `provision` | confirmé | p00065 |
 
 ### Notes
 
@@ -376,6 +435,12 @@ Respecté de tous, je cachais des penchants dont j'avais honte. J'ai composé un
 - « Qui vient de s'empoisonner » : je crois me souvenir d'une odeur d'amande (noyaux, acide prussique) et d'une fiole écrasée ; à vérifier.
 - « Cabinet » : le laboratoire au fond de la cour, avec la porte sur une autre rue ; « cabinet » est le mot de mémoire de la traduction, sans certitude.
 - Retirés : Enfield nommé, la lettre de Lanyon, la porte de la ruelle.
+- Vérification : « Des mois plus tard » : le meurtre de sir Danvers a lieu environ deux mois après l’épisode de la fillette (p00048) : non contredit.
+- Vérification : coups et meurtre : confirmés (p00048-p00056) ; « canne brisée » et qualité de député de Carew : hors zone.
+- Vérification : Lanyon voit l’autre boire la potion : hors zone, chapitre absent.
+- Vérification : odeur d’amande et fiole écrasée : hors zone, absentes.
+- Vérification : « cabinet » : le laboratoire et sa porte existent (p00035, p00047) ; le mot « cabinet » en ce sens n’est pas relevé : hors zone.
+- Vérification : Utterson avocat, non notaire : confirmé (p00002).
 
 ### Anciens textes
 
@@ -398,14 +463,15 @@ Un matin, deux gardiens sont entrés dans ma chambre et m'ont annoncé que j'ét
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Josef K. est arrêté un matin dans sa chambre | `verleumdet`, `verhaftet`, `Morgens` | à vérifier | |
-| Josef K. est fondé de pouvoir dans une banque | `Prokurist`, `Bank` | à vérifier | |
-| Il est arrêté le jour de ses trente ans | `dreißig`, `Geburtstag` | à vérifier | |
-| L'avocat s'appelle Huld | `Huld`, `Advokat` | à vérifier | |
-| Le peintre s'appelle Titorelli | `Titorelli` | à vérifier | |
-| Il est exécuté la veille de ses trente et un ans | `einunddreißig`, `Geburtstag` | à vérifier | |
-| L'exécution a lieu dans une carrière | `Steinbruch` | à vérifier | |
-| On lui enfonce un couteau dans le cœur | `Messer`, `Herz` | à vérifier | |
+| Josef K. est arrêté un matin dans sa chambre | `verhaftet`, `Morgens`, `Zimmer` | confirmé | p00003, p00004 |
+| Josef K. travaille dans une banque | `Bank` | confirmé | p00003 |
+| Josef K. est fondé de pouvoir | `Prokurist` | hors zone | absent des pages enregistrées ; le titre n’est pas écrit dans les pages |
+| Il est arrêté le jour de ses trente ans | `dreißigster Geburtstag` | confirmé | p00003 |
+| L’avocat s’appelle Huld | `Huld`, `Advokat` | hors zone | absent des pages enregistrées ; « Advokat » (p00021) désigne seulement la profession |
+| Le peintre s’appelle Titorelli | `Titorelli` | hors zone | absent des pages enregistrées |
+| Il est exécuté la veille de ses trente et un ans | `31. Geburtstages`, `Vorabend` | confirmé | p00025 |
+| L’exécution a lieu dans une carrière | `Steinbruch` | confirmé | p00032 |
+| On lui enfonce un couteau dans le cœur | `Messer`, `Herz` | confirmé | p00033, p00034 |
 
 ### Notes
 
@@ -420,6 +486,14 @@ Un matin, deux gardiens sont entrés dans ma chambre et m'ont annoncé que j'ét
 - « Procès » est un mot courant du titre, permis ; je ne l'ai pas employé, « tribunal » et « accusé » suffisent.
 - Premier jet à 122 mots : retirés « toute sa vie » et « pourtant ». J'ai gardé « vraiment » dans « jamais vraiment acquitté » : je crois que Titorelli dit n'avoir jamais vu d'acquittement réel, seulement des acquittements apparents ou des atermoiements ; à vérifier.
 - Fiche du catalogue : d'accord ; l'ancien résumé écrit « Joseph », la graphie allemande et usuelle est « Josef ».
+- Vérification : « le matin de ses trente ans » : confirmé, le jour de l’arrestation est son anniversaire (p00003).
+- Vérification : « deux gardiens » : confirmé, Franz et Willem, « Wächter » (p00003-p00004).
+- Vérification : graphie « Josef K. » : confirmée (p00003).
+- Vérification : « Prokurist » : hors zone, terme absent.
+- Vérification : Titorelli et l’idée qu’aucun accusé n’est vraiment acquitté : hors zone, absents.
+- Vérification : aumônier et parabole de la Loi : hors zone, chapitre absent.
+- Vérification : l’oncle et son choix de l’avocat : hors zone, absents.
+- Vérification : « la veille de ses trente et un ans » : confirmé (p00025, « Am Vorabend seines 31. Geburtstages »).
 
 ### Anciens textes
 
