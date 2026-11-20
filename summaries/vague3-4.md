@@ -1,6 +1,6 @@
 # Résumés — vague3-4
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `les-pailles-rompues`, `onze-jours-de-siege`, `alice-au-pays-des-merveilles`, `gargantua`, `pantagruel`, `le-morte-darthur`, `les-souffrances-du-jeune-werther`, `faust`, `la-ferme-des-animaux`, `le-decameron`
 - Créée le : 2026-11-20
 
@@ -22,14 +22,16 @@ Mon mari voulait m'emmener loin de Paris sans m'offrir la parure dont je rêvais
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'épouse se nomme Henriette | `Henriette` | à vérifier | |
-| Le mari se nomme d'Esbard | `Esbard` | à vérifier | |
-| La servante se nomme Marinette | `Marinette` | à vérifier | |
-| Le valet se nomme Frontin | `Frontin` | à vérifier | |
-| L'enjeu du pari du couple est une parure | `parure`, `collier`, `bijou`, `diamant` | à vérifier | |
-| D'Esbard perd en prenant une clé de la main de sa femme | `clé`, `clef` | à vérifier | |
-| Le rival soupçonné est un cousin d'Henriette | `cousin` | à vérifier | |
-| Frontin doit finalement épouser Marinette | `épouser`, `mariage`, `noce` | à vérifier | |
+| L'épouse se nomme Henriette | `Henriette` | hors zone | absent des pages enregistrées |
+| Le mari se nomme d'Esbard | `Esbard` | confirmé | p00012, p00013 |
+| La servante se nomme Marinette | `Marinette` | confirmé | p00002 |
+| Le valet se nomme Frontin | `Frontin` | confirmé | p00001 |
+| L'enjeu du pari du couple est une parure | `parure`, `collier`, `bijou`, `diamant` | hors zone | absent des pages enregistrées |
+| D'Esbard perd en prenant une clé de la main de sa femme | `clé`, `clef` | hors zone | absent des pages enregistrées |
+| À la fin, la femme suit d'Elmont avec plaisir | `Elmont`, `suivre` | confirmé | p00013 |
+| Le rival soupçonné par d'Esbard est un cousin d'Henriette | `cousin` | hors zone | absent des pages enregistrées |
+| Marinette veut épouser Frontin, qui se dérobe | `Marinette`, `Frontin` | confirmé | p00007, p00009 |
+| Frontin doit finalement épouser Marinette | `épouser`, `mariage`, `noce` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -42,6 +44,12 @@ Mon mari voulait m'emmener loin de Paris sans m'offrir la parure dont je rêvais
 - Doute : la clé. Je ne suis pas sûr que la clé soit tendue par Henriette elle-même, ni qu'elle ouvre le cabinet plutôt qu'un meuble (la fiche dit « caché dans un meuble ») ; « le cabinet voisin » vient de la fiche (« un cabinet voisin où peut se dissimuler un visiteur »).
 - Doute : la ruse de Marinette. Je ne me souviens pas comment elle fait perdre Frontin ; j'écris seulement « par une ruse ». Je ne suis pas certain non plus que le pari des domestiques ait le mariage pour enjeu exact, l'ancien résumé le dit.
 - « avare » : de la fiche (« un mari avare et jaloux ») ; je m'en souviens vaguement.
+
+- Vérification : destination confirmée. La fin dit que d'Esbard « mène son épouse en Lorraine » (p00013) : « loin de la capitale » tient.
+- Vérification : nom d'Esbard confirmé, « Monsieur d'Esbard » (p00012) ; la fin le donne en parler suisse, « Monsir t'Espard » (p00013), ce qui relève de la graphie, non d'une correction.
+- Vérification : d'Elmont est nommé en fin de pièce (p00013), « content », « l'amour l'enivre » ; la femme « est un peu trop contente de le suivre ». Le résumé ne le nomme pas : rien à corriger. Le lien de cousinage et le cabinet restent hors zone.
+- Vérification : « avare » et « jaloux » (résumé, section « Notes » de la passe 1) : absents des pages enregistrées, non contredits. Le portier suisse de la fiche parle en fin de pièce (p00013) ; le résumé ne le nomme pas.
+- Vérification : la ruse de Marinette et le mariage final restent hors zone : la fin (p00013) ne décrit que la satisfaction de Marinette et le sort de Frontin, sans noce.
 
 ### Anciens textes
 
@@ -64,14 +72,14 @@ Je me croyais mariée, et voilà qu'une erreur de forme rendait notre union null
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le mari se nomme Robert Maubray | `Maubray`, `Robert` | à vérifier | |
-| Sa femme se nomme Laurence | `Laurence` | à vérifier | |
-| Un vice de forme rend leur mariage nul | `nul`, `vice`, `valable`, `validité` | à vérifier | |
-| Le médecin se nomme Maxime Duvernet | `Duvernet`, `Maxime` | à vérifier | |
-| La voyageuse se nomme Léonie de Vanvres | `Vanvres`, `Léonie` | à vérifier | |
-| Robert apprend la vérité par un journal | `journal` | à vérifier | |
-| Robert demande à la fin la main de Laurence | `main`, `demande` | à vérifier | |
-| La pièce s'achève sur deux mariages | `mariage`, `épouse`, `Duvernet` | à vérifier | |
+| Le mari se nomme Robert Maubray | `Maubray`, `Robert` | confirmé | p00014 |
+| Sa femme se nomme Laurence | `Laurence` | confirmé | p00017 |
+| Un vice de forme rend leur mariage nul | `nul`, `Article 170`, `notoriété` | confirmé | p00391, p00401 |
+| Le médecin se nomme Maxime Duvernet | `Duvernet`, `Maxime` | confirmé | p00015 |
+| La voyageuse se nomme Léonie de Vanvres | `Vanvres`, `Léonie` | confirmé | p00018 |
+| Robert apprend la vérité par un journal | `journal` | confirmé | p01667 |
+| Robert demande à la fin la main de Laurence | `main`, `demande` | confirmé | p01654 |
+| La pièce s'achève sur deux mariages | `mariage`, `Par deux mariages` | confirmé | p01680, p01681, p01685 |
 
 ### Notes
 
@@ -82,6 +90,13 @@ Je me croyais mariée, et voilà qu'une erreur de forme rendait notre union null
 - Doute : la querelle d'ouverture. La fiche la place sous le regard du domestique, dont je ne me rappelle pas le nom ; je ne suis pas sûr qu'elle précède la découverte du vice de forme, ni que le salon soit celui du couple.
 - Doute : que Robert ait appris la vérité par un journal (fiche et ancien résumé le disent ; je n'en ai pas de souvenir propre) et qu'il feigne l'indifférence plutôt que de jouer un autre jeu.
 - Doute : « deux mariages ». Je ne suis pas sûr que Duvernet obtienne Léonie à la fin ; l'ancien résumé le dit. Le notaire Roquefeuille, célibataire ironique selon la fiche, est tu faute de place.
+
+- Vérification : nature du vice confirmée. Robert, né anglais, s'est déclaré français ; l'acte de naissance est remplacé par un acte de notoriété, et le consul a accepté le mariage (p00391). Le notaire conclut « radicalement nul. Article 170 » (p00401). « Vice de forme » tient.
+- Vérification : qui découvre. Maxime annonce la nationalité anglaise (p00272), puis le notaire Roquefeuille vérifie les actes (p00391) : « on découvre » tient.
+- Vérification : le délai est chiffré dans le texte, « il faut onze jours pour se marier » (p00313). Le résumé le laisse sans chiffre, ce qui ne contredit rien.
+- Vérification : ouverture confirmée, salon de Robert (p00025), « méchante querelle » (p00056), le domestique Baptiste (p00031), que la fiche ne nommait pas.
+- Vérification : le journal est un avis de mariage ; Baptiste l'a déterré, et le maire a complété (p00587, p00619, p01667). Robert feint l'indifférence : « C'était là surtout qu'était la comédie » (p01674).
+- Vérification : mariage final confirmé. Maxime prend la main de Léonie et Robert celle de Laurence (p01682-p01685). Le notaire Roquefeuille est attesté (p00013) ; rien à corriger.
 
 ### Anciens textes
 
@@ -104,14 +119,16 @@ Je m'ennuyais près de ma sœur quand un Lapin Blanc, montre en main, est passé
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le Lapin Blanc tire une montre de son gousset | `montre`, `Lapin` | à vérifier | |
-| La fillette tombe dans un terrier | `terrier`, `trou`, `puits` | à vérifier | |
-| Le Valet de cœur est accusé d'avoir volé des tartes | `Valet`, `tartes` | à vérifier | |
-| Elle lance à la cour qu'ils ne sont qu'un jeu de cartes | `jeu de cartes`, `cartes` | à vérifier | |
-| Elle s'éveille la tête sur les genoux de sa sœur | `genoux`, `sœur` | à vérifier | |
-| La Reine ordonne de couper les têtes | `tête`, `coupez`, `Reine` | à vérifier | |
-| Le chat disparaît en laissant son sourire | `sourire`, `Chat`, `Chester`, `Cheshire` | à vérifier | |
-| Le chapelier se nomme le Chapelier dans la traduction | `Chapelier`, `Lièvre de Mars` | à vérifier | |
+| Le Lapin Blanc tire une montre de son gousset | `montre`, `gousset` | confirmé | p00004 |
+| La fillette tombe dans un terrier | `terrier`, `trou` | confirmé | p00001, p00005 |
+| Le Valet de cœur est accusé d'avoir volé des tartes | `Valet`, `tartes` | confirmé | p00055, p00071, p00073 |
+| Elle lance à la cour qu'ils ne sont qu'un jeu de cartes | `paquet de cartes` | confirmé | p00083 |
+| Elle s'éveille la tête sur les genoux de sa sœur | `genoux`, `sœur` | confirmé | p00084, p00085 |
+| La Reine ordonne de couper la tête | `coupe`, `Reine` | confirmé | p00082 |
+| La Reine veut couper toutes les têtes | `tête` | hors zone | absent des pages enregistrées |
+| Le chat disparaît en laissant son sourire | `sourire`, `Chat`, `Chester`, `Cheshire` | hors zone | absent des pages enregistrées |
+| Le Chapelier se nomme ainsi dans la traduction | `Chapelier` | hors zone | absent des pages enregistrées |
+| Le Lièvre prend son repas avec ses amis | `Lièvre` | confirmé | p00088 |
 
 ### Notes
 
@@ -123,6 +140,13 @@ Je m'ennuyais près de ma sœur quand un Lapin Blanc, montre en main, est passé
 - Doute : la dernière scène. De mémoire, l'héroïne grandit pendant le procès, lance « vous n'êtes qu'un jeu de cartes », les cartes s'envolent sur elle, et elle se réveille la tête sur les genoux de sa sœur, qui chasse des feuilles tombées sur son visage ; la sœur rêve ensuite à son tour. La rêverie de la sœur est tue.
 - Simplification : l'ordre des rencontres (Chenille, Duchesse, chat, thé) est celui dont je me souviens ; je ne suis pas sûr que le chat apparaisse d'abord chez la Duchesse ou après. La mare de larmes, la course au caucus et le croquet aux flamants sont tus.
 - Désaccord avec la fiche : aucun.
+
+- Vérification : « gousset » (p00004) : le texte dit la poche du gousset, non le gilet. Le doute est levé ; le résumé ne le précise pas.
+- Vérification : dernière scène confirmée. Le procès (p00055-p00082), « Qu'on lui coupe la tête ! » (p00082), « vous n'êtes qu'un paquet de cartes ! » et l'héroïne revenue à sa « grandeur naturelle » (p00083), le réveil la tête sur les genoux de sa sœur (p00084-p00085). Le rêve de la sœur (p00087-p00090) est tu.
+- Vérification : les tartes sont produites au procès (p00073) et le Valet est accusé « de ce qu'il fit des tartes » (p00071). Le mot « volé » n'est pas écrit ; le fait tient par ce passage.
+- Vérification : « paquet de cartes » dans la traduction (p00083) ; « jeu de cartes » du résumé en a le même sens. Pas de correction.
+- À trancher : « toutes les têtes » (résumé et personalSummary). Les pages ne donnent que « la tête » (p00082) : le sens général de la Reine n'est pas contredit, mais le chiffre n'est pas attesté. Décision à l'intégration.
+- Vérification : créatures attestées dans les pages : Lapin (p00004), Reine (p00041), Valet (p00055), Lièvre (p00088). Chat, Chapelier, Chenille, Duchesse, Griffon et Fausse-Tortue sont dans des chapitres absents ; « Lièvre de Mars » n'est pas attesté (« Mars » absent).
 
 ### Anciens textes
 
@@ -145,14 +169,15 @@ Je suis venu au monde en criant « À boire ! », et j'ai d'abord grandi à ma g
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'abbaye fondée pour le moine se nomme Thélème | `Theleme`, `Thélème`, `Thelemites` | à vérifier | |
-| La seule règle de l'abbaye est « Fais ce que voudras » | `vouldras`, `voudras` | à vérifier | |
-| Le moine se nomme frère Jean des Entommeures | `Entommeures`, `Jan`, `Jean` | à vérifier | |
-| Le héros naît par l'oreille de sa mère | `aureille`, `oreille` | à vérifier | |
-| Son premier cri réclame à boire | `à boire`, `a boire`, `boyre` | à vérifier | |
-| Le roi ennemi se nomme Picrochole | `Picrochole` | à vérifier | |
-| Le précepteur humaniste se nomme Ponocrates | `Ponocrates` | à vérifier | |
-| La guerre naît d'une querelle autour de fouaces | `fouace`, `fouaciers` | à vérifier | |
+| L'abbaye fondée pour le moine se nomme Thélème | `Theleme`, `Thélème`, `Thelemites` | hors zone | absent des pages enregistrées |
+| La seule règle de l'abbaye est « Fais ce que voudras » | `vouldras`, `voudras` | hors zone | absent des pages enregistrées |
+| Un moine commente l'énigme avec Gargantua | `Moyne`, `Gargantua` | confirmé | p00017 |
+| Le moine se nomme frère Jean des Entommeures | `Entommeures`, `Jean` | hors zone | absent des pages enregistrées |
+| Le héros naît par l'oreille de sa mère | `oreille`, `aureille` | hors zone | absent des pages enregistrées |
+| Son premier cri réclame à boire | `à boire`, `boyre` | hors zone | absent des pages enregistrées |
+| Le roi ennemi se nomme Picrochole | `Picrochole` | hors zone | absent des pages enregistrées |
+| Le précepteur humaniste se nomme Ponocrates | `Ponocrates` | hors zone | absent des pages enregistrées |
+| La guerre naît d'une querelle autour de fouaces | `fouace`, `fouaciers` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -166,6 +191,11 @@ Je suis venu au monde en criant « À boire ! », et j'ai d'abord grandi à ma g
 - Doute : « à Paris ». Je suis sûr du séjour à Paris (les cloches de Notre-Dame, la harangue de Janotus de Bragmardo, tus), un peu moins que l'éducation nouvelle commence là plutôt qu'avant le départ.
 - Doute : l'ordre de la fin. De mémoire, la victoire, la harangue aux vaincus, les récompenses, puis Thélème et l'énigme ; je crois que Picrochole s'enfuit (et finit gagne-denier à Lyon ?), tu.
 - Désaccord avec la fiche : aucun ; l'ancien résumé ne racontait pas la guerre picrocholine, que je mets au centre.
+
+- Vérification : le corpus ne contient que le prologue et le chapitre 58 (l'énigme). Thélème et sa règle (chapitres 52-57), la naissance, Picrochole, Ponocrates et les fouaces relèvent de chapitres absents : hors zone, rien de contredit.
+- Vérification : le moine de la scène finale est seulement « le Moyne » (p00017) ; son nom « frère Jean des Entommeures » n'est pas dans les pages. Gargantua répond à l'énigme (p00017) ; le tableau relève seulement le moine qui commente avec lui.
+- Vérification : « boyre » (p00010) est un toast de l'auteur au lecteur, non le cri de naissance. Le premier cri reste hors zone.
+- Vérification : aucune correction. Les doutes de la passe 1 (graphies Marty-Laveaux, oreille gauche, alphabet à rebours, Paris, fin de la guerre) restent hors zone ; à trancher, dans la mesure où le corpus n'en donne pas les pages.
 
 ### Anciens textes
 
@@ -188,14 +218,14 @@ Je suis né quand la terre mourait de soif, et ma mère n'a pas survécu à ma n
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La mère du héros se nomme Badebec | `Badebec` | à vérifier | |
-| Sa mère meurt en le mettant au monde | `Badebec`, `mourut`, `morte` | à vérifier | |
-| Le compagnon se nomme Panurge | `Panurge` | à vérifier | |
-| Les envahisseurs sont les Dipsodes | `Dipsodes` | à vérifier | |
-| Le pays envahi est l'Utopie | `Utopie`, `Amaurotes` | à vérifier | |
-| Le roi vaincu se nomme Anarche | `Anarche` | à vérifier | |
-| Le roi vaincu finit crieur de sauce verte | `saulce vert`, `sauce verte`, `crieur` | à vérifier | |
-| Le narrateur explore l'intérieur de la bouche du héros | `bouche`, `gorge`, `dentz` | à vérifier | |
+| La mère du héros se nomme Badebec | `Badebec` | hors zone | absent des pages enregistrées |
+| Sa mère meurt en le mettant au monde | `Badebec`, `mourut`, `morte` | hors zone | absent des pages enregistrées |
+| Le compagnon se nomme Panurge | `Panurge` | confirmé | p00004 |
+| Les envahisseurs sont les Dipsodes | `Dipsodes` | hors zone | absent des pages enregistrées |
+| Le pays envahi est l'Utopie | `Utopie`, `Amaurotes` | hors zone | absent des pages enregistrées |
+| Le roi vaincu se nomme Anarche | `Anarche` | hors zone | absent des pages enregistrées |
+| Le roi vaincu finit crieur de sauce verte | `sauce verte`, `crieur` | hors zone | absent des pages enregistrées |
+| Le narrateur explore l'intérieur de la bouche du héros | `bouche`, `gorge` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -209,6 +239,11 @@ Je suis né quand la terre mourait de soif, et ma mère n'a pas survécu à ma n
 - Doute : la fin d'Anarche. Je crois qu'il est marié à une vieille et fait crieur de sauce verte ; j'écris « crier » dans `summary` et « vendre » dans `personalSummary`. Le géant Loup-Garou : graphie incertaine (« Loupgarou »), pas relevé faute de place parmi les faits.
 - Doute : l'épisode de la bouche se place, je crois, pendant la campagne contre les Dipsodes, quand le héros abrite son armée sous sa langue ; « pendant la campagne » est donc incertain.
 - Tus : la résurrection d'Épistémon et sa vision des enfers, l'écolier limousin, le débat par signes avec Thaumaste, la dame de Paris.
+
+- Vérification : Panurge est nommé dans la conclusion (p00004), « comment Panurge fut marié » : le nom est attesté, la place de compagnon du héros l'est par la suite annoncée.
+- À trancher : « Les envahisseurs sont les Dipsodes ». Le titre donne « Pantagruel, Roy des Dipsodes » (p00007) : les Dipsodes sont donc le peuple du héros. Les pages ne décrivent pas la guerre contre l'Utopie ; l'attribution du rôle d'envahisseur demande une lecture du livre entier.
+- Vérification : le narrateur est nommé « M. Alcofribas » comme auteur des chroniques (p00007). Le résumé ne le nomme pas : rien à corriger.
+- Vérification : Gargantua n'est attesté que comme « enorme geant » des chroniques précédentes (p00002), non comme père ; la filiation du résumé reste hors zone, sans contradiction.
 
 ### Anciens textes
 
@@ -231,14 +266,16 @@ On m'avait élevé loin de la cour, et c'est en arrachant une épée à la pierr
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le père du roi se nomme Uther Pendragon | `Uther`, `Pendragon` | à vérifier | |
-| La mère du roi se nomme Igraine | `Igraine`, `Ygraine` | à vérifier | |
-| La reine se nomme Guenièvre | `Guenever`, `Guinevere`, `Gwenyvere` | à vérifier | |
-| Mordred usurpe le trône | `Mordred`, `Modred` | à vérifier | |
-| L'épée rendue au lac se nomme Excalibur | `Excalibur`, `Excalibar` | à vérifier | |
-| Le roi blessé est emporté vers Avalon | `Avilion`, `Avalon` | à vérifier | |
-| Guenièvre se fait nonne | `nun`, `Almesbury`, `Amesbury` | à vérifier | |
-| Lancelot meurt en ermite | `Launcelot`, `hermit` | à vérifier | |
+| Uther Pendragon règne sur toute l'Angleterre | `Uther`, `Pendragon` | confirmé | p00004 |
+| Uther Pendragon est le père du roi | `Pendragon`, `père` | hors zone | absent des pages enregistrées |
+| La mère du roi se nomme Igraine | `Igraine`, `Ygraine` | hors zone | absent des pages enregistrées |
+| La reine se nomme Guenièvre | `Guenever`, `Guinevere`, `Gwenyvere` | hors zone | absent des pages enregistrées |
+| Mordred usurpe le trône | `Mordred`, `Modred` | hors zone | absent des pages enregistrées |
+| L'épée rendue au lac se nomme Excalibur | `Excalibur`, `Excalibar` | hors zone | absent des pages enregistrées |
+| Le roi blessé est emporté vers Avalon | `Avilion`, `Avalon` | hors zone | absent des pages enregistrées |
+| Guenièvre se fait nonne | `nun`, `Almesbury`, `Amesbury` | hors zone | absent des pages enregistrées |
+| Lancelot meurt à Joyous Gard | `Launcelot`, `dead` | confirmé | p00007 |
+| Lancelot meurt en ermite | `hermit` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -252,6 +289,11 @@ On m'avait élevé loin de la cour, et c'est en arrachant une épée à la pierr
 - Doute : Guenièvre nonne à Amesbury et Lancelot ermite, mort après elle ; l'ordre de leurs morts est tu.
 - Simplification : Gareth, la mort de Merlin, Tristan et Iseut, la guerre contre Rome tus.
 
+- Vérification : Uther est roi d'Angleterre (p00004). Igraine est l'épouse du duc de Tintagil, que le roi veut posséder (p00004) : son nom est attesté, la filiation avec le roi ne l'est pas.
+- Vérification : le corpus donne le chapitre 1 du livre I et le chapitre 13 du livre XXI. Guenièvre, Mordred, Excalibur, Avalon et la nonnerie sont dans des chapitres absents : hors zone, rien de contredit. « pavilions » (p00004) n'est pas Avalon.
+- Vérification : la mort de Lancelot à Joyous Gard est attestée (p00007), « Sir Launcelot ... dead ». Les pages ne lui attribuent pas d'ermitage : l'ermitage cité (p00007) concerne l'évêque et Bedivere, qui « was there ever still hermit ». « Meurt en ermite » est à trancher à l'intégration ; aucune correction (pas de contradiction).
+- À trancher : « la Table ronde » reste évitée dans le résumé (règle 5) ; les pages ne la montrent pas. Décision à l'intégration.
+
 ### Anciens textes
 
 - summary : Le jeune roi de Logres, fils caché d’Uther Pendragon, se révèle en tirant une épée d’une pierre, puis affermit son règne avec l’aide de l’enchanteur Merlin. Il épouse Guenièvre et réunit autour de la Table ronde les meilleurs chevaliers : Lancelot du Lac, Gauvain, Tristan, Gareth, Perceval. Leurs aventures culminent dans la quête du Graal, que seuls Galaad, Perceval et Bohort achèvent. L’amour de Lancelot et de Guenièvre, révélé au grand jour, divise la Table ronde ; Mordred profite de la guerre qui s’ensuit pour usurper le trône. Lors de la dernière bataille, le roi tue Mordred mais, mortellement blessé, fait jeter Excalibur dans un lac et part vers l’île d’Avalon.
@@ -263,7 +305,7 @@ Corpus : une seule page sur fr.wikisource.org (langue : fr) : « Les Souffrances
 
 ### summary
 
-Au printemps, un jeune homme sensible s'installe dans une petite ville et confie à son ami Wilhelm, par lettres, son bonheur devant la nature. En allant à un bal champêtre, il rencontre Charlotte, qui élève ses frères et sœurs depuis la mort de sa mère, et s'éprend d'elle, bien qu'elle soit promise à Albert, homme droit et raisonnable. Pour la fuir, il entre au service d'un ambassadeur, mais l'affront que lui font des aristocrates le ramène auprès d'elle, désormais mariée. Un soir, après lui avoir lu Ossian, il l'embrasse, et elle s'enferme loin de lui. Il envoie son domestique emprunter les pistolets d'Albert ; Charlotte les lui remet elle-même, et il se tue.
+Au printemps, un jeune homme sensible s'installe dans un petit village et confie à son ami Wilhelm, par lettres, son bonheur devant la nature. En allant à un bal champêtre, il rencontre Charlotte, qui élève ses frères et sœurs depuis la mort de sa mère, et s'éprend d'elle, bien qu'elle soit promise à Albert, homme droit et raisonnable. Pour la fuir, il entre au service d'un ambassadeur, mais l'affront que lui font des aristocrates le ramène auprès d'elle, désormais mariée. Un soir, après lui avoir lu Ossian, il l'embrasse, et elle s'enferme loin de lui. Il envoie son domestique emprunter les pistolets d'Albert ; Charlotte les lui remet elle-même, et il se tue.
 
 ### personalSummary
 
@@ -273,14 +315,15 @@ Cher ami, je n'avais jamais senti la nature avec tant de force qu'en arrivant ic
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'ami destinataire des lettres se nomme Wilhelm | `Wilhelm`, `Guillaume` | à vérifier | |
-| La jeune femme se nomme Charlotte | `Charlotte`, `Lotte` | à vérifier | |
-| Le fiancé de Charlotte se nomme Albert | `Albert` | à vérifier | |
-| Il rencontre Charlotte en se rendant à un bal | `bal` | à vérifier | |
-| Il entre au service d'un ambassadeur | `ambassadeur`, `envoyé`, `ministre` | à vérifier | |
-| Il lit Ossian à Charlotte lors de leur dernière entrevue | `Ossian` | à vérifier | |
-| Charlotte remet elle-même les pistolets au domestique | `pistolets`, `domestique` | à vérifier | |
-| Il écrit que l'un des trois doit disparaître | `l'un de nous trois`, `trois` | à vérifier | |
+| Le héros s'installe dans un village, à une lieue de la ville | `village`, `Wahlheim` | corrigé | p00034 |
+| L'ami destinataire des lettres se nomme Wilhelm | `Wilhelm` | confirmé | p00029 |
+| La jeune femme se nomme Charlotte | `Charlotte` | confirmé | p00058, p00060 |
+| Le fiancé de Charlotte se nomme Albert | `Albert` | confirmé | p00134 |
+| Il rencontre Charlotte en se rendant à un bal | `bal` | confirmé | p00260 |
+| Il entre au service d'un ambassadeur | `ambassadeur`, `ambassade` | confirmé | p00124, p00191 |
+| Il lit Ossian à Charlotte lors de leur dernière entrevue | `Ossian` | confirmé | p00413, p00414, p00457 |
+| Charlotte remet elle-même les pistolets au domestique | `pistolets`, `domestique` | confirmé | p00479, p00480 |
+| Il écrit que l'un des trois doit disparaître | `l'un de nous trois`, `trois` | confirmé | p00391 |
 
 ### Notes
 
@@ -294,6 +337,13 @@ Cher ami, je n'avais jamais senti la nature avec tant de force qu'en arrivant ic
 - Doute : la dernière lettre et sa formule (« l'un de nous trois doit disparaître, et ce sera moi »), que je crois proche du texte ; c'est un fait à vérifier.
 - Règle 6 : « les pistolets d'Albert, que Charlotte remet » laissait « que » se rapporter à Albert ; reformulé.
 - Tus : l'éditeur des dernières pages, le fou qui cueille des fleurs en hiver, le valet meurtrier, Emilia Galotti sur la table, l'enterrement sans prêtre.
+
+- Vérification : correction. Ancienne formulation : « s'installe dans une petite ville » ; nouvelle : « s'installe dans un petit village » (résumé, même longueur). Paragraphe p00034 : « A une lieue de la ville est un village du nom de Wahlheim ».
+- Vérification : graphie « Charlotte » confirmée : la traduction Porchat ne garde pas « Lotte ». Rencontre : Werther va la prendre « afin de la mener au bal » (p00260) : « en se rendant à un bal » tient.
+- Vérification : l'ambassade (p00124, p00191) et l'affront des nobles, avec le comte (p00224-p00225) : non détaillé au tableau, rien de contredit.
+- Vérification : la lecture d'Ossian a lieu le soir de la dernière entrevue (p00413-p00416). Charlotte dit « vous ne me verrez plus » (p00457) et se réfugie dans la pièce voisine, qu'elle ferme (p00458) : « s'enferme loin de lui » tient. La fiche disait qu'elle parlait de ne plus le revoir : c'est elle qui le dit.
+- Vérification : Albert ordonne de donner les pistolets au domestique (p00479) ; Charlotte les prend « d'une main tremblante » et les donne (p00480). « Emprunter » tient : le domestique vient avec un billet (p00478).
+- Vérification : la formule est « Il faut que l'un de nous trois s'en aille, et ... ce sera moi » (p00391) : « doit disparaître » en est la paraphrase, qui tient. Le texte entier est au corpus : les faits sont tous vérifiés.
 
 ### Anciens textes
 
@@ -316,14 +366,15 @@ J'ai étudié la philosophie, le droit, la médecine et la théologie, et je n'e
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier monologue énumère philosophie, droit, médecine et théologie | `philosophie`, `théologie`, `médecine` | à vérifier | |
-| Les cloches de Pâques l'empêchent de boire le poison | `Pâques`, `cloches`, `poison` | à vérifier | |
-| Méphistophélès parie avec le Seigneur de perdre le docteur | `Seigneur`, `pari`, `gageure` | à vérifier | |
-| Le pacte est signé de sang | `sang`, `signe` | à vérifier | |
-| Le frère de Marguerite se nomme Valentin | `Valentin` | à vérifier | |
-| La mère de Marguerite meurt d'un breuvage censé l'endormir | `mère`, `breuvage`, `fiole`, `sommeil` | à vérifier | |
-| Marguerite a noyé son enfant | `noyé`, `enfant`, `étang` | à vérifier | |
-| Une voix d'en haut déclare Marguerite sauvée | `sauvée` | à vérifier | |
+| Le premier monologue énumère philosophie, droit, médecine et théologie | `philosophie`, `théologie`, `médecine`, `jurisprudence` | confirmé | p00031 |
+| Les cloches de Pâques l'empêchent de boire le poison | `Pâques`, `cloches`, `coupe` | confirmé | p00103 |
+| Méphistophélès parie avec le Seigneur de perdre le docteur | `Seigneur`, `pari`, `gageure` | hors zone | absent des pages enregistrées |
+| Le pacte est signé de sang | `sang`, `signe` | confirmé | p00393 |
+| Le frère de Marguerite se nomme Valentin | `Valentin` | hors zone | absent des pages enregistrées |
+| La mère de Marguerite meurt, et Marguerite s'en accuse | `mère`, `ma mère` | confirmé | p01014 |
+| La mère de Marguerite est endormie par un breuvage | `breuvage`, `fiole`, `sommeil` | hors zone | absent des pages enregistrées |
+| Marguerite a noyé son enfant | `noyé`, `enfant`, `étang` | confirmé | p01014, p01034 |
+| Une voix d'en haut déclare Marguerite sauvée | `sauvée` | confirmé | p01064 |
 
 ### Notes
 
@@ -337,6 +388,14 @@ J'ai étudié la philosophie, le droit, la médecine et la théologie, et je n'e
 - Doute : la fin. De mémoire, Méphistophélès dit « Elle est jugée ! », une voix d'en haut « Elle est sauvée ! », il emmène le docteur, et une voix appelle son prénom. « s'en remet à Dieu, qui la sauve » condense.
 - Tus : Wagner, le barbet, la taverne d'Auerbach, Marthe, la nuit de Walpurgis, l'Esprit de la Terre.
 - Premier jet relu avant lint : « mon amour a tué… son enfant » corrigé (c'est elle qui noie l'enfant).
+
+- Vérification : « philosophie, jurisprudence, médecine, théologie » (p00031) : le droit est dit « jurisprudence », sens identique.
+- Vérification : la coupe est aux lèvres et les cloches de Pâques retentissent (p00103) ; le mot « poison » n'est pas écrit, « coupe » l'est. Le fait tient.
+- Vérification : le pari de Faust est attesté (« Je t'offre le pari ! », p00379). Celui de Méphistophélès avec le Seigneur est au prologue céleste, absent du corpus : hors zone.
+- Vérification : la goutte de sang du pacte (p00393) confirme le fait. La clause « arrête-toi » n'est pas relevée.
+- Vérification : Marguerite dit « J'ai tué ma mère ! Mon enfant, je l'ai noyé ! » (p01014), et l'étang est le lieu du noyage (p01034) : le fait tient. Le breuvage endormant n'est pas écrit (les « breuvages » des pages sont le philtre de jeunesse, p00769, p00896) : hors zone.
+- Vérification : « Henri ! Henri ! » est crié à la dernière ligne (p01069). Le résumé n'emploie pas ce prénom : rien à corriger.
+- Vérification : les scènes de la prison (p01014-p01069) sont sous l'intertitre « TROISIÈME PARTIE » (p00915), découpage de la traduction Nerval ; le corpus contient donc la Première partie et la fin de l'histoire de Marguerite.
 
 ### Anciens textes
 
@@ -359,14 +418,14 @@ Nous avons chassé Jones et cru que la ferme serait enfin à nous, que tous les 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le fermier chassé se nomme Jones | `Jones` | à vérifier | |
-| Jones est un ivrogne | `drunk`, `ivre` | à vérifier | |
-| Le vieux verrat se nomme Sage l'Ancien | `Major`, `Sage l'Ancien` | à vérifier | |
-| Le cochon qui prend le pouvoir se nomme Napoléon | `Napoleon`, `Napoléon` | à vérifier | |
-| Le dernier commandement devient « certains sont plus égaux que d'autres » | `more equal`, `plus égaux` | à vérifier | |
-| Les cochons marchent sur deux pattes | `hind legs`, `two legs`, `deux pattes` | à vérifier | |
-| Les cochons festoient avec des fermiers voisins | `Pilkington`, `farmers`, `fermiers` | à vérifier | |
-| Les bêtes, à la fenêtre, ne distinguent plus les cochons des hommes | `pig to man`, `which was which`, `window` | à vérifier | |
+| Le fermier chassé se nomme Jones | `Jones` | confirmé | p00001 |
+| Jones est un ivrogne | `drunk`, `ivre` | confirmé | p00001 |
+| Le vieux verrat se nomme Sage l'Ancien | `Major`, `Sage l'Ancien` | hors zone | absent des pages enregistrées |
+| Le cochon qui prend le pouvoir se nomme Napoléon | `Napoleon`, `Napoléon` | confirmé | p00003 |
+| Le dernier commandement devient « certains sont plus égaux que d'autres » | `more equal`, `plus égaux` | hors zone | absent des pages enregistrées |
+| Les cochons marchent sur deux pattes | `hind legs`, `two legs`, `deux pattes` | hors zone | absent des pages enregistrées |
+| Les cochons festoient avec des fermiers voisins | `Pilkington`, `farmers`, `fermiers` | confirmé | p00003 |
+| Les bêtes, à la fenêtre, ne distinguent plus les cochons des hommes | `which was which`, `window` | confirmé | p00003, p00004 |
 
 ### Notes
 
@@ -377,6 +436,11 @@ Nous avons chassé Jones et cru que la ferme serait enfin à nous, que tous les 
 - Doute : la fin. De mémoire, les cochons reçoivent des fermiers voisins (Pilkington), jouent aux cartes, une querelle éclate, et les animaux, regardant par la fenêtre, passent du cochon à l'homme sans pouvoir les distinguer. J'écris « festoient » et « fermiers voisins » sans nom.
 - Doute : la vente de Malabar à l'équarrisseur, sûre pour moi ; la voiture marquée au nom de l'équarrisseur, assez sûre. Hors zone probablement.
 - Tus : l'hymne des bêtes, la bataille de l'étable, la destruction du moulin, Benjamin, Douce, Edmée, Moïse le corbeau.
+
+- Vérification : Jones est « too drunk to remember » et sirote sa dernière bière (p00001) : l'ivrognerie tient.
+- Vérification : « Major » n'est pas dans les pages : Sage l'Ancien n'est pas attesté. Le corpus est en anglais : la graphie française usuelle ne se vérifie pas. À trancher (retour sur la consigne, passe 1).
+- Vérification : Napoleon et Mr. Pilkington jouent ensemble à la fin (p00003) : Napoléon et le fermier voisin sont attablés ; le mot « festin » n'est pas écrit, la scène de table l'est.
+- Vérification : la fenêtre et « impossible de dire qui est qui » entre cochons et hommes (p00003-p00004) tiennent. Les pattes et le commandement final restent hors zone (absents des pages).
 
 ### Anciens textes
 
@@ -399,14 +463,15 @@ Florence mourait de la peste, chacun abandonnait les siens, et nous, sept jeunes
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'auteur dédie son livre aux dames amoureuses | `donne`, `innamorate` | à vérifier | |
-| La compagnie compte sept dames et trois jeunes gens | `sette donne`, `tre giovani` | à vérifier | |
-| Les récits sont dits en dix journées | `dieci giorni`, `giornate` | à vérifier | |
-| Le recueil compte cent nouvelles | `cento novelle`, `novelle` | à vérifier | |
-| La peste frappe Florence en 1348 | `pestilenza`, `1348`, `milletrecentoquarantotto` | à vérifier | |
-| La compagnie se rencontre à Santa Maria Novella | `Santa Maria Novella` | à vérifier | |
-| La dernière nouvelle est celle de Griselda | `Griselda` | à vérifier | |
-| L'auteur répond aux reproches de licence faits à ses contes | `licenzia`, `onestà`, `disonesta` | à vérifier | |
+| L'auteur dédie son livre aux dames amoureuses | `donne`, `innamorate`, `quelle che amano` | confirmé | p00004 |
+| La compagnie compte sept dames et trois jeunes gens | `sette donne`, `tre giovani` | confirmé | p00003, p00004 |
+| Les récits sont dits en dix journées | `diece giorni`, `giornata` | confirmé | p00002, p00004, p00007 |
+| Le recueil compte cent nouvelles | `cento novelle` | confirmé | p00002, p00004 |
+| La peste frappe alors (« mortalità ») | `pistilenzioso`, `mortalitá` | confirmé | p00004 |
+| La peste frappe Florence en 1348 | `Fiorenza`, `1348` | hors zone | absent des pages enregistrées |
+| La compagnie se rencontre à Santa Maria Novella | `Santa Maria Novella` | hors zone | absent des pages enregistrées |
+| La dernière nouvelle est celle de Griselda | `Griselda`, `Dioneo` | hors zone | absent des pages enregistrées |
+| L'auteur répond aux reproches de licence faits à ses contes | `licenza`, `oneste`, `disonesta` | confirmé | p00006 |
 
 ### Notes
 
@@ -420,6 +485,12 @@ Florence mourait de la peste, chacun abandonnait les siens, et nous, sept jeunes
 - Doute : le contenu de la conclusion de l'auteur (réponse aux reproches de licence, de longueur, de légèreté) ; je suis assez sûr de la défense de la liberté des contes, moins des termes italiens.
 - Doute : que Dioneo conte la dernière nouvelle (Griselda) ; j'en suis assez sûr (il conte toujours le dernier, libre du thème), mais le fait relevé ne porte que sur Griselda, la limite de huit étant atteinte.
 - Tus : les autres conteurs (Fiammetta, Filostrato, Panfilo…), Andreuccio, Federigo et son faucon, Lisabetta et le pot de basilic.
+
+- Vérification : la dédicace est « a quelle che amano » (p00004), aux femmes qui aiment : « dames amoureuses » tient (graphie différente).
+- Vérification : la peste est dite « pistilenzioso tempo della passata mortalità » (p00004). Florence, 1348 et Santa Maria Novella ne sont pas dans les pages : hors zone.
+- À trancher : « deux semaines » (personalSummary). Le texte ne donne que les dix journées de récits (p00002, p00007) ; la durée totale de la retraite n'est pas attestée.
+- Vérification : Dioneo et Griselda ne sont pas dans les pages (dernière nouvelle hors zone). Le doute sur Dioneo reste ouvert, sans correction.
+- Vérification : la conclusion défend la liberté des contes (p00006) : « licenza », « oneste », « disonesta » sont dits. Le résumé tient.
 
 ### Anciens textes
 
