@@ -45,4 +45,54 @@ Rédaction de mémoire, une œuvre après l'autre, dans l'ordre du lot. Après c
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+81 faits relevés (8 à 9 par œuvre) : 63 confirmés, 16 hors zone, 2 corrigés. Le détail par œuvre suit.
+
+| Œuvre | Confirmés | Hors zone | Corrigés | Appui |
+|---|---:|---:|---:|---|
+| `la-decheance-dun-homme` | 0 | 8 | 0 | aucun texte au corpus (`blocked.json`) |
+| `yvain-ou-le-chevalier-au-lion` | 7 | 1 | 0 | texte entier, ancien français en vers |
+| `lettres-persanes` | 7 | 2 | 0 | lettres 1 et 161 ; 9 faits (un ajouté) |
+| `manon-lescaut` | 8 | 0 | 0 | deux parties choisies |
+| `confessions-rousseau` | 6 | 2 | 0 | livres I et XII |
+| `mariage-de-figaro` | 7 | 0 | 1 | texte entier |
+| `lorenzaccio` | 7 | 0 | 1 | cinq actes |
+| `fleurs-du-mal` | 8 | 0 | 0 | texte entier |
+| `une-saison-en-enfer` | 5 | 3 | 0 | prologue et « Adieu » |
+| `monsieur-de-pourceaugnac` | 8 | 0 | 0 | une édition (texte entier) |
+
+### Corrections
+
+- `mariage-de-figaro`, `personalSummary` : « j'ai maudit les grands, qui se sont donné la peine de naître, et rien de plus » devient « j'ai maudit mon maître, qui s'est donné la peine de naître, et rien de plus ». Paragraphe p02307 : le monologue de Figaro (acte V) s'adresse au comte, « vous ». Fait n°7 : « Le valet dit des grands… » devient « Le valet dit du comte… ».
+- `lorenzaccio`, `summary` et fait n°1 : « la Florence de 1537 » devient « la Florence de 1536 ». Paragraphe p01554 : « tué l'an 1536, qui est bien l'année où nous sommes » ; « 1537 » est absent des cinq actes.
+
+### Points à trancher
+
+- `la-decheance-dun-homme` : aucun texte n'est disponible (`blocked.json` : texte japonais absent de ja.wikisource, aucune traduction française libre). Les huit faits reposent sur la mémoire. Il faut décider : garder ce résumé non vérifié, ou le reporter jusqu'à un texte. Pour la famille « du Nord », la fiche dit seulement « provinciale » : la rédaction proposait « riche famille de province ».
+- `yvain-ou-le-chevalier-au-lion` : Laudine est absente du texte complet (début p00001, fin p00113, 0 occurrence sous aucune graphie), alors que le résumé la nomme. « Blesse à mort le gardien » : le texte dit qu'Yvain l'a tué (« celi qui songneur ocist », p00031) ; la formule est compatible mais non textuelle.
+- `lettres-persanes` : « menacé à la cour d'Ispahan » et « ma franchise m'avait fait des ennemis » ne sont pas dans la lettre 1, entière au corpus, qui donne pour motif « l'envie de savoir » (p00005). « Jeune ami » n'est pas attesté ; « vertueuse » et « magicien » sont absents des pages.
+- `lorenzaccio` : le texte donne 1536 ; l'histoire retient souvent 1537. La correction suit le texte ; la relecture peut préférer 1537, qui n'est pas dans le texte.
+- `fleurs-du-mal` : « Vénus noire » est absent du texte complet (0 occurrence) ; le résumé le garde (« de la Vénus noire à la madone »).
+- `monsieur-de-pourceaugnac` : « croyant qu'Éraste a sauvé sa fille » : le texte dit « votre procédé me touche l'âme » (p00857), et le mot « sauvé » n'y est pas ; la destination de la fuite n'est pas dite.
+
+### Contrôles et incidents
+
+- `summary lint vague4-4 --checked` : 0 erreur, 0 avertissement.
+- `summary apply vague4-4 --output` (catalogue simulé, 10 fiches), puis `dart run tool/list_name_leaks.dart` : « Aucune fuite de titre ou d'auteur ». Dart est présent ; il a affiché un avertissement Flutter sur l'exécution en root, sans incidence sur le résultat.
+- Incident : au premier remplissage du tableau de `lettres-persanes`, une huitième ligne (« Troglodytes ») m'avait échappé ; le script a refusé d'écrire, rien n'a été altéré, la ligne est renseignée.
+- Le fait ajouté en passe 2 porte `lettres-persanes` à 9 faits : `summary lint` sans `--checked` le signale (plafond de 8 à la rédaction). Le contrôle `--checked` est propre.
+- Le dépôt `mystitre` est en HEAD détaché, et non sur la branche indiquée dans la consigne ; je n'y ai rien modifié ni poussé.
+
+### Difficultés au fil du lot
+
+Je ne sens pas de baisse franche vers la fin du lot, mais le contexte s'est alourdi, et j'ai lu moins de paragraphes entiers pour les dernières œuvres. C'est le cas surtout de `monsieur-de-pourceaugnac`, vérifié surtout par recherche de termes et quelques passages ciblés ; une relecture de ce livre serait utile. L'erreur de la huitième ligne de `lettres-persanes` vient de cette même économie de lecture.
+
+### Retours sur la consigne
+
+- Œuvre sans aucun texte (`blocked.json`) : la consigne ne prévoit pas ce cas. J'ai mis « hors zone » avec l'appui « aucun texte au corpus ».
+- Fait qui affirme deux choses : pour `lettres-persanes`, j'ai ajouté une ligne (« menacé ») ; pour `lorenzaccio`, j'ai corrigé la ligne entière (lieu et année). Préciser laquelle des deux pratiques vaut.
+- Plafond de huit faits : le contrôle à la rédaction le bloque encore après une ajout en passe 2. La règle 5 le permet ; le plafond pourrait ne valoir qu'à la rédaction.
+- Vers et ancien français (`yvain-ou-le-chevalier-au-lion`) : la consigne ne dit rien. J'ai cherché par graphies (« Laudine », « Brocheliande », « Arpin »/« Harpin »), ce qui a été nécessaire.
+- « absent du texte complet — à trancher » : appliqué à Laudine et à « Vénus noire », dans un texte entier. Cela me paraît correct.
+

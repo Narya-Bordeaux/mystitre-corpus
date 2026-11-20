@@ -1,6 +1,6 @@
 # Résumés — vague4-4
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `la-decheance-dun-homme`, `yvain-ou-le-chevalier-au-lion`, `lettres-persanes`, `manon-lescaut`, `confessions-rousseau`, `mariage-de-figaro`, `lorenzaccio`, `fleurs-du-mal`, `une-saison-en-enfer`, `monsieur-de-pourceaugnac`
 - Créée le : 2026-11-20
 
@@ -22,24 +22,29 @@ Depuis l'enfance, les hommes me terrifient : je ne les comprends pas, alors je l
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le héros se nomme Ōba Yōzō | `Yōzō`, `Yozo`, `Ōba`, `葉蔵`, `大庭` | à vérifier | |
-| Horiki l'entraîne vers l'alcool et les prostituées | `Horiki`, `堀木` | à vérifier | |
-| Tsuneko meurt dans la mer et Yōzō survit | `Tsuneko`, `ツネ子`, `Kamakura`, `鎌倉` | à vérifier | |
-| Yōzō vit un temps chez Shizuko et sa fille Shigeko | `Shizuko`, `Shigeko`, `シヅ子`, `シゲ子` | à vérifier | |
-| Yoshiko est violée par un petit commerçant | `Yoshiko`, `ヨシ子`, `commerçant`, `商人` | à vérifier | |
-| Yōzō est interné dans un hôpital psychiatrique | `hôpital`, `asile`, `脳病院` | à vérifier | |
-| À la fin il dit n'avoir plus ni bonheur ni malheur | `bonheur`, `malheur`, `幸福`, `不幸` | à vérifier | |
-| Le narrateur du prologue regarde trois photographies | `photographies`, `写真` | à vérifier | |
+| Le héros se nomme Ōba Yōzō | `Yōzō`, `Yozo`, `Ōba`, `葉蔵`, `大庭` | hors zone | aucun texte au corpus (blocked.json) |
+| Horiki l'entraîne vers l'alcool et les prostituées | `Horiki`, `堀木` | hors zone | aucun texte au corpus (blocked.json) |
+| Tsuneko meurt dans la mer et Yōzō survit | `Tsuneko`, `ツネ子`, `Kamakura`, `鎌倉` | hors zone | aucun texte au corpus (blocked.json) |
+| Yōzō vit un temps chez Shizuko et sa fille Shigeko | `Shizuko`, `Shigeko`, `シヅ子`, `シゲ子` | hors zone | aucun texte au corpus (blocked.json) |
+| Yoshiko est violée par un petit commerçant | `Yoshiko`, `ヨシ子`, `commerçant`, `商人` | hors zone | aucun texte au corpus (blocked.json) |
+| Yōzō est interné dans un hôpital psychiatrique | `hôpital`, `asile`, `脳病院` | hors zone | aucun texte au corpus (blocked.json) |
+| À la fin il dit n'avoir plus ni bonheur ni malheur | `bonheur`, `malheur`, `幸福`, `不幸` | hors zone | aucun texte au corpus (blocked.json) |
+| Le narrateur du prologue regarde trois photographies | `photographies`, `写真` | hors zone | aucun texte au corpus (blocked.json) |
 
 ### Notes
 
 - Corpus : aucun texte. Tous les faits resteront hors zone ; je les choisis pour signaler mes points les moins sûrs. Termes en français et en japonais (original), graphie japonaise de mémoire, incertaine (`シヅ子` ou `静子`, `ヨシ子` ou `良子`).
 - `personalSummary` : Yōzō, qui écrit les cahiers à la première personne.
 - Doute : je ne suis pas sûr que la famille soit « du Nord » (je me souviens du Tōhoku, comme l'auteur, mais la fiche dit seulement « provinciale »). Si la relecture en doute, « riche famille de province » suffit.
+  - Vérification : hors zone : aucun texte au corpus. Point à trancher à la relecture : la fiche ne dit que « provinciale », le résumé garde « du Nord » sur un souvenir incertain.
 - Doute : la tentative de suicide avec Tsuneko a lieu au bord de la mer, je crois à Kamakura ; je n'écris pas le lieu.
+  - Vérification : hors zone : aucun texte au corpus. Aucun lieu écrit dans le résumé, rien à corriger.
 - Doute : je crois me souvenir que Tsuneko est serveuse dans un café de Ginza et mariée à un homme en prison ; je n'en garde que « une serveuse ». La fiche dit « une jeune femme mariée », ce qui concorde.
+  - Vérification : hors zone : aucun texte au corpus. Le résumé ne retient que « une serveuse » ; sans appui, rien à corriger.
 - Doute : le viol de Yoshiko. Je me souviens d'un petit commerçant qui apportait des commandes de dessins, et de Horiki qui découvre la scène depuis l'escalier du toit, avant que Yōzō ne la voie lui-même. « Presque sous ses yeux » couvre cette incertitude ; l'ancien résumé dit « agressée ».
+  - Vérification : hors zone : aucun texte au corpus. « presque sous ses yeux » reste une formulation de précaution, à trancher à la relecture.
 - Doute : « relégué à la campagne » : je me souviens qu'après l'internement son frère aîné l'installe dans une maison isolée, servi par une vieille femme, Tetsu ; je ne la nomme pas.
+  - Vérification : hors zone : aucun texte au corpus. La maison isolée et la servante ne sont pas nommées dans le résumé ; rien à corriger.
 - Je tais Takeichi (le camarade qui perce son jeu), le Flet (Hirame, son tuteur), la tenancière du bar de Kyōbashi et l'épilogue où elle dit qu'il était « un ange », faute de place.
 - « humain », « homme » : mots courants des titres acceptés ; j'évite toute tournure qui reconstitue « indigne d'être humain » ou « déchéance humaine ».
 
@@ -64,24 +69,32 @@ Pour venger la honte de mon cousin, j'ai vaincu le gardien d'une fontaine enchan
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Calogrenant raconte sa défaite à la fontaine | `Calogrenant`, `Calogrenanz`, `Kalogrenant` | à vérifier | |
-| La fontaine se trouve en Brocéliande | `Brocéliande`, `Brocelïande`, `Broceliande`, `Brecheliant` | à vérifier | |
-| Le gardien de la fontaine se nomme Esclados le Roux | `Esclados` | à vérifier | |
-| La veuve se nomme Laudine | `Laudine`, `Laudune` | à vérifier | |
-| La suivante se nomme Lunete | `Lunete`, `Lunette`, `Lunet` | à vérifier | |
-| Le délai fixé par sa femme est d'un an | `an`, `anz`, `octave`, `Saint Jehan`, `Saint-Jean` | à vérifier | |
-| Le héros tue un géant | `Harpin`, `géant`, `jaiant`, `gaiant` | à vérifier | |
-| Le héros affronte Gauvain sans le reconnaître | `Gauvain`, `Gauvains`, `Gauvein`, `Gavain` | à vérifier | |
+| Calogrenant raconte sa défaite à la fontaine | `Calogrenant`, `Calogrenanz`, `Kalogrenant` | confirmé | p00002, p00008, p00012 |
+| La fontaine se trouve en Brocéliande | `Brocéliande`, `Brocelïande`, `Broceliande`, `Brecheliant` | confirmé | p00004 (graphie « Brocheliande ») |
+| Le gardien de la fontaine se nomme Esclados le Roux | `Esclados` | confirmé | p00031, p00034 |
+| La veuve se nomme Laudine | `Laudine`, `Laudune` | hors zone | absent du texte complet — à trancher |
+| La suivante se nomme Lunete | `Lunete`, `Lunette`, `Lunet` | confirmé | p00042 |
+| Le délai fixé par sa femme est d'un an | `an`, `anz`, `octave`, `Saint Jehan`, `Saint-Jean` | confirmé | p00044, p00047 |
+| Le héros tue un géant | `Harpin`, `géant`, `jaiant`, `gaiant` | confirmé | p00072, p00080 |
+| Le héros affronte Gauvain sans le reconnaître | `Gauvain`, `Gauvains`, `Gauvein`, `Gavain` | confirmé | p00101 |
 
 ### Notes
 
 - `personalSummary` : le chevalier lui-même, qui ne se nomme pas (son nom fait le titre). Dans `summary`, périphrase « son cousin, un jeune chevalier » ; je me souviens qu'Yvain et Calogrenant sont cousins germains. « Le lion » est un mot courant du titre, permis ; j'évite « chevalier au lion », qui reconstitue un titre accepté.
+  - Vérification : confirmé p00011 : « Vous estes mes cousins germains », dit Yvain à Calogrenant.
 - Langue : je ne sais pas si le corpus donne l'ancien français ou une traduction moderne ; d'où les variantes en ancien français dans les termes (`Gauvains`, `Calogrenanz`, `jaiant`).
+  - Vérification : confirmé : le texte est en ancien français, en vers (« Yvains », « Gauvains », « Calogrenans »), pas une traduction moderne. Les variantes anciennes des termes sont justifiées.
 - Doute : je me souviens que Laudine n'est nommée qu'une fois dans tout le texte (et pas dans tous les manuscrits), de même qu'Esclados le Roux. S'ils manquent au texte du corpus, l'ancien résumé et la tradition les donnent ; la passe 2 dira.
+  - Vérification : contredit par la recherche, sur le texte complet (début p00001, fin p00113) : Laudine n'apparaît sous aucune graphie (0 occurrence). Fait n°4 : hors zone, à trancher. Esclados est nommé une fois (p00034), ce qui est exact ; rien à corriger dans le résumé, qui nomme Laudine.
 - Doute : je crois qu'Yvain ne tue pas le gardien sur place mais le blesse à mort et le poursuit jusqu'à son château, où la herse coupe son cheval ; d'où « blesse à mort ».
+  - Vérification : non contredit, non textuel : le texte dit qu'il l'a tué (« celi qui songneur ocist », p00031 ; « la mort Esclados le Rous », p00034), sans parler de blessure ni de poursuite. La herse est absente. « blesse à mort » reste compatible : à trancher à la relecture, pas de correction.
 - Doute : le délai. Je me souviens d'« un an », jusqu'à l'octave de la Saint-Jean ; la fiche dit « avant un délai fixé ».
+  - Vérification : confirmé : « au bout de l'an » (p00047), « Jusques au jour de saint Jehan » (p00047), « VIII. jours aprés le Saint Jehan » (p00044) : les octaves y sont nommées. Rien à corriger.
 - Doute : la guérison. Je me souviens d'un ermite qui le nourrit, puis de la dame de Noroison et de ses servantes qui le guérissent avec un onguent de la fée Morgue. J'écris seulement « guéri ».
+  - Vérification : confirmé en partie : l'ermite (p00049), l'onguent (« boiste », p00052) et « garis » (p00052) sont attestés ; « Noroison » est nommée en p00056 comme lieu où il doit se rendre. La fée Morgue est absente. Le résumé ne retient que « guéri » : rien à corriger.
 - Doute : le géant (Harpin de la Montagne, je crois) menace la famille de Gauvain ; je ne l'écris pas. L'ordre géant, puis bûcher de Lunete, me paraît juste (il doit faire vite pour arriver à temps au bûcher), mais je n'en suis pas certain.
+  - Vérification : confirmé : le géant est tué (p00072, p00080), puis Lunete agenouillée se confesse avant le bûcher (p00074), « arse » (p00064, p00069).
+  - Vérification : contredit sur la prémisse : le géant se nomme « Arpin de la montagne » (p00066) et menace le seigneur du château (sa fille et ses six fils), non la famille de Gauvain. Le résumé ne parle pas de cette menace : rien à corriger.
 - Simplification : je tais le château de Pesme Aventure et ses tisserandes, et la querelle d'héritage des deux sœurs de la Noire Épine, qui motive le combat contre Gauvain. La fin : Yvain revient faire jaillir la tempête et Lunete fait jurer à Laudine d'aider le chevalier au lion à regagner l'amour de sa dame ; je résume par « par ruse ».
 
 ### Anciens textes
@@ -105,24 +118,31 @@ J'ai quitté Ispahan, où ma franchise m'avait fait des ennemis, pour connaître
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le voyageur principal se nomme Usbek | `Usbek` | à vérifier | |
-| Usbek part d'Ispahan | `Ispahan` | à vérifier | |
-| Son compagnon de voyage se nomme Rica | `Rica` | à vérifier | |
-| La dernière lettre est écrite par Roxane | `Roxane` | à vérifier | |
-| Roxane avoue avoir eu un amant | `amant`, `trompé`, `séduit` | à vérifier | |
-| Roxane dit avoir toujours été libre | `libre`, `servitude` | à vérifier | |
-| Roxane meurt du poison qu'elle a pris | `poison` | à vérifier | |
-| Usbek conte l'histoire des Troglodytes | `Troglodytes` | à vérifier | |
+| Le voyageur principal se nomme Usbek | `Usbek` | confirmé | p00002 |
+| Usbek part d'Ispahan | `Ispahan` | confirmé | p00003, p00004 |
+| Son compagnon de voyage se nomme Rica | `Rica` | confirmé | p00005 (nom ; « jeune » non attesté dans les pages) |
+| La dernière lettre est écrite par Roxane | `Roxane` | confirmé | p00010 (lettre 161, dernière du recueil par sa numérotation) |
+| Roxane avoue avoir eu un amant | `amant`, `trompé`, `séduit` | confirmé | p00012, p00013 (« le seul homme qui me retenait à la vie » ; le mot « amant » est absent) |
+| Roxane dit avoir toujours été libre | `libre`, `servitude` | confirmé | p00014 |
+| Roxane meurt du poison qu'elle a pris | `poison` | confirmé | p00013, p00018 |
+| Usbek est menacé à la cour d'Ispahan avant de partir | `menacé`, `ennemis`, `sincérité` | hors zone | lettre 1 entière au corpus : motif donné « l'envie de savoir » (p00005), aucun ennemi ni menace |
+| Usbek conte l'histoire des Troglodytes | `Troglodytes` | hors zone | absent des deux lettres au corpus (corpus partiel) |
 
 ### Notes
 
 - `personalSummary` : Usbek, le maître du sérail, qui écrit la majorité des lettres et que la fin vise. Rica aurait été plus léger, mais le dénouement le touche peu.
 - Règle 5 : « lettre », « persan » sont des mots courants du titre, permis ; j'évite seulement de les accoler (« lettres persanes »). J'écris « seigneur persan ».
 - Doute : la durée. Je me souviens d'un départ en 1711 et d'une dernière lettre datée de 1720, soit neuf ans ; j'écris « pendant des années », plus large.
+  - Vérification : confirmé : départ daté de Tauris, « le 15 de la lune de Saphar, 1711 » (p00008), et lettre 161 datée du sérail d'Ispahan, « 1720 » (p00019). Neuf ans : « pendant des années » convient.
 - Doute : je crois que la première lettre est datée de Com (Qom), en route, et adressée à Rustan à Ispahan ; je ne l'écris pas.
+  - Vérification : contredit : la lettre 1 est datée de Tauris (p00008), Com n'étant qu'une étape de la route (p00004). Elle est adressée à Rustan, « À Ispahan » (p00002-p00003). Rien à corriger dans le résumé, qui ne donne aucun lieu.
 - Doute : la raison du départ. Je me souviens qu'Usbek fuit les ennemis que sa sincérité lui a faits à la cour ; l'ancien résumé n'en dit rien. « Menacé à la cour d'Ispahan » est ma mémoire, à vérifier (sans doute hors des deux lettres du corpus, sauf si la première y fait allusion).
+  - Vérification : hors zone pour « ennemis » : la lettre 1, entière au corpus, donne pour motif « l'envie de savoir » (p00005) et ne mentionne aucun ennemi. Le résumé garde « menacé à la cour » : non contredit, à trancher à la relecture.
 - Doute : Roxane « que je croyais la plus vertueuse » : je me souviens qu'Usbek loue sa pudeur et sa résistance au début de leur mariage. L'amant de Roxane est tué par les eunuques, je crois ; je ne l'écris pas.
+  - Vérification : confirmé en partie : Roxane parle des eunuques « qui ont répandu le plus beau sang du monde » (p00013), sans nommer l'amant. Rien à corriger.
+  - Vérification : hors zone : « vertueuse » est absent des deux lettres. p00017 (« tu me croyais trompée, et je te trompais ») montre la confiance d'Usbek sans le qualificatif. Rien à corriger.
 - Doute : « un roi qui passe pour magicien » : je me souviens d'une lettre de Rica qui présente Louis XIV comme un magicien et le pape comme un autre ; c'est Rica qui l'écrit, mais Usbek peut s'en étonner aussi.
+  - Vérification : hors zone : « magicien » est absent des deux lettres ; la lettre de Rica n'est pas au corpus. Rien à corriger.
 - Je tais les femmes Zachi, Zélis, Zéphis, Fatmé, les eunuques nommés, les correspondants Rhédi, Ibben, Mirza, et l'épisode de la mort de Louis XIV.
 
 ### Anciens textes
@@ -146,25 +166,32 @@ J'avais dix-sept ans et tout pour devenir un homme sage, quand je l'ai vue desce
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La rencontre a lieu à Amiens | `Amiens` | à vérifier | |
-| L'ami fidèle se nomme Tiberge | `Tiberge` | à vérifier | |
-| Le vieux protecteur est désigné par les initiales G… M… | `G... M...`, `G… M…`, `M. de G` | à vérifier | |
-| Le chevalier est enfermé à Saint-Lazare | `Saint-Lazare` | à vérifier | |
-| La jeune femme est enfermée à l'Hôpital | `Hôpital`, `Hôpital-Général` | à vérifier | |
-| Le couple vit à La Nouvelle-Orléans | `Orléans`, `Nouvel` | à vérifier | |
-| Le chevalier se bat en duel avec le neveu du gouverneur | `Synnelet`, `neveu`, `gouverneur` | à vérifier | |
-| La jeune femme meurt dans le désert | `désert`, `expirer`, `fosse` | à vérifier | |
+| La rencontre a lieu à Amiens | `Amiens` | confirmé | p00021, p00024 |
+| L'ami fidèle se nomme Tiberge | `Tiberge` | confirmé | p00024 |
+| Le vieux protecteur est désigné par les initiales G… M… | `G... M...`, `G… M…`, `M. de G` | confirmé | p00137, p00144 (graphie du texte : « M. de G*** M*** ») |
+| Le chevalier est enfermé à Saint-Lazare | `Saint-Lazare` | confirmé | p00159, p00162 |
+| La jeune femme est enfermée à l'Hôpital | `Hôpital`, `Hôpital-Général` | confirmé | p00175, p00180 (« hôpital général ») |
+| Le couple vit à La Nouvelle-Orléans | `Orléans`, `Nouvel` | confirmé | p00434, p00443 |
+| Le chevalier se bat en duel avec le neveu du gouverneur | `Synnelet`, `neveu`, `gouverneur` | confirmé | p00459, p00460, p00461 (le narrateur croit Synnelet mort) |
+| La jeune femme meurt dans le désert | `désert`, `expirer`, `fosse` | confirmé | p00453, p00476 |
 
 ### Notes
 
 - Règle 5 : le titre accepté « Histoire du chevalier des Grieux et de Manon Lescaut » contient trois noms propres à éviter : « Manon », « Lescaut » (donc aussi le frère, que je ne nomme pas et que je tais) et « des Grieux ». D'où « un jeune chevalier » (mot courant du titre, permis) et « une jeune fille » ; dans « Mon histoire », « elle ».
 - `personalSummary` : le chevalier, qui raconte lui-même son histoire à l'homme de qualité.
 - Doute : « dix-sept ans » est ma mémoire (« j'avais dix-sept ans », je crois, au début du récit du chevalier). Je me souviens aussi d'un coche qui arrive d'Arras ; je n'écris que « le coche ».
+  - Vérification : confirmé : « le coche d'Arras » (p00024). Le résumé ne dit que « le coche » : rien à corriger.
+  - Vérification : confirmé : « J'avais dix-sept ans » (p00021). Rien à corriger.
 - Doute : la graphie des initiales du vieux protecteur, « G… M… » ; il y a aussi un M. de B…, premier protecteur, que je tais. Le fils G… M…, qui provoque la seconde arrestation, est tu aussi.
+  - Vérification : confirmé : le texte écrit « M. de G*** M*** » (p00137, p00144), les initiales du résumé en sont la forme abrégée. « M. de B*** », premier protecteur, existe (p00038, fermier général) et reste tu. Le fils « G*** M*** » est attesté (p00279, p00288) ; son rôle exact dans la seconde arrestation n'est pas vérifié, sans effet sur le résumé.
 - Doute : l'Hôpital (la Salpêtrière) pour elle et Saint-Lazare pour lui : je me souviens de ces deux lieux, et de l'évasion de Saint-Lazare où le chevalier tue un portier ; je ne l'écris pas.
+  - Vérification : confirmé : « hôpital général » (p00175), « hôpital » (p00180) ; « Salpêtrière » est absent des pages (hors zone pour le nom, rien à corriger). Saint-Lazare pour lui : confirmé (p00159, p00162). L'évasion de Saint-Lazare est attestée (p00204-p00207) ; la victime est un domestique qui couchait près de la porte, tué d'un coup de pistolet « au milieu de la poitrine » (p00207), non désigné comme portier (le portier n'apporte que les clefs, p00204). Rien à corriger.
 - Doute : je me souviens que le neveu du gouverneur s'appelle Synnelet et qu'il survit à sa blessure ; j'écris « il le blesse en duel, le croit mort ». Je ne suis pas sûr de la graphie « Nouvel-Orléans » ou « Nouvelle-Orléans » dans le texte ; j'écris la graphie moderne.
+  - Vérification : confirmé : Synnelet (p00449), blessé et désarmé en duel (p00460), que le narrateur croit mort (p00461). Synnelet n'est pas mort : « il n'était pas mort, mais qu'il n'avait pas même reçu de blessure dangereuse » (p00478). Le résumé dit « le croit mort » : formule du narrateur, exacte, rien à corriger. La graphie « Nouvelle-Orléans » est celle du texte (p00434).
 - Doute : « elle part enchaînée » : je me souviens du convoi de filles enchaînées vu à Pacy par l'homme de qualité, au début ; je ne suis pas sûr qu'elle soit enchaînée sur le navire.
+  - Vérification : confirmé : « enchaînée par le milieu du corps » dans son chariot pendant le convoi (p00421), et « douze filles, enchaînées six à six » (p00006). Le navire n'est pas décrit dans les pages : non attesté, rien à corriger.
 - Simplification : je tais le cadre (le marquis de Renoncour) et la fin, où le chevalier rentre en France avec Tiberge et apprend la mort de son père. Je dis « en Amérique » (le texte dit, je crois, l'Amérique ou le Mississippi) plutôt que « Louisiane ».
+  - Vérification : confirmé : « le Mississippi » (p00384) et « cette partie de l'Amérique » (p00482). « Louisiane » et « Renoncour » sont absents des pages. Rien à corriger.
 
 ### Anciens textes
 
@@ -187,25 +214,31 @@ Je veux me montrer à mes semblables tel que je suis, avec mes fautes comme avec
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'écrivain veut montrer un homme dans toute la vérité de la nature | `vérité de la nature`, `semblables` | à vérifier | |
-| Il est né à Genève | `Genève` | à vérifier | |
-| Sa mère meurt à sa naissance | `naissance`, `mère`, `coûta la vie` | à vérifier | |
-| Il découvre l'injustice chez le pasteur Lambercier | `Lambercier`, `peigne` | à vérifier | |
-| Il quitte Genève à seize ans en trouvant les portes fermées | `portes`, `seize ans` | à vérifier | |
-| Sa protectrice se nomme Mme de Warens | `Warens` | à vérifier | |
-| La servante accusée du vol de ruban se nomme Marion | `Marion`, `ruban` | à vérifier | |
-| Il termine par une lecture de ses souvenirs devant un auditoire muet | `lecture`, `Egmont`, `se tut` | à vérifier | |
+| L'écrivain veut montrer un homme dans toute la vérité de la nature | `vérité de la nature`, `semblables` | confirmé | p00003 |
+| Il est né à Genève | `Genève` | confirmé | p00006 |
+| Sa mère meurt à sa naissance | `naissance`, `mère`, `coûta la vie` | confirmé | p00008 (« Je coûtai la vie à ma mère ») |
+| Il découvre l'injustice chez le pasteur Lambercier | `Lambercier`, `peigne` | confirmé | p00038, p00040 |
+| Il quitte Genève à seize ans en trouvant les portes fermées | `portes`, `seize ans` | confirmé | p00096, p00097 |
+| Sa protectrice se nomme Mme de Warens | `Warens` | hors zone | absent des pages (« Warens » : livre II, non au corpus) ; « Maman » attesté p00114 |
+| La servante accusée du vol de ruban se nomme Marion | `Marion`, `ruban` | hors zone | absent des pages (« Marion » : épisode du livre II, non au corpus) |
+| Il termine par une lecture de ses souvenirs devant un auditoire muet | `lecture`, `Egmont`, `se tut` | confirmé | p00233, p00235 |
 
 ### Notes
 
 - `personalSummary` : l'écrivain lui-même, qui ne se nomme pas (« Jean-Jacques » et « Rousseau » font partie du nom de l'auteur et d'un titre accepté). Dans `summary`, « un écrivain », puis « il ».
 - « Émile » est le titre d'une autre œuvre de l'auteur ; règle 5 : les titres des autres œuvres sont libres. Si la relecture le juge trop révélateur de l'auteur, « après la condamnation d'un de ses livres » le remplace.
 - Doute : la citation « dans toute la vérité de la nature » est de mémoire (« Je veux montrer à mes semblables un homme dans toute la vérité de la nature ; et cet homme, ce sera moi »), au début du livre I, donc dans le corpus.
+  - Vérification : confirmé : « Je veux montrer à mes semblables un homme dans toute la vérité de la nature, et cet homme, ce sera moi » (p00003). Rien à corriger.
 - Doute : l'injustice chez Lambercier : je me souviens d'un peigne cassé dont on l'accuse à tort (et de la fessée de Mlle Lambercier) ; je n'écris que « l'injustice ».
+  - Vérification : confirmé : le peigne cassé, dont il nie être l'auteur et qu'on lui impute (p00038, p00040). La « fessée » est décrite comme « châtiment » (p00028-p00030) ; le mot n'est pas employé. Rien à corriger.
 - Doute : le départ. Je me souviens qu'à seize ans, rentrant de promenade, il trouve les portes de Genève fermées et décide de ne pas rentrer chez son maître graveur ; c'est la fin du livre I, dans le corpus.
+  - Vérification : confirmé : « J'atteignis ainsi ma seizième année » et « les portes furent fermées » (p00096), puis il jure de ne plus retourner chez son maître (p00097). Rien à corriger.
 - Doute : le vol du ruban a lieu chez Mme de Vercellis, à Turin, je crois ; « laissé accuser » ou « accusé » ? Je me souviens qu'il accuse lui-même Marion, devant elle ; j'ai d'abord écrit « j'ai laissé accuser » dans « Mon histoire », puis aligné sur le résumé (livre II, hors zone).
+  - Vérification : hors zone : « Marion », « ruban » et « Mme de Vercellis » sont absents des deux livres du corpus (épisode du livre II). « Maman » est attesté (p00114). Rien à corriger.
 - Doute : la conversion à Turin (hospice des catéchumènes) : je l'ai retirée du résumé faute de place et par prudence sur l'ordre.
+  - Vérification : hors zone : la conversion n'est pas dans les pages ; le résumé ne la retient pas. Rien à corriger.
 - Doute : la fin. Je me souviens d'une lecture devant quelques auditeurs, dont Mme d'Egmont, la seule à paraître émue, et d'un silence général. « Un auditoire muet » est ma mémoire, à vérifier dans le livre XII.
+  - Vérification : confirmé : la lecture devant « madame d'Egmont », « la seule qui me parut émue », et « tout le monde se tut » (p00233, p00235). Rien à corriger.
 - Je tais Vincennes, l'Ermitage, Mme d'Houdetot, Diderot, Grimm et l'île Saint-Pierre.
 
 ### Anciens textes
@@ -223,30 +256,36 @@ Au château d'Aguas-Frescas, près de Séville, le valet du comte Almaviva doit 
 
 ### personalSummary
 
-Le comte m'a fait concierge de son château et voudrait, pour mes peines, la première nuit de ma Suzanne. Je l'en empêcherai, avec elle et avec madame la comtesse ; mais voilà Marceline qui me tient par une vieille promesse, et le procès me découvre une mère. Ce soir, croyant Suzanne infidèle, j'ai maudit les grands, qui se sont donné la peine de naître, et rien de plus. Ce n'était qu'une ruse de plus : le comte a demandé pardon, et me voilà marié.
+Le comte m'a fait concierge de son château et voudrait, pour mes peines, la première nuit de ma Suzanne. Je l'en empêcherai, avec elle et avec madame la comtesse ; mais voilà Marceline qui me tient par une vieille promesse, et le procès me découvre une mère. Ce soir, croyant Suzanne infidèle, j'ai maudit mon maître, qui s'est donné la peine de naître, et rien de plus. Ce n'était qu'une ruse de plus : le comte a demandé pardon, et me voilà marié.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le château se nomme Aguas-Frescas | `Aguas-Frescas`, `Aguas` | à vérifier | |
-| La fiancée se nomme Suzanne | `Suzanne`, `Suzon` | à vérifier | |
-| Le comte a aboli le droit du seigneur | `droit du seigneur`, `aboli` | à vérifier | |
-| Le page Chérubin est épris de sa marraine la comtesse | `Chérubin`, `marraine` | à vérifier | |
-| Marceline se révèle la mère du valet | `Marceline`, `mère` | à vérifier | |
-| Bartholo est le père du valet | `Bartholo`, `père` | à vérifier | |
-| Le valet dit des grands qu'ils se sont donné la peine de naître | `peine de naître`, `rien de plus` | à vérifier | |
-| Le comte demande pardon à la comtesse | `pardon` | à vérifier | |
+| Le château se nomme Aguas-Frescas | `Aguas-Frescas`, `Aguas` | confirmé | p00193 |
+| La fiancée se nomme Suzanne | `Suzanne`, `Suzon` | confirmé | p00059 |
+| Le comte a aboli le droit du seigneur | `droit du seigneur`, `aboli` | confirmé | p00230, p00451 |
+| Le page Chérubin est épris de sa marraine la comtesse | `Chérubin`, `marraine` | confirmé | p00062, p00390 |
+| Marceline se révèle la mère du valet | `Marceline`, `mère` | confirmé | p00072 |
+| Bartholo est le père du valet | `Bartholo`, `père` | confirmé | p00070, p02728 |
+| Le valet dit du comte qu'il s'est donné la peine de naître | `peine de naître`, `rien de plus` | corrigé | p02307 (texte : « vous vous êtes donné la peine de naître » : le comte seul, non les grands ; correction dans le personalSummary) |
+| Le comte demande pardon à la comtesse | `pardon` | confirmé | p02759 |
 
 ### Notes
 
 - Règle 5 : « Figaro » fait le titre. Je me souviens que son vrai nom, révélé au procès, est Emmanuel, mais il n'y est presque jamais appelé ainsi : je préfère la périphrase « le valet du comte », plus claire. « Mariage », mot courant du titre, est gardé ; « folle journée » (titre accepté) est évité.
+  - Vérification : confirmé : « notre petit Emmanuel » (p00309) et « C'est Emmanuel » (p01739).
 - `personalSummary` : le valet, qui ne se nomme pas.
 - Doute : « concierge » : je me souviens que Figaro est « concierge du château » et courrier des dépêches ; si le texte ne le dit pas, « valet » suffit.
+  - Vérification : confirmé : « FIGARO, valet de chambre du comte et concierge du château » (p00147) ; « m'ayant nommé concierge » (p00263). Rien à corriger.
 - Doute : la dette de Marceline. Je me souviens d'un billet de deux mille piastres, avec promesse d'épouser faute de rembourser ; « en gage d'une dette » couvre cela.
+  - Vérification : confirmé : « deux mille piastres fortes », ou « à l'épouser dans le jour » (p01632, p01693). Rien à corriger.
 - Doute : la reconnaissance passe par une spatule marquée sur le bras du valet ; je ne l'écris pas. Bartholo est bien le père, je crois, et finit par épouser Marceline.
+  - Vérification : confirmé en partie : « Une spatule à ton bras droit ? » (p01732) ; Bartholo est le père (p00070, p02728). Le mariage de Bartholo et Marceline n'est pas dans le texte complet (Marceline se jette à genoux devant lui, p02744) : hors zone, absent du texte complet, à trancher. Le résumé n'en parle pas : rien à corriger.
 - Doute : je crois que le procès est jugé par le comte lui-même, avec Brid'oison comme juge ; je n'écris que « au procès ».
+  - Vérification : confirmé en partie : le comte préside (« Non, greffier, je ne prononcerai point », p01686 ; « Que nous répond le défendeur ? », p01690), Brid'oison intervient (p01688), la cour condamne (p01693). Le résumé dit « au procès » : rien à corriger.
 - Doute : la citation « vous vous êtes donné la peine de naître, et rien de plus » vient du monologue de l'acte V ; je l'adapte à la troisième personne.
+  - Vérification : confirmé : la phrase est de l'acte V, monologue de Figaro (p02307), adressée au comte. Ancienne formulation : « j'ai maudit les grands, qui se sont donné la peine de naître » ; nouvelle : « j'ai maudit mon maître, qui s'est donné la peine de naître » (corrigé, voir le fait n°7).
 - Simplification : je tais Bazile, Antonio, Fanchette, le saut par la fenêtre, le billet « sous les grands marronniers », et le vaudeville final. Je ne me souviens pas d'un mariage de Chérubin à la fin : je n'en dis rien.
 - « Grands » dans « Mon histoire » : vocabulaire d'époque, que le personnage emploie.
 
@@ -261,7 +300,7 @@ Corpus : 5 pages choisies sur fr.wikisource.org (langue : fr) : « Lorenzaccio/A
 
 ### summary
 
-Dans la Florence de 1537, un jeune Médicis passe pour le compagnon de débauche de son cousin, le duc Alexandre, et chacun le méprise pour sa lâcheté. Il révèle pourtant au vieux républicain Philippe Strozzi qu'il a pris ce masque pour gagner la confiance du tyran et le tuer, même si le vice lui colle désormais à la peau. Une nuit, il attire le duc dans sa chambre en lui promettant sa tante Catherine, et le poignarde avec l'aide du spadassin Scoronconcolo. Mais les républicains ne bougent pas, et Côme de Médicis est proclamé duc. Réfugié à Venise, sa tête mise à prix, l'assassin sort sans se cacher et se fait tuer.
+Dans la Florence de 1536, un jeune Médicis passe pour le compagnon de débauche de son cousin, le duc Alexandre, et chacun le méprise pour sa lâcheté. Il révèle pourtant au vieux républicain Philippe Strozzi qu'il a pris ce masque pour gagner la confiance du tyran et le tuer, même si le vice lui colle désormais à la peau. Une nuit, il attire le duc dans sa chambre en lui promettant sa tante Catherine, et le poignarde avec l'aide du spadassin Scoronconcolo. Mais les républicains ne bougent pas, et Côme de Médicis est proclamé duc. Réfugié à Venise, sa tête mise à prix, l'assassin sort sans se cacher et se fait tuer.
 
 ### personalSummary
 
@@ -271,24 +310,29 @@ J'étais un jeune homme pur ; j'ai juré de tuer un tyran, et, pour approcher le
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'action se passe à Florence en 1537 | `Florence`, `1537` | à vérifier | |
-| Le duc se nomme Alexandre | `Alexandre` | à vérifier | |
-| Le héros se confie au vieux républicain Philippe Strozzi | `Philippe`, `Strozzi` | à vérifier | |
-| Le vice lui colle désormais à la peau | `vêtement`, `collé`, `peau` | à vérifier | |
-| Il attire le duc en lui promettant sa tante Catherine | `Catherine`, `tante`, `Ginori` | à vérifier | |
-| Il tue le duc avec l'aide de Scoronconcolo | `Scoronconcolo` | à vérifier | |
-| Côme de Médicis est proclamé duc | `Côme`, `Cosme` | à vérifier | |
-| Le héros est tué à Venise | `Venise`, `lagune`, `tué` | à vérifier | |
+| L'action se passe à Florence en 1536 | `Florence`, `1536` | corrigé | p00028 (Florence) ; p01554 (« l'an 1536, qui est bien l'année où nous sommes »), en 1536 et non 1537 |
+| Le duc se nomme Alexandre | `Alexandre` | confirmé | p00035, p00178 |
+| Le héros se confie au vieux républicain Philippe Strozzi | `Philippe`, `Strozzi` | confirmé | p00062, p00930 |
+| Le vice lui colle désormais à la peau | `vêtement`, `collé`, `peau` | confirmé | p00921 |
+| Il attire le duc en lui promettant sa tante Catherine | `Catherine`, `tante`, `Ginori` | confirmé | p00723 (« ma chère tante »), p01094 |
+| Il tue le duc avec l'aide de Scoronconcolo | `Scoronconcolo` | confirmé | p01301, p01363 |
+| Côme de Médicis est proclamé duc | `Côme`, `Cosme` | confirmé | p01646, p01649 |
+| Le héros est tué à Venise | `Venise`, `lagune`, `tué` | confirmé | p01630, p01638, p01640 (Rialto, lagune) |
 
 ### Notes
 
 - Règle 5 : « Lorenzaccio » est le surnom qui fait le titre, et « Lorenzo » (ainsi que « Renzo », « Lorenzino ») est un vrai nom très proche du titre : je les évite, comme « Quijano ». Périphrase : « un jeune Médicis », « son cousin », « l'assassin ».
 - `personalSummary` : le héros, sans se nommer.
 - Désaccord avec l'ancien résumé : il dit que le héros « accomplit seul le meurtre » ; je me souviens de Scoronconcolo, maître d'armes ou spadassin qui l'aide (et du duc qui lui mord le doigt). À trancher par l'acte IV.
+  - Vérification : confirmé : Scoronconcolo est là et intervient après le premier coup (p01301, p01363) ; le duc « m'a mordu au doigt » (p01365). L'ancien résumé (« seul ») est contredit : il n'est pas repris.
 - Doute : « sa tante Catherine » : je me souviens de Catherine Ginori, tante (ou parente) du héros, que le duc convoite ; je ne suis pas sûr du lien exact.
+  - Vérification : confirmé : Catherine est la tante de Lorenzo (« ma chère tante », p00723 ; « Lorenzo est ton neveu », p00332), et Ginori est nommée (p00615). Rien à corriger.
 - Doute : la date 1537 vient de ma mémoire et de l'ancien résumé ; elle peut n'apparaître que dans la liste des personnages ou pas du tout.
+  - Vérification : corrigé : la seule année du texte est 1536 (p01554 : « tué l'an 1536, qui est bien l'année où nous sommes ») ; « 1537 » est absent. Ancienne formulation : « Dans la Florence de 1537 » ; nouvelle : « Dans la Florence de 1536 » (fait n°1). Voir aussi la date du texte pour la relecture.
 - Doute : la tirade du vêtement. Je me souviens d'une image proche (« le vice a été pour moi un vêtement, maintenant il est collé à ma peau »), dans la grande scène avec Philippe à l'acte III.
+  - Vérification : confirmé : « Le vice a été pour moi un vêtement ; maintenant il est collé à ma peau » (p00921, acte III). Rien à corriger.
 - Doute : la fin. Je me souviens qu'il est tué à Venise et que son corps est jeté dans la lagune, mais pas s'il « sort sans se cacher » exprès ou par lassitude ; la fiche dit qu'il « attend en vain ». « Proclamé duc » : je ne sais plus si Côme est élu par les Huit ou choisi par le cardinal Cibo.
+  - Vérification : confirmé : il sort pour « faire un tour au Rialto » (p01630), et il est poussé dans la lagune (p01640). Côme est élu « par les boules », « Il est duc, duc » (p01646), sous la pression du cardinal (p01445, p01649). Rien à corriger.
 - Simplification : je tais la marquise Cibo, le cardinal, Louise Strozzi empoisonnée, l'arrestation des fils Strozzi, la cotte de mailles volée et l'évanouissement devant l'épée.
 
 ### Anciens textes
@@ -312,24 +356,29 @@ Comme l'albatros, je suis un prince des nuées, exilé sur le sol au milieu des 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le poème d'ouverture apostrophe l'hypocrite lecteur, son semblable, son frère | `hypocrite lecteur`, `mon semblable` | à vérifier | |
-| L'Ennui est un monstre délicat qui avalerait le monde dans un bâillement | `monstre délicat`, `bâillement` | à vérifier | |
-| L'albatros est un prince des nuées exilé sur le sol au milieu des huées | `prince des nuées`, `huées` | à vérifier | |
-| Une section s'intitule Tableaux parisiens | `Tableaux parisiens` | à vérifier | |
-| Un poème évoque une charogne au soleil | `charogne` | à vérifier | |
-| Un poème s'adresse à Satan sous forme de litanies | `Litanies`, `Satan` | à vérifier | |
-| Le dernier poème appelle la Mort vieux capitaine | `vieux capitaine` | à vérifier | |
-| Le dernier vers cherche du nouveau au fond de l'Inconnu | `trouver du nouveau`, `Inconnu` | à vérifier | |
+| Le poème d'ouverture apostrophe l'hypocrite lecteur, son semblable, son frère | `hypocrite lecteur`, `mon semblable` | confirmé | p00005, p00008 |
+| L'Ennui est un monstre délicat qui avalerait le monde dans un bâillement | `monstre délicat`, `bâillement` | confirmé | p00008 |
+| L'albatros est un prince des nuées exilé sur le sol au milieu des huées | `prince des nuées`, `huées` | confirmé | p00015, p00017 (« Le Poëte est semblable au prince des nuées » : l'albatros est le prince des nuées par la comparaison) |
+| Une section s'intitule Tableaux parisiens | `Tableaux parisiens` | confirmé | p00497 (« TABLEAUX PARISIENS ») |
+| Un poème évoque une charogne au soleil | `charogne` | confirmé | p00100, p00102 (« Le soleil rayonnait sur cette pourriture ») |
+| Un poème s'adresse à Satan sous forme de litanies | `Litanies`, `Satan` | confirmé | p00446 (« LES LITANIES DE SATAN ») |
+| Le dernier poème appelle la Mort vieux capitaine | `vieux capitaine` | confirmé | p00492 |
+| Le dernier vers cherche du nouveau au fond de l'Inconnu | `trouver du nouveau`, `Inconnu` | confirmé | p00493 |
 
 ### Notes
 
 - `personalSummary` : la voix des poèmes, le poète, sans se nommer. Elle reprend des images du texte (l'albatros, l'Ennui, la charogne, la Mort capitaine), dites à la première personne.
 - Règle 5 : « fleur » et « mal » sont des mots courants, permis, mais je ne nomme pas la section éponyme (qui reconstituerait le titre) : « le vice » la désigne. « Le recueil » est gardé dans `summary` (œuvre sans intrigue : organisation), absent de « Mon histoire ».
 - Doute : l'organisation en six sections de l'édition de 1861 (« Spleen et Idéal », « Tableaux parisiens », « Le Vin », la section éponyme, « Révolte », « La Mort »), de mémoire ; l'ancien résumé dit seulement « de Spleen et Idéal à la Mort ».
+  - Vérification : confirmé : les six intitulés sont au texte, « SPLEEN ET IDÉAL » (p00496), « TABLEAUX PARISIENS » (p00497), « LE VIN » (p00498), « FLEURS DU MAL » (p00499), « RÉVOLTE » (p00500), « LA MORT » (p00501). Rien à corriger.
 - Doute : la place de « Au lecteur » : je me souviens qu'il précède les sections, non numéroté.
+  - Vérification : confirmé : « AU LECTEUR » (p00005), sans numéro, avant les sections. Rien à corriger.
 - Doute : « la Vénus noire » et « la madone » : désignations critiques des cycles de Jeanne Duval et de Mme Sabatier (ou Marie Daubrun pour « À une madone »), que le texte ne donne pas sous ces mots, je crois. Le poème « À une madone » existe, je crois, dans « Spleen et Idéal ». Si la relecture juge « Vénus noire » trop critique, « les femmes aimées » suffit.
+  - Vérification : hors zone pour « Vénus noire » : le mot est absent du texte complet (0 occurrence) ; à trancher à la relecture. « À une madone » est au texte (p00205), dans « Spleen et Idéal » (section p00496). Rien à corriger.
 - Doute : les citations (« hypocrite lecteur », « monstre délicat », « prince des nuées », « vieux capitaine », « au fond de l'Inconnu pour trouver du nouveau ») sont de mémoire ; le texte entier est au corpus.
+  - Vérification : confirmé : « hypocrite lecteur » (p00008), « monstre délicat » (p00008), « prince des nuées » (p00017), « vieux capitaine » (p00492), « au fond de l'Inconnu pour trouver du nouveau » (p00493). Rien à corriger.
 - « Paris » dans « Mon histoire » : je ne suis pas sûr que le poète nomme Paris dans ces termes, mais les « Tableaux parisiens » et « Le Cygne » (« Le vieux Paris n'est plus ») le font.
+  - Vérification : confirmé : « Le vieux Paris n'est plus » (p00314, « Le Cygne »), et les « Tableaux parisiens » (p00497). Rien à corriger.
 
 ### Anciens textes
 
@@ -352,25 +401,31 @@ Jadis, ma vie était un festin ; un soir, j'ai assis la Beauté sur mes genoux, 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Au début la vie du poète était un festin | `festin` | à vérifier | |
-| Il a assis la Beauté sur ses genoux, l'a trouvée amère et l'a injuriée | `Beauté`, `genoux`, `amère`, `injuriée` | à vérifier | |
-| Il dédie ses feuillets à Satan | `Satan`, `feuillets`, `carnet de damné` | à vérifier | |
-| Mauvais sang évoque ses ancêtres gaulois | `Gaulois`, `ancêtres`, `Mauvais sang` | à vérifier | |
-| Dans Délires I une Vierge folle parle de son Époux infernal | `Vierge folle`, `Époux infernal` | à vérifier | |
-| Alchimie du verbe dit l'invention de la couleur des voyelles | `couleur des voyelles`, `Alchimie` | à vérifier | |
-| Adieu s'ouvre sur l'automne | `automne` | à vérifier | |
-| Adieu affirme qu'il faut être absolument moderne | `absolument moderne` | à vérifier | |
+| Au début la vie du poète était un festin | `festin` | confirmé | p00002 |
+| Il a assis la Beauté sur ses genoux, l'a trouvée amère et l'a injuriée | `Beauté`, `genoux`, `amère`, `injuriée` | confirmé | p00003 |
+| Il dédie ses feuillets à Satan | `Satan`, `feuillets`, `carnet de damné` | confirmé | p00012 |
+| Mauvais sang évoque ses ancêtres gaulois | `Gaulois`, `ancêtres`, `Mauvais sang` | hors zone | section « Mauvais sang » absente des pages (seuls le prologue et « Adieu » sont au corpus) |
+| Dans Délires I une Vierge folle parle de son Époux infernal | `Vierge folle`, `Époux infernal` | hors zone | section « Délires I » absente des pages |
+| Alchimie du verbe dit l'invention de la couleur des voyelles | `couleur des voyelles`, `Alchimie` | hors zone | section « Alchimie du verbe » absente des pages |
+| Adieu s'ouvre sur l'automne | `automne` | confirmé | p00014, p00015 |
+| Adieu affirme qu'il faut être absolument moderne | `absolument moderne` | confirmé | p00024 |
 
 ### Notes
 
 - `personalSummary` : la voix du texte, le poète damné, sans se nommer. « Enfer » (mot courant du titre) est gardé seul dans « Mon histoire » ; jamais « une saison » accolé à « enfer ».
 - Œuvre sans intrigue suivie : j'ai décrit l'organisation (prologue, sections nommées) et le mouvement d'ensemble, de la révolte à l'adieu.
 - Doute : la dédicace. Je me souviens de « ces quelques hideux feuillets de mon carnet de damné » adressés à « cher Satan », dans le prologue ; j'écris « ces feuillets de damné ».
+  - Vérification : confirmé : « cher Satan » et « ces quelques hideux feuillets de mon carnet de damné » (p00012). Rien à corriger.
 - Doute : l'ordre des sections après le prologue (« Mauvais sang », « Nuit de l'enfer », « Délires I » et « II », « L'Impossible », « L'Éclair », « Matin », « Adieu »), de mémoire ; je tais les sections du milieu sous « d'autres tentatives d'issue ». Seuls le prologue et « Adieu » sont au corpus.
+  - Vérification : hors zone : seuls le prologue et « Adieu » sont au corpus ; les sections du milieu ne sont pas dans les pages. Le résumé ne les nomme pas : rien à corriger.
 - Doute : « Mauvais sang ». J'avais d'abord écrit « révolte contre […] le monde moderne », écarté : extrapolation de ma part, et contradictoire avec « il faut être absolument moderne ». Je garde un souvenir plus précis (« Ma journée est faite ; je quitte l'Europe »), hors zone.
+  - Vérification : hors zone : « Mauvais sang » est absent des pages (aucune occurrence de « Gaulois » ni « ancêtres »). Ma formule écartée n'est pas reprise : rien à corriger.
 - Doute : dans « Délires I », je me souviens que la Vierge folle parle de son Époux infernal, figure du poète lui-même, et que l'on y lit souvent Verlaine ; je ne le nomme pas. Dans « Mon histoire », « j'ai entraîné un compagnon dans mon enfer » reste prudent.
+  - Vérification : hors zone : la section « Délires I » n'est pas dans les pages, ni « Vierge folle » ni « Époux infernal » (0 occurrence). Rien à corriger.
 - Doute : « moi qui me disais mage ou ange, rendu au sol » : je me souviens de « Moi qui me suis dit mage ou ange, dispensé de toute morale, je suis rendu au sol » dans « Adieu » (au corpus). J'avais d'abord écrit « sans charité ni pouvoirs », écarté : mon souvenir d'une phrase sur la charité est trop vague.
+  - Vérification : confirmé : « Moi ! moi qui me suis dit mage ou ange, dispensé de toute morale, je suis rendu au sol » (p00018, « Adieu »). La formule écartée (« sans charité ni pouvoirs ») n'est pas reprise. Rien à corriger.
 - Désaccord léger avec l'ancien `personalSummary` : il présente l'invention de la couleur des voyelles comme une conquête ; je la range parmi les folies dont « Alchimie du verbe » fait le bilan.
+  - Vérification : hors zone : l'invention de la couleur des voyelles est dans « Alchimie du verbe », absent des pages (0 occurrence de « voyelles »). Rien à corriger.
 
 ### Anciens textes
 
@@ -393,23 +448,27 @@ Je suis venu de Limoges épouser la fille d'un bourgeois de Paris, et l'on m'a d
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le prétendant vient de Limoges | `Limoges`, `limousin` | à vérifier | |
-| Le père de Julie se nomme Oronte | `Oronte` | à vérifier | |
-| Sbrigani est napolitain | `Sbrigani`, `Napolitain`, `Naples` | à vérifier | |
-| Éraste feint de connaître le prétendant | `Éraste`, `connais` | à vérifier | |
-| Les médecins le croient fou | `médecin`, `fou`, `mélancolie` | à vérifier | |
-| Lucette le réclame comme son mari | `Lucette`, `Pézenas` | à vérifier | |
-| Des avocats lui disent que la polygamie mène à la potence | `polygamie`, `pendable`, `avocat` | à vérifier | |
-| Le prétendant s'enfuit déguisé en femme | `femme`, `habit`, `déguis` | à vérifier | |
+| Le prétendant vient de Limoges | `Limoges`, `limousin` | confirmé | p00088 (« son avocat de Limoges »), p00193 |
+| Le père de Julie se nomme Oronte | `Oronte` | confirmé | p00014, p00436 |
+| Sbrigani est napolitain | `Sbrigani`, `Napolitain`, `Naples` | confirmé | p00019, p00089 |
+| Éraste feint de connaître le prétendant | `Éraste`, `connais` | confirmé | p00189, p00191 (« le meilleur ami de toute la famille des Pourceaugnac ») |
+| Les médecins le croient fou | `médecin`, `fou`, `mélancolie` | confirmé | p00370 (« mélancolie hypocondriaque ») ; saignées p00308-p00310 |
+| Lucette le réclame comme son mari | `Lucette`, `Pézenas` | confirmé | p00614, p00618 (« soun sa fenno », Pézenas) |
+| Des avocats lui disent que la polygamie mène à la potence | `polygamie`, `pendable`, `avocat` | confirmé | p00698, p00702 (« La polygamie est un cas pendable » ; deux avocats) |
+| Le prétendant s'enfuit déguisé en femme | `femme`, `habit`, `déguis` | confirmé | p00711 (se déguiser pour fuir « aux portes de la ville ») |
 
 ### Notes
 
 - Règle 5 : « Pourceaugnac » fait le titre, et je ne lui connais pas d'autre nom : périphrases « un gentilhomme de Limoges », « le provincial ». « Monsieur » est un mot courant, mais je l'évite aussi, inutile. Pas de titre accepté dans la fiche.
 - `personalSummary` : le gentilhomme limousin lui-même, sans se nommer, qui ne comprend pas qu'on s'est joué de lui. Proche, dans son contenu, de l'ancien texte, qui me paraît juste ; la formulation est nouvelle.
 - Doute : « l'adroite Nérine » : je me souviens d'une « femme d'intrigue » dans la liste des personnages. Elle se fait passer pour une épouse picarde, et Lucette pour une Gasconne ou Languedocienne (de Pézenas, je crois) : je ne l'écris pas.
+  - Vérification : confirmé : « NÉRINE, femme d'intrigue, feinte Picarde » (p00017) ; « LUCETTE, feinte Gasconne » (p00018) ; Pézenas (p00618). Rien à corriger.
 - Doute : « saignées et lavements » : je me souviens surtout des lavements, apportés par des matassins avec des seringues, et d'une consultation où le premier médecin diagnostique une mélancolie hypocondriaque ; les saignées, je les crois prescrites, mais sans certitude.
+  - Vérification : confirmé : lavements (p00371, p00511, p00517), saignées (p00308-p00310, p00370-p00371), « mélancolie hypocondriaque » (p00370). Rien à corriger.
 - Doute : « mène à la potence » : je me souviens que les avocats chantent que la polygamie est un cas pendable ; je ne sais plus si ce sont deux avocats (l'un traînant ses paroles, l'autre bredouillant).
+  - Vérification : confirmé : « La polygamie est un cas pendable » (p00698, p00705) ; deux avocats chantants (p00039, p00702). Rien à corriger.
 - Doute : la fin. Je me souviens que Sbrigani fait croire à Oronte que le provincial enlève Julie, puis qu'Éraste la ramène, et qu'Oronte, reconnaissant, la lui donne (avec une dot de dix mille écus ?). J'écris seulement « croyant qu'Éraste a sauvé sa fille ». Je ne me souviens pas si le provincial fuit vers Limoges ou seulement hors de Paris.
+  - Vérification : en partie confirmé : « Il m'enlève ma fille ! » (p00838) ; Oronte donne sa fille à Éraste après son « procédé » (p00857) et augmente la dot de dix mille écus (p00870). Le mot « sauvé » n'est pas dans le texte, et « ramène » non plus : Éraste renonce à Julie (p00856). Fuite « aux portes de la ville » (p00711), destination non dite. Rien à corriger.
 - Je tais l'épisode où Sbrigani, déguisé en marchand flamand, fait croire à Oronte que le prétendant est criblé de dettes, Julie qui joue l'amoureuse empressée, les Suisses et l'exempt du dernier acte.
 - Dernière phrase de « Mon histoire » : exclamation de mon cru, dans le ton du personnage, qui ne cite pas le texte.
 
