@@ -43,4 +43,65 @@ Rédaction de mémoire, une œuvre à la fois, dans l'ordre demandé ; chaque œ
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+78 lignes à vérifier (77 faits de la passe 1, plus une scission) : 65 confirmés, 12 hors zone, 1 corrigé.
+
+| Œuvre | Confirmés | Hors zone | Corrigés | Texte au corpus |
+|---|---:|---:|---:|---|
+| `les-mille-et-une-nuits` | 5 | 2 | 0 | cadre (début et fin) et « Histoire d'Aly Mohammed » ; graphie Galland |
+| `le-conte-du-coupeur-de-bambous` | 8 | 0 | 0 | texte entier (ja) |
+| `le-dit-des-heike` | 0 | 7 | 0 | aucun texte |
+| `les-contes-dise` | 7 | 0 | 0 | texte entier (ja) |
+| `voyage-en-occident` | 6 | 2 | 0 | chapitres 1 et 100 (zh) |
+| `odyssee` | 8 | 0 | 0 | texte entier (Leconte de Lisle, graphies hellénisées) |
+| `iliade` | 8 | 0 | 0 | chants I et XXIV |
+| `macbeth` | 8 | 0 | 0 | les cinq actes (Guizot), soit la pièce entière |
+| `romeo-et-juliette` | 8 | 1 | 0 | prologue, actes I et V (en) ; un fait scindé en deux lignes |
+| `oedipe-roi` | 7 | 0 | 1 | texte entier |
+
+Hors zone : deux faits des Mille et Une Nuits (l'interruption à l'aube, le premier conte marchand et génie) ; sept faits du Dit des Heike (aucun texte) ; deux faits de Voyage en Occident (soixante-douze métamorphoses, quatre-vingt-une épreuves, absents des chapitres 1 et 100) ; le mariage par frère Laurent, à l'acte II de Roméo et Juliette.
+
+Les doutes des notes de la passe 1 sont traités au fil de chaque œuvre, sur une ligne « Vérification : … » du fichier de session. Les principaux : la graphie des Mille et Une Nuits (Galland), « une main » de Sanuki, le pan (すそ) de la robe d'Ise, le nom donné par le maître dans Voyage en Occident (chapitre 1), l'ombre de Banquo assise à la place de Macbeth, la main et le baiser du sonnet de Roméo, le poison et la lettre.
+
+### Corrections
+
+- `oedipe-roi`, fait 5 et `personalSummary` : « les pieds percés » devient « les pieds liés ». Le texte dit que l'enfant avait les pieds liés (p00343 : « Je détachai tes pieds qui étaient liés »), sans aucune mention de percement. Le « percé » venait de la mémoire de la rédaction. Choix : correction, plutôt que hors zone, parce que le texte décrit autrement la façon dont l'enfant a été blessé ; à confirmer (voir retours sur la consigne).
+
+### Scission
+
+- `romeo-et-juliette`, fait 4 : « Le moine qui les marie est frère Laurent » devient deux lignes. « Le moine est frère Laurent » est confirmé (p00322 : Friar Laurence's Cell, acte V). « Frère Laurent les marie en secret » est hors zone : le mariage se déroule à l'acte II, qui n'est pas dans le corpus. Le résumé n'est pas modifié.
+
+### Points à trancher
+
+1. **Les Mille et Une Nuits, hors zone conservés.** L'interruption à l'aube et le premier conte (marchand et génie) restent dans les textes, sans appui. Ce sont des souvenirs de la rédaction ; la relecture peut les retirer si elle préfère ne garder que les faits attestés.
+2. **Le Dit des Heike, sans texte.** Les sept faits restent sans appui : cette œuvre ne sera vérifiée qu'avec un texte. Le fichier `atsumori.md` raconte l'épisode d'Ichi-no-Tani, mais c'est une autre œuvre ; je ne l'ai pas utilisé. Décision : garder le résumé en l'état, ou le suspendre jusqu'à l'ajout d'un texte.
+3. **Voyage en Occident, soixante-douze métamorphoses et quatre-vingt-une épreuves.** Les deux faits sont hors zone. Ce sont des chiffres connus du roman, mais absents du corpus (chapitres 1 et 100 seulement).
+4. **Œdipe Roi, « la Sphinx ».** Le texte donne le féminin (p00041 : « La Sphinx, pleine de paroles rusées »). Le résumé dit « du Sphinx ». Le fait n'est pas contredit : je n'ai pas corrigé, c'est un choix de genre français à trancher.
+5. **Les Contes d'Ise, nombre d'épisodes.** Le nombre de cent vingt-cinq n'est pas relevé dans le texte : non vérifié, signalé.
+6. **Macbeth, ligne « Corpus ».** La fiche indique « 5 pages choisies » et le texte contient les cinq actes : la pièce est entière. La ligne pourrait dire « texte entier ».
+7. **Le coupeur de bambous, « vieux coupeur de bambous ».** Le contrôle Dart ne le signale pas, mais c'est une formule qui reconstitue presque le titre accepté. Décision humaine à confirmer (déjà signalée à la passe 1).
+
+### Contrôles
+
+- `summary lint vague2-2 --checked` : 0 erreur, 0 avertissement, pour les dix œuvres (lancé après les modifications).
+- `summary apply vague2-2 --output` (fichier temporaire hors des dépôts), puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur. » Dart est présent ; le lancement affiche des avertissements Flutter (« running as root ») sans effet sur le résultat.
+- `summary mark vague2-2 checked` : lancé après la rédaction de cette section (voir le message de commit).
+
+### Incidents
+
+- Une erreur de mon script d'application : la scission de Roméo et Juliette décalait les statuts des faits suivants dans le fichier de session. Détectée avant tout commit. Le fichier a été restauré depuis Git (`git checkout`, aucune modification commitée à ce moment), puis réappliqué. Résultat vérifié ligne par ligne : 65 confirmés, 12 hors zone, 1 corrigé, pour 78 lignes ; aucune ligne « à vérifier » ne subsiste.
+- Les sorties de `summary find` sont tronquées à cinq occurrences : pour les textes longs (Odyssée, Iliade, Macbeth), j'ai lu les passages dans le texte (contexte, paragraphes) plutôt que de m'en tenir aux emplacements.
+
+### Difficultés au fil du lot
+
+- Je n'ai pas constaté de baisse nette vers la fin du lot : *Macbeth*, *Roméo et Juliette* et *Œdipe roi* ont reçu le même traitement que les premières œuvres. Mais le bon test serait un lot où les œuvres difficiles (graphies, recensions, textes partiels) viennent en fin de lot, car la vérification de la passe 2 y est plus coûteuse.
+- Le Dit des Heike ne pouvait pas être vérifié : je l'ai traité comme hors zone, sans chercher d'autre source.
+- Les œuvres longues (Odyssée, environ 700 Ko) ont demandé beaucoup de contextes pour chaque fait ; la fatigue réelle est plus probable à ce moment-là que vers la fin de lot.
+
+### Retours sur la consigne
+
+- **Fait attesté sous une seule partie.** « Le moine qui les marie est frère Laurent » ne se vérifie qu'à moitié : la consigne de scission a bien joué, mais elle suppose qu'on voie le fait comme deux affirmations. Un exemple dans la consigne aiderait.
+- **Détail incompatible, sans être absent.** « Pieds percés » contre « pieds liés » : le texte ne dit pas que l'enfant a été percé, il dit qu'il a été lié. La consigne ne tranche pas : j'ai corrigé. Préciser si un détail incompatible avec le texte est une contradiction (corrigé) ou une absence (hors zone).
+- **Ligne « Corpus » inexacte.** Pour Macbeth, « 5 pages choisies » recouvre la pièce entière ; pour les Mille et Une Nuits, la ligne « 2 pages choisies » ne dit pas que le cadre est là en entier. La ligne devrait être générée à partir du texte.
+- **Œuvres liées à d'autres fiches.** Aladin et Ali Baba (Mille et Une Nuits), Atsumori (Heike) : je les ai tus, comme à la passe 1. La consigne pourrait dire si un titre d'une autre fiche peut être cité.

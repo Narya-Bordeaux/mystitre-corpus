@@ -1,6 +1,6 @@
 # Résumés — vague2-2
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `les-mille-et-une-nuits`, `le-conte-du-coupeur-de-bambous`, `le-dit-des-heike`, `les-contes-dise`, `voyage-en-occident`, `odyssee`, `iliade`, `macbeth`, `romeo-et-juliette`, `oedipe-roi`
 - Créée le : 2026-11-19
 
@@ -22,13 +22,13 @@ Mon père, le grand vizir, m'a suppliée de renoncer, mais j'ai voulu épouser l
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le sultan se nomme Shahriar | `Schahriar`, `Shahriar`, `Chahriar`, `Schahr` | à vérifier | |
-| La conteuse est la fille aînée du grand vizir | `Scheherazade`, `Schéhérazade`, `Shéhérazade`, `Schahrazade`, `vizir` | à vérifier | |
-| La sœur de la conteuse se nomme Dinarzade | `Dinarzade`, `Doniazade`, `Dunyazad` | à vérifier | |
-| La conteuse interrompt son récit à l'approche du jour | `jour`, `aurore`, `aube` | à vérifier | |
-| Le premier conte est celui du marchand et du génie | `marchand`, `génie` | à vérifier | |
-| À la fin, le sultan renonce à son serment de faire mourir ses épouses | `serment`, `loi`, `révoqu` | à vérifier | |
-| Haroun al-Rachid, calife de Bagdad, parcourt la ville la nuit | `Haroun`, `Aroun`, `Bagdad`, `calife` | à vérifier | |
+| Le sultan se nomme Shahriar | `Schahriar`, `Shahriar`, `Chahriar`, `Schahr` | confirmé | `p00002` |
+| La conteuse est la fille aînée du grand vizir | `Scheherazade`, `Schéhérazade`, `Shéhérazade`, `Schahrazade`, `vizir` | confirmé | `p00031` |
+| La sœur de la conteuse se nomme Dinarzade | `Dinarzade`, `Doniazade`, `Dunyazad` | confirmé | `p00031` |
+| La conteuse interrompt son récit à l'approche du jour | `jour`, `aurore`, `aube` | hors zone | absent des pages enregistrées : « aube » et « aurore » n’y figurent pas |
+| Le premier conte est celui du marchand et du génie | `marchand`, `génie` | hors zone | absent des pages enregistrées : le premier conte n’y figure pas |
+| À la fin, le sultan renonce à son serment de faire mourir ses épouses | `serment`, `loi`, `révoqu` | confirmé | `p00163` (serment : `p00032`) |
+| Haroun al-Rachid, calife de Bagdad, parcourt la ville la nuit | `Haroun`, `Aroun`, `Bagdad`, `calife` | confirmé | `p00038` |
 
 ### Notes
 
@@ -43,6 +43,8 @@ Mon père, le grand vizir, m'a suppliée de renoncer, mais j'ai voulu épouser l
 - Dénouement : « près de trois ans » est un calcul (mille et une nuits ≈ deux ans et neuf mois) ; l'ancien résumé disait « plus de deux ans ». Je ne me souviens pas bien de la fin chez Galland : je crois que le sultan, admiratif, révoque simplement sa loi ; dans d'autres versions, Shéhérazade lui présente les enfants qu'elle lui a donnés. Le fait « renonce à son serment » est formulé large.
 - Mots du titre : « nuit après nuit » et « chaque soir » gardés (mot courant « nuit » permis) ; j'évite « mille et une nuits » dans le calcul de la durée.
 - La fiche du catalogue ne nomme personne ; rien de contradictoire avec ma mémoire.
+
+- Vérification : Shahriar (`p00002`), Scheherazade aînée du vizir et Dinarzade sa sœur (`p00031`), la renonciation à la « loi cruelle » (`p00163`) et Haroun Alraschid sorti la nuit à Bagdad (`p00038`) sont confirmés, dans la graphie Galland du texte. L'aube, la demande de Dinarzade et le premier conte (marchand et génie) sont absents des pages enregistrées : hors zone, texte inchangé. « Près de trois ans » est confirmé par « Mille et une nuits s'étoient écoulées » (`p00162`).
 
 ### Anciens textes
 
@@ -65,14 +67,14 @@ On m'a trouvée dans une tige de bambou qui brillait, si petite que je tenais da
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le vieillard se nomme Sanuki no Miyatsuko | `讃岐`, `さぬき`, `造` | à vérifier | |
-| L'enfant trouvée dans le bambou mesure trois pouces | `三寸` | à vérifier | |
-| L'enfant devient une jeune fille en trois mois | `三月`, `みつき`, `三箇月` | à vérifier | |
-| L'un des trésors exigés est une robe en peau de rat de feu | `火鼠`, `皮衣` | à vérifier | |
-| L'empereur et la jeune fille échangent des lettres pendant trois ans | `三年`, `御文`, `文` | à vérifier | |
-| L'empereur fait garder la maison par des soldats la nuit du départ | `二千人`, `十五日`, `守` | à vérifier | |
-| La jeune fille revêtue de la robe céleste oublie les sentiments humains | `羽衣`, `天の羽衣` | à vérifier | |
-| L'élixir d'immortalité est brûlé au sommet du mont Fuji | `不死`, `富士`, `藥`, `薬` | à vérifier | |
+| Le vieillard se nomme Sanuki no Miyatsuko | `讃岐`, `さぬき`, `造` | confirmé | `p00006` |
+| L'enfant trouvée dans le bambou mesure trois pouces | `三寸` | confirmé | `p00006` |
+| L'enfant devient une jeune fille en trois mois | `三月`, `みつき`, `三箇月` | confirmé | `p00006` |
+| L'un des trésors exigés est une robe en peau de rat de feu | `火鼠`, `皮衣` | confirmé | `p00008` |
+| L'empereur et la jeune fille échangent des lettres pendant trois ans | `三年`, `御文`, `文` | confirmé | `p00048` |
+| L'empereur fait garder la maison par des soldats la nuit du départ | `二千人`, `十五日`, `守` | confirmé | `p00048` |
+| La jeune fille revêtue de la robe céleste oublie les sentiments humains | `羽衣`, `天の羽衣` | confirmé | `p00050` |
+| L'élixir d'immortalité est brûlé au sommet du mont Fuji | `不死`, `富士`, `藥`, `薬` | confirmé | `p00052` |
 
 ### Notes
 
@@ -87,6 +89,8 @@ On m'a trouvée dans une tige de bambou qui brillait, si petite que je tenais da
 - Le nom du mont : de mémoire, le texte explique le nom de la montagne par les nombreux soldats (士に富む) qui y montent, avec un jeu sur 不死 (immortalité). « mont Fuji » dans le résumé est assez sûr.
 - Ordre de `personalSummary` : les pleurs devant la lune viennent avant l'aveu de son origine ; j'ai mis les lettres de l'empereur avant, ce qui me paraît juste (trois ans de correspondance, puis la tristesse au printemps de la troisième année).
 - Désaccord avec la fiche : aucun.
+
+- Vérification : le nom Sanuki (`p00006`), les trois pouces et la main (`p00006`), les trois mois (`p00006`), la robe de rat de feu (`p00008`), les trois ans de lettres et les deux mille gardes (`p00048`), la robe céleste (`p00050`) et le mont nommé ふしの山 où l'élixir est brûlé (`p00052`) sont confirmés. Aucun fait corrigé. Le doute sur « une main » est levé : le texte dit «手にうち入れて ».
 
 ### Anciens textes
 
@@ -109,13 +113,13 @@ Fille du chef de notre clan, je suis devenue impératrice, et mon fils est mont�
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le récit s'ouvre sur la cloche du monastère de Gion | `祇園精舎`, `鐘の聲`, `鐘の声`, `Gion` | à vérifier | |
-| Taira no Kiyomori meurt d'une fièvre brûlante | `清盛`, `Kiyomori`, `あつち死`, `熱` | à vérifier | |
-| Minamoto no Yoshinaka chasse les Taira de la capitale | `義仲`, `木曾`, `Yoshinaka` | à vérifier | |
-| Yoshitsune lance ses cavaliers du haut d'une falaise à Ichi-no-Tani | `義經`, `義経`, `一谷`, `一の谷`, `鵯越`, `Yoshitsune` | à vérifier | |
-| La grand-mère de l'empereur enfant se jette dans la mer avec lui à Dan-no-ura | `二位`, `安德`, `安徳`, `壇浦`, `壇の浦`, `Antoku` | à vérifier | |
-| Kenreimon-in est retirée des flots par les cheveux | `建禮門院`, `建礼門院`, `御髪`, `熊手` | à vérifier | |
-| Kenreimon-in finit ses jours dans un ermitage | `寂光院`, `大原`, `Ohara`, `Jakko` | à vérifier | |
+| Le récit s'ouvre sur la cloche du monastère de Gion | `祇園精舎`, `鐘の聲`, `鐘の声`, `Gion` | hors zone | absent : aucun texte de l’œuvre au corpus |
+| Taira no Kiyomori meurt d'une fièvre brûlante | `清盛`, `Kiyomori`, `あつち死`, `熱` | hors zone | absent : aucun texte de l’œuvre au corpus |
+| Minamoto no Yoshinaka chasse les Taira de la capitale | `義仲`, `木曾`, `Yoshinaka` | hors zone | absent : aucun texte de l’œuvre au corpus |
+| Yoshitsune lance ses cavaliers du haut d'une falaise à Ichi-no-Tani | `義經`, `義経`, `一谷`, `一の谷`, `鵯越`, `Yoshitsune` | hors zone | absent : aucun texte de l’œuvre au corpus |
+| La grand-mère de l'empereur enfant se jette dans la mer avec lui à Dan-no-ura | `二位`, `安德`, `安徳`, `壇浦`, `壇の浦`, `Antoku` | hors zone | absent : aucun texte de l’œuvre au corpus |
+| Kenreimon-in est retirée des flots par les cheveux | `建禮門院`, `建礼門院`, `御髪`, `熊手` | hors zone | absent : aucun texte de l’œuvre au corpus |
+| Kenreimon-in finit ses jours dans un ermitage | `寂光院`, `大原`, `Ohara`, `Jakko` | hors zone | absent : aucun texte de l’œuvre au corpus |
 
 ### Notes
 
@@ -130,6 +134,8 @@ Fille du chef de notre clan, je suis devenue impératrice, et mon fils est mont�
 - « Kenreimon-in … dans un ermitage » : de mémoire, le Jakkō-in à Ōhara, où Go-Shirakawa vient la visiter ; je ne nomme pas le lieu dans le texte.
 - La fiche du catalogue concorde avec ma mémoire (cloche, falaise, jeune guerrier à la flûte, grand-mère et enfant, ermitage).
 - « les défait » plutôt que « les écrase » : à Yashima, de mémoire, les Taira reprennent la mer plutôt qu'ils ne sont anéantis ; corrigé en rédigeant.
+
+- Vérification : aucun texte de l'œuvre au corpus. Tous les faits restent hors zone, doutes compris (cheveux et râteau, fièvre de Kiyomori, ordre Yoshinaka et Ichi-no-Tani). Le fichier `atsumori.md` raconte l'épisode d'Ichi-no-Tani, mais il appartient à une autre œuvre : il n'est pas utilisé.
 
 ### Anciens textes
 
@@ -152,13 +158,13 @@ En cent vingt-cinq courts épisodes, qui s'ouvrent presque tous sur « Jadis, il
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les épisodes commencent presque tous par « Jadis, il y avait un homme » | `男ありけり`, `をとこありけり`, `むかし` | à vérifier | |
-| Le jeune homme écrit son poème sur un pan coupé de sa robe de chasse | `狩衣`, `裾` | à vérifier | |
-| Les deux sœurs vivent au village de Kasuga | `春日`, `はらから` | à vérifier | |
-| La dame enlevée est dévorée par un démon près de la rivière Akuta | `芥川`, `鬼` | à vérifier | |
-| Le poème sur les iris est composé à Yatsuhashi | `八橋`, `かきつばた` | à vérifier | |
-| Au bord de la Sumida, l'homme interroge les oiseaux appelés « oiseaux de la capitale » | `すみだ`, `隅田`, `都鳥`, `みやこどり` | à vérifier | |
-| Le dernier poème dit la surprise devant la route que tous doivent prendre | `つひにゆく`, `つゐにゆく`, `昨日今日` | à vérifier | |
+| Les épisodes commencent presque tous par « Jadis, il y avait un homme » | `男ありけり`, `をとこありけり`, `むかし` | confirmé | `p00010` |
+| Le jeune homme écrit son poème sur un pan coupé de sa robe de chasse | `狩衣`, `裾` | confirmé | `p00005` |
+| Les deux sœurs vivent au village de Kasuga | `春日`, `はらから` | confirmé | `p00005` |
+| La dame enlevée est dévorée par un démon près de la rivière Akuta | `芥川`, `鬼` | confirmé | `p00021` |
+| Le poème sur les iris est composé à Yatsuhashi | `八橋`, `かきつばた` | confirmé | `p00031` |
+| Au bord de la Sumida, l'homme interroge les oiseaux appelés « oiseaux de la capitale » | `すみだ`, `隅田`, `都鳥`, `みやこどり` | confirmé | `p00037` |
+| Le dernier poème dit la surprise devant la route que tous doivent prendre | `つひにゆく`, `つゐにゆく`, `昨日今日` | confirmé | `p00452` |
 
 ### Notes
 
@@ -172,6 +178,8 @@ En cent vingt-cinq courts épisodes, qui s'ouvrent presque tous sur « Jadis, il
 - Épisode de la rivière Akuta : de mémoire, il porte la femme sur son dos, elle lui demande ce que sont les gouttes de rosée, il l'abrite dans une remise pendant l'orage et le démon la dévore d'une bouchée ; une glose finale explique que c'étaient ses frères venus la reprendre. « une dame de haut rang » est une formulation large (la future impératrice de Nijō, selon la glose).
 - Simplifications : tus l'épisode du puits (« Tsutsui-zutsu »), le mont Fuji vu pendant le voyage, le prince Koretaka.
 - « oiseaux des rivières de l'est » dans `personalSummary` : allusion aux 都鳥 de la Sumida ; formulation volontairement large.
+
+- Vérification : « Jadis, il y avait un homme » (`p00010`), le pan (すそ) de la robe de chasse (`p00005` : « un pan » est juste, le texte ne parle pas de manche), Kasuga (`p00005`), le démon d'Akuta (`p00021`), Yatsuhashi (`p00031`), Sumida et les oiseaux de la capitale (`p00037`), le dernier poème (`p00452`) sont confirmés. Narihira n'apparaît que dans le commentaire éditorial, pas dans les épisodes : « que la tradition identifie » est juste. Le nombre de cent vingt-cinq épisodes n'est pas relevé : non vérifié, signalé.
 
 ### Anciens textes
 
@@ -194,14 +202,14 @@ Je suis sorti d'une pierre, j'ai régné sur les singes de ma montagne et j'ai a
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le singe naît d'une pierre sur le mont des Fleurs et des Fruits | `花果山`, `石猴`, `仙石` | à vérifier | |
-| Son maître lui donne le nom de Sun Wukong | `孫悟空`, `孙悟空`, `悟空`, `須菩提`, `须菩提` | à vérifier | |
-| Il apprend soixante-douze métamorphoses | `七十二` | à vérifier | |
-| Le Bouddha l'emprisonne sous une montagne pendant cinq cents ans | `五行山`, `五百年` | à vérifier | |
-| Le moine envoyé par l'empereur des Tang est Xuanzang, dit Tripitaka | `三藏`, `唐僧`, `玄奘`, `唐王`, `太宗` | à vérifier | |
-| Les pèlerins surmontent quatre-vingt-une épreuves | `八十一難`, `八十一难`, `九九` | à vérifier | |
-| À la fin, le singe devient le Bouddha victorieux des combats | `鬥戰勝佛`, `斗战胜佛`, `戰勝佛` | à vérifier | |
-| Zhu Bajie et Sha Wujing reçoivent aussi un titre à la fin | `八戒`, `沙僧`, `悟淨`, `悟净`, `淨壇使者`, `金身羅漢` | à vérifier | |
+| Le singe naît d'une pierre sur le mont des Fleurs et des Fruits | `花果山`, `石猴`, `仙石` | confirmé | `p00007` |
+| Son maître lui donne le nom de Sun Wukong | `孫悟空`, `孙悟空`, `悟空`, `須菩提`, `须菩提` | confirmé | `p00076` |
+| Il apprend soixante-douze métamorphoses | `七十二` | hors zone | absent des pages enregistrées : absent des chapitres 1 et 100 |
+| Le Bouddha l'emprisonne sous une montagne pendant cinq cents ans | `五行山`, `五百年` | confirmé | `p00089` |
+| Le moine envoyé par l'empereur des Tang est Xuanzang, dit Tripitaka | `三藏`, `唐僧`, `玄奘`, `唐王`, `太宗` | confirmé | `p00098` |
+| Les pèlerins surmontent quatre-vingt-une épreuves | `八十一難`, `八十一难`, `九九` | hors zone | absent des pages enregistrées : absent des chapitres 1 et 100 |
+| À la fin, le singe devient le Bouddha victorieux des combats | `鬥戰勝佛`, `斗战胜佛`, `戰勝佛` | confirmé | `p00108` |
+| Zhu Bajie et Sha Wujing reçoivent aussi un titre à la fin | `八戒`, `沙僧`, `悟淨`, `悟净`, `淨壇使者`, `金身羅漢` | confirmé | `p00108` |
 
 ### Notes
 
@@ -217,6 +225,8 @@ Je suis sorti d'une pierre, j'ai régné sur les singes de ma montagne et j'ai a
 - Simplifications : tus Guanyin (qui choisit le moine et donne le cercle), les pêches d'immortalité volées (sauf dans `personalSummary`), les grands épisodes (Démon des os blancs, mont des Flammes), les écritures blanches remises d'abord faute de présent, et le retour de la dernière épreuve.
 - L'ancien résumé disait « des animaux fantastiques : un singe, un cochon, un cheval » : Sha Wujing manquait.
 - Premier jet à 126 mots : coupes de mots (« saintes », « serré sur son front » devenu « autour du front », « Cinq siècles après »), sans retirer d'épisode.
+
+- Vérification : le nom Sun Wukong donné par le maître est au chapitre 1 (`p00076`) : le doute est levé. Le roc du mont (`p00007`), les cinq cents ans sous la montagne (`p00089`, chapitre 100), Xuanzang et le Tang (`p00098`), le singe devenu 鬥戰勝佛 (`p00108`) et Bajie 淨壇使者, non bouddha (`p00108`), sont confirmés. Les soixante-douze métamorphoses et les quatre-vingt-une épreuves sont absents des chapitres 1 et 100 : hors zone.
 
 ### Anciens textes
 
@@ -239,14 +249,14 @@ Après Troie, j'ai voulu rentrer à Ithaque, et la mer m'a refusé le chemin pen
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Au début, Ulysse est retenu par la nymphe Calypso | `Kalypsô`, `Kalypso`, `Calypso` | à vérifier | |
-| Télémaque part chercher des nouvelles de son père | `Tèlémakhos`, `Télémaque`, `Pylos`, `Lakédaimôn`, `Sparte` | à vérifier | |
-| Ulysse raconte ses errances au roi des Phéaciens | `Phaiakiens`, `Phéaciens`, `Alkinoos`, `Alcinoos` | à vérifier | |
-| Les compagnons périssent pour avoir mangé les bœufs du Soleil | `bœufs`, `Hèlios`, `Hélios` | à vérifier | |
-| Ulysse se fait attacher au mât pour entendre les Sirènes | `Seirènes`, `Sirènes`, `mât` | à vérifier | |
-| Athéna donne à Ulysse l'apparence d'un vieux mendiant | `mendiant`, `Athènè`, `Athéna` | à vérifier | |
-| Ulysse seul parvient à tendre l'arc proposé aux prétendants | `arc`, `haches`, `nerf` | à vérifier | |
-| Le lit d'Ulysse et de Pénélope est taillé dans un olivier | `olivier`, `lit`, `Pènélopéia`, `Pénélope` | à vérifier | |
+| Au début, Ulysse est retenu par la nymphe Calypso | `Kalypsô`, `Kalypso`, `Calypso` | confirmé | `p00012` |
+| Télémaque part chercher des nouvelles de son père | `Tèlémakhos`, `Télémaque`, `Pylos`, `Lakédaimôn`, `Sparte` | confirmé | `p00143` |
+| Ulysse raconte ses errances au roi des Phéaciens | `Phaiakiens`, `Phéaciens`, `Alkinoos`, `Alcinoos` | confirmé | `p00287` |
+| Les compagnons périssent pour avoir mangé les bœufs du Soleil | `bœufs`, `Hèlios`, `Hélios` | confirmé | `p00011` |
+| Ulysse se fait attacher au mât pour entendre les Sirènes | `Seirènes`, `Sirènes`, `mât` | confirmé | `p00704` |
+| Athéna donne à Ulysse l'apparence d'un vieux mendiant | `mendiant`, `Athènè`, `Athéna` | confirmé | `p00796` |
+| Ulysse seul parvient à tendre l'arc proposé aux prétendants | `arc`, `haches`, `nerf` | confirmé | `p01379` |
+| Le lit d'Ulysse et de Pénélope est taillé dans un olivier | `olivier`, `lit`, `Pènélopéia`, `Pénélope` | confirmé | `p01498` |
 
 ### Notes
 
@@ -259,6 +269,8 @@ Après Troie, j'ai voulu rentrer à Ithaque, et la mer m'a refusé le chemin pen
 - « Il bande seul l'arc » : de mémoire, l'épreuve consiste à tendre l'arc et à faire passer la flèche à travers douze haches ; le premier tué est Antinoos. Non écrit faute de place.
 - Fin tue : la visite à Laërte et la paix imposée par Athéna aux familles des prétendants. Le dénouement retenu est la reconnaissance par le lit, plus parlant pour le joueur.
 - « la mer m'a refusé le chemin pendant dix ans » : dix ans d'errance après dix ans de guerre, assez sûr.
+
+- Vérification : Calypso (`p00012`), Télémaque à Pylos puis à Sparte (`p00143`), les Phéaciens (`p00287`), les bœufs d'Hélios (`p00011`), l'attache au mât (`p00704`), Athéna qui fait d'Ulysse un vieux mendiant (`p00796`), l'arc tendu par Ulysse, l'épreuve achevée et Antinoos frappé en premier, les autres prétendants n'ayant pu tendre l'arc (`p01379`), le lit d'olivier poli (`p01498`) sont confirmés.
 
 ### Anciens textes
 
@@ -281,14 +293,14 @@ Agamemnon m'a pris Briséis, la captive que l'armée m'avait donnée : je me sui
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Agamemnon refuse de rendre sa fille à Chrysès, prêtre d'Apollon | `Khrysès`, `Chrysès`, `Apollôn`, `Apollon` | à vérifier | |
-| Agamemnon prend Briséis à Achille | `Breisèis`, `Briséis`, `Briseis`, `Akhilleus`, `Achille` | à vérifier | |
-| Achille demande à sa mère Thétis d'obtenir de Zeus la défaite des Grecs | `Thétis`, `Zeus` | à vérifier | |
-| Patrocle est tué par Hector | `Patroklos`, `Patrocle`, `Hektôr`, `Hector` | à vérifier | |
-| Achille traîne le corps d'Hector derrière son char | `char`, `traîn` | à vérifier | |
-| Hermès guide Priam jusqu'à la tente d'Achille | `Hermès`, `Hermeias`, `Priamos`, `Priam` | à vérifier | |
-| Priam baise les mains d'Achille | `mains`, `baisa` | à vérifier | |
-| L'œuvre se clôt sur les funérailles d'Hector | `funérailles`, `Hektôr`, `Hector` | à vérifier | |
+| Agamemnon refuse de rendre sa fille à Chrysès, prêtre d'Apollon | `Khrysès`, `Chrysès`, `Apollôn`, `Apollon` | confirmé | `p00003` |
+| Agamemnon prend Briséis à Achille | `Breisèis`, `Briséis`, `Briseis`, `Akhilleus`, `Achille` | confirmé | `p00029` |
+| Achille demande à sa mère Thétis d'obtenir de Zeus la défaite des Grecs | `Thétis`, `Zeus` | confirmé | `p00078` |
+| Patrocle est tué par Hector | `Patroklos`, `Patrocle`, `Hektôr`, `Hector` | confirmé | `p00195` |
+| Achille traîne le corps d'Hector derrière son char | `char`, `traîn` | confirmé | `p00096` |
+| Hermès guide Priam jusqu'à la tente d'Achille | `Hermès`, `Hermeias`, `Priamos`, `Priam` | confirmé | `p00137` |
+| Priam baise les mains d'Achille | `mains`, `baisa` | confirmé | `p00162` |
+| L'œuvre se clôt sur les funérailles d'Hector | `funérailles`, `Hektôr`, `Hector` | confirmé | `p00202` |
 
 ### Notes
 
@@ -303,6 +315,8 @@ Agamemnon m'a pris Briséis, la captive que l'armée m'avait donnée : je me sui
 - « nous avons pleuré ensemble » : de mémoire, Priam pleure Hector et Achille pleure son père Pélée et Patrocle ; image que je crois juste, à vérifier.
 - Simplifications : tus l'ambassade auprès d'Achille, les nouvelles armes forgées par Héphaïstos, les jeux funèbres de Patrocle, la trêve accordée pour les funérailles.
 - Fait sur la dernière phrase : de mémoire, le dernier vers dit « Ainsi furent célébrées les funérailles d'Hector, dompteur de chevaux ».
+
+- Vérification : Khrysès et Agamemnon (`p00003`), Briséis (`p00029`), Thétis et Zeus, qui promet de soutenir les Troyens (`p00078`), Patrocle tué par Hector (`p00195`), Hector traîné derrière le char (`p00096`), Herméias qui guide Priam (`p00137`), Priam qui baise les mains d'Achille (`p00162`), les funérailles d'Hector pour dernier mot (`p00202`) sont confirmés. Le héraut accompagne Priam dans le chant XXIV : « vient de nuit » sans « seul » reste juste. Priam et Achille pleurent ensemble dans le même chant : confirmé.
 
 ### Anciens textes
 
@@ -325,14 +339,14 @@ Trois sorcières m'ont salué roi sur une lande, et leur première promesse s'es
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les sorcières prédisent au thane de Glamis qu'il sera thane de Cawdor puis roi | `Cawdor`, `Glamis`, `sorcières` | à vérifier | |
-| Les sorcières annoncent à Banquo qu'il sera père de rois | `Banquo`, `rois` | à vérifier | |
-| Duncan est tué endormi au château de son meurtrier | `Duncan`, `Inverness`, `dort` | à vérifier | |
-| Le spectre de Banquo apparaît pendant le festin | `spectre`, `ombre`, `fantôme`, `Banquo` | à vérifier | |
-| La femme et les enfants de Macduff sont massacrés | `Macduff`, `enfants` | à vérifier | |
-| Somnambule, la reine frotte ses mains pour en ôter une tache | `tache`, `mains`, `somnambul` | à vérifier | |
-| Les soldats de Malcolm avancent cachés derrière des branches de la forêt de Birnam | `Birnam`, `Dunsinane`, `branche`, `rameau` | à vérifier | |
-| Macduff a été arraché avant terme du sein de sa mère | `Macduff`, `sein`, `arraché` | à vérifier | |
+| Les sorcières prédisent au thane de Glamis qu'il sera thane de Cawdor puis roi | `Cawdor`, `Glamis`, `sorcières` | confirmé | `p00069` |
+| Les sorcières annoncent à Banquo qu'il sera père de rois | `Banquo`, `rois` | confirmé | `p00076` |
+| Duncan est tué endormi au château de son meurtrier | `Duncan`, `Inverness`, `dort` | confirmé | `p00163` |
+| Le spectre de Banquo apparaît pendant le festin | `spectre`, `ombre`, `fantôme`, `Banquo` | confirmé | `p00425` |
+| La femme et les enfants de Macduff sont massacrés | `Macduff`, `enfants` | confirmé | `p00668` |
+| Somnambule, la reine frotte ses mains pour en ôter une tache | `tache`, `mains`, `somnambul` | confirmé | `p00698` |
+| Les soldats de Malcolm avancent cachés derrière des branches de la forêt de Birnam | `Birnam`, `Dunsinane`, `branche`, `rameau` | confirmé | `p00767` |
+| Macduff a été arraché avant terme du sein de sa mère | `Macduff`, `sein`, `arraché` | confirmé | `p00828` |
 
 ### Notes
 
@@ -349,6 +363,8 @@ Trois sorcières m'ont salué roi sur une lande, et leur première promesse s'es
 - Simplifications : tus Fléance (fils de Banquo qui s'échappe), le portier, les meurtres des chambellans, Ross, Siward, Hécate.
 - L'ancien `summary` disait « sombre progressivement dans la folie » ; de mémoire, c'est plutôt sa femme qui perd la raison ; lui sombre dans la tyrannie et le désespoir.
 - Ambiguïté corrigée en rédigeant : « marcher sur son château … le tue », juste après une phrase sur sa femme, devenu « le château du tyran ».
+
+- Vérification : « Cawdor » puis « roi » (`p00068`, `p00069`), Banquo père de rois (`p00076`), Duncan endormi au château de Macbeth à Inverness (`p00163`), l'ombre de Banquo qui s'assied à la place de Macbeth (`p00425`, doute levé), les petits enfants de Macduff massacrés (`p00668`), la reine qui « a toujours l'air de se laver les mains » (`p00698`), les branches de la forêt de Birnam (`p00767`), Macduff arraché avant terme (`p00828`) sont confirmés. La fiche indique « 5 pages choisies » : le corpus contient les cinq actes, donc la pièce entière.
 
 ### Anciens textes
 
@@ -371,14 +387,15 @@ Je n'avais pas quatorze ans quand, au bal de mon père, un jeune homme masqué m
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La jeune fille n'a pas encore quatorze ans | `fourteen` | à vérifier | |
-| Avant le bal, le jeune Montaigu se morfond pour Rosaline | `Rosaline` | à vérifier | |
-| Les amants se rencontrent à un bal masqué chez les Capulet | `mask`, `feast`, `Capulet` | à vérifier | |
-| Le moine qui les marie est frère Laurent | `Friar Laurence`, `Laurence`, `Lawrence` | à vérifier | |
-| Le jeune homme est banni à Mantoue | `Mantua`, `banish` | à vérifier | |
-| La lettre du frère Laurent n'est pas parvenue au jeune homme | `Friar John`, `letter` | à vérifier | |
-| Le jeune homme s'empoisonne avec un poison acheté à un apothicaire | `apothecary`, `poison` | à vérifier | |
-| La jeune femme se tue avec le poignard de son mari | `dagger` | à vérifier | |
+| La jeune fille n'a pas encore quatorze ans | `fourteen` | confirmé | `p00167` |
+| Avant le bal, le jeune Montaigu se morfond pour Rosaline | `Rosaline` | confirmé | `p00151` |
+| Les amants se rencontrent à un bal masqué chez les Capulet | `mask`, `feast`, `Capulet` | confirmé | `p00234` |
+| Le moine est frère Laurent | `Friar Laurence`, `Laurence`, `Lawrence` | confirmé | `p00322` |
+| Frère Laurent les marie en secret | `Friar Laurence`, `Laurence`, `Lawrence` | hors zone | absent des pages enregistrées : le mariage a lieu à l’acte II, non enregistré |
+| Le jeune homme est banni à Mantoue | `Mantua`, `banish` | confirmé | `p00300`, `p00350` |
+| La lettre du frère Laurent n'est pas parvenue au jeune homme | `Friar John`, `letter` | confirmé | `p00329` |
+| Le jeune homme s'empoisonne avec un poison acheté à un apothicaire | `apothecary`, `poison` | confirmé | `p00310` |
+| La jeune femme se tue avec le poignard de son mari | `dagger` | confirmé | `p00379` |
 
 ### Notes
 
@@ -392,6 +409,8 @@ Je n'avais pas quatorze ans quand, au bal de mon père, un jeune homme masqué m
 - Doute : la lettre est confiée à frère Jean, retenu par une quarantaine ; je ne nomme pas frère Jean dans le texte.
 - Simplifications : tus la nourrice, le prince Escalus, Benvolio, la mort de Pâris tué par le jeune homme devant le caveau, le valet Balthazar qui annonce la mort.
 - « se haïssent depuis toujours » : le prologue parle d'une rancune ancienne (« ancient grudge ») ; formulation large.
+
+- Vérification : « not fourteen » (`p00167`), Rosaline (`p00151`), le bal masqué (`p00234`), la main et le baiser du sonnet (`p00255`), Mantoue et le bannissement (`p00300`, `p00350`), la lettre non remise (`p00329`), l'apothicaire (`p00310`) et le poignard (`p00379`) sont confirmés. Frère Laurent est bien le moine (`p00322`), mais le mariage a lieu à l'acte II, absent du corpus : le fait est scindé, sa seconde partie est hors zone.
 
 ### Anciens textes
 
@@ -408,20 +427,20 @@ La peste ravage Thèbes. Son roi, qui a jadis délivré la ville du Sphinx, appr
 
 ### personalSummary
 
-J'ai délivré Thèbes du Sphinx, et l'on m'a donné son trône avec la veuve de son roi. Quand la peste est venue, j'ai juré de trouver le meurtrier de Laïos et je l'ai maudit devant tous. J'ai accusé le devin, puis Créon ; ma femme m'a supplié de cesser mes questions. Mais un vieux berger a parlé : l'enfant abandonné les pieds percés, c'était moi. J'ai tué mon père, épousé ma mère, et de mes propres mains j'ai crevé ces yeux qui n'avaient rien vu.
+J'ai délivré Thèbes du Sphinx, et l'on m'a donné son trône avec la veuve de son roi. Quand la peste est venue, j'ai juré de trouver le meurtrier de Laïos et je l'ai maudit devant tous. J'ai accusé le devin, puis Créon ; ma femme m'a supplié de cesser mes questions. Mais un vieux berger a parlé : l'enfant abandonné les pieds liés, c'était moi. J'ai tué mon père, épousé ma mère, et de mes propres mains j'ai crevé ces yeux qui n'avaient rien vu.
 
 ### Faits à vérifier
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Créon rapporte l'oracle de Delphes qui exige de chasser le meurtrier de Laïos | `Kréôn`, `Créon`, `Pythô`, `Delphes`, `Laios`, `Laïos` | à vérifier | |
-| Le devin Tirésias désigne le roi comme le meurtrier | `Teirésias`, `Tirésias` | à vérifier | |
-| Laïos a été tué à un carrefour de trois routes | `trois routes`, `carrefour`, `chemins` | à vérifier | |
-| Le messager de Corinthe révèle que Polybe n'était pas le père du roi | `Polybos`, `Polybe`, `Korinthe`, `Corinthe` | à vérifier | |
-| L'enfant avait été abandonné les pieds percés | `pieds`, `chevilles` | à vérifier | |
-| L'enfant avait été remis au messager par un berger de Laïos sur le Cithéron | `Kithairôn`, `Cithéron`, `berger` | à vérifier | |
-| Jocaste se pend | `Iokastè`, `Jocaste`, `pend` | à vérifier | |
-| Le roi se crève les yeux avec les agrafes de la robe de Jocaste | `agrafes`, `yeux` | à vérifier | |
+| Créon rapporte l'oracle de Delphes qui exige de chasser le meurtrier de Laïos | `Kréôn`, `Créon`, `Pythô`, `Delphes`, `Laios`, `Laïos` | confirmé | `p00014` |
+| Le devin Tirésias désigne le roi comme le meurtrier | `Teirésias`, `Tirésias` | confirmé | `p00095` |
+| Laïos a été tué à un carrefour de trois routes | `trois routes`, `carrefour`, `chemins` | confirmé | `p00226` |
+| Le messager de Corinthe révèle que Polybe n'était pas le père du roi | `Polybos`, `Polybe`, `Korinthe`, `Corinthe` | confirmé | `p00325` |
+| L'enfant avait été abandonné les pieds liés | `pieds`, `chevilles` | corrigé | `p00343` |
+| L'enfant avait été remis au messager par un berger de Laïos sur le Cithéron | `Kithairôn`, `Cithéron`, `berger` | confirmé | `p00335`, `p00353` |
+| Jocaste se pend | `Iokastè`, `Jocaste`, `pend` | confirmé | `p00443` |
+| Le roi se crève les yeux avec les agrafes de la robe de Jocaste | `agrafes`, `yeux` | confirmé | `p00443` |
 
 ### Notes
 
@@ -435,6 +454,8 @@ J'ai délivré Thèbes du Sphinx, et l'on m'a donné son trône avec la veuve de
 - Doute : le messager de Corinthe annonce d'abord la mort de Polybe, puis révèle qu'il a lui-même reçu l'enfant d'un berger de Laïos ; le berger est celui qui a survécu à l'attaque du carrefour. Ce dernier point tu faute de place.
 - « l'enfant abandonné les pieds percés » : de mémoire, les chevilles percées et liées, d'où le nom ; image sûre pour l'essentiel.
 - Simplifications : tus le chœur, Mérope, le prêtre de la scène d'ouverture, la question de la mort de Laïos et des brigands.
+
+- Vérification : l'oracle de Pythô transmis par Créon (`p00014`), Tirésias (`p00095`), les trois chemins (`p00226`), Polybe qui n'a pas engendré le roi (`p00325`), le berger de Laïos sur le Cithéron (`p00335`, `p00353`), Jocaste suspendue (`p00443`), les agrafes et les yeux (`p00443`) sont confirmés. Correction : « les pieds percés » devient « les pieds liés » (`personalSummary`, et fait n° 5), le texte disant que les pieds étaient liés (`p00343`), sans percement. La Sphinx est féminine dans le texte (`p00041`) : le résumé dit « du Sphinx », point à trancher, non corrigé.
 
 ### Anciens textes
 
