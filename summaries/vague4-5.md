@@ -1,6 +1,6 @@
 # Résumés — vague4-5
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `limpromptu-de-versailles`, `la-mort-a-venise`, `les-buddenbrook`, `la-montagne-magique`, `guillaume-tell`, `les-brigands`, `marie-stuart`, `le-joueur-dechecs`, `lettre-dune-inconnue`, `la-confusion-des-sentiments`
 - Créée le : 2026-11-20
 
@@ -22,14 +22,15 @@ Le roi veut voir aujourd'hui une comédie que je n'ai pas eu le temps d'achever,
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le roi a commandé à la troupe une comédie nouvelle | `Roi`, `comédie`, `nouvelle comédie` | à vérifier | |
-| Le chef de troupe contrefait les comédiens de l'Hôtel de Bourgogne | `Bourgogne`, `Montfleury` | à vérifier | |
-| Boursault est nommé comme auteur d'une attaque contre le chef de troupe | `Boursault`, `Portrait du peintre` | à vérifier | |
-| Sa femme lui dit qu'il aurait dû faire une comédie où il jouerait seul | `tout seul`, `ma femme`, `mon mari` | à vérifier | |
-| Il accepte qu'on attaque ses ouvrages mais demande qu'on lui laisse le reste | `ouvrages`, `le reste`, `laisse` | à vérifier | |
-| Des messagers viennent presser la troupe pendant la répétition | `nécessaire`, `le Roi arrive`, `commencer` | à vérifier | |
-| Les rôles répétés comprennent des marquis ridicules | `marquis` | à vérifier | |
-| Béjart annonce que le roi remet la comédie nouvelle à une autre fois | `Béjart`, `remet`, `une autre fois` | à vérifier | |
+| Le roi a commandé à la troupe une comédie nouvelle | `Roi`, `comédie`, `nouvelle comédie` | confirmé | p00040, p00286, p00287 |
+| Le chef de troupe contrefait les comédiens de l'Hôtel de Bourgogne | `Bourgogne`, `Montfleury` | confirmé | p00063 (Montfleury ; Beauchâteau aussi nommée) |
+| Une pièce satirique contre le chef de troupe, *Le Portrait du peintre*, est annoncée | `Lysidas`, `Portrait du peintre` | confirmé | p00204, p00223, p00241 |
+| Boursault est nommé comme auteur de cette attaque | `Boursault` | hors zone | absent du texte complet — à trancher |
+| Sa femme lui dit qu'il aurait dû faire une comédie où il jouerait seul | `tout seul`, `ma femme`, `mon mari` | confirmé | p00047, p00048 |
+| Il accepte qu'on attaque ses ouvrages mais demande qu'on lui laisse le reste | `ouvrages`, `le reste`, `laisse` | confirmé | p00247 |
+| Des messagers viennent presser la troupe pendant la répétition | `nécessaire`, `le Roi arrive`, `commencer` | confirmé | p00263, p00269-p00281 |
+| Les rôles répétés comprennent des marquis ridicules | `marquis` | confirmé | p00071-p00073 |
+| Béjart annonce que le roi remet la comédie nouvelle à une autre fois | `Béjart`, `remet`, `une autre fois` | confirmé | p00286 |
 
 ### Notes
 
@@ -43,6 +44,12 @@ Le roi veut voir aujourd'hui une comédie que je n'ai pas eu le temps d'achever,
 - Doute : les messagers. Je me rappelle des « nécessaires » qui viennent dire que le roi arrive ; je ne sais plus combien ni s'ils sont nommés. Je ne me souviens pas avec certitude d'un « fâcheux » (La Thorillière ?) qui interromprait la répétition : je ne l'écris pas.
 - Doute : « Mlle Béjart » (Madeleine) et « Béjart » (le messager final, d'après les dernières phrases de la fiche) sont deux personnes ; je les garde distinctes. Je ne suis pas sûr des rôles féminins répétés (prude, précieuse, coquette ?) : je ne les écris pas. Du Croisy, présent dans les premières répliques de la fiche, est retiré du `summary` pour tenir la fourchette.
 - La fiche ne nomme aucun personnage ; rien n'y contredit ma mémoire.
+- Vérification : Montfleury (Hôtel de Bourgogne) confirmé ; Mlle Beauchâteau, comédienne du même théâtre, est aussi nommée (p00063) : le doute est levé.
+- Vérification : « Le Portrait du peintre » est nommé deux fois (p00223, p00241) ; Boursault n'apparaît pas dans le texte. Seul « Monsieur Lysidas » annonce la pièce contre Molière (p00204, p00220). Le lien Lysidas–Boursault n'est pas dans le texte. Pas de correction : à trancher.
+- Vérification : la femme dit « vous deviez faire une comédie où vous auriez joué tout seul » (p00047), puis « Taisez-vous, ma femme » (p00048) : confirmé.
+- Vérification : la commande est acquise (« un roi me l'a commandé », p00040) ; le texte dit « souhaité » à la fin (p00287), pas de délai chiffré.
+- Vérification : les « nécessaires » pressent la troupe (p00269 à p00281) ; le messager dit « le Roi est venu » (p00263), la formule « le Roi arrive » n'est pas dans le texte.
+- Vérification : Béjart, messager final (p00286), n'est pas Mlle Béjart : les deux personnages restent distincts.
 
 ### Anciens textes
 
@@ -65,14 +72,14 @@ J'ai bâti toute ma vie sur la discipline, et un inconnu croisé près d'un cime
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'inconnu qui éveille le désir de voyage est aperçu près d'un cimetière | `cimetière`, `chapelle`, `étranger` | à vérifier | |
-| Aschenbach fait d'abord étape sur une île de l'Adriatique | `Adriatique`, `Pola`, `île` | à vérifier | |
-| L'hôtel où il s'installe est au Lido | `Lido` | à vérifier | |
-| L'adolescent se nomme Tadzio | `Tadzio`, `Tadziu` | à vérifier | |
-| L'adolescent est polonais | `polonais`, `Pologne` | à vérifier | |
-| Son départ échoue parce que sa malle est expédiée ailleurs | `malle`, `bagage`, `Côme` | à vérifier | |
-| L'épidémie qui gagne la ville est le choléra | `choléra` | à vérifier | |
-| Un coiffeur farde Aschenbach et lui teint les cheveux | `coiffeur`, `fard`, `teint` | à vérifier | |
+| L'inconnu qui éveille le désir de voyage est aperçu près d'un cimetière | `cimetière`, `chapelle`, `étranger` | confirmé | p00022-p00023 |
+| Aschenbach fait d'abord étape sur une île de l'Adriatique | `Adriatique`, `Pola`, `île` | confirmé | p00046 |
+| L'hôtel où il s'installe est au Lido | `Lido` | confirmé | p00056, p00117 |
+| L'adolescent se nomme Tadzio | `Tadzio`, `Tadziu` | confirmé | p00011, p00105 |
+| L'adolescent est polonais | `polonais`, `Pologne` | confirmé | p00017, p00085 |
+| Son départ échoue parce que sa malle est expédiée ailleurs | `malle`, `bagage`, `Côme` | confirmé | p00056, p00116 |
+| L'épidémie qui gagne la ville est le choléra | `choléra` | confirmé | p00166-p00168 |
+| Un coiffeur farde Aschenbach et lui teint les cheveux | `coiffeur`, `fard`, `teint` | confirmé | p00176-p00178 |
 
 ### Notes
 
@@ -86,6 +93,12 @@ J'ai bâti toute ma vie sur la discipline, et un inconnu croisé près d'un cime
 - Doute : la teinture des cheveux s'ajoute-t-elle au fard chez le coiffeur ? Je crois que oui ; le `summary` ne dit que « se fait farder ».
 - Doute : « en regardant Tadzio s'avancer dans la mer » ; je me souviens de l'enfant qui s'éloigne dans l'eau et semble lui faire signe ; les dernières phrases de la fiche disent seulement qu'il « voulut se lever pour le suivre » et s'affaisse sur sa chaise.
 - Tus : le vieux beau fardé du bateau, le gondolier sans licence, le rêve dionysiaque, l'employé anglais qui lui révèle l'épidémie, les fraises trop mûres.
+- Vérification : l'île de l'Adriatique « près de la côte d'Istrie » est confirmée (p00046) ; Pola est cité ailleurs (p00045, p00048), non comme étape de cette halte.
+- Vérification : Côme est écrit : la malle est « enregistrée pour Côme » (p00116). Le doute est levé.
+- Vérification : la graphie du texte est « Jaschu » (p00186), non « Jaschiu ». Le combat sur la plage est confirmé (p00186).
+- Vérification : le coiffeur lave les cheveux avec une eau foncée qui les rend noirs (p00176) : la teinture est attestée, en plus du fard (p00178).
+- Vérification : Aschenbach veut lui adresser la parole et renonce (p00133) : aucun mot échangé avec Tadzio dans le texte enregistré.
+- Vérification : la fin (p00187) montre Tadzio qui s'avance dans la mer et se retourne vers la rive, puis Aschenbach s'affaisse (p00187-p00188) ; le « signe » est une interprétation de la note, non une donnée du texte.
 
 ### Anciens textes
 
@@ -108,14 +121,14 @@ J'ai toujours été fière de notre nom. Pour lui, j'ai renoncé au jeune Morten
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le dîner d'ouverture inaugure la nouvelle demeure de la famille | `Mengstraße`, `Haus`, `Einweihung`, `demeure` | à vérifier | |
-| L'étudiant aimé de Tony se nomme Morten | `Morten`, `Schwarzkopf` | à vérifier | |
-| Le premier mari de Tony se nomme Grünlich | `Grünlich` | à vérifier | |
-| Le second mari de Tony, Permaneder, est de Munich | `Permaneder`, `München`, `Munich` | à vérifier | |
-| Thomas meurt après une visite chez le dentiste | `Zahnarzt`, `Brecht`, `dentiste` | à vérifier | |
-| Hanno meurt du typhus | `Typhus`, `Hanno` | à vérifier | |
-| La maison de commerce est liquidée | `Firma`, `liquid`, `Liquidation` | à vérifier | |
-| La vieille maison familiale passe à une autre famille | `Hagenström`, `verkauft` | à vérifier | |
+| Le dîner d'ouverture inaugure la nouvelle demeure de la famille | `Mengstraße`, `Haus`, `Einweihung`, `demeure` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| L'étudiant aimé de Tony se nomme Morten | `Morten`, `Schwarzkopf` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| Le premier mari de Tony se nomme Grünlich | `Grünlich` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| Le second mari de Tony, Permaneder, est de Munich | `Permaneder`, `München`, `Munich` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| Thomas meurt après une visite chez le dentiste | `Zahnarzt`, `Brecht`, `dentiste` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| Hanno meurt du typhus | `Typhus`, `Hanno` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| La maison de commerce est liquidée | `Firma`, `liquid`, `Liquidation` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
+| La vieille maison familiale passe à une autre famille | `Hagenström`, `verkauft` | hors zone | absent des pages enregistrées (huit paragraphes du premier chapitre) |
 
 ### Notes
 
@@ -129,6 +142,9 @@ J'ai toujours été fière de notre nom. Pour lui, j'ai renoncé au jeune Morten
 - Doute : la liquidation de la maison de commerce, voulue par le testament de Thomas, puis la mort de Hanno ; je crois que l'ordre est : mort de Thomas, liquidation, mort de Hanno. Le `summary` les met dans une même phrase sans ordre strict ; la phrase finale du roman (« C'est ainsi ! » de Sesemi Weichbrodt, dans les dernières phrases de la fiche) n'est pas reprise.
 - « hypocondriaque » : de mémoire et de la fiche.
 - Tus : le patriarche Johann, le consul Jean, Gerda la violoniste, Clara, Erika, l'élection au Sénat.
+- Vérification : le corpus ne compte que huit paragraphes, tous du premier chapitre (p00001-p00008) ; aucun fait n'est contredit, tous sont hors zone. Ni 1835, ni Mengstraße, ni Morten, ni Grünlich, ni Permaneder, ni Hagenström n'y figurent.
+- Vérification : la page « fin » (p00006-p00008) n'est pas la fin du roman, mais un passage du premier chapitre (le dîner de Sesemi Weichbrodt). La phrase finale citée dans la note ne peut donc pas être vérifiée. À trancher : la déclaration « début et fin » est à reprendre.
+- Vérification : Travemünde, Lübeck, le dentiste (Brecht ?) et le typhus de Hanno sont absents du corpus enregistré.
 
 ### Anciens textes
 
@@ -151,14 +167,15 @@ Je ne devais rester là-haut que trois semaines, le temps de voir mon cousin. Pu
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Hans Castorp vient de Hambourg | `Castorp`, `Hambourg` | à vérifier | |
-| Sa visite doit durer trois semaines | `trois semaines` | à vérifier | |
-| Son cousin se nomme Joachim | `Joachim`, `Ziemssen` | à vérifier | |
-| La femme qu'il aime se nomme Clawdia Chauchat | `Chauchat`, `Clawdia` | à vérifier | |
-| Hans reste sept ans au sanatorium | `sept ans` | à vérifier | |
-| Naphta se tue lors d'un duel avec Settembrini | `Naphta`, `Settembrini`, `duel` | à vérifier | |
-| Peeperkorn se suicide | `Peeperkorn` | à vérifier | |
-| Hans est perdu de vue sur un champ de bataille | `bataille`, `guerre`, `Tilleul`, `Lindenbaum` | à vérifier | |
+| Hans Castorp vient de Hambourg | `Castorp`, `Hambourg` | confirmé | p00002 |
+| Sa visite doit durer trois semaines | `trois semaines` | confirmé | p00002, p00028 |
+| Son cousin se nomme Joachim | `Joachim`, `Ziemssen` | confirmé | p00009 |
+| La femme qu'il aime se nomme Clawdia Chauchat | `Chauchat`, `Clawdia` | hors zone | absent des pages enregistrées |
+| Hans reste sept ans au sanatorium | `sept ans` | confirmé | p00067 |
+| Naphta et Settembrini s'affrontent en duel | `Naphta`, `Settembrini`, `duel` | confirmé | p00075 |
+| Naphta se tue au cours de ce duel | `Naphta`, `duel` | hors zone | absent du texte enregistré : « fin pénible » et « acte … désespéré » (p00074), sans le suicide écrit — à trancher |
+| Peeperkorn se suicide | `Peeperkorn` | hors zone | absent des pages enregistrées |
+| Hans est perdu de vue sur un champ de bataille | `bataille`, `guerre`, `Tilleul`, `Lindenbaum` | confirmé | p00083-p00093 |
 
 ### Notes
 
@@ -172,6 +189,10 @@ Je ne devais rester là-haut que trois semaines, le temps de voir mon cousin. Pu
 - Doute : « le coup de tonnerre » : formule dont je me souviens pour l'entrée en guerre, sans certitude sur la traduction ; à la fin, je crois que Hans chante *Le Tilleul* de Schubert en courant au feu (`Lindenbaum` en allemand ; la traduction de Betz peut dire « tilleul »).
 - La fiche donne « Davos-Platz », dans les premières phrases ; je garde « Davos ». Je ne relève pas le nom du sanatorium (le Berghof), que je crois juste, faute de place.
 - Tus : Behrens, Krokowski, la tempête de neige et son rêve (seulement évoqués dans `personalSummary`).
+- Vérification : Hambourg (p00002), les trois semaines (p00002, p00028), Joachim Ziemssen (p00009) et les sept ans (p00067) sont confirmés.
+- Vérification : « ingénieur » (absent), « carnaval » (absent), Chauchat et Clawdia (absentes) : hors zone ; la rédaction ne peut pas être tenue pour fausse.
+- Vérification : le duel de Settembrini contre Naphta est attesté (p00075) ; le suicide de Naphta n'est pas écrit (p00074), à trancher ; « Tilleul » : le chant est en allemand (vers de Der Lindenbaum, p00089 et p00092), le titre français n'est pas écrit.
+- Vérification : « 1914 » est absent du corpus ; la guerre est évoquée (p00077, p00083, p00084) sans date.
 
 ### Anciens textes
 
@@ -194,14 +215,14 @@ Je suis un chasseur de la montagne, et je crois que l'homme fort agit mieux seul
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le chasseur fait traverser le lac en pleine tempête à Baumgarten | `Baumgarten` | à vérifier | |
-| Les conjurés prêtent serment de nuit sur le Rütli | `Rütli`, `Rüttli` | à vérifier | |
-| Gessler fait hisser un chapeau sur une perche à Altdorf | `Hut`, `Stange`, `Altdorf`, `Geßler`, `Gessler` | à vérifier | |
-| Le fils du chasseur se nomme Walther | `Walther` | à vérifier | |
-| Le chasseur avoue avoir gardé une seconde flèche pour le bailli | `zweiten Pfeil`, `Pfeil` | à vérifier | |
-| Il s'échappe de la barque d'un bond sur un rocher | `Platte`, `Felsen`, `sprang` | à vérifier | |
-| Il tue Gessler dans un chemin creux près de Küssnacht | `hohle Gasse`, `Küßnacht`, `Küssnacht` | à vérifier | |
-| À la fin, Bertha donne sa main à Rudenz | `Rudenz`, `Bertha` | à vérifier | |
+| Le chasseur fait traverser le lac en pleine tempête à Baumgarten | `Baumgarten` | confirmé | p00015-p00018 |
+| Les conjurés prêtent serment de nuit sur le Rütli | `Rütli`, `Rüttli` | confirmé | p00089 |
+| Gessler fait hisser un chapeau sur une perche à Altdorf | `Hut`, `Stange`, `Altdorf`, `Geßler`, `Gessler` | confirmé | p00035, p00039, p00040 |
+| Le fils du chasseur se nomme Walther | `Walther` | confirmé | p00168 |
+| Le chasseur avoue avoir gardé une seconde flèche pour le bailli | `zweiten Pfeil`, `Pfeil` | confirmé | p00170, p00180 |
+| Il s'échappe de la barque d'un bond sur un rocher | `Platte`, `Felsen`, `sprang` | confirmé | p00201 |
+| Il tue Gessler dans un chemin creux près de Küssnacht | `hohle Gasse`, `Küßnacht`, `Küssnacht` | confirmé | p00226, p00243-p00245 |
+| À la fin, Bertha donne sa main à Rudenz | `Rudenz`, `Bertha` | confirmé | p00294 |
 
 ### Notes
 
@@ -214,6 +235,10 @@ Je suis un chasseur de la montagne, et je crois que l'homme fort agit mieux seul
 - Doute : le saut sur le rocher : je ne suis pas sûr que le texte emploie « Platte » (la Tellsplatte) ; c'est plutôt un récit du chasseur, à l'acte IV.
 - Doute : je me souviens d'une union promise plutôt que d'un mariage célébré ; j'écris « reçoit la main de Bertha », comme les dernières phrases de la fiche (« je tends la main à ce jeune homme »).
 - Tus : Attinghausen, Hedwig, Gertrud, la mort de l'empereur et Jean le Parricide au cinquième acte, le père aveuglé de Melchtal.
+- Vérification : la maxime « Der Starke ist am mächtigsten allein » est dite à Stauffacher, à l'acte I (p00043) : confirmé.
+- Vérification : le saut est un récit de Tell à l'acte IV (« hochspringend auf die Platte », p00201) : confirmé, y compris le mot « Platte ».
+- Vérification : « hohle Gasse bei Küßnacht » (p00226) : le lieu est écrit ; le tir est à p00243 (« Das ist Tells Geschoß »).
+- Vérification : graphies du texte : « Geßler » (p00028 et suivants), « Altorf » (p00035, p00040), « Bertha » (p00294) ; « Küßnacht » (p00190 et suivants).
 
 ### Anciens textes
 
@@ -236,14 +261,15 @@ Mon frère m'a volé l'amour de mon père par une lettre mensongère, et dans ma
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Franz trompe son père par une lettre venue de Leipzig | `Brief`, `Leipzig` | à vérifier | |
-| Karl rejoint une bande dans les forêts de Bohême | `böhmisch`, `Böhmen` | à vérifier | |
-| La fiancée de Karl se nomme Amalia | `Amalia` | à vérifier | |
-| Franz enferme son père dans une tour | `Turm`, `Hermann` | à vérifier | |
-| Franz se donne la mort quand la bande envahit le château | `erdrossel`, `Hutschnur`, `Franz` | à vérifier | |
-| Le vieux comte meurt en apprenant que Karl est le chef de la bande | `stirbt`, `Vater`, `Hauptmann` | à vérifier | |
-| Karl tue Amalia | `Amalia`, `ersticht`, `durchsticht` | à vérifier | |
-| Karl se livre à un journalier père de onze enfants | `Taglöhner`, `Tagelöhner`, `elf`, `journée` | à vérifier | |
+| Franz trompe son père par une lettre venue de Leipzig | `Brief`, `Leipzig` | confirmé | p00009, p00019-p00021 |
+| Karl rejoint une bande dans les forêts de Bohême | `böhmisch`, `Böhmen` | confirmé | p00144, p00182 |
+| La fiancée de Karl se nomme Amalia | `Amalia` | confirmé | p00105, p00447 |
+| Le père est enfermé dans une tour, que Karl délivre | `Thurm`, `Thurme` | confirmé | p00390, p00393 |
+| Franz l'y enferme | `Franz`, `Turm` | hors zone | absent des pages enregistrées (actes II à IV) |
+| Franz se donne la mort quand la bande envahit le château | `erdrossel`, `Hutschnur`, `Franz` | confirmé | p00338, p00352 |
+| Le vieux comte meurt en apprenant que Karl est le chef de la bande | `stirbt`, `Vater`, `Hauptmann` | hors zone | absent des pages enregistrées (son dernier mot : p00420) |
+| Karl tue Amalia | `Amalia`, `ersticht`, `durchsticht` | confirmé | p00447, p00449 |
+| Karl se livre à un journalier père de onze enfants | `Taglöhner`, `Tagelöhner`, `elf`, `journée` | confirmé | p00461 |
 
 ### Notes
 
@@ -256,6 +282,12 @@ Mon frère m'a volé l'amour de mon père par une lettre mensongère, et dans ma
 - Doute : le faux nom de Karl à son retour (« comte de Brand » ?) ; non écrit.
 - Doute : « comtes de Moor » : la fiche dit « vieux comte » ; je me souviens du prénom Maximilian, non écrit.
 - Tus : Spiegelberg, Schweizer, Roller, Kosinsky, Hermann, le pasteur Moser, le sauvetage de Roller du gibet.
+- Vérification : Leipzig (p00009, p00021) et la bande dans les « böhmischen Wäldern » (p00144, p00182) sont confirmés ; « Böhmen » n'est pas écrit.
+- Vérification : Franz « falsifie » la lettre : le texte montre la lettre lue par Franz (p00019-p00021) ; la falsification elle-même est hors champ (actes II à IV).
+- Vérification : la mort de Franz : « er reißt seine goldene Hutschnur ab, und erdrosselt sich » (p00352) : confirmé, graphie allemande incluse.
+- Vérification : le père est délivré de sa tour (p00390, p00393) ; sa mort n'est pas dans les pages enregistrées (dernière réplique p00420) : hors zone, à trancher.
+- Vérification : Karl tue Amalia par le verbe « ermorden » (p00447) ; « Sie ist getroffen » (p00449) : le sens est confirmé, le verbe précis n'est pas « ersticht ».
+- Vérification : le journalier « im Taglohn arbeitet und eilf lebendige Kinder hat » (p00461) : confirmé. Maximilian n'est pas écrit ; « comte de Brand » non plus (le mot « Brand » n'apparaît que dans « Feuerbrände »).
 
 ### Anciens textes
 
@@ -278,14 +310,14 @@ Depuis des années, je suis la prisonnière de la reine d'Angleterre, qui voit e
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La captive est détenue au château de Fotheringhay | `Fotheringhay`, `Fotheringhai` | à vérifier | |
-| Mortimer est le neveu du geôlier Paulet | `Mortimer`, `Neffe`, `Oheim` | à vérifier | |
-| Pendant l'entrevue, la captive traite Élisabeth de bâtarde | `Bastard`, `bâtarde` | à vérifier | |
-| Mortimer se tue après la trahison de Leicester | `Mortimer`, `ersticht`, `Dolch` | à vérifier | |
-| Burleigh presse Élisabeth de faire exécuter la sentence | `Burleigh`, `Burleig` | à vérifier | |
-| Élisabeth remet l'arrêt signé à son secrétaire Davison | `Davison` | à vérifier | |
-| La condamnée se confesse à Melvil avant l'échafaud | `Melvil`, `beichte` | à vérifier | |
-| Leicester s'embarque pour la France à la fin | `Frankreich`, `Leicester`, `Lester` | à vérifier | |
+| La captive est détenue au château de Fotheringhay | `Fotheringhay`, `Fotheringhai` | confirmé | p00002 |
+| Mortimer est le neveu du geôlier Paulet | `Mortimer`, `Neffe`, `Oheim` | confirmé | p00022 |
+| Pendant l'entrevue, la captive traite Élisabeth de bâtarde | `Bastard`, `bâtarde` | hors zone | absent des pages enregistrées (scène du parc, acte III) |
+| Mortimer se tue après la trahison de Leicester | `Mortimer`, `ersticht`, `Dolch` | hors zone | absent des pages enregistrées (actes II à IV non enregistrés) ; l'acte V ne donne que sa tentative de fuite, p00078 |
+| Burleigh presse Élisabeth de faire exécuter la sentence | `Burleigh`, `Burleig` | hors zone | absent des pages enregistrées (la pression n'est pas dans les pages enregistrées) |
+| Élisabeth remet l'arrêt signé à son secrétaire Davison | `Davison` | confirmé | p00138-p00139 |
+| La condamnée se confesse à Melvil avant l'échafaud | `Melvil`, `beichte` | confirmé | p00105-p00108 |
+| Leicester s'embarque pour la France à la fin | `Frankreich`, `Leicester`, `Lester` | confirmé | p00145 |
 
 ### Notes
 
@@ -300,6 +332,12 @@ Depuis des années, je suis la prisonnière de la reine d'Angleterre, qui voit e
 - Doute : la graphie allemande de Leicester (« Leicester » ou « Lester ») ; les dernières phrases de la fiche (traduites) disent « le comte Leicester » et « Il s'est embarqué pour la France ».
 - Désaccord avec l'ancien résumé : aucun ; la fiche dit la captive « accusée de complot » ; ma mémoire est qu'elle est déjà condamnée au lever du rideau, et que tout se joue sur la signature.
 - Tus : Hanna Kennedy, Shrewsbury, l'ambassadeur de France, la disgrâce de Davison et de Burleigh à la fin.
+- Vérification : Fotheringhay est écrit dès l'ouverture de l'acte I (p00002) ; le doute est levé.
+- Vérification : Mortimer est « Paulets Neffe » (p00022) : confirmé.
+- Vérification : le mot « Bastard » apparaît à l'acte I (p00040, p00055), mais pas dans la scène du parc, qui est à l'acte III, absent.
+- Vérification : à l'acte I, la captive demande « Bin ich verurtheilt ? » et Paulet répond « Ich weiß nichts » (p00019) ; à l'acte V, la condamnation est attestée (p00134) : le résumé « vient d'être condamnée » n'est pas contredit.
+- Vérification : Leicester est écrit « Lester » (p00047) et « Leicester » (p00114) ; il s'embarque « zu Schiff nach Frankreich » (p00145) : confirmé.
+- Vérification : la confession à Melvil (p00105-p00108) est confirmée ; le don de la communion n'est pas écrit dans les pages enregistrées.
 
 ### Anciens textes
 
@@ -322,14 +360,15 @@ Pendant des mois, on m'a enfermé seul dans une chambre d'hôtel, sans un livre,
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le paquebot va de New York à Buenos Aires | `New York`, `Buenos Aires` | à vérifier | |
-| Czentovic est le fils d'un batelier du Danube | `Czentovic`, `Donau`, `Schiffer` | à vérifier | |
-| McConnor est un ingénieur | `McConnor`, `Ingenieur` | à vérifier | |
-| L'inconnu est désigné comme M. B. | `Dr. B.`, `B.` | à vérifier | |
-| M. B. a été arrêté par la Gestapo | `Gestapo` | à vérifier | |
-| M. B. vole un livre d'échecs dans la poche d'un manteau | `Mantel`, `Buch` | à vérifier | |
-| M. B. bat Czentovic dans leur première partie | `gewonnen`, `aufgegeben`, `Partie` | à vérifier | |
-| Le narrateur interrompt la crise de M. B. pendant la seconde partie | `Narbe`, `Hand`, `Mr. Czentovic` | à vérifier | |
+| Le paquebot va de New York à Buenos Aires | `New York`, `Buenos Aires` | confirmé | p00001 |
+| Czentovic est le fils d'un batelier du Danube | `Czentovic`, `Donau`, `Schiffer` | hors zone | absent des pages enregistrées |
+| McConnor prend part à la partie du paquebot | `McConnor` | confirmé | p00003 |
+| McConnor est ingénieur | `Ingenieur` | hors zone | absent des pages enregistrées |
+| L'inconnu est désigné comme M. B. | `Dr. B.`, `B.` | hors zone | absent des pages enregistrées |
+| M. B. a été arrêté par la Gestapo | `Gestapo` | hors zone | absent des pages enregistrées |
+| M. B. vole un livre d'échecs dans la poche d'un manteau | `Mantel`, `Buch` | hors zone | absent des pages enregistrées |
+| M. B. bat Czentovic dans leur première partie | `gewonnen`, `aufgegeben`, `Partie` | hors zone | absent des pages enregistrées |
+| Le narrateur interrompt la crise de M. B. pendant la seconde partie | `Narbe`, `Hand`, `Mr. Czentovic` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -343,6 +382,10 @@ Pendant des mois, on m'a enfermé seul dans une chambre d'hôtel, sans un livre,
 - Doute : l'arrestation à Vienne : je crois que M. B. est avocat, gestionnaire des biens de couvents et de la famille impériale, arrêté après l'Anschluss ; seule « à Vienne » est écrit.
 - Doute : « le lendemain » ; je crois que la partie entre M. B. et le champion est fixée au jour suivant le récit, sans en être sûr.
 - Premier jet à 125 mots : « qui ne supporte pas de perdre » remplacé par « vaniteux » (mot de la fiche, conforme à ma mémoire).
+- Vérification : le paquebot va de New York à Buenos Aires (p00001) : confirmé.
+- Vérification : McConnor est présent (p00003) ; son métier d'ingénieur n'est pas écrit dans le corpus enregistré. Le doute est levé dans le sens où il n'est pas attesté.
+- Vérification : « Dilettant » (p00003) : Czentovic juge que « dieser Herr » est un amateur doué ; l'inconnu n'est jamais désigné par « M. B. » ni par « Dr. B. » dans les pages.
+- Vérification : le corpus n'a que trois paragraphes (début p00001, fin p00003) : la nouvelle n'est pas enregistrée ; la page « fin » est à reprendre (déclaration à trancher).
 
 ### Anciens textes
 
@@ -365,14 +408,14 @@ Tu ne m'as jamais reconnue. J'avais treize ans quand tu es venu habiter sur notr
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| R. reçoit la lettre le jour de ses quarante et un ans | `Quarante et un`, `anniversaire` | à vérifier | |
-| Elle avait treize ans quand il est devenu son voisin | `treize ans` | à vérifier | |
-| Enfant, elle l'épiait par le judas de la porte | `judas` | à vérifier | |
-| Elle revient à Vienne à dix-huit ans | `dix-huit ans`, `Innsbruck` | à vérifier | |
-| Elle passe trois nuits avec lui | `trois nuits` | à vérifier | |
-| Elle vit de riches protecteurs pour élever son fils | `riches`, `amants`, `entretenue` | à vérifier | |
-| Elle lui envoyait chaque année des roses blanches | `roses blanches`, `roses` | à vérifier | |
-| Le vase de R. reste vide à la fin | `vase` | à vérifier | |
+| R. reçoit la lettre le jour de ses quarante et un ans | `Quarante et un`, `anniversaire` | confirmé | p00002 |
+| Elle avait treize ans quand il est devenu son voisin | `treize ans` | confirmé | p00011, p00018 |
+| Enfant, elle l'épiait par le judas de la porte | `judas` | confirmé | p00025 (lunette de cuivre au trou rond de la porte) |
+| Elle revient à Vienne à dix-huit ans | `dix-huit ans`, `Innsbruck` | confirmé | p00037, p00039-p00041 |
+| Elle passe trois nuits avec lui | `trois nuits` | confirmé | p00056 |
+| Elle vit de riches protecteurs pour élever son fils | `riches`, `amants`, `entretenue` | confirmé | p00065-p00066 |
+| Elle lui envoyait chaque année des roses blanches | `roses blanches`, `roses` | confirmé | p00052, p00063 |
+| Le vase de R. reste vide à la fin | `vase` | confirmé | p00091 |
 
 ### Notes
 
@@ -384,6 +427,11 @@ Tu ne m'as jamais reconnue. J'avais treize ans quand tu es venu habiter sur notr
 - Doute : « en vivant de riches protecteurs » ; ma mémoire est nette sur le fait, moins sur les mots du texte, d'où des termes larges.
 - Doute : les roses blanches arrivent-elles à chaque anniversaire ? Je le crois. La dernière phrase du `summary` interprète la fin : je me souviens du vase vide, regardé par R., et du frisson final (« une musique lointaine », dans les dernières phrases de la fiche).
 - La fiche nomme « un vieux domestique fidèle » : conforme à ma mémoire (Johann).
+- Vérification : « Quarante et un ans » et l'anniversaire du jour de la lettre (p00002) : confirmé. Treize ans (p00011, p00018) : confirmé.
+- Vérification : le judas est une « petite lunette de cuivre jaune par le trou rond » de la porte (p00025) : confirmé, sans le mot « judas ».
+- Vérification : Innsbruck, « entre ma seizième et ma dix-huitième année » (p00037), puis le retour à Vienne (p00040-p00041) : confirmé.
+- Vérification : « riches amis, amants fortunés » (p00065) : le verbe « entretenir » n'est pas écrit, l'idée l'est ; la mort de l'enfant est confirmée (p00006, p00037), sans la maladie nommée.
+- Vérification : « le vase sera vide » est annoncé par la lettre (p00088) ; à la fin, « Il était vide, vide pour la première fois au jour de son anniversaire » (p00091). R. sent que « quelqu'un venait de mourir » ; il ne « comprend » pas explicitement que le vase restera vide : nuance, non corrigée.
 
 ### Anciens textes
 
@@ -406,14 +454,14 @@ Mes élèves m'ont offert un livre où toute ma carrière est recensée, et l'es
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le livre d'hommage salue le soixantième anniversaire du narrateur | `soixantième` | à vérifier | |
-| Le narrateur se prénomme Roland | `Roland` | à vérifier | |
-| Il a d'abord étudié à Berlin | `Berlin` | à vérifier | |
-| Son père le surprend dans sa chambre d'étudiant | `mon père`, `surpris` | à vérifier | |
-| La leçon qui le bouleverse porte sur Shakespeare | `Shakespeare` | à vérifier | |
-| L'ouvrage dicté porte sur le théâtre élisabéthain | `Globe`, `élisabéthain`, `théâtre` | à vérifier | |
-| Le narrateur passe une nuit avec l'épouse du maître | `sa femme`, `épouse` | à vérifier | |
-| Le maître donne au narrateur un unique baiser | `baiser`, `embrass` | à vérifier | |
+| Le livre d'hommage salue le soixantième anniversaire du narrateur | `soixantième` | confirmé | p00008 |
+| Le narrateur se prénomme Roland | `Roland` | confirmé | p00233, p00271 |
+| Il a d'abord étudié à Berlin | `Berlin` | confirmé | p00015 |
+| Son père le surprend dans sa chambre d'étudiant | `mon père`, `surpris` | confirmé | p00023-p00024 |
+| La leçon qui le bouleverse porte sur Shakespeare | `Shakespeare` | confirmé | p00041-p00047 |
+| L'ouvrage dicté porte sur le théâtre élisabéthain | `Globe`, `élisabéthain`, `théâtre` | confirmé | p00047, p00134 |
+| Le narrateur passe une nuit avec l'épouse du maître | `sa femme`, `épouse` | confirmé | p00283 |
+| Le maître donne au narrateur un unique baiser | `baiser`, `embrass` | confirmé | p00338-p00340 |
 
 ### Notes
 
@@ -426,6 +474,12 @@ Mes élèves m'ont offert un livre où toute ma carrière est recensée, et l'es
 - Doute : la nuit avec l'épouse ; je ne suis pas sûr qu'elle précède l'aveu, ni qu'elle ait lieu après une baignade au lac (la fiche mentionne un lac). Je crois que l'ordre est : nuit avec l'épouse, puis aveu nocturne du maître et baiser, puis départ le lendemain.
 - Doute : « le laisse partir » ; je me souviens que le maître lui demande de s'en aller, ou que le narrateur part de lui-même le lendemain ; formulation volontairement large.
 - Doute : « philologie anglaise » ; je m'en souviens, et le début de la fiche parle de philologues.
+- Vérification : le soixantième anniversaire et le trentième de professorat sont écrits (p00008) ; les philologues sont cités, la philologie anglaise est choisie à la place de la classique (p00014).
+- Vérification : Roland, prénom du narrateur (p00233, p00271, p00338) ; le maître n'est pas nommé dans le texte enregistré.
+- Vérification : Berlin, premier semestre d'études (p00015) : confirmé.
+- Vérification : le père surprend son fils dans sa chambre d'étudiant, avec une jeune femme (p00023-p00024) : la scène est confirmée, la présence de la femme aussi.
+- Vérification : « les Élisabéthains » (p00047, p00134) : le théâtre élisabéthain est confirmé ; le Globe n'est pas écrit.
+- Vérification : la nuit avec la femme (p00283) précède l'aveu et le baiser (p00338-p00340) : l'ordre est confirmé.
 
 ### Anciens textes
 

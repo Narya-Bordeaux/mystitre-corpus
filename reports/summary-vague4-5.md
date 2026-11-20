@@ -108,4 +108,60 @@ Contrôle des fuites : `summary apply --output` vers un fichier temporaire, puis
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+Chaque fait a été confronté au texte de son œuvre (`summary find` puis `corpus show` pour les passages). Aucun fait n'a été contredit par le texte : il n'y a donc aucune correction. Les nuances et les zones d'ombre sont écrites en « Vérification » dans les notes de chaque œuvre.
+
+### Bilan
+
+Total : 80 faits relevés, dont 4 scindés en deux lignes : 84 lignes ; 60 confirmés, 24 hors zone, 0 corrigé.
+
+| Œuvre | Corpus | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|---|
+| `limpromptu-de-versailles` | texte entier (début et fin confirmés) | 8 | 1 | 0 |
+| `la-mort-a-venise` | texte entier | 8 | 0 | 0 |
+| `les-buddenbrook` | 8 paragraphes (premier chapitre) | 0 | 8 | 0 |
+| `la-montagne-magique` | 2 sous-chapitres (I/1, VII/10) | 6 | 3 | 0 |
+| `guillaume-tell` | 5 actes (extraits) | 8 | 0 | 0 |
+| `les-brigands` | actes I et V | 7 | 2 | 0 |
+| `marie-stuart` | actes I et V | 5 | 3 | 0 |
+| `le-joueur-dechecs` | 3 paragraphes (début, fin) | 2 | 7 | 0 |
+| `lettre-dune-inconnue` | texte entier | 8 | 0 | 0 |
+| `la-confusion-des-sentiments` | texte entier | 8 | 0 | 0 |
+
+Sur les 24 « hors zone », 23 tiennent à une partie non enregistrée de l'œuvre (Buddenbrook, Montagne magique, Brigands, Marie Stuart, Joueur d'échecs) ; un seul, Boursault dans *L'Impromptu*, est absent d'une œuvre entière (à trancher).
+
+### Corrections
+
+Aucune. Aucun fait du lot n'est contredit par le texte enregistré. Trois lectures ont été retenues sans correction, car le texte ne les contredit pas :
+
+- *Lettre d'une inconnue* : la note dit que R. « comprend » que le vase restera vide. Le texte dit que le vase est vide le jour de l'anniversaire (p00091), que la femme annonçait « le vase sera vide » (p00088), et que R. sent que « quelqu'un venait de mourir ». Nuance à relire, pas d'erreur.
+- *Marie Stuart* : la note hésitait sur la condamnation au lever du rideau. L'acte I dit seulement « Bin ich verurtheilt ? » / « Ich weiß nichts » (p00019) ; la condamnation est attestée à l'acte V (p00134). Le résumé ne dit rien de contraire.
+- *Mort à Venise* : le « signe » que Tadzio ferait à Aschenbach est une interprétation de la note, non du texte. Le résumé ne l'affirme pas.
+
+### Points à trancher
+
+1. **`limpromptu-de-versailles` — Boursault.** Le nom n'apparaît pas dans le texte complet (début p00001 et fin p00287 confirmés). Seul « Monsieur Lysidas » annonce la pièce contre Molière (p00204, p00220). Le résumé et le `personalSummary` nomment « Boursault » ; le texte ne le fait pas. Aucune correction : la relecture décide (retirer le nom, ou le garder en citant le titre *Le Portrait du peintre*).
+2. **`les-buddenbrook` — la page « fin ».** La source déclarée (`sources/les-buddenbrook.json`, « début et fin ») ne donne pas la fin du roman : la page « fin » (p00006-p00008) est un passage du premier chapitre, le dîner de Sesemi Weichbrodt. La phrase finale citée dans la note ne peut donc pas être vérifiée. À reprendre côté corpus avant toute intégration de ce livre.
+3. **`le-joueur-dechecs` — corpus réduit.** Le corpus ne compte que trois paragraphes (début p00001, fin p00003). La nouvelle n'est pas enregistrée ; la page « fin » est à reprendre comme pour Buddenbrook.
+4. **`la-montagne-magique` — suicide de Naphta.** Le texte dit « la fin pénible de Naphta, l'acte terroriste de son adversaire tranchant et désespéré » (p00074), sans écrire le suicide ; l'« adversaire » est ambigu. Le fait est scindé : le duel est confirmé, le suicide reste hors zone. Le « 1914 » du résumé n'est pas dans les pages enregistrées.
+5. **`les-brigands` — mort du vieux comte.** Son dernier mot est à p00420. Sa mort n'est pas dans les pages enregistrées (acte V présent jusqu'à p00462). À vérifier sur l'édition complète.
+6. **`marie-stuart` — actes II à IV absents.** Le suicide de Mortimer, la pression de Burleigh et la scène du parc (le mot « bâtarde ») ne figurent pas dans les pages enregistrées. L'acte V ne donne que la tentative de fuite de Mortimer (p00078).
+7. **`lettre-dune-inconnue`** — voir la nuance ci-dessus (« comprend »).
+
+### Contrôles et incidents
+
+- `summary lint vague4-5 --checked` : 0 erreur, 0 avertissement (avant la marque d'étape).
+- `summary apply vague4-5 --output` vers un fichier temporaire hors des dépôts, puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur ». Dart a affiché un avertissement Flutter (exécution en root), sans effet sur le résultat.
+- `summary mark vague4-5 checked` : lancé après l'écriture de cette section.
+- Incident mineur : la branche `claude/summary-vague4-5-draft` n'a pas été trouvée comme branche de suivi après le clone ; elle a été récupérée par `git fetch --depth=50 origin claude/summary-vague4-5-draft` puis `FETCH_HEAD`. La branche de travail `claude/summary-vague4-5-check` en est issue ; rien n'a été poussé sur le brouillon.
+
+### Difficultés au fil du lot
+
+- Le lot est resté lisible jusqu'au bout, mais les deux dernières œuvres (*Lettre d'une inconnue*, *La Confusion des sentiments*) ont reçu une vérification plus rapide : recherche par terme, puis lecture des seuls passages qui portaient les faits. Pour les autres, la lecture a été plus large, mais la plupart des faits reposent aussi sur la recherche par terme ; les passages décisifs ont été lus en entier. Si la relecture veut une vérification aussi serrée partout, ces deux-là sont à rouvrir.
+- Les difficultés les plus lourdes ont été les corpus partiels : pour Buddenbrook et Joueur d'échecs, presque rien n'a pu être tranché ; pour Montagne magique, Brigands et Marie Stuart, la moitié des faits tombe hors zone.
+
+### Retours sur la consigne
+
+- **Faits scindés** : quatre faits ont été découpés (Impromptu : Boursault ; Montagne : duel / suicide ; Brigands : tour / gardien ; Joueur : McConnor / ingénieur). La consigne le prévoit ; le découpage est net.
+- **Page « fin » qui n'est pas la fin de l'œuvre** (Buddenbrook) : la consigne ne dit pas comment traiter une source déclarée dont la « fin » n'est pas la fin. J'ai choisi de ne rien marquer comme corrigé et de signaler le problème en point à trancher.
+- **Acte partiel** (Marie Stuart, Brigands) : la consigne ne dit pas si un acte enregistré en entier permet de conclure à l'absence d'une scène. J'ai conclu « absent des pages enregistrées » et n'ai pas tenu l'acte pour complet, sauf quand le texte l'indiquait (Brigands, fin de l'acte V).
+- **Sens sans le mot** : « judas » est absent du texte, mais « lunette … au trou rond » de la porte est le judas ; « ersticht » est absent, « ermordet » est le verbe du texte. J'ai retenu le sens, avec la graphie en note.
