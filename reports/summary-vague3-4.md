@@ -103,4 +103,59 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+Chaque fait de chaque œuvre est confronté au texte du corpus. Les paragraphes cités sont ceux de `summaries/vague3-4.md`, dans le dépôt de corpus.
+
+| Œuvre | Confirmés | Hors zone | Corrigés | Corpus |
+|---|---|---|---|---|
+| `les-pailles-rompues` | 5 | 5 | 0 | début et fin (2 pages) |
+| `onze-jours-de-siege` | 8 | 0 | 0 | texte entier |
+| `alice-au-pays-des-merveilles` | 7 | 3 | 0 | chapitres 1 et 12 |
+| `gargantua` | 1 | 8 | 0 | prologue et chapitre 58 |
+| `pantagruel` | 1 | 7 | 0 | prologue et conclusion |
+| `le-morte-darthur` | 2 | 8 | 0 | livre I ch. 1, livre XXI ch. 13 |
+| `les-souffrances-du-jeune-werther` | 8 | 0 | 1 | texte entier |
+| `faust` | 6 | 3 | 0 | trois parties choisies |
+| `la-ferme-des-animaux` | 5 | 3 | 0 | début et fin (en) |
+| `le-decameron` | 6 | 3 | 0 | Proemio et conclusion (it) |
+| **Total** | **49** | **40** | **1** | 90 lignes |
+
+Les faits hors zone sont presque tous des faits de chapitres absents des pages enregistrées. Aucun fait n'est contredit par le texte, sauf une formulation de Werther.
+
+### Corrections
+
+- `les-souffrances-du-jeune-werther`, `summary` : « s'installe dans une petite ville » devient « s'installe dans un petit village » (même longueur). Paragraphe p00034 : « A une lieue de la ville est un village du nom de Wahlheim ». Une ligne « corrigé » a été ajoutée au tableau, avec une note « Vérification ».
+
+Aucune autre correction : les doutes de la passe 1 ont été vérifiés et leur issue est notée sous chaque œuvre (lignes « Vérification : … »).
+
+### Points à trancher
+
+- `alice-au-pays-des-merveilles` : « la Reine veut couper toutes les têtes » (résumé et `personalSummary`). Les pages ne donnent qu'une tête (« Qu'on lui coupe la tête », p00082). Non contredit, mais non attesté.
+- `pantagruel` : « Les envahisseurs sont les Dipsodes ». Le titre dit « Pantagruel, Roy des Dipsodes » (p00007), donc les Dipsodes sont son peuple. Les pages ne décrivent pas la guerre contre l'Utopie : le rôle d'envahisseur demande une lecture du livre entier.
+- `le-morte-darthur` : « Lancelot meurt en ermite ». La mort est attestée à Joyous Gard (p00007) ; l'ermitage cité concerne Bedivere et l'évêque, non Lancelot.
+- `le-morte-darthur` : « la Table ronde » reste évitée (règle 5). Les pages ne la montrent pas non plus ; décision à prendre à l'intégration.
+- `le-decameron` : « deux semaines » (`personalSummary`). Le texte ne donne que les dix journées de récits ; la durée totale de la retraite n'est pas attestée.
+- `la-ferme-des-animaux` : « Sage l'Ancien » et les noms français. Le corpus est en anglais et « Major » n'y figure pas : la graphie française ne se vérifie pas.
+- `faust` : le découpage « TROISIÈME PARTIE » (p00915) couvre la prison de Marguerite (p01014-p01069) dans la traduction Nerval ; à garder en tête pour toute reprise du corpus.
+
+### Contrôles et incidents
+
+- `summary lint vague3-4 --checked` : 0 erreur, 0 avertissement.
+- Fuites : `summary apply vague3-4 --output` (catalogue simulé dans le dossier temporaire, 10 fiches), puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur. » Dart est présent ; flutter a signalé qu'il était lancé en root, sans incidence sur le résultat.
+- Passe à `checked` : `summary mark vague3-4 checked` après ce compte rendu.
+- Nombre de faits : huit faits ont été scindés et deux ajoutés (Werther, « corrigé » ; Gargantua, le moine qui commente), selon la règle de la spec (« la vérification peut en ajouter en scindant »). Le lint ne signale rien.
+- Aucun incident sur le dépôt `mystitre`, qui n'a pas été modifié.
+
+### Difficultés au fil du lot
+
+- Les textes lourds (Werther, 267 Ko ; Faust, 140 Ko ; Onze jours de siège, 1 688 paragraphes) ont demandé des recherches ciblées et plusieurs lectures de paragraphes précis, ce qui a alourdi le contexte. Les dernières œuvres (Ferme, Décaméron) ont été traitées avec le même protocole, mais j'ai dû relire Pantagruel et Morte d'Arthur avant de conclure, car leurs faits tenaient souvent à un seul paragraphe.
+- La passe 1 était fidèle là où l'auteur signalait ses doutes : les doutes ont permis de cibler les lectures, et ce sont les faits « à vérifier » non signalés qui ont été les plus coûteux à établir.
+
+### Retours sur la consigne
+
+- Œuvre en langue originale et « graphie française usuelle » (`la-ferme-des-animaux`) : la consigne suppose une traduction de référence. Choix fait : les noms anglais ont été vérifiés ; les noms français sont restés « hors zone », sans être donnés comme confirmés.
+- Nom propre d'un titre accepté (« la Table ronde ») : la règle 5 l'évite strictement ; la consigne pourrait dire si « la Table ronde » seule est permise.
+- Faits et limite de huit : la rédaction est limitée à huit faits, et la passe 2 peut en ajouter en scindant. Huit faits ont été scindés, deux ajoutés. La règle serait plus claire si elle disait combien de lignes la passe 2 peut produire.
+- Doutes de la passe 1 sur un fait « hors zone » : traités comme des faits, avec une ligne « Vérification : … » sous les notes ; la consigne ne dit pas s'ils doivent figurer au tableau quand ils ne sont pas des faits du résumé. Choix fait : ne pas les ajouter au tableau, les noter seulement.
+- Héros portant le nom du titre et un prénom rare (`faust`, « Henri ») : la consigne ne dit pas si un prénom presque jamais employé compte comme « autre nom ». Non tranché ici : la rédaction ne l'emploie pas, et la passe 2 ne le contredit pas.
