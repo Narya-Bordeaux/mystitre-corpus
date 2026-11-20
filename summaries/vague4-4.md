@@ -1,6 +1,6 @@
 # Résumés — vague4-4
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `la-decheance-dun-homme`, `yvain-ou-le-chevalier-au-lion`, `lettres-persanes`, `manon-lescaut`, `confessions-rousseau`, `mariage-de-figaro`, `lorenzaccio`, `fleurs-du-mal`, `une-saison-en-enfer`, `monsieur-de-pourceaugnac`
 - Créée le : 2026-11-20
 

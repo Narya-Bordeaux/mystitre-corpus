@@ -1,6 +1,6 @@
 # Résumés — vague4-2
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `un-heros-de-notre-temps`, `oblomov`, `nous-autres`, `le-maitre-et-marguerite`, `les-trois-royaumes`, `le-reve-dans-le-pavillon-rouge`, `lart-de-la-guerre`, `les-entretiens`, `la-romance-de-la-chambre-de-louest`, `le-journal-dun-fou-lu-xun`
 - Créée le : 2026-11-20
 

@@ -1,6 +1,6 @@
 # Résumés — vague4-3
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `la-veritable-histoire-dah-q`, `la-chair-comme-tapis-de-priere`, `zhuangzi`, `le-pavillon-aux-pivoines`, `notes-de-chevet`, `la-sente-etroite-du-bout-du-monde`, `les-suicides-damour-a-sonezaki`, `je-suis-un-chat`, `rashomon`, `kojiki`
 - Créée le : 2026-11-20
 

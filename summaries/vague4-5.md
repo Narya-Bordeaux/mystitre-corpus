@@ -1,6 +1,6 @@
 # Résumés — vague4-5
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `limpromptu-de-versailles`, `la-mort-a-venise`, `les-buddenbrook`, `la-montagne-magique`, `guillaume-tell`, `les-brigands`, `marie-stuart`, `le-joueur-dechecs`, `lettre-dune-inconnue`, `la-confusion-des-sentiments`
 - Créée le : 2026-11-20
 

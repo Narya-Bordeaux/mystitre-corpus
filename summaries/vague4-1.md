@@ -1,6 +1,6 @@
 # Résumés — vague4-1
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `les-contes-de-canterbury`, `lheptameron`, `eugene-oneguine`, `la-dame-de-pique`, `les-ames-mortes`, `le-manteau`, `le-journal-dun-fou`, `peres-et-fils`, `la-mere`, `les-bas-fonds`
 - Créée le : 2026-11-20
 
@@ -347,7 +347,7 @@ Corpus : 2 pages choisies sur fr.wikisource.org (langue : fr) : « Pères et Enf
 
 ### summary
 
-En mai 1859, Nikolaï Pétrovitch Kirsanov accueille son fils Arkadi, tout juste diplômé, qui revient au domaine familial avec son ami Evgueni Bazarov, étudiant en médecine et nihiliste déclaré. Les sarcasmes de Bazarov contre l'art, les principes et l'aristocratie heurtent l'oncle d'Arkadi, Pavel Pétrovitch. En ville, les deux amis rencontrent la jeune veuve Anna Odintsova ; Bazarov, qui méprisait l'amour, s'éprend d'elle et se fait éconduire. De retour chez les Kirsanov, il embrasse Fénitchka, la jeune compagne de Nikolaï, et blesse Pavel en duel. Arkadi épouse Katia, la sœur d'Anna, tandis que Bazarov, revenu chez ses vieux parents, se coupe en disséquant le corps d'un paysan mort du typhus et meurt.
+En mai 1859, Nikolaï Pétrovitch Kirsanov accueille son fils Arkadi, tout juste diplômé, qui revient au domaine familial avec son ami Evgueni Bazarov, étudiant en médecine et nihiliste déclaré. Les sarcasmes de Bazarov contre l'art, les principes et l'aristocratie heurtent l'oncle d'Arkadi, Pavel Pétrovitch. En ville, les deux amis rencontrent la jeune veuve Anna Odintsova ; Bazarov, qui méprisait l'amour, s'éprend d'elle et se fait éconduire. De retour chez les Kirsanov, il embrasse Fénitchka, la jeune compagne de Nikolaï, et blesse Pavel en duel. Bazarov, revenu chez ses vieux parents, se coupe en disséquant le corps d'un paysan mort du typhus et meurt ; Arkadi épouse ensuite Katia, la sœur d'Anna.
 
 ### personalSummary
 
