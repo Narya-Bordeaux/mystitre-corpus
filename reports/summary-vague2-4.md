@@ -101,4 +101,56 @@
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+### Bilan
+
+| Œuvre | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|
+| `les-carnets-du-sous-sol` | 9 | 4 | 2 |
+| `resurrection` | 6 | 7 | 0 |
+| `moby-dick` | 6 | 5 | 0 |
+| `gatsby-le-magnifique` | 10 | 3 | 0 |
+| `les-aventures-de-huckleberry-finn` | 5 | 5 | 0 |
+| `les-aventures-de-tom-sawyer` | 2 | 6 | 0 |
+| `la-lettre-ecarlate` | 9 | 3 | 1 |
+| `la-case-de-loncle-tom` | 7 | 4 | 0 |
+| `lappel-de-la-foret` | 9 | 4 | 1 |
+| `lappel-de-cthulhu` | 12 | 0 | 0 |
+| **Total** | **75** | **41** | **4** |
+
+### Corrections
+
+- `les-carnets-du-sous-sol`, `summary` : « dans une maison close » devient « dans sa chambre » (p00012, p00030 : la scène se passe chez le narrateur).
+- `les-carnets-du-sous-sol`, `personalSummary` : « des mois » devient « dix-huit mois » (p00004 : « полтора года » pour la querelle avec l'officier).
+- `la-lettre-ecarlate`, `personalSummary` : « mes broderies nous ont fait vivre » devient « mes broderies m'occupaient, pendant que des présents venus de loin nous faisaient vivre » (p00017 : les lettres et les objets viennent d'un autre pays, « que seule la richesse aurait pu acheter »).
+- `lappel-de-la-foret`, `summary` : « un jardinier endetté » devient « un aide-jardinier endetté » (p00009 : Manuel est « l'un des aides du jardinier »).
+- Notes corrigées (ligne « Vérification : contredit… ») : `la-case-de-loncle-tom` (George arrive après la mort, p00118 et p00127, et non avant) ; `lappel-de-cthulhu` (Johansen meurt après une chute près du quai de Göteborg, p00090, et non à Oslo, ni « bousculé » : une liasse de papiers tombée d'une fenêtre l'a renversé) ; `les-aventures-de-tom-sawyer` (la ville s'appelle « St. Petersburgh » dans le chapitre I, p00051).
+
+### Points à trancher
+
+1. **Gatsby, qui conduit la voiture.** Le résumé dit que Daisy, au volant, écrase Myrtle. Les pages ne le disent pas : la seule mention (p00347) est la version de Tom, qui attribue l'accident à « il » (Gatsby). Le fait est marqué hors zone, le résumé est conservé. À trancher par la relecture, puisque le texte complet pourrait trancher.
+2. **Dimmesdale, l'aveu.** Le texte ne décrit aucun aveu. Il rapporte que certains témoins affirment que ses dernières paroles ne reconnaissaient rien (p00011) ; le narrateur écarte cette version comme une fidélité d'amis sans dire qu'il a avoué. Fait marqué hors zone, résumé conservé.
+3. **Corpus partiel.** Sur 41 faits hors zone, la plupart viennent d'œuvres en « pages choisies » : Tom Sawyer (chapitre I et conclusion seulement : 6 faits hors zone sur 8), Huckleberry Finn (chapitres 1 et 43), Moby Dick (chapitre 1 et épilogue), Résurrection (1/01 et 3/29), La Case de l'oncle Tom et Gatsby. Aucun n'est corrigé faute de contradiction (règle 1). Pour intégrer ces résumés avec des faits vérifiés, il faudra élargir le corpus à ces chapitres (la passe ne peut pas le faire ici).
+4. **Renvoi entre deux œuvres du même auteur** (question laissée par la passe 1). Le résumé de Huckleberry Finn nomme Tom Sawyer et inversement. La règle permet le nom d'un autre titre du catalogue, mais deux œuvres du même auteur se désignent l'une l'autre. Je n'ai pas tranché, c'est une règle de rédaction.
+
+### Contrôles
+
+- `summary lint vague2-4 --checked` : 0 erreur, 0 avertissement (dix œuvres, 120 faits, tous avec statut et appui).
+- Fuites du titre et du nom de l'auteur : `summary apply vague2-4 --output` vers un fichier temporaire hors des dépôts (dix fiches simulées), puis `dart run tool/list_name_leaks.dart --catalogue=…` : « Aucune fuite de titre ou d'auteur ». Dart est présent ; il affiche seulement un avertissement de Flutter sur l'exécution en root, sans effet sur le résultat.
+- Rien n'a été modifié dans `mystitre`, ni dans `books.json`.
+
+### Incidents
+
+- Un fichier de travail a d'abord été écrit au mauvais chemin, hors du dossier de travail, puis déplacé. Aucun effet sur les dépôts.
+- Clone unique de `mystitre-corpus` sur la branche de rédaction (`--depth 1`), puis branche de travail `claude/summary-vague2-4-check` créée localement.
+
+### Difficultés au fil du lot
+
+- Ce qui m'a le plus coûté, ce n'est pas l'erreur mais l'absence : 41 faits sur 120 ne figurent pas dans les pages enregistrées. Pour chacun, j'ai cherché plusieurs graphies (langue du texte, racine, variante) avant de conclure, car une absence ne prouve rien dans une œuvre partielle. Les œuvres les plus connues (*Moby Dick*, *Tom Sawyer*) étaient les plus tentantes à passer en « confirmé » par mémoire : je ne l'ai pas fait sans lecture du passage.
+- Fin du lot : je n'ai pas senti de baisse d'attention. *L'Appel de Cthulhu* est le texte entier : 12 faits confirmés, aucun hors zone, mais deux notes corrigées. Pour les deux dernières œuvres, j'ai relu les passages décisifs avant de conclure (p00090, p00099, p00103, p00106, p00107 ; p00096 à p00099 pour Thornton), comme pour la première œuvre. Le risque que je vois, sur les œuvres partielles, est de classer trop vite « hors zone » ; je l'ai contrôlé en cherchant les graphies avant chaque décision.
+
+### Retours sur la consigne
+
+- Une affirmation prêtée à un personnage (Tom, dans Gatsby) n'est pas une contradiction du texte : j'ai marqué le fait hors zone, « à trancher », sans correction.
+- Un fait qui affirme deux choses a été scindé : « prostituée » et « se nomme Liza » ; « prospères » (conclusion) et « riches grâce au trésor » ; « mort sur l'échafaud » et « aveu ».
+- Un doute de note contredit par le texte (Case, Cthulhu, Tom Sawyer) a été corrigé par une ligne « Vérification : contredit… », sans réécrire le doute d'origine. Choix à confirmer.
+- Graphies : j'ai confirmé les graphies différentes du corpus (Nekhludov, Katucha, Mathieu, West-Egg, Henri) ; le résumé garde la graphie française usuelle.
