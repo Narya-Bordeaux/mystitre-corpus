@@ -94,4 +94,66 @@ Lot d'un seul auteur : chaque fiche n'emploie que ses propres personnages. Deux 
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+Corpus : deux pages par œuvre (début et fin de la fiche), donc « pages choisies » pour les dix. Un fait absent des pages reste hors zone ; seules les contradictions produisent une correction.
+
+### Bilan
+
+| Œuvre | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|
+| le-tour-du-monde-en-quatre-vingts-jours | 5 | 2 | 0 |
+| vingt-mille-lieues-sous-les-mers | 5 | 4 | 0 |
+| voyage-au-centre-de-la-terre | 6 | 2 | 0 |
+| lile-mysterieuse | 8 | 2 | 0 |
+| cinq-semaines-en-ballon | 4 | 5 | 0 |
+| les-enfants-du-capitaine-grant | 5 | 4 | 0 |
+| michel-strogoff | 6 | 1 | 1 |
+| de-la-terre-a-la-lune | 6 | 3 | 0 |
+| un-capitaine-de-quinze-ans | 2 | 6 | 1 |
+| robur-le-conquerant | 6 | 2 | 2 |
+| **Total** | **53** | **31** | **4** |
+
+Plusieurs faits affirmant deux choses ont été scindés (par exemple « Nemo meurt » confirmé, « dans une caverne » hors zone).
+
+### Corrections
+
+1. *Robur* — fait « Le dirigeable de l'Institut… » : le texte dit « aérostat » et « ballon » (p00067, p00070). Résumé : « dirigeable Go-Ahead » → « ballon Go-Ahead ».
+2. *Robur* — fait « …de l'explosion du Go-Ahead » : le gaz trop dilaté fait crever l'enveloppe, le ballon tombe (p00128), et les hommes de Robur font passer Prudent et Evans sur l'Albatros (p00132). Pas d'explosion du ballon. Résumé : « de l'explosion du ballon » → « de la chute de leur ballon ».
+3. *Michel Strogoff* — fait « a les yeux brûlés par une lame rougie » : le texte dit qu'il « n'était pas, n'avait jamais été aveugle » (p00089). Fait réécrit en « est condamné à avoir les yeux brûlés… ». Le résumé disait déjà « condamné » : aucun texte modifié.
+4. *Un capitaine de quinze ans* — fait ajouté (règle 5), « livrés aux marchands d'esclaves d'Angola » : Angola absent ; les cinq hommes sont vendus à Madagascar (p00082), le convoi va à Emboma, à l'embouchure du Congo (p00069). Résumé : « d'Angola » retiré.
+5. Notes, *Le Tour du monde* : « la veille du jour qu'il croit perdu » → la question est posée « ce soir-là même » (p00062), le soir de la victoire.
+6. Notes, *Voyage au centre* : « pupille » → le texte dit « sa filleule Graüben » (p00031).
+7. Notes, *Les Enfants du capitaine Grant* : « Grant n'apparaît nulle part » est faux : « Harry Grant » (p00068, p00076) et « Mary Grant » figurent dans les pages. Le résumé n'emploie pas ce nom, donc la contrainte du titre tient.
+
+Les corrections ne font entrer aucun nom propre du titre ni de l'auteur (« ballon », « chute », « marchands d'esclaves »).
+
+### Points à trancher
+
+- *Michel Strogoff* : le résumé dit « natif d'Omsk ». Les pages montrent la maison familiale des Strogoff à Omsk (p00140), mais pas la naissance. Choix possible : « dont la famille vit à Omsk ».
+- *Un capitaine* : le retrait de « d'Angola » laisse « marchands d'esclaves » sans lieu. Le texte ne donne que Madagascar et Emboma : à préciser ou non.
+- *Robur* : « ballon » remplace « dirigeable », d'après le texte. La relecture peut préférer « aérostat ».
+- Énoncés hors zone gardés faute de contradiction : « Nemo… dans une caverne » (*L'Île mystérieuse*), « navire de guerre » (*Vingt mille lieues*), « fiancé à Graüben » dès le départ (attesté seulement au retour, p00041), « Nicolas Korpanoff » (nom d'emprunt absent des pages, *Michel Strogoff*).
+
+### Contrôles
+
+- `summary lint vague3-3 --checked` : 0 erreur, 0 avertissement. Aucun statut « à vérifier » ne reste (les seules occurrences de la chaîne sont les titres « Faits à vérifier »).
+- `summary apply vague3-3 --output` (catalogue simulé dans le dossier temporaire) : 10 fiches, puis `dart run tool/list_name_leaks.dart` : « Aucune fuite de titre ou d'auteur ».
+- `summary mark vague3-3 checked` : lancé après l'écriture de cette section.
+
+### Incidents
+
+- Dart s'exécute ici en root : Flutter l'a signalé, sans effet sur le résultat du contrôle.
+- Aucune modification du dépôt `mystitre`.
+
+### Difficultés au fil du lot
+
+- Le corpus ne donne que le début et la fin de chaque roman : plus de la moitié des faits ne peuvent pas être confirmés, ce qui allège la vérification mais la rend moins probante.
+- Les deux dernières fiches (*Un capitaine de quinze ans*, *Robur*) ont demandé plus de relectures de passages. C'est là qu'est apparue la correction « Angola », lors du recoupement des doutes de la note (Emboma, Madagascar) et non à la première lecture du tableau. Je ne sens pas de baisse d'attention, mais cette fin de lot a été la plus coûteuse en relectures.
+- Les doutes de la passe 1 étaient souvent justes sur le fond et faux sur les détails (« pupille », « Grant absent », « explosion »).
+
+### Retours sur la consigne
+
+- Cas non prévu : un fait « corrigé » où le résumé est déjà juste (« yeux brûlés »). J'ai réécrit la ligne du fait et laissé le texte inchangé.
+- Fait à deux termes dont un seul est contredit ou attesté (« Dingo tue Negoro » : la mort de Dingo est attestée, pas la cause) : classé hors zone, avec la précision dans l'appui.
+- Vérifications des notes : une ligne « Vérification : … » par doute, groupée en fin de notes, avant « Anciens textes ».
+- Règle 5 : appliquée pour l'Angola.
+- Ambiguïté : une graphie différente (« Go a head », « Loffoden », « Maelstrom ») est confirmée, alors qu'un mot différent (« dirigeable » pour « aérostat ») est corrigé. Choix retenu : corriger le mot quand le texte en emploie un autre à plusieurs reprises.

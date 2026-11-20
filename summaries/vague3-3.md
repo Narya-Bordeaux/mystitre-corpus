@@ -1,6 +1,6 @@
 # Résumés — vague3-3
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `le-tour-du-monde-en-quatre-vingts-jours`, `vingt-mille-lieues-sous-les-mers`, `voyage-au-centre-de-la-terre`, `lile-mysterieuse`, `cinq-semaines-en-ballon`, `les-enfants-du-capitaine-grant`, `michel-strogoff`, `de-la-terre-a-la-lune`, `un-capitaine-de-quinze-ans`, `robur-le-conquerant`
 - Créée le : 2026-11-20
 
@@ -22,13 +22,13 @@ J'ai parié vingt mille livres que le globe se parcourait à l'heure dite, et je
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le pari porte sur vingt mille livres | `vingt mille livres`, `20,000`, `20 000` | à vérifier | |
-| Fogg parie avec des membres du Reform Club | `Reform-Club`, `Reform Club` | à vérifier | |
-| Le voyage commence en 1872 | `1872` | à vérifier | |
-| Fix prend Fogg pour le voleur d'une banque | `Fix`, `Banque`, `voleur` | à vérifier | |
-| Fogg est arrêté à Liverpool | `Liverpool`, `arrête` | à vérifier | |
-| Fogg a gagné un jour en voyageant vers l'est | `vingt-quatre heures`, `un jour`, `vers l'est` | à vérifier | |
-| Fogg épouse Aouda | `Aouda`, `mariage`, `épous` | à vérifier | |
+| Le pari porte sur vingt mille livres | `vingt mille livres`, `20,000`, `20 000` | confirmé | p00055 (« gagné son pari de vingt mille livres »), p00061 |
+| Fogg parie avec des membres du Reform Club | `Reform-Club`, `Reform Club` | confirmé | p00059 : ses « collègues » l'attendent au Reform-Club ; p00007 (membre) |
+| Le voyage commence en 1872 | `1872` | confirmé | p00003 (« En l'année 1872 »), p00029 |
+| Fix prend Fogg pour le voleur d'une banque | `Fix`, `Banque`, `voleur` | hors zone | absent des pages enregistrées (Fix n'apparaît qu'en p00061, sans son soupçon) |
+| Fogg est arrêté à Liverpool | `Liverpool`, `arrête` | hors zone | absent des pages enregistrées |
+| Fogg a gagné un jour en voyageant vers l'est | `vingt-quatre heures`, `un jour`, `vers l'est` | confirmé | p00058, p00059 |
+| Fogg épouse Aouda | `Aouda`, `mariage`, `épous` | confirmé | p00068 (« le mariage se fit quarante-huit heures plus tard ») |
 
 ### Notes
 
@@ -40,6 +40,12 @@ J'ai parié vingt mille livres que le globe se parcourait à l'heure dite, et je
 - L'attaque des Sioux : de mémoire, Passepartout est enlevé et Fogg le délivre près de Fort Kearney, ce qui lui fait manquer le train (traîneau à voile jusqu'à Omaha). Je n'en dis que l'attaque, par place.
 - Je crois que c'est Aouda qui propose le mariage à Fogg, la veille du jour qu'il croit perdu ; « épouse Aouda » reste juste dans tous les cas.
 - « Arrêté à Liverpool » : de mémoire, Fix l'arrête au débarquement, puis apprend que le vrai voleur a été pris quelques jours plus tôt.
+- Vérification : partenaires du whist (noms) : non employés ; hors zone (absents des pages).
+- Vérification : Banque d'Angleterre et montant (55 000 livres) : hors zone ; Fix n'apparaît qu'en p00061.
+- Vérification : Fix suit Fogg depuis Suez, Hong Kong, Liverpool : hors zone ; le lieu de la première rencontre n'est pas dans les pages.
+- Vérification : attaque des Sioux, enlèvement de Passepartout, Fort Kearney, traîneau : hors zone.
+- Vérification : c'est Aouda qui propose le mariage : confirmé (p00065 : « Si vous n'aviez pas eu la pensée de ce mariage… »). Correction : la question est posée « ce soir-là même » (p00062), le soir de la victoire, et non la veille du jour que Fogg croit perdu.
+- Vérification : arrestation à Liverpool, Fix qui l'arrête au débarquement : hors zone.
 
 ### Anciens textes
 
@@ -62,14 +68,15 @@ Je suis parti traquer un monstre et me suis retrouvé dans ses flancs, captif d'
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le récit commence en 1866 | `1866` | à vérifier | |
-| Aronnax est professeur au Muséum de Paris | `Muséum`, `Aronnax` | à vérifier | |
-| La frégate s'appelle Abraham-Lincoln | `Abraham-Lincoln`, `Abraham Lincoln` | à vérifier | |
-| Ned Land est canadien | `Ned Land`, `Canadien` | à vérifier | |
-| Nemo coule un navire de guerre | `navire`, `vaisseau`, `frégate`, `éperon` | à vérifier | |
-| Les fugitifs s'échappent pendant que le Nautilus est pris dans le Maelström | `Maelstrom`, `Maëlstrom`, `Moskoe` | à vérifier | |
-| Aronnax se retrouve ensuite chez des pêcheurs des îles Lofoden | `Lofoden`, `Loffoden`, `pêcheur` | à vérifier | |
-| Aronnax ignore si le Nautilus a survécu | `Nautilus`, `Maelstrom`, `vivant` | à vérifier | |
+| Le récit commence en 1866 | `1866` | confirmé | p00002, p00007 (« 20 juillet 1866 ») |
+| Aronnax est professeur au Muséum de Paris | `Muséum`, `Aronnax` | hors zone | « Aronnax » et « Muséum » absents des pages enregistrées |
+| La frégate s'appelle Abraham-Lincoln | `Abraham-Lincoln`, `Abraham Lincoln` | hors zone | absent des pages enregistrées (« Abraham », « Lincoln » absents) |
+| Ned Land est canadien | `Ned Land`, `Canadien` | hors zone | « Ned Land » attesté (p00033) ; la nationalité n'est pas dite (« Canada » en p00015 vise d'autres passagers) |
+| Nemo coule un navire | navire, vaisseau, frégate, éperon | confirmé | p00037 (« le vaisseau disparu » ; « cette dernière hécatombe ») |
+| Le navire coulé est un navire de guerre | guerre | hors zone | « de guerre » absent ; la nationalité du navire n'est pas dite (p00037) |
+| Les fugitifs s'échappent pendant que le Nautilus est pris dans le Maelström | `Maelstrom`, `Maëlstrom`, `Moskoe` | confirmé | p00033 (le canot « échappa au formidable remous du Maelstrom ») ; p00037 (le Nautilus et les « étreintes du Maelstrom ») |
+| Aronnax se retrouve ensuite chez des pêcheurs des îles Lofoden | `Lofoden`, `Loffoden`, `pêcheur` | confirmé | p00033 (« îles Loffoden », graphie du texte) |
+| Aronnax ignore si le Nautilus a survécu | `Nautilus`, `Maelstrom`, `vivant` | confirmé | p00037-p00038 (« Le capitaine Nemo vit-il encore ? ») |
 
 ### Notes
 
@@ -81,6 +88,12 @@ Je suis parti traquer un monstre et me suis retrouvé dans ses flancs, captif d'
 - Ordre des épisodes : Atlantide (Atlantique), puis pôle Sud, puis banquise, puis poulpes, puis le navire coulé, puis Maelström. Je crois les poulpes après le pôle (au large des Bahamas ?), je ne suis pas sûr de l'endroit ; l'ordre de la phrase n'engage pas le lieu.
 - Écartés pour la longueur : la chasse dans l'île Crespo, les Papous du détroit de Torrès, le pêcheur de perles de Ceylan, le tunnel de Suez (« Arabian Tunnel »).
 - Titre : « vingt mille » et « lieues » non employés ; « mer » et « sous-marin » permis.
+- Vérification : « Abraham-Lincoln » et tréma de « Maelström » : la frégate est hors zone ; le texte écrit « Maelstrom » sans tréma (p00033, p00037), graphie du résumé conservée.
+- Vérification : année 1866 : confirmée (p00002, p00007) ; départ de la frégate en 1867 : hors zone.
+- Vérification : Conseil flamand, Aronnax professeur suppléant : hors zone.
+- Vérification : nationalité du navire coulé : non dite (p00037, « Le vaisseau disparu nous dira-t-il, par sa nationalité… ») ; « navire de guerre » : hors zone.
+- Vérification : ordre des épisodes (Atlantide, pôle, banquise, poulpes) et lieu des poulpes : hors zone.
+- Vérification : pêcheur des îles Loffoden : confirmé (p00033).
 
 ### Anciens textes
 
@@ -103,14 +116,14 @@ Je n'aurais jamais dû percer le secret de ce vieux parchemin : mon oncle m'a au
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le récit commence en 1863 | `1863` | à vérifier | |
-| Lidenbrock habite Hambourg | `Hambourg`, `Königstrasse` | à vérifier | |
-| Le parchemin est d'Arne Saknussemm | `Saknussemm`, `Arne` | à vérifier | |
-| Le message désigne le cratère du Sneffels | `Sneffels`, `Scartaris` | à vérifier | |
-| Graüben est la fiancée d'Axel | `Graüben`, `Grauben` | à vérifier | |
-| Les voyageurs font sauter le roc qui bouche le passage | `fulmicoton`, `coton-poudre`, `roc`, `mine` | à vérifier | |
-| Les voyageurs ressortent par le Stromboli | `Stromboli` | à vérifier | |
-| Axel épouse Graüben | `Graüben`, `épous`, `femme` | à vérifier | |
+| Le récit commence en 1863 | `1863` | confirmé | p00003 (« Le 24 mai 1863 ») |
+| Lidenbrock habite Hambourg | `Hambourg`, `Königstrasse` | confirmé | p00003, p00029 (Königstrasse, Hambourg) |
+| Le parchemin est d'Arne Saknussemm | `Saknussemm`, `Arne` | confirmé | p00045 (« le document de Saknussemm ») ; le prénom « Arne » est absent des pages |
+| Le message désigne le cratère du Sneffels | `Sneffels`, `Scartaris` | hors zone | « Sneffels », « cratère », « volcan » absents des pages enregistrées |
+| Graüben est la fiancée d'Axel | `Graüben`, `Grauben` | confirmé | p00041 (« ma chère fiancée », au retour) ; p00031 (« sa filleule Graüben »). Le début du récit n'est pas dans les pages |
+| Les voyageurs font sauter le roc qui bouche le passage | `fulmicoton`, `coton-poudre`, `roc`, `mine` | hors zone | « sauter », « poudre » absents des pages enregistrées |
+| Les voyageurs ressortent par le Stromboli | `Stromboli` | confirmé | p00038 (« les pêcheurs stromboliotes ») |
+| Axel épouse Graüben | `Graüben`, `épous`, `femme` | confirmé | p00072 (« la double qualité de nièce et d'épouse ») |
 
 ### Notes
 
@@ -123,6 +136,12 @@ Je n'aurais jamais dû percer le secret de ce vieux parchemin : mon oncle m'a au
 - Écartés pour la longueur : la séparation d'Axel dans les galeries (gardée dans « Mon histoire »), la tempête, le berger géant des mastodontes, l'ossuaire, la boussole inversée.
 - « Un volcan éteint » : je crois le Sneffels donné comme éteint par Lidenbrock, alors qu'Axel craint qu'il ne se réveille.
 - Titre : « voyage », « centre », « Terre » non employés ensemble ; « globe » à la place.
+- Vérification : Graüben « pupille » du professeur : contredit. Le texte dit « sa filleule Graüben » (p00031). Le résumé ne dit pas « pupille ».
+- Vérification : « fiancé » au départ : « ma chère fiancée » n'est attesté qu'au retour (p00041) ; le début n'est pas dans les pages.
+- Vérification : « alchimiste islandais », Saknussemm du XVIe siècle : hors zone.
+- Vérification : guide Hans (Bjelke), « Hans-bach », « mer Lidenbrock » : hors zone (non employés).
+- Vérification : Sneffels présenté comme éteint : hors zone.
+- Vérification : parchemin dans l'Heimskringla, message en latin à rebours : hors zone.
 
 ### Anciens textes
 
@@ -145,14 +164,16 @@ Nous avons fui la guerre en ballon, et l'ouragan nous a jetés sur une terre per
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les prisonniers s'évadent de Richmond | `Richmond` | à vérifier | |
-| L'évasion a lieu en mars 1865 | `1865`, `mars` | à vérifier | |
-| Les colons baptisent l'île Lincoln | `île Lincoln`, `Lincoln` | à vérifier | |
-| La demeure des colons s'appelle Granite-House | `Granite-House`, `Granite House` | à vérifier | |
-| Ayrton est recueilli sur l'île Tabor | `Ayrton`, `Tabor` | à vérifier | |
-| Nemo meurt à bord du Nautilus caché dans une caverne | `Nemo`, `Nautilus`, `crypte`, `caverne` | à vérifier | |
-| Les colons sont réfugiés sur un rocher après l'éruption | `rocher`, `écueil`, `récif` | à vérifier | |
-| Les colons sont recueillis par le Duncan | `Duncan` | à vérifier | |
+| Les prisonniers s'évadent de Richmond | `Richmond` | hors zone | « Richmond » absent ; la guerre n'est évoquée qu'à la fin (p00123) |
+| L'évasion a lieu en mars 1865 | `1865`, `mars` | confirmé | p00016 (« dans la journée du 23 mars 1865 ») |
+| Les colons baptisent l'île Lincoln | `île Lincoln`, `Lincoln` | confirmé | p00072, p00105 (« l'île Lincoln ») |
+| La demeure des colons s'appelle Granite-House | `Granite-House`, `Granite House` | confirmé | p00074, p00078 (« Granite-house ») |
+| Ayrton est abandonné sur l'île Tabor | Ayrton, Tabor | confirmé | p00099 (Robert envoyé « à l'île Tabor pour y chercher Ayrton ») ; p00101 |
+| Ayrton rejoint les colons sur l'île Lincoln | Ayrton, Lincoln | confirmé | p00109 (« résidence actuelle d'Ayrton et de cinq colons ») ; la reprise elle-même n'est pas décrite |
+| Nemo meurt | Nemo | confirmé | p00072 (« La tombe du capitaine Nemo ») ; p00114 (« l'âme du capitaine Nemo ») |
+| Nemo meurt à bord du Nautilus, caché dans une caverne | Nautilus, caverne, crypte | hors zone | « Nautilus » et « caverne » absents ; « crypte Dakkar » (p00074) n'est pas dit lieu de la mort |
+| Les colons sont réfugiés sur un rocher après l'éruption | `rocher`, `écueil`, `récif` | confirmé | p00074 (« cet étroit rocher qui servait alors de refuge aux six colons ») |
+| Les colons sont recueillis par le Duncan | `Duncan` | confirmé | p00099, p00124 (« naufragés rapatriés par le Duncan ») |
 
 ### Notes
 
@@ -165,6 +186,13 @@ Nous avons fui la guerre en ballon, et l'ouragan nous a jetés sur une terre per
 - Le Duncan : je crois qu'il vient à l'île Tabor rechercher Ayrton (lien avec un autre roman du lot) et que le billet de Nemo le dirige vers l'île Lincoln ; je ne suis pas sûr de qui le commande (Robert Grant, je crois, Glenarvan à bord). Je ne nomme ni l'un ni l'autre, pour ne pas mêler les romans.
 - « Richmond assiégée » : de mémoire, la ville est tenue par les sudistes et assiégée par le général Grant ; « nordistes » à vérifier.
 - Titre : « île » permis ; « mystérieuse » non employé, « secours inexplicables » et « main invisible » à la place.
+- Vérification : Richmond, sudistes, assiégeants, « nordistes » : hors zone ; la guerre n'est évoquée qu'en p00123.
+- Vérification : graphie « Harbert » : confirmée (p00076, p00105) ; « Herbert » absent. « Nab » confirmé (p00076).
+- Vérification : Top (p00074) et Jup (p00075, mort) : confirmés, écartés pour la longueur.
+- Vérification : brick Speedy, forbans, quinine : hors zone.
+- Vérification : « crypte Dakkar » nommée (p00074) ; prince Dakkar : hors zone.
+- Vérification : le Duncan est commandé par Robert, fils du capitaine Grant (p00099), et vient à Tabor chercher Ayrton (p00099) : confirmé. Glenarvan à bord : non dit dans les pages (hors zone).
+- Vérification : colons réfugiés sur un rocher : confirmé (p00074).
 
 ### Anciens textes
 
@@ -187,14 +215,15 @@ J'ai promis aux géographes de survoler l'Afrique entière, porté par le vent e
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Fergusson fait son annonce en 1862 | `1862` | à vérifier | |
-| Fergusson fait son annonce devant la Société de géographie de Londres | `Société royale de géographie`, `Société de géographie`, `Royal Geographical` | à vérifier | |
-| Le ballon s'appelle le Victoria | `Victoria` | à vérifier | |
-| Le voyage part de Zanzibar | `Zanzibar` | à vérifier | |
-| Kennedy est écossais | `Kennedy`, `Écossais`, `Écosse` | à vérifier | |
-| Le missionnaire sauvé est français | `missionnaire`, `lazariste`, `Français` | à vérifier | |
-| Joe saute du ballon pour l'alléger | `Joe`, `allég`, `saut` | à vérifier | |
-| Les voyageurs franchissent le Sénégal en gonflant le ballon d'air chaud | `Sénégal`, `Gouina`, `air chaud`, `montgolfière` | à vérifier | |
+| Fergusson fait son annonce en 1862 | `1862` | confirmé | p00003 (« le 14 janvier 1862 ») |
+| Fergusson fait son annonce devant la Société de géographie de Londres | `Société royale de géographie`, `Société de géographie`, `Royal Geographical` | confirmé | p00003 (« la Société royale géographique de Londres ») |
+| Le ballon s'appelle le Victoria | `Victoria` | hors zone | « Victoria » absent des pages enregistrées |
+| Le voyage part de Zanzibar | `Zanzibar` | hors zone | « Zanzibar » absent des pages enregistrées |
+| Kennedy est écossais | `Kennedy`, `Écossais`, `Écosse` | confirmé | p00052 (Richard Kennedy) ; p00061 (il « repartit aussitôt pour Édimbourg ») : appui indirect, « écossais » n'est pas écrit |
+| Le missionnaire sauvé est français | `missionnaire`, `lazariste`, `Français` | hors zone | « missionnaire » absent ; les officiers français (p00057) ne sont pas liés à ce sauvetage |
+| Joe saute du ballon pour l'alléger | `Joe`, `allég`, `saut` | hors zone | Joe attesté (p00058, p00062) ; le saut n'est pas dans les pages |
+| Les voyageurs atteignent le Sénégal suspendus au ballon | Sénégal, Gouina, ballon | confirmé | p00052 (« suspendus au filet d'un ballon », cataractes de Gouina, 24 mai 1862) ; p00056 (arrivés au Sénégal le 24 mai) |
+| Les voyageurs gonflent le ballon d'air chaud | air chaud | hors zone | procédé absent des pages ; le ballon « s'abîme dans les cataractes de Gouina » (p00052) |
 
 ### Notes
 
@@ -206,6 +235,11 @@ J'ai promis aux géographes de survoler l'Afrique entière, porté par le vent e
 - Je crois que Fergusson découvre que le lac Ukéréoué (Victoria) est la source du Nil ; « survole les sources du Nil » reste prudent.
 - La fin : de mémoire, poursuivis par des Talibas, ils brûlent des herbes sous l'enveloppe, qui sert de montgolfière, et franchissent le fleuve au-dessus des chutes de Gouina, puis sont accueillis par des Français. Je ne suis pas sûr que l'enveloppe soit en partie brûlée ou seulement gonflée d'air chaud : j'ai écrit « en gonflant d'air chaud le ballon mourant ».
 - Écarté pour la longueur : l'or (le quartz aurifère jeté comme lest), les indigènes qui prennent l'appareil pour la lune.
+- Vérification : annonce en janvier 1862 devant la Société royale géographique de Londres : confirmée (p00003, 14 janvier 1862).
+- Vérification : missionnaire lazariste, lac Ukéréoué (Victoria) : hors zone ; « lac Tchad » attesté (p00059).
+- Vérification : Joe saute près du lac Tchad, espèce des oiseaux : hors zone.
+- Vérification : Gouina et accueil par des Français : confirmés (p00052, p00057) ; le ballon « s'abîme dans les cataractes de Gouina » (p00052) ; Talibas et brûlis de l'herbe : hors zone.
+- Vérification : Kennedy écossais : appui indirect (Édimbourg, p00061).
 
 ### Anciens textes
 
@@ -228,14 +262,15 @@ Un message tiré du ventre d'un requin m'a appris que mon père vivait encore, q
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La bouteille est trouvée dans un requin | `requin` | à vérifier | |
-| Le navire naufragé s'appelle le Britannia | `Britannia` | à vérifier | |
-| Le naufragé survit par trente-sept degrés de latitude sud | `37°`, `trente-sept`, `latitude` | à vérifier | |
-| Paganel monte sur le Duncan par erreur | `Paganel`, `Scotia` | à vérifier | |
-| Robert est enlevé par un condor | `condor` | à vérifier | |
-| Ayrton est en réalité le bandit Ben Joyce | `Ben Joyce`, `Ayrton` | à vérifier | |
-| Le naufragé est retrouvé sur l'îlot de Tabor | `Tabor`, `Maria-Theresa`, `Maria Theresa` | à vérifier | |
-| Mary épouse John Mangles | `Mangles`, `Mary` | à vérifier | |
+| La bouteille est trouvée dans un requin | `requin` | confirmé | p00027, p00036 (« une bouteille que ce requin a dans l'estomac ») |
+| Le navire naufragé s'appelle le Britannia | `Britannia` | confirmé | p00068 (« les naufragés du Britannia ») |
+| Le naufragé survit par trente-sept degrés de latitude sud | `37°`, `trente-sept`, `latitude` | confirmé | p00068 (« la ligne du trente-septième parallèle ») |
+| Paganel monte sur le Duncan par erreur | `Paganel`, `Scotia` | hors zone | mécanisme absent ; « Scotia » absent ; le chapitre XXII évoque seulement « la dernière distraction de Jacques Paganel » (p00066) |
+| Robert est enlevé par un condor | `condor` | hors zone | « condor » absent des pages enregistrées |
+| Ayrton est en réalité le bandit Ben Joyce | `Ben Joyce`, `Ayrton` | hors zone | « Ayrton » et « Ben Joyce » absents des pages enregistrées |
+| Les voyageurs passent par l'île Tabor | Tabor | confirmé | p00068 (« l'île Tabor » dans leur route ; « ils rapatriaient les naufragés du Britannia ») |
+| Le naufragé est retrouvé sur l'îlot de Tabor | Tabor, Maria-Theresa | hors zone | le lieu précis du sauvetage n'est pas dit ; « Maria-Theresa » absent |
+| Mary épouse John Mangles | `Mangles`, `Mary` | confirmé | p00076 (« il était donc écrit que John Mangles épouserait Mary Grant ») |
 
 ### Notes
 
@@ -248,6 +283,14 @@ Un message tiré du ventre d'un requin m'a appris que mon père vivait encore, q
 - Je ne suis pas sûr que l'îlot s'appelle « Tabor » dans le texte ou « Maria-Theresa » (les deux noms, je crois, pour la même île) : variantes dans les termes.
 - Je crois que Paganel épouse Arabella, cousine du major Mac Nabbs ; tu.
 - Croisement : Ayrton laissé sur Tabor relie ce roman à un autre du lot ; rien de l'île Lincoln n'est mêlé ici.
+- Vérification : « Grant n'apparaît nulle part » : contredit. « Harry Grant » (p00068, p00076) et « Mary Grant » (p00071, p00076) figurent dans les pages. Le résumé n'emploie pas ce nom : la contrainte du titre tient.
+- Vérification : année 1864 (juillet) : confirmée (p00006, « Le 26 juillet 1864 ») ; naufrage de juin 1862 : hors zone.
+- Vérification : bouteille trouvée dans un requin, message en trois langues : bouteille confirmée (p00027, p00036) ; langues : hors zone.
+- Vérification : Paganel secrétaire de la Société de géographie de Paris, Scotia : hors zone (« Scotia » absent).
+- Vérification : Thalcave, Patagon : hors zone (non nommé dans les pages).
+- Vérification : Ayrton ancien quartier-maître devenu Ben Joyce : hors zone (« Ayrton » et « Ben Joyce » absents).
+- Vérification : îlot Tabor ou Maria-Theresa : Tabor confirmé (p00068) ; Maria-Theresa absent.
+- Vérification : Paganel et Arabella : « miss Arabella » attestée, et Paganel « loin d'être insensible » à ses sentiments (p00080) ; mariage : hors zone.
 
 ### Anciens textes
 
@@ -270,14 +313,14 @@ Le tsar m'a confié une lettre pour son frère, assiégé au fond de la Sibérie
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le traître s'appelle Ivan Ogareff | `Ogareff` | à vérifier | |
-| Le chef des Tartares est Féofar-Khan | `Féofar` | à vérifier | |
-| Le courrier voyage sous le nom de Nicolas Korpanoff | `Korpanoff` | à vérifier | |
-| Le courrier est natif d'Omsk | `Omsk` | à vérifier | |
-| La mère du courrier s'appelle Marfa | `Marfa` | à vérifier | |
-| Le courrier a les yeux brûlés par une lame rougie | `lame`, `sabre`, `aveugle` | à vérifier | |
-| Les larmes du courrier ont protégé sa vue | `larmes` | à vérifier | |
-| Le courrier épouse Nadia | `Nadia`, `femme` | à vérifier | |
+| Le traître s'appelle Ivan Ogareff | `Ogareff` | confirmé | p00026, p00093 (« le traître Ivan Ogareff ») |
+| Le chef des Tartares est Féofar-Khan | `Féofar` | confirmé | p00089 (« l'exécuteur de Féofar »), p00103 (« les troupes de Féofar-Khan ») |
+| Le courrier voyage sous le nom de Nicolas Korpanoff | `Korpanoff` | hors zone | « Korpanoff » absent des pages enregistrées ; « Nicolas » désigne un ami enterré (p00139), non le courrier |
+| Le courrier est natif d'Omsk | `Omsk` | confirmé | p00140 (« À Omsk, … la petite maison des Strogoff ») ; la naissance elle-même n'est pas dite |
+| La mère du courrier s'appelle Marfa | `Marfa` | confirmé | p00090 (« Marfa Strogoff ») ; p00140 |
+| Le courrier est condamné à avoir les yeux brûlés par une lame rougie | lame, sabre, aveugle | corrigé | p00089 : « Michel Strogoff n'était pas, n'avait jamais été aveugle » (la lame est passée devant ses yeux, sans les brûler). Ancienne formulation : « a les yeux brûlés » ; nouvelle : « est condamné à avoir les yeux brûlés… ». Le résumé dit déjà « condamné » : aucun texte modifié |
+| Les larmes du courrier ont protégé sa vue | `larmes` | confirmé | p00090 (« des larmes… lui avaient sauvé la vue ») |
+| Le courrier épouse Nadia | `Nadia`, `femme` | confirmé | p00129 (« La cérémonie du mariage se fit à la cathédrale d'Irkoutsk ») ; p00141 |
 
 ### Notes
 
@@ -289,6 +332,12 @@ Le tsar m'a confié une lettre pour son frère, assiégé au fond de la Sibérie
 - Je crois que la ruse de renier sa mère a lieu au relais d'Omsk, et que Marfa est ensuite torturée par Ogareff et la tsigane Sangarre pour avoir reconnu son fils ; simplifié.
 - Écartés pour la longueur : les deux journalistes, Harry Blount et Alcide Jolivet ; le radeau sur l'Angara et le naphte enflammé.
 - Le frère du tsar : le grand-duc, je crois ; « son frère » est sûr.
+- Vérification : nom d'emprunt Nicolas Korpanoff, marchand d'Irkoutsk : hors zone (« Korpanoff » absent).
+- Vérification : Nadia, fille de Wassili Fédor : confirmé (p00100 : « Wassili Fédor » ; p00097, p00099). Le nom de Nadia Fédor n'est pas écrit, sa tenue en exil est attestée.
+- Vérification : lame rougie à Tomsk : la lame est confirmée (p00089) ; Tomsk est nommé dans la dépêche mais pas comme lieu du supplice : hors zone.
+- Vérification : aucune date d'année donnée : hors zone (les dates sont absentes des pages).
+- Vérification : reniement au relais d'Omsk, Marfa torturée par Ogareff et la tsigane Sangarre : hors zone ; Sangarre est nommée (p00104) ; Marfa retrouvée à Omsk (p00140).
+- Vérification : frère du tsar = grand-duc : confirmé (p00020, p00093).
 
 ### Anciens textes
 
@@ -311,14 +360,15 @@ La paix nous avait laissés, nous autres artilleurs, sans rien à viser : j'ai p
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le Gun-Club siège à Baltimore | `Gun-Club`, `Baltimore` | à vérifier | |
-| Barbicane est le président du Gun-Club | `Barbicane`, `président` | à vérifier | |
-| Le canon s'appelle la Columbiad | `Columbiad` | à vérifier | |
-| Le canon est coulé à Stone's Hill, en Floride | `Stone's-Hill`, `Stone's Hill`, `Floride` | à vérifier | |
-| Nicholl fabrique des plaques de blindage | `Nicholl`, `plaque`, `cuirasse` | à vérifier | |
-| Michel Ardan est français | `Ardan`, `Français` | à vérifier | |
-| Le projectile devient un satellite de la Lune | `satellite` | à vérifier | |
-| Le projectile est observé au télescope de Long's Peak | `Long's-Peak`, `Long's Peak`, `télescope` | à vérifier | |
+| Le Gun-Club siège à Baltimore | `Gun-Club`, `Baltimore` | confirmé | p00002, p00006 (« le club… dans la ville de Baltimore ») |
+| Barbicane est le président du Gun-Club | `Barbicane`, `président` | confirmé | p00053 (« Le président du Gun-Club… ») ; p00055 (« Impey Barbicane, P. G.-C. ») |
+| Le canon s'appelle la Columbiad | `Columbiad` | confirmé | p00061 (« la Columbiad de Stone's-Hill ») |
+| Le canon est coulé à Stone's Hill | Stone's-Hill, Stone's Hill | confirmé | p00061 (« la Columbiad de Stone's-Hill ») |
+| Le canon est coulé en Floride | Floride | hors zone | « Floride » absent des pages enregistrées |
+| Nicholl fabrique des plaques de blindage | `Nicholl`, `plaque`, `cuirasse` | hors zone | « plaque » et « cuirasse » absents ; « Nicholl » nommé en p00070, sans métier |
+| Michel Ardan est français | `Ardan`, `Français` | hors zone | « Michel Ardan » nommé (p00070) ; aucun passage ne donne sa nationalité (« Français », p00036, vise d'autres personnes) |
+| Le projectile devient un satellite de la Lune | `satellite` | confirmé | p00063, p00070 (« le véritable satellite », « un nouveau satellite ») |
+| Le projectile est observé au télescope de Long's Peak | `Long's-Peak`, `Long's Peak`, `télescope` | confirmé | p00057, p00073 (« Long's-Peak », « télescope ») |
 
 ### Notes
 
@@ -330,6 +380,12 @@ La paix nous avait laissés, nous autres artilleurs, sans rien à viser : j'ai p
 - Le duel : de mémoire, dans un bois de Floride, et Ardan trouve Nicholl occupé à délivrer un oiseau d'une toile d'araignée ; tu.
 - Le télescope : je crois établi sur le Long's Peak (Montagnes Rocheuses), et le message signé de Belfast, directeur de l'observatoire de Cambridge ; le projectile « dévié » par une cause inconnue, je crois (le bolide est, de mémoire, dans la suite). Fait à vérifier.
 - Maston : secrétaire du Gun-Club, crâne en gutta-percha et crochet de fer ; je ne suis pas sûr de sa dernière réplique, d'où « veut croire ses amis vivants ».
+- Vérification : Floride et Tampa : Floride absent, Tampa absent (hors zone).
+- Vérification : Stone's-Hill avec trait d'union : confirmé (p00061).
+- Vérification : Nicholl de Philadelphie, série de paris : hors zone (Philadelphie absent).
+- Vérification : duel dans un bois, oiseau dans une toile d'araignée : hors zone.
+- Vérification : Long's-Peak et Belfast : confirmés (p00057, p00061) ; « directeur de l'observatoire de Cambridge » et cause de la déviation : hors zone.
+- Vérification : J.-T. Maston, secrétaire : confirmé (p00012, « secrétaire perpétuel du Gun-Club ») ; sa dernière réplique : hors zone.
 
 ### Anciens textes
 
@@ -342,7 +398,7 @@ Corpus : 2 pages choisies sur fr.wikisource.org (langue : fr) : « Un capitaine 
 
 ### summary
 
-En 1873, le baleinier Pilgrim quitte la Nouvelle-Zélande pour San Francisco avec Mrs Weldon, son petit Jack, le cousin Bénédict, entomologiste distrait, et cinq Noirs américains, hommes libres recueillis sur une épave. Quand le capitaine Hull et tout l'équipage périssent en chassant une baleine, le jeune novice Dick Sand doit commander le navire. Le cuisinier Negoro fausse le compas, et le Pilgrim s'échoue en Afrique, où un faux guide, Harris, fait croire aux naufragés qu'ils sont en Amérique du Sud. Livrés aux marchands d'esclaves d'Angola, ils sont séparés. Dick, aidé du géant Hercule et du chien Dingo, délivre Mrs Weldon et son fils après la mort des deux traîtres, et les ramène vers la côte.
+En 1873, le baleinier Pilgrim quitte la Nouvelle-Zélande pour San Francisco avec Mrs Weldon, son petit Jack, le cousin Bénédict, entomologiste distrait, et cinq Noirs américains, hommes libres recueillis sur une épave. Quand le capitaine Hull et tout l'équipage périssent en chassant une baleine, le jeune novice Dick Sand doit commander le navire. Le cuisinier Negoro fausse le compas, et le Pilgrim s'échoue en Afrique, où un faux guide, Harris, fait croire aux naufragés qu'ils sont en Amérique du Sud. Livrés aux marchands d'esclaves, ils sont séparés. Dick, aidé du géant Hercule et du chien Dingo, délivre Mrs Weldon et son fils après la mort des deux traîtres, et les ramène vers la côte.
 
 ### personalSummary
 
@@ -352,14 +408,15 @@ Je n'étais qu'un novice quand la mer a pris notre commandant et tous les matelo
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le navire s'appelle le Pilgrim | `Pilgrim` | à vérifier | |
-| Le Pilgrim part d'Auckland | `Auckland`, `Nouvelle-Zélande` | à vérifier | |
-| Le capitaine Hull meurt en chassant une baleine | `Hull`, `baleine` | à vérifier | |
-| Negoro fausse le compas | `Negoro`, `compas` | à vérifier | |
-| Harris fait croire aux naufragés qu'ils sont en Bolivie | `Harris`, `Bolivie` | à vérifier | |
-| Le marchand d'esclaves s'appelle Alvez | `Alvez` | à vérifier | |
-| Dingo tue Negoro | `Dingo`, `Negoro` | à vérifier | |
-| Dick Sand tue Harris | `Harris`, `Dick` | à vérifier | |
+| Le navire s'appelle le Pilgrim | `Pilgrim` | confirmé | p00003 (« brick-goélette « pilgrim » »), p00004 |
+| Le Pilgrim part d'Auckland | `Auckland`, `Nouvelle-Zélande` | confirmé | p00014, p00018 (« le Pilgrim vint en relâche à Auckland »), p00056 |
+| Le capitaine Hull meurt en chassant une baleine | `Hull`, `baleine` | hors zone | Hull est vivant au départ (p00056-p00067) ; sa mort n'est pas dans les pages |
+| Negoro fausse le compas | `Negoro`, `compas` | hors zone | « compas » et « boussole » absents ; Negoro n'est nommé qu'en p00074 |
+| Harris fait croire aux naufragés qu'ils sont en Bolivie | `Harris`, `Bolivie` | hors zone | « Harris » et « Bolivie » absents (« Harrisson », p00071, est un autre personnage) |
+| Le marchand d'esclaves s'appelle Alvez | `Alvez` | hors zone | « Alvez » absent ; le convoi se dirige vers Emboma, à l'embouchure du Congo (p00069, p00071) |
+| Dingo tue Negoro | `Dingo`, `Negoro` | hors zone | Dingo meurt (p00084), la cause n'est pas dite ; Negoro n'a plus de rôle dans les pages |
+| Dick Sand tue Harris | `Harris`, `Dick` | hors zone | « Harris » absent des pages enregistrées |
+| Les passagers sont livrés à des marchands d'esclaves d'Angola | Angola, Madagascar, Emboma | corrigé | « Angola » absent ; les cinq hommes sont vendus à Madagascar (p00082) ; le convoi va à Emboma, embouchure du Congo (p00069). Résumé corrigé : « d'Angola » retiré |
 
 ### Notes
 
@@ -371,6 +428,13 @@ Je n'étais qu'un novice quand la mer a pris notre commandant et tous les matelo
 - « Amérique du Sud » : je crois que Harris prétend qu'ils sont en Bolivie (ou au Pérou, sur la côte d'Atacama ?) ; relevé.
 - Fin : je crois que Dingo égorge Negoro (il le hait depuis la mort de son maître Samuel Vernon, initiales S. V.) et que Dick tue Harris, qui lui annonçait la mort de Mrs Weldon. Je crois aussi que la fuite se fait par un fleuve, sur une sorte de radeau caché, et que les Noirs sont rachetés plus tard. Simplifié en « après la mort des deux traîtres ».
 - Le marchand Alvez (José-Antonio Alvez), à Kazonndé, je crois ; non écrit dans les textes, relevé pour la graphie.
+- Vérification : année 1873 : confirmée (p00004, « Le 2 février 1873 ») ; départ d'Auckland : confirmé (p00014, p00018, p00056).
+- Vérification : brick-goélette Pilgrim, James-W. Weldon : confirmés (p00003, p00020) ; San Francisco : confirmé (p00018).
+- Vérification : Tom, Bat, Austin, Actéon, Hercule : confirmés (p00082-p00083) ; le navire Waldeck : hors zone (absent) ; la vieille Nan meurt : confirmé (p00084).
+- Vérification : sabotage du compas (fer sous l'habitacle) : hors zone.
+- Vérification : Harris prétend la Bolivie ou le Pérou : hors zone.
+- Vérification : Dingo égorge Negoro, Dick tue Harris, fuite par un fleuve, rachat des Noirs : hors zone. Dingo meurt (p00084), cause non dite.
+- Vérification : Alvez à Kazonndé : hors zone. Les cinq hommes sont vendus à Madagascar (p00082) et le convoi va à Emboma (p00069). Correction : « d'Angola » retiré du résumé.
 
 ### Anciens textes
 
@@ -383,7 +447,7 @@ Corpus : 2 pages choisies sur fr.wikisource.org (langue : fr) : « Robur le conq
 
 ### summary
 
-Des sons de trompette dans le ciel et un drapeau noir planté au sommet des monuments intriguent le monde entier. À Philadelphie, le Weldon-Institute, que préside Uncle Prudent avec le secrétaire Phil Evans, se querelle sur son dirigeable quand un ingénieur inconnu vient y proclamer l'avenir des machines plus lourdes que l'air. Il enlève les deux hommes et le valet Frycollin à bord de l'Albatros, son aéronef à hélices, et leur fait survoler le globe, de l'Amérique à l'Afrique et aux glaces antarctiques. Les captifs s'évadent en faisant sauter l'appareil. Mais à l'envol du dirigeable Go-Ahead, l'ingénieur reparaît sur un nouvel Albatros, sauve ses ennemis de l'explosion du ballon et repart.
+Des sons de trompette dans le ciel et un drapeau noir planté au sommet des monuments intriguent le monde entier. À Philadelphie, le Weldon-Institute, que préside Uncle Prudent avec le secrétaire Phil Evans, se querelle sur son dirigeable quand un ingénieur inconnu vient y proclamer l'avenir des machines plus lourdes que l'air. Il enlève les deux hommes et le valet Frycollin à bord de l'Albatros, son aéronef à hélices, et leur fait survoler le globe, de l'Amérique à l'Afrique et aux glaces antarctiques. Les captifs s'évadent en faisant sauter l'appareil. Mais à l'envol du ballon Go-Ahead, l'ingénieur reparaît sur un nouvel Albatros, sauve ses ennemis de la chute de leur ballon et repart.
 
 ### personalSummary
 
@@ -393,14 +457,16 @@ On a ri de moi quand j'ai dit que l'avenir appartenait aux machines plus lourdes
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le Weldon-Institute siège à Philadelphie | `Weldon-Institute`, `Philadelphie` | à vérifier | |
-| Uncle Prudent préside le Weldon-Institute | `Uncle Prudent`, `Prudent` | à vérifier | |
-| Phil Evans est le secrétaire de l'Institut | `Phil Evans`, `secrétaire` | à vérifier | |
-| Le valet s'appelle Frycollin | `Frycollin` | à vérifier | |
-| L'aéronef s'appelle l'Albatros | `Albatros` | à vérifier | |
-| Les captifs font sauter l'Albatros à la dynamite | `dynamite`, `cartouche` | à vérifier | |
-| Le dirigeable de l'Institut s'appelle le Go-Ahead | `Go-Ahead` | à vérifier | |
-| L'ingénieur sauve Prudent et Evans de l'explosion du Go-Ahead | `Go-Ahead`, `éclat`, `sauv` | à vérifier | |
+| Le Weldon-Institute siège à Philadelphie | `Weldon-Institute`, `Philadelphie` | confirmé | p00067 (« Philadelphie était tout en mouvement ») ; p00118 (le Go a head « allait partir de Philadelphie ») |
+| Uncle Prudent préside le Weldon-Institute | `Uncle Prudent`, `Prudent` | confirmé | p00069, p00140 (« le président et le secrétaire du Weldon-Institute », Uncle Prudent et Phil Evans) |
+| Phil Evans est le secrétaire de l'Institut | `Phil Evans`, `secrétaire` | confirmé | p00069, p00140 (« le président et le secrétaire du Weldon-Institute ») |
+| Frycollin accompagne Prudent et Evans | Frycollin | confirmé | p00081 (« Pourquoi pas Frycollin ? ») ; p00070 |
+| Frycollin est un valet | valet, domestique | hors zone | « valet » et « domestique » absents des pages enregistrées |
+| L'aéronef s'appelle l'Albatros | `Albatros` | confirmé | p00071, p00109 (« l'aéronef, brisé par l'explosion ») |
+| L'Albatros est détruit par une explosion | explosion, vengeance | confirmé | p00109 (« brisé par l'explosion ») ; p00071 (« une vengeance si terrible ») |
+| L'explosion est causée à la dynamite | dynamite, cartouche | hors zone | « dynamite » et « cartouche » absents des pages enregistrées |
+| Le ballon de l'Institut s'appelle le Go-Ahead | Go-Ahead, Go a head | corrigé | p00067 (« L'aérostat le Go a head ») ; p00070 (« le ballon le Go a head »). Ancienne formulation : « dirigeable » ; nouvelle : « ballon ». Résumé corrigé en conséquence |
+| L'ingénieur sauve Prudent et Evans de la chute du Go-Ahead crevé | crevé, chute, secours, sauv | corrigé | p00128 (« Le gaz… avait crevé l'enveloppe ») ; p00132 (ses hommes les « font passer du Go a head sur l'Albatros »). Pas d'explosion du ballon. Ancienne formulation : « explosion » ; nouvelle : « chute… crevé ». Résumé corrigé |
 
 ### Notes
 
@@ -412,6 +478,12 @@ On a ri de moi quand j'ai dit que l'avenir appartenait aux machines plus lourdes
 - L'itinéraire : je ne suis pas sûr de l'ordre (Amérique du Nord, Pacifique, Asie, Europe, Afrique avec le Dahomey, Atlantique, Antarctique) ; je n'en garde que trois jalons, sans engager l'ordre exact entre Afrique et Antarctique.
 - L'évasion : de mémoire, sur l'île X, base de l'ingénieur dans le Pacifique, ou sur l'île Chatham ; je ne suis pas sûr de l'île. L'équipage est cru mort.
 - Je ne suis pas sûr que le Go-Ahead « explose » ou « éclate » (il monte trop haut et crève, je crois) : « l'explosion du ballon » à vérifier.
+- Vérification : île de l'évasion, « île X » : confirmée (p00114-p00118) ; Chatham absent.
+- Vérification : ordre de l'itinéraire : hors zone.
+- Vérification : le Go-Ahead « explose » ou « crève » : contredit. Le gaz trop dilaté crève l'enveloppe (p00128) ; il n'y a pas d'explosion du ballon. Résumé corrigé.
+- Vérification : valet de Prudent seul : hors zone (« valet » et « domestique » absents).
+- Vérification : enlèvement de nuit au parc de Fairmount : hors zone (Fairmont-Park, p00120, n'est que le lieu de la démonstration aérienne).
+- Vérification : drapeau étoilé avec un soleil : confirmé (p00125, « l'étamine étoilée avec le soleil ») ; « noir » : hors zone.
 
 ### Anciens textes
 
