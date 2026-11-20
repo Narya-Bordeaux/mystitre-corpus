@@ -56,4 +56,66 @@ Je n'ai pas senti de baisse d'attention en fin de lot ; j'ai même relevé deux 
 
 ## Passe 2 — vérification
 
-<!-- Bilan (tableau confirmés / hors zone / corrigés par œuvre), corrections, points à trancher, contrôles et incidents, difficultés au fil du lot, retours sur la consigne. -->
+Chaque fait du tableau a été confronté au texte : `summary find` pour repérer les occurrences, puis `corpus show` pour lire les passages qui décident (les occurrences seules ne suffisent pas, notamment pour « sous un pin », « sept ans » ou « fils »). Les doutes de la passe 1 (« Vérification : … » dans les notes) sont tranchés au même endroit.
+
+### Bilan
+
+Faits : 78 (les 77 de la passe 1, plus une ligne ajoutée pour `les-cent-nouvelles-nouvelles` : « vraies » et « récentes » ont été scindés en deux lignes, comme la consigne le demande).
+
+| Œuvre | Corpus | Confirmés | Hors zone | Corrigés |
+|---|---|---|---|---|
+| `la-petite-sirene` | une page (da), texte entier | 8 | 0 | 0 |
+| `le-vilain-petit-canard` | une page (da), texte entier | 7 | 0 | 0 |
+| `la-reine-des-neiges` | une page (da), texte entier | 8 | 0 | 0 |
+| `les-habits-neufs-de-lempereur` | une page (da), texte entier | 6 | 0 | 1 |
+| `aladin` | 2 pages choisies (fr) | 8 | 0 | 0 |
+| `ali-baba` | une page (fr), texte entier | 8 | 0 | 0 |
+| `le-pecheur-et-le-genie` | 2 pages choisies (fr) | 8 | 0 | 0 |
+| `epopee-de-gilgamesh` | aucun texte | 0 | 8 | 0 |
+| `la-chanson-de-roland` | une page (fr), texte entier | 7 | 0 | 1 |
+| `les-cent-nouvelles-nouvelles` | 2 pages choisies (frm) : début et fin | 2 | 5 | 1 |
+| **Total** | | **62** | **13** | **3** |
+
+« Texte entier » : début et fin de la page vérifiés pour `la-petite-sirene` (p00001 à p00089), `le-vilain-petit-canard` (fin en p00066), `la-reine-des-neiges` (fin en p00201), `les-habits-neufs-de-lempereur` (fin en p00031), `ali-baba` (fin en p00213), `la-chanson-de-roland` (fin en p00583). Pour `aladin` et `le-pecheur-et-le-genie`, les pages sont des extraits : les faits trouvés y sont confirmés, les absences restent non concluantes.
+
+### Corrections
+
+1. `les-habits-neufs-de-lempereur`, summary : « poursuit la marche plus fièrement encore » → « tient la procession jusqu'au bout » (p00031). Le texte n'a aucun mot « fier » ; l'empereur frissonne puis continue parce qu'il « faut tenir la procession ».
+2. `les-habits-neufs-de-lempereur`, personalSummary : « marché plus fièrement encore jusqu'au bout » → « mais j'ai tenu la procession jusqu'au bout » (p00031).
+3. `la-chanson-de-roland`, summary : « Il meurt face à l'Espagne » → « Il meurt tourné vers l'Espagne » (p00336 : il va vers l'Espagne ; p00348 : il tourne la tête vers la gent païenne).
+4. `la-chanson-de-roland`, personalSummary : « la face tournée vers l'Espagne » → « la tête tournée vers les païens » (p00348 : « face contre terre »).
+5. `les-cent-nouvelles-nouvelles`, summary : « en lui imposant une longue abstinence » → « en lui conseillant l'abstinence » (p00003 : « chastier sa nature par abstinence », « desormais » ; « longue » n'est pas dans le texte).
+6. `les-cent-nouvelles-nouvelles`, personalSummary : « éteindre un désir sans prêcher » → « éteindre un désir avec douceur » (p00003 : « doulcement l'amonesta »).
+
+Chacune est aussi notée dans les « Notes » de l'œuvre, sur une ligne « Vérification : … ».
+
+### Points à trancher
+
+- `epopee-de-gilgamesh` : aucun texte et aucune fiche de source (`sources/epopee-de-gilgamesh.json` absent du dépôt de corpus). Les huit faits restent « hors zone » ; il faut soit une source libre de droits, soit une décision de relecture.
+- `les-cent-nouvelles-nouvelles` : la dédicace (duc de Bourgogne, Philippe), l'attribution des nouvelles à un conteur et le lieu de la dernière nouvelle (Gênes) ne figurent pas dans les pages enregistrées. Hors zone, à trancher à la relecture ; un texte plus complet suffirait.
+- `les-cent-nouvelles-nouvelles` : « détourne une épouse de l'adultère ». Le texte montre que l'adultère a eu lieu (l'entreprise est « bien achevée ») et que l'homme sage conseille la retenue ensuite (p00003). La formule est laissée telle quelle ; à trancher.
+- `ali-baba` : le texte dit « vases » (p00120), le résumé « jarres » ; « jarres » reste juste, inchangé.
+
+### Contrôles
+
+- `summary lint vague2-1 --checked` : 0 erreur, 0 avertissement après corrections ; les dix œuvres ont 7 ou 8 faits.
+- Fuites : `summary apply vague2-1 --output <scratchpad>/catalogue-vague2-1.json` (10 fiches simulées), puis `dart run tool/list_name_leaks.dart --catalogue=<scratchpad>/catalogue-vague2-1.json` : « Aucune fuite de titre ou d'auteur ». Dart est présent (`/opt/flutter/bin/dart`) ; son avertissement sur l'exécution en root est sans incidence.
+- `summary mark vague2-1 checked` : lancé après l'écriture de ce compte rendu (code de retour dans la réponse finale).
+
+### Incidents
+
+- Première tentative de création de la branche : la référence `origin/claude/summary-vague2-1-draft` n'existait pas localement après le fetch superficiel. J'ai créé la branche à partir de `FETCH_HEAD` (commit 2059403, « Résumés vague2-1 : rédaction »). Aucun effet sur le contenu.
+- `summary find` renvoie des centaines d'occurrences pour les termes courants (« africain » : 92, « sultan » : 310, « Morgiane » : 73). J'ai donc limité l'affichage et lu les passages avec `corpus show` pour les décisions.
+
+### Difficultés au fil du lot
+
+Pas de baisse nette d'attention en fin de lot, mais la charge a monté : les sorties de `find` pour *Aladin* et *Ali Baba* étaient très longues, et j'ai dû lire davantage de passages pour ne pas me fier à la seule présence d'un terme. Le plus difficile n'était pas la fatigue mais la nature des œuvres : *Les Cent Nouvelles* n'ont que le début et la fin, et *L'Épopée de Gilgamesh* n'a aucun texte. Les dernières œuvres ont reçu le même traitement que les premières (lecture des passages décisifs).
+
+### Retours sur la consigne
+
+- Œuvre sans texte (`epopee-de-gilgamesh`) : la consigne ne dit pas quel appui donner à un fait « hors zone » quand le corpus n'a aucune page. J'ai écrit « absent des pages enregistrées (aucun texte) ».
+- Nuance de ton : « sans prêcher » est contredit par « doulcement l'amonesta », mais c'est un ton, non un fait. J'ai traité la formule comme une correction, faute de règle sur les nuances de ton. Une ligne dans la consigne lèverait le doute.
+- Scission : la règle des deux faits (« vraies » et « récentes ») s'applique bien ; la consigne le dit clairement.
+- Borne de huit faits : elle n'est pas contrôlée par le lint ; je l'ai respectée, et la scission de `les-cent-nouvelles-nouvelles` porte désormais l'œuvre à huit lignes.
+- Recherche : un mode de comptage ou une limite d'affichage par terme rendrait `find` plus sûr sur les mots très répandus.
+- Passe 1 : une note peut se tromper sur la structure du texte (« dernière phrase » du *Vilain Petit Canard*, en p00062 au lieu de p00066). La consigne pourrait demander de relire les notes de la passe 1 comme des faits.
