@@ -1,6 +1,6 @@
 # Résumés — vague2-3
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `electre`, `micromegas`, `voyages-de-gulliver`, `mahabharata`, `shahnameh`, `le-neveu-de-rameau`, `jacques-le-fataliste`, `recherche-du-temps-perdu`, `freres-karamazov`, `lidiot`
 - Créée le : 2026-11-19
 
@@ -411,7 +411,7 @@ Corpus : 2 pages choisies sur ru.wikisource.org (langue : ru) : « Братья 
 
 ### summary
 
-Dans une ville de province, le vieux Fiodor Pavlovitch, bouffon débauché, a trois fils : Dmitri, officier passionné, Ivan, intellectuel qui doute de Dieu, et Alexeï, dit Aliocha, novice auprès du starets Zosime ; son laquais Smerdiakov passe pour son fils illégitime. Dmitri dispute à son père un héritage et la belle Grouchenka. Quand Fiodor est retrouvé assassiné, dépouillé de trois mille roubles, Dmitri, qui l'avait menacé, est arrêté. Smerdiakov avoue à Ivan le meurtre, inspiré, dit-il, par la maxime d'Ivan : « tout est permis » ; puis il se pend. Dmitri est pourtant condamné à l'exil, et Aliocha, aux funérailles du petit Ilioucha, demande à des garçons de ne jamais oublier ce jour.
+Dans une ville de province, le vieux Fiodor Pavlovitch, bouffon débauché, a trois fils : Dmitri, officier passionné, Ivan, intellectuel qui doute de Dieu, et Alexeï, dit Aliocha, novice auprès du starets Zosime ; son laquais Smerdiakov passe pour son fils illégitime. Dmitri dispute à son père un héritage et la belle Grouchenka. Quand Fiodor est retrouvé assassiné, dépouillé de trois mille roubles, Dmitri, qui l'avait menacé, est arrêté. Smerdiakov avoue à Ivan le meurtre, inspiré, dit-il, par la maxime d'Ivan : « tout est permis » ; puis il se pend. Dmitri est pourtant condamné au bagne, et Aliocha, aux funérailles du petit Ilioucha, demande à des garçons de ne jamais oublier ce jour.
 
 ### personalSummary
 
@@ -427,7 +427,7 @@ J'avais choisi le monastère, auprès de mon vieux maître, mais il m'a renvoyé
 | Trois mille roubles disparaissent lors du meurtre | `три тысячи`, `трех тысяч`, `трёх тысяч` | hors zone | absent des pages enregistrées |
 | Smerdiakov avoue le meurtre à Ivan | `Смердяков`, `Иван` | hors zone | absent des pages enregistrées |
 | Smerdiakov se pend | `повесил` | hors zone | absent des pages enregistrées |
-| Dmitri est condamné à l'exil | `ссылк` | corrigé | p00056 (Aliocha : « из которых один пойдет в ссылку » : l'un des deux frères ira en exil) |
+| Dmitri est condamné au bagne | `ссылк`, `каторг` | hors zone | absent des pages enregistrées (p00056 : « один пойдет в ссылку », exil au sens large, sans contradiction) |
 | Aliocha parle aux garçons près d'une pierre, après les funérailles d'Ilioucha | `Илюш`, `камн`, `камен` | confirmé | p00007 (titre : « Речь у камня »), p00052-p00060 (« Будем помнить ») |
 
 ### Notes
@@ -447,6 +447,7 @@ J'avais choisi le monastère, auprès de mon vieux maître, mais il m'a renvoyé
 - Vérification : « tout est permis » : formule absente des pages (hors zone) ; « inspiré par la maxime d'Ivan » : hors zone.
 - Vérification : « un héritage » : confirmé en partie : Fiodor a pris l'argent de la mère de Dmitri, « jusqu'à vingt-cinq mille » (p00005) ; le détail de la dispute est hors zone.
 - Vérification : peine de Dmitri : CORRIGÉE dans le résumé et le tableau. Aliocha dit qu'« un des deux frères ira en exil » (p00056 : « пойдет в ссылку ») ; le mot « bagne » n'est pas dans les pages (hors zone pour la durée de vingt ans, de mémoire).
+- Intégration : « bagne » rétabli. « Ссылка » (p00056) désigne l'exil au sens large ; la condamnation de Dmitri à vingt ans de bagne (livre XII) est hors des pages enregistrées et n'est pas contredite.
 - Vérification : scène finale : confirmée (p00007 : « Речь у камня » ; p00053 : les garçons devant la grosse pierre ; p00060 : « Будем помнить »). Le résumé dit « aux funérailles » : la scène suit les funérailles.
 - Vérification : « Karamazov » : le nom reste absent du résumé corrigé.
 

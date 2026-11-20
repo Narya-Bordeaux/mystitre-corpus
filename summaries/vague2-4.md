@@ -1,6 +1,6 @@
 # Résumés — vague2-4
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `les-carnets-du-sous-sol`, `resurrection`, `moby-dick`, `gatsby-le-magnifique`, `les-aventures-de-huckleberry-finn`, `les-aventures-de-tom-sawyer`, `la-lettre-ecarlate`, `la-case-de-loncle-tom`, `lappel-de-la-foret`, `lappel-de-cthulhu`
 - Créée le : 2026-11-19
 

@@ -1,6 +1,6 @@
 # Résumés — vague2-2
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `les-mille-et-une-nuits`, `le-conte-du-coupeur-de-bambous`, `le-dit-des-heike`, `les-contes-dise`, `voyage-en-occident`, `odyssee`, `iliade`, `macbeth`, `romeo-et-juliette`, `oedipe-roi`
 - Créée le : 2026-11-19
 

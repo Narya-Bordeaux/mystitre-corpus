@@ -105,3 +105,15 @@ Les doutes des notes de la passe 1 sont traités au fil de chaque œuvre, sur un
 - **Détail incompatible, sans être absent.** « Pieds percés » contre « pieds liés » : le texte ne dit pas que l'enfant a été percé, il dit qu'il a été lié. La consigne ne tranche pas : j'ai corrigé. Préciser si un détail incompatible avec le texte est une contradiction (corrigé) ou une absence (hors zone).
 - **Ligne « Corpus » inexacte.** Pour Macbeth, « 5 pages choisies » recouvre la pièce entière ; pour les Mille et Une Nuits, la ligne « 2 pages choisies » ne dit pas que le cadre est là en entier. La ligne devrait être générée à partir du texte.
 - **Œuvres liées à d'autres fiches.** Aladin et Ali Baba (Mille et Une Nuits), Atsumori (Heike) : je les ai tus, comme à la passe 1. La consigne pourrait dire si un titre d'une autre fiche peut être cité.
+
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- Correction retenue : `oedipe-roi`, « les pieds liés » (Leconte de Lisle, p00226, p00343).
+- `les-mille-et-une-nuits`, `voyage-en-occident`, `romeo-et-juliette` : faits hors zone gardés (aube, premier conte, 72 métamorphoses, 81 épreuves, mariage par frère Laurent).
+- `le-dit-des-heike` : aucun texte au corpus ; résumés gardés.
+- `oedipe-roi` : « le Sphinx » gardé (usage français courant ; la traduction dit « la Sphinx »).
+- `le-conte-du-coupeur-de-bambous` : « vieux coupeur de bambous » gardé (le titre ne se reconstitue pas en entier).
+- Noms d'autres œuvres tus par la rédaction (Aladin, Ali Baba, Atsumori) : textes laissés tels quels, ils restent clairs ; la règle permet de les nommer.
+- `macbeth` : la ligne « Corpus » dit « pages choisies » alors que les cinq actes sont là (une page par acte) : limite connue du libellé.

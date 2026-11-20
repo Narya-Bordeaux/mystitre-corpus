@@ -154,3 +154,12 @@
 - Un fait qui affirme deux choses a été scindé : « prostituée » et « se nomme Liza » ; « prospères » (conclusion) et « riches grâce au trésor » ; « mort sur l'échafaud » et « aveu ».
 - Un doute de note contredit par le texte (Case, Cthulhu, Tom Sawyer) a été corrigé par une ligne « Vérification : contredit… », sans réécrire le doute d'origine. Choix à confirmer.
 - Graphies : j'ai confirmé les graphies différentes du corpus (Nekhludov, Katucha, Mathieu, West-Egg, Henri) ; le résumé garde la graphie française usuelle.
+
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- Corrections retenues (*Les Carnets du sous-sol* ×2, *La Lettre écarlate*, *L'Appel de la forêt*).
+- `gatsby-le-magnifique` : Daisy au volant gardée (hors zone ; c'est le dénouement du roman, Tom n'en donne que sa version).
+- `la-lettre-ecarlate` : l'aveu public de Dimmesdale gardé (hors zone ; le narrateur écarte la version de ses amis).
+- Renvois entre *Tom Sawyer* et *Huckleberry Finn* gardés : nommer une autre œuvre du catalogue est permis (décision de l'utilisateur, v1.21.7).

@@ -1,6 +1,6 @@
 # Résumés — vague2-1
 
-- Étape : vérifiée
+- Étape : intégrée
 - Œuvres : `la-petite-sirene`, `le-vilain-petit-canard`, `la-reine-des-neiges`, `les-habits-neufs-de-lempereur`, `aladin`, `ali-baba`, `le-pecheur-et-le-genie`, `epopee-de-gilgamesh`, `la-chanson-de-roland`, `les-cent-nouvelles-nouvelles`
 - Créée le : 2026-11-19
 

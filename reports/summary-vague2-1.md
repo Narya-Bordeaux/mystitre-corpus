@@ -119,3 +119,12 @@ Pas de baisse nette d'attention en fin de lot, mais la charge a monté : les sor
 - Borne de huit faits : elle n'est pas contrôlée par le lint ; je l'ai respectée, et la scission de `les-cent-nouvelles-nouvelles` porte désormais l'œuvre à huit lignes.
 - Recherche : un mode de comptage ou une limite d'affichage par terme rendrait `find` plus sûr sur les mots très répandus.
 - Passe 1 : une note peut se tromper sur la structure du texte (« dernière phrase » du *Vilain Petit Canard*, en p00062 au lieu de p00066). La consigne pourrait demander de relire les notes de la passe 1 comme des faits.
+
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- Corrections retenues (*Les Habits neufs*, *La Chanson de Roland*, *Les Cent Nouvelles nouvelles*).
+- `epopee-de-gilgamesh` : aucun texte au corpus ; résumés gardés, tous les faits hors zone.
+- `les-cent-nouvelles-nouvelles` : « détourne une épouse de l'adultère » gardé ; dédicace et Gênes gardées (hors zone).
+- `ali-baba` : « jarres » gardé (le texte dit « vases », sans contradiction).

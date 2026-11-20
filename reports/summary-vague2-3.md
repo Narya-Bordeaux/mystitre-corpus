@@ -228,3 +228,13 @@ Les « Vérification » des Notes couvrent chaque doute de la passe 1. Aucun dou
 - Fait attesté seulement en partie (`le-neveu-de-rameau`, `lidiot`) : la consigne n'a pas de statut pour « partiellement attesté ». J'ai choisi « confirmé » avec la réserve écrite dans l'appui, et je signale le choix.
 - Mot traduit plus précisément qu'en français (`freres-karamazov`, « ссылка » contre « bagne ») : la consigne ne dit pas si c'est une contradiction. J'ai corrigé, car le texte fait foi ; la relecture peut trancher autrement.
 - Un fait relevé dans la passe 1 comme doute et contredit par le texte, mais absent du tableau, n'a pas de procédure claire : j'ai ajouté une ligne au tableau pour garder la trace.
+
+## Intégration
+
+Décisions de la session principale (pas de relecture humaine) :
+
+- Corrections retenues : `micromegas` (le Saturnien croit la Terre inhabitée), `le-neveu-de-rameau` (« un après-midi »).
+- Correction écartée : `freres-karamazov`, « bagne » rétabli (voir les notes de l'œuvre).
+- `mahabharata` : aucun texte au corpus ; résumés gardés. Ses `firstSentences` et `lastSentences` paraissent forgées : signalé dans `docs/todo.md` de `mystitre`.
+- `shahnameh` : la source « declared » est une source déclarée par l'utilisateur (v1.20.15), pas une anomalie.
+- `le-neveu-de-rameau` (Bertin), `micromegas`, `lidiot` : points non contredits, gardés.
