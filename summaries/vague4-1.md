@@ -1,6 +1,6 @@
 # Résumés — vague4-1
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `les-contes-de-canterbury`, `lheptameron`, `eugene-oneguine`, `la-dame-de-pique`, `les-ames-mortes`, `le-manteau`, `le-journal-dun-fou`, `peres-et-fils`, `la-mere`, `les-bas-fonds`
 - Créée le : 2026-11-20
 
@@ -22,14 +22,14 @@ Un soir d'avril, je logeais au Tabard quand une troupe de pèlerins y fit halte,
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les pèlerins se réunissent à l'auberge du Tabard, à Southwark | `Tabard`, `Southwerk`, `Southwark` | à vérifier | |
-| Le départ a lieu en avril | `Aprille`, `April` | à vérifier | |
-| Les pèlerins sont une trentaine (vingt-neuf) | `nyne and twenty`, `nine and twenty` | à vérifier | |
-| L'aubergiste s'appelle Harry Bailly | `Bailly`, `Herry`, `Harry` | à vérifier | |
-| Le prix promis au meilleur conteur est un souper payé par les autres | `soper`, `supper` | à vérifier | |
-| Le sort désigne le Chevalier pour commencer | `cut`, `sort`, `Knyght`, `Knight` | à vérifier | |
-| La dame aimée de Palamon et Arcite s'appelle Émilie | `Emelye`, `Emily`, `Palamon` | à vérifier | |
-| Une rétractation finale demande pardon pour les contes profanes | `retracciouns`, `revoke`, `Tales of Caunterbury` | à vérifier | |
+| Les pèlerins se réunissent à l'auberge du Tabard, à Southwark | `Tabard`, `Southwerk`, `Southwark` | confirmé | p00003 |
+| Le départ a lieu en avril | `Aprille`, `April` | confirmé | p00003 |
+| Les pèlerins sont une trentaine (vingt-neuf) | `nyne and twenty`, `nine and twenty` | confirmé | p00003 |
+| L'aubergiste s'appelle Harry Bailly | `Bailly`, `Herry`, `Harry` | hors zone | absent des pages enregistrées |
+| Le prix promis au meilleur conteur est un souper payé par les autres | `soper`, `supper` | confirmé | p00003 |
+| Le sort désigne le Chevalier pour commencer | `cut`, `sort`, `Knyght`, `Knight` | confirmé | p00003 |
+| La dame aimée de Palamon et Arcite s'appelle Émilie | `Emelye`, `Emily`, `Palamon` | hors zone | absent des pages enregistrées |
+| Une rétractation finale demande pardon pour les contes profanes | `retracciouns`, `revoke`, `Tales of Caunterbury` | confirmé | p00004 |
 
 ### Notes
 
@@ -42,6 +42,11 @@ Un soir d'avril, je logeais au Tabard quand une troupe de pèlerins y fit halte,
 - La réponse du Régisseur au Meunier : je suis sûr de la querelle, la graphie anglaise est « Reve ». Hors zone. Fait non relevé (déjà huit).
 - Ancien résumé : « vingt-quatre récits » ; je ne reprends pas le nombre, faute de certitude sur le compte.
 - Le texte du corpus est en moyen anglais (« unsourced ») : termes donnés dans les deux graphies quand je ne connais pas l'orthographe exacte.
+- Vérification : « Bailly », « Herry », « Harry » absents des pages (l'hôte n'y est que « our Hoost ») : hors zone, le nom est gardé.
+- Vérification : « Emelye », « Palamon » absents des pages : hors zone ; le nom d'Émilie est gardé, à trancher avec le texte complet.
+- Vérification : le tirage « draweth cut » qui désigne le Chevalier est dans le prologue (p00003) : confirmé. « Reve » et « Millere » sont nommés (p00003), mais la réplique du Régisseur au Meunier n'est pas dans les pages : hors zone.
+- Vérification : « vingt-quatre récits » (ancien texte) : le nombre des contes n'est pas dans les pages ; le résumé ne le reprend pas.
+- Vérification : les graphies moyen-anglaises « Southwerk », « Aprill », « soper » sont dans le texte : confirmé.
 
 ### Anciens textes
 
@@ -64,14 +69,15 @@ Les eaux ont emporté les ponts et les chemins, et nous voici dix, réfugiés da
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les curistes sont aux bains de Cauterets | `Cauderès`, `Cauderets`, `Cauterets` | à vérifier | |
-| Les pluies surviennent en septembre | `septembre` | à vérifier | |
-| Le groupe se réfugie à l'abbaye de Notre-Dame de Serrance | `Serrance`, `Sarrance` | à vérifier | |
-| Oisille lit l'Écriture sainte au groupe le matin | `Oisille`, `Escripture`, `leçon` | à vérifier | |
-| Parlamente est l'épouse d'Hircan | `Parlamente`, `Hircan`, `mary` | à vérifier | |
-| C'est Parlamente qui propose de raconter des histoires à la manière de Boccace | `Boccace`, `Parlamente` | à vérifier | |
-| Les histoires se disent l'après-midi dans un pré près du gave | `pré`, `Gave` | à vérifier | |
-| Les conteurs s'engagent à ne dire que des histoires véritables | `véritable`, `vérité` | à vérifier | |
+| Les curistes sont aux bains de Cauterets | `Cauderès`, `Cauderets`, `Cauterets` | confirmé | p00006 |
+| Les curistes sont à Cauterets dès le premier jour de septembre | `septembre` | confirmé | p00006 |
+| Les pluies surviennent au retour, après plus de trois semaines de cure | `pluyes`, `trois sepmaines` | confirmé | p00007 |
+| Le groupe se réfugie à l'abbaye de Notre-Dame de Serrance | `Serrance`, `Sarrance` | confirmé | p00008, p00017 |
+| Oisille lit l'Écriture sainte au groupe le matin | `Oisille`, `Escripture`, `leçon` | confirmé | p00020, p00027 |
+| Parlamente est l'épouse d'Hircan | `Parlamente`, `Hircan`, `mary` | confirmé | p00010 |
+| C'est Parlamente qui propose de raconter des histoires à la manière de Boccace | `Boccace`, `Parlamente` | confirmé | p00026 |
+| Les histoires se disent l'après-midi dans un pré près du gave | `pré`, `Gave` | confirmé | p00026 |
+| Les conteurs s'engagent à ne dire que des histoires véritables | `véritable`, `vérité` | confirmé | p00026 |
 
 ### Notes
 
@@ -85,6 +91,12 @@ Les eaux ont emporté les ponts et les chemins, et nous voici dix, réfugiés da
 - Le gave : je ne suis pas sûr que le texte nomme le gave à propos du pont ; à vérifier, sinon « un pont » suffit.
 - La fin après soixante-douze nouvelles au début de la huitième journée : je suis assez sûr (et la fiche le dit), et la page 72 est dans le corpus.
 - Les dix devisants, de mémoire : Oisille, Hircan, Parlamente, Longarine, Dagoucin, Saffredent, Simontault, Nomerfide, Ennasuite, Geburon. Je n'en nomme que trois pour tenir dans la fourchette.
+- Vérification : « Cauderès » (p00006) est la graphie ancienne de Cauterets : confirmé. « Sarrance » n'apparaît pas ; « Serrance » est dans le texte (p00008) : confirmé.
+- Vérification (septembre) : les curistes arrivent le premier jour de septembre (p00006) ; les pluies viennent « sur le temps de ce retour », après plus de trois semaines de cure (p00007). La date de septembre pour les pluies n'est pas dite explicitement, mais elle n'est pas contredite : résumé conservé.
+- Vérification : Oisille lit l'Écriture le matin, à la demande des autres (p00020, « vous me demandez une chose ») : confirmé ; la lecture précède la messe (p00027).
+- Vérification : les dix histoires par jour et l'abandon du projet à la cour (p00026) ; le pont à rebâtir (« nostre pont soit parfaict », p00026) ; le gave est nommé au passage de la rivière (p00013) : confirmé.
+- Vérification : « soixante-douze nouvelles » : « SOIXANTE DOUZIESME NOUVELLE » (p00032) ; l'œuvre s'achève sur « Cy finent les Comptes & Nouvelles… » (p00068), donc inachevée : confirmé. Le « début de la huitième journée » n'est pas dans les pages : hors zone, non repris dans le tableau.
+- Vérification : des dix devisants, « Longarine », « Dagoucin », « Saffredent » sont nommés (p00010) : confirmé ; les autres noms ne sont pas repris dans le résumé.
 
 ### Anciens textes
 
@@ -107,14 +119,14 @@ Jeune dandy de Saint-Pétersbourg lassé des plaisirs mondains, le personnage pr
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le poète ami du héros s'appelle Vladimir Lenski | `Lensk`, `Vladimir` | à vérifier | |
-| Le nom de famille des deux sœurs est Larina | `Larin`, `Tatian`, `Olga` | à vérifier | |
-| Tatiana est l'aînée des deux sœurs | `aînée`, `cadette` | à vérifier | |
-| Le héros hérite du domaine d'un oncle | `oncle` | à vérifier | |
-| Le bal où commence la querelle est donné pour la fête de Tatiana | `fête`, `bal` | à vérifier | |
-| Lenski est tué en duel par le héros | `duel`, `Lensk` | à vérifier | |
-| Le mari de Tatiana est un prince et un général | `prince`, `général` | à vérifier | |
-| Tatiana déclare qu'elle restera fidèle à son mari | `fidèle` | à vérifier | |
+| Le poète ami du héros s'appelle Vladimir Lenski | `Lensk`, `Vladimir` | confirmé | p00126 |
+| Le nom de famille des deux sœurs est Larina | `Larin`, `Tatian`, `Olga` | confirmé | p00161, p00174 |
+| Tatiana est l'aînée des deux sœurs | `aînée`, `cadette` | confirmé | p00146, p00199 |
+| Le héros hérite du domaine d'un oncle | `oncle` | confirmé | p00108, p00109, p00110 |
+| Le bal où commence la querelle est donné pour la fête de Tatiana | `fête`, `bal` | confirmé | p00352, p00411 |
+| Lenski est tué en duel par le héros | `duel`, `Lensk` | confirmé | p00456, p00460 |
+| Le mari de Tatiana est un prince et un général | `prince`, `général` | confirmé | p00601, p00661, p00667 |
+| Tatiana déclare qu'elle restera fidèle à son mari | `fidèle` | confirmé | p00666 |
 
 ### Notes
 
@@ -127,6 +139,10 @@ Jeune dandy de Saint-Pétersbourg lassé des plaisirs mondains, le personnage pr
 - Le mari de Tatiana : je me souviens d'un prince, général, blessé à la guerre, sans être sûr qu'il soit qualifié de « général » dans la traduction.
 - « le laisse seul » : je me souviens que Tatiana sort et que le héros reste seul quand on entend les éperons du mari ; j'ai gardé une formulation large.
 - Ancien résumé : conforme à ma mémoire, sans désaccord.
+- Vérification : « Lensky » (p00126) et « Larine » (p00161, p00174) sont les graphies du texte entier : confirmé ; « fiancé » est attesté (« sa fiancée », p00411, p00431).
+- Vérification : l'oncle meurt et l'intendant écrit au neveu (p00109) ; le neveu hérite des terres et des bois (p00110) : confirmé. Le père est mort avant : l'héritage paternel est abandonné aux créanciers (p00108).
+- Vérification : « mon mari, blessé dans les combats » (p00661) et « un grave général » qui accompagne Tatiana (p00601) ; le prince paraît à la fin (p00667) : confirmé.
+- Vérification : Eugène reste « comme frappé de la foudre » puis le prince paraît (p00667) : confirmé ; le mois de la fête de Tatiana n'est pas dit dans les pages (p00352) : non repris, sans incidence.
 
 ### Anciens textes
 
@@ -149,14 +165,14 @@ Fils d'Allemand, je compte chaque rouble : je ne joue pas, je regarde jouer les 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La partie initiale a lieu chez l'officier Naroumov | `Naroumo`, `Naroumof` | à vérifier | |
-| La comtesse s'appelle Anna Fedotovna | `Fedotovna`, `Fédotovna`, `Anna` | à vérifier | |
-| La dame de compagnie s'appelle Lizaveta Ivanovna | `Lizaveta`, `Lisabeta`, `Ivanovna` | à vérifier | |
-| Hermann est officier du génie | `génie`, `ingénieur` | à vérifier | |
-| Hermann menace la comtesse d'un pistolet | `pistolet` | à vérifier | |
-| Le spectre révèle le trois, le sept et l'as | `trois`, `sept`, `as` | à vérifier | |
-| Les parties décisives ont lieu chez Tchekalinski | `Tchekalinsk`, `Tchékalinsk` | à vérifier | |
-| Hermann finit fou dans un hôpital | `hôpital`, `Oboukhov`, `Oboukof` | à vérifier | |
+| La partie initiale a lieu chez l'officier Naroumov | `Naroumo`, `Naroumof` | confirmé | p00004 |
+| La comtesse s'appelle Anna Fedotovna | `Fedotovna`, `Fédotovna`, `Anna` | confirmé | p00010, p00027 |
+| La dame de compagnie s'appelle Lizaveta Ivanovna | `Lizaveta`, `Lisabeta`, `Ivanovna` | confirmé | p00038 |
+| Hermann est officier du génie | `génie`, `ingénieur` | confirmé | p00008, p00077 |
+| Hermann menace la comtesse d'un pistolet | `pistolet` | confirmé | p00120, p00121 |
+| Le spectre révèle le trois, le sept et l'as | `trois`, `sept`, `as` | confirmé | p00161, p00165 |
+| Les parties décisives ont lieu chez Tchekalinski | `Tchekalinsk`, `Tchékalinsk` | confirmé | p00166 |
+| Hermann finit fou dans un hôpital | `hôpital`, `Oboukhov`, `Oboukof` | confirmé | p00198 |
 
 ### Notes
 
@@ -169,6 +185,13 @@ Fils d'Allemand, je compte chaque rouble : je ne joue pas, je regarde jouer les 
 - Le clin d'œil : je me souviens que la dame retournée semble cligner de l'œil et ressembler à la comtesse ; « me souriait » dans « Mon histoire » est une image de Hermann, à vérifier contre « clignait de l'œil ». Je me souviens aussi que la morte semble cligner de l'œil dans son cercueil.
 - Fin : je me souviens de l'hôpital d'Oboukhov, chambre 17, et de Hermann répétant « trois, sept, as ! trois, sept, dame ! ». Graphie incertaine.
 - Ancien résumé : il dit « comtesse Anna Fedotovna » comme ma mémoire ; « Fils d'Allemand » vient de ma mémoire (Hermann est d'origine allemande), à vérifier hors tableau.
+- Vérification : le « lieutenant aux gardes à cheval » Naroumof (p00004) : confirmé ; la partie initiale a lieu chez lui.
+- Vérification : la comtesse « se renversant en arrière... demeura immobile » après le pistolet (p00121), puis « la morte » qui cligne de l'œil (p00157) : confirmé.
+- Vérification : « Il tira un pistolet de sa poche » (p00120) ; le pistolet « n'était pas chargé » (p00147) : confirmé ; la précision n'est pas reprise dans le résumé.
+- Vérification : « caché dans la chambre de la vieille femme » : Hermann se tient derrière le paravent de la chambre à coucher (p00100-p00101) : confirmé ; l'ambiguïté est levée.
+- Vérification : la carte retournée « semble cligner de l'œil et sourire » (p00194), « dame de pique » au lieu de l'as (p00193) : confirmé.
+- Vérification : « l'hôpital d'Oboukhof, le no17 » (p00198) : confirmé. La répétition « trois, sept, dame » n'est pas dans les pages : hors zone, non reprise.
+- Vérification : « Hermann était le fils d'un Allemand » (p00079) : confirmé. Le moment de l'apparition du spectre par rapport à l'enterrement n'est pas relevé : non repris dans le tableau.
 
 ### Anciens textes
 
@@ -191,14 +214,14 @@ Mon père m'a appris qu'un kopeck bien gardé ouvre toutes les portes, et je n'a
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le héros s'appelle Pavel Ivanovitch Tchitchikov | `Чичиков`, `Павел Иванович` | à vérifier | |
-| Il arrive dans la ville de province en britchka | `бричк`, `NN` | à vérifier | |
-| Les serfs morts sont ceux inscrits au dernier recensement | `ревизск`, `ревизи` | à vérifier | |
-| Il compte hypothéquer les serfs achetés auprès du Conseil de tutelle | `опекунск`, `заложить`, `залож` | à vérifier | |
-| Son père lui conseille d'économiser chaque kopeck | `копейк`, `береги` | à vérifier | |
-| Il a été fonctionnaire des douanes | `таможн` | à vérifier | |
-| Nozdriov le dénonce au bal du gouverneur | `Ноздрев`, `Ноздрёв`, `бал` | à vérifier | |
-| Nozdriov ne lui vend aucun serf | `Ноздрев`, `Ноздрёв`, `шашк` | à vérifier | |
+| Le héros s'appelle Pavel Ivanovitch Tchitchikov | `Чичиков`, `Павел Иванович` | confirmé | p00004 |
+| Il arrive dans la ville de province en britchka | `бричк`, `NN` | confirmé | p00001 |
+| Les serfs morts sont ceux inscrits au dernier recensement | `ревизск`, `ревизи` | confirmé | p00037, p00040 |
+| Il compte hypothéquer au Conseil de tutelle les serfs qu'il a achetés aux propriétaires | `опекунск`, `заложить`, `залож` | corrigé | p00036, p00040 |
+| Son père lui conseille d'économiser chaque kopeck | `копейк`, `береги` | confirmé | p00030, p00032 |
+| Il a été fonctionnaire des douanes | `таможн` | confirmé | p00035 |
+| Nozdriov le dénonce au bal du gouverneur | `Ноздрев`, `Ноздрёв`, `бал` | hors zone | absent des pages enregistrées |
+| Nozdriov ne lui vend aucun serf | `Ноздрев`, `Ноздрёв`, `шашк` | hors zone | absent des pages enregistrées |
 
 ### Notes
 
@@ -211,6 +234,12 @@ Mon père m'a appris qu'un kopeck bien gardé ouvre toutes les portes, et je n'a
 - Le Conseil de tutelle (опекунский совет) : je crois qu'il est nommé au chapitre XI, quand le plan est expliqué.
 - « Tchitchikov s'enfuit en britchka » : je me souviens que le départ, retardé, croise l'enterrement du procureur ; non dit.
 - Le premier volume seulement : le second, inachevé, n'est pas résumé.
+- Vérification : la graphie « Чичиков » et « Павел Иванович » est dans la première page (p00004) : confirmé.
+- Correction : ancienne formulation « Il compte hypothéquer les serfs achetés auprès du Conseil de tutelle » ; nouvelle formulation « Il compte hypothéquer au Conseil de tutelle les serfs qu'il a achetés aux propriétaires » (p00036 : « заложении в Опекунский совет » ; p00040 : « купить… опекунский совет даст по двести рублей на душу »). Le Conseil est le prêteur, non le vendeur. Le résumé ne reprend pas ce détail : aucune phrase à corriger.
+- Vérification : le Conseil de tutelle est au chapitre XI (p00036, Глава XI) : confirmé. Le « départ croise l'enterrement » : le convoi funèbre est dans les pages (p00024) ; l'enterrement du procureur n'est pas nommé : hors zone pour ce détail.
+- Vérification : « строительной комиссии » (p00035) : première chute confirmée ; la carrière aux douanes est confirmée (p00035).
+- Vérification : Nozdriov ne vend rien : dans les pages, il refuse seulement de vendre un cheval (p00019-p00022) ; ni les serfs, ni la partie de dames ne sont dans les pages : hors zone. La dénonciation au bal n'est pas dans les pages (le « тайный донос » de p00035 vise une autre personne) : hors zone.
+- Vérification : le volume est bien le premier (« Том I », p00004 et suivantes) : confirmé.
 
 ### Anciens textes
 
@@ -233,14 +262,14 @@ Recopier des papiers, voilà ma joie : certaines lettres sont mes préférées. 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le héros s'appelle Akaki Akakiévitch Bachmatchkine | `Akaki`, `Bachmatchkine`, `Bachmatchkin` | à vérifier | |
-| Il est conseiller titulaire | `conseiller titulaire` | à vérifier | |
-| Le tailleur s'appelle Pétrovitch | `Pétrovitch`, `Petrovitch` | à vérifier | |
-| Le col du manteau neuf est en fourrure de chat | `chat`, `martre`, `col` | à vérifier | |
-| Les collègues fêtent le manteau chez un sous-chef de bureau | `sous-chef` | à vérifier | |
-| Le vol a lieu sur une grande place déserte | `place` | à vérifier | |
-| Le haut fonctionnaire est désigné comme un personnage important | `personnage important`, `personnage considérable` | à vérifier | |
-| Le fantôme finit par prendre le manteau du dignitaire | `personnage`, `fantôme`, `revenant` | à vérifier | |
+| Le héros s'appelle Akaki Akakiévitch Bachmatchkine | `Akaki`, `Bachmatchkine`, `Bachmatchkin` | confirmé | p00006 |
+| Il est conseiller titulaire | `conseiller titulaire` | confirmé | p00006 |
+| Le tailleur s'appelle Pétrovitch | `Pétrovitch`, `Petrovitch` | confirmé | p00014 |
+| Le col du manteau neuf est en fourrure de chat | `chat`, `martre`, `col` | confirmé | p00053 |
+| Les collègues fêtent le manteau chez un sous-chef de bureau | `sous-chef` | confirmé | p00055, p00057 |
+| Le vol a lieu sur une grande place déserte | `place` | confirmé | p00057, p00059 |
+| Le haut fonctionnaire est désigné comme un personnage important | `personnage important`, `personnage considérable` | confirmé | p00071, p00085 |
+| Le fantôme finit par prendre le manteau du dignitaire | `personnage`, `fantôme`, `revenant` | confirmé | p00105, p00106 |
 
 ### Notes
 
@@ -254,6 +283,11 @@ Recopier des papiers, voilà ma joie : certaines lettres sont mes préférées. 
 - Je me souviens d'un commissaire de police inutile avant le personnage important ; non dit.
 - Fin : je me souviens que le fantôme disparaît après avoir pris le manteau du personnage important, puis qu'un autre spectre, moustachu, apparaît ; seul le premier point est dit.
 - Je crois que les apparitions ont lieu vers le pont Kalinkine ; non dit.
+- Vérification : « à col de chat » (p00098) et « on se rabattit sur du chat » (p00053) : confirmé ; la « doublure ouatée » est dans le texte (p00053) : le « manteau ouaté » est confirmé.
+- Vérification : la « gratification » plus forte que prévu (soixante roubles au lieu de quarante ou quarante-cinq, p00053) : confirmé.
+- Vérification : le « sous-chef de bureau » (p00055, p00057) : confirmé ; la « vieille capote » est appelée ainsi (p00055) ; « robe de chambre » n'est pas relevé : non repris.
+- Vérification : « M. le commissaire » (p00064) : le commissaire inutile est dans le texte : confirmé ; le « pont Kalinkine » (p00099) : confirmé.
+- Vérification : le fantôme saisit le dignitaire au collet et réclame son manteau (p00105-p00106) : confirmé ; le « second spectre moustachu » n'est pas relevé dans les pages : non repris.
 
 ### Anciens textes
 
@@ -276,14 +310,14 @@ On me croit bon à tailler les plumes de Son Excellence, moi, un gentilhomme ! J
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le narrateur s'appelle Aksenti Ivanovitch Poprichtchine | `Poprichtch`, `Popritch`, `Aksenti`, `Axenti` | à vérifier | |
-| Il est conseiller titulaire | `conseiller titulaire` | à vérifier | |
-| Il taille les plumes du directeur | `plume` | à vérifier | |
-| La fille du directeur s'appelle Sophie | `Sophie` | à vérifier | |
-| La chienne de Sophie s'appelle Medji | `Medji`, `Medgi`, `Mèdji` | à vérifier | |
-| Sophie doit épouser un gentilhomme de la chambre | `gentilhomme de la chambre`, `chambellan`, `Teplov`, `Teploff` | à vérifier | |
-| Il se proclame Ferdinand VIII, roi d'Espagne | `Ferdinand`, `Espagne` | à vérifier | |
-| Il appelle sa mère au secours à la fin | `mère`, `maman` | à vérifier | |
+| Le narrateur s'appelle Aksenti Ivanovitch Poprichtchine | `Poprichtch`, `Popritch`, `Aksenti`, `Axenti` | confirmé | p00039, p00129 |
+| Il est conseiller titulaire | `conseiller titulaire` | confirmé | p00102 |
+| Il taille les plumes du directeur | `plume` | confirmé | p00009, p00058 |
+| La fille du directeur s'appelle Sophie | `Sophie` | confirmé | p00076 |
+| La chienne de Sophie s'appelle Medji | `Medji`, `Medgi`, `Mèdji` | confirmé | p00010 |
+| Sophie doit épouser un gentilhomme de la chambre | `gentilhomme de la chambre`, `chambellan`, `Teplov`, `Teploff` | confirmé | p00091, p00099, p00100, p00102 |
+| Il se proclame Ferdinand VIII, roi d'Espagne | `Ferdinand`, `Espagne` | confirmé | p00110, p00133 |
+| Il appelle sa mère au secours à la fin | `mère`, `maman` | confirmé | p00138 |
 
 ### Notes
 
@@ -295,6 +329,12 @@ On me croit bon à tailler les plumes de Son Excellence, moi, un gentilhomme ! J
 - « appeler sa mère au secours » : je me souviens de la dernière page (« Maman, sauve ton pauvre fils ! »), suivie de la phrase absurde sur le dey d'Alger et sa verrue ; la phrase de « Mon histoire » reprend ce cri de mémoire, à vérifier.
 - L'Inquisition : je me souviens qu'il croit être aux mains du grand inquisiteur ; « des inquisiteurs » reste large.
 - Désaccord avec l'ancien résumé : il dit « Sophie » comme moi ; les « lettres imaginaires » de l'ancien résumé sont dérobées dans la panière de Fidèle selon mon souvenir. Pas de désaccord réel.
+- Vérification : « Axenti Ivanowitch » (p00039) et « Popritchine » (p00129) sont les graphies du texte : confirmé ; « quadragénaire » est juste : « je n'ai que quarante-deux ans » (p00052).
+- Vérification : le conseiller titulaire est réitéré (p00102, p00108) : confirmé.
+- Vérification (Téploff) : le visiteur « Téploff » (p00091) est le gentilhomme de la chambre qui courtise Sophie : la confusion du doute est levée, mais la graphie « Teplov » n'est pas dans le texte.
+- Vérification (mariage) : les lettres annoncent un mariage avec « un général, ou un gentilhomme de la chambre » (p00099-p00100) ; le narrateur juge la noce « n'aura pas lieu » (p00102) : confirmé comme projet, le résumé dit « doit épouser » : maintenu.
+- Vérification (« maman ») : le texte porte « Ô ma mère, sauve ton pauvre enfant ! » (p00138) ; la formule de « Mon histoire » (« Maman, sauve ton pauvre fils ! ») est une reprise libre : non contredite.
+- Vérification (inquisition) : « le grand inquisiteur » (p00127-p00128) : confirmé.
 
 ### Anciens textes
 
@@ -317,14 +357,16 @@ Je ne m'incline devant aucun principe : un bon chimiste est vingt fois plus util
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le récit s'ouvre en mai 1859 | `1859`, `mai` | à vérifier | |
-| Nikolaï Pétrovitch attend son fils Arkadi | `Nicolas`, `Nikola`, `Arcade`, `Arkadi` | à vérifier | |
-| L'ami d'Arkadi s'appelle Evgueni Bazarov | `Bazarof`, `Bazarov`, `Eugène`, `Evgueni` | à vérifier | |
-| Bazarov se dit nihiliste | `nihiliste` | à vérifier | |
-| Arkadi épouse Katia, la sœur d'Anna Odintsova | `Katia`, `Katerina`, `Odintsof`, `Odintsov` | à vérifier | |
-| Bazarov blesse Pavel en duel | `Paul`, `Pavel`, `duel` | à vérifier | |
-| Bazarov se coupe en disséquant le corps d'un mort du typhus | `typhus`, `dissé`, `cadavre` | à vérifier | |
-| La compagne de Nikolaï s'appelle Fénitchka | `Fénitchka`, `Fenitchka`, `Fédosia` | à vérifier | |
+| Le récit s'ouvre en mai 1859 | `1859`, `mai` | confirmé | p00005 |
+| Nikolaï Pétrovitch attend son fils Arkadi | `Nicolas`, `Nikola`, `Arcade`, `Arkadi` | confirmé | p00005, p00011 |
+| L'ami d'Arkadi s'appelle Evgueni Bazarov | `Bazarof`, `Bazarov`, `Eugène`, `Evgueni` | confirmé | p00025, p00030 |
+| Bazarov se dit nihiliste | `nihiliste` | hors zone | absent des pages enregistrées |
+| Arkadi épouse Katia | `Katia`, `Katerina` | confirmé | p00017 |
+| Katia est la sœur d'Anna Odintsova | `sœur`, `Serghéïevna`, `Odintsof`, `Odintsov` | hors zone | absent des pages enregistrées |
+| Bazarov blesse Pavel en duel | `Paul`, `Pavel`, `duel` | hors zone | absent des pages enregistrées |
+| Bazarov meurt | `tombe` | confirmé | p00030 |
+| Bazarov se coupe en disséquant le corps d'un mort du typhus | `typhus`, `dissé`, `cadavre` | hors zone | absent des pages enregistrées |
+| La compagne de Nikolaï s'appelle Fénitchka | `Fénitchka`, `Fenitchka`, `Fédosia` | confirmé | p00017, p00027 |
 
 ### Notes
 
@@ -338,6 +380,14 @@ Je ne m'incline devant aucun principe : un bon chimiste est vingt fois plus util
 - Je me souviens que Fénitchka a un enfant de Nikolaï (Mitia) et que Nikolaï l'épouse à la fin ; non dits, faute de place.
 - Ordre : le chapitre 26 (dans le corpus) contient, selon mon souvenir, la demande d'Arkadi à Katia ; la mort de Bazarov vient après (chapitre 27), hors zone. J'ai mis les deux dans la même phrase, sans ordre affirmé.
 - « l'oncle… avec ses manières anglaises » dans « Mon histoire » : souvenir de l'anglomanie de Pavel.
+- Vérification : « le 20 mai 1859 » (p00005) : confirmé ; l'année et le mois d'ouverture sont donc attestés.
+- Vérification : Arcade (fils) et Kirsanof (père) : les noms sont francisés dans le texte (« Nicolas Petrovitch », « Arcade ») : confirmé.
+- Vérification : la mort de Bazarov est antérieure au dîner où Katia porte un toast « à la mémoire de Bazarof » (p00025, p00030) : l'idée d'une mort après le chapitre 26 est contredite. Le résumé dit « tandis que » sans ordre précis : maintenu.
+- Vérification : « étudiant » est attesté pour Arcade (« casquette d'étudiant », p00014), non pour Bazarov ; « nihiliste » absent des pages : hors zone.
+- Vérification : la jambe de Paul est brisée (p00011), dans sa jeunesse militaire, non lors d'un duel : le duel n'est pas dans les pages : hors zone pour le duel.
+- Vérification : « Anna Serghéïevna » (p00017, p00027) et « Katérina Serghéïevna » portent le même patronyme, mais le lien de sœur n'est pas dit : hors zone. Le médecin allemand et le bal du gouverneur ne sont pas dans les pages : hors zone.
+- Vérification : « Mitia » est cité (p00022, p00027), et Fénitchka devient « Fédossia Nikolaïevna » (p00027), épouse de Nikolaï (p00017) : confirmé ; la filiation de Mitia n'est pas dite explicitement.
+- Vérification : « un bon chimiste... plus utile qu'un poète » : « poète » est absent des pages : hors zone.
 
 ### Anciens textes
 
@@ -360,14 +410,17 @@ Toute ma vie, j'ai eu peur : des coups de mon mari, de la misère, des patrons, 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| L'héroïne s'appelle Pélaguéïa Nilovna Vlassova | `Pélagu`, `Pelagu`, `Pélagie`, `Nilovna`, `Vlassov`, `Vlasov` | à vérifier | |
-| Son mari était serrurier | `serrurier` | à vérifier | |
-| Son mari était un ivrogne | `ivre`, `ivrogne`, `vodka` | à vérifier | |
-| Son fils s'appelle Pavel | `Pavel`, `Paul`, `Pacha` | à vérifier | |
-| Le camarade chaleureux s'appelle Andreï | `Andreï`, `André`, `Petit-Russien`, `Khokhol` | à vérifier | |
-| Pavel porte le drapeau rouge au défilé du Premier Mai | `drapeau`, `Premier Mai`, `1er mai` | à vérifier | |
-| Pavel est condamné à la déportation | `déportation`, `Sibérie`, `exil` | à vérifier | |
-| Dans la gare, elle jette à la foule les copies du discours de son fils | `gare`, `valise`, `discours` | à vérifier | |
+| L'héroïne s'appelle Pélaguéïa | `Pélagu`, `Pelagu`, `Pélagie` | confirmé | p00026, p00028 |
+| Son nom de famille est Vlassova | `Vlassov`, `Vlasov` | confirmé | p00060 |
+| Son patronyme est Nilovna | `Nilovna` | hors zone | absent des pages enregistrées |
+| Son mari était serrurier | `serrurier` | hors zone | absent des pages enregistrées |
+| Son mari était un ivrogne | `ivre`, `ivrogne`, `vodka` | hors zone | absent des pages enregistrées |
+| Son fils s'appelle Pavel | `Pavel`, `Paul`, `Pacha` | confirmé | p00036 |
+| Le camarade chaleureux s'appelle Andreï | `Andreï`, `André`, `Petit-Russien`, `Khokhol` | hors zone | absent des pages enregistrées |
+| Pavel porte le drapeau rouge au défilé du Premier Mai | `drapeau`, `Premier Mai`, `1er mai` | hors zone | absent des pages enregistrées |
+| Pavel est condamné | `condamn` | confirmé | p00060, p00065 |
+| La peine est la déportation | `déportation`, `Sibérie`, `exil` | hors zone | absent des pages enregistrées |
+| Dans la gare, elle jette à la foule les copies du discours de son fils | `gare`, `valise`, `discours` | confirmé | p00019, p00060, p00061, p00064 |
 
 ### Notes
 
@@ -379,6 +432,13 @@ Toute ma vie, j'ai eu peur : des coups de mon mari, de la misère, des patrons, 
 - Je ne suis pas sûr que la condamnation soit dite « déportation » plutôt qu'« exil » ou « relégation » en Sibérie.
 - Fin : je me souviens qu'à la gare elle ouvre sa valise et lance les feuilles du discours, reconnue par un espion, puis qu'on la frappe et l'étrangle ; je ne dis pas qu'elle meurt, la fin restant ouverte dans mon souvenir.
 - « plus loin que les murs du tribunal » dans « Mon histoire » : image de la voix, non une citation.
+- Vérification : « Pélaguée » (p00026, p00028) est la graphie du texte : confirmé. Le nom « Vlassov » est dans le texte (p00060), porté par le fils dans cette réplique ; la forme féminine « Vlassova » n'est pas attestée : résumé maintenu.
+- Vérification : le patronyme « Nilovna » est absent des pages : hors zone.
+- Vérification : le métier du mari (serrurier) et son ivrognerie ne sont pas dits dans les pages (« les maris battaient », p00008, général) : hors zone.
+- Vérification : Andreï absent des pages : hors zone ; Premier Mai, drapeau, défilé absents : hors zone.
+- Vérification : « condamnés » (p00060, p00065) : confirmé ; la déportation, l'exil et la Sibérie sont absents : hors zone.
+- Vérification : « provisions », « marchande », tracts glissés à l'usine : absents des pages : hors zone.
+- Vérification : à la gare, elle lance « des liasses de feuillets » dans la foule (p00061, p00064), elle est frappée (p00084, p00099) : confirmé ; « reconnue par un espion » (p00028) : confirmé.
 
 ### Anciens textes
 
@@ -401,14 +461,14 @@ Autrefois télégraphiste, j'ai tué un homme à cause de ma sœur et fait de la
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le propriétaire de l'asile s'appelle Kostylev | `Костылев` | à vérifier | |
-| Le vieux pèlerin s'appelle Louka | `Лука` | à vérifier | |
-| Louka parle à l'Acteur d'un hôpital gratuit pour ivrognes | `лечебниц`, `пьяниц`, `даром` | à vérifier | |
-| Natacha est la sœur de Vassilissa | `Наташ`, `сестр` | à vérifier | |
-| Pepel tue Kostylev au cours d'une rixe | `Пепел`, `убил` | à vérifier | |
-| Satine a été télégraphiste | `Сатин`, `телеграф` | à vérifier | |
-| Satine déclare que le mot homme sonne fier | `звучит гордо` | à vérifier | |
-| L'Acteur se pend à la fin | `Актёр`, `Актер`, `удавился`, `повесился` | à vérifier | |
+| Le propriétaire de l'asile s'appelle Kostylev | `Костылев` | confirmé | p00005 |
+| Le vieux pèlerin s'appelle Louka | `Лука` | confirmé | p00017 |
+| Louka parle à l'Acteur d'un hôpital gratuit pour ivrognes | `лечебниц`, `пьяниц`, `даром` | confirmé | p00566, p00774 |
+| Natacha est la sœur de Vassilissa | `Наташ`, `сестр` | confirmé | p00007 |
+| Pepel tue Kostylev au cours d'une rixe | `Пепел`, `убил` | confirmé | p01085, p01093, p01108 |
+| Satine a été télégraphiste | `Сатин`, `телеграф` | confirmé | p00113, p00114 |
+| Satine déclare que le mot homme sonne fier | `звучит гордо` | confirmé | p01254 |
+| L'Acteur se pend à la fin | `Актёр`, `Актер`, `удавился`, `повесился` | confirmé | p01344 |
 
 ### Notes
 
@@ -421,6 +481,11 @@ Autrefois télégraphiste, j'ai tué un homme à cause de ma sœur et fait de la
 - Les mots russes de la fin : je me souviens de « Эх… испортил песню… дур-рак » (Satine) et de « удавился » ; variantes données.
 - « Человек — это звучит гордо » : réplique célèbre, racine `звучит гордо` donnée.
 - Fiche du catalogue : « ancien télégraphiste cynique » pour Satine, conforme à ma mémoire.
+- Vérification : la mort de Kostylev : il tombe pendant la bagarre, Pepel court vers Natacha (p01085), Vassilissa crie « Убили » et accuse Pepel (p01086, p01093) ; Satine parle de « убийство в драке » à propos de Pepel (p01108) : confirmé dans son principe ; la pièce ne montre pas le coup porté.
+- Vérification : « из-за родной сестры » (p01033) : Satine a tué pour sa sœur, et il est allé en prison (p01031) : confirmé ; le résumé ne le dit pas, la fiche non plus n'est pas dans le corpus.
+- Vérification : les pieds de Natacha ébouillantés (« Кипятком ноги девке сварили », p01089 ; « Самовар опрокинули », p01090) : confirmé ; Vassilissa n'est pas nommée dans ces répliques.
+- Vérification : « Эх... испортил песню... дур-рак! » (p01346) : confirmé ; « удавился » (p01344) : confirmé.
+- Vérification : « Человек... это звучит... гордо » (p01254) : confirmé ; la fiche « ancien télégraphiste cynique » est hors corpus, non examinée ici.
 
 ### Anciens textes
 
