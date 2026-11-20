@@ -1,6 +1,6 @@
 # Résumés — vague2-3
 
-- Étape : rédigée
+- Étape : vérifiée
 - Œuvres : `electre`, `micromegas`, `voyages-de-gulliver`, `mahabharata`, `shahnameh`, `le-neveu-de-rameau`, `jacques-le-fataliste`, `recherche-du-temps-perdu`, `freres-karamazov`, `lidiot`
 - Créée le : 2026-11-19
 
@@ -22,13 +22,13 @@ Depuis que ma mère et son amant ont tué mon père, je vis humiliée dans sa ma
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le vieux serviteur annonce qu'Oreste est mort dans une course de chars | `char`, `Pyth`, `Delph` | à vérifier | |
-| Ce vieux serviteur avait sauvé et emmené Oreste enfant | `Paidagôgue`, `Pédagogue`, `enfant` | à vérifier | |
-| Pylade accompagne Oreste | `Pylad` | à vérifier | |
-| La sœur nommée Chrysothémis refuse de l'aider à tuer Égisthe | `Khrysothémis`, `Chrysothémis` | à vérifier | |
-| Oreste présente une urne censée contenir ses propres cendres | `urne`, `cendre` | à vérifier | |
-| Oreste tue Clytemnestre avant l'arrivée d'Égisthe | `Klytaimnèstra`, `Clytemnestre`, `Aigisthos`, `Égisthe` | à vérifier | |
-| Oreste conduit Égisthe dans le palais pour le tuer là où Agamemnon fut tué | `Aigisth`, `Agamemnôn`, `demeure` | à vérifier | |
+| Le vieux serviteur annonce qu'Oreste est mort dans une course de chars | `char`, `Pyth`, `Delph` | confirmé | p00123, p00126 ; « Jeux Pythiques » p00011 |
+| Ce vieux serviteur avait sauvé et emmené Oreste enfant | `Paidagôgue`, `Pédagogue`, `enfant` | confirmé | p00010 (« je te reçus… t'ayant enlevé et sauvé, je t'élevai ») |
+| Pylade accompagne Oreste | `Pylad` | confirmé | p00010, p00373 |
+| La sœur nommée Chrysothémis refuse de l'aider à tuer Égisthe | `Khrysothémis`, `Chrysothémis` | confirmé | p00207 (proposition), p00209-p00215 (refus) |
+| Oreste présente une urne censée contenir ses propres cendres | `urne`, `cendre` | confirmé | p00011, p00261-p00263 |
+| Oreste tue Clytemnestre avant l'arrivée d'Égisthe | `Klytaimnèstra`, `Clytemnestre`, `Aigisthos`, `Égisthe` | confirmé | p00383-p00399 ; Égisthe entre p00400 |
+| Oreste conduit Égisthe dans le palais pour le tuer là où Agamemnon fut tué | `Aigisth`, `Agamemnôn`, `demeure` | confirmé | p00436 (« afin de mourir à la même place »), p00444 |
 
 ### Notes
 
@@ -43,6 +43,13 @@ Depuis que ma mère et son amant ont tué mon père, je vis humiliée dans sa ma
 - Écarté faute de place : le songe de Clytemnestre et les offrandes au tombeau, la boucle de cheveux trouvée par Chrysothémis sur le tombeau, l'affrontement verbal entre la mère et la fille, la prière de Clytemnestre à Apollon.
 - Accord avec l'ancien `summary` sur l'essentiel ; il dit « leur complice » sans le nommer, je nomme Égisthe.
 
+- Vérification : doute « course de chars aux jeux de Delphes » : confirmé, « Jeux Pythiques » (p00011) et « Jeux Delphiques » (p00126).
+- Vérification : doute « la proposition ne vise qu'Égisthe » : confirmé (p00207 : « tuer Aigisthos avec l'aide de ta sœur »). Rien à corriger.
+- Vérification : doute « reconnaissance par l'anneau » : le texte ne nomme pas l'objet (p00318 : « Regarde ce signe de mon père »), et le corpus ne contient ni « anneau » ni « sceau ». Le résumé reste « il se fait reconnaître ».
+- Vérification : doute « la pièce s'achève avant la mort d'Égisthe » : confirmé. Égisthe est conduit dans le palais (p00436 : « Va où tu as tué mon père, afin de mourir à la même place ») ; sa mort n'est pas montrée (p00444 : « tu ne mourras point comme tu l'entends »).
+- Vérification : doute sur l'arme du meurtre d'Agamemnon : le texte dit « une hache sanglante » (p00016) ; « tué » du résumé reste juste.
+- Vérification : doute « humiliée dans le palais » : confirmé dans l'esprit (p00039 : elle vit avec les meurtriers de son père et « il dépend d'eux que je possède quelque chose »).
+
 ### Anciens textes
 
 - summary : Une princesse vit dans le souvenir de son père Agamemnon, assassiné par sa mère Clytemnestre et son amant. Elle attend le retour de son frère Oreste pour venger ce crime. Lorsque celui-ci revient en secret, ils mettent en œuvre leur plan. La pièce se conclut par la mort de Clytemnestre et de son complice, accomplissant ainsi la vengeance familiale.
@@ -54,7 +61,7 @@ Corpus : 7 pages choisies sur fr.wikisource.org (langue : fr) : « Micromégas/C
 
 ### summary
 
-Habitant d'une planète de Sirius, un jeune géant haut de huit lieues est banni de la cour pour un livre sur les insectes qu'un muphti juge hérétique ; il part voyager d'astre en astre. Sur Saturne, il se lie avec le secrétaire de l'Académie, un « nain » de mille toises. Arrivés sur la Terre, ils la croient d'abord inhabitée, jusqu'à ce qu'un diamant servant de microscope leur révèle une baleine, puis un navire de philosophes revenant du cercle polaire. Les géants admirent la science de ces atomes, mais rient de leurs querelles sur l'âme et de leur prétention à croire l'univers fait pour l'homme. En partant, le Sirien leur laisse un livre de philosophie : ses pages sont blanches.
+Habitant d'une planète de Sirius, un jeune géant haut de huit lieues est banni de la cour pour un livre sur les insectes qu'un muphti juge hérétique ; il part voyager d'astre en astre. Sur Saturne, il se lie avec le secrétaire de l'Académie, un « nain » de mille toises. Arrivés sur la Terre, le Saturnien la croit d'abord inhabitée, jusqu'à ce qu'un diamant servant de microscope leur révèle une baleine, puis un navire de philosophes revenant du cercle polaire. Les géants admirent la science de ces atomes, mais rient de leurs querelles sur l'âme et de leur prétention à croire l'univers fait pour l'homme. En partant, le Sirien leur laisse un livre de philosophie : ses pages sont blanches.
 
 ### personalSummary
 
@@ -64,14 +71,15 @@ Pour un livre sur les insectes que le muphti de mon pays a trouvé suspect, on m
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le géant de Sirius mesure huit lieues de haut | `huit lieues` | à vérifier | |
-| Son livre condamné portait sur les insectes | `insectes` | à vérifier | |
-| Le livre est jugé suspect par un muphti | `muphti`, `mufti` | à vérifier | |
-| Il est banni de la cour pour huit cents ans | `huit cents`, `banni`, `bannir` | à vérifier | |
-| Le Saturnien est secrétaire de l'Académie de Saturne | `secrétaire`, `académie` | à vérifier | |
-| Le Saturnien mesure environ mille toises | `mille toises` | à vérifier | |
-| Un diamant du collier sert de microscope | `diamant`, `microscope` | à vérifier | |
-| Les philosophes du navire reviennent du cercle polaire | `cercle polaire` | à vérifier | |
+| Le géant de Sirius mesure huit lieues de haut | `huit lieues` | confirmé | p00002 |
+| Son livre condamné portait sur les insectes | `insectes` | confirmé | p00005 |
+| Le livre est jugé suspect par un muphti | `muphti`, `mufti` | confirmé | p00005 (« propositions suspectes, … hérétiques ») |
+| Il est banni de la cour pour huit cents ans | `huit cents`, `banni`, `bannir` | confirmé | p00005 (« huit cents années »), p00006 (« banni ») |
+| Le Saturnien est secrétaire de l'Académie de Saturne | `secrétaire`, `académie` | confirmé | p00006 |
+| Le Saturnien mesure environ mille toises | `mille toises` | confirmé | p00006, p00027 |
+| Un diamant du collier sert de microscope | `diamant`, `microscope` | confirmé | p00018 (« collier de diamants », « excellents microscopes ») |
+| Les philosophes du navire reviennent du cercle polaire | `cercle polaire` | confirmé | p00018 |
+| Les géants croient la Terre inhabitée d'abord | `habité`, `personne` | corrigé | p00018 : c'est le Saturnien qui conclut qu'il n'y a personne ; le Sirien le contredit |
 
 ### Notes
 
@@ -87,6 +95,15 @@ Pour un livre sur les insectes que le muphti de mon pays a trouvé suspect, on m
 - Premier jet trop long (131 mots) : j'ai retiré la comparaison des sens et de la durée de vie entre les deux géants, « pour s'instruire » et « ignorant » (le muphti). La consigne demandait de choisir avant d'écrire ; je n'avais pas assez taillé.
 - Écarté faute de place : le passage par Jupiter et devant Mars, la maîtresse du Saturnien, le cornet acoustique taillé dans une rognure d'ongle, la date d'arrivée (1737), le tour de la Terre en trente-six heures.
 - Désaccord léger avec l'ancien `summary` : « après avoir été exilé » ; de mémoire, il est banni de la cour et choisit de voyager.
+
+- Vérification : « banni… huit cents ans » : confirmé (p00005 : « ne paraître à la cour de huit cents années ») ; le procès dure « deux cent vingt ans » (p00005), non écrit.
+- Vérification : muphti « hérétique » et « suspect » : confirmés (p00005 : « propositions suspectes, malsonnantes, téméraires, hérétiques, sentant l'hérésie » ; « fort ignorant »). Rien à changer.
+- Vérification : ordre baleine puis navire : confirmé (p00018 : la baleine ; p00020 : « une baleine et un vaisseau »).
+- Vérification : « les géants croient la Terre inhabitée » : CONTREDIT pour le Sirien. C'est le Saturnien qui conclut qu'il n'y a personne, et le Sirien le reprend (p00018). Corrigé : ancienne formulation « ils la croient d'abord inhabitée », nouvelle « le Saturnien la croit d'abord inhabitée », p00018.
+- Vérification : « les géants admirent la science de ces atomes » : confirmé (p00022 : Micromégas se réjouit de la découverte des philosophes) ; leurs rires sont en p00040.
+- Vérification : « l'univers fait pour l'homme » : confirmé (p00040), mais la thèse est celle d'un seul, un docteur « en bonnet carré » ; le résumé la prête aux philosophes en général. Non contredit ; point à trancher (voir compte rendu).
+- Vérification : « ils s'entretuent pour un tas de boue » : confirmé (p00031 : « tas de boue », « cent mille fous… couverts de chapeaux »).
+- Vérification : livre tout blanc et « verraient le bout des choses » : confirmés (p00040 : « un livre tout blanc » ; « il leur promit » un livre où « ils verraient le bout des choses »).
 
 ### Anciens textes
 
@@ -109,14 +126,15 @@ Je me suis embarqué comme chirurgien, et la mer m'a jeté chez des hommes hauts
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le voyageur exerce le métier de chirurgien | `surgeon`, `Bates` | à vérifier | |
-| Le prénom du voyageur est Lemuel | `Lemuel` | à vérifier | |
-| Les Lilliputiens mesurent environ six pouces | `six inches`, `Lilliput` | à vérifier | |
-| Il s'empare de la flotte de Blefuscu | `Blefuscu`, `fleet` | à vérifier | |
-| Le roi de Brobdingnag tient les Européens pour une odieuse vermine | `vermin`, `Brobdingnag` | à vérifier | |
-| À Lagado, un savant veut tirer des rayons de soleil des concombres | `cucumbers`, `sunbeams`, `Lagado` | à vérifier | |
-| Son équipage se révolte et l'abandonne avant le pays des Houyhnhnms | `mutiny`, `crew` | à vérifier | |
-| Revenu chez lui, il préfère la compagnie de ses chevaux à celle de sa famille | `horses`, `stable`, `Yahoo` | à vérifier | |
+| Le voyageur exerce le métier de chirurgien | `surgeon`, `Bates` | confirmé | p00007-p00008 (« surgeon to the Swallow », apprentissage chez Bates) |
+| Le prénom du voyageur est Lemuel | `Lemuel` | hors zone | absent des pages enregistrées (aucune occurrence de « Lemuel ») |
+| Les Lilliputiens mesurent environ six pouces | `six inches`, `Lilliput` | confirmé | p00011 (« not six inches high ») |
+| Il s'empare de la flotte de Blefuscu | `Blefuscu`, `fleet` | hors zone | absent des pages enregistrées (aucune occurrence de « Blefuscu ») |
+| Le roi de Brobdingnag tient les Européens pour une odieuse vermine | `vermin`, `Brobdingnag` | hors zone | absent des pages enregistrées (Brobdingnag n'apparaît que dans le dernier chapitre enregistré, sans ce discours) |
+| À Lagado, un savant veut tirer des rayons de soleil des concombres | `cucumbers`, `sunbeams`, `Lagado` | hors zone | absent des pages enregistrées (aucune occurrence de « Lagado ») |
+| Son équipage se révolte et l'abandonne avant le pays des Houyhnhnms | `mutiny`, `crew` | hors zone | absent des pages enregistrées (mutinerie non relevée) |
+| Revenu chez lui, il supporte mal sa famille | `wife`, `family`, `yahoo` | confirmé | p00044-p00045 (« the smell of a yahoo » insupportable ; femme à l'autre bout de la table) |
+| Revenu chez lui, il vit auprès de ses chevaux | `horses`, `stable` | hors zone | absent des pages enregistrées (aucun cheval dans le dernier chapitre enregistré) |
 
 ### Notes
 
@@ -130,6 +148,13 @@ Je me suis embarqué comme chirurgien, et la mer m'a jeté chez des hommes hauts
 - Doute : les dernières pages ; de mémoire, il achète deux chevaux, leur parle quatre heures par jour et supporte mal sa femme et ses enfants. Le corpus ne contient que le chapitre 12 du dernier voyage : cela pourrait tomber hors zone.
 - Le voyageur est-il « chirurgien de marine » dès le premier voyage : de mémoire oui, sur l'*Antelope* ; il a appris auprès de M. James Bates (confirmé par la fiche).
 - Écarté faute de place : Glumdalclitch, la jeune fille qui le garde à Brobdingnag, et l'aigle qui emporte sa boîte ; les querelles des gros-boutiens et des petits-boutiens.
+
+- Vérification : chirurgien : confirmé (p00007-p00008 : « surgeon to the Swallow », apprentissage chez Bates).
+- Vérification : « Lemuel » : hors zone (absent des pages : titre et lettres liminaires ne sont pas dans le corpus). Le prénom reste dans le résumé.
+- Vérification : « accusé de trahison », « vermine », « Européens » : hors zone (Lilliput ch. 3-4 et Brobdingnag absents des pages).
+- Vérification : « Laputa et Lagado » : les folies savantes des Laputiens sont au texte (p00048) ; Lagado est absent des pages (hors zone).
+- Vérification : renvoi par l'assemblée des Houyhnhnms et canot : hors zone (chapitres absents).
+- Vérification : dernières pages : confirmé pour la famille (p00044-p00045 : femme admise au bout de la table, odeur des yahous) ; les chevaux et l'écurie ne figurent pas dans les pages : hors zone. Le trait est scindé en deux lignes.
 
 ### Anciens textes
 
@@ -152,14 +177,14 @@ J'ai conquis notre épouse à l'arc, et j'ai vu mon frère aîné la perdre aux 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Les Pandava sont cinq frères, fils de Pandu | `Pandava`, `Pāṇḍava`, `Pandu`, `Pāṇḍu` | à vérifier | |
-| Les Kaurava sont les cent fils de l'aveugle Dhritarashtra | `Kaurava`, `Dhritarashtra`, `Dhṛtarāṣṭra` | à vérifier | |
-| Arjuna gagne la main de Draupadi par une épreuve à l'arc | `Arjuna`, `Draupadi`, `Draupadī` | à vérifier | |
-| Draupadi devient l'épouse des cinq frères | `Draupadi`, `épouse` | à vérifier | |
-| Yudhishthira perd au jeu de dés son royaume et Draupadi | `Yudhishthira`, `Youdhishthira`, `Yudhiṣṭhira`, `dés` | à vérifier | |
-| L'exil dure douze ans en forêt, plus une année sans être reconnus | `douze ans`, `treizième` | à vérifier | |
-| Krishna, cocher d'Arjuna, lui enseigne la Bhagavad-Gita | `Krishna`, `Kṛṣṇa`, `Bhagavad` | à vérifier | |
-| La guerre de Kurukshetra dure dix-huit jours | `Kurukshetra`, `Kurukṣetra`, `dix-huit` | à vérifier | |
+| Les Pandava sont cinq frères, fils de Pandu | `Pandava`, `Pāṇḍava`, `Pandu`, `Pāṇḍu` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| Les Kaurava sont les cent fils de l'aveugle Dhritarashtra | `Kaurava`, `Dhritarashtra`, `Dhṛtarāṣṭra` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| Arjuna gagne la main de Draupadi par une épreuve à l'arc | `Arjuna`, `Draupadi`, `Draupadī` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| Draupadi devient l'épouse des cinq frères | `Draupadi`, `épouse` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| Yudhishthira perd au jeu de dés son royaume et Draupadi | `Yudhishthira`, `Youdhishthira`, `Yudhiṣṭhira`, `dés` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| L'exil dure douze ans en forêt, plus une année sans être reconnus | `douze ans`, `treizième` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| Krishna, cocher d'Arjuna, lui enseigne la Bhagavad-Gita | `Krishna`, `Kṛṣṇa`, `Bhagavad` | hors zone | aucun texte au corpus : rien ne se vérifie |
+| La guerre de Kurukshetra dure dix-huit jours | `Kurukshetra`, `Kurukṣetra`, `dix-huit` | hors zone | aucun texte au corpus : rien ne se vérifie |
 
 ### Notes
 
@@ -173,6 +198,9 @@ J'ai conquis notre épouse à l'arc, et j'ai vu mon frère aîné la perdre aux 
 - « sans désirer le fruit de mes actes » : formule de la Gita que je tiens pour sûre dans son sens ; le mot exact varie selon les traductions.
 - Écarté faute de place : Bhishma, Drona, Karna (frère aîné caché des Pandava), Kunti, le massacre nocturne d'Ashvatthaman, la mort de Duryodhana frappé à la cuisse par Bhima.
 - Désaccord avec la fiche : `firstSentences` et `lastSentences` (« Voici l'histoire des descendants de Bharata », « Ainsi se termine ce grand récit… ») ne ressemblent à aucune traduction que je connaisse ; ce sont, je crois, des phrases forgées. Hors du champ de cette passe, signalé seulement.
+
+- Vérification : aucun texte au corpus : tous les faits sont « hors zone » (appui : aucun texte au corpus). Rien n'est confirmé ni contredit ; la consigne ne prévoit pas ce cas (voir retours sur la consigne du compte rendu).
+- Vérification : les `firstSentences` et `lastSentences` de la fiche, jugées forgées dans la rédaction : non vérifiables ici, faute de texte. Signalé à la relecture.
 
 ### Anciens textes
 
@@ -195,13 +223,13 @@ J'ai consacré ma vie à mettre en vers les anciennes histoires des rois de l'Ir
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le premier roi du monde est Keyumars | `Keïoumors`, `Kaioumors`, `Keyumars` | à vérifier | |
-| Zahhak porte deux serpents sortis de ses épaules | `Zohak`, `Zahhak`, `serpent` | à vérifier | |
-| Le forgeron Kaveh aide Fereydoun à renverser Zahhak | `Kaweh`, `Kaveh`, `Feridoun`, `Fereydoun` | à vérifier | |
-| Rostam tue sans le reconnaître son fils Sohrab | `Roustem`, `Rostam`, `Sohrab` | à vérifier | |
-| Le dernier roi, Yazdgerd, est assassiné pendant l'invasion arabe | `Yezdeguerd`, `Yazdgerd`, `Arabes` | à vérifier | |
-| Le poète dit avoir élevé de ses vers un édifice que ni le vent ni la pluie n'abattront | `pluie`, `vent`, `palais`, `édifice` | à vérifier | |
-| Le poète affirme que son nom ne mourra pas | `immortel`, `semence` | à vérifier | |
+| Le premier roi du monde est Keyumars | `Keïoumors`, `Kaioumors`, `Keyumars` | hors zone | absent des pages enregistrées (le début ne contient que l'invocation) |
+| Zahhak porte deux serpents sortis de ses épaules | `Zohak`, `Zahhak`, `serpent` | hors zone | absent des pages enregistrées |
+| Le forgeron Kaveh aide Fereydoun à renverser Zahhak | `Kaweh`, `Kaveh`, `Feridoun`, `Fereydoun` | hors zone | absent des pages enregistrées |
+| Rostam tue sans le reconnaître son fils Sohrab | `Roustem`, `Rostam`, `Sohrab` | hors zone | absent des pages enregistrées |
+| Le dernier roi, Yazdgerd, est assassiné pendant l'invasion arabe | `Yezdeguerd`, `Yazdgerd`, `Arabes` | hors zone | absent des pages enregistrées (« Arabes » seulement dans « soleil des Arabes », p00003) |
+| Le poète dit avoir élevé de ses vers un édifice que ni le vent ni la pluie n'abattront | `pluie`, `vent`, `palais`, `édifice` | hors zone | absent des pages enregistrées (ni « vent », ni « pluie », ni « édifice ») |
+| Le poète affirme que son nom ne mourra pas | `immortel`, `semence` | confirmé | p00003 (« mon nom deviendra immortel, car j'ai répandu la semence du bien dire ») |
 
 ### Notes
 
@@ -218,6 +246,10 @@ J'ai consacré ma vie à mettre en vers les anciennes histoires des rois de l'Ir
 - Écarté : Jamshid et sa chute, le Simorgh qui élève Zal, les sept épreuves de Rostam, Bahram Gour, Anoushirvan.
 - Désaccord avec l'ancien `summary` : « jusqu'à l'époque historique » ; de mémoire, l'épopée va jusqu'à la chute des Sassanides, période pleinement historique.
 
+- Vérification : « semence du bien dire » et « mon nom ne mourra pas » : confirmés mot pour mot (p00003 : « je ne mourrai pas et mon nom deviendra immortel, car j'ai répandu la semence du bien dire »).
+- Vérification : doute « édifice de vers que ni le vent ni la pluie n'abattront » : hors zone (les mots n'apparaissent pas dans les deux pages). Le résumé ne cite pas la phrase : rien à changer.
+- Vérification : doutes sur Rostam (Shaghad), Yazdgerd (meunier de Merv) et les graphies de Mohl : hors zone (récits absents des pages).
+
 ### Anciens textes
 
 - summary : L'ouvrage retrace l'histoire mythique et légendaire de la Perse, depuis la création du monde jusqu'à l'époque historique. À travers une succession de récits, il met en scène des rois, des héros et des batailles, notamment les exploits du héros Rostam. L'œuvre mêle mythologie, histoire et réflexion sur le destin des peuples.
@@ -229,7 +261,7 @@ Corpus : une seule page sur fr.wikisource.org (langue : fr) : « Le Neveu de Ram
 
 ### summary
 
-Un soir, au café de la Régence, le narrateur, un philosophe, retrouve un original, neveu d'un grand musicien : parasite sans le sou, il vient d'être chassé de la table du financier Bertin pour un mot malvenu. Leur conversation saute d'un sujet à l'autre : le génie, qui excuserait ou non la dureté de l'oncle, l'éducation des enfants, la musique italienne opposée à la française. Le parasite défend une morale de l'intérêt, admire la scélératesse du renégat d'Avignon et mime tour à tour un violoniste, un orchestre, un opéra entier. Le philosophe lui oppose la vertu, mais doit convenir que presque chacun prend des « positions » devant un plus puissant. La cloche des vêpres les sépare, le bouffon toujours le même.
+Un après-midi, au café de la Régence, le narrateur, un philosophe, retrouve un original, neveu d'un grand musicien : parasite sans le sou, il vient d'être chassé de la table du financier Bertin pour un mot malvenu. Leur conversation saute d'un sujet à l'autre : le génie, qui excuserait ou non la dureté de l'oncle, l'éducation des enfants, la musique italienne opposée à la française. Le parasite défend une morale de l'intérêt, admire la scélératesse du renégat d'Avignon et mime tour à tour un violoniste, un orchestre, un opéra entier. Le philosophe lui oppose la vertu, mais doit convenir que presque chacun prend des « positions » devant un plus puissant. La cloche des vêpres les sépare, le bouffon toujours le même.
 
 ### personalSummary
 
@@ -239,13 +271,14 @@ Je mange à la table des riches en échange de mes bouffonneries, et l'on vient 
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La rencontre a lieu au café de la Régence | `Régence` | à vérifier | |
-| Le neveu a été chassé de chez le financier Bertin | `Bertin` | à vérifier | |
-| Il a été chassé pour un mot de bon sens dit mal à propos | `bon sens`, `sens commun`, `chassé` | à vérifier | |
-| Les deux interlocuteurs débattent de la musique italienne et française | `italien`, `Pergolèse`, `Duni` | à vérifier | |
-| Le neveu raconte l'histoire du renégat d'Avignon | `renégat`, `Avignon` | à vérifier | |
-| Le neveu appelle « positions » les courbettes devant les puissants | `positions`, `pantomime` | à vérifier | |
-| Le neveu veut apprendre à son fils la valeur de l'or | `louis`, `or`, `fils` | à vérifier | |
+| La rencontre a lieu au café de la Régence | `Régence` | confirmé | p00003 (« je me réfugie au café de la Régence »), p00004 (« j'étais là ») |
+| La conversation a lieu l'après-midi, non le soir | `après-dînée`, `soir` | corrigé | p00004 (« Une après-dînée j'étais là ») ; p00487 (« souper ce soir » : projet) |
+| Le neveu a été chassé de chez le financier Bertin | `Bertin` | confirmé | p00655 (« Moi, je suis le fou de Bertin »), p00669 (« Je vous ferai chasser ») ; la maison n'est pas nommée à la scène du dîner : à trancher |
+| Il a été chassé pour un mot de bon sens dit mal à propos | `bon sens`, `sens commun`, `chassé` | confirmé | p00135 (« avoir eu le sens commun une fois »), p00487 (« du sens commun et de la franchise un moment ») |
+| Les deux interlocuteurs débattent de la musique italienne et française | `italien`, `Pergolèse`, `Duni` | confirmé | p00850, p00878 |
+| Le neveu raconte l'histoire du renégat d'Avignon | `renégat`, `Avignon` | confirmé | p00762-p00805 |
+| Le neveu appelle « positions » les courbettes devant les puissants | `positions`, `pantomime` | confirmé | p01037-p01039, p01051, p01053 |
+| Le neveu veut apprendre à son fils la valeur de l'or | `louis`, `or`, `fils` | confirmé | p00927 (« je veux que mon fils soit heureux… Il aura de l'or ») |
 
 ### Notes
 
@@ -260,6 +293,16 @@ Je mange à la table des riches en échange de mes bouffonneries, et l'on vient 
 - Premier jet à 122 mots : retiré « qu'il connaît » et « avec verve ».
 - Écarté faute de place : les joueurs d'échecs (Légal, Philidor), la femme défunte du neveu, la ménagerie de Bertin et de Mlle Hus.
 - Désaccord avec la fiche : les `locations` parlent d'un « jardin public » ; le Palais-Royal est bien le lieu de promenade du narrateur (`firstSentences`), mais de mémoire la conversation elle-même se tient au café de la Régence, où il se réfugie par mauvais temps.
+
+- Vérification : « un soir » : CONTREDIT. Le texte dit « Une après-dînée j'étais là » (p00004), et « souper ce soir » (p00487) est un projet. Corrigé : ancienne formulation « Un soir, au café de la Régence », nouvelle « Un après-midi, au café de la Régence », p00004.
+- Vérification : doute « le café de la Régence » : confirmé (p00003 : « je me réfugie au café de la Régence » ; p00004 : « j'étais là »).
+- Vérification : doute « l'expulsion de chez Bertin » : confirmé en partie. « Moi, je suis le fou de Bertin » (p00655), puis la scène de chasse à table (p00661-p00671 ; « Je vous ferai chasser », p00669). La maison où a lieu le dîner n'est pas nommée : à trancher.
+- Vérification : « un mot de bon sens » : confirmé (p00135 : « avoir eu le sens commun une fois » ; p00487 : « du sens commun et de la franchise un moment »).
+- Vérification : « presque chacun prend des positions » : confirmé (p01051 : « tout le reste prend des positions ») ; l'exception de Diogène est au texte (p01062 : « Diogène se moquait des besoins »).
+- Vérification : éducation des enfants : confirmée (p00927 : « Ah ! si c'était aussi bien une fille ! » ; « je veux que mon fils soit heureux »).
+- Vérification : ordre des sujets : le résumé ne donne pas d'ordre strict. La pantomime de l'opéra (p00154) précède le renégat (p00762) : non contredit, laissé en l'état.
+- Vérification : « admire la scélératesse du renégat » : confirmé dans le ton (p00805 : « la scélératesse de votre renégat, ou du ton dont vous en parlez »).
+- Vérification : fin (vêpres de l'abbé de Canaye, « rira bien qui rira le dernier ») : confirmée (p01125, p01129).
 
 ### Anciens textes
 
@@ -282,14 +325,14 @@ Mon capitaine disait que tout ce qui nous arrive ici-bas est écrit là-haut, et
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le valet tient son fatalisme de son ancien capitaine | `capitaine`, `écrit là-haut` | à vérifier | |
-| Le valet a reçu une balle au genou à Fontenoy | `genou`, `Fontenoy` | à vérifier | |
-| L'hôtesse tient l'auberge du Grand-Cerf | `Grand-Cerf` | à vérifier | |
-| Mme de La Pommeraye se venge du marquis des Arcis | `Pommeraye`, `Arcis` | à vérifier | |
-| Le marquis épouse sans le savoir une ancienne fille de joie, Mlle d'Aisnon | `Aisnon` | à vérifier | |
-| Le maître tue en duel son ami Saint-Ouin | `Saint-Ouin` | à vérifier | |
-| Le valet est arrêté à la place de son maître | `prison`, `arrêté` | à vérifier | |
-| Dans une fin proposée, le valet épouse Denise | `Denise` | à vérifier | |
+| Le valet tient son fatalisme de son ancien capitaine | `capitaine`, `écrit là-haut` | confirmé | p00002 |
+| Le valet a reçu une balle au genou à Fontenoy | `genou`, `Fontenoy` | confirmé | p00008-p00010 |
+| L'hôtesse tient l'auberge du Grand-Cerf | `Grand-Cerf` | confirmé | p00937 (« Madame l'hôtesse du Grand-Cerf ») ; l'hôtesse parle, p01286 |
+| Mme de La Pommeraye se venge du marquis des Arcis | `Pommeraye`, `Arcis` | confirmé | p00934-p00940, p01035 |
+| Le marquis épouse sans le savoir une ancienne fille de joie, Mlle d'Aisnon | `Aisnon` | confirmé | p01039-p01040 (« Mme et Mlle d'Aisnon », « métier… infâme »), p01287 (« J'épouse »), p01324 (il la traite d'« infâme » après le mariage) |
+| Le maître tue en duel son ami Saint-Ouin | `Saint-Ouin` | confirmé | p02458 (« L'homme tué était le chevalier de Saint-Ouin ») |
+| Le valet est arrêté à la place de son maître | `prison`, `arrêté` | confirmé | p02458 (le maître s'enfuit ; « On s'empare de Jacques », prison) |
+| Dans une fin proposée, le valet épouse Denise | `Denise` | confirmé | p02475 (fin proposée par l'éditeur) |
 
 ### Notes
 
@@ -302,6 +345,13 @@ Mon capitaine disait que tout ce qui nous arrive ici-bas est écrit là-haut, et
 - Doute sur l'ordre et la fin : de mémoire, le maître retrouve Saint-Ouin (et l'enfant d'Agathe qu'on lui impute) vers la fin ; le duel, la fuite du maître et l'arrestation du valet viennent juste avant les fins que l'éditeur dit avoir trouvées. Dans l'une, le valet rejoint la bande de Mandrin, défend le château de Desglands, retrouve son maître et épouse Denise. « Selon l'une des fins proposées » reste prudent.
 - Doute : « c'est son valet qu'on arrête » ; de mémoire, il est arrêté pour avoir accompagné le maître, et emprisonné ; je ne suis pas sûr qu'on le prenne pour le meurtrier.
 - Écarté faute de place : le cheval qui file vers les gibets, le père Hudson, le chirurgien et la paysanne qui soignent le genou, Desglands et son emplâtre, les interventions du narrateur auprès du lecteur (seule trace : « un but que le narrateur refuse de dire »).
+
+- Vérification : Fontenoy : confirmé (p00008 : « devant Fontenoy » ; p00010 : « un coup de feu au genou »).
+- Vérification : nom de l'auberge : confirmé (p00937, « Madame l'hôtesse du Grand-Cerf »).
+- Vérification : Mme et Mlle d'Aisnon : confirmées (p01039 : « ces femmes, qui avaient pris le nom de Mme et de Mlle d'Aisnon »).
+- Vérification : ordre de la fin : confirmé. Le duel (p02458) précède les fins proposées par l'éditeur (p02460) ; Denise est épousée dans l'une (p02475) ; l'épisode Mandrin est dans une autre (p02467).
+- Vérification : arrestation du valet : confirmée (p02458 : « On s'empare de Jacques… l'envoie en prison »). Le texte n'écrit pas qu'on le prend pour le meurtrier : le résumé ne le dit pas non plus.
+- Vérification : Saint-Ouin, enfant de la nourrice : confirmé (p02423, p02458 : « l'enfant du chevalier de Saint-Ouin »).
 
 ### Anciens textes
 
@@ -324,13 +374,13 @@ Enfant, à Combray, je ne pouvais m'endormir sans le baiser de ma mère. Bien pl
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| La madeleine est trempée dans du thé | `madeleine`, `thé` | à vérifier | |
-| Enfant, le narrateur attend le baiser du soir de sa mère à Combray | `baiser`, `Combray` | à vérifier | |
-| Swann vient dîner chez la famille du narrateur à Combray | `Swann`, `dîner` | à vérifier | |
-| Gilberte est la fille de Swann et d'Odette | `Gilberte`, `Odette` | à vérifier | |
-| Albertine meurt d'une chute de cheval | `Albertine`, `cheval` | à vérifier | |
-| Des pavés inégaux font resurgir le passé | `pavés`, `inégaux` | à vérifier | |
-| La révélation finale a lieu lors d'une matinée chez la princesse de Guermantes | `Guermantes`, `matinée` | à vérifier | |
+| La madeleine est trempée dans du thé | `madeleine`, `thé` | confirmé | p00047 (« la cuillerée du thé où j'avais laissé s'amollir un morceau de madeleine ») |
+| Enfant, le narrateur attend le baiser du soir de sa mère à Combray | `baiser`, `Combray` | confirmé | p00017, p00029 |
+| Swann vient dîner chez la famille du narrateur à Combray | `Swann`, `dîner` | confirmé | p00017 (« M. Swann… venait dîner en voisin ») |
+| Gilberte est la fille de Swann et d'Odette | `Gilberte`, `Odette` | confirmé | p00496 (« fille de Swann »), p00464 et p00510 (« la fille d'Odette ») |
+| Albertine meurt d'une chute de cheval | `Albertine`, `cheval` | hors zone | absent des pages enregistrées (fuite et mort non relevées) |
+| Des pavés inégaux font resurgir le passé | `pavés`, `inégaux` | confirmé | p00386 (« pavés assez mal équarris », « pavé plus élevé ») |
+| La révélation finale a lieu lors d'une matinée chez la princesse de Guermantes | `Guermantes`, `matinée` | confirmé | p00374 (titre du chapitre III : « Matinée chez la princesse de Guermantes »), p00377 |
 
 ### Notes
 
@@ -344,6 +394,12 @@ Enfant, à Combray, je ne pouvais m'endormir sans le baiser de ma mère. Bien pl
 - « vu vieillir tous ceux que j'avais connus » : le « bal de têtes » de la dernière matinée, de mémoire.
 - Pas de désaccord majeur avec la fiche ; l'ancien `summary` disait « le narrateur, souvent identifié à l'auteur », remarque de lecteur que j'ai écartée.
 
+- Vérification : madeleine « dans du thé » : confirmé (p00047 : « la cuillerée du thé où j'avais laissé s'amollir un morceau de madeleine ») ; le tilleul est le souvenir d'enfance (p00051-p00052).
+- Vérification : « jadis tourmenté par son amour jaloux pour Odette » : Odette est absente des pages de Combray ; confirmé par Le Temps retrouvé (p00413 : « la sienne l'avait bien fait souffrir lui-même par Odette » ; p00463 : « quand il n'aima plus Mme Swann »). La jalousie n'est pas nommée pour Swann : non contredit.
+- Vérification : « la princesse » ou « la duchesse » : confirmé, « Matinée chez la princesse de Guermantes » (p00374), « la matinée de la princesse de Guermantes » (p00377).
+- Vérification : mort d'Albertine (chute de cheval, en Touraine) : hors zone, la fuite et la mort ne figurent pas dans les pages enregistrées.
+- Vérification : sensations qui accompagnent les pavés : le texte cite les dalles inégales (p00386) ; le résumé ne retient que les pavés, sans contradiction.
+
 ### Anciens textes
 
 - summary : Le narrateur, souvent identifié à l'auteur, raconte son enfance à Combray, ses expériences dans la haute société parisienne et ses relations amoureuses, notamment avec Albertine. À travers ses souvenirs, il explore les mécanismes de la mémoire, notamment la mémoire involontaire révélée par des sensations. Progressivement, il comprend que le temps peut être retrouvé et transcendé grâce à l'écriture, qui permet de donner un sens à l'existence.
@@ -355,7 +411,7 @@ Corpus : 2 pages choisies sur ru.wikisource.org (langue : ru) : « Братья 
 
 ### summary
 
-Dans une ville de province, le vieux Fiodor Pavlovitch, bouffon débauché, a trois fils : Dmitri, officier passionné, Ivan, intellectuel qui doute de Dieu, et Alexeï, dit Aliocha, novice auprès du starets Zosime ; son laquais Smerdiakov passe pour son fils illégitime. Dmitri dispute à son père un héritage et la belle Grouchenka. Quand Fiodor est retrouvé assassiné, dépouillé de trois mille roubles, Dmitri, qui l'avait menacé, est arrêté. Smerdiakov avoue à Ivan le meurtre, inspiré, dit-il, par la maxime d'Ivan : « tout est permis » ; puis il se pend. Dmitri est pourtant condamné au bagne, et Aliocha, aux funérailles du petit Ilioucha, demande à des garçons de ne jamais oublier ce jour.
+Dans une ville de province, le vieux Fiodor Pavlovitch, bouffon débauché, a trois fils : Dmitri, officier passionné, Ivan, intellectuel qui doute de Dieu, et Alexeï, dit Aliocha, novice auprès du starets Zosime ; son laquais Smerdiakov passe pour son fils illégitime. Dmitri dispute à son père un héritage et la belle Grouchenka. Quand Fiodor est retrouvé assassiné, dépouillé de trois mille roubles, Dmitri, qui l'avait menacé, est arrêté. Smerdiakov avoue à Ivan le meurtre, inspiré, dit-il, par la maxime d'Ivan : « tout est permis » ; puis il se pend. Dmitri est pourtant condamné à l'exil, et Aliocha, aux funérailles du petit Ilioucha, demande à des garçons de ne jamais oublier ce jour.
 
 ### personalSummary
 
@@ -365,14 +421,14 @@ J'avais choisi le monastère, auprès de mon vieux maître, mais il m'a renvoyé
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Aliocha est novice auprès du starets Zosime | `Зосим`, `старц`, `Zosime` | à vérifier | |
-| Le laquais Smerdiakov passe pour le fils illégitime de Fiodor Pavlovitch | `Смердяков`, `Smerdiakov` | à vérifier | |
-| Dmitri et son père se disputent Grouchenka | `Грушеньк`, `Grouchenka` | à vérifier | |
-| Trois mille roubles disparaissent lors du meurtre | `три тысячи`, `трех тысяч`, `трёх тысяч` | à vérifier | |
-| Smerdiakov avoue le meurtre à Ivan | `Смердяков`, `Иван` | à vérifier | |
-| Smerdiakov se pend | `повесил` | à vérifier | |
-| Dmitri est condamné au bagne | `каторг` | à vérifier | |
-| Aliocha parle aux garçons près d'une pierre, après les funérailles d'Ilioucha | `Илюш`, `камн`, `камен` | à vérifier | |
+| Aliocha est novice auprès du starets Zosime | `Зосим`, `старц`, `Zosime` | hors zone | absent des pages enregistrées (ni « Zosime » ni « starets ») |
+| Le laquais Smerdiakov passe pour le fils illégitime de Fiodor Pavlovitch | `Смердяков`, `Smerdiakov` | hors zone | absent des pages enregistrées |
+| Dmitri et son père se disputent Grouchenka | `Грушеньк`, `Grouchenka` | hors zone | absent des pages enregistrées (« Grouchenka » absente) |
+| Trois mille roubles disparaissent lors du meurtre | `три тысячи`, `трех тысяч`, `трёх тысяч` | hors zone | absent des pages enregistrées |
+| Smerdiakov avoue le meurtre à Ivan | `Смердяков`, `Иван` | hors zone | absent des pages enregistrées |
+| Smerdiakov se pend | `повесил` | hors zone | absent des pages enregistrées |
+| Dmitri est condamné à l'exil | `ссылк` | corrigé | p00056 (Aliocha : « из которых один пойдет в ссылку » : l'un des deux frères ira en exil) |
+| Aliocha parle aux garçons près d'une pierre, après les funérailles d'Ilioucha | `Илюш`, `камн`, `камен` | confirmé | p00007 (titre : « Речь у камня »), p00052-p00060 (« Будем помнить ») |
 
 ### Notes
 
@@ -387,6 +443,12 @@ J'avais choisi le monastère, auprès de mon vieux maître, mais il m'a renvoyé
 - « Ivan, intellectuel qui doute de Dieu » : j'ai écarté « athée », trop tranché pour ses tourments.
 - Écarté faute de place : Katerina Ivanovna et sa lettre lue au procès, la légende du Grand Inquisiteur, la décomposition du corps de Zosime, le délire d'Ivan et sa conversation avec le diable, l'arrestation à Mokroïé.
 - Désaccord avec l'ancien `summary` : il nommait « Karamazov » (fuite).
+
+- Vérification : « tout est permis » : formule absente des pages (hors zone) ; « inspiré par la maxime d'Ivan » : hors zone.
+- Vérification : « un héritage » : confirmé en partie : Fiodor a pris l'argent de la mère de Dmitri, « jusqu'à vingt-cinq mille » (p00005) ; le détail de la dispute est hors zone.
+- Vérification : peine de Dmitri : CORRIGÉE dans le résumé et le tableau. Aliocha dit qu'« un des deux frères ira en exil » (p00056 : « пойдет в ссылку ») ; le mot « bagne » n'est pas dans les pages (hors zone pour la durée de vingt ans, de mémoire).
+- Vérification : scène finale : confirmée (p00007 : « Речь у камня » ; p00053 : les garçons devant la grosse pierre ; p00060 : « Будем помнить »). Le résumé dit « aux funérailles » : la scène suit les funérailles.
+- Vérification : « Karamazov » : le nom reste absent du résumé corrigé.
 
 ### Anciens textes
 
@@ -409,14 +471,14 @@ J'ai passé ma jeunesse en Suisse à soigner mon mal, et je suis revenu en Russi
 
 | Fait | Termes | Statut | Appui |
 |---|---|---|---|
-| Le prince revient de Suisse, où il était soigné | `Suisse`, `Muichkine`, `Mychkine`, `Muychkine` | à vérifier | |
-| Il rencontre Rogojine dans le train de Varsovie | `Rogojine`, `Rogojin`, `wagon` | à vérifier | |
-| Rogojine est fils de marchand | `marchand`, `Rogojine` | à vérifier | |
-| Nastassia jette au feu cent mille roubles | `cent mille`, `feu` | à vérifier | |
-| On veut marier Nastassia à Gania | `Gania`, `Ganka`, `Ivolguine` | à vérifier | |
-| Aglaé est la plus jeune fille du général Épantchine | `Aglaé`, `Épantchine`, `Epantchine` | à vérifier | |
-| Nastassia s'enfuit avec Rogojine le jour des noces | `noce`, `église`, `mariage` | à vérifier | |
-| Le prince, retombé malade, est ramené en Suisse chez Schneider | `Schneider` | à vérifier | |
+| Le prince revient de Suisse, où il était soigné | `Suisse`, `Muichkine`, `Mychkine`, `Muychkine` | confirmé | p00004, p00018 (« mon entretien en Suisse ») |
+| Il rencontre Rogojine dans le train de Varsovie | `Rogojine`, `Rogojin`, `wagon` | confirmé | p00004 (« wagon de troisième classe, sur la ligne de Varsovie à Pétersbourg ») |
+| Rogojine est fils de marchand | `marchand`, `Rogojine` | confirmé | p00050 (« fils de Sémen Parfénovitch Rogojine, bourgeois notable héréditaire ») |
+| Nastassia jette au feu cent mille roubles | `cent mille`, `feu` | hors zone | absent des pages enregistrées (« cent mille » absent) |
+| On veut marier Nastassia à Gania | `Gania`, `Ganka`, `Ivolguine` | hors zone | absent des pages enregistrées (Gania ne figure que dans la liste de la fin, p00096) |
+| Aglaé est la plus jeune fille du général Épantchine | `Aglaé`, `Épantchine`, `Epantchine` | confirmé | p00096 (« sa sœur cadette », dite d'Adélaïde) ; « la plus jeune » non écrit, non contredit |
+| Nastassia s'enfuit avec Rogojine le jour des noces | `noce`, `église`, `mariage` | hors zone | absent des pages enregistrées (noces et fuite absentes ; p00096 : Nastasia morte quinze jours avant Hippolyte, sans cause) |
+| Le prince, retombé malade, est ramené en Suisse chez Schneider | `Schneider` | confirmé | p00096 (« ramené en Suisse et replacé dans l'établissement de Schneider ») |
 
 ### Notes
 
@@ -431,6 +493,13 @@ J'ai passé ma jeunesse en Suisse à soigner mon mal, et je suis revenu en Russi
 - « l'homme qui l'aimait jusqu'à la haine » : Rogojine, sans le nommer.
 - Écarté faute de place : Hippolyte et sa confession, Lébédev, la tentative de meurtre de Rogojine dans l'escalier arrêtée par une crise, le mariage final d'Aglaé avec un faux comte polonais, Lizaveta Prokofievna (qui parle dans les dernières lignes de la fiche).
 - Désaccord avec l'ancien `summary` : « une issue tragique » sans dire laquelle ; je la donne.
+
+- Vérification : Suisse et Schneider : confirmés (p00004, p00018 ; p00096 : « replacé dans l'établissement de Schneider »).
+- Vérification : meurtre de Nastassia, nuit de veille, fuite le jour des noces : hors zone. Les pages enregistrées ne disent que sa mort, quinze jours avant celle d'Hippolyte (p00096), sans cause.
+- Vérification : « renonce à Aglaé » et « Aglaé finira par l'aimer » : hors zone. Aglaé épouse un comte polonais (p00096) : non contredit.
+- Vérification : « Aglaé, la cadette » : confirmé en partie (p00096 : « sa sœur cadette », à propos d'Adélaïde). « La plus jeune » reste à trancher.
+- Vérification : graphies : « Muichkine » du texte (p00033-p00035) et « Mychkine » du résumé : graphie française conservée, non corrigée.
+- Vérification : « une issue tragique » : confirmé, la mort de Nastassia est au texte (p00096).
 
 ### Anciens textes
 
