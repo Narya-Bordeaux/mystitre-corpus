@@ -25,8 +25,10 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "8fc4f56990499cd2788ef552d076e7000d6d3dffa121d5861c74b9e081e00615"
   },
-  "titleMasks": [],
-  "createdOn": "2026-11-16",
+  "titleMasks": [
+    "Odysseus"
+  ],
+  "createdOn": "2026-11-21",
   "opening": {
     "sentenceIds": [
       "p00011.s1",
@@ -44,7 +46,7 @@
       "p01598.s1",
       "p01598.s2"
     ],
-    "french": "Et, alors, Athènè aux yeux clairs dit à Odysseus :\n— Divin Laertiade, subtil Odysseus, arrête, cesse la discorde de la guerre intestine, de peur que le Kronide Zeus qui tonne au loin s’irrite contre toi.\nAinsi parla Athènè, et il lui obéit, plein de joie dans son cœur. Et Pallas Athènaiè, fille de Zeus tempétueux, et semblable par la figure et par la voix à Mentôr, scella pour toujours l’alliance entre les deux partis.",
+    "french": "Et, alors, Athènè aux yeux clairs dit à [TITRE] :\n— Divin Laertiade, subtil [TITRE], arrête, cesse la discorde de la guerre intestine, de peur que le Kronide Zeus qui tonne au loin s’irrite contre toi.\nAinsi parla Athènè, et il lui obéit, plein de joie dans son cœur. Et Pallas Athènaiè, fille de Zeus tempétueux, et semblable par la figure et par la voix à Mentôr, scella pour toujours l’alliance entre les deux partis.",
     "original": "Et, alors, Athènè aux yeux clairs dit à Odysseus :\n— Divin Laertiade, subtil Odysseus, arrête, cesse la discorde de la guerre intestine, de peur que le Kronide Zeus qui tonne au loin s’irrite contre toi.\nAinsi parla Athènè, et il lui obéit, plein de joie dans son cœur. Et Pallas Athènaiè, fille de Zeus tempétueux, et semblable par la figure et par la voix à Mentôr, scella pour toujours l’alliance entre les deux partis.",
     "length": 422,
     "truncated": false

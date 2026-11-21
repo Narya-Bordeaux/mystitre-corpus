@@ -24,7 +24,10 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "3d6cb4f02af2eead45918266d7c9f652a241280687144d3c063e3b17df722d87"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "LUCREZIA",
+    "Lucrezia"
+  ],
   "textCorrections": [
     {
       "kind": "replace",
@@ -37,7 +40,7 @@
   "reviewFlags": [
     "p00677 : remplacement ample (13 caractères changés)"
   ],
-  "createdOn": "2026-11-17",
+  "createdOn": "2026-11-21",
   "opening": {
     "sentenceIds": [
       "p00009.s1",
@@ -64,7 +67,7 @@
       "p00685.s1",
       "p00685.s2"
     ],
-    "french": "DONA LUCREZIA, se débattant et lui retenant le bras.\nDONA LUCREZIA. — Grâce ! grâce ! Encore un mot !\nGENNARO. — Non !\nDONA LUCREZIA. — Pardon ! Écoute-moi !\nGENNARO. — Non !\nDONA LUCREZIA. — Au nom du ciel !\nGENNARO. — Non !\nIl la frappe.\nDONA LUCREZIA. — Ah !… tu m’as tuée ! — Gennaro ! je suis ta mère !",
+    "french": "DONA [TITRE], se débattant et lui retenant le bras.\nDONA [TITRE]. — Grâce ! grâce ! Encore un mot !\nGENNARO. — Non !\nDONA [TITRE]. — Pardon ! Écoute-moi !\nGENNARO. — Non !\nDONA [TITRE]. — Au nom du ciel !\nGENNARO. — Non !\nIl la frappe.\nDONA [TITRE]. — Ah !… tu m’as tuée ! — Gennaro ! je suis ta mère !",
     "original": "DONA LUCREZIA, se débattant et lui retenant le bras.\nDONA LUCREZIA. — Grâce ! grâce ! Encore un mot !\nGENNARO. — Non !\nDONA LUCREZIA. — Pardon ! Écoute-moi !\nGENNARO. — Non !\nDONA LUCREZIA. — Au nom du ciel !\nGENNARO. — Non !\nIl la frappe.\nDONA LUCREZIA. — Ah !… tu m’as tuée ! — Gennaro ! je suis ta mère !",
     "length": 307,
     "truncated": false

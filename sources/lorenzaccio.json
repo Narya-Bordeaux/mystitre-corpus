@@ -45,6 +45,11 @@
   "notes": [
     "Exclus : titres d'acte et de scène, décors et didascalies d'entrée, « FIN DE LORENZACCIO ». Le texte commence à la première réplique du Duc et finit sur le discours de Côme."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "LORENZO",
+    "Lorenzo",
+    "LORENZACCIO",
+    "Lorenzaccio"
+  ],
   "readingOptions": []
 }

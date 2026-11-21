@@ -33,7 +33,10 @@
   "notes": [
     "Exclus : titres d'acte et de partie, liste des personnages, décor, didascalies d'ouverture, « FIN. ». Le corps va de la première réplique (Oloferno) au cri « je suis ta mère ! »."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "LUCREZIA",
+    "Lucrezia"
+  ],
   "readingOptions": [],
   "textCorrections": [
     {

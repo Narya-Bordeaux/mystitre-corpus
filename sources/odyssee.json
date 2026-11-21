@@ -34,6 +34,8 @@
   "notes": [
     "Exclus : page de titre (HOMÈRE, ODYSSÉE, traduction, éditeur, date), intertitres « RHAPSODIE » et « FIN DE L'ODYSSÉE ». Le corps va du premier vers rendu (« Dis-moi, Muse… ») à la dernière phrase du chant XXIV (alliance scellée par Athéna sous les traits de Mentor)."
   ],
-  "titleMasks": [],
+  "titleMasks": [
+    "Odysseus"
+  ],
   "readingOptions": []
 }

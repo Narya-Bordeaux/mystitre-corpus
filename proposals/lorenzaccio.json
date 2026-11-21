@@ -36,8 +36,13 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "f6df372d8fe6499369b7c02830e1357b56dc37a81414cb27f757a9dc30ffa3fa"
   },
-  "titleMasks": [],
-  "createdOn": "2026-11-17",
+  "titleMasks": [
+    "LORENZO",
+    "Lorenzo",
+    "LORENZACCIO",
+    "Lorenzaccio"
+  ],
+  "createdOn": "2026-11-21",
   "opening": {
     "sentenceIds": [
       "p00005.s1",
@@ -46,7 +51,7 @@
       "p00007.s1",
       "p00008.s1"
     ],
-    "french": "LE DUC. — Qu’elle se fasse attendre encore un quart d’heure, et je m’en vais. Il fait un froid de tous les diables.\nLORENZO. — Patience, Altesse, patience.\nLE DUC. — Elle devait sortir de chez sa mère à minuit ; il est minuit, et elle ne vient pourtant pas.\nLORENZO. — Si elle ne vient pas, dites que je suis un sot, et que la vieille mère est une honnête femme.",
+    "french": "LE DUC. — Qu’elle se fasse attendre encore un quart d’heure, et je m’en vais. Il fait un froid de tous les diables.\n[TITRE]. — Patience, Altesse, patience.\nLE DUC. — Elle devait sortir de chez sa mère à minuit ; il est minuit, et elle ne vient pourtant pas.\n[TITRE]. — Si elle ne vient pas, dites que je suis un sot, et que la vieille mère est une honnête femme.",
     "original": "LE DUC. — Qu’elle se fasse attendre encore un quart d’heure, et je m’en vais. Il fait un froid de tous les diables.\nLORENZO. — Patience, Altesse, patience.\nLE DUC. — Elle devait sortir de chez sa mère à minuit ; il est minuit, et elle ne vient pourtant pas.\nLORENZO. — Si elle ne vient pas, dites que je suis un sot, et que la vieille mère est une honnête femme.",
     "length": 362,
     "truncated": false
