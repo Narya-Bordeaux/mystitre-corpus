@@ -34,8 +34,7 @@
     "Exclus : titres d'acte et de scène, liste des personnages, mention « Fin des Fourberies de Scapin »."
   ],
   "titleMasks": [
-    "Scapin",
-    "SCAPIN"
+    "Scapin"
   ],
   "readingOptions": []
 }

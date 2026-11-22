@@ -21,8 +21,7 @@
     "cleanTextSha256": "6cf0de9ce947c62921f6a4235041bb66a87be33aa112644da312c2c54a672ce4"
   },
   "titleMasks": [
-    "Cyrano",
-    "CYRANO"
+    "Cyrano"
   ],
   "textCorrections": [
     {

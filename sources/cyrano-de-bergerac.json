@@ -30,8 +30,7 @@
     "Exclus : page de titre, dédicace à Coquelin, liste des personnages, indications de lieu et titres d'acte, « RIDEAU ». Le texte commence à la première réplique (le Portier) et finit sur « Mon panache. »"
   ],
   "titleMasks": [
-    "Cyrano",
-    "CYRANO"
+    "Cyrano"
   ],
   "readingOptions": [],
   "textCorrections": [
