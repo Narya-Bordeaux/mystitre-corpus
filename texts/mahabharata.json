@@ -1,0 +1,39 @@
+{
+  "formatVersion": 1,
+  "bookId": "mahabharata",
+  "sha256": "b7f5d153eab845f62882011fd66f1471e9eea214eef5be1e12d003def93f0e98",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Om! Having bowed down to Narayana and Nara, the most exalted male being, and also to the goddess Saraswati, must the word success be uttered."
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "Ugra-srava, the son of Lomaharshana, surnamed Sauti, well versed in the Puranas, bending with humility one day approached the great sages of rigid vows, sitting at their ease who had attended the twelve years' sacrifice of Saunaka, surnamed Kulapati, in the forest of Naimisha. Those ascetics, wishing to hear his wonderful narrations, presently began to address him who had thus arrived at that recluse abode of the inhabitants of the forest of Naimisha. Having been entertained with due respect by those holy men, he saluted those Munis (sages) with joined palms, even all of them, and inquired of the progress of their asceticism. Then all the ascetics, being again seated, the son of Lomaharshana humbly occupied the seat that was assigned to him. Seeing that he was comfortably seated and recovered from fatigue, one of the Rishis, beginning the conversation, asked him, \"Whence comest thou, O lotus-leaf-eyed Sauti, and where hast thou spent the time? Tell me, who ask thee, in full?\""
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "[…]"
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "\"I have thus, O chief of men, told everything in thy presence. He that listens with devotion to this Bhārata from the beginning becomes cleansed of every sin even if he be guilty of Brāhmanicide or the violation of his preceptor's bed, or even if he be a drinker of alcohol or a robber of other people's wares, or even if he be born in the Chandāla order. Destroying all his sins like the maker of day destroying darkness, such a man, without doubt, sports in felicity in the region of Vishnu like Vishnu himself.\""
+      ]
+    }
+  ]
+}

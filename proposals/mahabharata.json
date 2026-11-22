@@ -1,0 +1,60 @@
+{
+  "formatVersion": 1,
+  "bookId": "mahabharata",
+  "title": "Le Mahabharata",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise de K. M. Ganguli (1883-1896), à relire",
+  "source": {
+    "host": "declared",
+    "edition": "The Mahabharata of Krishna-Dwaipayana Vyasa, traduction anglaise en prose de Kisari Mohan Ganguli (Calcutta, Bharata Press, publ. Pratap Chandra Roy puis Sundari Bala Roy, 1883-1896) ; début : livre 1 (Adi Parva), section I, copié depuis en.wikisource ; fin : dernier paragraphe du livre 18 (Swargarohanika Parva, 1896, p. 28), recopié par l'agent depuis la numérisation d'Internet Archive, avec l'accord de l'utilisateur (Gutenberg en maintenance) ; appels de notes et « Finis Swargarohanika Parva » non recopiés",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "b7f5d153eab845f62882011fd66f1471e9eea214eef5be1e12d003def93f0e98",
+    "declaredSource": {
+      "url": "https://archive.org/details/india.history.resource.84909",
+      "copiedOn": "2026-11-22",
+      "declaredBy": "utilisateur",
+      "sectionUrls": {
+        "début": "https://en.wikisource.org/wiki/The_Mahabharata/Book_1:_Adi_Parva/Section_1"
+      }
+    }
+  },
+  "titleMasks": [
+    "Bhārata"
+  ],
+  "createdOn": "2026-11-22",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2",
+      "p00002.s1"
+    ],
+    "french": "Om ! Après s'être incliné devant Narayana et Nara, le plus éminent des êtres, ainsi que devant la déesse Sarasvati, on doit prononcer le mot « succès ».\nUgrashravas, fils de Lomaharshana, surnommé Sauti, versé dans les Puranas, s'approcha un jour avec humilité des grands sages aux vœux rigoureux, assis à leur aise, qui avaient assisté au sacrifice de douze ans de Shaunaka, surnommé Kulapati, dans la forêt de Naimisha.",
+    "original": "Om! Having bowed down to Narayana and Nara, the most exalted male being, and also to the goddess Saraswati, must the word success be uttered.\nUgra-srava, the son of Lomaharshana, surnamed Sauti, well versed in the Puranas, bending with humility one day approached the great sages of rigid vows, sitting at their ease who had attended the twelve years' sacrifice of Saunaka, surnamed Kulapati, in the forest of Naimisha.",
+    "length": 421,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00004.s2",
+      "p00004.s3"
+    ],
+    "french": "Celui qui écoute avec dévotion ce [TITRE] depuis le commencement est lavé de tout péché, fût-il coupable du meurtre d'un brahmane ou d'avoir souillé la couche de son maître, fût-il buveur d'alcool ou voleur du bien d'autrui, fût-il même né dans la caste des Chandalas. Détruisant tous ses péchés comme l'astre du jour détruit les ténèbres, un tel homme, sans nul doute, se réjouit dans la félicité au séjour de Vishnou, semblable à Vishnou lui-même.",
+    "original": "He that listens with devotion to this Bhārata from the beginning becomes cleansed of every sin even if he be guilty of Brāhmanicide or the violation of his preceptor's bed, or even if he be a drinker of alcohol or a robber of other people's wares, or even if he be born in the Chandāla order. Destroying all his sins like the maker of day destroying darkness, such a man, without doubt, sports in felicity in the region of Vishnu like Vishnu himself.\"",
+    "length": 449,
+    "truncated": false
+  }
+}

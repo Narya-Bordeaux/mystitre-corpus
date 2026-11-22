@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "mahabharata",
+  "title": "Le Mahabharata",
+  "host": "declared",
+  "sourceLanguage": "en",
+  "edition": "The Mahabharata of Krishna-Dwaipayana Vyasa, traduction anglaise en prose de Kisari Mohan Ganguli (Calcutta, Bharata Press, publ. Pratap Chandra Roy puis Sundari Bala Roy, 1883-1896) ; début : livre 1 (Adi Parva), section I, copié depuis en.wikisource ; fin : dernier paragraphe du livre 18 (Swargarohanika Parva, 1896, p. 28), recopié par l'agent depuis la numérisation d'Internet Archive, avec l'accord de l'utilisateur (Gutenberg en maintenance) ; appels de notes et « Finis Swargarohanika Parva » non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "b7f5d153eab845f62882011fd66f1471e9eea214eef5be1e12d003def93f0e98",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "Om! Having bowed down to Narayana and Nara, the most exalted"
+  },
+  "bodyEnd": {
+    "id": "p00004",
+    "textPrefix": "\"I have thus, O chief of men, told everything in thy presenc"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Invocation « Om! » gardée (partie du texte traditionnel) ; fin : éloge du Bhārata, vrai dernier passage (décision utilisateur)"
+  ],
+  "titleMasks": [
+    "Bhārata"
+  ],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://archive.org/details/india.history.resource.84909",
+    "copiedOn": "2026-11-22",
+    "declaredBy": "utilisateur",
+    "sectionUrls": {
+      "début": "https://en.wikisource.org/wiki/The_Mahabharata/Book_1:_Adi_Parva/Section_1"
+    }
+  }
+}

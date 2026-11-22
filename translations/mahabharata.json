@@ -1,0 +1,62 @@
+{
+  "formatVersion": 1,
+  "bookId": "mahabharata",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "b7f5d153eab845f62882011fd66f1471e9eea214eef5be1e12d003def93f0e98",
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise de K. M. Ganguli (1883-1896), à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "Om!",
+      "translation": "Om !"
+    },
+    {
+      "id": "p00001.s2",
+      "original": "Having bowed down to Narayana and Nara, the most exalted male being, and also to the goddess Saraswati, must the word success be uttered.",
+      "translation": "Après s'être incliné devant Narayana et Nara, le plus éminent des êtres, ainsi que devant la déesse Sarasvati, on doit prononcer le mot « succès »."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "Ugra-srava, the son of Lomaharshana, surnamed Sauti, well versed in the Puranas, bending with humility one day approached the great sages of rigid vows, sitting at their ease who had attended the twelve years' sacrifice of Saunaka, surnamed Kulapati, in the forest of Naimisha.",
+      "translation": "Ugrashravas, fils de Lomaharshana, surnommé Sauti, versé dans les Puranas, s'approcha un jour avec humilité des grands sages aux vœux rigoureux, assis à leur aise, qui avaient assisté au sacrifice de douze ans de Shaunaka, surnommé Kulapati, dans la forêt de Naimisha."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Those ascetics, wishing to hear his wonderful narrations, presently began to address him who had thus arrived at that recluse abode of the inhabitants of the forest of Naimisha.",
+      "translation": "Ces ascètes, désireux d'entendre ses merveilleux récits, s'adressèrent aussitôt à celui qui venait d'arriver ainsi dans la retraite des habitants de la forêt de Naimisha."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "Having been entertained with due respect by those holy men, he saluted those Munis (sages) with joined palms, even all of them, and inquired of the progress of their asceticism.",
+      "translation": "Reçu avec les égards dus par ces saints hommes, il salua les mains jointes ces Munis (sages), tous sans exception, et s'enquit des progrès de leur ascèse."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00002.s5",
+      "original": "Seeing that he was comfortably seated and recovered from fatigue, one of the Rishis, beginning the conversation, asked him, \"Whence comest thou, O lotus-leaf-eyed Sauti, and where hast thou spent the time?",
+      "translation": "Le voyant confortablement assis et remis de sa fatigue, l'un des Rishis, ouvrant la conversation, lui demanda : « D'où viens-tu, ô Sauti aux yeux de lotus, et où as-tu passé tout ce temps ?"
+    },
+    {
+      "id": "p00002.s6",
+      "original": "Tell me, who ask thee, in full?\"",
+      "translation": "Dis-le-moi en entier, à moi qui te le demande. »"
+    },
+    {
+      "id": "p00004.s1",
+      "original": "\"I have thus, O chief of men, told everything in thy presence.",
+      "translation": "Je t'ai ainsi tout exposé, ô premier des hommes."
+    },
+    {
+      "id": "p00004.s2",
+      "original": "He that listens with devotion to this Bhārata from the beginning becomes cleansed of every sin even if he be guilty of Brāhmanicide or the violation of his preceptor's bed, or even if he be a drinker of alcohol or a robber of other people's wares, or even if he be born in the Chandāla order.",
+      "translation": "Celui qui écoute avec dévotion ce Bhārata depuis le commencement est lavé de tout péché, fût-il coupable du meurtre d'un brahmane ou d'avoir souillé la couche de son maître, fût-il buveur d'alcool ou voleur du bien d'autrui, fût-il même né dans la caste des Chandalas."
+    },
+    {
+      "id": "p00004.s3",
+      "original": "Destroying all his sins like the maker of day destroying darkness, such a man, without doubt, sports in felicity in the region of Vishnu like Vishnu himself.\"",
+      "translation": "Détruisant tous ses péchés comme l'astre du jour détruit les ténèbres, un tel homme, sans nul doute, se réjouit dans la félicité au séjour de Vishnou, semblable à Vishnou lui-même."
+    }
+  ]
+}
