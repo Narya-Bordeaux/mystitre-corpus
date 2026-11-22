@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "contes-de-pluie-et-de-lune",
+  "title": "Contes de pluie et de lune",
+  "host": "declared",
+  "sourceLanguage": "ja",
+  "edition": "Ugetsu monogatari shinkai (雨月物語新解), Sugii Kazuo (杉井一雄), texte établi sur l'édition d'An'ei 5 (1776), graphie des kana ajustée par l'éditeur (avertissement 凡例) ; réimpression Nabu Public Domain Reprints, Internet Archive (ugetsumonogatari0000unse) ; ouverture de « Shiramine » (p. 1-2) et fin de « Hinpukuron » (p. 277-278) recopiées par l'agent depuis le PDF indiqué par l'utilisateur ; notes en tête de page, gloses de lecture (furigana), signes de lecture du kanbun et traduction moderne de l'éditeur (通釈) non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "a2b26ecf9b0fe08c0830db6883f4a122ad88afd1b7e30b5a716855a4fe29bb2a",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "あふ坂の關守にゆるされてより、秋こし山の黄葉みすごしがたく、濱千鳥の跡ふみつくる鳴海がた、不盡の高嶺の煙、浮島がはら、清"
+  },
+  "bodyEnd": {
+    "id": "p00005",
+    "textPrefix": "數言興盡きて遠寺の鐘五更を告ぐる。夜既に曙けぬ。別れを給ふべし。こよひの長談まことに君が眠をさまたぐと、起きてゆくやうな"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Source déclarée : ouverture du premier conte (Shiramine) et fin du dernier (Hinpukuron) ; préface (緒言), avertissement (凡例), table et titres de volume et de conte non recopiés"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://archive.org/details/ugetsumonogatari0000unse",
+    "copiedOn": "2026-11-22",
+    "declaredBy": "utilisateur"
+  }
+}

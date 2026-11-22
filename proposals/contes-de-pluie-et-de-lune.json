@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "contes-de-pluie-et-de-lune",
+  "title": "Contes de pluie et de lune",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Ugetsu monogatari shinkai (雨月物語新解), Sugii Kazuo (杉井一雄), texte établi sur l'édition d'An'ei 5 (1776), graphie des kana ajustée par l'éditeur (avertissement 凡例) ; réimpression Nabu Public Domain Reprints, Internet Archive (ugetsumonogatari0000unse) ; ouverture de « Shiramine » (p. 1-2) et fin de « Hinpukuron » (p. 277-278) recopiées par l'agent depuis le PDF indiqué par l'utilisateur ; notes en tête de page, gloses de lecture (furigana), signes de lecture du kanbun et traduction moderne de l'éditeur (通釈) non recopiés",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "a2b26ecf9b0fe08c0830db6883f4a122ad88afd1b7e30b5a716855a4fe29bb2a",
+    "declaredSource": {
+      "url": "https://archive.org/details/ugetsumonogatari0000unse",
+      "copiedOn": "2026-11-22",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-22",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1"
+    ],
+    "french": "Depuis que le gardien de la barrière d'Ōsaka m'avait laissé passer, je n'avais pu me retenir de m'arrêter devant les feuillages d'automne des montagnes ; la baie de Narumi où les pluviers impriment leurs pas, la fumée de la haute cime du Fuji, la plaine d'Ukishima, la barrière de Kiyomi, les grèves d'Ōiso et de Koiso, la lande de Musashino où s'épanouit le grémil pourpre, le paysage paisible de Shiogama au matin, les huttes de chaume des pêcheurs de Kisakata, le pont de bateaux de Sano, les passerelles suspendues du Kiso : il n'était aucun lieu où mon cœur ne se fût attardé ; et, désirant voir…",
+    "original": "あふ坂の關守にゆるされてより、秋こし山の黄葉みすごしがたく、濱千鳥の跡ふみつくる鳴海がた、不盡の高嶺の煙、浮島がはら、清見が關、大磯小磯の浦々、むらさき艶ふ武藏野の原、鹽竈の和ぎたる朝げしき、象潟の蜑が苫屋、佐野の舟梁、木曾の棧橋、心のとどまらぬかたぞなきに、猶西の國の歌枕見まほしとて、仁安三年の秋は、葭がちる難波を經て、須磨明石の浦ふく風を身にしめつも、行く行く讃岐の眞尾坂の林といふに、しばらく笻を植む。",
+    "length": 600,
+    "truncated": true
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00005.s4",
+      "p00005.s5",
+      "p00005.s6"
+    ],
+    "french": "« Mon long discours de cette nuit a bien troublé ton sommeil », dit-il, et il parut se lever pour s'en aller, mais il s'effaça et disparut. Sanai, repensant longuement aux événements de toute la nuit et méditant ce vers, saisit à peu près le sens des mots « le peuple rentre en ses foyers », et y accorda une foi profonde. Vraiment, l'herbe de bon augure avait dit vrai !",
+    "original": "こよひの長談まことに君が眠をさまたぐと、起きてゆくやうなりしが、かき消えて見えずなりにけり。左内つらつら夜もすがらの事をおもひて、かの句を案ずるに、百姓家に歸るの句、粗其の意を得て、ふかくここに信を發す。まことに瑞草の瑞あるかな。",
+    "length": 371,
+    "truncated": false
+  }
+}

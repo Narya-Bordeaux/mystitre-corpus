@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "contes-de-pluie-et-de-lune",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "a2b26ecf9b0fe08c0830db6883f4a122ad88afd1b7e30b5a716855a4fe29bb2a",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "あふ坂の關守にゆるされてより、秋こし山の黄葉みすごしがたく、濱千鳥の跡ふみつくる鳴海がた、不盡の高嶺の煙、浮島がはら、清見が關、大磯小磯の浦々、むらさき艶ふ武藏野の原、鹽竈の和ぎたる朝げしき、象潟の蜑が苫屋、佐野の舟梁、木曾の棧橋、心のとどまらぬかたぞなきに、猶西の國の歌枕見まほしとて、仁安三年の秋は、葭がちる難波を經て、須磨明石の浦ふく風を身にしめつも、行く行く讃岐の眞尾坂の林といふに、しばらく笻を植む。",
+      "translation": "Depuis que le gardien de la barrière d'Ōsaka m'avait laissé passer, je n'avais pu me retenir de m'arrêter devant les feuillages d'automne des montagnes ; la baie de Narumi où les pluviers impriment leurs pas, la fumée de la haute cime du Fuji, la plaine d'Ukishima, la barrière de Kiyomi, les grèves d'Ōiso et de Koiso, la lande de Musashino où s'épanouit le grémil pourpre, le paysage paisible de Shiogama au matin, les huttes de chaume des pêcheurs de Kisakata, le pont de bateaux de Sano, les passerelles suspendues du Kiso : il n'était aucun lieu où mon cœur ne se fût attardé ; et, désirant voir encore les sites chantés par les poètes des provinces de l'Ouest, à l'automne de la troisième année de Nin'an, je passai par Naniwa où s'éparpillent les roseaux, je laissai le vent des grèves de Suma et d'Akashi me pénétrer jusqu'à l'âme, et, cheminant toujours, je posai quelque temps mon bâton dans un lieu nommé la forêt de Mionosaka, en Sanuki."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "草枕はるけき旅路の勞にもあらで、觀念修行の便せし庵なりけり。",
+      "translation": "Ce n'était point pour me délasser des fatigues d'un long voyage, l'herbe pour oreiller, mais un ermitage où je m'adonnais à la contemplation et aux exercices de la Voie."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "秀吉の志大なるも、はじめより天地に滿つるにもあらず。",
+      "translation": "Si grande que soit l'ambition de Hideyoshi, elle n'emplissait pas dès l'origine le ciel et la terre."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s9",
+      "original": "されば、儉約と卑吝の境よくわきまへて、務むべき物にこそ。",
+      "translation": "Il faut donc bien discerner la frontière entre l'épargne et l'avarice, et s'appliquer à la tenir."
+    },
+    {
+      "id": "p00003.s10",
+      "original": "今豐臣の政久しからずとも、萬民にぎははしく、戸々に千秋樂を唱はむ事ちかきにあり。",
+      "translation": "Même si le gouvernement des Toyotomi ne doit pas durer, le jour est proche où tout le peuple vivra dans l'abondance et où chaque foyer chantera le chant des mille automnes."
+    },
+    {
+      "id": "p00003.s11",
+      "original": "君が望にまかすべしとて、八字の句を誦ふ、其の詞にいはく、\n堯蓂日杲　百姓歸家。",
+      "translation": "« Qu'il en soit selon ton souhait », dit-il, et il récita un vers de huit caractères, dont voici les mots :\n堯蓂日杲　百姓歸家。"
+    },
+    {
+      "id": "p00005.s1",
+      "original": "數言興盡きて遠寺の鐘五更を告ぐる。",
+      "translation": "Ces quelques paroles dites, l'entrain retombé, la cloche d'un temple lointain sonna la cinquième veille."
+    },
+    {
+      "id": "p00005.s2",
+      "original": "夜既に曙けぬ。",
+      "translation": "La nuit avait déjà fait place à l'aube."
+    },
+    {
+      "id": "p00005.s3",
+      "original": "別れを給ふべし。",
+      "translation": "Il était temps de prendre congé."
+    },
+    {
+      "id": "p00005.s4",
+      "original": "こよひの長談まことに君が眠をさまたぐと、起きてゆくやうなりしが、かき消えて見えずなりにけり。",
+      "translation": "« Mon long discours de cette nuit a bien troublé ton sommeil », dit-il, et il parut se lever pour s'en aller, mais il s'effaça et disparut."
+    },
+    {
+      "id": "p00005.s5",
+      "original": "左内つらつら夜もすがらの事をおもひて、かの句を案ずるに、百姓家に歸るの句、粗其の意を得て、ふかくここに信を發す。",
+      "translation": "Sanai, repensant longuement aux événements de toute la nuit et méditant ce vers, saisit à peu près le sens des mots « le peuple rentre en ses foyers », et y accorda une foi profonde."
+    },
+    {
+      "id": "p00005.s6",
+      "original": "まことに瑞草の瑞あるかな。",
+      "translation": "Vraiment, l'herbe de bon augure avait dit vrai !"
+    }
+  ]
+}
