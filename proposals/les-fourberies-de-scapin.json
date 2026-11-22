@@ -24,8 +24,11 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "ce3adf0903467502c82aca241c6fbbb26c6948d8472e39e04adcf9ed6cd502bd"
   },
-  "titleMasks": [],
-  "createdOn": "2026-11-17",
+  "titleMasks": [
+    "Scapin",
+    "SCAPIN"
+  ],
+  "createdOn": "2026-11-22",
   "opening": {
     "sentenceIds": [
       "p00004.s1",
@@ -49,7 +52,7 @@
       "p00512.s1",
       "p00513.s1"
     ],
-    "french": "SCAPIN. — Voilà mes foiblesses qui me reprennent.\nARGANTE. — Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.\nGÉRONTE. — Soit.\nARGANTE. — Allons souper ensemble, pour mieux goûter notre plaisir.\nSCAPIN. — Et moi, qu’on me porte au bout de la table, en attendant que je meure.",
+    "french": "[TITRE]. — Voilà mes foiblesses qui me reprennent.\nARGANTE. — Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.\nGÉRONTE. — Soit.\nARGANTE. — Allons souper ensemble, pour mieux goûter notre plaisir.\n[TITRE]. — Et moi, qu’on me porte au bout de la table, en attendant que je meure.",
     "original": "SCAPIN. — Voilà mes foiblesses qui me reprennent.\nARGANTE. — Seigneur Géronte, en faveur de notre joie, il faut lui pardonner sans condition.\nGÉRONTE. — Soit.\nARGANTE. — Allons souper ensemble, pour mieux goûter notre plaisir.\nSCAPIN. — Et moi, qu’on me porte au bout de la table, en attendant que je meure.",
     "length": 307,
     "truncated": false

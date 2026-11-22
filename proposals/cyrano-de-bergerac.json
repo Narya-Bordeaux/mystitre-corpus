@@ -20,7 +20,10 @@
     "cleanerVersion": 1,
     "cleanTextSha256": "6cf0de9ce947c62921f6a4235041bb66a87be33aa112644da312c2c54a672ce4"
   },
-  "titleMasks": [],
+  "titleMasks": [
+    "Cyrano",
+    "CYRANO"
+  ],
   "textCorrections": [
     {
       "kind": "exclude",
@@ -55,7 +58,7 @@
     "p03976 exclu, SANS doublon ailleurs dans l'œuvre : « , rouvre les yeux, la reconnaît et dit en souriant. »",
     "p00044 exclu, SANS doublon ailleurs dans l'œuvre : « , au deuxième. »"
   ],
-  "createdOn": "2026-11-17",
+  "createdOn": "2026-11-22",
   "opening": {
     "sentenceIds": [
       "p00035.s1",
@@ -81,7 +84,7 @@
       "p03975.s1",
       "p03977.s1"
     ],
-    "french": "CYRANO. — Oui, vous m’arrachez tout, le laurier et la rose !\nArrachez ! Il y a malgré vous quelque chose\nQue j’emporte, et ce soir, quand j’entrerai chez Dieu,\nMon salut balaiera largement le seuil bleu,\nQuelque chose que sans un pli, sans une tache,\nJ’emporte malgré vous,\net c’est…\nROXANE. — C’est ?…\nCYRANO. — Mon panache.",
+    "french": "[TITRE]. — Oui, vous m’arrachez tout, le laurier et la rose !\nArrachez ! Il y a malgré vous quelque chose\nQue j’emporte, et ce soir, quand j’entrerai chez Dieu,\nMon salut balaiera largement le seuil bleu,\nQuelque chose que sans un pli, sans une tache,\nJ’emporte malgré vous,\net c’est…\nROXANE. — C’est ?…\n[TITRE]. — Mon panache.",
     "original": "CYRANO. — Oui, vous m’arrachez tout, le laurier et la rose !\nArrachez ! Il y a malgré vous quelque chose\nQue j’emporte, et ce soir, quand j’entrerai chez Dieu,\nMon salut balaiera largement le seuil bleu,\nQuelque chose que sans un pli, sans une tache,\nJ’emporte malgré vous,\net c’est…\nROXANE. — C’est ?…\nCYRANO. — Mon panache.",
     "length": 325,
     "truncated": false
