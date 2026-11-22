@@ -1,0 +1,52 @@
+{
+  "formatVersion": 1,
+  "bookId": "epopee-de-gilgamesh",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "e29aa15e3a6e9f2e30ef70aa8fd036b8cefd46d848bae225087d0b73ae3fd758",
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise de R. Campbell Thompson (1928), à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "He who (the heart of) all matters hath proven let him ⌜teach⌝ the nation,\n⌜He who all⌝ knowledge possesseth, therein shall he ⌜school⌝ all the people,\n⌜He shall his wisdom impart (?)⌝ and (so) shall they ⌜share it⌝ together.",
+      "translation": "Celui qui a sondé le cœur de toutes choses, qu'il instruise la nation ;\nCelui qui possède tout savoir, qu'il en enseigne tout le peuple ;\nIl leur transmettra sa sagesse, et tous ensemble la partageront."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "⌜Gilgamish(?)⌝—he was the ⌜Master⌝ of wisdom, with ⌜knowledge⌝ of all things,\nHe 'twas discovered the secret concealed …",
+      "translation": "Gilgamesh — il était le maître de la sagesse et connaissait toutes choses ;\nC'est lui qui découvrit le secret caché…"
+    },
+    {
+      "id": "p00001.s3",
+      "original": "(Aye), handed down the tradition relating to (things) prediluvian,\nWent on a journey afar, (all) aweary and ⌜worn with his toiling(?)⌝,\n⌜Graved⌝ on a table of stone all the travail.",
+      "translation": "Il transmit la tradition des temps d'avant le Déluge,\nPartit pour un lointain voyage, harassé, épuisé de peine,\nEt grava sur une stèle de pierre toutes ses épreuves."
+    },
+    {
+      "id": "p00003.s1",
+      "original": "Over his cheeks flow'd his tears: to the boatman Ur-Shanabi ⌜spake he(?)⌝\n\"(Pr'ythee), ⌜for⌝ whom have toiléd mine arms, O Ur-Shanabi, (tell me),\n(Pr'ythee), for whom hath my heart's blood been spent? (yea), not for mine own self,\nHave I the guerdon achieved; (no), 'tis for an earth-lion (only)\nHave I the guerdon secured—(and) now at the fortieth hour\n(Such an) one reiveth (it)—O, when I open'd the sluice and …ed the attachment,\n(Aye), I noted the sign (?) which to me was vouchsafed as a warning,\nWould I had turn'd and abandon'd the boat at the marge (of the ocean)!\"",
+      "translation": "Sur ses joues coulèrent ses larmes ; au batelier Urshanabi il dit :\n« Pour qui, Urshanabi, mes bras ont-ils peiné, dis-moi ?\nPour qui le sang de mon cœur s'est-il dépensé ? Ce n'est pas pour moi-même\nQue j'ai obtenu la récompense ; c'est pour le lion de la terre seulement\nQue j'ai gagné la récompense, et voici qu'à la quarantième heure\nUn tel être me la ravit. Ah ! quand j'ouvris l'écluse et … l'attache,\nJ'ai bien vu le signe qui m'était donné en avertissement :\nQue n'ai-je rebroussé chemin, laissant la barque au rivage de l'océan ! »"
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s1",
+      "original": "Over his cheeks flow'd his tears: to the boatman Ur-Shanabi ⌜spake he(?)⌝\n\"(Pr'ythee), ⌜for⌝ whom have toiléd mine arms, O Ur-Shanabi, (tell me),\n(Pr'ythee), for whom hath my heart's blood been spent? (yea), not for mine own self,\nHave I the guerdon achieved; (no), 'tis for an earth-lion (only)\nHave I the guerdon secured—(and) now at the fortieth hour\n(Such an) one reiveth (it)—O, when I open'd the sluice and …ed the attachment,\n(Aye), I noted the sign (?) which to me was vouchsafed as a warning,\nWould I had turn'd and abandon'd the boat at the marge (of the ocean)!\"",
+      "translation": "Sur ses joues coulèrent ses larmes ; au batelier Urshanabi il dit :\n« Pour qui, Urshanabi, mes bras ont-ils peiné, dis-moi ?\nPour qui le sang de mon cœur s'est-il dépensé ? Ce n'est pas pour moi-même\nQue j'ai obtenu la récompense ; c'est pour le lion de la terre seulement\nQue j'ai gagné la récompense, et voici qu'à la quarantième heure\nUn tel être me la ravit. Ah ! quand j'ouvris l'écluse et … l'attache,\nJ'ai bien vu le signe qui m'était donné en avertissement :\nQue n'ai-je rebroussé chemin, laissant la barque au rivage de l'océan ! »"
+    },
+    {
+      "id": "p00003.s2",
+      "original": "Broke they their fast at the fortieth hour: at the sixtieth rested,\n(So in the end) to the middle of Erech, the high-wall'd, arrivéd.",
+      "translation": "À la quarantième heure ils rompirent le jeûne, à la soixantième ils firent halte,\nEt parvinrent enfin au cœur d'Uruk aux hauts remparts."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "Gilgamish spake to him, (yea), to the boatman Ur-Shanabi (this wise):\n\"Do thou, Ur-Shanabi, go up and walk on the ramparts of Erech,\nLook on its base, and take heed of its bricks, if its bricks be not kiln-burnt,\n(Aye), and its ground-work be not bitumen, e'en seven courses,\nOne shar the city, (and) one shar the gardens, and one shar the …(?)",
+      "translation": "Gilgamesh parla au batelier Urshanabi en ces termes :\n« Urshanabi, monte et marche sur les remparts d'Uruk,\nRegarde la base, observe les briques : ne sont-elles pas cuites au four ?\nSes fondations ne sont-elles pas de bitume, sur sept assises ?\nUn sar la ville, un sar les jardins, un sar les …"
+    },
+    {
+      "id": "p00004.s2",
+      "original": "… the Temple of Ishtar, amass'd I three shar and …(?) of Erech.",
+      "translation": "… le temple d'Ishtar : j'ai rassemblé trois sar et … d'Uruk. »"
+    }
+  ]
+}

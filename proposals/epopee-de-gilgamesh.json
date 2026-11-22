@@ -1,0 +1,96 @@
+{
+  "formatVersion": 1,
+  "bookId": "epopee-de-gilgamesh",
+  "title": "L’Épopée de Gilgamesh",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise de R. Campbell Thompson (1928), à relire",
+  "source": {
+    "host": "declared",
+    "edition": "The Epic of Gilgamish, traduction anglaise en hexamètres de R. Campbell Thompson (Londres, Luzac & Co., 1928 ; Thompson mort en 1941), numérisation Google, Internet Archive ; version assyrienne en douze tablettes, fin prise à la tablette XI (la XIIe est un appendice) ; tablette I, col. I, v. 1-10 (p. 9) et tablette XI, v. 293-307 (p. 56) recopiés par l'agent depuis le PDF, avec l'accord de l'utilisateur ; crochets de restitution ⌜ ⌝ et lacunes gardés, numéros de vers, appels de notes et intertitres de Thompson (« The Argument », « The Pride of the Architect ») non recopiés",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "e29aa15e3a6e9f2e30ef70aa8fd036b8cefd46d848bae225087d0b73ae3fd758",
+    "declaredSource": {
+      "url": "https://archive.org/details/thompson-1928-gilgamesh",
+      "copiedOn": "2026-11-22",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [
+    "Gilgamesh"
+  ],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "concealed . . . . . . . . . .",
+      "replace": "concealed …",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "and . . .ed the",
+      "replace": "and …ed the",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "the . . . .(?)",
+      "replace": "the …(?)",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": ". . . . the Temple",
+      "replace": "… the Temple",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "and . . .(?) of Erech",
+      "replace": "and …(?) of Erech",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    }
+  ],
+  "reviewFlags": [
+    "p00001 : remplacement ample (19 caractères changés)"
+  ],
+  "createdOn": "2026-11-22",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00001.s2"
+    ],
+    "french": "Celui qui a sondé le cœur de toutes choses, qu'il instruise la nation ;\nCelui qui possède tout savoir, qu'il en enseigne tout le peuple ;\nIl leur transmettra sa sagesse, et tous ensemble la partageront.\n[TITRE] — il était le maître de la sagesse et connaissait toutes choses ;\nC'est lui qui découvrit le secret caché…",
+    "original": "He who (the heart of) all matters hath proven let him ⌜teach⌝ the nation,\n⌜He who all⌝ knowledge possesseth, therein shall he ⌜school⌝ all the people,\n⌜He shall his wisdom impart (?)⌝ and (so) shall they ⌜share it⌝ together.\n⌜Gilgamish(?)⌝—he was the ⌜Master⌝ of wisdom, with ⌜knowledge⌝ of all things,\nHe 'twas discovered the secret concealed …",
+    "length": 319,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00004.s1",
+      "p00004.s2"
+    ],
+    "french": "[TITRE] parla au batelier Urshanabi en ces termes :\n« Urshanabi, monte et marche sur les remparts d'Uruk,\nRegarde la base, observe les briques : ne sont-elles pas cuites au four ?\nSes fondations ne sont-elles pas de bitume, sur sept assises ?\nUn sar la ville, un sar les jardins, un sar les …\n… le temple d'Ishtar : j'ai rassemblé trois sar et … d'Uruk. »",
+    "original": "Gilgamish spake to him, (yea), to the boatman Ur-Shanabi (this wise):\n\"Do thou, Ur-Shanabi, go up and walk on the ramparts of Erech,\nLook on its base, and take heed of its bricks, if its bricks be not kiln-burnt,\n(Aye), and its ground-work be not bitumen, e'en seven courses,\nOne shar the city, (and) one shar the gardens, and one shar the …(?)\n… the Temple of Ishtar, amass'd I three shar and …(?) of Erech.",
+    "length": 357,
+    "truncated": false
+  }
+}

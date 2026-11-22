@@ -1,0 +1,82 @@
+{
+  "formatVersion": 1,
+  "bookId": "epopee-de-gilgamesh",
+  "title": "L’Épopée de Gilgamesh",
+  "host": "declared",
+  "sourceLanguage": "en",
+  "edition": "The Epic of Gilgamish, traduction anglaise en hexamètres de R. Campbell Thompson (Londres, Luzac & Co., 1928 ; Thompson mort en 1941), numérisation Google, Internet Archive ; version assyrienne en douze tablettes, fin prise à la tablette XI (la XIIe est un appendice) ; tablette I, col. I, v. 1-10 (p. 9) et tablette XI, v. 293-307 (p. 56) recopiés par l'agent depuis le PDF, avec l'accord de l'utilisateur ; crochets de restitution ⌜ ⌝ et lacunes gardés, numéros de vers, appels de notes et intertitres de Thompson (« The Argument », « The Pride of the Architect ») non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "e29aa15e3a6e9f2e30ef70aa8fd036b8cefd46d848bae225087d0b73ae3fd758",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "He who (the heart of) all matters hath proven let him ⌜teach"
+  },
+  "bodyEnd": {
+    "id": "p00004",
+    "textPrefix": "Gilgamish spake to him, (yea), to the boatman Ur-Shanabi (th"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Source déclarée : tablette I, col. I, v. 1-10 ; fin de la tablette XI (v. 293-307) ; tablette XII (appendice) exclue"
+  ],
+  "titleMasks": [
+    "Gilgamesh"
+  ],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "replace",
+      "paragraphId": "p00001",
+      "find": "concealed . . . . . . . . . .",
+      "replace": "concealed …",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00003",
+      "find": "and . . .ed the",
+      "replace": "and …ed the",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "the . . . .(?)",
+      "replace": "the …(?)",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": ". . . . the Temple",
+      "replace": "… the Temple",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    },
+    {
+      "kind": "replace",
+      "paragraphId": "p00004",
+      "find": "and . . .(?) of Erech",
+      "replace": "and …(?) of Erech",
+      "reason": "Lacune notée par des points espacés, prise à tort pour des fins de phrase : rendue par des points de suspension"
+    }
+  ],
+  "declaredSource": {
+    "url": "https://archive.org/details/thompson-1928-gilgamesh",
+    "copiedOn": "2026-11-22",
+    "declaredBy": "utilisateur"
+  }
+}

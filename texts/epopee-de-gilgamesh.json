@@ -1,0 +1,60 @@
+{
+  "formatVersion": 1,
+  "bookId": "epopee-de-gilgamesh",
+  "sha256": "e29aa15e3a6e9f2e30ef70aa8fd036b8cefd46d848bae225087d0b73ae3fd758",
+  "paragraphs": [
+    {
+      "id": "p00001",
+      "page": 0,
+      "kind": "prose",
+      "lines": [
+        "He who (the heart of) all matters hath proven let him ⌜teach⌝ the nation,",
+        "⌜He who all⌝ knowledge possesseth, therein shall he ⌜school⌝ all the people,",
+        "⌜He shall his wisdom impart (?)⌝ and (so) shall they ⌜share it⌝ together.",
+        "⌜Gilgamish(?)⌝—he was the ⌜Master⌝ of wisdom, with ⌜knowledge⌝ of all things,",
+        "He 'twas discovered the secret concealed . . . . . . . . . .",
+        "(Aye), handed down the tradition relating to (things) prediluvian,",
+        "Went on a journey afar, (all) aweary and ⌜worn with his toiling(?)⌝,",
+        "⌜Graved⌝ on a table of stone all the travail."
+      ]
+    },
+    {
+      "id": "p00002",
+      "page": 1,
+      "kind": "heading",
+      "lines": [
+        "[…]"
+      ]
+    },
+    {
+      "id": "p00003",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Over his cheeks flow'd his tears: to the boatman Ur-Shanabi ⌜spake he(?)⌝",
+        "\"(Pr'ythee), ⌜for⌝ whom have toiléd mine arms, O Ur-Shanabi, (tell me),",
+        "(Pr'ythee), for whom hath my heart's blood been spent? (yea), not for mine own self,",
+        "Have I the guerdon achieved; (no), 'tis for an earth-lion (only)",
+        "Have I the guerdon secured—(and) now at the fortieth hour",
+        "(Such an) one reiveth (it)—O, when I open'd the sluice and . . .ed the attachment,",
+        "(Aye), I noted the sign (?) which to me was vouchsafed as a warning,",
+        "Would I had turn'd and abandon'd the boat at the marge (of the ocean)!\"",
+        "Broke they their fast at the fortieth hour: at the sixtieth rested,",
+        "(So in the end) to the middle of Erech, the high-wall'd, arrivéd."
+      ]
+    },
+    {
+      "id": "p00004",
+      "page": 1,
+      "kind": "prose",
+      "lines": [
+        "Gilgamish spake to him, (yea), to the boatman Ur-Shanabi (this wise):",
+        "\"Do thou, Ur-Shanabi, go up and walk on the ramparts of Erech,",
+        "Look on its base, and take heed of its bricks, if its bricks be not kiln-burnt,",
+        "(Aye), and its ground-work be not bitumen, e'en seven courses,",
+        "One shar the city, (and) one shar the gardens, and one shar the . . . .(?)",
+        ". . . . the Temple of Ishtar, amass'd I three shar and . . .(?) of Erech."
+      ]
+    }
+  ]
+}
