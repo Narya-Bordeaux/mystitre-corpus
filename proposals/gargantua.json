@@ -3,11 +3,11 @@
   "bookId": "gargantua",
   "title": "Gargantua",
   "textOrigin": {
-    "kind": "frenchOriginal",
-    "originalLanguage": "fr",
-    "label": "Texte original libre de droits"
+    "kind": "foreignOriginal",
+    "originalLanguage": "frm",
+    "label": "Traduction par nos soins à partir de l'original (frm)"
   },
-  "translatedBy": null,
+  "translatedBy": "Claude (agent), traduction du moyen français en français contemporain, à relire",
   "source": {
     "host": "fr.wikisource.org",
     "edition": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux), Gargantua ; texte en orthographe ancienne, complet",
@@ -45,16 +45,15 @@
     "p00002 : remplacement ample (594 caractères changés)",
     "p00017 : remplacement ample (260 caractères changés)"
   ],
-  "createdOn": "2026-11-17",
+  "createdOn": "2026-11-22",
   "opening": {
     "sentenceIds": [
-      "p00002.s1",
-      "p00002.s2"
+      "p00002.s1"
     ],
-    "french": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes. Silenes estoient iadis petites boites telles que voyons de present es bouticques des apothecaires, pinctes au dessus de figures ioyeuses & friuoles, comme de Harpies, Satyres, oysons bridez, lieures cornuz, canes bastees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaisir…",
-    "original": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes. Silenes estoient iadis petites boites telles que voyons de present es bouticques des apothecaires, pinctes au dessus de figures ioyeuses & friuoles, comme de Harpies, Satyres, oysons bridez, lieures cornuz, canes bastees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaisir pour exciter le monde à rire, quel fut Silene, maiſtre du bon Bacchus : mais au dedans l’on reſeruoit les fines drogues comme Baulme, Ambre gris, Amomon, Muſc, ziuette, pierreries : & aultres choſes precieuſes.",
-    "length": 596,
-    "truncated": true
+    "french": "Buveurs très illustres, et vous, vérolés très précieux (car c'est à vous, et non à d'autres, que sont dédiés mes écrits), Alcibiade, dans le dialogue de Platon intitulé Le Banquet, faisant l'éloge de son maître Socrate, sans conteste le prince des philosophes, dit entre autres choses qu'il ressemble aux Silènes.",
+    "original": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes.",
+    "length": 313,
+    "truncated": false
   },
   "closing": {
     "sentenceIds": [
@@ -64,9 +63,9 @@
       "p00017.s16",
       "p00017.s17"
     ],
-    "french": "Les eaulx sont les sueurs : les chordes des raquettes sont faictes de boyaux de moutons ou de cheures. La machine ronde est la pelote ou l’esteuf. Apres le ieu on se refraischit deuant vn clair feu & change l’on de chemise. Et voluntiers bancquete l’on, mais plus ioyeusement ceulx qui ont guaingné. Et grand chere.",
+    "french": "Les eaux sont les sueurs ; les cordes des raquettes sont faites de boyaux de moutons ou de chèvres. La machine ronde est la pelote, autrement dit la balle. Après le jeu, on se rafraîchit devant un bon feu et l'on change de chemise. Et l'on banquette volontiers, mais plus joyeusement ceux qui ont gagné. Et grande chère !",
     "original": "Les eaulx sont les sueurs : les chordes des raquettes sont faictes de boyaux de moutons ou de cheures. La machine ronde est la pelote ou l’esteuf. Apres le ieu on se refraischit deuant vn clair feu & change l’on de chemise. Et voluntiers bancquete l’on, mais plus ioyeusement ceulx qui ont guaingné. Et grand chere.",
-    "length": 315,
+    "length": 321,
     "truncated": false
   }
 }

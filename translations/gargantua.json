@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "gargantua",
+  "sourceLanguage": "fr",
+  "cleanTextSha256": "dff1edb580daf17579dc71b530f7472db69c361f4e849cb8c782bda320284685",
+  "translatedBy": "Claude (agent), traduction du moyen français en français contemporain, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "Beuveurs tresillustres, & vous Verolez tresprecieux (car à vous non à aultres sont dediez mes escriptz) Alcibiades ou dialoge de Platon, intitulé Le bancquet, louant son precepteur Socrates, sans controuerse prince des philosophes, entre aultres parolles le dict estre semblable es Silenes.",
+      "translation": "Buveurs très illustres, et vous, vérolés très précieux (car c'est à vous, et non à d'autres, que sont dédiés mes écrits), Alcibiade, dans le dialogue de Platon intitulé Le Banquet, faisant l'éloge de son maître Socrate, sans conteste le prince des philosophes, dit entre autres choses qu'il ressemble aux Silènes."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Silenes estoient iadis petites boites telles que voyons de present es bouticques des apothecaires, pinctes au dessus de figures ioyeuses & friuoles, comme de Harpies, Satyres, oysons bridez, lieures cornuz, canes bastees, boucqs volans, cerfz limonniers, & aultres telles pinctures contrefaictes à plaisir pour exciter le monde à rire, quel fut Silene, maiſtre du bon Bacchus : mais au dedans l’on reſeruoit les fines drogues comme Baulme, Ambre gris, Amomon, Muſc, ziuette, pierreries : & aultres choſes precieuſes.",
+      "translation": "Les Silènes étaient jadis de petites boîtes, comme celles que nous voyons aujourd'hui dans les boutiques des apothicaires, peintes au-dessus de figures joyeuses et frivoles, comme des harpies, des satyres, des oisons bridés, des lièvres cornus, des canes bâtées, des boucs volants, des cerfs attelés et autres peintures imaginées à plaisir pour faire rire le monde, tel que fut Silène, maître du bon Bacchus ; mais à l'intérieur on gardait les drogues fines, comme le baume, l'ambre gris, l'amome, le musc, la civette, les pierreries et autres choses précieuses."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00017.s9",
+      "original": "Et y rauaſſez, vous & tout le monde, ainſy que vouldrez : de ma part, ie n’y penſe aultre ſens enclous qu’vne deſcription du Ieu de Paulme ſoubz obſcures parolles.",
+      "translation": "Et rêvassez-y, vous et tout le monde, comme il vous plaira : pour ma part, je n'y vois pas d'autre sens caché qu'une description du jeu de paume en termes obscurs."
+    },
+    {
+      "id": "p00017.s10",
+      "original": "Les ſuborneurs de gens ſont les faiſeurs de parties, qui ſont ordinairement amys.",
+      "translation": "Les suborneurs de gens sont ceux qui font les parties, et qui d'ordinaire sont amis."
+    },
+    {
+      "id": "p00017.s11",
+      "original": "Et apres les deux chaſſes faictes, ſont hors le ieu celluy qui y eſtoyt & l’aultre y entre.",
+      "translation": "Et après les deux chasses faites, celui qui y était sort du jeu, et l'autre y entre."
+    },
+    {
+      "id": "p00017.s12",
+      "original": "On croyt le premier qui dict ſi l’eſteuf eſt ſus ou ſoubs la chorde.",
+      "translation": "On croit le premier qui dit si la balle est au-dessus ou au-dessous de la corde."
+    },
+    {
+      "id": "p00017.s13",
+      "original": "Les eaulx sont les sueurs : les chordes des raquettes sont faictes de boyaux de moutons ou de cheures.",
+      "translation": "Les eaux sont les sueurs ; les cordes des raquettes sont faites de boyaux de moutons ou de chèvres."
+    },
+    {
+      "id": "p00017.s14",
+      "original": "La machine ronde est la pelote ou l’esteuf.",
+      "translation": "La machine ronde est la pelote, autrement dit la balle."
+    },
+    {
+      "id": "p00017.s15",
+      "original": "Apres le ieu on se refraischit deuant vn clair feu & change l’on de chemise.",
+      "translation": "Après le jeu, on se rafraîchit devant un bon feu et l'on change de chemise."
+    },
+    {
+      "id": "p00017.s16",
+      "original": "Et voluntiers bancquete l’on, mais plus ioyeusement ceulx qui ont guaingné.",
+      "translation": "Et l'on banquette volontiers, mais plus joyeusement ceux qui ont gagné."
+    },
+    {
+      "id": "p00017.s17",
+      "original": "Et grand chere.",
+      "translation": "Et grande chère !"
+    }
+  ]
+}

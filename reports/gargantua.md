@@ -12,3 +12,16 @@
 - **Écart avec l'ancienne citation** : l'ancienne ouverture (« Grandgousier était bon buveur… », chapitre 3) et la clôture (« buvez toujours… », chapitre 5) ne bornaient pas le livre ; remplacées conformément à l'audit.
 - **Points douteux** : orthographe ancienne et lettrine « Beuveurs » (graphie de 1542 à vérifier) ; la première phrase est très longue et coupée à 596 caractères ; aucun masque de titre nécessaire (le mot « Gargantua » n'apparaît pas dans les extraits).
 - **Hésitation** : le choix entre édition modernisée mais abrégée et édition complète mais ancienne ; j'ai pris la complète.
+
+## Reprise en français contemporain (22/11/2026)
+
+- **Décision de l'utilisateur** : comme pour *Yvain* (`fro`) et *Les Cent Nouvelles nouvelles* (`frm`), le texte de Rabelais est traité comme un original en moyen français (`foreignOriginal`, `frm`) et traduit en français contemporain. La langue d'origine est déclarée par la nouvelle commande `set-original-language gargantua frm` ; pour *Yvain*, ce changement avait été fait à la main dans la fiche de source.
+- Édition, bornes et corrections inchangées. Seules la traduction et les extraits changent.
+- **Extraits** :
+  - ouverture : 313 caractères, 1 phrase (« Buveurs très illustres, et vous, vérolés très précieux… ») ;
+  - clôture : 321 caractères, 5 phrases (jusqu'à « Et grande chère ! »).
+- **Mention affichée** : « Traduit du moyen français pour Mystitre ».
+- **Choix de traduction, à relire** :
+  - noms et mots d'époque gardés quand ils ont un équivalent courant (Silènes, harpies, amome, civette, jeu de paume, chasses) ;
+  - « grand chere » est rendu par « grande chère », avec un point d'exclamation qui marque le mot de la fin ;
+  - « l'esteuf » est rendu par « la balle », précédé de « la pelote, autrement dit » pour garder le doublet de Rabelais.
