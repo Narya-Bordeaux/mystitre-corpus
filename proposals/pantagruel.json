@@ -3,11 +3,11 @@
   "bookId": "pantagruel",
   "title": "Pantagruel",
   "textOrigin": {
-    "kind": "frenchOriginal",
-    "originalLanguage": "fr",
-    "label": "Texte original libre de droits"
+    "kind": "foreignOriginal",
+    "originalLanguage": "frm",
+    "label": "Traduction par nos soins à partir de l'original (frm)"
   },
-  "translatedBy": null,
+  "translatedBy": "Claude (agent), traduction du moyen français en français contemporain, à relire",
   "source": {
     "host": "fr.wikisource.org",
     "edition": "Les Œuvres de François Rabelais (Éditions Marty-Laveaux), Pantagruel ; texte en orthographe ancienne, complet",
@@ -47,14 +47,14 @@
     "p00002 : remplacement ample (939 caractères changés)",
     "p00006 : remplacement ample (812 caractères changés)"
   ],
-  "createdOn": "2026-11-17",
+  "createdOn": "2026-11-22",
   "opening": {
     "sentenceIds": [
       "p00002.s1"
     ],
-    "french": "Tresillustres & Treschevaleureux champions, gentilz hommes & aultres, qui voluntiers vous adonnez à toutes gentillesses & honnestetez, vous avez na gueres veu, leu, & sceu les grandes & inestimables Chronicques de l’enorme geant Gargantua : & comme vrays fideles les avez creues gualantement, & y avez maintefoys passé vostre temps avecques les honorables Dames & Damoyselles, leur en faisans beaulx et longs narrez, alors que estiez hors de propos : dont estez bien dignes de grande louange, & memoire sempiternelle.",
+    "french": "Très illustres et très chevaleureux champions, gentilshommes et autres, qui vous adonnez volontiers à toutes gentillesses et honnêtetés, vous avez naguère vu, lu et appris les grandes et inestimables Chroniques de l'énorme géant Gargantua, et, en vrais fidèles, vous y avez cru galamment, et vous y avez maintes fois passé votre temps avec les honorables dames et demoiselles, leur en faisant de beaux et longs récits quand vous étiez à court de propos : de quoi vous êtes bien dignes de grande louange et de mémoire éternelle.",
     "original": "Tresillustres & Treschevaleureux champions, gentilz hommes & aultres, qui voluntiers vous adonnez à toutes gentillesses & honnestetez, vous avez na gueres veu, leu, & sceu les grandes & inestimables Chronicques de l’enorme geant Gargantua : & comme vrays fideles les avez creues gualantement, & y avez maintefoys passé vostre temps avecques les honorables Dames & Damoyselles, leur en faisans beaulx et longs narrez, alors que estiez hors de propos : dont estez bien dignes de grande louange, & memoire sempiternelle.",
-    "length": 517,
+    "length": 527,
     "truncated": false
   },
   "closing": {
@@ -63,9 +63,9 @@
       "p00006.s5",
       "p00006.s6"
     ],
-    "french": "Ce que faisans semblent es coquins de village qui fougent & echarbottent la merde des petitz enfans en la saison des cerises & guignes pour trouuer les noyaulx, & iceulx vendre es drogueurs qui font l’huille de Maguelet. Iceulx fuyez, abhorrissez, et haissez autant que je foys et vous en trouverez bien sur ma foy. Et si desirez estre bons pantagruelistes (c’est à dire vivre en paix, joye, santé, faisans tousjours grande chere), ne vous fiez jamais en gens qui regardent par un partuys.",
+    "french": "Ce faisant, ils ressemblent aux gueux de village qui fouillent et grattent la merde des petits enfants à la saison des cerises et des guignes pour en trouver les noyaux et les vendre aux droguistes qui font l'huile de Maguelet. Fuyez-les, abhorrez-les et haïssez-les autant que je le fais, et vous vous en trouverez bien, sur ma foi. Et si vous désirez être de bons pantagruélistes (c'est-à-dire vivre en paix, joie, santé, faisant toujours grande chère), ne vous fiez jamais aux gens qui regardent par un trou.",
     "original": "Ce que faisans semblent es coquins de village qui fougent & echarbottent la merde des petitz enfans en la saison des cerises & guignes pour trouuer les noyaulx, & iceulx vendre es drogueurs qui font l’huille de Maguelet. Iceulx fuyez, abhorrissez, et haissez autant que je foys et vous en trouverez bien sur ma foy. Et si desirez estre bons pantagruelistes (c’est à dire vivre en paix, joye, santé, faisans tousjours grande chere), ne vous fiez jamais en gens qui regardent par un partuys.",
-    "length": 489,
+    "length": 511,
     "truncated": false
   }
 }

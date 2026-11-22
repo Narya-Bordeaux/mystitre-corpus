@@ -1,0 +1,42 @@
+{
+  "formatVersion": 1,
+  "bookId": "pantagruel",
+  "sourceLanguage": "fr",
+  "cleanTextSha256": "4c7c5c175b975ffcce15f2370893a03422f156313dd19b7b4e6af021034edecb",
+  "translatedBy": "Claude (agent), traduction du moyen français en français contemporain, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00002.s1",
+      "original": "Tresillustres & Treschevaleureux champions, gentilz hommes & aultres, qui voluntiers vous adonnez à toutes gentillesses & honnestetez, vous avez na gueres veu, leu, & sceu les grandes & inestimables Chronicques de l’enorme geant Gargantua : & comme vrays fideles les avez creues gualantement, & y avez maintefoys passé vostre temps avecques les honorables Dames & Damoyselles, leur en faisans beaulx et longs narrez, alors que estiez hors de propos : dont estez bien dignes de grande louange, & memoire sempiternelle.",
+      "translation": "Très illustres et très chevaleureux champions, gentilshommes et autres, qui vous adonnez volontiers à toutes gentillesses et honnêtetés, vous avez naguère vu, lu et appris les grandes et inestimables Chroniques de l'énorme géant Gargantua, et, en vrais fidèles, vous y avez cru galamment, et vous y avez maintes fois passé votre temps avec les honorables dames et demoiselles, leur en faisant de beaux et longs récits quand vous étiez à court de propos : de quoi vous êtes bien dignes de grande louange et de mémoire éternelle."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Et à la mienne volunté que chascun laissast sa propre besoigne, ne se souciast de son mestier & mist ses affaires propres en oubly, pour y vacquer entierement, sans que son esperit feust de ailleurs distraict ny empesché : iusques à ce que l’on les tint par cueur, affin que si d’adventure l’art de l’Imprimerie cessoit, ou en cas que tous liures perissent, on temps advenir un chascun les peust bien au net enseigner à ses enfans, & à ſes ſucceſſeurs & ſuruiuens bailler comme de main en main, ainſy que vne religieuſe Caballe.",
+      "translation": "Et je voudrais que chacun laissât sa propre besogne, ne se souciât plus de son métier et mît ses affaires en oubli pour s'y consacrer entièrement, sans que son esprit fût distrait ni empêché par autre chose, jusqu'à ce qu'on les sût par cœur, afin que, si par aventure l'art de l'imprimerie venait à cesser, ou si tous les livres périssaient, chacun pût à l'avenir les enseigner fidèlement à ses enfants et les transmettre à ses successeurs et survivants comme de main en main, telle une religieuse cabale."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00006.s3",
+      "original": "Quant est de leur estude, elle est toute consummee à la lecture de liures Pantagruelicques : non tant pour passer temps ioyeusement, que pour nuyre à quelcun meschantement, sçauoir est, articulant, monorticulant, torticulant, culletant, couilletant & diabliculant, c’est à dire callumniant.",
+      "translation": "Quant à leur étude, elle se consume tout entière à la lecture de livres pantagruéliques, non tant pour passer joyeusement le temps que pour nuire méchamment à quelqu'un, à savoir en articulant, monorticulant, torticulant, culletant, couilletant et diabliculant, c'est-à-dire en calomniant."
+    },
+    {
+      "id": "p00006.s4",
+      "original": "Ce que faisans semblent es coquins de village qui fougent & echarbottent la merde des petitz enfans en la saison des cerises & guignes pour trouuer les noyaulx, & iceulx vendre es drogueurs qui font l’huille de Maguelet.",
+      "translation": "Ce faisant, ils ressemblent aux gueux de village qui fouillent et grattent la merde des petits enfants à la saison des cerises et des guignes pour en trouver les noyaux et les vendre aux droguistes qui font l'huile de Maguelet."
+    },
+    {
+      "id": "p00006.s5",
+      "original": "Iceulx fuyez, abhorrissez, et haissez autant que je foys et vous en trouverez bien sur ma foy.",
+      "translation": "Fuyez-les, abhorrez-les et haïssez-les autant que je le fais, et vous vous en trouverez bien, sur ma foi."
+    },
+    {
+      "id": "p00006.s6",
+      "original": "Et si desirez estre bons pantagruelistes (c’est à dire vivre en paix, joye, santé, faisans tousjours grande chere), ne vous fiez jamais en gens qui regardent par un partuys.",
+      "translation": "Et si vous désirez être de bons pantagruélistes (c'est-à-dire vivre en paix, joie, santé, faisant toujours grande chère), ne vous fiez jamais aux gens qui regardent par un trou."
+    }
+  ]
+}
