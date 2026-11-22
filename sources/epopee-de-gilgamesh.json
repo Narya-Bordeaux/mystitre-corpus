@@ -27,7 +27,9 @@
   },
   "textOrigin": {
     "kind": "foreignOriginal",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "relayTranslator": "R. Campbell Thompson",
+    "relayTranslationYear": 1928
   },
   "registeredOn": "2026-11-22",
   "notes": [

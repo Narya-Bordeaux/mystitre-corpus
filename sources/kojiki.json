@@ -31,7 +31,9 @@
   },
   "textOrigin": {
     "kind": "foreignOriginal",
-    "originalLanguage": "en"
+    "originalLanguage": "en",
+    "relayTranslator": "Basil Hall Chamberlain",
+    "relayTranslationYear": 1882
   },
   "registeredOn": "2026-11-22",
   "notes": [

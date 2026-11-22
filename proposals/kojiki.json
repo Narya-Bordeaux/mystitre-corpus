@@ -5,7 +5,9 @@
   "textOrigin": {
     "kind": "foreignOriginal",
     "originalLanguage": "en",
-    "label": "Traduction par nos soins à partir de l'original (en)"
+    "relayTranslator": "Basil Hall Chamberlain",
+    "relayTranslationYear": 1882,
+    "label": "Traduction par nos soins d'après la traduction de Basil Hall Chamberlain, 1882 (en)"
   },
   "translatedBy": "Claude (agent), traduction sur la traduction anglaise de B. H. Chamberlain (1882), à relire",
   "source": {

@@ -5,7 +5,9 @@
   "textOrigin": {
     "kind": "foreignOriginal",
     "originalLanguage": "en",
-    "label": "Traduction par nos soins à partir de l'original (en)"
+    "relayTranslator": "R. Campbell Thompson",
+    "relayTranslationYear": 1928,
+    "label": "Traduction par nos soins d'après la traduction de R. Campbell Thompson, 1928 (en)"
   },
   "translatedBy": "Claude (agent), traduction sur la traduction anglaise de R. Campbell Thompson (1928), à relire",
   "source": {

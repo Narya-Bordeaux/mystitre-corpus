@@ -5,7 +5,9 @@
   "textOrigin": {
     "kind": "foreignOriginal",
     "originalLanguage": "en",
-    "label": "Traduction par nos soins à partir de l'original (en)"
+    "relayTranslator": "Kisari Mohan Ganguli",
+    "relayTranslationYear": null,
+    "label": "Traduction par nos soins d'après la traduction de Kisari Mohan Ganguli (en)"
   },
   "translatedBy": "Claude (agent), traduction sur la traduction anglaise de K. M. Ganguli (1883-1896), à relire",
   "source": {
