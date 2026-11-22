@@ -1,0 +1,43 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-decheance-dun-homme",
+  "title": "La Déchéance d'un homme",
+  "host": "declared",
+  "sourceLanguage": "ja",
+  "edition": "Ningen shikkaku (人間失格), texte d'Aozora Bunko (saisie Hosobuchi Mayumi, relecture Yamaki Mie, 1999, corrigé 2004) d'après l'édition Shinchō bunko (1952, 100e tirage révisé de 1985) ; repéré par l'utilisateur dans sa reproduction sur Internet Archive (ningen_shikkaku), texte copié par l'agent depuis Aozora Bunko ; début de la préface fictive (はしがき, titre non recopié) et fin de la postface fictive ; furigana non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "5bbe1d7776dcb9f8029c5cd8ba950873329bbab07c7d330b5e84b62fd6354738",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "私は、その男の写真を三葉、見たことがある。"
+  },
+  "bodyEnd": {
+    "id": "p00015",
+    "textPrefix": "「私たちの知っている葉ちゃんは、とても素直で、よく気がきいて、あれでお酒さえ飲まなければ、いいえ、飲んでも、……神様みた"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Préface et postface du narrateur fictif gardées (partie du roman) ; titres « はしがき » et « あとがき » non recopiés"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://www.aozora.gr.jp/cards/000035/files/301_14912.html",
+    "copiedOn": "2026-11-22",
+    "declaredBy": "utilisateur"
+  }
+}

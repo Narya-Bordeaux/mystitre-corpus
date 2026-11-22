@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-decheance-dun-homme",
+  "title": "La Déchéance d'un homme",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja",
+    "label": "Traduction par nos soins à partir de l'original (ja)"
+  },
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Ningen shikkaku (人間失格), texte d'Aozora Bunko (saisie Hosobuchi Mayumi, relecture Yamaki Mie, 1999, corrigé 2004) d'après l'édition Shinchō bunko (1952, 100e tirage révisé de 1985) ; repéré par l'utilisateur dans sa reproduction sur Internet Archive (ningen_shikkaku), texte copié par l'agent depuis Aozora Bunko ; début de la préface fictive (はしがき, titre non recopié) et fin de la postface fictive ; furigana non recopiés",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "5bbe1d7776dcb9f8029c5cd8ba950873329bbab07c7d330b5e84b62fd6354738",
+    "declaredSource": {
+      "url": "https://www.aozora.gr.jp/cards/000035/files/301_14912.html",
+      "copiedOn": "2026-11-22",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [],
+  "createdOn": "2026-11-22",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1",
+      "p00002.s1"
+    ],
+    "french": "J'ai vu trois photographies de cet homme.\nLa première est, pour ainsi dire, une photographie de son enfance, prise vers l'âge de dix ans, à ce qu'on peut supposer : l'enfant, entouré d'une foule de femmes (ses sœurs aînées, ses sœurs cadettes, et puis ses cousines, imagine-t-on), se tient au bord d'un étang, dans un jardin, vêtu d'un hakama à larges rayures, la tête penchée d'une trentaine de degrés vers la gauche, et il sourit laidement.",
+    "original": "私は、その男の写真を三葉、見たことがある。\n一葉は、その男の、幼年時代、とでも言うべきであろうか、十歳前後かと推定される頃の写真であって、その子供が大勢の女のひとに取りかこまれ、（それは、その子供の姉たち、妹たち、それから、従姉妹たちかと想像される）庭園の池のほとりに、荒い縞の袴をはいて立ち、首を三十度ほど左に傾け、醜く笑っている写真である。",
+    "length": 442,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00012.s3",
+      "p00015.s1"
+    ],
+    "french": "Si tout cela était vrai, et si j'avais été son ami, j'aurais sans doute voulu, moi aussi, le faire interner.\n— C'est la faute de son père, voyez-vous.\nElle le dit d'un air détaché.\n— Le Yô-chan que nous connaissions était un garçon très franc, plein d'attentions, et s'il n'avait pas bu, non, même quand il buvait… c'était un garçon bon comme le bon Dieu.",
+    "original": "もし、これが全部事実だったら、そうして僕がこのひとの友人だったら、やっぱり脳病院に連れて行きたくなったかも知れない」\n「あのひとのお父さんが悪いのですよ」\n何気なさそうに、そう言った。\n「私たちの知っている葉ちゃんは、とても素直で、よく気がきいて、あれでお酒さえ飲まなければ、いいえ、飲んでも、……神様みたいないい子でした」",
+    "length": 355,
+    "truncated": false
+  }
+}

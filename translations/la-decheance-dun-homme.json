@@ -1,0 +1,57 @@
+{
+  "formatVersion": 1,
+  "bookId": "la-decheance-dun-homme",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "5bbe1d7776dcb9f8029c5cd8ba950873329bbab07c7d330b5e84b62fd6354738",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "私は、その男の写真を三葉、見たことがある。",
+      "translation": "J'ai vu trois photographies de cet homme."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "一葉は、その男の、幼年時代、とでも言うべきであろうか、十歳前後かと推定される頃の写真であって、その子供が大勢の女のひとに取りかこまれ、（それは、その子供の姉たち、妹たち、それから、従姉妹たちかと想像される）庭園の池のほとりに、荒い縞の袴をはいて立ち、首を三十度ほど左に傾け、醜く笑っている写真である。",
+      "translation": "La première est, pour ainsi dire, une photographie de son enfance, prise vers l'âge de dix ans, à ce qu'on peut supposer : l'enfant, entouré d'une foule de femmes (ses sœurs aînées, ses sœurs cadettes, et puis ses cousines, imagine-t-on), se tient au bord d'un étang, dans un jardin, vêtu d'un hakama à larges rayures, la tête penchée d'une trentaine de degrés vers la gauche, et il sourit laidement."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "醜く？",
+      "translation": "Laidement ?"
+    },
+    {
+      "id": "p00002.s3",
+      "original": "けれども、鈍い人たち（つまり、美醜などに関心を持たぬ人たち）は、面白くも何とも無いような顔をして、\n「可愛い坊ちゃんですね」\nといい加減なお世辞を言っても、まんざら空お世辞に聞えないくらいの、謂わば通俗の「可愛らしさ」みたいな影もその子供の笑顔に無いわけではないのだが、しかし、いささかでも、美醜に就いての訓練を経て来たひとなら、ひとめ見てすぐ、\n「なんて、いやな子供だ」\nと頗る不快そうに呟き、毛虫でも払いのける時のような手つきで、その写真をほうり投げるかも知れない。",
+      "translation": "Pourtant, les gens obtus (c'est-à-dire ceux que le beau et le laid laissent indifférents) pourraient, l'air de n'y trouver rien de particulier, lâcher ce compliment de pure forme :\n« Quel joli petit garçon ! »\nsans qu'il sonne tout à fait creux, car le sourire de cet enfant n'est pas sans une ombre de ce « charme » ordinaire ; mais quiconque a tant soit peu exercé son œil au beau et au laid lâcherait aussitôt, au premier regard :\n« Quel enfant déplaisant ! »\nd'un ton profondément dégoûté, et jetterait peut-être la photographie du geste dont on chasse une chenille."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00011.s1",
+      "original": "「いいえ、泣くというより、……だめね、人間も、ああなっては、もう駄目ね」\n「それから十年、とすると、もう亡くなっているかも知れないね。",
+      "translation": "— Non, pas vraiment pleurer… C'est fini, voyez-vous ; un être humain, quand il en arrive là, c'est fini.\n— Dix ans déjà, alors… Il est peut-être mort, à l'heure qu'il est."
+    },
+    {
+      "id": "p00012.s1",
+      "original": "これは、あなたへのお礼のつもりで送ってよこしたのでしょう。",
+      "translation": "Il vous a sans doute envoyé cela en guise de remerciement."
+    },
+    {
+      "id": "p00012.s2",
+      "original": "多少、誇張して書いているようなところもあるけど、しかし、あなたも、相当ひどい被害をこうむったようですね。",
+      "translation": "Il exagère un peu par endroits, mais il semble que vous aussi, vous ayez eu beaucoup à souffrir de lui."
+    },
+    {
+      "id": "p00012.s3",
+      "original": "もし、これが全部事実だったら、そうして僕がこのひとの友人だったら、やっぱり脳病院に連れて行きたくなったかも知れない」\n「あのひとのお父さんが悪いのですよ」\n何気なさそうに、そう言った。",
+      "translation": "Si tout cela était vrai, et si j'avais été son ami, j'aurais sans doute voulu, moi aussi, le faire interner.\n— C'est la faute de son père, voyez-vous.\nElle le dit d'un air détaché."
+    },
+    {
+      "id": "p00015.s1",
+      "original": "「私たちの知っている葉ちゃんは、とても素直で、よく気がきいて、あれでお酒さえ飲まなければ、いいえ、飲んでも、……神様みたいないい子でした」",
+      "translation": "— Le Yô-chan que nous connaissions était un garçon très franc, plein d'attentions, et s'il n'avait pas bu, non, même quand il buvait… c'était un garçon bon comme le bon Dieu."
+    }
+  ]
+}
