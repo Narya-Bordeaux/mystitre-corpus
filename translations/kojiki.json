@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "kojiki",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "06dd604c4cb92010bcf20806c7adfa67bca53fdc9b090cf0803a156642039a8e",
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise de B. H. Chamberlain (1882), à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00003.s1",
+      "original": "The names of the Deities that were born in the Plain of High Heaven when the Heaven and Earth began were the Deity Master-of-the-August-Centre-of-Heaven, next the High-August-Producing-Wondrous Deity, next the Divine-Producing-Wondrous-Deity.",
+      "translation": "Les noms des Divinités qui naquirent dans la Plaine du Haut-Ciel lorsque commencèrent le Ciel et la Terre furent la Divinité Maître-de-l'Auguste-Centre-du-Ciel, puis la Divinité Haute-Auguste-Merveilleuse-Productrice, puis la Divinité Divine-Merveilleuse-Productrice."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "These three Deities were all Deities born alone, and hid their persons.",
+      "translation": "Ces trois Divinités naquirent toutes seules, et cachèrent leur personne."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "The names of the Deities that were born next from a thing that sprouted up like unto a reed-shoot when the earth, young and like unto floating oil, drifted about medusa-like, were the Pleasant-Reed-Shoot-Prince-Elder Deity, next the Heavenly-Eternally-Standing-Deity.",
+      "translation": "Les noms des Divinités qui naquirent ensuite d'une chose qui avait poussé comme une pousse de roseau, tandis que la terre, jeune et semblable à de l'huile flottante, dérivait à la manière d'une méduse, furent la Divinité Prince-Aîné-Plaisante-Pousse-de-Roseau, puis la Divinité Éternellement-Debout-au-Ciel."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "These two Deities were likewise born alone, and hid their persons.",
+      "translation": "Ces deux Divinités naquirent de même toutes seules, et cachèrent leur personne."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s3",
+      "original": "The names of the Deities that were born next from a thing that sprouted up like unto a reed-shoot when the earth, young and like unto floating oil, drifted about medusa-like, were the Pleasant-Reed-Shoot-Prince-Elder Deity, next the Heavenly-Eternally-Standing-Deity.",
+      "translation": "Les noms des Divinités qui naquirent ensuite d'une chose qui avait poussé comme une pousse de roseau, tandis que la terre, jeune et semblable à de l'huile flottante, dérivait à la manière d'une méduse, furent la Divinité Prince-Aîné-Plaisante-Pousse-de-Roseau, puis la Divinité Éternellement-Debout-au-Ciel."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "These two Deities were likewise born alone, and hid their persons.",
+      "translation": "Ces deux Divinités naquirent de même toutes seules, et cachèrent leur personne."
+    },
+    {
+      "id": "p00004.s1",
+      "original": "The five Deities in the above list are separate Heavenly Deities.",
+      "translation": "Les cinq Divinités de la liste ci-dessus sont les Divinités célestes à part."
+    },
+    {
+      "id": "p00006.s1",
+      "original": "The Heavenly Sovereign Hatsuse-be-no-waka-sazaki dwelt at the Palace of Shibakaki at Kurahashi, and ruled the Empire for four years.",
+      "translation": "Le Souverain Céleste Hatsuse-be-no-waka-sazaki demeura au palais de Shibakaki, à Kurahashi, et gouverna l'Empire pendant quatre ans."
+    },
+    {
+      "id": "p00006.s2",
+      "original": "His august mausoleum is on the mound of Kurahashi.",
+      "translation": "Son auguste mausolée est sur le tertre de Kurahashi."
+    },
+    {
+      "id": "p00008.s1",
+      "original": "Her Augustness Toyo-mike-kashiki-ya-hime dwelt at the Palace of Woharida, and ruled the Empire for thirty-seven years.",
+      "translation": "Son Augustesse Toyo-mike-kashiki-ya-hime demeura au palais d'Owarida, et gouverna l'Empire pendant trente-sept ans."
+    },
+    {
+      "id": "p00008.s2",
+      "original": "Her august mausoleum, which had been on the mound of Ohonu, was afterwards removed to the great sepulchre at Shinaga.",
+      "translation": "Son auguste mausolée, qui se trouvait sur le tertre d'Ōno, fut ensuite transféré dans la grande sépulture de Shinaga."
+    }
+  ]
+}

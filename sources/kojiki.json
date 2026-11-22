@@ -1,0 +1,54 @@
+{
+  "formatVersion": 1,
+  "bookId": "kojiki",
+  "title": "Le Kojiki",
+  "host": "en.wikisource.org",
+  "sourceLanguage": "en",
+  "edition": "Kojiki, traduction anglaise de Basil Hall Chamberlain (Transactions of the Asiatic Society of Japan, 1882), en.wikisource ; sections I, CLXXIX et CLXXX seulement (œuvre longue : les deux bouts)",
+  "pages": [
+    {
+      "title": "Kojiki (Chamberlain, 1882)/Section 1",
+      "revisionId": 14722767
+    },
+    {
+      "title": "Kojiki (Chamberlain, 1882)/Section 179",
+      "revisionId": 14724194
+    },
+    {
+      "title": "Kojiki (Chamberlain, 1882)/Section 180",
+      "revisionId": 14724201
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "06dd604c4cb92010bcf20806c7adfa67bca53fdc9b090cf0803a156642039a8e",
+  "bodyStart": {
+    "id": "p00003",
+    "textPrefix": "The names of the Deities that were born in the Plain of High"
+  },
+  "bodyEnd": {
+    "id": "p00008",
+    "textPrefix": "Her Augustness Toyo-mike-kashiki-ya-hime dwelt at the Palace"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en"
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Titre de l'œuvre et de la section I exclus ; « The End. » exclu ; préface du compilateur Ō no Yasumaro exclue (paratexte, même écrit par l'auteur)"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00005",
+      "reason": "Titre de section ajouté par le traducteur (numéro et nom du souverain), pas du texte lu"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00007",
+      "reason": "Titre de section ajouté par le traducteur (numéro et nom du souverain), pas du texte lu"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "formatVersion": 1,
+  "bookId": "kojiki",
+  "title": "Le Kojiki",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "label": "Traduction par nos soins à partir de l'original (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise de B. H. Chamberlain (1882), à relire",
+  "source": {
+    "host": "en.wikisource.org",
+    "edition": "Kojiki, traduction anglaise de Basil Hall Chamberlain (Transactions of the Asiatic Society of Japan, 1882), en.wikisource ; sections I, CLXXIX et CLXXX seulement (œuvre longue : les deux bouts)",
+    "pages": [
+      {
+        "title": "Kojiki (Chamberlain, 1882)/Section 1",
+        "revisionId": 14722767
+      },
+      {
+        "title": "Kojiki (Chamberlain, 1882)/Section 179",
+        "revisionId": 14724194
+      },
+      {
+        "title": "Kojiki (Chamberlain, 1882)/Section 180",
+        "revisionId": 14724201
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "06dd604c4cb92010bcf20806c7adfa67bca53fdc9b090cf0803a156642039a8e"
+  },
+  "titleMasks": [],
+  "textCorrections": [
+    {
+      "kind": "exclude",
+      "paragraphId": "p00005",
+      "reason": "Titre de section ajouté par le traducteur (numéro et nom du souverain), pas du texte lu"
+    },
+    {
+      "kind": "exclude",
+      "paragraphId": "p00007",
+      "reason": "Titre de section ajouté par le traducteur (numéro et nom du souverain), pas du texte lu"
+    }
+  ],
+  "reviewFlags": [
+    "p00005 exclu, SANS doublon ailleurs dans l'œuvre : « Sect. CLXXIX.—Emperor Su-jun. »",
+    "p00007 exclu, SANS doublon ailleurs dans l'œuvre : « Sect. CLXXX.—Empress Sui-ko. »"
+  ],
+  "createdOn": "2026-11-22",
+  "opening": {
+    "sentenceIds": [
+      "p00003.s1",
+      "p00003.s2"
+    ],
+    "french": "Les noms des Divinités qui naquirent dans la Plaine du Haut-Ciel lorsque commencèrent le Ciel et la Terre furent la Divinité Maître-de-l'Auguste-Centre-du-Ciel, puis la Divinité Haute-Auguste-Merveilleuse-Productrice, puis la Divinité Divine-Merveilleuse-Productrice. Ces trois Divinités naquirent toutes seules, et cachèrent leur personne.",
+    "original": "The names of the Deities that were born in the Plain of High Heaven when the Heaven and Earth began were the Deity Master-of-the-August-Centre-of-Heaven, next the High-August-Producing-Wondrous Deity, next the Divine-Producing-Wondrous-Deity. These three Deities were all Deities born alone, and hid their persons.",
+    "length": 340,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00006.s1",
+      "p00006.s2",
+      "p00008.s1",
+      "p00008.s2"
+    ],
+    "french": "Le Souverain Céleste Hatsuse-be-no-waka-sazaki demeura au palais de Shibakaki, à Kurahashi, et gouverna l'Empire pendant quatre ans. Son auguste mausolée est sur le tertre de Kurahashi.\nSon Augustesse Toyo-mike-kashiki-ya-hime demeura au palais d'Owarida, et gouverna l'Empire pendant trente-sept ans. Son auguste mausolée, qui se trouvait sur le tertre d'Ōno, fut ensuite transféré dans la grande sépulture de Shinaga.",
+    "original": "The Heavenly Sovereign Hatsuse-be-no-waka-sazaki dwelt at the Palace of Shibakaki at Kurahashi, and ruled the Empire for four years. His august mausoleum is on the mound of Kurahashi.\nHer Augustness Toyo-mike-kashiki-ya-hime dwelt at the Palace of Woharida, and ruled the Empire for thirty-seven years. Her august mausoleum, which had been on the mound of Ohonu, was afterwards removed to the great sepulchre at Shinaga.",
+    "length": 419,
+    "truncated": false
+  }
+}
