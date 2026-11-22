@@ -1,0 +1,72 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dit-des-heike",
+  "sourceLanguage": "ja",
+  "cleanTextSha256": "5cbf497694b0ffca4badb2953510394123562f0a1067cd0ce854c14cc6fbfab1",
+  "translatedBy": "Claude (agent), traduction sur l'original, à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "祇園精舎の鐘の聲、諸行無常の響あり。",
+      "translation": "Le son de la cloche du monastère de Gion porte l'écho de l'impermanence de toutes choses."
+    },
+    {
+      "id": "p00001.s2",
+      "original": "沙羅雙樹の花の色、盛者必衰の理を顯す。",
+      "translation": "La couleur des fleurs des arbres sāla jumeaux révèle la loi qui veut que tout ce qui prospère décline."
+    },
+    {
+      "id": "p00001.s3",
+      "original": "驕れる人も久しからず、ただ春の夜の夢のごとし。",
+      "translation": "Les orgueilleux ne durent pas : ils ne sont qu'un songe d'une nuit de printemps."
+    },
+    {
+      "id": "p00001.s4",
+      "original": "猛き者も遂にはほろびぬ、偏に風の前の塵に同じ。",
+      "translation": "Les puissants eux-mêmes finissent par périr, pareils à la poussière devant le vent."
+    },
+    {
+      "id": "p00001.s5",
+      "original": "遠く異朝をとぶらへば、秦の趙高、漢の王莽、梁の周伊、唐の祿山、是等は皆舊主先皇の政ごとにもしたがはず、樂を極め、諫をも思入れず、天下の亂れん事をさとらずして、民間の憂ふる所をしらざりしかば、久しからずして亡じにし者共なり。",
+      "translation": "Si l'on s'enquiert des pays lointains, Zhao Gao des Qin, Wang Mang des Han, Zhou Yi des Liang, An Lushan des Tang, tous ces hommes, pour n'avoir pas suivi la conduite des anciens souverains et des empereurs passés, pour s'être livrés aux plaisirs sans écouter les remontrances, sans voir venir le désordre de l'empire ni connaître les souffrances du peuple, ne tardèrent pas à périr."
+    },
+    {
+      "id": "p00001.s6",
+      "original": "近く本朝をうかがふに、承平の將門、天慶の純友、康和の義親、平治の信賴、是等は猛き心も驕れる事も、みなとりどりにこそありしか。",
+      "translation": "Si l'on considère, plus près, notre propre pays, Masakado de l'ère Shōhei, Sumitomo de l'ère Tengyō, Yoshichika de l'ère Kōwa, Nobuyori de l'ère Heiji furent tous, chacun à sa manière, puissants de cœur et orgueilleux."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00003.s1",
+      "original": "かくて女院はむなしう年月を送らせ給ふ程に、例ならぬ御心ち出來させたまひてうちふさせ給ひしが、日來より覺しめし設けたる御事なれば、佛の御手の五色のいとをひかへつつ、南無西方極樂世界の教主彌陀如來、本願あやまたず淨土へみちびきたまへとて御念佛ありしかば、大納言佐局、阿波内侍、左右にさぶらひて、今を限りの御名殘をしさに聲聲にをめきさけび給ひけり。",
+      "translation": "Ainsi l'ancienne impératrice laissait passer vainement les mois et les années, lorsqu'elle tomba malade et dut s'aliter ; comme elle s'y était préparée de longue date, elle tint les cordons de cinq couleurs attachés à la main du Bouddha et, disant : « Ô Amida, maître du Paradis de l'Ouest, fidèle à ton vœu originel, conduis-moi en Terre pure », elle invoqua le nom du Bouddha ; à sa droite et à sa gauche, la dame Dainagon no Suke et Awa no Naishi, dans le regret de cet ultime adieu, poussaient des cris et des sanglots."
+    },
+    {
+      "id": "p00003.s2",
+      "original": "御念佛の聲やうやうよわらせましましければ、西に紫雲たなびき、異香室に滿て、音樂空にきこゆ。",
+      "translation": "Comme la voix qui invoquait le Bouddha s'affaiblissait peu à peu, des nuées violettes s'étirèrent à l'ouest, un parfum merveilleux emplit la chambre et une musique se fit entendre dans le ciel."
+    },
+    {
+      "id": "p00003.s3",
+      "original": "かぎりある御事なれば、建久二年二月中旬に一期遂にをはらせたまひぬ。",
+      "translation": "Toute vie ayant son terme, à la mi-deuxième lune de la deuxième année de Kenkyū, elle acheva enfin son existence."
+    },
+    {
+      "id": "p00003.s4",
+      "original": "后の宮の御位より片時もはなれまゐらせずして候はれしかば、別路の御時もやる方なくぞ思はれける。",
+      "translation": "Ses dames, qui depuis qu'elle était impératrice ne l'avaient pas quittée un instant, furent inconsolables de cette séparation."
+    },
+    {
+      "id": "p00003.s5",
+      "original": "此女房達はむかしの草のゆかりもみなかれはてて、よるかたもなき身なれども、をりをりの御佛事いとなみ給ふぞあはれなる。",
+      "translation": "Bien que ces dames, toutes les attaches d'autrefois s'étant flétries, n'eussent plus personne sur qui s'appuyer, il était touchant de les voir célébrer de temps à autre les offices pour leur maîtresse."
+    },
+    {
+      "id": "p00003.s6",
+      "original": "遂には龍女が正覺の跡を逐ひ、韋提希夫人のごとくにみな往生の素懷をとげけるとぞうけたまはる。",
+      "translation": "On rapporte qu'à la fin, suivant les traces de la fille du Roi-Dragon parvenue à l'Éveil, et à l'exemple de la reine Vaidehī, elles accomplirent toutes leur vœu de renaître en Terre pure."
+    }
+  ]
+}

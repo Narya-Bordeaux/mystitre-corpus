@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "bookId": "le-dit-des-heike",
+  "title": "Le Dit des Heike",
+  "host": "declared",
+  "sourceLanguage": "ja",
+  "edition": "Heike monogatari (平家物語), 2 vol., 1926 (Internet Archive : Yosano Tekkan ; préface de Yamada Yoshio), numérisation de l'université de Toronto ; début du livre I « Gion shōja » (vol. I, p. 5) et fin du livre de l'Initiation, « Ōjō » (vol. II, p. 291-292), recopiés par l'agent depuis le PDF, avec l'accord de l'utilisateur ; préface, intertitres, furigana, variantes de l'éditeur en marge et lectures entre crochets (［ヨシチカ］, ［典侍］) non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "5cbf497694b0ffca4badb2953510394123562f0a1067cd0ce854c14cc6fbfab1",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "祇園精舎の鐘の聲、諸行無常の響あり。沙羅雙樹の花の色、盛者必衰の理を顯す。驕れる人も久しからず、ただ春の夜の夢のごとし。"
+  },
+  "bodyEnd": {
+    "id": "p00003",
+    "textPrefix": "かくて女院はむなしう年月を送らせ給ふ程に、例ならぬ御心ち出來させたまひてうちふさせ給ひしが、日來より覺しめし設けたる御事"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "ja"
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Ouverture du livre I et fin du livre de l'Initiation (灌頂巻), dernier livre"
+  ],
+  "titleMasks": [],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://archive.org/details/heikemonogatari01yosauoft",
+    "copiedOn": "2026-11-22",
+    "declaredBy": "utilisateur",
+    "sectionUrls": {
+      "fin": "https://archive.org/details/heikemonogatari02yosauoft"
+    }
+  }
+}
