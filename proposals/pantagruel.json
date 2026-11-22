@@ -25,7 +25,8 @@
     "cleanTextSha256": "4c7c5c175b975ffcce15f2370893a03422f156313dd19b7b4e6af021034edecb"
   },
   "titleMasks": [
-    "pantagruel"
+    "pantagruel",
+    "pantagruélistes"
   ],
   "textCorrections": [
     {
@@ -63,7 +64,7 @@
       "p00006.s5",
       "p00006.s6"
     ],
-    "french": "Ce faisant, ils ressemblent aux gueux de village qui fouillent et grattent la merde des petits enfants à la saison des cerises et des guignes pour en trouver les noyaux et les vendre aux droguistes qui font l'huile de Maguelet. Fuyez-les, abhorrez-les et haïssez-les autant que je le fais, et vous vous en trouverez bien, sur ma foi. Et si vous désirez être de bons pantagruélistes (c'est-à-dire vivre en paix, joie, santé, faisant toujours grande chère), ne vous fiez jamais aux gens qui regardent par un trou.",
+    "french": "Ce faisant, ils ressemblent aux gueux de village qui fouillent et grattent la merde des petits enfants à la saison des cerises et des guignes pour en trouver les noyaux et les vendre aux droguistes qui font l'huile de Maguelet. Fuyez-les, abhorrez-les et haïssez-les autant que je le fais, et vous vous en trouverez bien, sur ma foi. Et si vous désirez être de bons [TITRE] (c'est-à-dire vivre en paix, joie, santé, faisant toujours grande chère), ne vous fiez jamais aux gens qui regardent par un trou.",
     "original": "Ce que faisans semblent es coquins de village qui fougent & echarbottent la merde des petitz enfans en la saison des cerises & guignes pour trouuer les noyaulx, & iceulx vendre es drogueurs qui font l’huille de Maguelet. Iceulx fuyez, abhorrissez, et haissez autant que je foys et vous en trouverez bien sur ma foy. Et si desirez estre bons pantagruelistes (c’est à dire vivre en paix, joye, santé, faisans tousjours grande chere), ne vous fiez jamais en gens qui regardent par un partuys.",
     "length": 511,
     "truncated": false

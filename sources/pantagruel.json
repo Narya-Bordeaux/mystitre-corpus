@@ -34,7 +34,8 @@
     "Exclus : intertitres, et la formule finale d'édition « Fin des Cronicques de Pantagruel… » (p00007), qui est une mention de fin et donnerait le titre. Le corps s'ouvre au prologue de l'auteur et se clôt sur la conclusion du livre (chap. XXXIIII)."
   ],
   "titleMasks": [
-    "pantagruel"
+    "pantagruel",
+    "pantagruélistes"
   ],
   "readingOptions": [],
   "textCorrections": [
