@@ -1,0 +1,67 @@
+{
+  "formatVersion": 1,
+  "bookId": "double-suicide-a-amijima",
+  "sourceLanguage": "en",
+  "cleanTextSha256": "ab61d02f68d5dfe7d3bea56be667dc76349af74d6c93968cce0c65a5194cc240",
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise d'A. Miyamori (1926), à relire",
+  "speakers": {},
+  "opening": [
+    {
+      "id": "p00001.s1",
+      "original": "So long as it remains true that \"the ocean cannot be emptied with a tiny shijimi shell\" so long may we say love will exert its dominion over the human heart; and well may Sonézaki-Shinchi, the quarter of light-o'-loves in Osaka, be called an ocean of love, and it does not seem mere chance that the river running by the quarter is called Shijimi.",
+      "translation": "Tant qu'il restera vrai qu'« on ne vide pas l'océan avec une petite coquille de shijimi », on pourra dire que l'amour régnera sur le cœur des hommes ; et c'est à bon droit qu'on peut appeler océan d'amour Sonezaki-Shinchi, le quartier des belles de nuit d'Osaka, et ce n'est sans doute pas un hasard si la rivière qui le borde s'appelle la Shijimi."
+    },
+    {
+      "id": "p00002.s1",
+      "original": "The early winter's evening at Sonézaki-Shinchi glimmered, softly illumined by the inscribed lanterns of the tea-houses.",
+      "translation": "Le soir d'un début d'hiver luisait sur Sonezaki-Shinchi, doucement éclairé par les lanternes à inscriptions des maisons de thé."
+    },
+    {
+      "id": "p00002.s2",
+      "original": "Through the thronged streets young rakes were strolling, singing folk-songs as they went, reciting fragments of puppet dramas or imitating famous actors at their dialogues.",
+      "translation": "Dans les rues bondées flânaient de jeunes viveurs qui chantaient des chansons populaires, déclamaient des fragments de pièces pour marionnettes ou imitaient les répliques d'acteurs célèbres."
+    },
+    {
+      "id": "p00002.s3",
+      "original": "From the upper room of many a tea-house floated the gay plucking of samisen, and so witching was the music as to entice certain of the frequenters of the district to visit the courtesans.",
+      "translation": "De l'étage de mainte maison de thé s'échappaient les notes joyeuses des shamisen, et cette musique était si ensorcelante qu'elle attirait chez les courtisanes certains habitués du quartier."
+    }
+  ],
+  "closing": [
+    {
+      "id": "p00005.s9",
+      "original": "Then he brushed away his tears, picked up the girdle, set his head within its loop and, upon the wind-borne sound of that passage in the scripture which runs \"Uen muen naishi hōkai byōdō riyaku\" (those related or unrelated to us—all in the universe shall alike be saved), he said, \"May we two come to rebirth together within the lotus.",
+      "translation": "Puis il essuya ses larmes, ramassa la ceinture, passa la tête dans le nœud et, tandis que le vent portait le son du passage des écritures qui dit « Uen muen naishi hōkai byōdō riyaku » (ceux qui nous sont liés comme ceux qui nous sont étrangers, tous dans l'univers seront également sauvés), il dit : « Puissions-nous renaître ensemble dans le lotus."
+    },
+    {
+      "id": "p00005.s10",
+      "original": "Namu Amida Buddha,\" and hanged himself in the stream.",
+      "translation": "Namu Amida Buddha », et il se pendit au-dessus du courant."
+    },
+    {
+      "id": "p00005.s11",
+      "original": "A few moments' agonies were his and then his soul dissolved even as the morning dew.",
+      "translation": "Quelques instants d'agonie, et son âme se dissipa comme la rosée du matin."
+    },
+    {
+      "id": "p00006.s1",
+      "original": "Fishermen, going out to their work under the dawn, descrying the corpses, cried in consternation, \"Hither!",
+      "translation": "Des pêcheurs qui partaient au travail à l'aube aperçurent les corps et s'écrièrent, consternés : « Par ici !"
+    },
+    {
+      "id": "p00006.s2",
+      "original": "There is death in this place.",
+      "translation": "Il y a des morts ici."
+    },
+    {
+      "id": "p00006.s3",
+      "original": "A double suicide for love!\"",
+      "translation": "Un double suicide d'amour ! »"
+    },
+    {
+      "id": "p00007.s1",
+      "original": "The melancholy news was swift in spreading; many an eye there was filled with tears at telling of \"The Double Suicide at Amijima\".",
+      "translation": "La triste nouvelle se répandit vite ; bien des yeux s'emplirent de larmes au récit du « Double Suicide à Amijima »."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "formatVersion": 1,
+  "bookId": "double-suicide-a-amijima",
+  "title": "Double Suicide à Amijima",
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "relayTranslator": "Asataro Miyamori",
+    "relayTranslationYear": 1926,
+    "label": "Traduction par nos soins d'après la traduction de Asataro Miyamori, 1926 (en)"
+  },
+  "translatedBy": "Claude (agent), traduction sur la traduction anglaise d'A. Miyamori (1926), à relire",
+  "source": {
+    "host": "declared",
+    "edition": "Masterpieces of Chikamatsu, the Japanese Shakespeare, traduction anglaise d'Asataro Miyamori, revue par Robert Nichols (Londres, 1926), Internet Archive ; « The Love Suicide at Amijima », début de l'acte I (p. 223) et fin de la pièce (p. 263), recopiés par l'agent depuis le PDF, avec l'accord de l'utilisateur ; appels de notes et notes non recopiés",
+    "pages": [
+      {
+        "title": "début",
+        "revisionId": 0
+      },
+      {
+        "title": "fin",
+        "revisionId": 0
+      }
+    ],
+    "cleanerVersion": 1,
+    "cleanTextSha256": "ab61d02f68d5dfe7d3bea56be667dc76349af74d6c93968cce0c65a5194cc240",
+    "declaredSource": {
+      "url": "https://archive.org/details/masterpiecesofch0000unse_i1y8",
+      "copiedOn": "2026-11-22",
+      "declaredBy": "utilisateur"
+    }
+  },
+  "titleMasks": [
+    "Double Suicide à Amijima",
+    "Amijima"
+  ],
+  "createdOn": "2026-11-22",
+  "opening": {
+    "sentenceIds": [
+      "p00001.s1"
+    ],
+    "french": "Tant qu'il restera vrai qu'« on ne vide pas l'océan avec une petite coquille de shijimi », on pourra dire que l'amour régnera sur le cœur des hommes ; et c'est à bon droit qu'on peut appeler océan d'amour Sonezaki-Shinchi, le quartier des belles de nuit d'Osaka, et ce n'est sans doute pas un hasard si la rivière qui le borde s'appelle la Shijimi.",
+    "original": "So long as it remains true that \"the ocean cannot be emptied with a tiny shijimi shell\" so long may we say love will exert its dominion over the human heart; and well may Sonézaki-Shinchi, the quarter of light-o'-loves in Osaka, be called an ocean of love, and it does not seem mere chance that the river running by the quarter is called Shijimi.",
+    "length": 348,
+    "truncated": false
+  },
+  "closing": {
+    "sentenceIds": [
+      "p00005.s11",
+      "p00006.s1",
+      "p00006.s2",
+      "p00006.s3",
+      "p00007.s1"
+    ],
+    "french": "Quelques instants d'agonie, et son âme se dissipa comme la rosée du matin.\nDes pêcheurs qui partaient au travail à l'aube aperçurent les corps et s'écrièrent, consternés : « Par ici ! Il y a des morts ici. Un double suicide d'amour ! »\nLa triste nouvelle se répandit vite ; bien des yeux s'emplirent de larmes au récit du « [TITRE] ».",
+    "original": "A few moments' agonies were his and then his soul dissolved even as the morning dew.\nFishermen, going out to their work under the dawn, descrying the corpses, cried in consternation, \"Hither! There is death in this place. A double suicide for love!\"\nThe melancholy news was swift in spreading; many an eye there was filled with tears at telling of \"The Double Suicide at Amijima\".",
+    "length": 351,
+    "truncated": false
+  }
+}

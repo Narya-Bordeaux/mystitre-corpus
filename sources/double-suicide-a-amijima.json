@@ -1,0 +1,48 @@
+{
+  "formatVersion": 1,
+  "bookId": "double-suicide-a-amijima",
+  "title": "Double Suicide à Amijima",
+  "host": "declared",
+  "sourceLanguage": "en",
+  "edition": "Masterpieces of Chikamatsu, the Japanese Shakespeare, traduction anglaise d'Asataro Miyamori, revue par Robert Nichols (Londres, 1926), Internet Archive ; « The Love Suicide at Amijima », début de l'acte I (p. 223) et fin de la pièce (p. 263), recopiés par l'agent depuis le PDF, avec l'accord de l'utilisateur ; appels de notes et notes non recopiés",
+  "pages": [
+    {
+      "title": "début",
+      "revisionId": 0
+    },
+    {
+      "title": "fin",
+      "revisionId": 0
+    }
+  ],
+  "cleanerVersion": 1,
+  "cleanTextSha256": "ab61d02f68d5dfe7d3bea56be667dc76349af74d6c93968cce0c65a5194cc240",
+  "bodyStart": {
+    "id": "p00001",
+    "textPrefix": "So long as it remains true that \"the ocean cannot be emptied"
+  },
+  "bodyEnd": {
+    "id": "p00007",
+    "textPrefix": "The melancholy news was swift in spreading; many an eye ther"
+  },
+  "textOrigin": {
+    "kind": "foreignOriginal",
+    "originalLanguage": "en",
+    "relayTranslator": "Asataro Miyamori",
+    "relayTranslationYear": 1926
+  },
+  "registeredOn": "2026-11-22",
+  "notes": [
+    "Début de l'acte I ; fin de la pièce (titre et numéro d'acte non recopiés)"
+  ],
+  "titleMasks": [
+    "Double Suicide à Amijima",
+    "Amijima"
+  ],
+  "readingOptions": [],
+  "declaredSource": {
+    "url": "https://archive.org/details/masterpiecesofch0000unse_i1y8",
+    "copiedOn": "2026-11-22",
+    "declaredBy": "utilisateur"
+  }
+}
